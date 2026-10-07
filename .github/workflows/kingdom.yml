@@ -1,0 +1,115 @@
+name: KINGDOM
+
+on:
+  schedule:
+    - cron: "7 * * * *"      # collect: every hour
+    - cron: "37 */4 * * *"   # threads: every 4 hours (KST 1,5,9,13,17,21)
+    - cron: "10 0 * * *"     # report: KST 09:10
+    - cron: "0 18 * * 0"     # token refresh: weekly
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "task"
+        type: choice
+        options: [collect, threads, report, link, token-refresh]
+        default: collect
+      urls:
+        description: "link: coupang urls"
+        required: false
+
+permissions:
+  contents: write
+
+env:
+  COUPANG_ACCESS_KEY: ${{ secrets.COUPANG_ACCESS_KEY }}
+  COUPANG_SECRET_KEY: ${{ secrets.COUPANG_SECRET_KEY }}
+  PARTNERS_SUB_ID: ${{ vars.PARTNERS_SUB_ID }}
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+jobs:
+  collect:
+    if: github.event.schedule == '7 * * * *' || inputs.task == 'collect'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency: repo-write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python collect.py
+        env:
+          SEARCH_KEYWORDS: ${{ vars.SEARCH_KEYWORDS }}
+          BEST_CATEGORIES: ${{ vars.BEST_CATEGORIES }}
+      - run: |
+          git config user.name "kingdom-bot"
+          git config user.email "kingdom-bot@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet && exit 0
+          git commit -m "update products"
+          git pull --rebase
+          git push
+
+  threads:
+    if: github.event.schedule == '37 */4 * * *' || inputs.task == 'threads'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency: repo-write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python threads.py
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+      - run: |
+          git config user.name "kingdom-bot"
+          git config user.email "kingdom-bot@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet && exit 0
+          git commit -m "threads posted"
+          git pull --rebase
+          git push
+
+  report:
+    if: github.event.schedule == '10 0 * * *' || inputs.task == 'report'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python report.py
+
+  link:
+    if: inputs.task == 'link'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python deeplink.py
+        env:
+          INPUT_URLS: ${{ inputs.urls }}
+
+  token-refresh:
+    if: github.event.schedule == '0 18 * * 0' || inputs.task == 'token-refresh'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - env:
+          OLD_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$OLD_TOKEN" ]; then echo "THREADS_ACCESS_TOKEN missing"; exit 1; fi
+          RES=$(curl -sS "https://graph.threads.net/refresh_access_token?grant_type=th_refresh_token&access_token=$OLD_TOKEN")
+          NEW=$(echo "$RES" | python3 -c "import sys,json; print(json.load(sys.stdin).get('access_token',''))")
+          if [ -z "$NEW" ]; then echo "refresh failed: $RES" | sed "s/$OLD_TOKEN/***/g"; exit 1; fi
+          echo "::add-mask::$NEW"
+          if [ -z "$GH_TOKEN" ]; then echo "GH_PAT missing - new token not saved"; exit 1; fi
+          gh secret set THREADS_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" --body "$NEW"
