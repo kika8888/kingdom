@@ -75,6 +75,7 @@ PAGE = """<!doctype html>
 <html lang="ko"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>KINGDOM · 오늘의 신기템 & 특가</title>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3166823959561954" crossorigin="anonymous"></script>
 <meta name="description" content="쿠팡에서 지금 뜨는 신기템, 골드박스 특가, 분야별 베스트를 매시간 모아 보여 드려요.">
 <style>
 :root{--bg:#f5f4f0;--card:#fff;--ink:#17182b;--muted:#5d6072;--line:#e4e2da;--navy:#1c1f4a;--gold:#c9a227;--gold-ink:#7a5f0c;--sale:#d1342b;--rocket:#1b6fd6;--chip:#ecebe5}
@@ -112,6 +113,7 @@ h2{font-size:1.15rem;margin:30px 0 12px;scroll-margin-top:140px}h2 small{color:v
 .admin-only{display:none;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:6px;padding:6px;font:inherit;font-size:.8rem;cursor:pointer}
 body.admin .admin-only{display:block}
 .empty{color:var(--muted);text-align:center;padding:40px 0}
+.about{max-width:1120px;margin:0 auto;padding:10px 16px 20px;color:var(--ink)}.about p,.about li{max-width:70ch;color:var(--muted)}.about ul{padding-left:1.2em}
 .cpsearch{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px 14px 10px;margin-top:18px}.cpsearch h2{margin:12px 0 8px}.cpsearch iframe{display:block;max-width:100%}
 footer{max-width:1120px;margin:0 auto;padding:24px 16px 40px;color:var(--muted);font-size:.8rem;border-top:1px solid var(--line)}
 </style></head><body>
@@ -137,6 +139,12 @@ footer{max-width:1120px;margin:0 auto;padding:24px 16px 40px;color:var(--muted);
 {sections}
 <p class="empty" id="none" hidden>KINGDOM 추천 상품에는 없어요. 위의 '🔎 쿠팡 전체에서 찾기'에서 검색해 보세요.</p>
 </main>
+<section class="about"><h2>KINGDOM은 이런 곳이에요</h2>
+<p>쿠팡에 올라오는 수많은 상품 중 <b>“이런 게 있었어?”</b> 싶은 아이디어 상품과 그날의 특가를 골라 한곳에 모아 둔 페이지예요. 매시간 쿠팡 파트너스 정보를 받아 자동으로 새로 고쳐요.</p>
+<ul><li><b>🔥 신기템</b>: 수납·청소·차량·캠핑처럼 생활을 편하게 해 주는 아이디어 상품을 주제별로 모았어요.</li>
+<li><b>⏰ 골드박스</b>: 쿠팡이 하루 동안만 할인하는 특가 상품이에요. 다음 날이면 바뀌어요.</li>
+<li><b>🏆 분야별 베스트</b>: 쿠팡 분야별 판매 인기 순위 상위 상품이에요.</li></ul>
+<p>가격과 할인, 배송 조건은 쿠팡에서 수시로 바뀌니 구매 전에 쿠팡 화면에서 꼭 확인해 주세요.</p></section>
 <footer>마지막 갱신 {updated} · 매시간 자동 업데이트<br>가격, 할인, 배송 조건은 쿠팡에서 바뀔 수 있으니 구매 전에 쿠팡 화면에서 확인해 주세요.<br>이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</footer>
 <script>
 (function(){
