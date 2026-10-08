@@ -49,7 +49,7 @@ def card(item, tag=""):
     <a class="name" href="{url}" {rel}>{e('productName')}</a>
     <div class="price">{rate_html}<span>{won(item.get('productPrice'))}</span>{orig_html}</div>
     <div class="badges">{''.join(badges)}</div>
-    <a class="buy" href="{url}" {rel}>쿠팡에서 구매하기</a>
+    <a class="buy" href="{url}" {rel}>구매하기</a>
     <button type="button" class="admin-only" data-link="{url}" data-name="{e('productName')}">문구+링크 복사</button>
   </div>
 </li>"""
