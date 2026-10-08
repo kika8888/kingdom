@@ -196,7 +196,8 @@ def main():
 
     page = PAGE.replace("CROWN", CROWN).replace("{chips}", chips)
     (OUT / "index.html").write_text(page.replace("{updated}", data["updated"]).replace("{sections}", sections),
-                                    encoding="utf-8")    (OUT / "products.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+                                    encoding="utf-8")
+    (OUT / "products.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
     p.summary(f"## 수집 완료 {data['updated']}\n\n- 골드박스 {len(data['goldbox'])}개\n" +
               "".join(f"- '{k}' {len(v)}개\n" for k, v in data["keywords"].items()) +
