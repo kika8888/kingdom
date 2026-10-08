@@ -239,7 +239,9 @@ def main():
     for cid in cats:
         name = p.BEST_CATEGORIES.get(cid, cid)
         try:
-            data["best"][name] = p.best(cid)
+            items = p.best(cid)
+            if items:   # 걸러 내고 남은 게 없으면 분야째 뺀다
+                data["best"][name] = items
         except Exception as e:
             errors.append(f"베스트 '{name}': {e}")
 

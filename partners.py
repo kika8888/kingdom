@@ -83,10 +83,23 @@ BEST_CATEGORIES = {
 }
 
 
+# 쿠팡 베스트는 다른 분야 상품을 섞어 준다 (남성패션에 생수, 헬스/건강식품에 애호박 등).
+# 상품마다 붙어 오는 categoryName 이 이 목록에 있는 것만 남긴다.
+BEST_MATCH = {
+    "1001": {"패션의류", "패션잡화"}, "1002": {"패션의류", "패션잡화"}, "1010": {"뷰티"},
+    "1011": {"출산/유아"}, "1012": {"식품", "로켓프레시"}, "1013": {"주방용품"}, "1014": {"생활용품"},
+    "1015": {"가구/홈인테리어"}, "1016": {"가전디지털"}, "1017": {"스포츠/레저용품"},
+    "1018": {"자동차용품"}, "1020": {"완구/취미"}, "1021": {"문구/사무용품"},
+    "1024": {"헬스/건강식품"}, "1029": {"반려/애완용품"},
+}
+
+
 def best(category_id, limit=20):
-    """카테고리 베스트. 쿠팡이 매긴 판매 인기 순위(rank)가 함께 온다."""
-    return call("GET", f"/products/bestcategories/{category_id}",
-                {"limit": limit, "subId": sub_id(), "imageSize": "512x512"}) or []
+    """카테고리 베스트. 쿠팡이 매긴 판매 인기 순위(rank)가 함께 온다. 분야가 다른 상품은 뺀다."""
+    items = call("GET", f"/products/bestcategories/{category_id}",
+                 {"limit": limit, "subId": sub_id(), "imageSize": "512x512"}) or []
+    match = BEST_MATCH.get(str(category_id))
+    return [i for i in items if i.get("categoryName") in match] if match else items
 
 
 def search(keyword, limit=10):
