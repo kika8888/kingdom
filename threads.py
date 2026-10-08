@@ -22,6 +22,7 @@ import partners as p
 ROOT = Path(__file__).parent
 PRODUCTS = ROOT / "docs" / "products.json"
 POSTED = ROOT / "state" / "posted.json"
+PICKS = ROOT / "picks.txt"   # 직접 고른 상품 (1순위)
 API = "https://graph.threads.net/v1.0"
 NOTICE = "이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
 KEEP_DAYS = 7          # 이 기간 안에 올린 상품은 다시 고르지 않는다
@@ -97,7 +98,9 @@ def compose(item, source):
     rank = item.get("rank")
 
     # 본문 1) 후킹 한 줄
-    if source == "goldbox":
+    if source == "manual":
+        hook = item.get("memo") or random.choice(GENERIC_HOOKS)
+    elif source == "goldbox":
         hook = goldbox_hook(rate)
     else:
         hook = random.choice(HOOKS.get(source, GENERIC_HOOKS))
@@ -110,6 +113,8 @@ def compose(item, source):
         facts.append(f"게다가 지금 {rate}% 할인 중")
     if item.get("isRocket"):
         facts.append("로켓배송 상품이라 빨리 받아볼 수 있음")
+    if source == "manual":
+        facts.append("직접 찾은 신기템 공유함")
     if not facts:
         facts.append("사진 보면 뭔지 궁금해질걸")
 
@@ -152,8 +157,8 @@ def rank_of(item):
 def pick(posted):
     """잘 팔리는 상품부터 고른다. 파트너스 API 에는 매출 숫자가 없어서 아래 순서로 대신한다.
        1. 내 링크로 최근 30일 안에 실제 주문된 상품
-       2. 카테고리 베스트 상위 10위 (쿠팡 판매 인기 순위)
-       3. 관심 키워드 검색 상위 5위
+       2. 희귀템·관심 키워드 검색 상위 5위
+       3. 카테고리 베스트 상위 10위 (쿠팡 판매 인기 순위)
        4. 골드박스
     """
     try:
@@ -174,8 +179,8 @@ def pick(posted):
     kw_names = set(data.get("keywords", {}))
     tiers = [
         [x for x in fresh if str(x[0].get("productId")) in sold],
-        [x for x in fresh if x[1] in best_names and rank_of(x[0]) <= 10],
         [x for x in fresh if x[1] in kw_names and rank_of(x[0]) <= 5],
+        [x for x in fresh if x[1] in best_names and rank_of(x[0]) <= 10],
         [x for x in fresh if x[1] == "goldbox"],
         fresh,
     ]
@@ -183,6 +188,28 @@ def pick(posted):
         if tier:
             tier.sort(key=lambda x: rank_of(x[0]))
             return random.choice(tier[:5])  # 상위 몇 개 안에서 골라 같은 분야만 반복되지 않게
+    return None, None
+
+
+def pick_manual(posted):
+    """picks.txt 에 직접 넣은 쿠팡 주소 중 아직 안 올린 첫 번째. (주소 | 첫 줄 문구)"""
+    try:
+        lines = PICKS.read_text(encoding="utf-8").splitlines()
+    except FileNotFoundError:
+        return None, None
+    seen = {str(d.get("id")) for d in posted}
+    for line in lines:
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        url, _, memo = (s.strip() for s in line.partition("|"))
+        if url.startswith("http") and url not in seen:
+            links = p.deeplink([url])
+            short = links[0].get("shortenUrl") if links else ""
+            if not short:
+                print("파트너스 링크를 만들지 못한 주소(건너뜀):", url)
+                continue
+            return {"productId": url, "productUrl": short, "productName": "", "productImage": "", "memo": memo}, "manual"
     return None, None
 
 
@@ -208,7 +235,9 @@ def publish(text, image, reply_text):
 
 def main():
     posted = load_posted()
-    item, source = pick(posted)
+    item, source = pick_manual(posted)
+    if not item:
+        item, source = pick(posted)
     if not item:
         p.summary("올릴 새 상품이 없습니다. 다음 수집 뒤에 다시 시도합니다.")
         return

@@ -16,6 +16,10 @@ import partners as p
 
 OUT = Path(__file__).parent / "docs"
 MAX_KEYWORDS = 3
+# SEARCH_KEYWORDS 를 비워 두면 쓰는 희귀템(신기템) 키워드. 매시간 3개씩 돌아가며 검색한다.
+WEIRD_KEYWORDS = ["신기한 아이디어 상품", "차량용 신기템", "주방 아이디어 용품", "자취 꿀템", "캠핑 신기템",
+                  "욕실 정리 아이디어", "청소 꿀템", "반려동물 신기템", "책상 정리 아이디어", "다이소 대체 꿀템",
+                  "냉장고 정리 아이디어", "육아 아이디어 용품", "낚시 신기템", "세탁 꿀템", "수납 아이디어"]
 
 
 def won(v):
@@ -110,8 +114,9 @@ def main():
         except Exception as e:
             errors.append(f"베스트 '{name}': {e}")
 
-    keywords = [k.strip() for k in os.environ.get("SEARCH_KEYWORDS", "").split(",") if k.strip()]
-    for kw in keywords[:MAX_KEYWORDS]:
+    keywords = [k.strip() for k in os.environ.get("SEARCH_KEYWORDS", "").split(",") if k.strip()] or WEIRD_KEYWORDS
+    start = (p.now_kst().hour * MAX_KEYWORDS) % len(keywords)   # 시간마다 다른 키워드 3개
+    for kw in (keywords * 2)[start:start + min(MAX_KEYWORDS, len(keywords))]:
         try:
             data["keywords"][kw] = p.search(kw)
         except Exception as e:
