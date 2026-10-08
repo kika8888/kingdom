@@ -29,67 +29,128 @@ def won(v):
         return ""
 
 
-def card(item):
+def card(item, tag=""):
     e = lambda k: html.escape(str(item.get(k) or ""), quote=True)
+    url = e("productUrl")
+    rel = 'target="_blank" rel="sponsored nofollow noopener"'
     badges = []
     if item.get("isRocket"):
-        badges.append('<span class="b">로켓</span>')
+        badges.append('<span class="b rocket">로켓배송</span>')
     if item.get("isFreeShipping"):
         badges.append('<span class="b">무료배송</span>')
     rate = item.get("discountRate")
-    if rate:
-        badges.append(f'<span class="b sale">{html.escape(str(rate))}%</span>')
-    return f"""<li class="card">
-  <img src="{e('productImage')}" alt="" loading="lazy" width="230" height="230">
+    rate_html = f'<b class="rate">{html.escape(str(rate))}%</b>' if rate else ""
+    orig = item.get("originalPrice")
+    orig_html = f'<s>{won(orig)}</s>' if orig and str(orig) != str(item.get("productPrice")) else ""
+    tag_html = f'<span class="tag">{html.escape(tag)}</span>' if tag else ""
+    return f"""<li class="card" data-name="{e('productName').lower()}">
+  <a class="thumb" href="{url}" {rel}><img src="{e('productImage')}" alt="" loading="lazy" width="512" height="512">{tag_html}</a>
   <div class="info">
-    <a class="name" href="{e('productUrl')}" target="_blank" rel="noopener sponsored">{e('productName')}</a>
-    <div class="price">{won(item.get('productPrice'))}</div>
+    <a class="name" href="{url}" {rel}>{e('productName')}</a>
+    <div class="price">{rate_html}<span>{won(item.get('productPrice'))}</span>{orig_html}</div>
     <div class="badges">{''.join(badges)}</div>
-    <button type="button" data-link="{e('productUrl')}" data-name="{e('productName')}">문구+링크 복사</button>
+    <a class="buy" href="{url}" {rel}>쿠팡에서 구매하기</a>
+    <button type="button" class="admin-only" data-link="{url}" data-name="{e('productName')}">문구+링크 복사</button>
   </div>
 </li>"""
 
 
-def section(title, items):
+def section(title, items, group, sid, tagger=None):
     if not items:
         return ""
-    return (f'<section><h2>{html.escape(title)} <small>{len(items)}개</small></h2>'
-            f'<ul class="grid">{"".join(card(i) for i in items)}</ul></section>')
+    cards = "".join(card(i, tagger(i) if tagger else "") for i in items)
+    return (f'<section class="sec" data-group="{group}" id="{sid}"><h2>{html.escape(title)} <small>{len(items)}개</small></h2>'
+            f'<ul class="grid">{cards}</ul></section>')
 
+
+def rank_tag(item):
+    r = item.get("rank")
+    return f"BEST {r}" if r else ""
+
+
+CROWN = ('<svg viewBox="0 0 32 24" width="34" height="26" aria-hidden="true"><path fill="currentColor" '
+         'd="M2 6l7 6 7-10 7 10 7-6-3 16H5z"/><rect x="5" y="21" width="22" height="3" rx="1" fill="currentColor"/></svg>')
 
 PAGE = """<!doctype html>
 <html lang="ko"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>KINGDOM</title>
+<title>KINGDOM · 오늘의 신기템 & 특가</title>
+<meta name="description" content="쿠팡에서 지금 뜨는 신기템, 골드박스 특가, 분야별 베스트를 매시간 모아 보여 드려요.">
 <style>
-:root{--bg:#f6f7f9;--card:#fff;--ink:#16181d;--muted:#5f6673;--line:#e3e6eb;--accent:#c4302b;--chip:#eef0f3}
-@media (prefers-color-scheme:dark){:root{--bg:#121417;--card:#1b1e23;--ink:#eceef2;--muted:#9aa1ad;--line:#2b2f36;--accent:#ff6b62;--chip:#262a31;color-scheme:dark}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 "Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;padding:0 16px}
-.wrap{max-width:1100px;margin:0 auto;padding-block:28px 60px}
-header{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:baseline;margin-bottom:8px}
-h1{font-size:1.5rem;margin:0}.upd{color:var(--muted);font-size:.9rem}
-.notice{font-size:.85rem;color:var(--muted);background:var(--chip);padding:10px 12px;border-radius:8px;margin:12px 0 24px}
-h2{font-size:1.15rem;margin:28px 0 12px}h2 small{color:var(--muted);font-weight:400;font-size:.85rem}
-.grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:14px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;display:flex;flex-direction:column}
-.card img{width:100%;height:auto;aspect-ratio:1;object-fit:cover;background:var(--chip)}
+:root{--bg:#f5f4f0;--card:#fff;--ink:#17182b;--muted:#5d6072;--line:#e4e2da;--navy:#1c1f4a;--gold:#c9a227;--gold-ink:#7a5f0c;--sale:#d1342b;--rocket:#1b6fd6;--chip:#ecebe5}
+@media (prefers-color-scheme:dark){:root{--bg:#111225;--card:#1a1c33;--ink:#ecebf5;--muted:#a3a5bb;--line:#2b2d4a;--navy:#0b0c1d;--gold:#e0bb45;--gold-ink:#e0bb45;--sale:#ff6a5f;--rocket:#6aa8ff;--chip:#24264a;color-scheme:dark}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 "Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif}
+a{color:inherit}
+.top{background:var(--navy);color:#fff;padding:22px 16px 18px}
+.top .in{max-width:1120px;margin:0 auto;display:flex;flex-direction:column;gap:6px}
+.brand{display:flex;align-items:center;gap:10px;color:var(--gold)}
+.brand b{font-size:1.7rem;letter-spacing:.18em;color:#fff}
+.tagline{color:#c9cbe0;font-size:.95rem;margin:0}
+.notice{background:#2a2d5e;color:#e3e4f2;font-size:.8rem;padding:8px 16px;text-align:center}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 16px}
+.bar .in{max-width:1120px;margin:0 auto;display:flex;flex-direction:column;gap:10px}
+.tabs,.chips{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}
+.tabs button,.chips a{flex:none;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:7px 14px;font:inherit;font-size:.9rem;cursor:pointer;text-decoration:none}
+.tabs button[aria-pressed="true"]{background:var(--navy);color:#fff;border-color:var(--navy)}
+.chips{display:none}.chips.show{display:flex}.chips a{font-size:.8rem;padding:5px 11px}
+#q{width:100%;padding:10px 14px;border:1px solid var(--line);border-radius:10px;font:inherit;background:var(--card);color:var(--ink)}
+main{max-width:1120px;margin:0 auto;padding:8px 16px 60px}
+h2{font-size:1.15rem;margin:30px 0 12px;scroll-margin-top:140px}h2 small{color:var(--muted);font-weight:400;font-size:.85rem}
+.grid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(165px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+.thumb{position:relative;display:block;background:var(--chip)}
+.thumb img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover}
+.tag{position:absolute;left:8px;top:8px;background:var(--gold);color:#1c1f4a;font-size:.72rem;font-weight:800;padding:2px 7px;border-radius:6px}
 .info{padding:10px;display:flex;flex-direction:column;gap:6px;flex:1;min-width:0}
-.name{color:var(--ink);text-decoration:none;font-size:.88rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.price{font-weight:700}.badges{display:flex;flex-wrap:wrap;gap:4px;min-height:20px}
-.b{font-size:.72rem;background:var(--chip);color:var(--muted);padding:1px 6px;border-radius:4px}.b.sale{color:var(--accent)}
-button{margin-top:auto;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:6px;padding:7px;font:inherit;font-size:.85rem;cursor:pointer}
-button:hover,button:focus-visible{border-color:var(--accent);outline:none}
-.empty{color:var(--muted)}
-</style></head><body><div class="wrap">
-<header><h1>KINGDOM</h1><span class="upd">마지막 갱신 {updated} (매시간 자동)</span></header>
-<p class="notice">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. '문구+링크 복사' 버튼을 누르면 이 문구가 링크와 함께 복사됩니다.</p>
-{sections}
+.name{text-decoration:none;font-size:.88rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.6em}
+.price{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px;font-weight:800;font-size:1.05rem}
+.price .rate{color:var(--sale)}.price s{color:var(--muted);font-weight:400;font-size:.8rem}
+.badges{display:flex;flex-wrap:wrap;gap:4px;min-height:20px}
+.b{font-size:.72rem;background:var(--chip);color:var(--muted);padding:1px 6px;border-radius:4px}.b.rocket{color:var(--rocket);font-weight:700}
+.buy{margin-top:auto;display:block;text-align:center;background:var(--sale);color:#fff;text-decoration:none;font-weight:800;border-radius:8px;padding:9px 6px;font-size:.88rem}
+.buy:hover,.buy:focus-visible{filter:brightness(1.08);outline:2px solid var(--gold);outline-offset:1px}
+.admin-only{display:none;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:6px;padding:6px;font:inherit;font-size:.8rem;cursor:pointer}
+body.admin .admin-only{display:block}
+.empty{color:var(--muted);text-align:center;padding:40px 0}
+footer{max-width:1120px;margin:0 auto;padding:24px 16px 40px;color:var(--muted);font-size:.8rem;border-top:1px solid var(--line)}
+</style></head><body>
+<div class="top"><div class="in">
+<div class="brand">CROWN<b>KINGDOM</b></div>
+<p class="tagline">쿠팡에서 지금 뜨는 신기템 · 골드박스 특가 · 분야별 베스트를 매시간 모아요</p>
+</div></div>
+<div class="notice">이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
+<div class="bar"><div class="in">
+<input id="q" type="search" placeholder="상품 이름으로 찾기 (예: 수납, 차량, 물티슈)" autocomplete="off">
+<div class="tabs" role="group" aria-label="보기">
+<button type="button" data-g="all" aria-pressed="true">전체</button>
+<button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
+<button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
+<button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
 </div>
+<div class="chips" id="chips">{chips}</div>
+</div></div>
+<main>
+{sections}
+<p class="empty" id="none" hidden>찾는 상품이 없어요. 다른 단어로 검색해 보세요.</p>
+</main>
+<footer>마지막 갱신 {updated} · 매시간 자동 업데이트<br>가격, 할인, 배송 조건은 쿠팡에서 바뀔 수 있으니 구매 전에 쿠팡 화면에서 확인해 주세요.<br>이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</footer>
 <script>
+(function(){
+if(location.hash==='#admin')document.body.classList.add('admin');
+var g='all',q=document.getElementById('q'),chips=document.getElementById('chips');
+function apply(){var term=q.value.trim().toLowerCase(),any=false;
+document.querySelectorAll('.sec').forEach(function(s){var okG=g==='all'||s.dataset.group===g,n=0;
+s.querySelectorAll('.card').forEach(function(c){var ok=okG&&(!term||c.dataset.name.indexOf(term)>-1);c.hidden=!ok;if(ok)n++});
+s.hidden=n===0;if(n)any=true});
+document.getElementById('none').hidden=any;chips.classList.toggle('show',g==='best'&&!term)}
+document.querySelectorAll('.tabs button').forEach(function(b){b.addEventListener('click',function(){g=b.dataset.g;
+document.querySelectorAll('.tabs button').forEach(function(x){x.setAttribute('aria-pressed',String(x===b))});apply();window.scrollTo({top:0})})});
+q.addEventListener('input',apply);
 document.addEventListener('click',function(e){var b=e.target.closest('button[data-link]');if(!b)return;
 var t=b.textContent;function done(m){b.textContent=m;setTimeout(function(){b.textContent=t},1500)}
 var txt='이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\\n\\n'+b.dataset.name+'\\n'+b.dataset.link;
 navigator.clipboard.writeText(txt).then(function(){done('복사됨')},function(){prompt('아래 내용을 복사하세요',txt)})});
+})();
 </script></body></html>"""
 
 
@@ -122,17 +183,20 @@ def main():
         except Exception as e:
             errors.append(f"검색 '{kw}': {e}")
 
-    sections = section("오늘의 골드박스", data["goldbox"])
+    sections = ""
     for kw, items in data["keywords"].items():
-        sections += section(f"‘{kw}’ 검색 상위", items)
-    for name, items in data["best"].items():
-        sections += section(f"{name} 베스트", items[:10])
+        sections += section(f"🔥 ‘{kw}’ 신기템", items, "weird", f"kw-{len(sections)}")
+    sections += section("⏰ 오늘의 골드박스", data["goldbox"], "goldbox", "goldbox")
+    chips = ""
+    for n, (name, items) in enumerate(data["best"].items()):
+        sections += section(f"🏆 {name} 베스트", items[:10], "best", f"best-{n}", rank_tag)
+        chips += f'<a href="#best-{n}">{html.escape(name)}</a>'
     if not sections:
-        sections = '<p class="empty">아직 모은 상품이 없습니다. Actions 실행 기록을 확인해 주세요.</p>'
+        sections = '<p class="empty">상품을 준비하고 있어요. 잠시 뒤 다시 들러 주세요.</p>'
 
-    (OUT / "index.html").write_text(PAGE.replace("{updated}", data["updated"]).replace("{sections}", sections),
-                                    encoding="utf-8")
-    (OUT / "products.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+    page = PAGE.replace("CROWN", CROWN).replace("{chips}", chips)
+    (OUT / "index.html").write_text(page.replace("{updated}", data["updated"]).replace("{sections}", sections),
+                                    encoding="utf-8")    (OUT / "products.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 
     p.summary(f"## 수집 완료 {data['updated']}\n\n- 골드박스 {len(data['goldbox'])}개\n" +
               "".join(f"- '{k}' {len(v)}개\n" for k, v in data["keywords"].items()) +
