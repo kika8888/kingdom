@@ -71,6 +71,9 @@ HOOKS = {
     "헬스/건강식품": ["건강 챙기기 시작한 분들 이거 알아요?", "부모님 선물 고민이면 이거 보세요", "요즘 다들 이거 챙겨 먹던데"],
     "반려동물용품": ["반려동물 키우는 집이면 이거 보세요", "우리 집 아이한테 이거 있으세요?", "집사들 사이에서 많이 사는 거"],
 }
+LINK_LINES = 2   # 댓글에 같은 링크를 몇 줄 넣을지 (책은 2~3줄)
+REPLY_LINES = ["구매 금액은 변동될 수 있어요 💸 구경만 해도 돼요😆", "실물은 링크에서 확인 👀", "가격은 링크에서 확인 💰",
+               "필요한 분은 저장해 두세요 📌", "궁금한 사람만 눌러보기 👆"]
 GENERIC_HOOKS = ["이게 된다고?", "이거 알아? 나만 몰랐음?", "세상에 신기한 물건 진짜 많네"]
 
 
@@ -112,10 +115,10 @@ def compose(item, source):
 
     body = [hook, "(쿠팡 파트너스 광고)", ""] + facts[:2] + ["", random.choice(["정체는 댓글에 👇", "뭔지는 댓글 확인 👇", "가격이랑 실물은 댓글에 👇"])]
 
-    # 첫 댓글: 대가성 문구 맨 위 → 링크 → 상품 정보
-    reply = [NOTICE, "", f"👉 {item.get('productUrl', '')}", "", name]
-    if price:
-        reply.append(price)
+    # 첫 댓글 (책 7.2·Step 3 형식): 대가성 문구 맨 위 → 링크 여러 줄 → 짧은 한마디.
+    # 링크 카드(미리보기)는 클릭률이 높아 그대로 둔다. 상품명·가격은 카드에 나온다.
+    url = item.get("productUrl", "")
+    reply = [f'"{NOTICE}"'] + [f"👉 {url}"] * LINK_LINES + [random.choice(REPLY_LINES)]
     return "\n".join(body)[:MAX_TEXT], "\n".join(reply)[:MAX_TEXT]
 
 
