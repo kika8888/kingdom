@@ -11,10 +11,13 @@ on:
       task:
         description: "task"
         type: choice
-        options: [collect, threads, report, link, token-refresh]
+        options: [collect, threads, report, link, token-refresh, kakao-setup]
         default: collect
       urls:
         description: "link: coupang urls"
+        required: false
+      code:
+        description: "kakao-setup: code"
         required: false
 
 permissions:
@@ -26,6 +29,9 @@ env:
   PARTNERS_SUB_ID: ${{ vars.PARTNERS_SUB_ID }}
   TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
   TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+  KAKAO_REST_KEY: ${{ secrets.KAKAO_REST_KEY }}
+  KAKAO_CLIENT_SECRET: ${{ secrets.KAKAO_CLIENT_SECRET }}
+  KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
 
 jobs:
   collect:
@@ -83,6 +89,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: python report.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
 
   link:
     if: inputs.task == 'link'
@@ -96,6 +104,21 @@ jobs:
       - run: python deeplink.py
         env:
           INPUT_URLS: ${{ inputs.urls }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+
+  kakao-setup:
+    if: inputs.task == 'kakao-setup'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python kakao_setup.py
+        env:
+          KAKAO_CODE: ${{ inputs.code }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
 
   token-refresh:
     if: github.event.schedule == '0 18 * * 0' || inputs.task == 'token-refresh'
