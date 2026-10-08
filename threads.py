@@ -72,6 +72,8 @@ HOOKS = {
     "헬스/건강식품": ["건강 챙기기 시작한 분들 이거 알아요?", "부모님 선물 고민이면 이거 보세요", "요즘 다들 이거 챙겨 먹던데"],
     "반려동물용품": ["반려동물 키우는 집이면 이거 보세요", "우리 집 아이한테 이거 있으세요?", "집사들 사이에서 많이 사는 거"],
 }
+# 댓글 링크 카드 모양: "coupang" = 쿠팡 로고가 크게 나오는 카드 (책 예시), "product" = 상품 사진 카드
+CARD_STYLE = "coupang"
 LINK_LINES = 2   # 댓글에 같은 링크를 몇 줄 넣을지 (책은 2~3줄)
 REPLY_LINES = ["구매 금액은 변동될 수 있어요 💸 구경만 해도 돼요😆", "실물은 링크에서 확인 👀", "가격은 링크에서 확인 💰",
                "필요한 분은 저장해 두세요 📌", "궁금한 사람만 눌러보기 👆"]
@@ -213,7 +215,36 @@ def pick_manual(posted):
     return None, None
 
 
-def publish(text, image, reply_text):
+def short_link(item):
+    """API 가 주는 긴 추적 링크 대신 책처럼 link.coupang.com/a/xxxx 짧은 링크를 만든다."""
+    pid = item.get("productId")
+    if not pid or str(pid).startswith("http"):
+        return item.get("productUrl", "")
+    page = f"https://www.coupang.com/vp/products/{pid}"
+    try:
+        links = p.deeplink([page])
+        short = links[0].get("shortenUrl") if links else ""
+        return short or item.get("productUrl", "")
+    except Exception as e:
+        print("짧은 링크 실패, 원래 링크 사용:", e)
+        return item.get("productUrl", "")
+
+
+def coupang_card_link(item):
+    """쿠팡 검색 페이지를 파트너스 링크로 만든다. 이 링크로 카드를 띄우면 쿠팡 로고가 크게 나온다."""
+    words = str(item.get("productName", "")).split(",")[0].split()[:4]
+    if not words:
+        return ""
+    page = "https://www.coupang.com/np/search?q=" + urllib.parse.quote(" ".join(words))
+    try:
+        links = p.deeplink([page])
+        return (links[0].get("shortenUrl") if links else "") or ""
+    except Exception as e:
+        print("로고 카드 링크 실패, 상품 카드로 올립니다:", e)
+        return ""
+
+
+def publish(text, image, reply_text, card_url=""):
     """본문(사진 포함)을 올리고, 그 글에 링크 댓글을 단다."""
     container = None
     if image:
@@ -227,7 +258,10 @@ def publish(text, image, reply_text):
     post = threads("/me/threads_publish", {"creation_id": container["id"]})
 
     # 첫 댓글 (threads_manage_replies 권한 필요)
-    reply = threads("/me/threads", {"media_type": "TEXT", "text": reply_text, "reply_to_id": post["id"]})
+    params = {"media_type": "TEXT", "text": reply_text, "reply_to_id": post["id"]}
+    if card_url:
+        params["link_attachment"] = card_url   # 카드만 이 링크로 (본문 링크는 그대로)
+    reply = threads("/me/threads", params)
     time.sleep(10)
     threads("/me/threads_publish", {"creation_id": reply["id"]})
     return post
@@ -238,13 +272,16 @@ def main():
     item, source = pick_manual(posted)
     if not item:
         item, source = pick(posted)
+        if item:
+            item = dict(item, productUrl=short_link(item))
     if not item:
         p.summary("올릴 새 상품이 없습니다. 다음 수집 뒤에 다시 시도합니다.")
         return
 
     text, reply_text = compose(item, source)
     image = item.get("productImage") or ""
-    result = publish(text, image, reply_text)
+    card_url = coupang_card_link(item) if CARD_STYLE == "coupang" else ""
+    result = publish(text, image, reply_text, card_url)
 
     posted.append({"id": str(item.get("productId")), "at": int(time.time()), "post": result.get("id")})
     POSTED.parent.mkdir(exist_ok=True)
