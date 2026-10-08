@@ -7,9 +7,13 @@ docs/index.html 은 GitHub Pages 로 휴대폰에서 열 수 있다.
 SEARCH_KEYWORDS 를 "캠핑의자, 무선청소기" 처럼 쉼표로 넣는다.
 쿠팡 검색 API 는 시간당 호출 수가 제한돼 있어 한 번에 3개까지만 쓴다.
 """
+import email.utils
 import html
 import json
 import os
+import re
+import urllib.request
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import partners as p
@@ -27,6 +31,56 @@ def won(v):
         return f"{int(float(v)):,}원"
     except (TypeError, ValueError):
         return ""
+
+
+NAVER_BLOG_ID = os.environ.get("NAVER_BLOG_ID", "").strip() or "soduwk1209"
+
+
+def parse_rss(xml_bytes, n=6):
+    """네이버 블로그 RSS 에서 제목·요약·대표 사진·날짜만 뽑는다. 글 전체는 옮기지 않는다(중복 문서 방지)."""
+    root = ET.fromstring(xml_bytes)
+    posts = []
+    for it in root.iter("item"):
+        desc = it.findtext("description") or ""
+        img = re.search(r'<img[^>]+src="([^"]+)"', desc)
+        text = html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", desc))).strip()
+        try:
+            d = email.utils.parsedate_to_datetime(it.findtext("pubDate") or "")
+            date = f"{d.month}월 {d.day}일"
+        except (TypeError, ValueError):
+            date = ""
+        posts.append({
+            "title": (it.findtext("title") or "").strip(),
+            "link": (it.findtext("link") or "").split("?")[0],
+            "summary": text[:90],
+            "image": img.group(1) if img else "",
+            "date": date,
+        })
+        if len(posts) >= n:
+            break
+    return posts
+
+
+def naver_posts():
+    req = urllib.request.Request(f"https://rss.blog.naver.com/{NAVER_BLOG_ID}.xml",
+                                 headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=20) as res:
+        return parse_rss(res.read())
+
+
+def post_card(post):
+    e = lambda k: html.escape(str(post.get(k) or ""), quote=True)
+    img = (f'<img src="{e("image")}" alt="" loading="lazy" width="512" height="512" referrerpolicy="no-referrer">'
+           if post.get("image") else "")
+    return f"""<li class="card post" data-name="{e('title').lower()}">
+  <a class="thumb" href="{e('link')}" target="_blank" rel="noopener">{img}</a>
+  <div class="info">
+    <a class="name" href="{e('link')}" target="_blank" rel="noopener">{e('title')}</a>
+    <p class="sum">{e('summary')}</p>
+    <div class="badges"><span class="b">{e('date')}</span></div>
+    <a class="buy more" href="{e('link')}" target="_blank" rel="noopener">글 읽기</a>
+  </div>
+</li>"""
 
 
 def card(item, tag=""):
@@ -113,6 +167,7 @@ h2{font-size:1.15rem;margin:30px 0 12px;scroll-margin-top:140px}h2 small{color:v
 .admin-only{display:none;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:6px;padding:6px;font:inherit;font-size:.8rem;cursor:pointer}
 body.admin .admin-only{display:block}
 .empty{color:var(--muted);text-align:center;padding:40px 0}
+.sum{margin:0;font-size:.8rem;color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.buy.more{background:var(--navy)}
 .about{max-width:1120px;margin:0 auto;padding:10px 16px 20px;color:var(--ink)}.about p,.about li{max-width:70ch;color:var(--muted)}.about ul{padding-left:1.2em}
 .cpsearch{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px 14px 10px;margin-top:18px}.cpsearch h2{margin:12px 0 8px}.cpsearch iframe{display:block;max-width:100%}
 footer{max-width:1120px;margin:0 auto;padding:24px 16px 40px;color:var(--muted);font-size:.8rem;border-top:1px solid var(--line)}
@@ -129,6 +184,7 @@ footer{max-width:1120px;margin:0 auto;padding:24px 16px 40px;color:var(--muted);
 <button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
 <button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
+<button type="button" data-g="blog" aria-pressed="false">📝 블로그</button>
 </div>
 <div class="chips" id="chips">{chips}</div>
 </div></div>
@@ -203,6 +259,14 @@ def main():
     for n, (name, items) in enumerate(data["best"].items()):
         sections += section(f"🏆 {name} 베스트", items[:10], "best", f"best-{n}", rank_tag)
         chips += f'<a href="#best-{n}">{html.escape(name)}</a>'
+    try:
+        posts = naver_posts()
+    except Exception as ex:
+        posts = []
+        errors.append(f"네이버 블로그: {ex}")
+    if posts:
+        sections += (f'<section class="sec" data-group="blog" id="blog"><h2>📝 블로그 최신 글 <small>네이버 블로그</small></h2>'
+                     f'<ul class="grid">{"".join(post_card(x) for x in posts)}</ul></section>')
     if not sections:
         sections = '<p class="empty">상품을 준비하고 있어요. 잠시 뒤 다시 들러 주세요.</p>'
 
