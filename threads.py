@@ -78,6 +78,29 @@ LINK_LINES = 2   # 댓글에 같은 링크를 몇 줄 넣을지 (책은 2~3줄)
 REPLY_LINES = ["구매 금액은 변동될 수 있어요 💸 구경만 해도 돼요😆", "실물은 링크에서 확인 👀", "가격은 링크에서 확인 💰",
                "필요한 분은 저장해 두세요 📌", "궁금한 사람만 눌러보기 👆"]
 GENERIC_HOOKS = ["이게 된다고?", "이거 알아? 나만 몰랐음?", "세상에 신기한 물건 진짜 많네"]
+# 해시태그: 분야/키워드 1개 + 상품명 단어 2개 + 아래에서 채워 5개.
+# 스레드는 첫 번째 해시태그만 주제 태그로 잡으니 분야 태그를 맨 앞에 둔다.
+TAG_COUNT = 5
+TAG_POOL = ["쿠팡추천", "꿀템", "살림템", "신기템", "쿠팡템", "생활꿀팁", "아이디어상품"]
+TAG_SKIP = {"1개", "2개", "3개", "세트", "증정", "랜덤", "무료배송", "로켓배송"}
+
+
+def tag_word(s):
+    return "".join(ch for ch in str(s) if ch.isalnum())
+
+
+def hashtags(item, source):
+    first = {"goldbox": "골드박스", "manual": "신기템"}.get(source, source)
+    words = [tag_word(w) for w in str(item.get("productName", "")).split(",")[0].split()]
+    if len(words) >= 3:
+        words = words[1:]   # 첫 단어는 대개 브랜드
+    words = [w for w in words if len(w) >= 3 and not any(c.isdigit() for c in w) and w not in TAG_SKIP]
+    words.sort(key=len, reverse=True)   # 긴 단어일수록 품목 이름(위생장갑, 유아물티슈)
+    tags = []
+    for t in [tag_word(first)] + words[:2] + random.sample(TAG_POOL, len(TAG_POOL)):
+        if t and t not in tags:
+            tags.append(t)
+    return " ".join("#" + t for t in tags[:TAG_COUNT])
 
 
 def goldbox_hook(rate):
@@ -120,7 +143,9 @@ def compose(item, source):
     if not facts:
         facts.append("사진 보면 뭔지 궁금해질걸")
 
-    body = [hook, "(쿠팡 파트너스 광고)", ""] + facts[:2] + ["", random.choice(["정체는 댓글에 👇", "뭔지는 댓글 확인 👇", "가격이랑 실물은 댓글에 👇"])]
+    # 광고 표시는 지우지 않는다 (공정위 지침·파트너스 약관). 해시태그 사이에 섞으면 인정되지 않아 따로 한 줄.
+    body = [hook, ""] + facts[:2] + ["", random.choice(["정체는 댓글에 👇", "뭔지는 댓글 확인 👇", "가격이랑 실물은 댓글에 👇"]),
+                                     "", hashtags(item, source), "#광고"]
 
     # 첫 댓글 (책 7.2·Step 3 형식): 대가성 문구 맨 위 → 링크 여러 줄 → 짧은 한마디.
     # 링크 카드(미리보기)는 클릭률이 높아 그대로 둔다. 상품명·가격은 카드에 나온다.
