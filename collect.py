@@ -112,6 +112,7 @@ h2{font-size:1.15rem;margin:30px 0 12px;scroll-margin-top:140px}h2 small{color:v
 .admin-only{display:none;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:6px;padding:6px;font:inherit;font-size:.8rem;cursor:pointer}
 body.admin .admin-only{display:block}
 .empty{color:var(--muted);text-align:center;padding:40px 0}
+.cpsearch{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px 14px 10px;margin-top:18px}.cpsearch h2{margin:12px 0 8px}.cpsearch iframe{display:block;max-width:100%}
 footer{max-width:1120px;margin:0 auto;padding:24px 16px 40px;color:var(--muted);font-size:.8rem;border-top:1px solid var(--line)}
 </style></head><body>
 <div class="top"><div class="in">
@@ -130,8 +131,11 @@ footer{max-width:1120px;margin:0 auto;padding:24px 16px 40px;color:var(--muted);
 <div class="chips" id="chips">{chips}</div>
 </div></div>
 <main>
+<section class="cpsearch"><h2>🔎 쿠팡 전체에서 찾기 <small>원하는 상품이 위에 없으면 여기서 검색하세요</small></h2>
+<iframe title="쿠팡 상품 검색" src="https://coupa.ng/cp0DM8" width="100%" height="75" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+</section>
 {sections}
-<p class="empty" id="none" hidden>찾는 상품이 없어요. 다른 단어로 검색해 보세요.</p>
+<p class="empty" id="none" hidden>KINGDOM 추천 상품에는 없어요. 위의 '🔎 쿠팡 전체에서 찾기'에서 검색해 보세요.</p>
 </main>
 <footer>마지막 갱신 {updated} · 매시간 자동 업데이트<br>가격, 할인, 배송 조건은 쿠팡에서 바뀔 수 있으니 구매 전에 쿠팡 화면에서 확인해 주세요.<br>이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</footer>
 <script>
