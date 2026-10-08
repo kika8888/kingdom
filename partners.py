@@ -120,17 +120,82 @@ def report(kind, start, end):
 # ── 알림 / 요약 ──────────────────────────────────────────────
 
 def notify(text):
-    """텔레그램 설정이 있으면 보내고, 없으면 조용히 넘어간다."""
+    """카카오톡(나에게 보내기)·텔레그램 중 설정된 곳으로 보낸다. 없으면 조용히 넘어간다."""
+    sent = False
+    if os.environ.get("KAKAO_REST_KEY", "").strip() and os.environ.get("KAKAO_REFRESH_TOKEN", "").strip():
+        try:
+            kakao_send(text)
+            sent = True
+        except Exception as e:  # 알림 실패로 작업 전체를 실패시키지 않는다
+            print("카카오톡 전송 실패:", e)
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
-    if not token or not chat:
-        print("(텔레그램 미설정 - 알림 생략)")
-        return
-    body = urllib.parse.urlencode({"chat_id": chat, "text": text, "disable_web_page_preview": "true"}).encode()
+    if token and chat:
+        body = urllib.parse.urlencode({"chat_id": chat, "text": text, "disable_web_page_preview": "true"}).encode()
+        try:
+            urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=body, timeout=20)
+            sent = True
+        except Exception as e:
+            print("텔레그램 전송 실패:", e)
+    if not sent:
+        print("(카카오톡·텔레그램 미설정 또는 실패 - 알림 생략)")
+
+
+# ── 카카오톡 나에게 보내기 ─────────────────────────────────────
+# Secrets: KAKAO_REST_KEY (앱 REST API 키), KAKAO_REFRESH_TOKEN (kakao-setup 작업이 저장),
+#          KAKAO_CLIENT_SECRET (앱에서 Client Secret 을 켠 경우만)
+# 카카오 토큰은 두 달이면 만료돼 새로 받은 토큰을 GH_PAT 로 Secrets 에 다시 저장한다.
+KAKAO_REDIRECT = "https://kingdom.papalaqi.com"
+KAKAO_SITE = "https://kingdom.papalaqi.com/"
+
+
+def save_secret(name, value):
+    """GH_PAT 로 저장소 Secret 을 바꾼다. 실패해도 작업은 계속한다."""
+    repo = os.environ.get("GITHUB_REPOSITORY", "")
+    if not os.environ.get("GH_TOKEN", "").strip() or not repo:
+        print(f"GH_PAT 가 없어 {name} 를 저장하지 못했습니다.")
+        return False
+    import subprocess
+    r = subprocess.run(["gh", "secret", "set", name, "--repo", repo], input=value, text=True, capture_output=True)
+    if r.returncode != 0:
+        print(f"{name} 저장 실패:", r.stderr.strip()[:300])
+        return False
+    print(f"{name} 를 새 값으로 저장했습니다.")
+    return True
+
+
+def kakao_token(**data):
+    """카카오 토큰 발급(authorization_code) / 갱신(refresh_token)."""
+    data["client_id"] = os.environ.get("KAKAO_REST_KEY", "").strip()
+    secret = os.environ.get("KAKAO_CLIENT_SECRET", "").strip()
+    if secret:
+        data["client_secret"] = secret
+    req = urllib.request.Request("https://kauth.kakao.com/oauth/token", data=urllib.parse.urlencode(data).encode())
+    req.add_header("Content-Type", "application/x-www-form-urlencoded;charset=utf-8")
     try:
-        urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=body, timeout=20)
-    except Exception as e:  # 알림 실패로 작업 전체를 실패시키지 않는다
-        print("텔레그램 전송 실패:", e)
+        with urllib.request.urlopen(req, timeout=20) as res:
+            tok = json.loads(res.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"카카오 토큰 오류 {e.code}: {e.read().decode('utf-8', 'replace')[:300]}") from None
+    for k in ("access_token", "refresh_token"):
+        if tok.get(k):
+            print(f"::add-mask::{tok[k]}")
+    return tok
+
+
+def kakao_send(text):
+    tok = kakao_token(grant_type="refresh_token", refresh_token=os.environ["KAKAO_REFRESH_TOKEN"].strip())
+    if tok.get("refresh_token"):   # 만료 한 달 전부터 새 refresh_token 이 온다
+        save_secret("KAKAO_REFRESH_TOKEN", tok["refresh_token"])
+    template = {"object_type": "text", "text": text[:200], "button_title": "KINGDOM 열기",
+                "link": {"web_url": KAKAO_SITE, "mobile_web_url": KAKAO_SITE}}
+    body = urllib.parse.urlencode({"template_object": json.dumps(template, ensure_ascii=False)}).encode()
+    req = urllib.request.Request("https://kapi.kakao.com/v2/api/talk/memo/default/send", data=body)
+    req.add_header("Authorization", f"Bearer {tok['access_token']}")
+    try:
+        urllib.request.urlopen(req, timeout=20)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"카카오 전송 오류 {e.code}: {e.read().decode('utf-8', 'replace')[:300]}") from None
 
 
 def summary(markdown):
