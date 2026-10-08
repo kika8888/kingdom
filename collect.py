@@ -41,7 +41,7 @@ def card(item):
     <a class="name" href="{e('productUrl')}" target="_blank" rel="noopener sponsored">{e('productName')}</a>
     <div class="price">{won(item.get('productPrice'))}</div>
     <div class="badges">{''.join(badges)}</div>
-    <button type="button" data-link="{e('productUrl')}">링크 복사</button>
+    <button type="button" data-link="{e('productUrl')}" data-name="{e('productName')}">문구+링크 복사</button>
   </div>
 </li>"""
 
@@ -78,13 +78,14 @@ button:hover,button:focus-visible{border-color:var(--accent);outline:none}
 .empty{color:var(--muted)}
 </style></head><body><div class="wrap">
 <header><h1>KINGDOM</h1><span class="upd">마지막 갱신 {updated} (매시간 자동)</span></header>
-<p class="notice">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 링크를 블로그·SNS에 쓸 때도 이 문구를 함께 적어 주세요.</p>
+<p class="notice">이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. '문구+링크 복사' 버튼을 누르면 이 문구가 링크와 함께 복사됩니다.</p>
 {sections}
 </div>
 <script>
 document.addEventListener('click',function(e){var b=e.target.closest('button[data-link]');if(!b)return;
 var t=b.textContent;function done(m){b.textContent=m;setTimeout(function(){b.textContent=t},1500)}
-navigator.clipboard.writeText(b.dataset.link).then(function(){done('복사됨')},function(){prompt('링크를 복사하세요',b.dataset.link)})});
+var txt='이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\\n\\n'+b.dataset.name+'\\n'+b.dataset.link;
+navigator.clipboard.writeText(txt).then(function(){done('복사됨')},function(){prompt('아래 내용을 복사하세요',txt)})});
 </script></body></html>"""
 
 
