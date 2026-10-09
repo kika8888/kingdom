@@ -486,7 +486,7 @@ def post_video(posted):
     return True
 
 
-AUTO_EVERY = 3   # 글 3개 중 1개는 자동 영상(사진 + 한국어 여성 목소리 + 배경음)으로
+AUTO_EVERY = 2   # 글 2개 중 1개는 자동 영상(사진 + 한국어 여성 목소리 + 배경음)으로
 
 
 def auto_turn(posted):
