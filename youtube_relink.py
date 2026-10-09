@@ -13,6 +13,7 @@ import partners as p
 ROOT = Path(__file__).parent
 SRC = ROOT / "youtube_links.txt"
 OUT = ROOT / "youtube_map.json"
+FAILED = ROOT / "youtube_failed.json"   # 끝내 새 링크를 못 만든 상품과 이유
 BATCH = 20   # 쿠팡 딥링크 API 한 번에 최대 20개
 
 
@@ -27,15 +28,22 @@ def main():
     targets = sorted({t for o, t in pairs if o not in done})
     new = {}
     failed = []
+    reasons = {}
     for i in range(0, len(targets), BATCH):
         chunk = targets[i:i + BATCH]
         try:
             rows = p.deeplink(chunk)
         except Exception as e:
-            failed += chunk
-            print("실패:", e)
-            time.sleep(5)
-            continue
+            # 20개 중 하나만 문제여도 묶음 전체가 거절된다. 하나씩 다시 해서 되는 것은 살린다
+            print("묶음 실패, 하나씩 다시:", e)
+            rows = []
+            for t in chunk:
+                try:
+                    rows += p.deeplink([t]) or [{}]
+                except Exception as e1:
+                    rows.append({})
+                    reasons[t] = str(e1)[:200]
+                time.sleep(1)
         for t, r in zip(chunk, rows):   # 쿠팡은 보낸 순서대로 돌려준다
             if r.get("shortenUrl"):
                 new[t] = r["shortenUrl"]
@@ -46,8 +54,10 @@ def main():
         if t in new:
             done[old] = new[t]
     OUT.write_text(json.dumps(done, ensure_ascii=False, indent=1), encoding="utf-8")
+    FAILED.write_text(json.dumps({t: reasons.get(t, "링크를 돌려주지 않음") for t in failed}, ensure_ascii=False, indent=1),
+                      encoding="utf-8")
     p.summary(f"## 유튜브 링크 새로 만들기\n\n- 전체 {len(pairs)}개 중 완료 {len(done)}개, 실패 {len(pairs) - len(done)}개\n"
-              + ("- 실패한 상품은 판매 종료일 수 있어요. 다시 실행하면 실패한 것만 다시 시도합니다.\n" if failed else ""))
+              + ("- 실패한 상품과 이유는 youtube_failed.json 에 있어요 (판매 종료 상품 등).\n" if failed else ""))
 
 
 if __name__ == "__main__":
