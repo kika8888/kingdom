@@ -48,11 +48,19 @@ def main():
     done = json.loads(OUT.read_text(encoding="utf-8")) if OUT.exists() else {}   # 중간에 끊겨도 이어서
     searched = json.loads(SEARCH.read_text(encoding="utf-8")) if SEARCH.exists() else {}
 
+    def save():   # 중간에 시간이 다 돼도 만든 데까지 남긴다
+        OUT.write_text(json.dumps(done, ensure_ascii=False, indent=1), encoding="utf-8")
+        SEARCH.write_text(json.dumps(searched, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    # 지난번에 '주소 변환 실패'로 확인된 주소는 1) 을 건너뛴다
+    known_bad = set(json.loads(FAILED.read_text(encoding="utf-8")).keys()) if FAILED.exists() else set()
+
     # 1) 같은 상품 링크: 20개씩 묶어서 (묶음이 거절되면 하나씩)
     targets = sorted({t for o, t, n in rows if o not in done})
+    first = [t for t in targets if t not in known_bad]
     new = {}
-    for i in range(0, len(targets), BATCH):
-        chunk = targets[i:i + BATCH]
+    for i in range(0, len(first), BATCH):
+        chunk = first[i:i + BATCH]
         try:
             got = p.deeplink(chunk)
         except Exception as e:
@@ -69,6 +77,7 @@ def main():
     for o, t, n in rows:
         if o not in done and new.get(t):
             done[o] = new[t]
+    save()
     # 3) 그래도 안 되면(판매 종료 등) 설명란의 상품 이름으로 쿠팡 검색 링크
     by_name = {}
     for o, t, n in rows:
@@ -78,10 +87,11 @@ def main():
             if by_name[n]:
                 done[o] = by_name[n]
                 searched[o] = n
+                if len(searched) % 20 == 0:
+                    save()
 
-    OUT.write_text(json.dumps(done, ensure_ascii=False, indent=1), encoding="utf-8")
-    SEARCH.write_text(json.dumps(searched, ensure_ascii=False, indent=1), encoding="utf-8")
-    left = {o: t for o, t, n in rows if o not in done}
+    save()
+    left = {t: o for o, t, n in rows if o not in done}   # 상품 주소: 예전 링크 (다음 실행 때 1) 을 건너뛸 목록)
     FAILED.write_text(json.dumps(left, ensure_ascii=False, indent=1), encoding="utf-8")
     p.summary(f"## 유튜브 링크 새로 만들기\n\n- 전체 {len(rows)}개 중 완료 {len(done)}개 "
               f"(같은 상품 {len(done) - len(searched)}개, 상품 이름 검색 링크 {len(searched)}개), 못 만듦 {len(left)}개\n")
