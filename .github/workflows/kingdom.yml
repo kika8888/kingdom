@@ -125,7 +125,7 @@ jobs:
       - run: |
           git config user.name "kingdom-bot"
           git config user.email "kingdom-bot@users.noreply.github.com"
-          git add youtube_map.json
+          git add youtube_map.json youtube_failed.json
           git diff --cached --quiet && exit 0
           git commit -m "youtube links"
           git pull --rebase
