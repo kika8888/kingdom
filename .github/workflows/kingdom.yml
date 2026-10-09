@@ -11,7 +11,7 @@ on:
       task:
         description: "task"
         type: choice
-        options: [collect, threads, report, link, token-refresh, kakao-setup]
+        options: [collect, threads, report, link, token-refresh, kakao-setup, youtube-links]
         default: collect
       urls:
         description: "link: coupang urls"
@@ -110,6 +110,26 @@ jobs:
         env:
           INPUT_URLS: ${{ inputs.urls }}
           GH_TOKEN: ${{ secrets.GH_PAT }}
+
+  youtube-links:
+    if: inputs.task == 'youtube-links'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency: repo-write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python youtube_relink.py
+      - run: |
+          git config user.name "kingdom-bot"
+          git config user.email "kingdom-bot@users.noreply.github.com"
+          git add youtube_map.json
+          git diff --cached --quiet && exit 0
+          git commit -m "youtube links"
+          git pull --rebase
+          git push
 
   kakao-setup:
     if: inputs.task == 'kakao-setup'
