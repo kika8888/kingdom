@@ -33,7 +33,8 @@ def won(v):
         return ""
 
 
-NAVER_BLOG_ID = os.environ.get("NAVER_BLOG_ID", "").strip() or "soduwk1209"
+NAVER_BLOG_ID = os.environ.get("NAVER_BLOG_ID", "").strip() or "soduwk1209"      # 연예계 뉴스
+SPORTS_BLOG_ID = os.environ.get("SPORTS_BLOG_ID", "").strip() or "dkdk521"      # 스포츠 뉴스
 
 
 def parse_rss(xml_bytes, n=6):
@@ -61,8 +62,8 @@ def parse_rss(xml_bytes, n=6):
     return posts
 
 
-def naver_posts():
-    req = urllib.request.Request(f"https://rss.blog.naver.com/{NAVER_BLOG_ID}.xml",
+def naver_posts(blog_id=NAVER_BLOG_ID):
+    req = urllib.request.Request(f"https://rss.blog.naver.com/{blog_id}.xml",
                                  headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=20) as res:
         return parse_rss(res.read())
@@ -202,6 +203,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 <button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
 <button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
+<button type="button" data-g="sports" aria-pressed="false">⚽ 스포츠</button>
 <button type="button" data-g="blog" aria-pressed="false">📰 연예 뉴스</button>
 </div>
 <div class="chips" id="chips">{chips}</div>
@@ -271,9 +273,21 @@ def main():
         except Exception as e:
             errors.append(f"검색 '{kw}': {e}")
 
+    try:
+        sports_posts = naver_posts(SPORTS_BLOG_ID)
+    except Exception as ex:
+        sports_posts = []
+        errors.append(f"스포츠 블로그: {ex}")
+    sports = (f'<section class="sec" data-group="sports" id="sports"><h2>⚽ 스포츠 뉴스</h2>'
+              f'<ul class="grid">{"".join(post_card(x) for x in sports_posts)}</ul></section>') if sports_posts else ""
+
     sections = ""
     for kw, items in data["keywords"].items():
+        if "캠핑" in kw and items:   # 캠핑 신기템이 있으면 바로 위에
+            sections += sports
+            sports = ""
         sections += section(f"🔥 ‘{kw}’ 신기템", items, "weird", f"kw-{len(sections)}")
+    sections += sports   # 캠핑이 없는 시간엔 신기템 묶음 바로 아래
     sections += section("⏰ 오늘의 골드박스", data["goldbox"], "goldbox", "goldbox")
     try:
         posts = naver_posts()
