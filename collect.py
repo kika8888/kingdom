@@ -12,6 +12,7 @@ import html
 import json
 import os
 import re
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -83,6 +84,43 @@ def post_card(post):
     <a class="buy more" href="{e('link')}" target="_blank" rel="noopener">기사 보기</a>
   </div>
 </li>"""
+
+
+def video_section():
+    """videos.txt (파일이름 | 쿠팡 주소 | 문구) 에 적은 캡컷 영상 중 docs/videos 에 있는 최신 6개."""
+    try:
+        lines = (Path(__file__).parent / "videos.txt").read_text(encoding="utf-8").splitlines()
+    except FileNotFoundError:
+        return ""
+    cards = []
+    for line in reversed(lines):   # 아래에 적은 것이 최신
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = [s.strip() for s in line.split("|")] + ["", ""]
+        name, url, memo = parts[0], parts[1], parts[2]
+        if not (OUT / "videos" / name).exists():
+            continue
+        src = html.escape("videos/" + urllib.parse.quote(name), quote=True)
+        title = html.escape(memo or "KINGDOM 영상", quote=True)
+        buy = ""
+        if url.startswith("http"):
+            try:
+                links = p.deeplink([url])
+                short = links[0].get("shortenUrl") if links else ""
+            except Exception:
+                short = ""
+            if short:
+                buy = f'<a class="buy" href="{html.escape(short, quote=True)}" target="_blank" rel="sponsored nofollow noopener">구매하기</a>'
+        cards.append(f'<li class="card post" data-name="{title.lower()}"><div class="thumb">'
+                     f'<video src="{src}" controls playsinline preload="metadata"></video></div>'
+                     f'<div class="info"><span class="name">{title}</span>{buy}</div></li>')
+        if len(cards) >= 6:
+            break
+    if not cards:
+        return ""
+    return (f'<section class="sec" data-group="video" id="video"><h2>🎬 영상</h2>'
+            f'<ul class="grid">{"".join(cards)}</ul></section>')
 
 
 def card(item, tag=""):
@@ -157,6 +195,7 @@ h2{font-size:1.15rem;margin:30px 0 12px;scroll-margin-top:140px}h2 small{color:v
 .card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
 .thumb{position:relative;display:block;background:var(--chip)}
 .thumb img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover}
+.thumb video{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:#000}
 .tag{position:absolute;left:8px;top:8px;background:var(--gold);color:#1c1f4a;font-size:.72rem;font-weight:800;padding:2px 7px;border-radius:6px}
 .info{padding:10px;display:flex;flex-direction:column;gap:6px;flex:1;min-width:0}
 .name{text-decoration:none;font-size:.88rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.6em}
@@ -204,6 +243,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 <button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
 <button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
+<button type="button" data-g="video" aria-pressed="false">🎬 영상</button>
 <button type="button" data-g="car" aria-pressed="false">🚗 자동차</button>
 <button type="button" data-g="sports" aria-pressed="false">⚽ 스포츠</button>
 <button type="button" data-g="blog" aria-pressed="false">📰 연예 뉴스</button>
@@ -291,6 +331,7 @@ def main():
     # 자동차 뉴스는 쿠팡 전체 검색창 바로 아래(맨 위)
     sections = (f'<section class="sec" data-group="car" id="car"><h2>🚗 자동차 뉴스</h2>'
                 f'<ul class="grid">{"".join(post_card(x) for x in car_posts)}</ul></section>') if car_posts else ""
+    sections = video_section() + sections   # 🎬 캡컷 영상은 맨 위 (자동차 뉴스 위)
     for kw, items in data["keywords"].items():
         if "캠핑" in kw and items:   # 캠핑 신기템이 있으면 바로 위에
             sections += sports
@@ -318,7 +359,7 @@ def main():
         sections = '<p class="empty">상품을 준비하고 있어요. 잠시 뒤 다시 들러 주세요.</p>'
 
     page = PAGE.replace("CROWN", CROWN).replace("{chips}", chips)
-    for g in ("car", "sports", "blog"):   # 빈 뉴스 탭 숨기기: 글을 못 가져온 칸은 탭도 뺀다
+    for g in ("video", "car", "sports", "blog"):   # 빈 뉴스 탭 숨기기: 글을 못 가져온 칸은 탭도 뺀다
         if f'data-group="{g}"' not in sections:
             page = re.sub(rf'<button type="button" data-g="{g}"[^>]*>[^<]*</button>\n?', "", page)
     (OUT / "index.html").write_text(page.replace("{updated}", data["updated"]).replace("{sections}", sections),

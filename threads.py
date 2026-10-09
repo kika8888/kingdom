@@ -22,7 +22,9 @@ import partners as p
 ROOT = Path(__file__).parent
 PRODUCTS = ROOT / "docs" / "products.json"
 POSTED = ROOT / "state" / "posted.json"
-PICKS = ROOT / "picks.txt"   # 직접 고른 상품 (1순위)
+PICKS = ROOT / "picks.txt"   # 직접 고른 상품 (2순위)
+VIDEOS = ROOT / "videos.txt"   # 캡컷 영상 목록 (1순위). 영상 파일은 docs/videos/ 에 둔다
+SITE = "https://kingdom.papalaqi.com"
 API = "https://graph.threads.net/v1.0"
 NOTICE = "이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
 KEEP_DAYS = 7          # 이 기간 안에 올린 상품은 다시 고르지 않는다
@@ -41,6 +43,16 @@ def threads(path, params):
     except urllib.error.HTTPError as e:
         detail = e.read().decode("utf-8", "replace")[:500]
         raise RuntimeError(f"스레드 API 오류 {e.code}: {detail}") from None
+
+
+def threads_get(path, params):
+    token = os.environ.get("THREADS_ACCESS_TOKEN", "").strip()
+    q = urllib.parse.urlencode(dict(params, access_token=token))
+    try:
+        with urllib.request.urlopen(f"{API}{path}?{q}", timeout=30) as res:
+            return json.loads(res.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"스레드 API 오류 {e.code}: {e.read().decode('utf-8', 'replace')[:300]}") from None
 
 
 def won(v):
@@ -90,7 +102,7 @@ def tag_word(s):
 
 
 def hashtags(item, source):
-    first = {"goldbox": "골드박스", "manual": "신기템"}.get(source, source)
+    first = {"goldbox": "골드박스", "manual": "신기템", "video": "신기템영상"}.get(source, source)
     words = [tag_word(w) for w in str(item.get("productName", "")).split(",")[0].split()]
     if len(words) >= 3:
         words = words[1:]   # 첫 단어는 대개 브랜드
@@ -123,7 +135,7 @@ def compose(item, source):
     rank = item.get("rank")
 
     # 본문 1) 후킹 한 줄
-    if source == "manual":
+    if source in ("manual", "video"):
         hook = item.get("memo") or random.choice(GENERIC_HOOKS)
     elif source == "goldbox":
         hook = goldbox_hook(rate)
@@ -140,10 +152,15 @@ def compose(item, source):
         facts.append("로켓배송 상품이라 빨리 받아볼 수 있음")
     if source == "manual":
         facts.append("직접 찾은 신기템 공유함")
+    if source == "video":
+        facts.append("영상으로 직접 보여 드려요")
     if not facts:
         facts.append("사진 보면 뭔지 궁금해질걸")
 
     # 광고 표시는 지우지 않는다 (공정위 지침·파트너스 약관). 해시태그 사이에 섞으면 인정되지 않아 따로 한 줄.
+    if source == "video" and not item.get("productUrl"):   # 링크 없는 영상: 댓글 안내·광고 표시 없이
+        body = [hook, ""] + facts[:2] + ["", hashtags(item, source)]
+        return "\n".join(body)[:MAX_TEXT], ""
     body = [hook, ""] + facts[:2] + ["", random.choice(["정체는 댓글에 👇", "뭔지는 댓글 확인 👇", "가격이랑 실물은 댓글에 👇"]),
                                      "", hashtags(item, source), "#광고"]
 
@@ -160,7 +177,8 @@ def load_posted():
     except (FileNotFoundError, json.JSONDecodeError):
         data = []
     cutoff = time.time() - KEEP_DAYS * 86400
-    return [d for d in data if d.get("at", 0) > cutoff]
+    # 영상은 한 번만 올린다 (7일이 지나도 기록을 지우지 않음)
+    return [d for d in data if d.get("at", 0) > cutoff or str(d.get("id", "")).startswith("video:")]
 
 
 def my_sold_ids():
@@ -240,6 +258,33 @@ def pick_manual(posted):
     return None, None
 
 
+def pick_video(posted):
+    """videos.txt 에 적은 영상 중 아직 안 올린 첫 번째. (파일이름 | 쿠팡 주소 | 첫 줄 문구)"""
+    try:
+        lines = VIDEOS.read_text(encoding="utf-8").splitlines()
+    except FileNotFoundError:
+        return None, None
+    seen = {str(d.get("id")) for d in posted}
+    for line in lines:
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = [s.strip() for s in line.split("|")] + ["", ""]
+        name, url, memo = parts[0], parts[1], parts[2]
+        if f"video:{name}" in seen:
+            continue
+        if not (ROOT / "docs" / "videos" / name).exists():
+            print("영상 파일이 docs/videos 에 없습니다(건너뜀):", name)
+            continue
+        short = ""
+        if url.startswith("http"):
+            links = p.deeplink([url])
+            short = links[0].get("shortenUrl") if links else ""
+        return {"productId": f"video:{name}", "productUrl": short, "productName": "", "productImage": "",
+                "video": f"{SITE}/videos/{urllib.parse.quote(name)}", "memo": memo}, "video"
+    return None, None
+
+
 def short_link(item):
     """API 가 주는 긴 추적 링크 대신 책처럼 link.coupang.com/a/xxxx 짧은 링크를 만든다."""
     pid = item.get("productId")
@@ -269,18 +314,30 @@ def coupang_card_link(item):
         return ""
 
 
-def publish(text, image, reply_text, card_url=""):
-    """본문(사진 포함)을 올리고, 그 글에 링크 댓글을 단다."""
+def publish(text, image, reply_text, card_url="", video=""):
+    """본문(영상 또는 사진 포함)을 올리고, 그 글에 링크 댓글을 단다."""
     container = None
-    if image:
+    if video:
+        container = threads("/me/threads", {"media_type": "VIDEO", "video_url": video, "text": text})
+        for _ in range(30):   # 영상은 메타가 처리할 때까지 최대 5분 기다린다
+            time.sleep(10)
+            st = threads_get(f"/{container['id']}", {"fields": "status,error_message"})
+            if st.get("status") == "FINISHED":
+                break
+            if st.get("status") == "ERROR":
+                raise RuntimeError(f"영상 처리 실패: {st.get('error_message')}")
+    elif image:
         try:
             container = threads("/me/threads", {"media_type": "IMAGE", "image_url": image, "text": text})
         except RuntimeError as e:
             print("사진 글 실패, 글만 올립니다:", e)
     if not container:
         container = threads("/me/threads", {"media_type": "TEXT", "text": text})
-    time.sleep(30)  # 메타 권장: 만든 뒤 처리될 때까지 잠시 기다린다
+    if not video:
+        time.sleep(30)  # 메타 권장: 만든 뒤 처리될 때까지 잠시 기다린다
     post = threads("/me/threads_publish", {"creation_id": container["id"]})
+    if not reply_text:
+        return post
 
     # 첫 댓글 (threads_manage_replies 권한 필요)
     params = {"media_type": "TEXT", "text": reply_text, "reply_to_id": post["id"]}
@@ -294,7 +351,9 @@ def publish(text, image, reply_text, card_url=""):
 
 def main():
     posted = load_posted()
-    item, source = pick_manual(posted)
+    item, source = pick_video(posted)
+    if not item:
+        item, source = pick_manual(posted)
     if not item:
         item, source = pick(posted)
         if item:
@@ -306,7 +365,7 @@ def main():
     text, reply_text = compose(item, source)
     image = item.get("productImage") or ""
     card_url = coupang_card_link(item) if CARD_STYLE == "coupang" else ""
-    result = publish(text, image, reply_text, card_url)
+    result = publish(text, image, reply_text, card_url, item.get("video", ""))
 
     posted.append({"id": str(item.get("productId")), "at": int(time.time()), "post": result.get("id")})
     POSTED.parent.mkdir(exist_ok=True)
