@@ -401,19 +401,83 @@ def auto_turn(posted):
     return since >= AUTO_EVERY - 1
 
 
+TOP_N = 3
+
+
+def pick_top(posted):
+    """같은 분야(베스트) 또는 같은 키워드에서 아직 안 올린 사진 있는 상품 3개. 인기순."""
+    try:
+        data = json.loads(PRODUCTS.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        return None
+    seen = {str(d.get("id")) for d in posted}
+    groups = [(cat, items, "best") for cat, items in data.get("best", {}).items()]
+    groups += [(kw, items, "keyword") for kw, items in data.get("keywords", {}).items()]
+    random.shuffle(groups)
+    for name, items, kind in groups:
+        fresh = [i for i in items if str(i.get("productId")) not in seen and i.get("productUrl") and i.get("productImage")]
+        fresh.sort(key=rank_of)
+        if len(fresh) >= TOP_N and all(rank_of(i) < 999 for i in fresh[:TOP_N]):
+            return name, kind, fresh[:TOP_N]
+    return None
+
+
+def compose_top(name, kind, items, urls):
+    if kind == "best":
+        hook = random.choice([f"쿠팡 {name} 베스트 인기템 {len(items)}개 정리함", f"요즘 쿠팡 {name}에서 제일 잘 나가는 거",
+                              f"{name} 고민이면 이 {len(items)}개만 보세요"])
+        labels = [f"베스트 {rank_of(i)}위" for i in items]
+    else:
+        hook = random.choice([f"'{name}' 인기템 {len(items)}개 정리함", f"요즘 다들 찾는 '{name}' 모음"])
+        labels = [f"검색 {rank_of(i)}위" for i in items]
+    body = [hook, "", "순위대로 영상으로 정리했어요", "", "링크는 댓글에 👇", "",
+            hashtags(items[0], name), "#광고"]
+    reply = [f'"{NOTICE}"', ""] + [f"{lab} 👉 {u}" for lab, u in zip(labels, urls)] + ["", random.choice(REPLY_LINES)]
+    return hook, labels, "\n".join(body)[:MAX_TEXT], "\n".join(reply)[:MAX_TEXT]
+
+
+def post_top(posted):
+    """TOP 3 영상 글. 올렸으면 True, 못 만들면 False (그 차례는 다른 글로)."""
+    import make_video
+    top = pick_top(posted)
+    if not top:
+        return False
+    name, kind, items = top
+    urls = [short_link(i) for i in items]
+    hook, labels, text, reply_text = compose_top(name, kind, items, urls)
+    title = f"쿠팡 {name} 베스트" if kind == "best" else f"'{name}' 인기템"
+    try:
+        video = push_video(f"auto-top-{items[0].get('productId')}.mp4",
+                           lambda out: make_video.make_top(title, items, labels, out))
+        result = publish(text, "", reply_text, coupang_card_link(items[0]), video)
+    except Exception as e:
+        print("TOP 영상 실패, 다른 글로 올립니다:", e)
+        p.summary(f"### TOP 영상 실패 (다른 글로 대신 올림)\n- {e}")
+        return False
+    now = int(time.time())
+    posted += [{"id": str(i.get("productId")), "at": now, "auto": True, "post": result.get("id")} for i in items]
+    save_posted(posted)
+    p.summary(f"## 스레드에 TOP 영상 올림\n\n본문\n```\n{text}\n```\n첫 댓글\n```\n{reply_text}\n```")
+    return True
+
+
 def auto_video(item, text):
-    """상품 영상을 만들어 docs/videos 에 올리고(push), 사이트에 반영되면 주소를 돌려준다."""
-    import subprocess
+    """상품 1개 영상 (TOP 3 를 못 모을 때)."""
     import make_video
     lines = text.split("\n")
     hook = lines[0]
     facts = lines[2:lines.index("", 2)] if "" in lines[2:] else lines[2:3]
+    return push_video(f"auto-{item.get('productId')}.mp4", lambda out: make_video.make(item, hook, facts, out))
+
+
+def push_video(name, build):
+    """영상을 만들어 docs/videos 에 올리고(push), 사이트에 반영되면 주소를 돌려준다."""
+    import subprocess
     folder = ROOT / "docs" / "videos"
     folder.mkdir(parents=True, exist_ok=True)
-    name = f"auto-{item.get('productId')}.mp4"
     for old in folder.glob("auto-*.mp4"):   # 지난 자동 영상은 스레드가 이미 가져갔으니 지워서 저장소를 가볍게
         old.unlink()
-    make_video.make(item, hook, facts, folder / name)
+    build(folder / name)
 
     git = ["git", "-c", "user.name=kingdom-bot", "-c", "user.email=kingdom-bot@users.noreply.github.com"]
     for cmd in (["add", "-A", "docs/videos"], ["commit", "-m", "auto video"], ["pull", "--rebase"], ["push"]):
@@ -436,6 +500,8 @@ def save_posted(posted):
 def main():
     posted = load_posted()
     if post_video(posted):
+        return
+    if auto_turn(posted) and post_top(posted):
         return
     item, source = pick_manual(posted)
     if not item:
