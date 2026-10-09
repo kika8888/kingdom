@@ -35,7 +35,7 @@ def won(v):
 
 NAVER_BLOG_ID = os.environ.get("NAVER_BLOG_ID", "").strip() or "soduwk1209"      # 연예계 뉴스
 SPORTS_BLOG_ID = os.environ.get("SPORTS_BLOG_ID", "").strip() or "dkdk521"      # 스포츠 뉴스
-CAR_BLOG_ID = os.environ.get("CAR_BLOG_ID", "").strip() or "tikitaka_999"      # 자동차 뉴스
+CAR_BLOG_ID = os.environ.get("CAR_BLOG_ID", "").strip() or "tikitaka_9"      # 자동차 뉴스
 
 
 def parse_rss(xml_bytes, n=6):
@@ -318,6 +318,9 @@ def main():
         sections = '<p class="empty">상품을 준비하고 있어요. 잠시 뒤 다시 들러 주세요.</p>'
 
     page = PAGE.replace("CROWN", CROWN).replace("{chips}", chips)
+    for g in ("car", "sports", "blog"):   # 빈 뉴스 탭 숨기기: 글을 못 가져온 칸은 탭도 뺀다
+        if f'data-group="{g}"' not in sections:
+            page = re.sub(rf'<button type="button" data-g="{g}"[^>]*>[^<]*</button>\n?', "", page)
     (OUT / "index.html").write_text(page.replace("{updated}", data["updated"]).replace("{sections}", sections),
                                     encoding="utf-8")
     (OUT / "products.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
