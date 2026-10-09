@@ -35,6 +35,7 @@ def won(v):
 
 NAVER_BLOG_ID = os.environ.get("NAVER_BLOG_ID", "").strip() or "soduwk1209"      # 연예계 뉴스
 SPORTS_BLOG_ID = os.environ.get("SPORTS_BLOG_ID", "").strip() or "dkdk521"      # 스포츠 뉴스
+CAR_BLOG_ID = os.environ.get("CAR_BLOG_ID", "").strip() or "tikitaka_999"      # 자동차 뉴스
 
 
 def parse_rss(xml_bytes, n=6):
@@ -203,6 +204,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 <button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
 <button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
+<button type="button" data-g="car" aria-pressed="false">🚗 자동차</button>
 <button type="button" data-g="sports" aria-pressed="false">⚽ 스포츠</button>
 <button type="button" data-g="blog" aria-pressed="false">📰 연예 뉴스</button>
 </div>
@@ -281,7 +283,14 @@ def main():
     sports = (f'<section class="sec" data-group="sports" id="sports"><h2>⚽ 스포츠 뉴스</h2>'
               f'<ul class="grid">{"".join(post_card(x) for x in sports_posts)}</ul></section>') if sports_posts else ""
 
-    sections = ""
+    try:
+        car_posts = naver_posts(CAR_BLOG_ID)
+    except Exception as ex:
+        car_posts = []
+        errors.append(f"자동차 블로그: {ex}")
+    # 자동차 뉴스는 쿠팡 전체 검색창 바로 아래(맨 위)
+    sections = (f'<section class="sec" data-group="car" id="car"><h2>🚗 자동차 뉴스</h2>'
+                f'<ul class="grid">{"".join(post_card(x) for x in car_posts)}</ul></section>') if car_posts else ""
     for kw, items in data["keywords"].items():
         if "캠핑" in kw and items:   # 캠핑 신기템이 있으면 바로 위에
             sections += sports
