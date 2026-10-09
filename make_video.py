@@ -245,29 +245,32 @@ def facts_of(item):
     return out
 
 
-def make_top(title, items, labels, out):
+def make_top(title, items, labels, out, words=None):
     """상품 여러 개 랭킹 영상. items 는 인기순, labels 는 실제 순위 글씨(예: "베스트 2위").
     순위는 쿠팡이 준 숫자 그대로 쓴다 (걸러진 상품 때문에 2·3·5위처럼 띄엄띄엄일 수 있음).
     화면엔 낮은 순위부터 나온다."""
+    w = {"intro": f"{title}. 인기 상품 {len(items)}개 바로 알려드릴게요",
+         "outro": "마음에 드는 거 있으면 댓글 링크에서 확인해 보세요", "outro_title": "마음에 드는 거 있었나요?"}
+    w.update(words or {})   # 말투별 문장 (threads.py TONES)
     photos = [photo_of(i) for i in items]
     names = [short_name(i.get("productName", "")) for i in items]
     title = plain(title)
     with tempfile.TemporaryDirectory() as t:
         tmp = Path(t)
         segs = [scene(collage(photos), title, [f"인기 상품 {len(items)}개"],
-                      f"{title}. 인기 상품 {len(items)}개 바로 알려드릴게요", tmp, 0)]
+                      w["intro"], tmp, 0)]
         for k in range(len(items) - 1, -1, -1):
             item, name, label = items[k], names[k], plain(labels[k])
             facts = facts_of(item)
             say = f"{label}. {name}." + (" " + ", ".join(facts) + "." if facts else "")
             segs.append(scene(photos[k], label, [name] + ([" · ".join(facts)] if facts else []),
                               say, tmp, len(segs), zoom_in=k % 2 == 0))
-        segs.append(scene(collage(photos), "마음에 드는 거 있었나요?", ["링크는 댓글에서 확인"],
-                          "마음에 드는 거 있으면 댓글 링크에서 확인해 보세요", tmp, len(segs), zoom_in=False))
+        segs.append(scene(collage(photos), plain(w["outro_title"]), ["링크는 댓글에서 확인"],
+                          w["outro"], tmp, len(segs), zoom_in=False))
         return finish(segs, tmp, out)
 
 
-def make(item, hook, facts, out):
+def make(item, hook, facts, out, end="자세한 정보는 댓글 링크에서 확인해 보세요"):
     """상품 1개 영상 (3개가 안 모일 때). 같은 사진이 확대 → 축소 → 확대로 움직인다."""
     photo = photo_of(item)
     hook = plain(hook)
@@ -276,5 +279,5 @@ def make(item, hook, facts, out):
         tmp = Path(t)
         segs = [scene(photo, hook, [], hook, tmp, 0),
                 scene(photo, hook, facts[:2], ". ".join(facts[:2]), tmp, 1, zoom_in=False),
-                scene(photo, hook, ["자세한 정보는 댓글 링크에서"], "자세한 정보는 댓글 링크에서 확인해 보세요", tmp, 2)]
+                scene(photo, hook, ["자세한 정보는 댓글 링크에서"], end, tmp, 2)]
         return finish(segs, tmp, out)

@@ -87,9 +87,6 @@ HOOKS = {
 # 댓글 링크 카드 모양: "coupang" = 쿠팡 로고가 크게 나오는 카드 (책 예시), "product" = 상품 사진 카드
 CARD_STYLE = "coupang"
 LINK_LINES = 2   # 댓글에 같은 링크를 몇 줄 넣을지 (책은 2~3줄)
-REPLY_LINES = ["구매 금액은 변동될 수 있어요 💸 구경만 해도 돼요😆", "실물은 링크에서 확인 👀", "가격은 링크에서 확인 💰",
-               "필요한 분은 저장해 두세요 📌", "궁금한 사람만 눌러보기 👆"]
-GENERIC_HOOKS = ["이게 된다고?", "이거 알아? 나만 몰랐음?", "세상에 신기한 물건 진짜 많네"]
 # 해시태그: 분야/키워드 1개 + 상품명 단어 2개 + 아래에서 채워 5개.
 # 스레드는 첫 번째 해시태그만 주제 태그로 잡으니 분야 태그를 맨 앞에 둔다.
 TAG_COUNT = 5
@@ -115,14 +112,113 @@ def hashtags(item, source):
     return " ".join("#" + t for t in tags[:TAG_COUNT])
 
 
-def goldbox_hook(rate):
+# 말투: 올릴 때마다 바로 전과 다른 말투를 고른다 (posted.json 에 tone 기록).
+# {t} = 분야·키워드 이름, {r} = 순위, {p} = 할인율, {n} = 상품 개수, {title} = 영상 제목
+# 자동 글이라 직접 써 본 척하는 후기·가짜 신분·근거 없는 품절 임박 같은 말은 넣지 않는다.
+TONES = {
+    "친구": {
+        "hook": ["야 이거 봤어?", "{t} 찾는 사람 이거 봐봐", "이거 나만 몰랐냐", "요즘 {t} 이거 많이 사더라",
+                 "이거 왜 이제 알았지", "너 이거 알고 있었어?", "이런 게 있는 줄 몰랐네", "이거 하나 있으면 편하겠다",
+                 "{t} 이거 어때?", "오 이거 괜찮은데?", "이거 은근 많이 쓰더라", "이거 보자마자 생각났어"],
+        "gold": ["오늘 골드박스에 이거 떴어", "골드박스 {p}% 떴다 이거"],
+        "rank": "지금 쿠팡 {t} 베스트 {r}위래", "sale": "지금 {p}% 할인 중이래", "rocket": "로켓배송이라 금방 와",
+        "manual": "내가 찾은 신기템 공유함", "video": "영상으로 보여줄게", "none": "사진 보면 뭔지 궁금할걸",
+        "cta": ["뭔지는 댓글에 👇", "궁금하면 댓글 봐 👇"],
+        "reply": ["필요하면 저장해둬 📌", "구경만 해도 됨 😆", "가격은 링크에서 봐 💰"],
+        "top": ["요즘 {t} 제일 잘 나가는 거 {n}개", "{t} 인기템 {n}개 모아봤어"], "top_sub": "순위대로 영상으로 정리함",
+        "intro": "{title}. 인기 상품 {n}개 바로 알려줄게", "outro": "맘에 드는 거 있으면 댓글 링크 봐봐",
+        "outro_title": "맘에 드는 거 있었어?", "end": "자세한 건 댓글 링크 봐봐",
+    },
+    "존댓말": {
+        "hook": ["{t} 고민 중이시면 이거 한번 보세요", "요즘 {t} 이 상품 많이 찾으시더라고요", "혹시 이거 알고 계셨어요?",
+                 "이런 상품도 있더라고요", "오늘은 이 상품 소개해 드릴게요", "{t} 찾으시는 분들께 추천드려요",
+                 "생각보다 유용한 상품이에요", "알아두면 좋은 상품 하나 공유드려요", "요즘 많이들 쓰시는 거예요",
+                 "{t} 쪽에서 눈에 띈 상품이에요", "한번쯤 보셔도 좋을 상품이에요"],
+        "gold": ["오늘 쿠팡 골드박스에 올라온 상품이에요", "오늘 골드박스 {p}% 특가 상품 공유드려요"],
+        "rank": "지금 쿠팡 {t} 베스트 {r}위에 올라와 있어요", "sale": "지금 {p}% 할인 중이에요",
+        "rocket": "로켓배송이라 빨리 받아보실 수 있어요", "manual": "직접 찾은 신기템 공유드려요",
+        "video": "영상으로 보여 드릴게요", "none": "사진 보시면 뭔지 궁금해지실 거예요",
+        "cta": ["자세한 건 댓글에 있어요 👇", "가격이랑 실물은 댓글에서 확인하세요 👇"],
+        "reply": ["필요하신 분은 저장해 두세요 📌", "구매 금액은 변동될 수 있어요 💸", "실물은 링크에서 확인하세요 👀"],
+        "top": ["쿠팡 {t} 인기 상품 {n}개 정리했어요", "{t} 고민이시면 이 {n}개만 보세요"], "top_sub": "순위대로 영상으로 정리했어요",
+        "intro": "{title}. 인기 상품 {n}개 바로 알려드릴게요", "outro": "마음에 드는 거 있으면 댓글 링크에서 확인해 보세요",
+        "outro_title": "마음에 드는 거 있었나요?", "end": "자세한 정보는 댓글 링크에서 확인해 보세요",
+    },
+    "감탄": {
+        "hook": ["와 이게 된다고?", "세상에 이런 게 있었네", "이거 진짜 신기하다;;", "와 {t} 이런 것도 있구나",
+                 "이걸 이렇게 만든다고?", "아이디어 미쳤다", "이거 처음 보고 놀람", "와 이건 좀 신박한데?",
+                 "누가 이런 생각을 했지", "이게 진짜 있네;;", "와 세상 좋아졌다", "이거 보고 감탄함"],
+        "gold": ["와 골드박스 {p}%라고?", "오늘 골드박스 이거 실화임?"],
+        "rank": "무려 쿠팡 {t} 베스트 {r}위", "sale": "심지어 {p}% 할인 중", "rocket": "로켓배송까지 됨",
+        "manual": "찾다가 신기해서 가져옴", "video": "영상으로 봐야 더 신기함", "none": "사진만 봐도 신기함",
+        "cta": ["정체는 댓글에 👇", "뭔지 궁금하면 댓글 👇"],
+        "reply": ["신기하면 저장 📌", "구경만 해도 재밌음 😆", "실물 궁금하면 눌러봐 👀"],
+        "top": ["와 요즘 {t} 이게 제일 잘 나간대", "{t} 인기템 {n}개 보고 놀람"], "top_sub": "순위별로 영상에 담았음",
+        "intro": "{title}. 와 이거 보세요, {n}개 바로 갑니다", "outro": "신기한 거 있었으면 댓글 링크 확인해 보세요",
+        "outro_title": "신기한 거 있었어?", "end": "궁금하면 댓글 링크 확인해 보세요",
+    },
+    "질문": {
+        "hook": ["{t} 아직도 고민 중이세요?", "이거 있는 집 손?", "이거 뭔지 아는 사람?", "다들 {t} 뭐 쓰세요?",
+                 "이거 어디에 쓰는 건지 맞혀 보실래요?", "이런 거 필요했던 적 있으세요?", "혹시 이거 써 본 사람?",
+                 "이거 본 적 있어요?", "{t} 뭐 살지 모르겠을 때 어떡해요?", "이거 집에 하나쯤 있어야 하지 않나요?",
+                 "이거 왜 인기 있는지 아세요?"],
+        "gold": ["오늘 골드박스 보셨어요?", "골드박스 {p}% 이거 아셨어요?"],
+        "rank": "쿠팡 {t} 베스트 {r}위인 거 아셨어요?", "sale": "지금 {p}% 할인 중인 건요?",
+        "rocket": "로켓배송이라 빨리 오는 것도요", "manual": "이런 신기템 보셨어요?", "video": "영상으로 보실래요?",
+        "none": "사진 보면 뭔지 아시겠어요?",
+        "cta": ["정답은 댓글에 👇", "궁금하면 댓글 확인 👇"],
+        "reply": ["필요하면 저장해 두실래요? 📌", "구경만 해도 괜찮아요 😆", "가격 궁금하면 눌러보세요 💰"],
+        "top": ["요즘 {t} 뭐가 제일 잘 나가는지 아세요?", "{t} 인기템 {n}개 아세요?"], "top_sub": "순위대로 영상에서 확인해 보세요",
+        "intro": "{title}. 뭐가 제일 잘 나가는지 아세요? {n}개 알려드릴게요", "outro": "마음에 드는 거 있으셨어요? 댓글 링크 확인해 보세요",
+        "outro_title": "마음에 드는 거 있으셨어요?", "end": "궁금하면 댓글 링크 확인해 보세요",
+    },
+    "짧게": {
+        "hook": ["이거.", "{t} 이거 하나면 됨", "요즘 이거", "그냥 이거 보세요", "이거 괜찮음", "{t} 추천",
+                 "오늘의 발견", "이거 알아두기", "저장각", "요즘 인기템", "한 줄 요약: 편함"],
+        "gold": ["골드박스 {p}%", "오늘 골드박스"],
+        "rank": "쿠팡 {t} 베스트 {r}위", "sale": "{p}% 할인 중", "rocket": "로켓배송", "manual": "신기템 발견",
+        "video": "영상으로", "none": "궁금하면",
+        "cta": ["댓글 👇", "링크는 댓글 👇"],
+        "reply": ["저장 📌", "구경만 😆", "가격은 링크 💰"],
+        "top": ["{t} TOP {n}", "{t} 인기템 {n}개"], "top_sub": "순위대로 정리",
+        "intro": "{title}. {n}개 갑니다", "outro": "링크는 댓글에",
+        "outro_title": "어떤 게 좋아요?", "end": "링크는 댓글에",
+    },
+}
+
+
+def first_line(text):
+    return text.splitlines()[0] if text else ""
+
+
+def pick_tone(posted):
+    last = next((d.get("tone") for d in reversed(posted) if d.get("tone")), None)
+    return random.choice([t for t in TONES if t != last])
+
+
+USED = set()   # 최근 7일 동안 쓴 첫 줄. main() 이 채운다. 같은 첫 줄을 다시 쓰지 않게
+
+
+def say(tone, key, **kw):
+    v = TONES[tone][key]
+    if not isinstance(v, list):
+        return v.format(**kw)
+    options = [o.format(**kw) for o in v]
+    fresh = [o for o in options if o not in USED]
+    return random.choice(fresh or options)
+
+
+def goldbox_hook(rate, tone):
     try:
         r = int(float(rate))
     except (TypeError, ValueError):
         r = 0
-    if r >= 50:
-        return random.choice([f"쿠팡 미쳤나.. 오늘 골드박스 {r}% 할인으로 풀림;;", f"이거 오늘 반값 넘게 떨어짐;; 골드박스 {r}%"])
-    return random.choice(["쿠팡 골드박스에 이게 떴네", "오늘 하루만 하는 골드박스 특가 하나 공유함"])
+    if r:
+        return say(tone, "gold", p=r)
+    return [g for g in TONES[tone]["gold"] if "{p}" not in g][0]
+
+
+TONE = "존댓말"   # main() 이 이번 글의 말투로 바꾼다
 
 
 def compose(item, source):
@@ -134,40 +230,42 @@ def compose(item, source):
     rate = item.get("discountRate")
     rank = item.get("rank")
 
-    # 본문 1) 후킹 한 줄
-    if source in ("manual", "video"):
-        hook = item.get("memo") or random.choice(GENERIC_HOOKS)
+    tone = TONE
+    topic = "신기템" if source in ("manual", "video") else source
+
+    # 본문 1) 후킹 한 줄 (말투마다 다르게. 존댓말일 땐 분야 전용 문구도 섞는다)
+    if source in ("manual", "video") and item.get("memo"):
+        hook = item["memo"]
     elif source == "goldbox":
-        hook = goldbox_hook(rate)
+        hook = goldbox_hook(rate, tone)
+    elif tone == "존댓말" and source in HOOKS and random.random() < 0.5:
+        hook = random.choice(HOOKS[source])
     else:
-        hook = random.choice(HOOKS.get(source, GENERIC_HOOKS))
+        hook = say(tone, "hook", t=topic)
 
     # 본문 2) 호기심을 남기는 사실 1~2줄 (상품명은 본문에 쓰지 않는다)
     facts = []
     if source in HOOKS and rank:
-        facts.append(f"지금 쿠팡 {source} 베스트 {rank}위에 올라와 있는 거")
+        facts.append(say(tone, "rank", t=source, r=rank))
     if rate and source != "goldbox":
-        facts.append(f"게다가 지금 {rate}% 할인 중")
+        facts.append(say(tone, "sale", p=rate))
     if item.get("isRocket"):
-        facts.append("로켓배송 상품이라 빨리 받아볼 수 있음")
-    if source == "manual":
-        facts.append("직접 찾은 신기템 공유함")
-    if source == "video":
-        facts.append("영상으로 직접 보여 드려요")
+        facts.append(say(tone, "rocket"))
+    if source in ("manual", "video"):
+        facts.append(say(tone, source))
     if not facts:
-        facts.append("사진 보면 뭔지 궁금해질걸")
+        facts.append(say(tone, "none"))
 
     # 광고 표시는 지우지 않는다 (공정위 지침·파트너스 약관). 해시태그 사이에 섞으면 인정되지 않아 따로 한 줄.
     if source == "video" and not item.get("productUrl"):   # 링크 없는 영상: 댓글 안내·광고 표시 없이
         body = [hook, ""] + facts[:2] + ["", hashtags(item, source)]
         return "\n".join(body)[:MAX_TEXT], ""
-    body = [hook, ""] + facts[:2] + ["", random.choice(["정체는 댓글에 👇", "뭔지는 댓글 확인 👇", "가격이랑 실물은 댓글에 👇"]),
-                                     "", hashtags(item, source), "#광고"]
+    body = [hook, ""] + facts[:2] + ["", say(tone, "cta"), "", hashtags(item, source), "#광고"]
 
     # 첫 댓글 (책 7.2·Step 3 형식): 대가성 문구 맨 위 → 링크 여러 줄 → 짧은 한마디.
     # 링크 카드(미리보기)는 클릭률이 높아 그대로 둔다. 상품명·가격은 카드에 나온다.
     url = item.get("productUrl", "")
-    reply = [f'"{NOTICE}"'] + [f"👉 {url}"] * LINK_LINES + [random.choice(REPLY_LINES)]
+    reply = [f'"{NOTICE}"'] + [f"👉 {url}"] * LINK_LINES + [say(tone, "reply")]
     return "\n".join(body)[:MAX_TEXT], "\n".join(reply)[:MAX_TEXT]
 
 
@@ -381,7 +479,8 @@ def post_video(posted):
         p.summary(f"## 영상 게시 실패 (상품 글로 대신 올림)\n\n- {item['productId'][6:]}: {e}\n"
                   "- 영상을 고쳐 **새 파일 이름**으로 올리고 videos.txt 에 새 줄로 적어 주세요.")
         return False
-    posted.append({"id": item["productId"], "at": int(time.time()), "post": result.get("id")})
+    posted.append({"id": item["productId"], "at": int(time.time()), "tone": TONE, "hook": first_line(text),
+                   "post": result.get("id")})
     save_posted(posted)
     p.summary(f"## 스레드에 영상 올림\n\n본문\n```\n{text}\n```\n첫 댓글\n```\n{reply_text}\n```")
     return True
@@ -423,16 +522,11 @@ def pick_top(posted):
 
 
 def compose_top(name, kind, items, urls):
-    if kind == "best":
-        hook = random.choice([f"쿠팡 {name} 베스트 인기템 {len(items)}개 정리함", f"요즘 쿠팡 {name}에서 제일 잘 나가는 거",
-                              f"{name} 고민이면 이 {len(items)}개만 보세요"])
-        labels = [f"베스트 {rank_of(i)}위" for i in items]
-    else:
-        hook = random.choice([f"'{name}' 인기템 {len(items)}개 정리함", f"요즘 다들 찾는 '{name}' 모음"])
-        labels = [f"검색 {rank_of(i)}위" for i in items]
-    body = [hook, "", "순위대로 영상으로 정리했어요", "", "링크는 댓글에 👇", "",
-            hashtags(items[0], name), "#광고"]
-    reply = [f'"{NOTICE}"', ""] + [f"{lab} 👉 {u}" for lab, u in zip(labels, urls)] + ["", random.choice(REPLY_LINES)]
+    tone = TONE
+    hook = say(tone, "top", t=name if kind == "best" else f"'{name}'", n=len(items))
+    labels = [f"{'베스트' if kind == 'best' else '검색'} {rank_of(i)}위" for i in items]
+    body = [hook, "", say(tone, "top_sub"), "", say(tone, "cta"), "", hashtags(items[0], name), "#광고"]
+    reply = [f'"{NOTICE}"', ""] + [f"{lab} 👉 {u}" for lab, u in zip(labels, urls)] + ["", say(tone, "reply")]
     return hook, labels, "\n".join(body)[:MAX_TEXT], "\n".join(reply)[:MAX_TEXT]
 
 
@@ -446,16 +540,19 @@ def post_top(posted):
     urls = [short_link(i) for i in items]
     hook, labels, text, reply_text = compose_top(name, kind, items, urls)
     title = f"쿠팡 {name} 베스트" if kind == "best" else f"'{name}' 인기템"
+    words = {k: say(TONE, k, title=title, n=len(items)) for k in ("intro", "outro", "outro_title")}
     try:
         video = push_video(f"auto-top-{items[0].get('productId')}.mp4",
-                           lambda out: make_video.make_top(title, items, labels, out))
+                           lambda out: make_video.make_top(title, items, labels, out, words))
         result = publish(text, "", reply_text, coupang_card_link(items[0]), video)
     except Exception as e:
         print("TOP 영상 실패, 다른 글로 올립니다:", e)
         p.summary(f"### TOP 영상 실패 (다른 글로 대신 올림)\n- {e}")
         return False
     now = int(time.time())
-    posted += [{"id": str(i.get("productId")), "at": now, "auto": True, "post": result.get("id")} for i in items]
+    posted += [{"id": str(i.get("productId")), "at": now, "auto": True, "tone": TONE, "hook": first_line(text),
+                "post": result.get("id")}
+               for i in items]
     save_posted(posted)
     p.summary(f"## 스레드에 TOP 영상 올림\n\n본문\n```\n{text}\n```\n첫 댓글\n```\n{reply_text}\n```")
     return True
@@ -467,7 +564,8 @@ def auto_video(item, text):
     lines = text.split("\n")
     hook = lines[0]
     facts = lines[2:lines.index("", 2)] if "" in lines[2:] else lines[2:3]
-    return push_video(f"auto-{item.get('productId')}.mp4", lambda out: make_video.make(item, hook, facts, out))
+    end = say(TONE, "end")
+    return push_video(f"auto-{item.get('productId')}.mp4", lambda out: make_video.make(item, hook, facts, out, end))
 
 
 def push_video(name, build):
@@ -498,7 +596,11 @@ def save_posted(posted):
 
 
 def main():
+    global TONE
     posted = load_posted()
+    TONE = pick_tone(posted)
+    USED.update(d["hook"] for d in posted if d.get("hook"))
+    print("이번 말투:", TONE)
     if post_video(posted):
         return
     if auto_turn(posted) and post_top(posted):
@@ -515,7 +617,7 @@ def main():
     text, reply_text = compose(item, source)
     image = item.get("productImage") or ""
     card_url = coupang_card_link(item) if CARD_STYLE == "coupang" else ""
-    record = {"id": str(item.get("productId")), "at": int(time.time())}
+    record = {"id": str(item.get("productId")), "at": int(time.time()), "tone": TONE, "hook": first_line(text)}
     result = None
     if source != "manual" and image and auto_turn(posted):
         try:
