@@ -171,6 +171,24 @@ body.admin .admin-only{display:block}
 .about{max-width:1120px;margin:0 auto;padding:10px 16px 20px;color:var(--ink)}.about p,.about li{max-width:70ch;color:var(--muted)}.about ul{padding-left:1.2em}
 .cpsearch{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px 14px 10px;margin-top:18px}.cpsearch h2{margin:12px 0 8px}.cpsearch iframe{display:block;max-width:100%}
 footer{max-width:1120px;margin:0 auto;padding:24px 16px 40px;color:var(--muted);font-size:.8rem;border-top:1px solid var(--line)}
+@media (max-width:640px){
+.top{padding:12px 16px 10px}.brand svg{width:24px;height:18px}.brand b{font-size:1.15rem;letter-spacing:.14em}.tagline{display:none}
+.notice{font-size:.68rem;padding:5px 14px}
+.bar{padding:8px 12px}.bar .in{gap:8px}
+#q{border-radius:999px;padding:11px 18px;box-shadow:0 2px 10px rgba(28,31,74,.08);border-color:transparent;font-size:.9rem}
+.tabs button,.chips a{padding:5px 12px;font-size:.8rem}
+main{padding:4px 0 40px}
+.cpsearch{margin:10px 12px 0;padding:2px 10px 6px;border-radius:16px}.cpsearch h2{font-size:.95rem;margin:10px 0 4px}.cpsearch h2 small{display:none}
+.sec h2{font-size:1rem;margin:22px 16px 10px}
+.grid{display:flex;overflow-x:auto;gap:10px;padding:0 16px 6px;scroll-snap-type:x mandatory;scrollbar-width:none}
+.grid::-webkit-scrollbar{display:none}
+.card{flex:0 0 40%;max-width:160px;scroll-snap-align:start;border-radius:14px;border:0;box-shadow:0 1px 6px rgba(28,31,74,.08)}
+.info{padding:8px;gap:4px}.name{font-size:.78rem;min-height:2.5em}.price{font-size:.92rem;gap:4px}.price s{font-size:.7rem}
+.b{font-size:.65rem}.badges{min-height:16px}.tag{font-size:.62rem;left:6px;top:6px}
+.buy{padding:6px 4px;font-size:.76rem;border-radius:999px}.sum{font-size:.72rem}
+.about{padding:6px 16px 12px;font-size:.85rem}.about h2{font-size:1rem}
+footer{font-size:.72rem;padding:16px 16px 30px}
+}
 </style></head><body>
 <div class="top"><div class="in">
 <div class="brand">CROWN<b>KINGDOM</b></div>
