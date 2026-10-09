@@ -276,13 +276,26 @@ def pick_video(posted):
         if not (ROOT / "docs" / "videos" / name).exists():
             print("영상 파일이 docs/videos 에 없습니다(건너뜀):", name)
             continue
+        video = f"{SITE}/videos/{urllib.parse.quote(name)}"
+        if not online(video):   # 방금 올린 영상은 사이트 반영(1~2분) 전이라 메타가 못 가져간다. 다음 차례에 올린다
+            print("영상이 아직 사이트에 반영되지 않았습니다(다음에 올림):", video)
+            continue
         short = ""
         if url.startswith("http"):
             links = p.deeplink([url])
             short = links[0].get("shortenUrl") if links else ""
         return {"productId": f"video:{name}", "productUrl": short, "productName": "", "productImage": "",
-                "video": f"{SITE}/videos/{urllib.parse.quote(name)}", "memo": memo}, "video"
+                "video": video, "memo": memo}, "video"
     return None, None
+
+
+def online(url):
+    try:
+        req = urllib.request.Request(url, method="HEAD")
+        with urllib.request.urlopen(req, timeout=20) as res:
+            return res.status == 200
+    except Exception:
+        return False
 
 
 def short_link(item):
@@ -326,6 +339,8 @@ def publish(text, image, reply_text, card_url="", video=""):
                 break
             if st.get("status") == "ERROR":
                 raise RuntimeError(f"영상 처리 실패: {st.get('error_message')}")
+        else:
+            raise RuntimeError("영상 처리가 5분 안에 끝나지 않았습니다")
     elif image:
         try:
             container = threads("/me/threads", {"media_type": "IMAGE", "image_url": image, "text": text})
@@ -349,11 +364,36 @@ def publish(text, image, reply_text, card_url="", video=""):
     return post
 
 
-def main():
-    posted = load_posted()
+def post_video(posted):
+    """영상 1순위. 올렸으면 True. 실패한 영상은 기록해 두고 다시 고르지 않는다(막히지 않게)."""
     item, source = pick_video(posted)
     if not item:
-        item, source = pick_manual(posted)
+        return False
+    text, reply_text = compose(item, source)
+    try:
+        result = publish(text, "", reply_text, "", item["video"])
+    except RuntimeError as e:
+        posted.append({"id": item["productId"], "at": int(time.time()), "failed": str(e)[:200]})
+        save_posted(posted)
+        p.summary(f"## 영상 게시 실패 (상품 글로 대신 올림)\n\n- {item['productId'][6:]}: {e}\n"
+                  "- 영상을 고쳐 **새 파일 이름**으로 올리고 videos.txt 에 새 줄로 적어 주세요.")
+        return False
+    posted.append({"id": item["productId"], "at": int(time.time()), "post": result.get("id")})
+    save_posted(posted)
+    p.summary(f"## 스레드에 영상 올림\n\n본문\n```\n{text}\n```\n첫 댓글\n```\n{reply_text}\n```")
+    return True
+
+
+def save_posted(posted):
+    POSTED.parent.mkdir(exist_ok=True)
+    POSTED.write_text(json.dumps(posted, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def main():
+    posted = load_posted()
+    if post_video(posted):
+        return
+    item, source = pick_manual(posted)
     if not item:
         item, source = pick(posted)
         if item:
@@ -365,11 +405,10 @@ def main():
     text, reply_text = compose(item, source)
     image = item.get("productImage") or ""
     card_url = coupang_card_link(item) if CARD_STYLE == "coupang" else ""
-    result = publish(text, image, reply_text, card_url, item.get("video", ""))
+    result = publish(text, image, reply_text, card_url)
 
     posted.append({"id": str(item.get("productId")), "at": int(time.time()), "post": result.get("id")})
-    POSTED.parent.mkdir(exist_ok=True)
-    POSTED.write_text(json.dumps(posted, ensure_ascii=False, indent=1), encoding="utf-8")
+    save_posted(posted)
 
     p.summary(f"## 스레드에 올림\n\n본문\n```\n{text}\n```\n첫 댓글\n```\n{reply_text}\n```")
 
