@@ -114,7 +114,7 @@ jobs:
   youtube-links:
     if: inputs.task == 'youtube-links'
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 60
     concurrency: repo-write
     steps:
       - uses: actions/checkout@v4
@@ -122,6 +122,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: python youtube_relink.py
+        timeout-minutes: 50   # 시간이 다 돼도 아래 저장 단계는 돌게
+        continue-on-error: true
       - run: |
           git config user.name "kingdom-bot"
           git config user.email "kingdom-bot@users.noreply.github.com"
