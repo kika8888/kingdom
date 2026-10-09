@@ -60,13 +60,18 @@ jobs:
   threads:
     if: github.event.schedule == '37 */4 * * *' || inputs.task == 'threads'
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20   # auto video: build + site deploy + Meta processing
     concurrency: repo-write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: install video tools (auto video)
+        continue-on-error: true
+        run: |
+          pip install -q pillow edge-tts gTTS imageio-ffmpeg
+          sudo apt-get install -y -qq fonts-noto-cjk > /dev/null
       - run: python threads.py
         env:
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
