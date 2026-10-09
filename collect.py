@@ -78,7 +78,7 @@ def post_card(post):
     <a class="name" href="{e('link')}" target="_blank" rel="noopener">{e('title')}</a>
     <p class="sum">{e('summary')}</p>
     <div class="badges"><span class="b">{e('date')}</span></div>
-    <a class="buy more" href="{e('link')}" target="_blank" rel="noopener">글 읽기</a>
+    <a class="buy more" href="{e('link')}" target="_blank" rel="noopener">기사 보기</a>
   </div>
 </li>"""
 
@@ -202,7 +202,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 <button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
 <button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
-<button type="button" data-g="blog" aria-pressed="false">📝 블로그</button>
+<button type="button" data-g="blog" aria-pressed="false">📰 연예 뉴스</button>
 </div>
 <div class="chips" id="chips">{chips}</div>
 </div></div>
@@ -275,18 +275,22 @@ def main():
     for kw, items in data["keywords"].items():
         sections += section(f"🔥 ‘{kw}’ 신기템", items, "weird", f"kw-{len(sections)}")
     sections += section("⏰ 오늘의 골드박스", data["goldbox"], "goldbox", "goldbox")
-    chips = ""
-    for n, (name, items) in enumerate(data["best"].items()):
-        sections += section(f"🏆 {name} 베스트", items[:10], "best", f"best-{n}", rank_tag)
-        chips += f'<a href="#best-{n}">{html.escape(name)}</a>'
     try:
         posts = naver_posts()
     except Exception as ex:
         posts = []
         errors.append(f"네이버 블로그: {ex}")
-    if posts:
-        sections += (f'<section class="sec" data-group="blog" id="blog"><h2>📝 블로그 최신 글 <small>네이버 블로그</small></h2>'
-                     f'<ul class="grid">{"".join(post_card(x) for x in posts)}</ul></section>')
+    news = (f'<section class="sec" data-group="blog" id="blog"><h2>📰 연예계 뉴스</h2>'
+            f'<ul class="grid">{"".join(post_card(x) for x in posts)}</ul></section>') if posts else ""
+    chips = ""
+    half = len(data["best"]) // 2      # 연예계 뉴스는 페이지 중간쯤(베스트 절반 뒤)에 넣는다
+    for n, (name, items) in enumerate(data["best"].items()):
+        if n == half:
+            sections += news
+            news = ""
+        sections += section(f"🏆 {name} 베스트", items[:10], "best", f"best-{n}", rank_tag)
+        chips += f'<a href="#best-{n}">{html.escape(name)}</a>'
+    sections += news   # 베스트가 없을 때
     if not sections:
         sections = '<p class="empty">상품을 준비하고 있어요. 잠시 뒤 다시 들러 주세요.</p>'
 
