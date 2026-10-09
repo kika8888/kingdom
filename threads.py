@@ -358,9 +358,12 @@ def publish(text, image, reply_text, card_url="", video=""):
     params = {"media_type": "TEXT", "text": reply_text, "reply_to_id": post["id"]}
     if card_url:
         params["link_attachment"] = card_url   # 카드만 이 링크로 (본문 링크는 그대로)
-    reply = threads("/me/threads", params)
-    time.sleep(10)
-    threads("/me/threads_publish", {"creation_id": reply["id"]})
+    try:   # 본문은 이미 올라갔으니 댓글이 실패해도 같은 글을 다시 올리지 않는다
+        reply = threads("/me/threads", params)
+        time.sleep(10)
+        threads("/me/threads_publish", {"creation_id": reply["id"]})
+    except RuntimeError as e:
+        p.summary(f"### 링크 댓글 실패 (본문은 올라감)\n- {e}")
     return post
 
 
@@ -384,6 +387,47 @@ def post_video(posted):
     return True
 
 
+AUTO_EVERY = 3   # 글 3개 중 1개는 자동 영상(사진 + 한국어 여성 목소리 + 배경음)으로
+
+
+def auto_turn(posted):
+    """마지막 자동 영상 뒤로 글이 AUTO_EVERY-1 개 이상 올라갔으면 이번이 영상 차례."""
+    done = [d for d in posted if "failed" not in d]
+    since = 0
+    for d in reversed(done):
+        if d.get("auto"):
+            break
+        since += 1
+    return since >= AUTO_EVERY - 1
+
+
+def auto_video(item, text):
+    """상품 영상을 만들어 docs/videos 에 올리고(push), 사이트에 반영되면 주소를 돌려준다."""
+    import subprocess
+    import make_video
+    lines = text.split("\n")
+    hook = lines[0]
+    facts = lines[2:lines.index("", 2)] if "" in lines[2:] else lines[2:3]
+    folder = ROOT / "docs" / "videos"
+    folder.mkdir(parents=True, exist_ok=True)
+    name = f"auto-{item.get('productId')}.mp4"
+    for old in folder.glob("auto-*.mp4"):   # 지난 자동 영상은 스레드가 이미 가져갔으니 지워서 저장소를 가볍게
+        old.unlink()
+    make_video.make(item, hook, facts, folder / name)
+
+    git = ["git", "-c", "user.name=kingdom-bot", "-c", "user.email=kingdom-bot@users.noreply.github.com"]
+    for cmd in (["add", "-A", "docs/videos"], ["commit", "-m", "auto video"], ["pull", "--rebase"], ["push"]):
+        r = subprocess.run(git + cmd, cwd=ROOT, capture_output=True, text=True)
+        if r.returncode != 0:
+            raise RuntimeError(f"git {cmd[0]} 실패: {(r.stderr or r.stdout).strip()[:200]}")
+    url = f"{SITE}/videos/{name}"
+    for _ in range(24):   # 사이트 반영 최대 6분 기다림
+        time.sleep(15)
+        if online(url):
+            return url
+    raise RuntimeError("영상이 사이트에 반영되지 않았습니다")
+
+
 def save_posted(posted):
     POSTED.parent.mkdir(exist_ok=True)
     POSTED.write_text(json.dumps(posted, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -405,9 +449,20 @@ def main():
     text, reply_text = compose(item, source)
     image = item.get("productImage") or ""
     card_url = coupang_card_link(item) if CARD_STYLE == "coupang" else ""
-    result = publish(text, image, reply_text, card_url)
+    record = {"id": str(item.get("productId")), "at": int(time.time())}
+    result = None
+    if source != "manual" and image and auto_turn(posted):
+        try:
+            result = publish(text, "", reply_text, card_url, auto_video(item, text))
+            record["auto"] = True
+        except Exception as e:   # 영상이 안 되면 평소처럼 사진 글로
+            print("자동 영상 실패, 사진 글로 올립니다:", e)
+            p.summary(f"### 자동 영상 실패 (사진 글로 대신 올림)\n- {e}")
+    if result is None:
+        result = publish(text, image, reply_text, card_url)
 
-    posted.append({"id": str(item.get("productId")), "at": int(time.time()), "post": result.get("id")})
+    record["post"] = result.get("id")
+    posted.append(record)
     save_posted(posted)
 
     p.summary(f"## 스레드에 올림\n\n본문\n```\n{text}\n```\n첫 댓글\n```\n{reply_text}\n```")
