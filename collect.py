@@ -89,40 +89,94 @@ def post_card(post):
 YOUTUBE_CHANNEL = os.environ.get("YOUTUBE_CHANNEL", "").strip() or "UCQ2Hnlm87LHYIbD99Rq-qHA"   # 퍼팩트 시크릿 마케터
 YT = "{http://www.youtube.com/xml/schemas/2015}"
 ATOM = "{http://www.w3.org/2005/Atom}"
+MRSS = "{http://search.yahoo.com/mrss/}"
+CP_LINK = re.compile(r"https?://link\.coupang\.com/a/[A-Za-z0-9]+")
+CHAPTER = re.compile(r"^\d{1,2}:\d{2}(:\d{2})?\s*")
+
+
+def clean_line(t):
+    t = CHAPTER.sub("", t)
+    t = re.sub(r"https?://\S+|[\[\]【】\"“”]|[🀀-🫿☀-➿️]", "", t)
+    return " ".join(t.split()).strip(" -:|/")
+
+
+def video_detail(desc):
+    """설명란에서 한 줄 요약과 '영상 속 상품'(이름, 쿠팡 링크)을 뽑는다. 광고 문구·안내 문구는 뺀다."""
+    lines = [l.strip() for l in desc.splitlines()]
+    skip = ("파트너스", "수수료", "더보기", "고정 댓글", "클릭하면")
+    summary = ""
+    for i, l in enumerate(lines):   # '00:00 소제목' 다음 줄이 영상 소개 문장
+        if l.startswith(("00:00", "0:00")):
+            nxt = next((x for x in lines[i + 1:i + 3] if x and not CP_LINK.search(x)), "")
+            summary = clean_line(nxt) or clean_line(l)
+            break
+    if not summary:
+        summary = next((clean_line(l) for l in lines if l and not CP_LINK.search(l) and not l.startswith("#")
+                        and not any(k in l for k in skip) and len(clean_line(l)) >= 6), "")
+    products, seen = [], set()
+    for i, l in enumerate(lines):
+        for link in CP_LINK.findall(l):
+            if link in seen:
+                continue
+            seen.add(link)
+            name = clean_line(l[:l.find(link)])
+            if len(name) < 4:   # 링크가 따로 한 줄이면 바로 위 줄(타임코드 상품명)
+                name = next((clean_line(x) for x in reversed(lines[max(i - 2, 0):i])
+                             if x and not any(k in x for k in skip) and len(clean_line(x)) >= 4), "")
+            if len(name) < 4:   # 쇼츠: 링크 뒤 줄에 상품명
+                name = next((clean_line(x) for x in lines[i + 1:i + 3] if x and len(clean_line(x)) >= 4), "")
+            if name:
+                products.append((name[:40], link))
+    return summary[:60], products[:3]
 
 
 def youtube_videos(n=8):
-    """내 유튜브 채널 최신 영상 (공개 RSS). 제목·썸네일·날짜만 쓴다."""
+    """내 채널 최신 영상 (공개 RSS). 제목·썸네일·날짜·설명란의 요약과 상품 링크만 쓴다."""
     req = urllib.request.Request(f"https://www.youtube.com/feeds/videos.xml?channel_id={YOUTUBE_CHANNEL}",
                                  headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=20) as res:
         root = ET.fromstring(res.read())
     out = []
+    now = p.now_kst().date()
     for e in root.iter(f"{ATOM}entry"):
         vid = e.findtext(f"{YT}videoId") or ""
         pub = (e.findtext(f"{ATOM}published") or "")[:10]
-        if vid:
-            out.append({"id": vid, "title": (e.findtext(f"{ATOM}title") or "").strip(),
-                        "date": f"{int(pub[5:7])}월 {int(pub[8:10])}일" if len(pub) == 10 else ""})
+        if not vid:
+            continue
+        summary, products = video_detail(e.findtext(f"{MRSS}group/{MRSS}description") or "")
+        try:
+            new = (now - __import__("datetime").date.fromisoformat(pub)).days <= 7
+        except ValueError:
+            new = False
+        out.append({"id": vid, "title": (e.findtext(f"{ATOM}title") or "").strip(), "new": new,
+                    "date": f"{int(pub[5:7])}월 {int(pub[8:10])}일" if len(pub) == 10 else "",
+                    "summary": summary, "products": products})
         if len(out) >= n:
             break
     return out
 
 
 def youtube_section(videos):
-    """썸네일만 먼저 보여 주고, 누르면 그 자리에서 유튜브 플레이어를 연다 (페이지가 무거워지지 않게)."""
+    """📺 리뷰 영상: 썸네일만 먼저 보여 주고, 누르면 그 자리에서 재생한다 (페이지가 무거워지지 않게)."""
     cards = []
     for v in videos:
         vid, title = html.escape(v["id"], quote=True), html.escape(v["title"], quote=True)
-        cards.append(f'<li class="card post" data-name="{title.lower()}">'
+        watch = f"https://www.youtube.com/watch?v={vid}"
+        items = "".join(f'<li><span>{html.escape(n)}</span><a href="{html.escape(u, quote=True)}" target="_blank" '
+                        f'rel="sponsored nofollow noopener">보기</a></li>' for n, u in v["products"])
+        cards.append(f'<li class="card post rv" data-name="{title.lower()} {html.escape(" ".join(n for n, u in v["products"])).lower()}">'
                      f'<button type="button" class="thumb yt" data-yt="{vid}" aria-label="{title} 재생">'
-                     f'<img src="https://i.ytimg.com/vi/{vid}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"></button>'
-                     f'<div class="info"><a class="name" href="https://www.youtube.com/watch?v={vid}" target="_blank" rel="noopener">{title}</a>'
-                     f'<div class="badges"><span class="b">{html.escape(v["date"])}</span></div>'
-                     f'<a class="buy more" href="https://www.youtube.com/watch?v={vid}" target="_blank" rel="noopener">유튜브에서 보기</a></div></li>')
+                     f'<img src="https://i.ytimg.com/vi/{vid}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">'
+                     + ('<span class="tag">NEW</span>' if v["new"] else "") + '</button>'
+                     f'<div class="info"><a class="name" href="{watch}" target="_blank" rel="noopener">{title}</a>'
+                     + (f'<p class="sum">{html.escape(v["summary"])}</p>' if v["summary"] else "")
+                     + (f'<p class="pl">영상 속 상품</p><ul class="plist">{items}</ul>' if items else "")
+                     + f'<div class="badges"><span class="b">{html.escape(v["date"])}</span></div>'
+                     f'<a class="buy more" href="{watch}" target="_blank" rel="noopener">영상 보기</a></div></li>')
     if not cards:
         return ""
-    return (f'<section class="sec" data-group="youtube" id="youtube"><h2>▶ 유튜브 <small>퍼팩트 시크릿 마케터 최신 영상</small></h2>'
+    return (f'<section class="sec" data-group="youtube" id="youtube"><h2>📺 리뷰 영상 <small>{len(cards)}편</small></h2>'
+            f'<p class="lead">영상으로 비교·정리한 추천템 — 영상 속 상품을 바로 확인하세요</p>'
             f'<ul class="grid">{"".join(cards)}</ul></section>')
 
 
@@ -237,8 +291,21 @@ h2{font-size:1.15rem;margin:30px 0 12px;scroll-margin-top:140px}h2 small{color:v
 .thumb img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover}
 .thumb video{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:#000}
 .yt{border:0;padding:0;cursor:pointer;width:100%}.yt img{aspect-ratio:16/9}.yt iframe{display:block;width:100%;aspect-ratio:16/9;border:0}
-.yt::after{content:"";position:absolute;left:50%;top:50%;width:46px;height:32px;margin:-16px 0 0 -23px;border-radius:9px;background:rgba(209,52,43,.92) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='white' d='M9 7l8 5-8 5z'/%3E%3C/svg%3E") center/22px no-repeat}
-.yt.on::after{display:none}
+.yt::after{content:"";position:absolute;left:50%;top:50%;width:46px;height:32px;margin:-16px 0 0 -23px;border-radius:9px;background:rgba(28,31,74,.88) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='white' d='M9 7l8 5-8 5z'/%3E%3C/svg%3E") center/22px no-repeat}
+.yt.on::after{display:none}.yt::after{box-shadow:0 0 0 2px var(--gold)}
+#youtube{background:linear-gradient(135deg,#1c1f4a 0%,#2e3478 100%);border-radius:20px;padding:4px 20px 22px;margin-top:28px;box-shadow:0 8px 24px rgba(28,31,74,.18)}
+#youtube h2{color:#fff;font-size:1.35rem;margin:20px 0 4px}#youtube h2 small{color:var(--gold);font-weight:700;font-size:.9rem;margin-left:6px}
+#youtube .lead{color:#c9cbe0;font-size:.88rem;margin:0 0 14px}
+#youtube .grid{grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+#youtube .card{border:0;box-shadow:0 4px 14px rgba(0,0,0,.25);transition:transform .15s}#youtube .card:hover{transform:translateY(-3px)}
+#youtube .card{background:#fff;color:#17182b}#youtube .sum{color:#5d6072}#youtube .b{background:#ecebe5;color:#5d6072}
+#youtube .name{font-weight:800;font-size:.95rem}
+.yt::after{width:60px!important;height:60px!important;margin:-30px 0 0 -30px!important;border-radius:50%!important;background-size:30px!important}
+.pl{margin:2px 0 0;font-size:.72rem;font-weight:800;color:var(--gold-ink)}
+.plist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px}
+.plist li{display:flex;align-items:center;gap:6px;font-size:.78rem}
+.plist span{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.plist a{flex:none;color:#fff;background:var(--sale);text-decoration:none;font-weight:700;font-size:.7rem;padding:2px 8px;border-radius:999px}
 .tag{position:absolute;left:8px;top:8px;background:var(--gold);color:#1c1f4a;font-size:.72rem;font-weight:800;padding:2px 7px;border-radius:6px}
 .info{padding:10px;display:flex;flex-direction:column;gap:6px;flex:1;min-width:0}
 .name{text-decoration:none;font-size:.88rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.6em}
@@ -270,6 +337,8 @@ main{padding:4px 0 40px}
 .info{padding:8px;gap:4px}.name{font-size:.78rem;min-height:2.5em}.price{font-size:.92rem;gap:4px}.price s{font-size:.7rem}
 .b{font-size:.65rem}.badges{min-height:16px}.tag{font-size:.62rem;left:6px;top:6px}
 .buy{padding:6px 4px;font-size:.76rem;border-radius:999px}.sum{font-size:.72rem}
+.card.rv{flex:0 0 78%;max-width:300px}
+#youtube{margin:22px 12px 0;padding:2px 0 16px;border-radius:18px}#youtube h2{margin:16px 16px 2px;font-size:1.1rem}#youtube .lead{margin:0 16px 10px;font-size:.78rem}
 .about{padding:6px 16px 12px;font-size:.85rem}.about h2{font-size:1rem}
 footer{font-size:.72rem;padding:16px 16px 30px}
 }
@@ -284,7 +353,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 <div class="tabs" role="group" aria-label="보기">
 <button type="button" data-g="all" aria-pressed="true">전체</button>
 <button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
-<button type="button" data-g="youtube" aria-pressed="false">▶ 유튜브</button>
+<button type="button" data-g="youtube" aria-pressed="false">📺 리뷰 영상</button>
 <button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
 <button type="button" data-g="video" aria-pressed="false">🎬 영상</button>
@@ -321,7 +390,7 @@ document.querySelectorAll('.tabs button').forEach(function(b){b.addEventListener
 document.querySelectorAll('.tabs button').forEach(function(x){x.setAttribute('aria-pressed',String(x===b))});apply();window.scrollTo({top:0})})});
 q.addEventListener('input',apply);
 document.addEventListener('click',function(e){var y=e.target.closest('button[data-yt]');if(!y||y.classList.contains('on'))return;
-y.classList.add('on');y.innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+y.dataset.yt+'?autoplay=1&rel=0" title="유튜브 영상" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>'});
+y.classList.add('on');y.innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+y.dataset.yt+'?autoplay=1&rel=0" title="리뷰 영상" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>'});
 document.addEventListener('click',function(e){var b=e.target.closest('button[data-link]');if(!b)return;
 var t=b.textContent;function done(m){b.textContent=m;setTimeout(function(){b.textContent=t},1500)}
 var txt='이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\\n\\n'+b.dataset.name+'\\n'+b.dataset.link;
@@ -382,8 +451,8 @@ def main():
         yt_videos = youtube_videos()
     except Exception as ex:
         yt_videos = []
-        errors.append(f"유튜브: {ex}")
-    sections += youtube_section(yt_videos)   # ▶ 유튜브는 신기템 묶음 바로 위
+        errors.append(f"리뷰 영상(유튜브 RSS): {ex}")
+    sections += youtube_section(yt_videos)   # 📺 리뷰 영상은 신기템 묶음 바로 위
     for kw, items in data["keywords"].items():
         if "캠핑" in kw and items:   # 캠핑 신기템이 있으면 바로 위에
             sections += sports
