@@ -86,6 +86,46 @@ def post_card(post):
 </li>"""
 
 
+YOUTUBE_CHANNEL = os.environ.get("YOUTUBE_CHANNEL", "").strip() or "UCQ2Hnlm87LHYIbD99Rq-qHA"   # 퍼팩트 시크릿 마케터
+YT = "{http://www.youtube.com/xml/schemas/2015}"
+ATOM = "{http://www.w3.org/2005/Atom}"
+
+
+def youtube_videos(n=8):
+    """내 유튜브 채널 최신 영상 (공개 RSS). 제목·썸네일·날짜만 쓴다."""
+    req = urllib.request.Request(f"https://www.youtube.com/feeds/videos.xml?channel_id={YOUTUBE_CHANNEL}",
+                                 headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=20) as res:
+        root = ET.fromstring(res.read())
+    out = []
+    for e in root.iter(f"{ATOM}entry"):
+        vid = e.findtext(f"{YT}videoId") or ""
+        pub = (e.findtext(f"{ATOM}published") or "")[:10]
+        if vid:
+            out.append({"id": vid, "title": (e.findtext(f"{ATOM}title") or "").strip(),
+                        "date": f"{int(pub[5:7])}월 {int(pub[8:10])}일" if len(pub) == 10 else ""})
+        if len(out) >= n:
+            break
+    return out
+
+
+def youtube_section(videos):
+    """썸네일만 먼저 보여 주고, 누르면 그 자리에서 유튜브 플레이어를 연다 (페이지가 무거워지지 않게)."""
+    cards = []
+    for v in videos:
+        vid, title = html.escape(v["id"], quote=True), html.escape(v["title"], quote=True)
+        cards.append(f'<li class="card post" data-name="{title.lower()}">'
+                     f'<button type="button" class="thumb yt" data-yt="{vid}" aria-label="{title} 재생">'
+                     f'<img src="https://i.ytimg.com/vi/{vid}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"></button>'
+                     f'<div class="info"><a class="name" href="https://www.youtube.com/watch?v={vid}" target="_blank" rel="noopener">{title}</a>'
+                     f'<div class="badges"><span class="b">{html.escape(v["date"])}</span></div>'
+                     f'<a class="buy more" href="https://www.youtube.com/watch?v={vid}" target="_blank" rel="noopener">유튜브에서 보기</a></div></li>')
+    if not cards:
+        return ""
+    return (f'<section class="sec" data-group="youtube" id="youtube"><h2>▶ 유튜브 <small>퍼팩트 시크릿 마케터 최신 영상</small></h2>'
+            f'<ul class="grid">{"".join(cards)}</ul></section>')
+
+
 def video_section():
     """videos.txt (파일이름 | 쿠팡 주소 | 문구) 에 적은 캡컷 영상 중 docs/videos 에 있는 최신 6개."""
     try:
@@ -196,6 +236,9 @@ h2{font-size:1.15rem;margin:30px 0 12px;scroll-margin-top:140px}h2 small{color:v
 .thumb{position:relative;display:block;background:var(--chip)}
 .thumb img{display:block;width:100%;height:auto;aspect-ratio:1;object-fit:cover}
 .thumb video{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:#000}
+.yt{border:0;padding:0;cursor:pointer;width:100%}.yt img{aspect-ratio:16/9}.yt iframe{display:block;width:100%;aspect-ratio:16/9;border:0}
+.yt::after{content:"";position:absolute;left:50%;top:50%;width:46px;height:32px;margin:-16px 0 0 -23px;border-radius:9px;background:rgba(209,52,43,.92) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='white' d='M9 7l8 5-8 5z'/%3E%3C/svg%3E") center/22px no-repeat}
+.yt.on::after{display:none}
 .tag{position:absolute;left:8px;top:8px;background:var(--gold);color:#1c1f4a;font-size:.72rem;font-weight:800;padding:2px 7px;border-radius:6px}
 .info{padding:10px;display:flex;flex-direction:column;gap:6px;flex:1;min-width:0}
 .name{text-decoration:none;font-size:.88rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.6em}
@@ -241,6 +284,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 <div class="tabs" role="group" aria-label="보기">
 <button type="button" data-g="all" aria-pressed="true">전체</button>
 <button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
+<button type="button" data-g="youtube" aria-pressed="false">▶ 유튜브</button>
 <button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
 <button type="button" data-g="video" aria-pressed="false">🎬 영상</button>
@@ -276,6 +320,8 @@ document.getElementById('none').hidden=any;chips.classList.toggle('show',g==='be
 document.querySelectorAll('.tabs button').forEach(function(b){b.addEventListener('click',function(){g=b.dataset.g;
 document.querySelectorAll('.tabs button').forEach(function(x){x.setAttribute('aria-pressed',String(x===b))});apply();window.scrollTo({top:0})})});
 q.addEventListener('input',apply);
+document.addEventListener('click',function(e){var y=e.target.closest('button[data-yt]');if(!y||y.classList.contains('on'))return;
+y.classList.add('on');y.innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+y.dataset.yt+'?autoplay=1&rel=0" title="유튜브 영상" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>'});
 document.addEventListener('click',function(e){var b=e.target.closest('button[data-link]');if(!b)return;
 var t=b.textContent;function done(m){b.textContent=m;setTimeout(function(){b.textContent=t},1500)}
 var txt='이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\\n\\n'+b.dataset.name+'\\n'+b.dataset.link;
@@ -332,6 +378,12 @@ def main():
     sections = (f'<section class="sec" data-group="car" id="car"><h2>🚗 자동차 뉴스</h2>'
                 f'<ul class="grid">{"".join(post_card(x) for x in car_posts)}</ul></section>') if car_posts else ""
     sections = video_section() + sections   # 🎬 캡컷 영상은 맨 위 (자동차 뉴스 위)
+    try:
+        yt_videos = youtube_videos()
+    except Exception as ex:
+        yt_videos = []
+        errors.append(f"유튜브: {ex}")
+    sections += youtube_section(yt_videos)   # ▶ 유튜브는 신기템 묶음 바로 위
     for kw, items in data["keywords"].items():
         if "캠핑" in kw and items:   # 캠핑 신기템이 있으면 바로 위에
             sections += sports
@@ -359,7 +411,7 @@ def main():
         sections = '<p class="empty">상품을 준비하고 있어요. 잠시 뒤 다시 들러 주세요.</p>'
 
     page = PAGE.replace("CROWN", CROWN).replace("{chips}", chips)
-    for g in ("video", "car", "sports", "blog"):   # 빈 뉴스 탭 숨기기: 글을 못 가져온 칸은 탭도 뺀다
+    for g in ("video", "youtube", "car", "sports", "blog"):   # 빈 뉴스 탭 숨기기: 글을 못 가져온 칸은 탭도 뺀다
         if f'data-group="{g}"' not in sections:
             page = re.sub(rf'<button type="button" data-g="{g}"[^>]*>[^<]*</button>\n?', "", page)
     (OUT / "index.html").write_text(page.replace("{updated}", data["updated"]).replace("{sections}", sections),
