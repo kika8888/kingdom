@@ -607,6 +607,7 @@ def save_posted(posted):
 
 YT_LIST = ROOT / "youtube_videos.json"   # 내 채널 공개 영상 (제목·요약·영상 속 상품 링크)
 YT_EVERY = 6   # 글 6개 중 1개는 내 영상 링크 글
+YT_REUSE_DAYS = 60   # 영상을 다 올린 뒤 다시 쓸 때, 이 기간 안에 올린 영상은 건너뛴다
 
 
 def yt_turn(posted):
@@ -625,11 +626,20 @@ def post_youtube(posted):
         videos = json.loads(YT_LIST.read_text(encoding="utf-8"))
     except FileNotFoundError:
         return False
-    seen = {str(d.get("id")) for d in posted}
-    fresh = [v for v in videos if f"yt:{v['id']}" not in seen and v.get("products")]
-    if not fresh:
-        return False
-    v = random.choice(fresh[:30])   # 최신 영상 쪽에서 고른다
+    last = {}   # 영상별 마지막으로 올린 시각
+    for d in posted:
+        if str(d.get("id", "")).startswith("yt:"):
+            last[d["id"][3:]] = max(last.get(d["id"][3:], 0), d.get("at", 0))
+    videos = [v for v in videos if v.get("products")]
+    fresh = [v for v in videos if v["id"] not in last]
+    if fresh:
+        v = random.choice(fresh[:30])   # 안 올린 영상 중 최신 쪽에서 고른다
+    else:   # 다 올렸으면 재사용: 최근 YT_REUSE_DAYS 일 안에 올린 건 빼고, 가장 오래전에 올린 것부터
+        cutoff = time.time() - YT_REUSE_DAYS * 86400
+        old = sorted((v for v in videos if last[v["id"]] < cutoff), key=lambda v: last[v["id"]])
+        if not old:
+            return False
+        v = random.choice(old[:10])
     url = f"https://www.youtube.com/watch?v={v['id']}"
     tone = TONE
     body = [say(tone, "yt"), ""] + ([v["summary"]] if v.get("summary") else [])
