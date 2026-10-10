@@ -32,7 +32,7 @@ def main():
     commission = total(p.report("commission", d, d), "commission")
 
     label = day.strftime("%Y-%m-%d")
-    p.notify(
+    errors = p.notify(
         f"[쿠팡 파트너스] {label} 실적\n"
         f"클릭 {clicks:,.0f}회\n"
         f"주문 {orders:,.0f}건 (구매액 {gmv:,.0f}원)\n"
@@ -43,6 +43,10 @@ def main():
         f"| {clicks:,.0f} | {orders:,.0f} | {gmv:,.0f}원 | {commission:,.0f}원 |\n\n"
         "※ 쿠팡 리포트는 하루 정도 늦게 확정될 수 있습니다."
     )
+    if errors:   # 알림이 안 갔으면 실패로 표시해서 GitHub 실행 기록(빨간 X)과 메일로 알 수 있게
+        for e in errors:
+            print(f"::error title=알림 전송 실패::{e[:300]}")
+        raise SystemExit("실적 알림을 보내지 못했습니다: " + " / ".join(errors))
 
 
 if __name__ == "__main__":

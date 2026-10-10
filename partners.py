@@ -120,14 +120,17 @@ def report(kind, start, end):
 # ── 알림 / 요약 ──────────────────────────────────────────────
 
 def notify(text):
-    """카카오톡(나에게 보내기)·텔레그램 중 설정된 곳으로 보낸다. 없으면 조용히 넘어간다."""
+    """카카오톡(나에게 보내기)·텔레그램 중 설정된 곳으로 보낸다. 없으면 조용히 넘어간다.
+    실패한 곳의 이유 목록을 돌려준다 (실적 알림은 이걸 보고 작업을 실패로 표시한다)."""
     sent = False
+    errors = []
     if os.environ.get("KAKAO_REST_KEY", "").strip() and os.environ.get("KAKAO_REFRESH_TOKEN", "").strip():
         try:
             kakao_send(text)
             sent = True
-        except Exception as e:  # 알림 실패로 작업 전체를 실패시키지 않는다
+        except Exception as e:
             print("카카오톡 전송 실패:", e)
+            errors.append(f"카카오톡: {e}")
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     if token and chat:
@@ -137,8 +140,10 @@ def notify(text):
             sent = True
         except Exception as e:
             print("텔레그램 전송 실패:", e)
+            errors.append(f"텔레그램: {type(e).__name__}")   # 주소에 봇 토큰이 들어 있어 내용은 남기지 않는다
     if not sent:
         print("(카카오톡·텔레그램 미설정 또는 실패 - 알림 생략)")
+    return errors
 
 
 # ── 카카오톡 나에게 보내기 ─────────────────────────────────────
