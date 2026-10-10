@@ -117,6 +117,8 @@ def hashtags(item, source):
 # 자동 글이라 직접 써 본 척하는 후기·가짜 신분·근거 없는 품절 임박 같은 말은 넣지 않는다.
 TONES = {
     "친구": {
+        "yt": ["영상으로 비교해봤어", "이거 영상 보면 바로 이해됨", "직접 정리한 영상 올려봄", "고민되면 이 영상 하나면 끝"],
+        "yt_cta": "영상 속 상품 링크는 댓글에 👇",
         "hook": ["야 이거 봤어?", "{t} 찾는 사람 이거 봐봐", "이거 나만 몰랐냐", "요즘 {t} 이거 많이 사더라",
                  "이거 왜 이제 알았지", "너 이거 알고 있었어?", "이런 게 있는 줄 몰랐네", "이거 하나 있으면 편하겠다",
                  "{t} 이거 어때?", "오 이거 괜찮은데?", "이거 은근 많이 쓰더라", "이거 보자마자 생각났어"],
@@ -130,6 +132,8 @@ TONES = {
         "outro_title": "맘에 드는 거 있었어?", "end": "자세한 건 댓글 링크 봐봐",
     },
     "존댓말": {
+        "yt": ["영상으로 비교해 정리했어요", "고민되시면 이 영상 한번 보세요", "영상으로 차이를 보여 드릴게요", "한눈에 비교할 수 있게 영상으로 담았어요"],
+        "yt_cta": "영상 속 상품 링크는 댓글에 있어요 👇",
         "hook": ["{t} 고민 중이시면 이거 한번 보세요", "요즘 {t} 이 상품 많이 찾으시더라고요", "혹시 이거 알고 계셨어요?",
                  "이런 상품도 있더라고요", "오늘은 이 상품 소개해 드릴게요", "{t} 찾으시는 분들께 추천드려요",
                  "생각보다 유용한 상품이에요", "알아두면 좋은 상품 하나 공유드려요", "요즘 많이들 쓰시는 거예요",
@@ -145,6 +149,8 @@ TONES = {
         "outro_title": "마음에 드는 거 있었나요?", "end": "자세한 정보는 댓글 링크에서 확인해 보세요",
     },
     "감탄": {
+        "yt": ["와 이렇게 비교하니까 확 보이네", "영상으로 보니까 차이가 엄청남", "이거 영상으로 봐야 함", "비교해보고 깜짝 놀람"],
+        "yt_cta": "영상 속 상품은 댓글에 👇",
         "hook": ["와 이게 된다고?", "세상에 이런 게 있었네", "이거 진짜 신기하다;;", "와 {t} 이런 것도 있구나",
                  "이걸 이렇게 만든다고?", "아이디어 미쳤다", "이거 처음 보고 놀람", "와 이건 좀 신박한데?",
                  "누가 이런 생각을 했지", "이게 진짜 있네;;", "와 세상 좋아졌다", "이거 보고 감탄함"],
@@ -158,6 +164,8 @@ TONES = {
         "outro_title": "신기한 거 있었어?", "end": "궁금하면 댓글 링크 확인해 보세요",
     },
     "질문": {
+        "yt": ["뭐가 제일 나은지 영상으로 볼래요?", "이 중에 뭐 고르실 거예요?", "비교 영상 보셨어요?", "어떤 게 제일 마음에 드세요?"],
+        "yt_cta": "상품 링크는 댓글에서 확인하세요 👇",
         "hook": ["{t} 아직도 고민 중이세요?", "이거 있는 집 손?", "이거 뭔지 아는 사람?", "다들 {t} 뭐 쓰세요?",
                  "이거 어디에 쓰는 건지 맞혀 보실래요?", "이런 거 필요했던 적 있으세요?", "혹시 이거 써 본 사람?",
                  "이거 본 적 있어요?", "{t} 뭐 살지 모르겠을 때 어떡해요?", "이거 집에 하나쯤 있어야 하지 않나요?",
@@ -173,6 +181,8 @@ TONES = {
         "outro_title": "마음에 드는 거 있으셨어요?", "end": "궁금하면 댓글 링크 확인해 보세요",
     },
     "짧게": {
+        "yt": ["비교 영상", "영상으로 정리", "한눈에 비교", "영상 하나로 끝"],
+        "yt_cta": "링크는 댓글 👇",
         "hook": ["이거.", "{t} 이거 하나면 됨", "요즘 이거", "그냥 이거 보세요", "이거 괜찮음", "{t} 추천",
                  "오늘의 발견", "이거 알아두기", "저장각", "요즘 인기템", "한 줄 요약: 편함"],
         "gold": ["골드박스 {p}%", "오늘 골드박스"],
@@ -276,7 +286,7 @@ def load_posted():
         data = []
     cutoff = time.time() - KEEP_DAYS * 86400
     # 영상은 한 번만 올린다 (7일이 지나도 기록을 지우지 않음)
-    return [d for d in data if d.get("at", 0) > cutoff or str(d.get("id", "")).startswith("video:")]
+    return [d for d in data if d.get("at", 0) > cutoff or str(d.get("id", "")).startswith(("video:", "yt:"))]
 
 
 def my_sold_ids():
@@ -595,6 +605,58 @@ def save_posted(posted):
     POSTED.write_text(json.dumps(posted, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+YT_LIST = ROOT / "youtube_videos.json"   # 내 채널 공개 영상 (제목·요약·영상 속 상품 링크)
+YT_EVERY = 6   # 글 6개 중 1개는 내 영상 링크 글
+
+
+def yt_turn(posted):
+    """마지막 영상 링크 글 뒤로 글이 YT_EVERY-1 개 이상 올라갔으면 차례. (TOP 3 는 상품 3개 기록이 글 1개)"""
+    since = set()
+    for d in reversed([d for d in posted if "failed" not in d]):
+        if d.get("yt"):
+            break
+        since.add(d.get("post") or id(d))
+    return len(since) >= YT_EVERY - 1
+
+
+def post_youtube(posted):
+    """내 채널 영상 하나를 링크 카드로 올리고, 첫 댓글에 영상 속 상품 링크를 단다. 올렸으면 True."""
+    try:
+        videos = json.loads(YT_LIST.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        return False
+    seen = {str(d.get("id")) for d in posted}
+    fresh = [v for v in videos if f"yt:{v['id']}" not in seen and v.get("products")]
+    if not fresh:
+        return False
+    v = random.choice(fresh[:30])   # 최신 영상 쪽에서 고른다
+    url = f"https://www.youtube.com/watch?v={v['id']}"
+    tone = TONE
+    body = [say(tone, "yt"), ""] + ([v["summary"]] if v.get("summary") else [])
+    body += ["", say(tone, "yt_cta"), "", hashtags({"productName": v["title"]}, "리뷰영상"), "#광고"]
+    text = "\n".join(body)[:MAX_TEXT]
+    reply = [f'"{NOTICE}"', ""] + [f"· {n[:30]} 👉 {l}" for n, l in v["products"][:3]] + ["", say(tone, "reply")]
+    reply_text = "\n".join(reply)[:MAX_TEXT]
+    try:
+        container = threads("/me/threads", {"media_type": "TEXT", "text": text, "link_attachment": url})
+        time.sleep(30)
+        post = threads("/me/threads_publish", {"creation_id": container["id"]})
+    except RuntimeError as e:
+        p.summary(f"### 영상 링크 글 실패 (다른 글로 대신 올림)\n- {e}")
+        return False
+    try:   # 본문은 이미 올라갔으니 댓글이 실패해도 같은 글을 다시 올리지 않는다
+        r = threads("/me/threads", {"media_type": "TEXT", "text": reply_text, "reply_to_id": post["id"]})
+        time.sleep(10)
+        threads("/me/threads_publish", {"creation_id": r["id"]})
+    except RuntimeError as e:
+        p.summary(f"### 링크 댓글 실패 (본문은 올라감)\n- {e}")
+    posted.append({"id": f"yt:{v['id']}", "at": int(time.time()), "yt": True, "tone": tone,
+                   "hook": first_line(text), "post": post.get("id")})
+    save_posted(posted)
+    p.summary(f"## 스레드에 영상 링크 글 올림\n\n{url}\n\n본문\n```\n{text}\n```\n첫 댓글\n```\n{reply_text}\n```")
+    return True
+
+
 def main():
     global TONE
     posted = load_posted()
@@ -602,6 +664,8 @@ def main():
     USED.update(d["hook"] for d in posted if d.get("hook"))
     print("이번 말투:", TONE)
     if post_video(posted):
+        return
+    if yt_turn(posted) and post_youtube(posted):
         return
     if auto_turn(posted) and post_top(posted):
         return
