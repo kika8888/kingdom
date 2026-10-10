@@ -30,4 +30,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except BaseException as e:   # 실패 이유를 GitHub 실행 기록(빨간 X)에 남긴다. 코드·토큰 값은 남기지 않는다
+        msg = str(e)
+        if isinstance(e, SystemExit) and not msg:
+            raise
+        print(f"::error title=카톡 연결 실패::{msg[:300]}")
+        raise SystemExit(1)
