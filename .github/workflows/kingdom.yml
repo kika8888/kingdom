@@ -5,13 +5,14 @@ on:
     - cron: "7 * * * *"      # collect: every hour
     - cron: "37 */4 * * *"   # threads: every 4 hours (KST 1,5,9,13,17,21)
     - cron: "10 0 * * *"     # report: KST 09:10
+    - cron: "17 0,3,6,9,12,15 * * *"   # promo: KST 9,12,15,18,21,24
     - cron: "0 18 * * 0"     # token refresh: weekly
   workflow_dispatch:
     inputs:
       task:
         description: "task"
         type: choice
-        options: [collect, threads, report, link, token-refresh, kakao-setup, youtube-links]
+        options: [collect, threads, promo, report, link, token-refresh, kakao-setup, youtube-links]
         default: collect
       urls:
         description: "link: coupang urls"
@@ -81,6 +82,31 @@ jobs:
           git add state
           git diff --cached --quiet && exit 0
           git commit -m "threads posted"
+          git pull --rebase
+          git push
+
+  promo:
+    if: github.event.schedule == '17 0,3,6,9,12,15 * * *' || inputs.task == 'promo'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency: repo-write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          pip install -q pillow
+          sudo apt-get install -y -qq fonts-noto-cjk > /dev/null
+      - run: python promo.py
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+      - run: |
+          git config user.name "kingdom-bot"
+          git config user.email "kingdom-bot@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet && exit 0
+          git commit -m "promo posted"
           git pull --rebase
           git push
 
