@@ -7,13 +7,14 @@ on:
     - cron: "10 0 * * *"     # report: KST 09:10
     - cron: "17 0,3,6,9,12,15 * * *"   # promo: KST 9,12,15,18,21,24
     - cron: "30 1,6,11 * * *"   # shorts: KST 10:30, 15:30, 20:30
+    - cron: "47 * * * *"     # blog: naver blog new posts -> topic threads accounts
     - cron: "0 18 * * 0"     # token refresh: weekly
   workflow_dispatch:
     inputs:
       task:
         description: "task"
         type: choice
-        options: [collect, threads, promo, shorts, report, link, token-refresh, kakao-setup, youtube-links]
+        options: [collect, threads, promo, shorts, blog, report, link, token-refresh, kakao-setup, youtube-links]
         default: collect
       urls:
         description: "link: coupang urls"
@@ -136,6 +137,29 @@ jobs:
           git pull --rebase
           git push
 
+  blog:
+    if: github.event.schedule == '47 * * * *' || inputs.task == 'blog'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency: repo-write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python blog_threads.py
+        env:
+          THREADS_TOKEN_ENT: ${{ secrets.THREADS_TOKEN_ENT }}
+      - if: always()
+        run: |
+          git config user.name "kingdom-bot"
+          git config user.email "kingdom-bot@users.noreply.github.com"
+          git add state
+          git diff --cached --quiet && exit 0
+          git commit -m "blog posted"
+          git pull --rebase
+          git push
+
   report:
     if: github.event.schedule == '10 0 * * *' || inputs.task == 'report'
     runs-on: ubuntu-latest
@@ -215,3 +239,17 @@ jobs:
           echo "::add-mask::$NEW"
           if [ -z "$GH_TOKEN" ]; then echo "GH_PAT missing - new token not saved"; exit 1; fi
           gh secret set THREADS_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" --body "$NEW"
+      - name: refresh topic accounts (blog)
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          THREADS_TOKEN_ENT: ${{ secrets.THREADS_TOKEN_ENT }}
+        run: |
+          for NAME in THREADS_TOKEN_ENT; do
+            OLD="${!NAME}"
+            [ -z "$OLD" ] && continue
+            RES=$(curl -sS "https://graph.threads.net/refresh_access_token?grant_type=th_refresh_token&access_token=$OLD")
+            NEW=$(echo "$RES" | python3 -c "import sys,json; print(json.load(sys.stdin).get('access_token',''))")
+            if [ -z "$NEW" ]; then echo "::error::$NAME refresh failed"; continue; fi
+            echo "::add-mask::$NEW"
+            gh secret set "$NAME" --repo "$GITHUB_REPOSITORY" --body "$NEW"
+          done
