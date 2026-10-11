@@ -29,10 +29,13 @@ API = "https://graph.threads.net/v1.0"
 ACCOUNTS = [
     {"name": "연예", "blog": "soduwk1209", "token": "THREADS_TOKEN_ENT", "threads": "@yesol276",
      "tags": "#연예뉴스 #연예 #스타 #방송 #이슈"},
+    {"name": "스포츠", "blog": "dkdk521", "token": "THREADS_TOKEN_SPORTS", "threads": "@pantaqi9988",
+     "tags": "#스포츠뉴스 #스포츠 #경기 #하이라이트 #이슈"},
 ]
 SKIP_WORDS = ("사망설", "찌라시", "루머", "카더라", "충격 실체", "19금")
 
-# 후킹: 말투 5가지. {n} = 제목에서 뽑은 이름(없으면 이름 없는 문장만 쓴다). 자극적·단정적 표현은 쓰지 않는다.
+# 후킹: 말투 5가지. {n} = 제목에서 뽑은 이름(없으면 이름 없는 문장만 쓴다), {t} = 주제(연예·스포츠).
+# 자극적·단정적 표현은 쓰지 않는다.
 HOOKS = {
     "친구": ["{n} 무슨 일이야?", "{n} 얘기 봤어?", "오늘 이 소식 다들 봤지?", "{n} 근황 정리해봄", "이거 보고 놀람"],
     "존댓말": ["{n} 소식, 정리해 드릴게요", "오늘 많이 찾아보신 소식이에요", "{n} 이야기, 무슨 일인지 짚어봤어요",
@@ -40,7 +43,7 @@ HOOKS = {
     "감탄": ["와 {n} 이런 일이 있었네", "이 소식 진짜 의외다", "{n} 이야기 듣고 깜짝", "이건 몰랐네", "오늘 제일 놀란 소식"],
     "질문": ["{n} 소식 들으셨어요?", "왜 이렇게 화제일까요?", "{n} 어떻게 된 일일까요?", "이 소식 어떻게 생각하세요?",
              "다들 이거 아셨어요?"],
-    "짧게": ["{n} 근황", "오늘의 연예 소식", "{n} 이야기", "화제의 소식", "지금 많이 보는 뉴스"],
+    "짧게": ["{n} 근황", "오늘의 {t} 소식", "{n} 이야기", "화제의 소식", "지금 많이 보는 {t} 뉴스"],
 }
 CTA = {
     "친구": ["자세한 건 블로그에 정리해놨어 👇", "전체 내용은 여기 👇"],
@@ -51,15 +54,25 @@ CTA = {
 }
 STOP = {"결국", "이유", "그리고", "하지만", "근황", "공개", "포착", "이후", "모습", "사실", "충격", "논란", "화제", "드디어",
         "숙인", "고개", "무슨", "일이", "공식", "입장", "국대", "출신", "정말", "진짜", "모두", "다시", "역대", "최근",
-        "아들", "딸", "아내", "남편", "엄마", "아빠", "동생", "부부", "가족", "와이프", "만에", "지금은", "꼬맹이"}
-VERB_END = re.compile(r"(는데|했다|한다|된다|까지|에서|으로|했나|였다|이다|라고|라며|하는|받은|받아|됐다|됐나|던|한|된|는|은|을|를|의|도)$")
+        "아들", "딸", "아내", "남편", "엄마", "아빠", "동생", "부부", "가족", "와이프", "만에", "지금은", "꼬맹이",
+        "겨우", "결국", "리더보드", "디펜딩", "챔피언", "총정리", "마지막", "무대", "중계", "자격", "상실", "도전", "반전"}
+VERB_END = re.compile(r"(는데|까지|에서|으로|했나|라고|라며|하는|받은|받아|됐나|다|던|한|된|는|은|을|를|의|도|긴|게|고)$")
+
+
+SURNAMES = set("김이박최정강조윤장임한오서신권황안송류전홍고문양손배백허유남심노하곽성차주우구민진나지엄채원천방공현함변염여추도소석선설마길연위표명기반왕금옥육인맹제모탁국어은편용예봉경사부가복태목형피두감음빈동온호범좌팽승간상갈")
 
 
 def name_of(title):
-    """제목에서 이름(2~4글자 한글)을 하나 뽑는다. '전 국대 골키퍼 김영광, …' → 김영광"""
-    head = re.split(r"[,·:|]", title)[0].split()
+    """제목에서 사람 이름을 하나 뽑는다. 3글자 한글을 먼저(박성현·김효주), 없으면 앞부분의 2~4글자.
+    숫자가 섞인 말(2위→13위)·동사·흔한 말은 뺀다."""
+    words = [w for w in re.split(r"[\s,·:|…'‘’\"“”]+", title) if w and not re.search(r"\d", w)]
+    words = [re.sub(r"[^가-힣]", "", w) for w in words]
+    ok = [w for w in words if w and w not in STOP and not VERB_END.search(w)]
+    three = [w for w in ok if len(w) == 3 and w[0] in SURNAMES and not re.search(r"(에|만|와|과|랑)$", w)]
+    if three:
+        return three[0]
+    head = [re.sub(r"[^가-힣]", "", w) for w in re.split(r"[,·:|…]", title)[0].split() if not re.search(r"\d", w)]
     for w in reversed(head):
-        w = re.sub(r"[^가-힣]", "", w)
         if 2 <= len(w) <= 4 and w not in STOP and not VERB_END.search(w):
             return w
     return ""
@@ -76,8 +89,10 @@ def tags_of(title, base):
         if len(q) >= 2 and "사망" not in q:
             picks.append(q)
     for w in re.split(r"[\s,·:|'‘’\"“”…]+", title):
+        if re.search(r"\d", w):   # 2위→13위, 49대11로 같은 숫자 섞인 말은 태그로 쓰지 않는다
+            continue
         w = re.sub(r"[^A-Za-z가-힣]", "", w)
-        if (len(w) >= 2 and w not in STOP and not VERB_END.search(w) and not w.endswith("서")
+        if (len(w) >= 2 and w not in STOP and not VERB_END.search(w) and not re.search(r"(서|에|만|와|과|랑|히|온)$", w)
                 and not (w.isascii() and len(w) < 3) and not any(w in q or q in w for q in picks)):
             picks.append(w)
     picks = list(dict.fromkeys(picks))[:3] + random.sample(base.split(), 2)
@@ -88,7 +103,7 @@ def compose(x, acc, seen):
     """글마다 다른 말투·후킹·끝맺음·해시태그. 바로 전 글과 같은 말투, 최근 쓴 후킹은 피한다."""
     tone = random.choice([t for t in HOOKS if t != seen.get("tone")])
     n = name_of(x["title"])
-    pool = [h.format(n=n) for h in HOOKS[tone] if n or "{n}" not in h]
+    pool = [h.format(n=n, t=acc["name"]) for h in HOOKS[tone] if n or "{n}" not in h]
     fresh = [h for h in pool if h not in seen.get("hooks", [])] or pool
     hook = random.choice(fresh)
     summary = x["summary"].strip()
@@ -134,7 +149,8 @@ def blog_list(blog):
              f"&categoryNo=0&parentCategoryNo=0&countPerPage=30")
         with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}), timeout=20) as res:
             t = res.read().decode("utf-8")
-        rows = [(n, urllib.parse.unquote_plus(ti)) for n, ti in re.findall(r'"logNo":"(\d+)","title":"([^"]*)"', t)]
+        rows = [(n, html.unescape(urllib.parse.unquote_plus(ti)))
+                for n, ti in re.findall(r'"logNo":"(\d+)","title":"([^"]*)"', t)]
         rows = [r for r in rows if r[0] not in seen]
         if not rows:
             break
