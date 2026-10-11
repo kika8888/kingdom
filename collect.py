@@ -329,6 +329,12 @@ a{color:inherit}
 .tabs,.chips{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}
 .tabs button,.chips a{flex:none;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:7px 14px;font:inherit;font-size:.9rem;cursor:pointer;text-decoration:none}
 .tabs button[aria-pressed="true"]{background:var(--navy);color:#fff;border-color:var(--navy)}
+/* 탭: PC 는 윗줄 쇼핑 · 아랫줄 미디어로 두 줄 가운데 정렬, 휴대폰은 한 줄로 넘기기 + 구분선 */
+.tabs{flex-wrap:wrap;justify-content:center;gap:8px 8px;padding:2px 0}
+.tabs button{display:inline-flex;align-items:center;gap:5px;font-weight:600;padding:8px 16px;box-shadow:0 1px 2px rgba(28,31,74,.06);transition:transform .15s,box-shadow .15s,border-color .15s}
+.tabs button:hover{transform:translateY(-1px);border-color:var(--gold);box-shadow:0 4px 10px rgba(28,31,74,.12)}
+.tabs button[aria-pressed="true"]{background:linear-gradient(135deg,#1c1f4a,#2e3478);color:#fff;border-color:transparent;box-shadow:0 4px 12px rgba(28,31,74,.28)}
+.tsep{flex-basis:100%;height:0}
 .chips{display:none}.chips.show{display:flex}.chips a{font-size:.8rem;padding:5px 11px}
 #q{width:100%;padding:10px 14px;border:1px solid var(--line);border-radius:10px;font:inherit;background:var(--card);color:var(--ink)}
 main{max-width:1120px;margin:0 auto;padding:8px 16px 60px}
@@ -382,6 +388,9 @@ footer{max-width:1120px;margin:0 auto;padding:24px 16px 40px;color:var(--muted);
 .bar{padding:8px 12px}.bar .in{gap:8px}
 #q{border-radius:999px;padding:11px 18px;box-shadow:0 2px 10px rgba(28,31,74,.08);border-color:transparent;font-size:.9rem}
 .tabs button,.chips a{padding:5px 12px;font-size:.8rem}
+.tabs{flex-wrap:nowrap;justify-content:flex-start;padding-right:28px;-webkit-mask-image:linear-gradient(90deg,#000 85%,transparent);mask-image:linear-gradient(90deg,#000 85%,transparent)}
+.tabs button{padding:6px 12px;box-shadow:none}.tabs button:hover{transform:none}
+.tsep{flex:none;flex-basis:auto;width:1px;height:20px;background:var(--line);margin:0 2px;align-self:center}
 main{padding:4px 0 40px}
 .cpsearch{margin:10px 12px 0;padding:2px 10px 6px;border-radius:16px}.cpsearch h2{font-size:.95rem;margin:10px 0 4px}.cpsearch h2 small{display:none}
 .sec h2{font-size:1rem;margin:22px 16px 10px}
@@ -407,17 +416,18 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 <div class="bar"><div class="in">
 <input id="q" type="search" placeholder="상품 이름으로 찾기 (예: 수납, 차량, 물티슈)" autocomplete="off">
 <div class="tabs" role="group" aria-label="보기">
-<button type="button" data-g="all" aria-pressed="true">전체</button>
+<button type="button" data-g="all" aria-pressed="true">👑 전체</button>
 <button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
-<button type="button" data-g="youtube" aria-pressed="false">📺 리뷰 영상</button>
-<button type="button" data-g="tv" aria-pressed="false">📡 TV 실시간</button>
-<button type="button" data-g="press" aria-pressed="false">📰 언론사</button>
 <button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
+<button type="button" data-g="youtube" aria-pressed="false">📺 리뷰 영상</button>
 <button type="button" data-g="video" aria-pressed="false">🎬 영상</button>
+<span class="tsep" aria-hidden="true"></span>
+<button type="button" data-g="tv" aria-pressed="false">📡 TV 실시간</button>
+<button type="button" data-g="press" aria-pressed="false">🗞️ 언론사</button>
 <button type="button" data-g="car" aria-pressed="false">🚗 자동차</button>
 <button type="button" data-g="sports" aria-pressed="false">⚽ 스포츠</button>
-<button type="button" data-g="blog" aria-pressed="false">📰 연예 뉴스</button>
+<button type="button" data-g="blog" aria-pressed="false">🎤 연예 뉴스</button>
 </div>
 <div class="chips" id="chips">{chips}</div>
 </div></div>
