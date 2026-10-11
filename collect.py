@@ -180,6 +180,36 @@ def youtube_section(videos):
             f'<ul class="grid">{"".join(cards)}</ul></section>')
 
 
+# 📡 TV 실시간: 방송사 '공식' 생방송 페이지로만 연결한다 (재전송·불법 스트리밍 사이트는 넣지 않는다)
+TV_CHANNELS = [
+    ("KBS1", "https://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=11"),
+    ("KBS2", "https://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=12"),
+    ("MBC", "https://onair.imbc.com/"),
+    ("SBS", "https://www.sbs.co.kr/live/S01"),
+    ("JTBC", "https://onair.jtbc.co.kr/"),
+    ("TV조선", "https://broadcast.tvchosun.com/onair/on.cstv"),
+    ("채널A", "https://ichannela.com/com/cmm/onair.do"),
+    ("MBN", "https://www.mbn.co.kr/vod/onair"),
+    ("tvN", "https://www.tving.com/live/C00551"),
+    ("YTN", "https://www.ytn.co.kr/"),
+    ("연합뉴스TV", "https://www.yonhapnewstv.co.kr/live"),
+    ("KBC 광주방송", "https://www.ikbc.co.kr/"),
+    ("CJB 청주방송", "https://www.cjb.co.kr/"),
+    ("CGN", "https://www.cgntv.net/"),
+    ("NHK WORLD", "https://www3.nhk.or.jp/nhkworld/en/live/"),
+    ("중국 CCTV", "https://tv.cctv.com/live/"),
+]
+
+
+def tv_section():
+    btns = "".join(f'<li class="card tvb" data-name="{html.escape(n.lower())} tv 생방송 온에어">'
+                   f'<a href="{html.escape(u, quote=True)}" target="_blank" rel="noopener">{html.escape(n)}</a></li>'
+                   for n, u in TV_CHANNELS)
+    return ('<section class="sec" data-group="tv" id="tv"><h2>📡 TV 실시간 <small>방송사 공식 생방송으로 연결돼요</small></h2>'
+            f'<ul class="tvgrid">{btns}</ul>'
+            '<p class="tvnote">일부 채널(tvN 등)은 방송사 사이트 로그인·이용권이 필요할 수 있어요.</p></section>')
+
+
 def video_section():
     """videos.txt (파일이름 | 쿠팡 주소 | 문구) 에 적은 캡컷 영상 중 docs/videos 에 있는 최신 6개."""
     try:
@@ -292,7 +322,12 @@ h2{font-size:1.15rem;margin:30px 0 12px;scroll-margin-top:140px}h2 small{color:v
 .thumb video{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:#000}
 .yt{border:0;padding:0;cursor:pointer;width:100%}.yt img{aspect-ratio:16/9}.yt iframe{display:block;width:100%;aspect-ratio:16/9;border:0}
 .yt::after{content:"";position:absolute;left:50%;top:50%;width:46px;height:32px;margin:-16px 0 0 -23px;border-radius:9px;background:rgba(28,31,74,.88) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='white' d='M9 7l8 5-8 5z'/%3E%3C/svg%3E") center/22px no-repeat}
-.yt.on::after{display:none}.yt::after{box-shadow:0 0 0 2px var(--gold)}
+.yt.on::after{display:none}
+.tvgrid{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.card.tvb{border-radius:10px;box-shadow:0 1px 3px rgba(28,31,74,.06)}
+.tvb a{display:block;padding:14px 8px;text-align:center;text-decoration:none;font-weight:600;font-size:.95rem}
+.tvb a:hover,.tvb a:focus-visible{background:var(--navy);color:#fff;outline:none}
+.tvnote{margin:8px 0 0;font-size:.75rem;color:var(--muted)}.yt::after{box-shadow:0 0 0 2px var(--gold)}
 #youtube{background:linear-gradient(135deg,#1c1f4a 0%,#2e3478 100%);border-radius:20px;padding:4px 20px 22px;margin-top:28px;box-shadow:0 8px 24px rgba(28,31,74,.18)}
 #youtube h2{color:#fff;font-size:1.35rem;margin:20px 0 4px}#youtube h2 small{color:var(--gold);font-weight:700;font-size:.9rem;margin-left:6px}
 #youtube .lead{color:#c9cbe0;font-size:.88rem;margin:0 0 14px}
@@ -338,6 +373,8 @@ main{padding:4px 0 40px}
 .b{font-size:.65rem}.badges{min-height:16px}.tag{font-size:.62rem;left:6px;top:6px}
 .buy{padding:6px 4px;font-size:.76rem;border-radius:999px}.sum{font-size:.72rem}
 .card.rv{flex:0 0 78%;max-width:300px}
+.tvgrid{grid-template-columns:repeat(3,1fr);gap:8px;padding:0 16px}.tvb a{padding:11px 4px;font-size:.82rem}.tvnote{padding:0 16px}
+.card.tvb{flex:none;max-width:none;border:1px solid var(--line);box-shadow:none}
 #youtube{margin:22px 12px 0;padding:2px 0 16px;border-radius:18px}#youtube h2{margin:16px 16px 2px;font-size:1.1rem}#youtube .lead{margin:0 16px 10px;font-size:.78rem}
 .about{padding:6px 16px 12px;font-size:.85rem}.about h2{font-size:1rem}
 footer{font-size:.72rem;padding:16px 16px 30px}
@@ -354,6 +391,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 <button type="button" data-g="all" aria-pressed="true">전체</button>
 <button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
 <button type="button" data-g="youtube" aria-pressed="false">📺 리뷰 영상</button>
+<button type="button" data-g="tv" aria-pressed="false">📡 TV 실시간</button>
 <button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
 <button type="button" data-g="video" aria-pressed="false">🎬 영상</button>
@@ -447,6 +485,7 @@ def main():
     sections = (f'<section class="sec" data-group="car" id="car"><h2>🚗 자동차 뉴스</h2>'
                 f'<ul class="grid">{"".join(post_card(x) for x in car_posts)}</ul></section>') if car_posts else ""
     sections = video_section() + sections   # 🎬 캡컷 영상은 맨 위 (자동차 뉴스 위)
+    sections = tv_section() + sections      # 📡 TV 실시간은 쿠팡 검색창 바로 아래 (맨 위)
     try:
         yt_videos = youtube_videos()
     except Exception as ex:
