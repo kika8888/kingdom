@@ -3,7 +3,8 @@
   "posted": [
    "https://blog.naver.com/soduwk1209/224438063072",
    "https://blog.naver.com/soduwk1209/224438076804",
-   "https://blog.naver.com/soduwk1209/224438072175"
+   "https://blog.naver.com/soduwk1209/224438072175",
+   "https://blog.naver.com/soduwk1209/224438135904"
   ],
   "started": true,
   "v": 2,
@@ -183,7 +184,11 @@
    "https://blog.naver.com/soduwk1209/224438135904",
    "https://blog.naver.com/soduwk1209/224438133938",
    "https://blog.naver.com/soduwk1209/224438130896",
-   "https://blog.naver.com/soduwk1209/224438088119"
+   "https://blog.naver.com/soduwk1209/224438088119",
+   "https://blog.naver.com/soduwk1209/224438300932",
+   "https://blog.naver.com/soduwk1209/224438269119",
+   "https://blog.naver.com/soduwk1209/224438185100",
+   "https://blog.naver.com/soduwk1209/224438170701"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224437758802",
@@ -355,24 +360,29 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "짧게",
+  "tone": "친구",
   "hooks": [
    "지금 많이 보는 뉴스",
    "오늘 이 소식 다들 봤지?",
-   "이선민 근황"
+   "이선민 근황",
+   "노래방 무슨 일이야?"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224438135904",
    "https://blog.naver.com/soduwk1209/224438133938",
    "https://blog.naver.com/soduwk1209/224438130896",
-   "https://blog.naver.com/soduwk1209/224438088119"
+   "https://blog.naver.com/soduwk1209/224438088119",
+   "https://blog.naver.com/soduwk1209/224438300932",
+   "https://blog.naver.com/soduwk1209/224438269119",
+   "https://blog.naver.com/soduwk1209/224438185100",
+   "https://blog.naver.com/soduwk1209/224438170701"
   ]
  },
  "dkdk521": {
   "v": 2,
   "posted": [
    "https://blog.naver.com/dkdk521/224437715076",
-   "https://blog.naver.com/dkdk521/224437705668"
+   "https://blog.naver.com/dkdk521/224437705668",
+   "https://blog.naver.com/dkdk521/224437710669"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -777,7 +787,6 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "backlog": [
-   "https://blog.naver.com/dkdk521/224437710669",
    "https://blog.naver.com/dkdk521/224437697779",
    "https://blog.naver.com/dkdk521/224437680623",
    "https://blog.naver.com/dkdk521/224437677899",
@@ -1174,11 +1183,12 @@
    "https://blog.naver.com/dkdk521/223183698757",
    "https://blog.naver.com/dkdk521/223021978335"
   ],
-  "last_old": 1791728617.5143423,
-  "tone": "감탄",
+  "last_old": 1791745938.7416327,
+  "tone": "존댓말",
   "hooks": [
    "박성현 이야기",
-   "성명준 이야기 듣고 깜짝"
+   "성명준 이야기 듣고 깜짝",
+   "김효주 이야기, 무슨 일인지 짚어봤어요"
   ]
  }
 }
