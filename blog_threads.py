@@ -110,6 +110,16 @@ def post(token, params):
         raise RuntimeError(f"스레드 API 오류 {e.code}: {e.read().decode('utf-8', 'replace')[:300]}") from None
 
 
+def whoami(token):
+    """토큰 주인 계정 아이디. 다른 계정 토큰이 들어가 있으면 주제가 섞이므로 올리기 전에 확인한다."""
+    q = urllib.parse.urlencode({"fields": "username", "access_token": token})
+    try:
+        with urllib.request.urlopen(f"{API}/me?{q}", timeout=30) as res:
+            return json.loads(res.read().decode("utf-8")).get("username", "")
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"토큰 확인 실패 {e.code}: {e.read().decode('utf-8', 'replace')[:200]}") from None
+
+
 def main():
     try:
         state = json.loads(STATE.read_text(encoding="utf-8"))
@@ -121,6 +131,15 @@ def main():
         if not token:
             print(f"{acc['name']}: {acc['token']} 가 없어 건너뜀")
             continue
+        try:
+            user = whoami(token)
+        except RuntimeError as e:
+            errors.append(f"{acc['name']}: {e}")
+            continue
+        if "@" + user != acc["threads"]:
+            errors.append(f"{acc['name']}: 토큰이 {acc['threads']} 가 아니라 @{user} 계정 것이라 올리지 않았습니다")
+            continue
+        p.summary(f"- {acc['name']}: 토큰 확인 @{user}")
         try:
             posts = collect.naver_posts(acc["blog"])
         except Exception as e:
