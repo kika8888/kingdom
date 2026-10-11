@@ -201,6 +201,24 @@ TV_CHANNELS = [
 ]
 
 
+# 📰 언론사 바로가기: 세 줄로 나눠 '세탁 꿀템' 위, '여성패션 베스트' 위, '남성패션 베스트' 위에 넣는다
+NEWS_ROWS = [
+    [("연합뉴스", "https://www.yna.co.kr/"), ("동아일보", "https://www.donga.com/"), ("조선일보", "https://www.chosun.com/"),
+     ("KBS뉴스", "https://news.kbs.co.kr/"), ("한국일보", "https://www.hankookilbo.com/"), ("국민일보", "https://www.kmib.co.kr/")],
+    [("서울신문", "https://www.seoul.co.kr/"), ("한국경제", "https://www.hankyung.com/economy"), ("머니투데이", "https://www.mt.co.kr/"),
+     ("YTN뉴스", "https://www.ytn.co.kr/"), ("경향신문", "https://www.khan.co.kr/"), ("프레시안", "https://www.pressian.com/")],
+    [("뉴데일리", "https://www.newdaily.co.kr/"), ("한겨레", "https://www.hani.co.kr/"), ("한경닷컴", "https://www.hankyung.com/")],
+]
+
+
+def news_row(k):
+    btns = "".join(f'<li class="card tvb" data-name="{html.escape(n.lower())} 뉴스 신문 언론">'
+                   f'<a href="{html.escape(u, quote=True)}" target="_blank" rel="noopener">{html.escape(n)}</a></li>'
+                   for n, u in NEWS_ROWS[k])
+    return (f'<section class="sec newsrow" data-group="press" id="press-{k}"><h2>📰 언론사 바로가기</h2>'
+            f'<ul class="tvgrid">{btns}</ul></section>')
+
+
 def tv_section():
     btns = "".join(f'<li class="card tvb" data-name="{html.escape(n.lower())} tv 생방송 온에어">'
                    f'<a href="{html.escape(u, quote=True)}" target="_blank" rel="noopener">{html.escape(n)}</a></li>'
@@ -327,7 +345,8 @@ h2{font-size:1.15rem;margin:30px 0 12px;scroll-margin-top:140px}h2 small{color:v
 .card.tvb{border-radius:10px;box-shadow:0 1px 3px rgba(28,31,74,.06)}
 .tvb a{display:block;padding:14px 8px;text-align:center;text-decoration:none;font-weight:600;font-size:.95rem}
 .tvb a:hover,.tvb a:focus-visible{background:var(--navy);color:#fff;outline:none}
-.tvnote{margin:8px 0 0;font-size:.75rem;color:var(--muted)}.yt::after{box-shadow:0 0 0 2px var(--gold)}
+.tvnote{margin:8px 0 0;font-size:.75rem;color:var(--muted)}
+.newsrow h2{font-size:.95rem;margin:22px 0 8px;color:var(--muted)}.yt::after{box-shadow:0 0 0 2px var(--gold)}
 #youtube{background:linear-gradient(135deg,#1c1f4a 0%,#2e3478 100%);border-radius:20px;padding:4px 20px 22px;margin-top:28px;box-shadow:0 8px 24px rgba(28,31,74,.18)}
 #youtube h2{color:#fff;font-size:1.35rem;margin:20px 0 4px}#youtube h2 small{color:var(--gold);font-weight:700;font-size:.9rem;margin-left:6px}
 #youtube .lead{color:#c9cbe0;font-size:.88rem;margin:0 0 14px}
@@ -392,6 +411,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 <button type="button" data-g="weird" aria-pressed="false">🔥 신기템</button>
 <button type="button" data-g="youtube" aria-pressed="false">📺 리뷰 영상</button>
 <button type="button" data-g="tv" aria-pressed="false">📡 TV 실시간</button>
+<button type="button" data-g="press" aria-pressed="false">📰 언론사</button>
 <button type="button" data-g="goldbox" aria-pressed="false">⏰ 골드박스</button>
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
 <button type="button" data-g="video" aria-pressed="false">🎬 영상</button>
@@ -492,7 +512,10 @@ def main():
         yt_videos = []
         errors.append(f"리뷰 영상(유튜브 RSS): {ex}")
     sections += youtube_section(yt_videos)   # 📺 리뷰 영상은 신기템 묶음 바로 위
+    press_spot = "세탁 꿀템" if "세탁 꿀템" in data["keywords"] else next(iter(data["keywords"]), "")
     for kw, items in data["keywords"].items():
+        if kw == press_spot:   # 📰 언론사 1줄: '세탁 꿀템' 바로 위 (그 키워드가 없는 시간엔 첫 신기템 위)
+            sections += news_row(0)
         if "캠핑" in kw and items:   # 캠핑 신기템이 있으면 바로 위에
             sections += sports
             sports = ""
@@ -512,6 +535,10 @@ def main():
         if n == half:
             sections += news
             news = ""
+        if name == "여성패션":   # 📰 언론사 2줄
+            sections += news_row(1)
+        if name == "남성패션":   # 📰 언론사 3줄
+            sections += news_row(2)
         sections += section(f"🏆 {name} 베스트", items[:10], "best", f"best-{n}", rank_tag)
         chips += f'<a href="#best-{n}">{html.escape(name)}</a>'
     sections += news   # 베스트가 없을 때
