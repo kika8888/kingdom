@@ -2,12 +2,13 @@
 
 블로그 글은 링크 카드 + 후킹 + 제목 + 짧은 요약만 올린다 (글 전체를 옮기지 않는다).
 글마다 말투·후킹·끝맺음·해시태그가 다르다 (제목에서 이름과 단어를 뽑는다).
-한 번 올린 글은 다시 올리지 않고 (state/blog_threads.json), 한 번에 계정마다 1개만 올린다.
-처음 연결한 계정은 지금 있는 글을 '올린 것'으로 표시해서, 그 뒤 새로 쓴 글부터 올린다.
+새 글은 매시간 확인해서 바로 올리고, 새 글이 없을 땐 전에 쓴 글을 3시간에 1개씩(최근 글부터) 올린다.
+한 번 올린 글은 다시 올리지 않고 (state/blog_threads.json), 한 번 실행에 계정마다 1개만 올린다.
 루머성 제목(사망설·찌라시 등)은 건너뛴다 (명예훼손·허위사실 위험).
 
 계정 추가: 아래 ACCOUNTS 에 한 줄 + 저장소 Secrets 에 그 계정 토큰 + kingdom.yml 의 blog 작업 env 에 한 줄.
 """
+import html
 import json
 import os
 import random
@@ -120,12 +121,61 @@ def whoami(token):
         raise RuntimeError(f"토큰 확인 실패 {e.code}: {e.read().decode('utf-8', 'replace')[:200]}") from None
 
 
+NEW_EVERY_H = 1    # 새 글: 매시간 확인해서 바로
+OLD_EVERY_H = 3    # 전에 쓴 글: 새 글이 없을 때 3시간에 1개씩, 최근 글부터 거꾸로
+SKIP_PREFIX = ("[공유]",)   # 남의 글 공유 등은 올리지 않는다
+
+
+def blog_list(blog):
+    """블로그 전체 글 [(링크, 제목)] — 최신 글이 앞."""
+    out, seen, page = [], set(), 1
+    while page <= 100:
+        u = (f"https://blog.naver.com/PostTitleListAsync.naver?blogId={blog}&currentPage={page}"
+             f"&categoryNo=0&parentCategoryNo=0&countPerPage=30")
+        with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}), timeout=20) as res:
+            t = res.read().decode("utf-8")
+        rows = [(n, urllib.parse.unquote_plus(ti)) for n, ti in re.findall(r'"logNo":"(\d+)","title":"([^"]*)"', t)]
+        rows = [r for r in rows if r[0] not in seen]
+        if not rows:
+            break
+        for n, ti in rows:
+            seen.add(n)
+            out.append((f"https://blog.naver.com/{blog}/{n}", ti))
+        page += 1
+        time.sleep(0.3)
+    return out
+
+
+def post_meta(link):
+    """글 하나의 제목·요약 (모바일 페이지의 og 태그)."""
+    blog, no = link.rstrip("/").split("/")[-2:]
+    u = f"https://m.blog.naver.com/{blog}/{no}"
+    with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}), timeout=20) as res:
+        t = res.read().decode("utf-8", "replace")
+    get = lambda k: html.unescape((re.search(rf'<meta property="og:{k}" content="([^"]*)"', t) or [None, ""])[1]).strip()
+    return {"link": link, "title": get("title"), "summary": get("description").rstrip(".")}
+
+
+def skip(title):
+    return any(w in title for w in SKIP_WORDS) or title.startswith(SKIP_PREFIX)
+
+
+def publish(token, acc, x, seen):
+    text = compose(x, acc, seen)
+    c = post(token, {"media_type": "TEXT", "text": text, "link_attachment": x["link"]})
+    time.sleep(20)
+    r = post(token, {"creation_id": c["id"]})
+    seen["posted"].append(x["link"])
+    return text, r
+
+
 def main():
     try:
         state = json.loads(STATE.read_text(encoding="utf-8"))
     except (FileNotFoundError, json.JSONDecodeError):
         state = {}
     errors = []
+    now = time.time()
     for acc in ACCOUNTS:
         token = os.environ.get(acc["token"], "").strip()
         if not token:
@@ -139,36 +189,47 @@ def main():
         if "@" + user != acc["threads"]:
             errors.append(f"{acc['name']}: 토큰이 {acc['threads']} 가 아니라 @{user} 계정 것이라 올리지 않았습니다")
             continue
-        p.summary(f"- {acc['name']}: 토큰 확인 @{user}")
+        seen = state.setdefault(acc["blog"], {})
+        if seen.get("v") != 2:   # 처음(또는 예전 방식): 지금 있는 글 전체를 '전에 쓴 글' 목록으로
+            try:
+                old = blog_list(acc["blog"])
+            except Exception as e:
+                errors.append(f"{acc['name']} 블로그 목록: {e}")
+                continue
+            seen.update({"v": 2, "posted": [], "known": [l for l, t in old],
+                         "backlog": [l for l, t in old if not skip(t)], "last_old": 0})
+            p.summary(f"- {acc['name']}: 전에 쓴 글 {len(seen['backlog'])}개를 3시간에 1개씩 올릴 목록에 넣었습니다")
         try:
-            posts = collect.naver_posts(acc["blog"])
+            rss = collect.naver_posts(acc["blog"])
         except Exception as e:
             errors.append(f"{acc['name']} 블로그 읽기: {e}")
             continue
-        seen = state.setdefault(acc["blog"], {"posted": [], "started": False})
-        if not seen["started"]:   # 처음엔 지금 있는 글은 건너뛰고, 그 뒤 새 글부터
-            seen["posted"] = [x["link"] for x in posts]
-            seen["started"] = True
-            p.summary(f"- {acc['name']}: 처음 연결 — 지금 있는 글 {len(posts)}개는 건너뛰고 다음 새 글부터 올립니다")
-            continue
-        for x in posts:   # 루머성 제목은 올리지 않고 표시만
-            if x["link"] not in seen["posted"] and any(w in x["title"] for w in SKIP_WORDS):
-                seen["posted"].append(x["link"])
-                p.summary(f"- {acc['name']}: 건너뜀(루머성 제목) {x['title']}")
-        new = [x for x in posts if x["link"] not in seen["posted"]]
-        if not new:
-            continue
-        x = new[-1]   # 가장 먼저 쓴 새 글부터 차례로 (시간당 1개)
-        text = compose(x, acc, seen)
+        # 1) 새 글: 처음 연결 뒤에 새로 쓴 글이 있으면 바로 (가장 먼저 쓴 것부터 1개)
+        new = [x for x in rss if x["link"] not in seen["known"]]
+        for x in new:
+            seen["known"].append(x["link"])
+            if skip(x["title"]):
+                p.summary(f"- {acc['name']}: 건너뜀(루머성·공유 글) {x['title']}")
+            elif x["link"] not in seen["posted"]:
+                seen.setdefault("queue", []).append(x["link"])
         try:
-            c = post(token, {"media_type": "TEXT", "text": text, "link_attachment": x["link"]})
-            time.sleep(20)
-            r = post(token, {"creation_id": c["id"]})
-        except RuntimeError as e:
+            if seen.get("queue"):
+                link = seen["queue"].pop(0)
+                x = next((r for r in rss if r["link"] == link), None) or post_meta(link)
+                kind = "새 글"
+            elif seen["backlog"] and now - seen["last_old"] >= OLD_EVERY_H * 3600 - 300:
+                seen["backlog"] = [l for l in seen["backlog"] if l not in seen["posted"]]
+                x = post_meta(seen["backlog"].pop(0))
+                seen["last_old"] = now
+                kind = "전에 쓴 글"
+            else:
+                continue
+            text, r = publish(token, acc, x, seen)
+        except Exception as e:
             errors.append(f"{acc['name']} 스레드: {e}")
             continue
-        seen["posted"] = (seen["posted"] + [x["link"]])[-200:]
-        p.summary(f"## {acc['name']} → {acc['threads']} 올림\n\n{x['link']}\n```\n{text}\n```\n게시물 {r.get('id')}")
+        p.summary(f"## {acc['name']} → {acc['threads']} {kind} 올림 (남은 전에 쓴 글 {len(seen['backlog'])}개)\n\n"
+                  f"{x['link']}\n```\n{text}\n```\n게시물 {r.get('id')}")
     STATE.parent.mkdir(exist_ok=True)
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
     if errors:
