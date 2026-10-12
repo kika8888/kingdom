@@ -677,12 +677,12 @@ def main():
     print("이번 말투:", TONE)
     if post_video(posted):
         return
-    if yt_turn(posted) and post_youtube(posted):
-        return
-    if auto_turn(posted) and post_top(posted):
-        return
-    item, source = pick_manual(posted)
+    item, source = pick_manual(posted)   # 직접 넣은 소재(picks.txt)는 캡컷 영상 다음 1순위
     if not item:
+        if yt_turn(posted) and post_youtube(posted):
+            return
+        if auto_turn(posted) and post_top(posted):
+            return
         item, source = pick(posted)
         if item:
             item = dict(item, productUrl=short_link(item))
