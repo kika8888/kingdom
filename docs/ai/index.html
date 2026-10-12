@@ -2,7 +2,7 @@
 <html lang="ko"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
-<title>KINGDOM AI 도구</title>
+<title>KINGDOM AI 프로그램</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=IBM+Plex+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@500&display=swap">
 <style>
 :root{--bg:#f3f2ee;--card:#fff;--ink:#191a33;--muted:#5b5d74;--line:#e2e0d8;--navy:#1c1f4a;--gold:#c9a227;--gold-ink:#7a5f0c;--gold-pale:#f6eed4;
@@ -30,7 +30,7 @@ h1{margin:0;font:400 1.8rem/1.2 "Black Han Sans",sans-serif;text-wrap:balance}
 @media (max-width:560px){.grid{grid-template-columns:1fr}}
 .card{background:var(--card);border-radius:14px;padding:20px;display:flex;flex-direction:column;gap:10px;min-width:0}
 .tag{align-self:flex-start;font:500 .72rem "IBM Plex Mono",monospace;letter-spacing:.06em;padding:3px 9px;border-radius:6px}
-.tag.threads{background:var(--t1);color:var(--t1i)}.tag.blog{background:var(--t2);color:var(--t2i)}.tag.kw{background:var(--t3);color:var(--t3i)}.tag.video{background:var(--t4);color:var(--t4i)}
+.tag.beg{background:var(--t1);color:var(--t1i)}.tag.pro{background:var(--gold-pale);color:var(--gold-ink)}
 .card h2{margin:0;font:400 1.35rem/1.25 "Black Han Sans",sans-serif}
 .card p{margin:0;color:var(--muted);flex:1}
 .go{display:block;text-align:center;text-decoration:none;font-weight:700;background:var(--navy);color:#fff;border-radius:8px;padding:11px}
@@ -39,22 +39,30 @@ h1{margin:0;font:400 1.8rem/1.2 "Black Han Sans",sans-serif;text-wrap:balance}
 </style></head><body>
 <header class="top"><div class="in">
   <a class="brand" href="/"><svg viewBox="0 0 32 24" width="26" height="20" aria-hidden="true"><path fill="currentColor" d="M2 6l7 6 7-10 7 10 7-6-3 16H5z"/><rect x="5" y="21" width="22" height="3" rx="1" fill="currentColor"/></svg><b>KINGDOM</b></a>
-  <nav><a href="/">쇼핑</a><a href="/ai" aria-current="page">AI 도구</a></nav>
+  <nav><a href="/">쇼핑</a><a href="/#car">뉴스</a><a href="/ai" aria-current="page">AI 프로그램</a></nav>
 </div></header>
 <main>
-  <h1>KINGDOM AI 도구</h1>
+  <h1>KINGDOM AI 프로그램</h1>
   <p class="lede">상품 이름이나 캡처만 넣으면 스레드·블로그·쇼츠 글감이 바로 나와요.</p>
   <div class="cats" role="group" aria-label="분류">
     <button type="button" data-c="all" aria-pressed="true">전체</button>
-    <button type="button" data-c="threads" aria-pressed="false">스레드</button>
-    <button type="button" data-c="blog" aria-pressed="false">블로그</button>
-    <button type="button" data-c="video" aria-pressed="false">영상</button>
+    <button type="button" data-c="beg" aria-pressed="false">초보자</button>
+    <button type="button" data-c="pro" aria-pressed="false">수익화</button>
   </div>
   <div class="grid">
-    <article class="card" data-c="threads"><span class="tag threads">스레드</span><h2>스레드 후킹 문구</h2><p>상품 이름이나 단톡방 캡처를 넣으면 첫 줄 문구 5개와 첫 댓글까지.</p><a class="go gold" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#hook" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="blog"><span class="tag blog">블로그</span><h2>블로그 글 생성기</h2><p>키워드와 방향만 넣으면 정보형 블로그 초안 한 편. 상품 링크 자리 포함.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#blog" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="blog threads"><span class="tag kw">키워드</span><h2>키워드 · 해시태그 생성기</h2><p>주제 하나로 쿠팡 검색 키워드 10개, 제목 5개, 해시태그 12개.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#kw" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="video"><span class="tag video">영상</span><h2>쇼츠 대본 생성기</h2><p>상품과 찍은 장면을 넣으면 30초 쇼츠 자막·내레이션을 장면별로.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#shorts" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>스레드 후킹 문구</h2><p>상품 이름이나 캡처만 넣으면 첫 줄 문구 5개와 첫 댓글까지.</p><a class="go gold" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#hook" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>키워드 생성기</h2><p>주제 하나로 쿠팡 검색 키워드 10개, 제목 5개, 해시태그 12개.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#kw" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>제목 다듬기</h2><p>초안 제목을 넣으면 클릭을 부르는 제목 10개.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#title" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>문장 다듬기</h2><p>쓴 글을 붙여 넣으면 읽기 쉽게 고쳐 드려요.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#polish" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>블로그 글 생성기</h2><p>키워드와 방향만 넣으면 정보형 블로그 초안 한 편.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#blog" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>쇼츠 대본</h2><p>상품과 찍은 장면으로 30초 자막·내레이션을 장면별로.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#shorts" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>레시피 스레드</h2><p>메뉴 이름만 넣으면 400자 레시피 원고와 핵심재료 링크 자리.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#recipe" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>다이소 vs 쿠팡 비교</h2><p>다이소 제품과 쿠팡 대체품을 비교하는 스레드 글.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#daiso" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>골드박스 특가 글</h2><p>정가·할인가만 넣으면 특가 스레드 글과 첫 댓글.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#deal" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>유튜브 대본 → 블로그</h2><p>내 영상 대본을 붙여 넣으면 깔끔한 블로그 글로.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#yt" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>지원금 블로그 글</h2><p>공식 공고를 붙여 넣으면 대상·금액·신청법 정리 글.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#support" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>지역별 블로그 글</h2><p>지역과 주제로 제목, 첫 문단, 목차까지.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#local" target="_blank" rel="noopener">이용하기</a></article>
+    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>축제 정보 글</h2><p>축제 공식 안내를 붙여 넣으면 방문 안내 글.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#festival" target="_blank" rel="noopener">이용하기</a></article>
   </div>
   <p class="note">KINGDOM 운영자 전용 도구예요. 이용하기를 누르면 운영자의 Claude 계정에서 열려요.</p>
 </main>
