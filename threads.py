@@ -356,6 +356,8 @@ def pick_manual(posted):
         if not line or line.startswith("#"):
             continue
         url, _, memo = (s.strip() for s in line.partition("|"))
+        if url and not url.startswith("http"):   # 휴대폰에서 상품 이름만 적어도 쿠팡 검색 링크로 바꾼다
+            url = "https://www.coupang.com/np/search?q=" + urllib.parse.quote(url)
         if url.startswith("http") and url not in seen:
             links = p.deeplink([url])
             short = links[0].get("shortenUrl") if links else ""
