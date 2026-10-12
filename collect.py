@@ -572,5 +572,15 @@ def main():
             raise SystemExit("모든 수집이 실패했습니다. API 키를 확인해 주세요.")
 
 
+def report_backup():
+    """09:10 예약 실행이 빠져도, 매시간 수집 때 08시 이후 아직 안 보낸 실적 알림을 보낸다."""
+    try:
+        import report
+        report.main(once=True)
+    except BaseException as ex:   # 알림 실패가 상품 수집을 망치지 않게
+        print("실적 알림(백업) 실패:", ex)
+
+
 if __name__ == "__main__":
     main()
+    report_backup()
