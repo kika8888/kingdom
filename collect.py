@@ -322,6 +322,7 @@ a{color:inherit}
 .top .in{max-width:1120px;margin:0 auto;display:flex;flex-direction:column;gap:6px}
 .brand{display:flex;align-items:center;gap:10px;color:var(--gold)}
 .brand b{font-size:1.7rem;letter-spacing:.18em;color:#fff}
+.topbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.menu{display:flex;gap:18px;font-weight:700}.menu a{color:#c9cbe0;text-decoration:none;padding-bottom:2px}.menu a[aria-current]{color:#fff;border-bottom:2px solid var(--gold)}.menu a:hover,.menu a:focus-visible{color:#fff}
 .tagline{color:#c9cbe0;font-size:.95rem;margin:0}
 .notice{background:#2a2d5e;color:#e3e4f2;font-size:.8rem;padding:8px 16px;text-align:center}
 .bar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 16px}
@@ -383,7 +384,7 @@ body.admin .admin-only{display:block}
 .cpsearch{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px 14px 10px;margin-top:18px}.cpsearch h2{margin:12px 0 8px}.cpsearch iframe{display:block;max-width:100%}
 footer{max-width:1120px;margin:0 auto;padding:24px 16px 40px;color:var(--muted);font-size:.8rem;border-top:1px solid var(--line)}
 @media (max-width:640px){
-.top{padding:12px 16px 10px}.brand svg{width:24px;height:18px}.brand b{font-size:1.15rem;letter-spacing:.14em}.tagline{display:none}
+.top{padding:12px 16px 10px}.brand svg{width:24px;height:18px}.brand b{font-size:1.15rem;letter-spacing:.14em}.tagline{display:none}.menu{gap:14px;font-size:.85rem}
 .notice{font-size:.68rem;padding:5px 14px}
 .bar{padding:8px 12px}.bar .in{gap:8px}
 #q{border-radius:999px;padding:11px 18px;box-shadow:0 2px 10px rgba(28,31,74,.08);border-color:transparent;font-size:.9rem}
@@ -409,7 +410,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 }
 </style></head><body>
 <div class="top"><div class="in">
-<div class="brand">CROWN<b>KINGDOM</b></div>
+<div class="topbar"><div class="brand">CROWN<b>KINGDOM</b></div><nav class="menu" aria-label="메뉴"><a href="/" aria-current="page">쇼핑</a><a href="#car">뉴스</a><a href="/ai">AI 프로그램</a></nav></div>
 <p class="tagline">쿠팡에서 지금 뜨는 신기템 · 골드박스 특가 · 분야별 베스트를 매시간 모아요</p>
 </div></div>
 <div class="notice">이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
