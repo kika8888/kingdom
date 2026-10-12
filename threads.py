@@ -364,8 +364,28 @@ def pick_manual(posted):
             if not short:
                 print("파트너스 링크를 만들지 못한 주소(건너뜀):", url)
                 continue
-            return {"productId": url, "productUrl": short, "productName": "", "productImage": "", "memo": memo}, "manual"
+            return {"productId": url, "productUrl": short, "productName": "", "productImage": manual_image(url),
+                    "memo": memo}, "manual"
     return None, None
+
+
+def manual_image(url):
+    """picks 상품 사진: 검색 링크면 그 검색어 1위 상품 사진, 상품 링크면 상품 번호로 검색해서 찾는다."""
+    q = urllib.parse.urlparse(url)
+    word = urllib.parse.parse_qs(q.query).get("q", [""])[0]
+    if not word and "/vp/products/" in q.path:
+        word = q.path.split("/vp/products/")[1].split("/")[0]
+    if not word:
+        return ""
+    try:
+        items = p.search(word, limit=5)
+    except Exception as e:
+        print("picks 사진 찾기 실패(글만 올림):", e)
+        return ""
+    for it in items or []:
+        if it.get("productImage"):
+            return it["productImage"]
+    return ""
 
 
 def pick_video(posted):
