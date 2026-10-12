@@ -3,74 +3,67 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
 <title>KINGDOM AI 프로그램</title>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=IBM+Plex+Sans+KR:wght@400;500;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap">
 <style>
-:root{--bg:#f3f2ee;--card:#fff;--ink:#191a33;--muted:#5b5d74;--line:#e2e0d8;--navy:#1c1f4a;--gold:#c9a227;--gold-ink:#7a5f0c;--gold-pale:#f6eed4;
---t1:#fde8e4;--t1i:#b23a2a;--t2:#e6ecfb;--t2i:#2c4fb4;--t3:#e5f4ec;--t3i:#1f7a4d;--t4:#f2e7fb;--t4i:#7a3cad}
-@media (prefers-color-scheme:dark){:root{--bg:#12132a;--card:#1b1d3a;--ink:#ecebf5;--muted:#a5a7c0;--line:#2c2f52;--navy:#0c0d20;--gold:#e3bf52;--gold-ink:#e3bf52;--gold-pale:#2b2a3e;
---t1:#3a2326;--t1i:#ff9a8a;--t2:#22294a;--t2i:#9fb6ff;--t3:#1d3329;--t3i:#7fe0ad;--t4:#2e2343;--t4i:#d1a6ff;color-scheme:dark}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 "IBM Plex Sans KR","Malgun Gothic",system-ui,sans-serif}
+:root{--bg:#f6f7f9;--card:#fff;--ink:#111827;--muted:#4b5563;--line:#e5e7eb;--blue:#4263f5;--blue-d:#3451d8;
+--all:#d9dcfb;--all-i:#4263f5;--beg:#fde2df;--beg-i:#f0675a;--pro:#fdf3d4;--pro-i:#e0b33a;--etc:#ebebed;--etc-i:#8a8f98}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif}
 a{color:inherit}
-.top{background:var(--navy);color:#fff;padding:16px}
-.in{max-width:1080px;margin:0 auto}
-.top .in{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
-.brand{display:flex;align-items:center;gap:8px;color:var(--gold);text-decoration:none}
-.brand b{font:400 1.5rem/1 "Black Han Sans",sans-serif;letter-spacing:.12em;color:#fff}
-nav{display:flex;gap:16px;font-weight:500}
-nav a{text-decoration:none;color:#c9cbe2}nav a[aria-current]{color:#fff;border-bottom:2px solid var(--gold)}
-main{max-width:1080px;margin:0 auto;padding:28px 16px 60px;display:flex;flex-direction:column;gap:22px}
-h1{margin:0;font:400 1.8rem/1.2 "Black Han Sans",sans-serif;text-wrap:balance}
-.lede{margin:-12px 0 0;color:var(--muted)}
-.cats{display:flex;gap:8px;flex-wrap:wrap}
-.cats button{font:700 .95rem inherit;font-family:inherit;border:0;border-radius:8px;padding:9px 18px;cursor:pointer;background:var(--card);color:var(--muted)}
-.cats button[aria-pressed="true"]{background:var(--navy);color:#fff}
-.cats button:focus-visible,.go:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
-.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
-@media (max-width:860px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media (max-width:560px){.grid{grid-template-columns:1fr}}
-.card{background:var(--card);border-radius:14px;padding:20px;display:flex;flex-direction:column;gap:10px;min-width:0}
-.tag{align-self:flex-start;font:500 .72rem "IBM Plex Mono",monospace;letter-spacing:.06em;padding:3px 9px;border-radius:6px}
-.tag.beg{background:var(--t1);color:var(--t1i)}.tag.pro{background:var(--gold-pale);color:var(--gold-ink)}
-.card h2{margin:0;font:400 1.35rem/1.25 "Black Han Sans",sans-serif}
-.card p{margin:0;color:var(--muted);flex:1}
-.go{display:block;text-align:center;text-decoration:none;font-weight:700;background:var(--navy);color:#fff;border-radius:8px;padding:11px}
-.go.gold{background:var(--gold);color:#1c1f4a}
-.note{font-size:.82rem;color:var(--muted);border-top:1px solid var(--line);padding-top:14px}
+header{background:#fff;border-bottom:1px solid var(--line)}
+.bar{max-width:1140px;margin:0 auto;padding:18px 16px;display:flex;align-items:center;gap:44px;flex-wrap:wrap}
+.logo{display:flex;align-items:center;gap:6px;text-decoration:none;color:var(--blue);font-weight:900;font-size:1.45rem;letter-spacing:.02em}
+nav{display:flex;gap:30px;font-size:1.12rem;font-weight:500}
+nav a{text-decoration:none;color:#222}nav a[aria-current]{color:var(--blue);font-weight:700}
+main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-direction:column;gap:36px}
+.cats{display:flex;gap:14px;flex-wrap:wrap}
+.cats button{font:700 1.15rem inherit;font-family:inherit;border:0;border-radius:4px;padding:12px 28px;cursor:pointer}
+.cats [data-c=all]{background:var(--all);color:var(--all-i)}.cats [data-c=beg]{background:var(--beg);color:var(--beg-i)}
+.cats [data-c=pro]{background:var(--pro);color:var(--pro-i)}.cats [data-c=etc]{background:var(--etc);color:var(--etc-i)}
+.cats button[aria-pressed=false]{opacity:.55}
+.cats button:focus-visible,.go:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+@media (max-width:900px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:580px){.grid{grid-template-columns:1fr}nav{gap:18px;font-size:1rem}.bar{gap:18px}}
+.card{background:var(--card);border-radius:12px;padding:24px 28px 26px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.tag{align-self:flex-start;font-size:.8rem;padding:3px 10px;border-radius:4px}
+.tag.beg{background:var(--beg);color:var(--beg-i)}.tag.pro{background:var(--pro);color:var(--pro-i)}.tag.etc{background:var(--etc);color:var(--etc-i)}
+.card h2{margin:0;font-size:1.65rem;font-weight:900;letter-spacing:-.02em;line-height:1.3}
+.card p{margin:0;color:var(--muted);flex:1;font-size:1.02rem}
+.go{display:block;text-align:center;text-decoration:none;font-weight:700;font-size:1.08rem;background:var(--blue);color:#fff;border-radius:4px;padding:12px}
+.go:hover{background:var(--blue-d)}
+.note{font-size:.85rem;color:#6b7280;margin:0}
 </style></head><body>
-<header class="top"><div class="in">
-  <a class="brand" href="/"><svg viewBox="0 0 32 24" width="26" height="20" aria-hidden="true"><path fill="currentColor" d="M2 6l7 6 7-10 7 10 7-6-3 16H5z"/><rect x="5" y="21" width="22" height="3" rx="1" fill="currentColor"/></svg><b>KINGDOM</b></a>
+<header><div class="bar">
+  <a class="logo" href="/"><svg viewBox="0 0 32 24" width="28" height="21" aria-hidden="true"><path fill="currentColor" d="M2 6l7 6 7-10 7 10 7-6-3 16H5z"/><rect x="5" y="21" width="22" height="3" rx="1" fill="currentColor"/></svg>KINGDOM</a>
   <nav><a href="/">쇼핑</a><a href="/#car">뉴스</a><a href="/ai" aria-current="page">AI 프로그램</a></nav>
 </div></header>
 <main>
-  <h1>KINGDOM AI 프로그램</h1>
-  <p class="lede">상품 이름이나 캡처만 넣으면 스레드·블로그·쇼츠 글감이 바로 나와요.</p>
   <div class="cats" role="group" aria-label="분류">
     <button type="button" data-c="all" aria-pressed="true">전체</button>
     <button type="button" data-c="beg" aria-pressed="false">초보자</button>
     <button type="button" data-c="pro" aria-pressed="false">수익화</button>
+    <button type="button" data-c="etc" aria-pressed="false">기타</button>
   </div>
   <div class="grid">
-    <article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>스레드 후킹 문구</h2><p>상품 이름이나 캡처만 넣으면 첫 줄 문구 5개와 첫 댓글까지.</p><a class="go gold" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#hook" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>키워드 생성기</h2><p>주제 하나로 쿠팡 검색 키워드 10개, 제목 5개, 해시태그 12개.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#kw" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>제목 다듬기</h2><p>초안 제목을 넣으면 클릭을 부르는 제목 10개.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#title" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>문장 다듬기</h2><p>쓴 글을 붙여 넣으면 읽기 쉽게 고쳐 드려요.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#polish" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>블로그 글 생성기</h2><p>키워드와 방향만 넣으면 정보형 블로그 초안 한 편.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#blog" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>쇼츠 대본</h2><p>상품과 찍은 장면으로 30초 자막·내레이션을 장면별로.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#shorts" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>레시피 스레드</h2><p>메뉴 이름만 넣으면 400자 레시피 원고와 핵심재료 링크 자리.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#recipe" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>다이소 vs 쿠팡 비교</h2><p>다이소 제품과 쿠팡 대체품을 비교하는 스레드 글.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#daiso" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>골드박스 특가 글</h2><p>정가·할인가만 넣으면 특가 스레드 글과 첫 댓글.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#deal" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>유튜브 대본 → 블로그</h2><p>내 영상 대본을 붙여 넣으면 깔끔한 블로그 글로.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#yt" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>지원금 블로그 글</h2><p>공식 공고를 붙여 넣으면 대상·금액·신청법 정리 글.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#support" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>지역별 블로그 글</h2><p>지역과 주제로 제목, 첫 문단, 목차까지.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#local" target="_blank" rel="noopener">이용하기</a></article>
-    <article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>축제 정보 글</h2><p>축제 공식 안내를 붙여 넣으면 방문 안내 글.</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#festival" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>스레드 후킹 문구</h2><p>상품 이름이나 캡처만 넣으면<br>첫 줄 문구 5개 + 첫 댓글까지 🔥</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#hook" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>키워드 생성기</h2><p>초보도 쿠팡 검색 키워드를<br>10개씩 뽑아 드려요 🔑</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#kw" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="beg"><span class="tag beg">초보자</span><h2>제목 다듬기</h2><p>밋밋한 제목을<br>클릭 부르는 제목 10개로 ✏️</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#title" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="etc"><span class="tag etc">기타</span><h2>문장 다듬기</h2><p>쓴 글을 붙여 넣으면<br>읽기 쉽게 고쳐 드려요 ✨</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#polish" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>블로그 글 생성기</h2><p>키워드만 입력하면<br>정보형 블로그 초안 완성 📝</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#blog" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>쇼츠 대본 생성기</h2><p>상품과 장면만 넣으면<br>30초 자막·내레이션 🎬</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#shorts" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>레시피 스레드</h2><p>메뉴 이름만 넣으면<br>400자 레시피 원고 완성 🍳</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#recipe" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>다이소 vs 쿠팡 비교</h2><p>다이소 꿀템 대신<br>쿠팡 대체품 비교 스레드 🛒</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#daiso" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>골드박스 특가 글</h2><p>정가·할인가만 넣으면<br>특가 스레드 글 완성 ⏰</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#deal" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>유튜브 대본 블로그 글쓰기</h2><p>유튜브 영상 대본을 넣으면<br>블로그 글로 깔끔하게 🎥</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#yt" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>지원금 블로그 생성기</h2><p>공식 공고만 붙여 넣으면<br>대상·금액·신청법 정리 📢</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#support" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>지역별 블로그 생성기</h2><p>지역과 주제만 입력하세요<br>제목·첫 문단·목차까지 📍</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#local" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="pro"><span class="tag pro">수익화</span><h2>축제 글쓰기</h2><p>축제 공식 안내를 넣으면<br>방문 안내 글 자동으로 🎉</p><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#festival" target="_blank" rel="noopener">이용하기</a></article>
   </div>
   <p class="note">KINGDOM 운영자 전용 도구예요. 이용하기를 누르면 운영자의 Claude 계정에서 열려요.</p>
 </main>
 <script>
-document.querySelectorAll(".cats button").forEach(b=>b.onclick=()=>{
-  const c=b.dataset.c;
-  document.querySelectorAll(".cats button").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));
-  document.querySelectorAll(".card").forEach(k=>k.hidden=!(c==="all"||k.dataset.c.split(" ").includes(c)));
-});
+document.querySelectorAll(".cats button").forEach(b=>b.onclick=()=>{const c=b.dataset.c;
+document.querySelectorAll(".cats button").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));
+document.querySelectorAll(".card").forEach(k=>k.hidden=!(c==="all"||k.dataset.c===c));});
 </script>
 </body></html>
