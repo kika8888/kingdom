@@ -7,7 +7,7 @@
 <style>
 :root{--bg:#f6f7f9;--card:#fff;--ink:#111827;--muted:#4b5563;--line:#e5e7eb;--blue:#4263f5;--blue-d:#3451d8;
 --all:#d9dcfb;--all-i:#4263f5;--beg:#fde2df;--beg-i:#f0675a;--pro:#fdf3d4;--pro-i:#e0b33a;--etc:#ebebed;--etc-i:#8a8f98}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif}
+*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif}
 a{color:inherit}
 header{background:#fff;border-bottom:1px solid var(--line)}
 .bar{max-width:1140px;margin:0 auto;padding:18px 16px;display:flex;align-items:center;gap:44px;flex-wrap:wrap}
@@ -65,8 +65,19 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
   <p class="note">KINGDOM 운영자 전용 도구예요. 이용하기를 누르면 운영자의 Claude 계정에서 열려요.</p>
 </main>
 <script>
-document.querySelectorAll(".cats button").forEach(b=>b.onclick=()=>{const c=b.dataset.c;
-document.querySelectorAll(".cats button").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));
-document.querySelectorAll(".card").forEach(k=>k.hidden=!(c==="all"||k.dataset.c===c));});
+// 아백처럼 분류마다 주소가 따로: /ai/?category=초보자 · 수익화 · 기타
+const NAMES={all:"전체",beg:"초보자",pro:"수익화",etc:"기타"};
+function apply(c){
+  if(!NAMES[c])c="all";
+  document.querySelectorAll(".cats button").forEach(x=>x.setAttribute("aria-pressed",String(x.dataset.c===c)));
+  document.querySelectorAll(".card").forEach(k=>k.hidden=!(c==="all"||k.dataset.c===c));
+}
+document.querySelectorAll(".cats button").forEach(b=>b.onclick=()=>{
+  const c=b.dataset.c; apply(c);
+  const u=new URL(location.href); if(c==="all")u.searchParams.delete("category"); else u.searchParams.set("category",NAMES[c]);
+  history.pushState({c},"",u);
+});
+function fromUrl(){const q=new URLSearchParams(location.search).get("category");const c=Object.keys(NAMES).find(k=>NAMES[k]===q)||"all";apply(c)}
+window.addEventListener("popstate",fromUrl); fromUrl();
 </script>
 </body></html>
