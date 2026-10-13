@@ -183,10 +183,32 @@ def skip(title):
 
 
 def publish(token, acc, x, seen):
+    """본문은 링크 없이(스레드는 링크 없는 글을 더 퍼뜨린다), 링크 카드는 첫 댓글로.
+    댓글 권한이 없으면 예전처럼 본문에 링크를 붙이고, 다음부터는 계속 그 방식으로 올린다."""
     text = compose(x, acc, seen)
-    c = post(token, {"media_type": "TEXT", "text": text, "link_attachment": x["link"]})
-    time.sleep(20)
-    r = post(token, {"creation_id": c["id"]})
+    if seen.get("reply_ok") is False:
+        c = post(token, {"media_type": "TEXT", "text": text, "link_attachment": x["link"]})
+        time.sleep(20)
+        r = post(token, {"creation_id": c["id"]})
+    else:
+        body = text.replace("👇", "👇 (첫 댓글에 링크)", 1)
+        c = post(token, {"media_type": "TEXT", "text": body})
+        time.sleep(20)
+        r = post(token, {"creation_id": c["id"]})
+        try:
+            time.sleep(10)
+            c2 = post(token, {"media_type": "TEXT", "text": f"전체 내용 👉 {x['title'][:80]}",
+                              "link_attachment": x["link"], "reply_to_id": r["id"]})
+            time.sleep(20)
+            post(token, {"creation_id": c2["id"]})
+            seen["reply_ok"] = True
+            text = body
+        except RuntimeError as e:
+            print(f"::warning title=첫 댓글 실패, 본문 링크 방식으로 바꿉니다::{e}")
+            seen["reply_ok"] = False
+            c = post(token, {"media_type": "TEXT", "text": text, "link_attachment": x["link"]})
+            time.sleep(20)
+            r = post(token, {"creation_id": c["id"]})
     seen["posted"].append(x["link"])
     return text, r
 
