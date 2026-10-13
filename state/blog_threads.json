@@ -10,7 +10,8 @@
    "https://blog.naver.com/soduwk1209/224438088119",
    "https://blog.naver.com/soduwk1209/224438300932",
    "https://blog.naver.com/soduwk1209/224438269119",
-   "https://blog.naver.com/soduwk1209/224438185100"
+   "https://blog.naver.com/soduwk1209/224438185100",
+   "https://blog.naver.com/soduwk1209/224438170701"
   ],
   "started": true,
   "v": 2,
@@ -368,7 +369,7 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "질문",
+  "tone": "감탄",
   "hooks": [
    "지금 많이 보는 뉴스",
    "오늘 이 소식 다들 봤지?",
@@ -379,10 +380,10 @@
    "이건 몰랐네",
    "이 소식 어떻게 생각하세요?",
    "남창희 얘기 봤어?",
-   "다들 이거 아셨어요?"
+   "다들 이거 아셨어요?",
+   "와 김지원 이런 일이 있었네"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224438170701",
    "https://blog.naver.com/soduwk1209/224439543579",
    "https://blog.naver.com/soduwk1209/224439798140"
   ],
@@ -399,7 +400,8 @@
    "https://blog.naver.com/dkdk521/224437680623",
    "https://blog.naver.com/dkdk521/224437677899",
    "https://blog.naver.com/dkdk521/224439913416",
-   "https://blog.naver.com/dkdk521/224439897176"
+   "https://blog.naver.com/dkdk521/224439897176",
+   "https://blog.naver.com/dkdk521/224440218923"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -806,7 +808,11 @@
    "https://blog.naver.com/dkdk521/224439913416",
    "https://blog.naver.com/dkdk521/224439897176",
    "https://blog.naver.com/dkdk521/224440218923",
-   "https://blog.naver.com/dkdk521/224439957103"
+   "https://blog.naver.com/dkdk521/224439957103",
+   "https://blog.naver.com/dkdk521/224440273647",
+   "https://blog.naver.com/dkdk521/224440262155",
+   "https://blog.naver.com/dkdk521/224440232585",
+   "https://blog.naver.com/dkdk521/224440221368"
   ],
   "backlog": [
    "https://blog.naver.com/dkdk521/224436749834",
@@ -1203,7 +1209,7 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "짧게",
+  "tone": "친구",
   "hooks": [
    "박성현 이야기",
    "성명준 이야기 듣고 깜짝",
@@ -1213,11 +1219,15 @@
    "이창진 무슨 일이야?",
    "화제의 소식",
    "유지원 소식, 정리해 드릴게요",
-   "지금 많이 보는 스포츠 뉴스"
+   "지금 많이 보는 스포츠 뉴스",
+   "성명준 무슨 일이야?"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224440218923",
-   "https://blog.naver.com/dkdk521/224439957103"
+   "https://blog.naver.com/dkdk521/224439957103",
+   "https://blog.naver.com/dkdk521/224440273647",
+   "https://blog.naver.com/dkdk521/224440262155",
+   "https://blog.naver.com/dkdk521/224440232585",
+   "https://blog.naver.com/dkdk521/224440221368"
   ],
   "reply_ok": true
  }
