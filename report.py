@@ -53,18 +53,38 @@ def main(once=False):
     gmv = total(orders_rows, "gmv", "orderAmount")
     commission = total(p.report("commission", d, d), "commission")
 
+    # 최근 7일 날짜별 (하루치만 보면 아직 확정 안 된 0 을 '조회수 없음'으로 오해하기 쉽다)
+    s7 = (now - timedelta(days=7)).strftime("%Y%m%d")
+    week = {}
+    for kind, fields, key in (("clicks", ("click", "clickCount"), "c"), ("orders", ("orderCount", "quantity"), "o"),
+                              ("commission", ("commission",), "m")):
+        try:
+            rows = p.report(kind, s7, d)
+        except Exception as e:
+            print(f"7일 {kind} 조회 실패: {e}")
+            rows = []
+        for r in rows:
+            k = str(r.get("date", ""))[-4:]
+            week.setdefault(k, {"c": 0, "o": 0, "m": 0})[key] += total([r], *fields)
+    days = sorted(k for k in week if k)
+    trend = " / ".join(f"{k[:2]}.{k[2:]} {week[k]['c']:,.0f}" for k in days)
+
     label = day.strftime("%Y-%m-%d")
     errors = p.notify(
         f"[쿠팡 파트너스] {label} 실적\n"
         f"클릭 {clicks:,.0f}회\n"
         f"주문 {orders:,.0f}건 (구매액 {gmv:,.0f}원)\n"
         f"수익 {commission:,.0f}원"
+        + (f"\n\n최근 7일 클릭: {trend}" if trend else "")
     )
     p.summary(
         f"## {label} 실적\n\n| 클릭 | 주문 | 구매액 | 수익 |\n|---:|---:|---:|---:|\n"
         f"| {clicks:,.0f} | {orders:,.0f} | {gmv:,.0f}원 | {commission:,.0f}원 |\n\n"
-        "※ 쿠팡 리포트는 하루 정도 늦게 확정될 수 있습니다."
+        "### 최근 7일\n\n| 날짜 | 클릭 | 주문 | 수익 |\n|---|---:|---:|---:|\n"
+        + "".join(f"| {k[:2]}.{k[2:]} | {week[k]['c']:,.0f} | {week[k]['o']:,.0f} | {week[k]['m']:,.0f}원 |\n" for k in days)
+        + "\n※ 쿠팡 리포트는 하루 정도 늦게 확정될 수 있습니다."
     )
+    print("7일 클릭:", trend or "데이터 없음")
     if errors:   # 알림이 안 갔으면 실패로 표시해서 GitHub 실행 기록(빨간 X)과 메일로 알 수 있게
         for e in errors:
             print(f"::error title=알림 전송 실패::{e[:300]}")
