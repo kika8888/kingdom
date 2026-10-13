@@ -103,13 +103,19 @@ def compose(x, acc, seen):
     """글마다 다른 말투·후킹·끝맺음·해시태그. 바로 전 글과 같은 말투, 최근 쓴 후킹은 피한다."""
     tone = random.choice([t for t in HOOKS if t != seen.get("tone")])
     n = name_of(x["title"])
-    pool = [h.format(n=n, t=acc["name"]) for h in HOOKS[tone] if n or "{n}" not in h]
+    if not (len(n) == 3 and n[0] in SURNAMES):   # '노래방 무슨 일이야?' 같은 어색한 후킹 방지: 사람 이름일 때만 넣는다
+        n = ""
+    pool =[h.format(n=n, t=acc["name"]) for h in HOOKS[tone] if n or "{n}" not in h]
     fresh = [h for h in pool if h not in seen.get("hooks", [])] or pool
     hook = random.choice(fresh)
     summary = x["summary"].strip()
     if summary and summary[-1] not in ".!?…다요":   # RSS 요약은 90자에서 잘려 온다
         summary = summary.rsplit(" ", 1)[0] + "…"
-    lines = [hook, "", x["title"], "", summary, "", random.choice(CTA[tone]), "", tags_of(x["title"], acc["tags"])]
+    # 스레드는 글 하나에 주제 태그 1개만 인식하고 나머지 #단어 는 글자로 남아 지저분해진다 → 태그는 1개만.
+    # 제목은 아래 링크 카드에 이미 나오므로 본문에 다시 쓰지 않는다.
+    real_name = n if len(n) == 3 and n[0] in SURNAMES else ""
+    tag = "#" + (real_name or acc["tags"].split()[0].lstrip("#"))
+    lines = [hook, "", summary, "", random.choice(CTA[tone]) + " " + tag]
     seen["tone"] = tone
     seen["hooks"] = (seen.get("hooks", []) + [hook])[-15:]
     return "\n".join(lines)[:500]
