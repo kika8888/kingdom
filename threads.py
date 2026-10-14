@@ -358,7 +358,8 @@ def pick_manual(posted):
             continue
         url, _, memo = (s.strip() for s in line.partition("|"))
         memo, _, flag = (s.strip() for s in memo.partition("|"))
-        name = "" if url.startswith("http") else url
+        flag, _, hint = (s.strip() for s in flag.partition("|"))   # 넷째 칸: 상품 링크일 때 사진 찾을 검색어
+        name = hint if url.startswith("http") else url
         if url and not url.startswith("http"):   # 휴대폰에서 상품 이름만 적어도 쿠팡 검색 링크로 바꾼다
             url = "https://www.coupang.com/np/search?q=" + urllib.parse.quote(url)
         if url.startswith("http") and url not in seen:
@@ -367,29 +368,33 @@ def pick_manual(posted):
             if not short:
                 print("파트너스 링크를 만들지 못한 주소(건너뜀):", url)
                 continue
-            return {"productId": url, "productUrl": short, "productName": name, "productImage": manual_image(url),
+            return {"productId": url, "productUrl": short, "productName": name, "productImage": manual_image(url, hint),
                     "memo": memo, "video": flag == "영상"}, "manual"
     return None, None
 
 
-def manual_image(url):
-    """picks 상품 사진: 검색 링크면 그 검색어 1위 상품 사진, 상품 링크면 상품 번호로 검색해서 찾는다."""
+def manual_image(url, hint=""):
+    """picks 상품 사진: 검색 링크면 그 검색어로, 상품 링크면 넷째 칸 검색어(hint)로 검색해서
+    같은 상품 번호 → 이름에 검색어가 든 상품 순으로 찾는다."""
     q = urllib.parse.urlparse(url)
     word = urllib.parse.parse_qs(q.query).get("q", [""])[0]
-    if not word and "/vp/products/" in q.path:
-        word = q.path.split("/vp/products/")[1].split("/")[0]
+    pid = q.path.split("/vp/products/")[1].split("/")[0] if "/vp/products/" in q.path else ""
+    word = hint or word or pid
     if not word:
         return ""
     try:
-        items = p.search(word, limit=5)
+        items = p.search(word, limit=10)
     except Exception as e:
         print("picks 사진 찾기 실패(글만 올림):", e)
         return ""
+    for it in items or []:
+        if pid and str(it.get("productId")) == pid and it.get("productImage"):
+            return it["productImage"]
     # 검색 1위가 다른 상품일 수 있다 (몽쉘을 찾았는데 초코파이가 1위). 이름에 검색어 첫 단어가 들어간 상품만 쓴다.
     # 맞는 사진이 없으면 사진 없이 글만 올린다 (엉뚱한 사진보다 낫다).
-    key = word.split()[0].lower() if word and not word.isdigit() else ""
+    key = "" if word.isdigit() else word.split()[0].lower()   # 상품 번호로만 찾았으면 번호가 같은 것만 인정
     for it in items or []:
-        if it.get("productImage") and (not key or key in str(it.get("productName", "")).lower().replace(" ", "")):
+        if key and it.get("productImage") and key in str(it.get("productName", "")).lower().replace(" ", ""):
             return it["productImage"]
     print("picks 사진: 검색어와 이름이 맞는 상품이 없어 사진 없이 올립니다:", word)
     return ""
