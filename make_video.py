@@ -121,10 +121,13 @@ def layers(photo, title, lines, tmp, i, chip="", note=False):
 
     top = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(top)
-    big = font(80)
-    heads = wrap(d, title, big, W - 140)
-    if lines and lines[0]:
-        heads = heads[:1] + wrap(d, " ".join(heads[1:] + [lines[0]]), big, W - 140)
+    for size in (80, 68, 58):   # 2줄에 다 들어갈 때까지 글씨를 줄인다 (긴 문구가 잘리지 않게)
+        big = font(size)
+        heads = wrap(d, title, big, W - 140)
+        if lines and lines[0]:
+            heads = heads[:1] + wrap(d, " ".join(heads[1:] + [lines[0]]), big, W - 140)
+        if len(heads) <= 2:
+            break
     heads = heads[:2]
     shade = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     sd = ImageDraw.Draw(shade)
