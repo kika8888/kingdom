@@ -385,9 +385,13 @@ def manual_image(url):
     except Exception as e:
         print("picks 사진 찾기 실패(글만 올림):", e)
         return ""
+    # 검색 1위가 다른 상품일 수 있다 (몽쉘을 찾았는데 초코파이가 1위). 이름에 검색어 첫 단어가 들어간 상품만 쓴다.
+    # 맞는 사진이 없으면 사진 없이 글만 올린다 (엉뚱한 사진보다 낫다).
+    key = word.split()[0].lower() if word and not word.isdigit() else ""
     for it in items or []:
-        if it.get("productImage"):
+        if it.get("productImage") and (not key or key in str(it.get("productName", "")).lower().replace(" ", "")):
             return it["productImage"]
+    print("picks 사진: 검색어와 이름이 맞는 상품이 없어 사진 없이 올립니다:", word)
     return ""
 
 
