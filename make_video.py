@@ -1,4 +1,6 @@
-"""자동 상품 영상: 큰 글씨 장면 + 한국어 여성 AI 목소리 + 잔잔한 배경음. 사진은 천천히 확대된다.
+"""자동 상품 영상: 흐린 사진 배경 + 가운데 상품 사진 카드 + 위 제목 2줄(흰색/민트) + 사진 아래 이름표
++ 맨 아래 진행 막대 + 한국어 여성 AI 목소리 + 잔잔한 배경음. 사진은 천천히 확대된다.
+마지막 장면은 "궁금하면 / 링크는 댓글에 ↓" + 쿠팡 파트너스 대가성 문구.
 
   make_top(): 상품 3개 랭킹 영상 (오프닝 → 낮은 순위부터 → 마무리, 장면마다 다른 사진)
   make():     상품 1개 영상 (3개가 안 모일 때)
@@ -25,7 +27,7 @@ ROOT = Path(__file__).parent
 BGM_DIR = ROOT / "bgm"
 VOICE = "ko-KR-SunHiNeural"   # 한국어 여성 목소리
 W, H = 1080, 1920
-PIC, PIC_X, PIC_Y = 880, 100, 600   # 상품 사진 자리
+PIC, PIC_X, PIC_Y = 880, 100, 480   # 상품 사진 자리
 BGM_VOLUME = 0.18             # 목소리 대비 배경음 크기
 FONTS = ["/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc", "C:/Windows/Fonts/malgunbd.ttf"]
 
@@ -103,38 +105,54 @@ def wrap(draw, text, fnt, width):
     return lines + [line] if line else lines
 
 
-def layers(photo, title, lines, tmp, i):
-    """배경(흐린 사진), 사진, 글씨(투명 바탕) 세 장. 사진만 따로 움직이게 나눈다."""
+MINT = (94, 234, 190)                 # 둘째 줄·진행 막대 색
+NOTE = "쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다"
+
+
+def layers(photo, title, lines, tmp, i, chip="", note=False):
+    """배경(흐린 사진), 사진, 글씨(투명 바탕) 세 장. 사진만 따로 움직이게 나눈다.
+    위 제목 2줄: 첫 줄 흰색 + 둘째 줄 민트색 (title 이 첫 줄, lines[0] 이 둘째 줄. 둘째 줄이 없으면 title 을 나눈다).
+    사진 아래 작은 이름표(chip), 마지막 장면엔 맨 아래 대가성 문구(note)."""
     from PIL import Image, ImageDraw, ImageFilter
     bg = photo.resize((H, H)).crop(((H - W) // 2, 0, (H - W) // 2 + W, H)).filter(ImageFilter.GaussianBlur(40))
-    bg = Image.blend(bg, Image.new("RGB", (W, H), "black"), 0.45)
+    bg = Image.blend(bg, Image.new("RGB", (W, H), (40, 40, 40)), 0.5)
     bg.save(tmp / f"bg{i}.png")
     photo.resize((PIC * 2, PIC * 2)).save(tmp / f"ph{i}.png")   # 확대해도 깨지지 않게 크게
 
     top = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(top)
-    big = font(84)
-    y = 200
-    for ln in wrap(d, title, big, W - 140)[:3]:
-        d.text((W // 2, y), ln, font=big, fill="white", anchor="mm", stroke_width=6, stroke_fill="black")
-        y += 110
-    mid = font(54)
-    rows = [x for t in lines for x in wrap(d, t, mid, W - 160)][:4]
-    y = 1610 - 50 * (len(rows) - 1)   # 줄 수에 맞춰 위로 올린다
-    for ln in rows:
-        d.rounded_rectangle((60, y - 44, W - 60, y + 44), 22, fill=(255, 214, 0))
-        d.text((W // 2, y), ln, font=mid, fill="black", anchor="mm")
-        y += 100
+    big = font(80)
+    heads = wrap(d, title, big, W - 140)
+    if lines and lines[0]:
+        heads = heads[:1] + wrap(d, " ".join(heads[1:] + [lines[0]]), big, W - 140)
+    heads = heads[:2]
+    shade = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    sd = ImageDraw.Draw(shade)
+    for k, ln in enumerate(heads):
+        sd.text((W // 2 + 3, 230 + k * 112 + 5), ln, font=big, fill=(0, 0, 0, 140), anchor="mm")
+    top = Image.alpha_composite(top, shade.filter(ImageFilter.GaussianBlur(6)))
+    d = ImageDraw.Draw(top)
+    for k, ln in enumerate(heads):
+        d.text((W // 2, 230 + k * 112), ln, font=big, fill="white" if k == 0 else MINT, anchor="mm")
+    if chip:
+        small = font(36)
+        chip = wrap(d, chip, small, W - 300)[0]
+        w = d.textlength(chip, font=small) + 64
+        y = PIC_Y + PIC + 60
+        d.rounded_rectangle((W / 2 - w / 2, y - 34, W / 2 + w / 2, y + 34), 34, fill=(20, 24, 28, 220))
+        d.text((W // 2, y), chip, font=small, fill="white", anchor="mm")
+    if note:
+        d.text((W // 2, H - 110), NOTE, font=font(28), fill=(225, 225, 225), anchor="mm")
     top.save(tmp / f"tx{i}.png")
 
     mask = Image.new("L", (PIC, PIC), 0)
-    ImageDraw.Draw(mask).rounded_rectangle((0, 0, PIC, PIC), 48, fill=255)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, PIC, PIC), 36, fill=255)
     mask.save(tmp / "mask.png")
 
 
-def scene(photo, title, lines, say, tmp, i, zoom_in=True):
+def scene(photo, title, lines, say, tmp, i, zoom_in=True, chip="", note=False):
     """장면 하나 = 사진이 천천히 확대(또는 축소)되는 영상 + 목소리."""
-    layers(photo, title, lines, tmp, i)
+    layers(photo, title, lines, tmp, i, chip, note)
     mp3 = tmp / f"s{i}.mp3"
     speak(plain(say), mp3)
     secs = seconds(mp3) + 0.6
@@ -220,16 +238,20 @@ def bgm(tmp, secs):
 # ── 영상 ─────────────────────────────────────────────────────
 
 def finish(segs, tmp, out):
-    """장면들을 이어 붙이고 배경음을 깐다."""
+    """장면들을 이어 붙이고 배경음을 깐다. 맨 아래에 영상 길이만큼 차오르는 민트색 진행 막대."""
     (tmp / "list.txt").write_text("".join(f"file '{s.as_posix()}'\n" for s in segs), encoding="utf-8")
     voice = tmp / "voice.mp4"
     run(["-f", "concat", "-safe", "0", "-i", str(tmp / "list.txt"), "-c", "copy", str(voice)])
     total = seconds(voice)
     music = bgm(tmp, total)
-    run(["-i", str(voice), "-stream_loop", "-1", "-i", str(music), "-filter_complex",
+    bar = "0x%02x%02x%02x" % MINT
+    run(["-i", str(voice), "-stream_loop", "-1", "-i", str(music),
+         "-f", "lavfi", "-i", f"color=c={bar}:s={W}x10:r=30",
+         "-filter_complex",
+         f"[0:v][2:v]overlay=x='-W+W*t/{total:.2f}':y=H-10:shortest=1,format=yuv420p[v];"
          f"[1:a]volume={BGM_VOLUME},afade=t=out:st={max(total - 1.5, 0):.2f}:d=1.5[m];"
          "[0:a][m]amix=inputs=2:duration=first:normalize=0[a]",
-         "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "128k",
+         "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", "veryfast", "-c:a", "aac", "-b:a", "128k",
          "-movflags", "+faststart", "-t", f"{total:.2f}", str(out)])
     return out
 
@@ -263,10 +285,10 @@ def make_top(title, items, labels, out, words=None):
             item, name, label = items[k], names[k], plain(labels[k])
             facts = facts_of(item)
             say = f"{label}. {name}." + (" " + ", ".join(facts) + "." if facts else "")
-            segs.append(scene(photos[k], label, [name] + ([" · ".join(facts)] if facts else []),
-                              say, tmp, len(segs), zoom_in=k % 2 == 0))
-        segs.append(scene(collage(photos), plain(w["outro_title"]), ["링크는 댓글에서 확인"],
-                          w["outro"], tmp, len(segs), zoom_in=False))
+            segs.append(scene(photos[k], label, [" · ".join(facts) or "요즘 많이 찾는 그거"],
+                              say, tmp, len(segs), zoom_in=k % 2 == 0, chip=name))
+        segs.append(scene(collage(photos), "궁금하면", ["링크는 댓글에 ↓"],
+                          w["outro"], tmp, len(segs), zoom_in=False, note=True))
         return finish(segs, tmp, out)
 
 
@@ -277,7 +299,9 @@ def make(item, hook, facts, out, end="자세한 정보는 댓글 링크에서 �
     facts = [plain(f) for f in facts if "사진 보면" not in f] or ["요즘 많이 찾는 상품이에요"]
     with tempfile.TemporaryDirectory() as t:
         tmp = Path(t)
-        segs = [scene(photo, hook, [], hook, tmp, 0),
-                scene(photo, hook, facts[:2], ". ".join(facts[:2]), tmp, 1, zoom_in=False),
-                scene(photo, hook, ["자세한 정보는 댓글 링크에서"], end, tmp, 2)]
+        name = short_name(item.get("productName", ""))
+        segs = [scene(photo, hook, [], hook, tmp, 0, chip=name)]
+        for k, f in enumerate(facts[:2]):   # 사실 하나당 장면 하나 (위 2줄: 상품 이름 + 사실)
+            segs.append(scene(photo, name, [f], f, tmp, len(segs), zoom_in=k % 2 == 1, chip=name))
+        segs.append(scene(photo, "궁금하면", ["링크는 댓글에 ↓"], end, tmp, len(segs), note=True))
         return finish(segs, tmp, out)
