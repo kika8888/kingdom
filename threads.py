@@ -345,7 +345,8 @@ def pick(posted):
 
 
 def pick_manual(posted):
-    """picks.txt 에 직접 넣은 쿠팡 주소 중 아직 안 올린 첫 번째. (주소 | 첫 줄 문구)"""
+    """picks.txt 에 직접 넣은 쿠팡 주소 중 아직 안 올린 첫 번째. (주소 | 첫 줄 문구 | 영상)
+    셋째 칸에 '영상' 이라고 적으면 사진 글 대신 자동 쇼츠 영상으로 올린다."""
     try:
         lines = PICKS.read_text(encoding="utf-8").splitlines()
     except FileNotFoundError:
@@ -356,6 +357,8 @@ def pick_manual(posted):
         if not line or line.startswith("#"):
             continue
         url, _, memo = (s.strip() for s in line.partition("|"))
+        memo, _, flag = (s.strip() for s in memo.partition("|"))
+        name = "" if url.startswith("http") else url
         if url and not url.startswith("http"):   # 휴대폰에서 상품 이름만 적어도 쿠팡 검색 링크로 바꾼다
             url = "https://www.coupang.com/np/search?q=" + urllib.parse.quote(url)
         if url.startswith("http") and url not in seen:
@@ -364,8 +367,8 @@ def pick_manual(posted):
             if not short:
                 print("파트너스 링크를 만들지 못한 주소(건너뜀):", url)
                 continue
-            return {"productId": url, "productUrl": short, "productName": "", "productImage": manual_image(url),
-                    "memo": memo}, "manual"
+            return {"productId": url, "productUrl": short, "productName": name, "productImage": manual_image(url),
+                    "memo": memo, "video": flag == "영상"}, "manual"
     return None, None
 
 
@@ -715,7 +718,7 @@ def main():
     card_url = coupang_card_link(item) if CARD_STYLE == "coupang" else ""
     record = {"id": str(item.get("productId")), "at": int(time.time()), "tone": TONE, "hook": first_line(text)}
     result = None
-    if source != "manual" and image and auto_turn(posted):
+    if image and ((source != "manual" and auto_turn(posted)) or item.get("video")):
         try:
             result = publish(text, "", reply_text, card_url, auto_video(item, text))
             record["auto"] = True
