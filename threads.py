@@ -600,7 +600,11 @@ def auto_video(item, text):
     hook = lines[0]
     facts = lines[2:lines.index("", 2)] if "" in lines[2:] else lines[2:3]
     end = say(TONE, "end")
-    return push_video(f"auto-{item.get('productId')}.mp4", lambda out: make_video.make(item, hook, facts, out, end))
+    pid = str(item.get("productId"))
+    if not pid.isdigit():   # picks 는 productId 가 쿠팡 주소라 파일 이름으로 못 쓴다
+        import hashlib
+        pid = "pick-" + hashlib.md5(pid.encode()).hexdigest()[:10]
+    return push_video(f"auto-{pid}.mp4", lambda out: make_video.make(item, hook, facts, out, end))
 
 
 def push_video(name, build):
@@ -608,11 +612,19 @@ def push_video(name, build):
     import subprocess
     folder = ROOT / "docs" / "videos"
     folder.mkdir(parents=True, exist_ok=True)
+    git = ["git", "-c", "user.name=kingdom-bot", "-c", "user.email=kingdom-bot@users.noreply.github.com"]
     for old in folder.glob("auto-*.mp4"):   # 지난 자동 영상은 스레드가 이미 가져갔으니 지워서 저장소를 가볍게
         old.unlink()
-    build(folder / name)
+    try:
+        build(folder / name)
+    except Exception:
+        # 실패하면 지운 파일을 되돌린다. 안 그러면 뒤의 기록 저장(git pull --rebase)이 '변경 사항 있음'으로 실패한다
+        subprocess.run(git + ["checkout", "--", "docs/videos"], cwd=ROOT, capture_output=True)
+        for f in folder.glob("auto-*"):
+            if subprocess.run(git + ["ls-files", "--error-unmatch", str(f)], cwd=ROOT, capture_output=True).returncode:
+                f.unlink()
+        raise
 
-    git = ["git", "-c", "user.name=kingdom-bot", "-c", "user.email=kingdom-bot@users.noreply.github.com"]
     for cmd in (["add", "-A", "docs/videos"], ["commit", "-m", "auto video"], ["pull", "--rebase"], ["push"]):
         r = subprocess.run(git + cmd, cwd=ROOT, capture_output=True, text=True)
         if r.returncode != 0:
