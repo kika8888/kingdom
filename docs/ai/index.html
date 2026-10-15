@@ -5,33 +5,44 @@
 <title>KINGDOM AI 프로그램</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap">
 <style>
-:root{--bg:#f6f7f9;--card:#fff;--ink:#111827;--muted:#4b5563;--line:#e5e7eb;--blue:#4263f5;--blue-d:#3451d8;
---all:#d9dcfb;--all-i:#4263f5;--beg:#fde2df;--beg-i:#f0675a;--pro:#fdf3d4;--pro-i:#e0b33a;--etc:#ebebed;--etc-i:#8a8f98}
+:root{--bg:#f5f4f0;--card:#fff;--ink:#17182b;--muted:#5d6072;--line:#e4e2da;--navy:#1c1f4a;--navy2:#2e3478;--gold:#e0bb45;--gold-d:#c9a227;
+--all:#e7e8f3;--all-i:#1c1f4a;--beg:#dff4ec;--beg-i:#0f7a5a;--pro:#fbf0d2;--pro-i:#8a6608;--etc:#eceaf3;--etc-i:#5b5875}
+/* KINGDOM 색: 남색 + 금색 (아백 사이트와 다르게) */
 *{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",sans-serif}
 a{color:inherit}
-header{background:#fff;border-bottom:1px solid var(--line)}
-.bar{max-width:1140px;margin:0 auto;padding:18px 16px;display:flex;align-items:center;gap:44px;flex-wrap:wrap}
-.logo{display:flex;align-items:center;gap:6px;text-decoration:none;color:var(--blue);font-weight:900;font-size:1.45rem;letter-spacing:.02em}
-nav{display:flex;gap:30px;font-size:1.12rem;font-weight:500}
-nav a{text-decoration:none;color:#222}nav a[aria-current]{color:var(--blue);font-weight:700}
-main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-direction:column;gap:36px}
-.cats{display:flex;gap:14px;flex-wrap:wrap}
-.cats button{font-family:inherit;font-weight:700;font-size:1.15rem;border:0;border-radius:4px;padding:12px 28px;cursor:pointer}
+header{background:var(--navy);border-bottom:3px solid var(--gold)}
+.bar{max-width:1140px;margin:0 auto;padding:16px 16px;display:flex;align-items:center;gap:44px;flex-wrap:wrap}
+.logo{display:flex;align-items:center;gap:8px;text-decoration:none;color:#fff;font-weight:900;font-size:1.45rem;letter-spacing:.12em}
+.logo svg,.logo img{color:var(--gold);fill:var(--gold)}
+nav{display:flex;gap:30px;font-size:1.08rem;font-weight:500}
+nav a{text-decoration:none;color:#c9cbe0;padding:4px 0;border-bottom:2px solid transparent}nav a:hover{color:#fff}
+nav a[aria-current]{color:var(--gold);font-weight:700;border-bottom-color:var(--gold)}
+main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-direction:column;gap:32px}
+.cats{display:flex;gap:10px;flex-wrap:wrap}
+.cats button{font-family:inherit;font-weight:700;font-size:1.05rem;border:1px solid transparent;border-radius:999px;padding:10px 26px;cursor:pointer;transition:transform .15s,box-shadow .15s}
+.cats button:hover{transform:translateY(-1px);box-shadow:0 4px 10px rgba(28,31,74,.12)}
 .cats [data-c=all]{background:var(--all);color:var(--all-i)}.cats [data-c=beg]{background:var(--beg);color:var(--beg-i)}
 .cats [data-c=pro]{background:var(--pro);color:var(--pro-i)}.cats [data-c=etc]{background:var(--etc);color:var(--etc-i)}
-.cats button[aria-pressed=true]{box-shadow:inset 0 0 0 2px currentColor}
-.cats button:focus-visible,.go:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.cats button[aria-pressed=true]{background:var(--navy);color:#fff;box-shadow:0 4px 12px rgba(28,31,74,.28)}
+.cats [data-c=beg][aria-pressed=true]{background:var(--beg-i)}.cats [data-c=pro][aria-pressed=true]{background:var(--gold-d);color:var(--navy)}
+.cats [data-c=etc][aria-pressed=true]{background:var(--etc-i)}
+.cats button:focus-visible,.go:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
 .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
 @media (max-width:900px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:580px){.grid{grid-template-columns:1fr}nav{gap:18px;font-size:1rem}.bar{gap:18px}}
-.card{background:var(--card);border-radius:12px;padding:24px 28px 26px;display:flex;flex-direction:column;gap:14px;min-width:0}
-.tag{align-self:flex-start;font-size:.8rem;padding:3px 10px;border-radius:4px}
+.card{background:var(--card);border-radius:16px;padding:24px 26px 24px;display:flex;flex-direction:column;gap:14px;min-width:0;
+  border:1px solid var(--line);border-top:4px solid var(--navy);box-shadow:0 2px 10px rgba(28,31,74,.06);transition:transform .15s,box-shadow .15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(28,31,74,.12)}
+.card[data-c=beg]{border-top-color:var(--beg-i)}.card[data-c=pro]{border-top-color:var(--gold-d)}.card[data-c=etc]{border-top-color:var(--etc-i)}
+.tag{align-self:flex-start;font-size:.8rem;font-weight:700;padding:3px 10px;border-radius:999px}
 .tag.beg{background:var(--beg);color:var(--beg-i)}.tag.pro{background:var(--pro);color:var(--pro-i)}.tag.etc{background:var(--etc);color:var(--etc-i)}
-.card h2{margin:0;font-size:1.65rem;font-weight:900;letter-spacing:-.02em;line-height:1.3}
-.card p{margin:0;color:var(--muted);flex:1;font-size:1.02rem}
-.tags{display:flex;gap:6px}.best{font-size:.8rem;padding:3px 10px;border-radius:4px;background:#111827;color:#fff;font-weight:700}
-.go{display:block;text-align:center;text-decoration:none;font-weight:700;font-size:1.08rem;background:var(--blue);color:#fff;border-radius:4px;padding:12px}
-.go:hover{background:var(--blue-d)}
+.card h2{margin:0;font-size:1.55rem;font-weight:900;letter-spacing:-.02em;line-height:1.3}
+.card p{margin:0;color:var(--muted);flex:1;font-size:1rem}
+.tags{display:flex;gap:6px}.best{font-size:.8rem;padding:3px 10px;border-radius:999px;background:var(--gold);color:var(--navy);font-weight:800}
+.go{display:block;text-align:center;text-decoration:none;font-weight:700;font-size:1.05rem;color:#fff;border-radius:999px;padding:12px;
+  background:linear-gradient(135deg,var(--navy),var(--navy2));box-shadow:0 4px 12px rgba(28,31,74,.22);transition:box-shadow .15s,color .15s}
+.go::after{content:"  →"}
+.go:hover{color:var(--gold);box-shadow:0 6px 16px rgba(28,31,74,.32),inset 0 0 0 2px var(--gold)}
 .note{font-size:.85rem;color:#6b7280;margin:0}
 </style></head><body>
 <header><div class="bar">
