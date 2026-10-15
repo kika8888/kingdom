@@ -21,7 +21,8 @@
    "https://blog.naver.com/soduwk1209/224440962643",
    "https://blog.naver.com/soduwk1209/224440959923",
    "https://blog.naver.com/soduwk1209/224441737445",
-   "https://blog.naver.com/soduwk1209/224441726114"
+   "https://blog.naver.com/soduwk1209/224441726114",
+   "https://blog.naver.com/soduwk1209/224441719041"
   ],
   "started": true,
   "v": 2,
@@ -396,9 +397,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "짧게",
+  "tone": "감탄",
   "hooks": [
-   "이건 몰랐네",
    "이 소식 어떻게 생각하세요?",
    "남창희 얘기 봤어?",
    "다들 이거 아셨어요?",
@@ -412,10 +412,10 @@
    "김지원 이야기",
    "이수근 소식 들으셨어요?",
    "이거 보고 놀람",
-   "함소원 근황"
+   "함소원 근황",
+   "하정우 이야기 듣고 깜짝"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224441719041",
    "https://blog.naver.com/soduwk1209/224441925740",
    "https://blog.naver.com/soduwk1209/224441908458",
    "https://blog.naver.com/soduwk1209/224441753596",
@@ -449,7 +449,8 @@
    "https://blog.naver.com/dkdk521/224440349272",
    "https://blog.naver.com/dkdk521/224440316465",
    "https://blog.naver.com/dkdk521/224440288189",
-   "https://blog.naver.com/dkdk521/224440978152"
+   "https://blog.naver.com/dkdk521/224440978152",
+   "https://blog.naver.com/dkdk521/224440982467"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -877,7 +878,11 @@
    "https://blog.naver.com/dkdk521/224441224576",
    "https://blog.naver.com/dkdk521/224442137470",
    "https://blog.naver.com/dkdk521/224442133838",
-   "https://blog.naver.com/dkdk521/224442832797"
+   "https://blog.naver.com/dkdk521/224442832797",
+   "https://blog.naver.com/dkdk521/224443067816",
+   "https://blog.naver.com/dkdk521/224443045381",
+   "https://blog.naver.com/dkdk521/224442869675",
+   "https://blog.naver.com/dkdk521/224442854211"
   ],
   "backlog": [
    "https://blog.naver.com/dkdk521/224436749834",
@@ -1274,9 +1279,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "친구",
+  "tone": "짧게",
   "hooks": [
-   "이창진 무슨 일이야?",
    "화제의 소식",
    "유지원 소식, 정리해 드릴게요",
    "지금 많이 보는 스포츠 뉴스",
@@ -1290,10 +1294,10 @@
    "김도영 근황",
    "이범호 얘기 봤어?",
    "류지현 근황",
-   "정관장 무슨 일이야?"
+   "정관장 무슨 일이야?",
+   "정관장 근황"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224440982467",
    "https://blog.naver.com/dkdk521/224440978811",
    "https://blog.naver.com/dkdk521/224441213646",
    "https://blog.naver.com/dkdk521/224441200856",
@@ -1304,7 +1308,11 @@
    "https://blog.naver.com/dkdk521/224441224576",
    "https://blog.naver.com/dkdk521/224442137470",
    "https://blog.naver.com/dkdk521/224442133838",
-   "https://blog.naver.com/dkdk521/224442832797"
+   "https://blog.naver.com/dkdk521/224442832797",
+   "https://blog.naver.com/dkdk521/224443067816",
+   "https://blog.naver.com/dkdk521/224443045381",
+   "https://blog.naver.com/dkdk521/224442869675",
+   "https://blog.naver.com/dkdk521/224442854211"
   ],
   "reply_ok": true
  }
