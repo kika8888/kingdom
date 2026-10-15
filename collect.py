@@ -194,13 +194,12 @@ def jazz_section(videos):
                      f'<img src="https://i.ytimg.com/vi/{vid}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">'
                      + ('<span class="tag">NEW</span>' if v["new"] else "") + '</button>'
                      f'<div class="info"><a class="name" href="{watch}" target="_blank" rel="noopener">{title}</a>'
-                     f'<div class="badges"><span class="b">{html.escape(v["date"])}</span></div>'
-                     f'<a class="buy more" href="{watch}" target="_blank" rel="noopener">유튜브에서 듣기</a></div></li>')
+                     f'<div class="badges"><span class="b">{html.escape(v["date"])}</span></div></div></li>')
     if not cards:
         return ""
+    # 사용자 요청: '유튜브에서 듣기' 버튼과 채널 이름은 넣지 않는다 (사이트 안에서 바로 재생)
     return (f'<section class="sec" data-group="jazz" id="jazz"><h2>🎷 재즈 음악 <small>{len(cards)}편</small></h2>'
-            f'<p class="lead">카페처럼 틀어 두기 좋은 재즈 플레이리스트 — 누르면 바로 재생돼요 · '
-            f'<a href="https://www.youtube.com/@quanjin" target="_blank" rel="noopener" style="color:#f2c27b">시크릿 뮤직 채널</a></p>'
+            f'<p class="lead">카페처럼 틀어 두기 좋은 재즈 플레이리스트 — 누르면 바로 재생돼요</p>'
             f'<ul class="grid">{"".join(cards)}</ul></section>')
 
 
@@ -550,17 +549,21 @@ def main():
         errors.append(f"리뷰 영상(유튜브 RSS): {ex}")
     sections += youtube_section(yt_videos)   # 📺 리뷰 영상은 신기템 묶음 바로 위
     try:
-        sections += jazz_section(youtube_videos(8, JAZZ_CHANNEL))   # 🎷 재즈 음악은 리뷰 영상 바로 아래
+        jazz = jazz_section(youtube_videos(8, JAZZ_CHANNEL))
     except Exception as ex:
+        jazz = ""
         errors.append(f"재즈 음악(유튜브 RSS): {ex}")
     press_spot = "세탁 꿀템" if "세탁 꿀템" in data["keywords"] else next(iter(data["keywords"]), "")
     for kw, items in data["keywords"].items():
         if kw == press_spot:   # 📰 언론사 1줄: '세탁 꿀템' 바로 위 (그 키워드가 없는 시간엔 첫 신기템 위)
             sections += news_row(0)
+            sections += jazz   # 🎷 재즈 음악은 📰 언론사 첫 줄(연합뉴스 줄) 바로 아래
+            jazz = ""
         if "캠핑" in kw and items:   # 캠핑 신기템이 있으면 바로 위에
             sections += sports
             sports = ""
         sections += section(f"🔥 ‘{kw}’ 신기템", items, "weird", f"kw-{len(sections)}")
+    sections += jazz     # 신기템이 하나도 없을 때
     sections += sports   # 캠핑이 없는 시간엔 신기템 묶음 바로 아래
     sections += section("⏰ 오늘의 골드박스", data["goldbox"], "goldbox", "goldbox")
     try:
