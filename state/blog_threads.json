@@ -19,7 +19,8 @@
    "https://blog.naver.com/soduwk1209/224440972717",
    "https://blog.naver.com/soduwk1209/224440966461",
    "https://blog.naver.com/soduwk1209/224440962643",
-   "https://blog.naver.com/soduwk1209/224440959923"
+   "https://blog.naver.com/soduwk1209/224440959923",
+   "https://blog.naver.com/soduwk1209/224441737445"
   ],
   "started": true,
   "v": 2,
@@ -394,9 +395,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "질문",
+  "tone": "친구",
   "hooks": [
-   "이름들만 이야기",
    "왜 이렇게 화제일까요?",
    "이건 몰랐네",
    "이 소식 어떻게 생각하세요?",
@@ -410,10 +410,10 @@
    "화제가 된 이유를 정리했어요",
    "김수현 얘기 봤어?",
    "김지원 이야기",
-   "이수근 소식 들으셨어요?"
+   "이수근 소식 들으셨어요?",
+   "이거 보고 놀람"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224441737445",
    "https://blog.naver.com/soduwk1209/224441726114",
    "https://blog.naver.com/soduwk1209/224441719041",
    "https://blog.naver.com/soduwk1209/224441925740",
@@ -447,7 +447,8 @@
    "https://blog.naver.com/dkdk521/224440221368",
    "https://blog.naver.com/dkdk521/224440437234",
    "https://blog.naver.com/dkdk521/224440349272",
-   "https://blog.naver.com/dkdk521/224440316465"
+   "https://blog.naver.com/dkdk521/224440316465",
+   "https://blog.naver.com/dkdk521/224440288189"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1271,9 +1272,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "친구",
+  "tone": "짧게",
   "hooks": [
-   "오늘 제일 놀란 소식",
    "왜 이렇게 화제일까요?",
    "이창진 무슨 일이야?",
    "화제의 소식",
@@ -1287,10 +1287,10 @@
    "최원준 관련 소식 전해 드려요",
    "오늘 이 소식 다들 봤지?",
    "김도영 근황",
-   "이범호 얘기 봤어?"
+   "이범호 얘기 봤어?",
+   "류지현 근황"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224440288189",
    "https://blog.naver.com/dkdk521/224440978152",
    "https://blog.naver.com/dkdk521/224440982467",
    "https://blog.naver.com/dkdk521/224440978811",
