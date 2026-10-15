@@ -130,9 +130,12 @@ def video_detail(desc):
     return summary[:60], products[:3]
 
 
-def youtube_videos(n=8):
+JAZZ_CHANNEL = os.environ.get("JAZZ_CHANNEL", "").strip() or "UCajTkr0i1MapHPW7igL6ynQ"   # 시크릿 뮤직 (@quanjin, 재즈)
+
+
+def youtube_videos(n=8, channel=""):
     """내 채널 최신 영상 (공개 RSS). 제목·썸네일·날짜·설명란의 요약과 상품 링크만 쓴다."""
-    req = urllib.request.Request(f"https://www.youtube.com/feeds/videos.xml?channel_id={YOUTUBE_CHANNEL}",
+    req = urllib.request.Request(f"https://www.youtube.com/feeds/videos.xml?channel_id={channel or YOUTUBE_CHANNEL}",
                                  headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=20) as res:
         root = ET.fromstring(res.read())
@@ -177,6 +180,27 @@ def youtube_section(videos):
         return ""
     return (f'<section class="sec" data-group="youtube" id="youtube"><h2>📺 리뷰 영상 <small>{len(cards)}편</small></h2>'
             f'<p class="lead">영상으로 비교·정리한 추천템 — 영상 속 상품을 바로 확인하세요</p>'
+            f'<ul class="grid">{"".join(cards)}</ul></section>')
+
+
+def jazz_section(videos):
+    """🎷 재즈 음악: 내 음악 채널(시크릿 뮤직) 최신 영상. 썸네일을 누르면 그 자리에서 재생."""
+    cards = []
+    for v in videos:
+        vid, title = html.escape(v["id"], quote=True), html.escape(v["title"], quote=True)
+        watch = f"https://www.youtube.com/watch?v={vid}"
+        cards.append(f'<li class="card post rv" data-name="{title.lower()} 재즈 음악 카페">'
+                     f'<button type="button" class="thumb yt" data-yt="{vid}" aria-label="{title} 재생">'
+                     f'<img src="https://i.ytimg.com/vi/{vid}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">'
+                     + ('<span class="tag">NEW</span>' if v["new"] else "") + '</button>'
+                     f'<div class="info"><a class="name" href="{watch}" target="_blank" rel="noopener">{title}</a>'
+                     f'<div class="badges"><span class="b">{html.escape(v["date"])}</span></div>'
+                     f'<a class="buy more" href="{watch}" target="_blank" rel="noopener">유튜브에서 듣기</a></div></li>')
+    if not cards:
+        return ""
+    return (f'<section class="sec" data-group="jazz" id="jazz"><h2>🎷 재즈 음악 <small>{len(cards)}편</small></h2>'
+            f'<p class="lead">카페처럼 틀어 두기 좋은 재즈 플레이리스트 — 누르면 바로 재생돼요 · '
+            f'<a href="https://www.youtube.com/@quanjin" target="_blank" rel="noopener" style="color:#f2c27b">시크릿 뮤직 채널</a></p>'
             f'<ul class="grid">{"".join(cards)}</ul></section>')
 
 
@@ -354,14 +378,15 @@ h2{font-size:1.15rem;margin:30px 0 12px;scroll-margin-top:140px}h2 small{color:v
 .tvb a:hover,.tvb a:focus-visible{background:var(--navy);color:#fff;outline:none}
 .tvnote{margin:8px 0 0;font-size:.75rem;color:var(--muted)}
 .newsrow h2{font-size:.95rem;margin:22px 0 8px;color:var(--muted)}.yt::after{box-shadow:0 0 0 2px var(--gold)}
-#youtube{background:linear-gradient(135deg,#1c1f4a 0%,#2e3478 100%);border-radius:20px;padding:4px 20px 22px;margin-top:28px;box-shadow:0 8px 24px rgba(28,31,74,.18)}
-#youtube h2{color:#fff;font-size:1.35rem;margin:20px 0 4px}#youtube h2 small{color:var(--gold);font-weight:700;font-size:.9rem;margin-left:6px}
-#youtube .lead{color:#c9cbe0;font-size:.88rem;margin:0 0 14px}
-#youtube .grid{grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
-#youtube .card{border:0;box-shadow:0 4px 14px rgba(0,0,0,.25);transition:transform .15s}#youtube .card:hover{transform:translateY(-3px)}
-#youtube .card{background:#fff;color:#17182b}#youtube .sum{color:#5d6072}#youtube .b{background:#ecebe5;color:#5d6072}
-#youtube .name{font-weight:800;font-size:.95rem}
+:is(#youtube,#jazz){background:linear-gradient(135deg,#1c1f4a 0%,#2e3478 100%);border-radius:20px;padding:4px 20px 22px;margin-top:28px;box-shadow:0 8px 24px rgba(28,31,74,.18)}
+:is(#youtube,#jazz) h2{color:#fff;font-size:1.35rem;margin:20px 0 4px}:is(#youtube,#jazz) h2 small{color:var(--gold);font-weight:700;font-size:.9rem;margin-left:6px}
+:is(#youtube,#jazz) .lead{color:#c9cbe0;font-size:.88rem;margin:0 0 14px}
+:is(#youtube,#jazz) .grid{grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+:is(#youtube,#jazz) .card{border:0;box-shadow:0 4px 14px rgba(0,0,0,.25);transition:transform .15s}:is(#youtube,#jazz) .card:hover{transform:translateY(-3px)}
+:is(#youtube,#jazz) .card{background:#fff;color:#17182b}:is(#youtube,#jazz) .sum{color:#5d6072}:is(#youtube,#jazz) .b{background:#ecebe5;color:#5d6072}
+:is(#youtube,#jazz) .name{font-weight:800;font-size:.95rem}
 .yt::after{width:60px!important;height:60px!important;margin:-30px 0 0 -30px!important;border-radius:50%!important;background-size:30px!important}
+#jazz{background:linear-gradient(135deg,#24160f 0%,#5b3a24 100%);box-shadow:0 8px 24px rgba(60,35,20,.22)}#jazz h2 small{color:#f2c27b}
 .pl{margin:2px 0 0;font-size:.72rem;font-weight:800;color:var(--gold-ink)}
 .plist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:4px}
 .plist li{display:flex;align-items:center;gap:6px;font-size:.78rem}
@@ -404,7 +429,7 @@ main{padding:4px 0 40px}
 .card.rv{flex:0 0 78%;max-width:300px}
 .tvgrid{grid-template-columns:repeat(3,1fr);gap:8px;padding:0 16px}.tvb a{padding:11px 4px;font-size:.82rem}.tvnote{padding:0 16px}
 .card.tvb{flex:none;max-width:none;border:1px solid var(--line);box-shadow:none}
-#youtube{margin:22px 12px 0;padding:2px 0 16px;border-radius:18px}#youtube h2{margin:16px 16px 2px;font-size:1.1rem}#youtube .lead{margin:0 16px 10px;font-size:.78rem}
+:is(#youtube,#jazz){margin:22px 12px 0;padding:2px 0 16px;border-radius:18px}:is(#youtube,#jazz) h2{margin:16px 16px 2px;font-size:1.1rem}:is(#youtube,#jazz) .lead{margin:0 16px 10px;font-size:.78rem}
 .about{padding:6px 16px 12px;font-size:.85rem}.about h2{font-size:1rem}
 footer{font-size:.72rem;padding:16px 16px 30px}
 }
@@ -423,6 +448,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 <button type="button" data-g="best" aria-pressed="false">🏆 분야별 베스트</button>
 <button type="button" data-g="youtube" aria-pressed="false">📺 리뷰 영상</button>
 <button type="button" data-g="video" aria-pressed="false">🎬 영상</button>
+<button type="button" data-g="jazz" aria-pressed="false">🎷 재즈 음악</button>
 <span class="tsep" aria-hidden="true"></span>
 <button type="button" data-g="tv" aria-pressed="false">📡 TV 실시간</button>
 <button type="button" data-g="press" aria-pressed="false">🗞️ 언론사</button>
@@ -523,6 +549,10 @@ def main():
         yt_videos = []
         errors.append(f"리뷰 영상(유튜브 RSS): {ex}")
     sections += youtube_section(yt_videos)   # 📺 리뷰 영상은 신기템 묶음 바로 위
+    try:
+        sections += jazz_section(youtube_videos(8, JAZZ_CHANNEL))   # 🎷 재즈 음악은 리뷰 영상 바로 아래
+    except Exception as ex:
+        errors.append(f"재즈 음악(유튜브 RSS): {ex}")
     press_spot = "세탁 꿀템" if "세탁 꿀템" in data["keywords"] else next(iter(data["keywords"]), "")
     for kw, items in data["keywords"].items():
         if kw == press_spot:   # 📰 언론사 1줄: '세탁 꿀템' 바로 위 (그 키워드가 없는 시간엔 첫 신기템 위)
@@ -557,7 +587,7 @@ def main():
         sections = '<p class="empty">상품을 준비하고 있어요. 잠시 뒤 다시 들러 주세요.</p>'
 
     page = PAGE.replace("CROWN", CROWN).replace("{chips}", chips)
-    for g in ("video", "youtube", "car", "sports", "blog"):   # 빈 뉴스 탭 숨기기: 글을 못 가져온 칸은 탭도 뺀다
+    for g in ("video", "youtube", "jazz", "car", "sports", "blog"):   # 빈 뉴스 탭 숨기기: 글을 못 가져온 칸은 탭도 뺀다
         if f'data-group="{g}"' not in sections:
             page = re.sub(rf'<button type="button" data-g="{g}"[^>]*>[^<]*</button>\n?', "", page)
     (OUT / "index.html").write_text(page.replace("{updated}", data["updated"]).replace("{sections}", sections),
