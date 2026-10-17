@@ -36,7 +36,8 @@
    "https://blog.naver.com/soduwk1209/224443666101",
    "https://blog.naver.com/soduwk1209/224443647675",
    "https://blog.naver.com/soduwk1209/224443724420",
-   "https://blog.naver.com/soduwk1209/224443703215"
+   "https://blog.naver.com/soduwk1209/224443703215",
+   "https://blog.naver.com/soduwk1209/224443694557"
   ],
   "started": true,
   "v": 2,
@@ -260,7 +261,8 @@
    "https://blog.naver.com/soduwk1209/224444609048",
    "https://blog.naver.com/soduwk1209/224444601517",
    "https://blog.naver.com/soduwk1209/224444807431",
-   "https://blog.naver.com/soduwk1209/224444843068"
+   "https://blog.naver.com/soduwk1209/224444843068",
+   "https://blog.naver.com/soduwk1209/224444850139"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224437758802",
@@ -432,9 +434,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "존댓말",
+  "tone": "친구",
   "hooks": [
-   "하정우 이야기 듣고 깜짝",
    "오늘 이 소식 다들 봤지?",
    "왜 이렇게 화제일까요?",
    "화제의 소식",
@@ -448,10 +449,10 @@
    "이수만 근황",
    "화제가 된 이유를 정리했어요",
    "노희찬 이야기 듣고 깜짝",
-   "임현식 소식, 정리해 드릴게요"
+   "임현식 소식, 정리해 드릴게요",
+   "이거 보고 놀람"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224443694557",
    "https://blog.naver.com/soduwk1209/224443685222",
    "https://blog.naver.com/soduwk1209/224443745578",
    "https://blog.naver.com/soduwk1209/224443713347",
@@ -465,7 +466,8 @@
    "https://blog.naver.com/soduwk1209/224444609048",
    "https://blog.naver.com/soduwk1209/224444601517",
    "https://blog.naver.com/soduwk1209/224444807431",
-   "https://blog.naver.com/soduwk1209/224444843068"
+   "https://blog.naver.com/soduwk1209/224444843068",
+   "https://blog.naver.com/soduwk1209/224444850139"
   ],
   "reply_ok": true
  },
@@ -506,7 +508,8 @@
    "https://blog.naver.com/dkdk521/224442832797",
    "https://blog.naver.com/dkdk521/224443067816",
    "https://blog.naver.com/dkdk521/224443045381",
-   "https://blog.naver.com/dkdk521/224442869675"
+   "https://blog.naver.com/dkdk521/224442869675",
+   "https://blog.naver.com/dkdk521/224442854211"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1347,9 +1350,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "감탄",
+  "tone": "짧게",
   "hooks": [
-   "정관장 근황",
    "화제가 된 이유를 정리했어요",
    "두산이 근황",
    "이강인 어떻게 된 일일까요?",
@@ -1363,10 +1365,10 @@
    "오늘의 스포츠 소식",
    "사이트 소식 들으셨어요?",
    "이거 보고 놀람",
-   "이건 몰랐네"
+   "이건 몰랐네",
+   "두산서 근황"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224442854211",
    "https://blog.naver.com/dkdk521/224443096727",
    "https://blog.naver.com/dkdk521/224443088471",
    "https://blog.naver.com/dkdk521/224443123456",
