@@ -34,7 +34,8 @@
    "https://blog.naver.com/soduwk1209/224443634881",
    "https://blog.naver.com/soduwk1209/224443625504",
    "https://blog.naver.com/soduwk1209/224443666101",
-   "https://blog.naver.com/soduwk1209/224443647675"
+   "https://blog.naver.com/soduwk1209/224443647675",
+   "https://blog.naver.com/soduwk1209/224443724420"
   ],
   "started": true,
   "v": 2,
@@ -256,7 +257,8 @@
    "https://blog.naver.com/soduwk1209/224444593500",
    "https://blog.naver.com/soduwk1209/224444385374",
    "https://blog.naver.com/soduwk1209/224444609048",
-   "https://blog.naver.com/soduwk1209/224444601517"
+   "https://blog.naver.com/soduwk1209/224444601517",
+   "https://blog.naver.com/soduwk1209/224444807431"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224437758802",
@@ -428,9 +430,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "존댓말",
+  "tone": "감탄",
   "hooks": [
-   "이거 보고 놀람",
    "함소원 근황",
    "하정우 이야기 듣고 깜짝",
    "오늘 이 소식 다들 봤지?",
@@ -444,10 +445,10 @@
    "지금 많이 보는 연예 뉴스",
    "다들 이거 아셨어요?",
    "이수만 근황",
-   "화제가 된 이유를 정리했어요"
+   "화제가 된 이유를 정리했어요",
+   "노희찬 이야기 듣고 깜짝"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224443724420",
    "https://blog.naver.com/soduwk1209/224443703215",
    "https://blog.naver.com/soduwk1209/224443694557",
    "https://blog.naver.com/soduwk1209/224443685222",
@@ -461,7 +462,8 @@
    "https://blog.naver.com/soduwk1209/224444593500",
    "https://blog.naver.com/soduwk1209/224444385374",
    "https://blog.naver.com/soduwk1209/224444609048",
-   "https://blog.naver.com/soduwk1209/224444601517"
+   "https://blog.naver.com/soduwk1209/224444601517",
+   "https://blog.naver.com/soduwk1209/224444807431"
   ],
   "reply_ok": true
  },
@@ -500,7 +502,8 @@
    "https://blog.naver.com/dkdk521/224442137470",
    "https://blog.naver.com/dkdk521/224442133838",
    "https://blog.naver.com/dkdk521/224442832797",
-   "https://blog.naver.com/dkdk521/224443067816"
+   "https://blog.naver.com/dkdk521/224443067816",
+   "https://blog.naver.com/dkdk521/224443045381"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1341,9 +1344,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "질문",
+  "tone": "친구",
   "hooks": [
-   "류지현 근황",
    "정관장 무슨 일이야?",
    "정관장 근황",
    "화제가 된 이유를 정리했어요",
@@ -1357,10 +1359,10 @@
    "최민준 어떻게 된 일일까요?",
    "화제가 된 이유를 정리했어요",
    "오늘의 스포츠 소식",
-   "사이트 소식 들으셨어요?"
+   "사이트 소식 들으셨어요?",
+   "이거 보고 놀람"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224443045381",
    "https://blog.naver.com/dkdk521/224442869675",
    "https://blog.naver.com/dkdk521/224442854211",
    "https://blog.naver.com/dkdk521/224443096727",
