@@ -49,6 +49,7 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
 .hire{text-align:center;padding:26px 16px 6px}.hire h1{margin:0;font-size:1.6rem;font-weight:900;color:#1e2156}.hire p{margin:8px 0 0;color:#5b5f73;font-size:.95rem}
 .role{font-size:.8rem;font-weight:700;color:#8a6a12;margin-top:2px}
 :root{--shop:#fde4e8;--shop-i:#b4234a}.cats [data-c=shop]{background:var(--shop);color:var(--shop-i)}.cats [data-c=shop][aria-pressed=true]{background:var(--shop-i);color:#fff}.card[data-c=shop]{border-top-color:var(--shop-i)}.tag.shop{background:var(--shop);color:var(--shop-i)}
+:root{--plan:#e0ecff;--plan-i:#1d4ed8}.cats [data-c=plan]{background:var(--plan);color:var(--plan-i)}.cats [data-c=plan][aria-pressed=true]{background:var(--plan-i);color:#fff}.card[data-c=plan]{border-top-color:var(--plan-i)}.tag.plan{background:var(--plan);color:var(--plan-i)}
 </style></head><body>
 <header><div class="bar">
   <a class="logo" href="/"><svg viewBox="0 0 32 24" width="28" height="21" aria-hidden="true"><path fill="currentColor" d="M2 6l7 6 7-10 7 10 7-6-3 16H5z"/><rect x="5" y="21" width="22" height="3" rx="1" fill="currentColor"/></svg>KINGDOM</a>
@@ -62,8 +63,10 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
     <button type="button" data-c="shop" aria-pressed="false">MD <small style="font-weight:500;font-size:.78em">(상품기획자)</small></button>
     <button type="button" data-c="pro" aria-pressed="false">에이스</button>
     <button type="button" data-c="etc" aria-pressed="false">지원팀</button>
+    <button type="button" data-c="plan" aria-pressed="false">전략팀</button>
   </div>
   <div class="grid">
+<article class="card" data-c="plan"><div class="tags"><span class="tag plan">전략팀</span><span class="tag free">바로 사용</span></div><span class="role">📡 실시간 키워드 전략팀</span><h2>실시간 키워드 전략</h2><p>지금 가장 많이 찾는 검색어 TOP 10<br>+ 어떤 직원이 어떻게 쓸지 전략까지 📡</p><span class="need ok">✅ 로그인 필요 없음 · 매시간 갱신</span><a class="go" href="/ai/trends.html">이용하기</a></article>
 <article class="card" data-c="beg"><div class="tags"><span class="tag beg">인턴</span><span class="best">BEST</span></div><span class="role">🎓 승인 담당 직원</span><h2>애드센스 승인 AI</h2><p>26년 구글 최신 트렌드 반영💻<br>승인글 작성기😎<br>(티스토리용)</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/SssqzWjuN1upAPd8cHYX5i#tistory" target="_blank" rel="noopener">이용하기</a></article>
 <article class="card" data-c="beg"><div class="tags"><span class="tag beg">인턴</span></div><span class="role">🎓 승인 담당 직원</span><h2>애드센스 승인 AI</h2><p>26년 구글 최신 트렌드 반영💻<br>승인글 작성기😎<br>(블로그스팟, 워드프레스)</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/SssqzWjuN1upAPd8cHYX5i#html" target="_blank" rel="noopener">이용하기</a></article>
 <article class="card" data-c="beg"><span class="tag beg">인턴</span><span class="role">🧵 스레드 직원</span><h2>스레드 후킹 문구</h2><p>상품 이름이나 캡처만 넣으면<br>첫 줄 문구 5개 + 첫 댓글까지 🔥</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/7mHh5qotz2BZs2hAGaZqCy" target="_blank" rel="noopener">이용하기</a></article>
@@ -93,8 +96,8 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
   <p class="note">🔒 표시 도구는 AI가 글을 써 줘서 클로드(claude.ai) 화면에서 열려요. 클로드 계정으로 로그인해야 쓸 수 있어요. ✅ 표시 도구는 이 사이트에서 바로 써요.</p>
 </main>
 <script>
-// 아백처럼 분류마다 주소가 따로: /ai/?category=인턴 · MD · 에이스 · 지원팀
-const NAMES={all:"전체",beg:"인턴",shop:"MD",pro:"에이스",etc:"지원팀"};
+// 아백처럼 분류마다 주소가 따로: /ai/?category=인턴 · MD · 에이스 · 지원팀 · 전략팀
+const NAMES={all:"전체",beg:"인턴",shop:"MD",pro:"에이스",etc:"지원팀",plan:"전략팀"};
 function apply(c){
   if(!NAMES[c])c="all";
   document.querySelectorAll(".cats button").forEach(x=>x.setAttribute("aria-pressed",String(x.dataset.c===c)));
