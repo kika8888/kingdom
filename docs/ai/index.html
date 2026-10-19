@@ -48,6 +48,7 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
 .tag.free{background:var(--beg-i);color:#fff}
 .hire{text-align:center;padding:26px 16px 6px}.hire h1{margin:0;font-size:1.6rem;font-weight:900;color:#1e2156}.hire p{margin:8px 0 0;color:#5b5f73;font-size:.95rem}
 .role{font-size:.8rem;font-weight:700;color:#8a6a12;margin-top:2px}
+:root{--shop:#fde4e8;--shop-i:#b4234a}.cats [data-c=shop]{background:var(--shop);color:var(--shop-i)}.cats [data-c=shop][aria-pressed=true]{background:var(--shop-i);color:#fff}.card[data-c=shop]{border-top-color:var(--shop-i)}.tag.shop{background:var(--shop);color:var(--shop-i)}
 </style></head><body>
 <header><div class="bar">
   <a class="logo" href="/"><svg viewBox="0 0 32 24" width="28" height="21" aria-hidden="true"><path fill="currentColor" d="M2 6l7 6 7-10 7 10 7-6-3 16H5z"/><rect x="5" y="21" width="22" height="3" rx="1" fill="currentColor"/></svg>KINGDOM</a>
@@ -58,6 +59,7 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
   <div class="cats" role="group" aria-label="분류">
     <button type="button" data-c="all" aria-pressed="true">전체</button>
     <button type="button" data-c="beg" aria-pressed="false">인턴</button>
+    <button type="button" data-c="shop" aria-pressed="false">MD</button>
     <button type="button" data-c="pro" aria-pressed="false">에이스</button>
     <button type="button" data-c="etc" aria-pressed="false">지원팀</button>
   </div>
@@ -72,9 +74,9 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
 <article class="card" data-c="etc"><span class="tag etc">지원팀</span><span class="role">✏️ 교정 직원</span><h2>문장 다듬기</h2><p>쓴 글을 붙여 넣으면<br>읽기 쉽게 고쳐 드려요 ✨</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#polish" target="_blank" rel="noopener">이용하기</a></article>
 <article class="card" data-c="pro"><span class="tag pro">에이스</span><span class="role">✍️ 글쓰기 직원</span><h2>블로그 글 생성기</h2><p>키워드만 입력하면<br>정보형 블로그 초안 완성 📝</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#blog" target="_blank" rel="noopener">이용하기</a></article>
 <article class="card" data-c="pro"><span class="tag pro">에이스</span><span class="role">🎬 영상 직원</span><h2>쇼츠 대본 생성기</h2><p>상품과 장면만 넣으면<br>30초 자막·내레이션 🎬</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#shorts" target="_blank" rel="noopener">이용하기</a></article>
-<article class="card" data-c="pro"><span class="tag pro">에이스</span><span class="role">🍳 레시피 직원</span><h2>레시피 스레드</h2><p>메뉴 이름만 넣으면<br>400자 레시피 원고 완성 🍳</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#recipe" target="_blank" rel="noopener">이용하기</a></article>
-<article class="card" data-c="pro"><span class="tag pro">에이스</span><span class="role">🛒 쇼핑 직원</span><h2>다이소 vs 쿠팡 비교</h2><p>다이소 꿀템 대신<br>쿠팡 대체품 비교 스레드 🛒</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#daiso" target="_blank" rel="noopener">이용하기</a></article>
-<article class="card" data-c="pro"><span class="tag pro">에이스</span><span class="role">🛒 쇼핑 직원</span><h2>골드박스 특가 글</h2><p>정가·할인가만 넣으면<br>특가 스레드 글 완성 ⏰</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#deal" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="shop"><span class="tag shop">MD</span><span class="role">🛒 MD</span><h2>레시피 스레드</h2><p>메뉴 이름만 넣으면<br>400자 레시피 원고 완성 🍳</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#recipe" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="shop"><span class="tag shop">MD</span><span class="role">🛒 MD</span><h2>다이소 vs 쿠팡 비교</h2><p>다이소 꿀템 대신<br>쿠팡 대체품 비교 스레드 🛒</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#daiso" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="shop"><span class="tag shop">MD</span><span class="role">🛒 MD</span><h2>골드박스 특가 글</h2><p>정가·할인가만 넣으면<br>특가 스레드 글 완성 ⏰</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#deal" target="_blank" rel="noopener">이용하기</a></article>
 <article class="card" data-c="pro"><span class="tag pro">에이스</span><span class="role">🎬 영상 직원</span><h2>유튜브 대본 블로그 글쓰기</h2><p>유튜브 영상 대본을 넣으면<br>블로그 글로 깔끔하게 만들어 드려요 🎥</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/JXErbBjjxvVZZTJTGg8YUU#yt" target="_blank" rel="noopener">이용하기</a></article>
 <article class="card" data-c="pro"><span class="tag pro">에이스</span><span class="role">💰 지원금 직원</span><h2>지원금 블로그 생성기</h2><p>쏟아지는 정부 지원금 제도 📢<br>이걸로 자동화 포스팅하세요</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/JXErbBjjxvVZZTJTGg8YUU#support" target="_blank" rel="noopener">이용하기</a></article>
 <article class="card" data-c="pro"><span class="tag pro">에이스</span><span class="role">💬 커뮤니티 직원</span><h2>커뮤니티 AI 자동 글쓰기</h2><p>키워드만 입력하세요!<br>외부 유입용 글쓰기 자동으로 🔑</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/JXErbBjjxvVZZTJTGg8YUU#community" target="_blank" rel="noopener">이용하기</a></article>
@@ -91,8 +93,8 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
   <p class="note">🔒 표시 도구는 AI가 글을 써 줘서 클로드(claude.ai) 화면에서 열려요. 클로드 계정으로 로그인해야 쓸 수 있어요. ✅ 표시 도구는 이 사이트에서 바로 써요.</p>
 </main>
 <script>
-// 아백처럼 분류마다 주소가 따로: /ai/?category=인턴 · 에이스 · 지원팀
-const NAMES={all:"전체",beg:"인턴",pro:"에이스",etc:"지원팀"};
+// 아백처럼 분류마다 주소가 따로: /ai/?category=인턴 · MD · 에이스 · 지원팀
+const NAMES={all:"전체",beg:"인턴",shop:"MD",pro:"에이스",etc:"지원팀"};
 function apply(c){
   if(!NAMES[c])c="all";
   document.querySelectorAll(".cats button").forEach(x=>x.setAttribute("aria-pressed",String(x.dataset.c===c)));
