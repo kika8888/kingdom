@@ -615,6 +615,17 @@ def report_backup():
         print("실적 알림(백업) 실패:", ex)
 
 
+def trends_backup():
+    """📡 실시간 키워드 전략팀(docs/ai/trends.html)을 매시간 새로 만든다. 실패해도 수집에는 영향 없음."""
+    try:
+        import trends
+        n = trends.main(p.now_kst().strftime("%Y-%m-%d %H:%M"))
+        print(f"실시간 키워드 {n}개 갱신")
+    except BaseException as ex:
+        print("실시간 키워드 갱신 실패:", ex)
+
+
 if __name__ == "__main__":
     main()
+    trends_backup()
     report_backup()
