@@ -1,0 +1,102 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>KINGDOM 키워드 전략팀</title><meta name="description" content="네이버 월간 검색수·클릭수·경쟁도로 블로그 키워드를 찾는 무료 키워드 검색 도구">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap">
+<style>
+:root{--navy:#1e2156;--navy2:#2e3478;--gold:#e0b84a;--ink:#17182b;--muted:#5d6072;--line:#e6e4ee;--bg:#f6f5f1;--hi:#b4234a;--mid:#c9971f;--lo:#0f7a5a}
+*{box-sizing:border-box}[hidden]{display:none!important}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 "Noto Sans KR","Malgun Gothic",sans-serif}
+header{background:var(--navy);color:#fff}header .in{max-width:1200px;margin:0 auto;padding:12px 16px;display:flex;align-items:center;gap:22px;flex-wrap:wrap}
+.brand{font-weight:900;letter-spacing:.06em;color:#fff;text-decoration:none}.brand b{color:var(--gold)}nav a{color:#cfd2ee;text-decoration:none;margin-right:16px;font-weight:500}nav a.on{color:var(--gold)}
+main{max-width:1200px;margin:0 auto;padding:20px 16px 50px;display:flex;flex-direction:column;gap:16px}
+.hero h1{margin:0;font-size:1.5rem;font-weight:900;color:var(--navy)}.hero p{margin:4px 0 0;color:var(--muted)}
+.tabs{display:flex;gap:8px;flex-wrap:wrap}.tabs a{font-size:.88rem;font-weight:700;text-decoration:none;border-radius:999px;padding:6px 14px;background:#fff;border:1px solid var(--line);color:var(--ink)}.tabs a.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+.card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px}
+.search{display:flex;gap:8px;flex-wrap:wrap}.search input{flex:1;min-width:220px;font:inherit;font-size:1.05rem;border:2px solid #cfd2ee;border-radius:10px;padding:12px 16px}
+.search input:focus{outline:none;border-color:var(--gold)}.btn{font:inherit;font-weight:700;border:0;border-radius:10px;padding:12px 22px;background:var(--navy);color:#fff;cursor:pointer}.btn:disabled{opacity:.5;cursor:default}
+.btn.s{padding:7px 12px;font-size:.82rem;border-radius:8px}.btn.g{background:#fff;color:var(--ink);border:1px solid var(--line)}
+.recent{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px;font-size:.82rem;color:var(--muted)}.recent button{font:inherit;font-size:.8rem;border:1px solid var(--line);background:#faf9f5;border-radius:999px;padding:3px 10px;cursor:pointer}
+details.f summary{cursor:pointer;font-weight:700;font-size:.9rem;color:var(--navy)}.fs{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;margin-top:12px}
+.fs label{display:flex;flex-direction:column;gap:4px;font-size:.78rem;color:var(--muted)}.fs input,.fs select{font:inherit;font-size:.88rem;border:1px solid var(--line);border-radius:8px;padding:7px 10px}
+.sum{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px}.st{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.st small{color:var(--muted);font-size:.78rem}.st b{display:block;font-size:1.35rem;font-variant-numeric:tabular-nums;color:var(--navy)}
+.bar{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap}.bar .acts{display:flex;gap:6px;flex-wrap:wrap}
+.tw{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:#fff}
+table{border-collapse:collapse;width:100%;min-width:860px;font-size:.88rem}th,td{padding:9px 10px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+th{background:#f3f2fa;color:var(--navy);font-size:.8rem;position:sticky;top:0;cursor:pointer;user-select:none}th:first-child,td:first-child,th:nth-child(2),td:nth-child(2){text-align:left}
+th.sorted::after{content:" ▼";font-size:.7em}th.sorted.asc::after{content:" ▲"}tr:hover td{background:#fbfaf5}
+td.kw{font-weight:700}td.kw button{font:inherit;font-weight:700;background:none;border:0;padding:0;color:var(--ink);cursor:pointer;text-align:left}td.kw button:hover{color:var(--navy2);text-decoration:underline}
+.chip{display:inline-block;font-size:.74rem;font-weight:700;border-radius:999px;padding:2px 9px}.c-높음{background:#fde4e8;color:var(--hi)}.c-중간{background:#fdf3d4;color:#8a6608}.c-낮음{background:#dff4ec;color:var(--lo)}
+.gr{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:8px;font-weight:900;font-size:.85rem;color:#fff}
+.g-S{background:#0f7a5a}.g-A{background:#2f8f5b}.g-B{background:#c9971f}.g-C{background:#d97706}.g-D{background:#b4234a}
+td a.go{font-size:.78rem;font-weight:700;color:var(--navy2);text-decoration:none;border:1px solid #cfd2ee;border-radius:6px;padding:3px 8px}
+.msg{padding:28px;text-align:center;color:var(--muted)}.err{color:var(--hi)}
+.legend{font-size:.78rem;color:var(--muted);display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.note{font-size:.78rem;color:var(--muted);text-align:center}
+</style></head><body>
+<header><div class="in"><a class="brand" href="/">👑 <b>KINGDOM</b></a><nav><a href="/">쇼핑</a><a href="/#car">뉴스</a><a href="/ai" class="on">AI 직원</a></nav></div></header>
+<main>
+<section class="hero"><h1>🔍 키워드 전략팀</h1><p>키워드 하나만 넣으면 네이버 <b>월간 검색수 · 클릭수 · 경쟁도</b>와 연관 키워드 100개를 바로 보여 드려요. 무료예요.</p></section>
+<div class="tabs"><a class="on" href="/ai/keyword.html">🔍 키워드 검색</a><a href="/ai/trends.html">📡 실시간 인기 검색어</a><a href="/ai/?category=전략팀">← 전략팀 직원</a></div>
+<section class="card">
+ <form class="search" id="f"><input id="q" type="search" placeholder="예: 캠핑의자, 청년도약계좌, 부산 맛집" autocomplete="off" maxlength="40"><button class="btn" id="go">검색</button></form>
+ <div class="recent" id="recent"></div>
+ <details class="f" style="margin-top:12px"><summary>⚙️ 필터 (조건에 맞는 키워드만 보기)</summary><div class="fs">
+  <label>조회합계 최소<input id="fmin" type="number" min="0" placeholder="0"></label>
+  <label>조회합계 최대<input id="fmax" type="number" min="0" placeholder="제한 없음"></label>
+  <label>모바일 조회 최소<input id="fmo" type="number" min="0" placeholder="0"></label>
+  <label>클릭합계 최소<input id="fclk" type="number" min="0" placeholder="0"></label>
+  <label>광고 경쟁도<select id="fcomp"><option value="">전체</option><option>낮음</option><option>중간</option><option>높음</option></select></label>
+  <label>포함 단어<input id="finc" type="text" placeholder="예: 추천"></label>
+  <label>제외 단어<input id="fexc" type="text" placeholder="예: 중고"></label>
+ </div></details>
+</section>
+<section class="sum" id="sum" hidden></section>
+<section id="res" hidden style="display:flex;flex-direction:column;gap:10px">
+ <div class="bar"><div class="legend"><span>등급 = 검색수는 많고 경쟁은 낮을수록 높아요</span><span class="gr g-S">S</span><span class="gr g-A">A</span><span class="gr g-B">B</span><span class="gr g-C">C</span><span class="gr g-D">D</span></div>
+ <div class="acts"><button class="btn s g" id="cpk">키워드만 복사</button><button class="btn s g" id="cpx">엑셀 복사</button><button class="btn s" id="csv">엑셀 파일 저장</button></div></div>
+ <div class="tw"><table><thead><tr>
+  <th data-k="grade">등급</th><th data-k="keyword">키워드</th><th data-k="pc">PC 조회</th><th data-k="mo">모바일 조회</th><th data-k="total">조회 합계</th>
+  <th data-k="click">클릭 합계</th><th data-k="ctr">클릭률</th><th data-k="adComp">광고 경쟁</th><th data-k="adDepth">광고 수</th><th>글쓰기</th></tr></thead><tbody id="tb"></tbody></table></div>
+</section>
+<p class="msg" id="msg">위에 키워드를 넣고 검색을 눌러 주세요.</p>
+<p class="note">데이터: 네이버 검색광고 키워드 도구(최근 한 달 기준). 조회수 10 미만은 5로 표시돼요. 검색 결과는 내 컴퓨터에만 저장돼요.</p>
+</main>
+<script>
+const API="https://kingdom-keyword.pantaqi999.workers.dev/";
+const WRITE="https://claude.ai/artifact/MxzCDB5Tx9jXAxoLRyA9pv#blog";
+const $=s=>document.querySelector(s),fmt=n=>Number(n||0).toLocaleString('ko-KR');
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let rows=[],view=[],sortK='total',asc=false,last='';
+const compN={'낮음':1,'중간':2,'높음':3};
+function grade(r){const t=r.total,c=compN[r.adComp]||2;let s=(t>=50000?4:t>=10000?3:t>=3000?2:t>=500?1:0)-(c-1);return s>=3?'S':s>=2?'A':s>=1?'B':s>=0?'C':'D'}
+function prep(list){return list.map(r=>{const click=+(r.pcClick+r.moClick).toFixed(1);return {...r,click,ctr:r.total?+(click/r.total*100).toFixed(2):0,grade:grade(r)}})}
+function filt(){const n=id=>+($(id).value||0),mx=+($('#fmax').value||0),cp=$('#fcomp').value,inc=$('#finc').value.trim(),exc=$('#fexc').value.trim();
+ view=rows.filter(r=>r.total>=n('#fmin')&&(!mx||r.total<=mx)&&r.mo>=n('#fmo')&&r.click>=n('#fclk')&&(!cp||r.adComp===cp)&&(!inc||r.keyword.includes(inc))&&(!exc||!r.keyword.includes(exc)));
+ const g='SABCD';view.sort((a,b)=>{let x=a[sortK],y=b[sortK];if(sortK==='grade'){x=g.indexOf(x);y=g.indexOf(y);return asc?y-x:x-y}if(sortK==='adComp'){x=compN[x]||0;y=compN[y]||0}
+  return typeof x==='string'?(asc?x.localeCompare(y):y.localeCompare(x)):(asc?x-y:y-x)});draw()}
+function draw(){document.querySelectorAll('th[data-k]').forEach(th=>{th.classList.toggle('sorted',th.dataset.k===sortK);th.classList.toggle('asc',th.dataset.k===sortK&&asc)});
+ $('#tb').innerHTML=view.map(r=>`<tr><td><span class="gr g-${r.grade}">${r.grade}</span></td><td class="kw"><button type="button" data-q="${esc(r.keyword)}" title="이 키워드로 다시 검색">${esc(r.keyword)}</button></td>
+<td>${fmt(r.pc)}</td><td>${fmt(r.mo)}</td><td><b>${fmt(r.total)}</b></td><td>${fmt(r.click)}</td><td>${r.ctr}%</td><td><span class="chip c-${esc(r.adComp)}">${esc(r.adComp||'-')}</span></td><td>${r.adDepth||0}</td>
+<td><a class="go" href="${WRITE}" target="_blank" rel="noopener" data-c="${esc(r.keyword)}">✍️ 쓰기</a></td></tr>`).join('')||'<tr><td colspan="10" class="msg">필터 조건에 맞는 키워드가 없어요.</td></tr>';
+ const top=rows[0]||{},good=rows.filter(r=>r.grade==='S'||r.grade==='A').length;
+ $('#sum').innerHTML=`<div class="st"><small>검색한 키워드</small><b>${esc(last)}</b></div><div class="st"><small>월간 조회 합계</small><b>${fmt(top.keyword?.replace(/\s/g,'')===last.replace(/\s/g,'')?top.total:rows.find(r=>r.keyword.replace(/\s/g,'')===last.replace(/\s/g,''))?.total)}</b></div>
+<div class="st"><small>연관 키워드</small><b>${fmt(rows.length)}개 · 보이는 ${fmt(view.length)}개</b></div><div class="st"><small>추천 등급(S·A)</small><b>${fmt(good)}개</b></div>`}
+async function search(q){q=(q||'').trim();if(!q)return;last=q;$('#q').value=q;$('#go').disabled=true;$('#msg').hidden=false;$('#msg').className='msg';$('#msg').textContent='네이버에서 검색량을 가져오는 중이에요…';
+ try{const r=await fetch(API+'?kw='+encodeURIComponent(q));const j=await r.json();if(!r.ok||j.error)throw new Error(j.error||('오류 '+r.status));
+  rows=prep(j.rows||[]);sortK='total';asc=false;$('#msg').hidden=rows.length>0;if(!rows.length)$('#msg').textContent='검색 결과가 없어요. 띄어쓰기 없이 다시 넣어 보세요.';
+  $('#res').hidden=!rows.length;$('#sum').hidden=!rows.length;filt();saveRecent(q);history.replaceState(null,'','?kw='+encodeURIComponent(q))}
+ catch(e){$('#msg').className='msg err';$('#msg').textContent='검색량을 가져오지 못했어요. 잠시 뒤 다시 눌러 주세요. ('+e.message.slice(0,80)+')'}
+ finally{$('#go').disabled=false}}
+function rec(){try{return JSON.parse(localStorage.getItem('kgKwRecent')||'[]')}catch(e){return[]}}
+function saveRecent(q){try{const a=[q,...rec().filter(x=>x!==q)].slice(0,10);localStorage.setItem('kgKwRecent',JSON.stringify(a))}catch(e){}showRecent()}
+function showRecent(){const a=rec();$('#recent').innerHTML=a.length?'최근 검색 '+a.map(x=>`<button type="button" data-q="${esc(x)}">${esc(x)}</button>`).join(''):''}
+$('#f').addEventListener('submit',e=>{e.preventDefault();search($('#q').value)});
+document.addEventListener('click',e=>{const b=e.target.closest('[data-q]');if(b){search(b.dataset.q);window.scrollTo({top:0,behavior:'smooth'})}
+ const a=e.target.closest('a.go');if(a){try{navigator.clipboard.writeText(a.dataset.c)}catch(x){}}});
+document.querySelectorAll('th[data-k]').forEach(th=>th.addEventListener('click',()=>{const k=th.dataset.k;asc=sortK===k?!asc:false;sortK=k;filt()}));
+['#fmin','#fmax','#fmo','#fclk','#fcomp','#finc','#fexc'].forEach(id=>$(id).addEventListener('input',filt));
+const tsv=()=>['등급\t키워드\tPC조회\t모바일조회\t조회합계\t클릭합계\t클릭률(%)\t광고경쟁\t광고수',...view.map(r=>[r.grade,r.keyword,r.pc,r.mo,r.total,r.click,r.ctr,r.adComp,r.adDepth].join('\t'))].join('\n');
+async function cp(b,t,l){try{await navigator.clipboard.writeText(t);b.textContent='복사됨 ✓'}catch(e){b.textContent='복사 실패'}setTimeout(()=>b.textContent=l,1500)}
+$('#cpk').onclick=()=>cp($('#cpk'),view.map(r=>r.keyword).join('\n'),'키워드만 복사');$('#cpx').onclick=()=>cp($('#cpx'),tsv(),'엑셀 복사');
+$('#csv').onclick=()=>{const b=new Blob(['﻿'+tsv().replace(/\t/g,',')],{type:'text/csv;charset=utf-8'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=`키워드_${last}.csv`;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),5000)};
+showRecent();const k0=new URLSearchParams(location.search).get('kw');if(k0)search(k0);
+</script></body></html>
