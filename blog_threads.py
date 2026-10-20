@@ -200,6 +200,53 @@ def post_images(link, n=2):
     return out
 
 
+SITE = "https://kingdom.papalaqi.com"
+
+
+def host_images(urls, tag):
+    """네이버 사진은 Meta 가 직접 못 가져간다 → 받아서 docs/blogimg 에 올리고(push) 사이트 주소를 돌려준다.
+    지난 사진은 지워 저장소를 가볍게. 실패하면 빈 목록(글만 올라감)."""
+    import subprocess
+    if not urls:
+        return []
+    folder = ROOT / "docs" / "blogimg"
+    folder.mkdir(parents=True, exist_ok=True)
+    for old in folder.glob("*"):
+        old.unlink()
+    names = []
+    for i, u in enumerate(urls):
+        try:
+            req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0", "Referer": "https://m.blog.naver.com/"})
+            with urllib.request.urlopen(req, timeout=30) as res:
+                data, ctype = res.read(), res.headers.get("Content-Type", "")
+        except Exception as e:
+            print("사진 받기 실패:", e)
+            continue
+        ext = "png" if "png" in ctype else "jpg"
+        name = f"{tag}-{i}.{ext}"
+        (folder / name).write_bytes(data)
+        names.append(name)
+    if not names:
+        return []
+    git = ["git", "-c", "user.name=kingdom-bot", "-c", "user.email=kingdom-bot@users.noreply.github.com"]
+    for cmd in (["add", "-A", "docs/blogimg"], ["commit", "-m", "blog images"], ["pull", "--rebase"], ["push"]):
+        r = subprocess.run(git + cmd, cwd=ROOT, capture_output=True, text=True)
+        if r.returncode != 0:
+            print("사진 올리기 실패:", (r.stderr or r.stdout).strip()[:200])
+            return []
+    out = [f"{SITE}/blogimg/{n}" for n in names]
+    for _ in range(24):   # 사이트 반영 최대 6분
+        time.sleep(15)
+        try:
+            with urllib.request.urlopen(urllib.request.Request(out[-1], method="HEAD"), timeout=15) as res:
+                if res.status == 200:
+                    return out
+        except Exception:
+            pass
+    print("사진이 사이트에 반영되지 않아 글만 올립니다")
+    return []
+
+
 def media_post(token, text, images):
     """사진 2장 이상이면 넘겨 보기(캐러셀), 1장이면 사진 글, 없으면 글만. 만든 컨테이너 id."""
     if len(images) >= 2:
@@ -227,7 +274,8 @@ def publish(token, acc, x, seen):
         body = text.replace("👇", "👇 (첫 댓글에 링크)", 1)
         # 글 + 블로그 사진 2장(넘겨 보기). 사진이 실패하면 글만 올린다.
         try:
-            cid = media_post(token, body, post_images(x["link"]))
+            no = x["link"].rstrip("/").split("/")[-1]
+            cid = media_post(token, body, host_images(post_images(x["link"]), f"{acc['blog']}-{no}"))
         except RuntimeError as e:
             print("사진 글 실패, 글만 올립니다:", e)
             cid = post(token, {"media_type": "TEXT", "text": body})["id"]
