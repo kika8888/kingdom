@@ -51,7 +51,8 @@
    "https://blog.naver.com/soduwk1209/224444609048",
    "https://blog.naver.com/soduwk1209/224444601517",
    "https://blog.naver.com/soduwk1209/224444807431",
-   "https://blog.naver.com/soduwk1209/224444843068"
+   "https://blog.naver.com/soduwk1209/224444843068",
+   "https://blog.naver.com/soduwk1209/224444850139"
   ],
   "started": true,
   "v": 2,
@@ -298,7 +299,9 @@
    "https://blog.naver.com/soduwk1209/224447109709",
    "https://blog.naver.com/soduwk1209/224447070128",
    "https://blog.naver.com/soduwk1209/224447130776",
-   "https://blog.naver.com/soduwk1209/224447123039"
+   "https://blog.naver.com/soduwk1209/224447123039",
+   "https://blog.naver.com/soduwk1209/224447750610",
+   "https://blog.naver.com/soduwk1209/224447241918"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224437758802",
@@ -470,9 +473,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "짧게",
+  "tone": "감탄",
   "hooks": [
-   "이거 보고 놀람",
    "이민정 소식 들으셨어요?",
    "오늘 이 소식 다들 봤지?",
    "오늘 많이 찾아보신 소식이에요",
@@ -486,10 +488,10 @@
    "와 서강준 이런 일이 있었네",
    "이혼설 근황",
    "다들 이거 아셨어요?",
-   "화제의 소식"
+   "화제의 소식",
+   "와 류수영 이런 일이 있었네"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224444850139",
    "https://blog.naver.com/soduwk1209/224445526029",
    "https://blog.naver.com/soduwk1209/224445617605",
    "https://blog.naver.com/soduwk1209/224445592415",
@@ -511,7 +513,9 @@
    "https://blog.naver.com/soduwk1209/224447109709",
    "https://blog.naver.com/soduwk1209/224447070128",
    "https://blog.naver.com/soduwk1209/224447130776",
-   "https://blog.naver.com/soduwk1209/224447123039"
+   "https://blog.naver.com/soduwk1209/224447123039",
+   "https://blog.naver.com/soduwk1209/224447750610",
+   "https://blog.naver.com/soduwk1209/224447241918"
   ],
   "reply_ok": true
  },
@@ -567,7 +571,8 @@
    "https://blog.naver.com/dkdk521/224443305039",
    "https://blog.naver.com/dkdk521/224443313506",
    "https://blog.naver.com/dkdk521/224445336704",
-   "https://blog.naver.com/dkdk521/224445329649"
+   "https://blog.naver.com/dkdk521/224445329649",
+   "https://blog.naver.com/dkdk521/224445324516"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1020,7 +1025,10 @@
    "https://blog.naver.com/dkdk521/224447292793",
    "https://blog.naver.com/dkdk521/224447654807",
    "https://blog.naver.com/dkdk521/224447308432",
-   "https://blog.naver.com/dkdk521/224447301608"
+   "https://blog.naver.com/dkdk521/224447301608",
+   "https://blog.naver.com/dkdk521/224447691770",
+   "https://blog.naver.com/dkdk521/224447684058",
+   "https://blog.naver.com/dkdk521/224447666739"
   ],
   "backlog": [
    "https://blog.naver.com/dkdk521/224436749834",
@@ -1417,9 +1425,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "질문",
+  "tone": "감탄",
   "hooks": [
-   "두산서 근황",
    "왜 이렇게 화제일까요?",
    "사이트 이야기 듣고 깜짝",
    "오늘 이 소식 다들 봤지?",
@@ -1433,16 +1440,19 @@
    "홍창기 이야기 듣고 깜짝",
    "다들 이거 아셨어요?",
    "나고야 얘기 봤어?",
-   "안세영 어떻게 된 일일까요?"
+   "안세영 어떻게 된 일일까요?",
+   "안세영 이야기 듣고 깜짝"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224445324516",
    "https://blog.naver.com/dkdk521/224447299005",
    "https://blog.naver.com/dkdk521/224447295874",
    "https://blog.naver.com/dkdk521/224447292793",
    "https://blog.naver.com/dkdk521/224447654807",
    "https://blog.naver.com/dkdk521/224447308432",
-   "https://blog.naver.com/dkdk521/224447301608"
+   "https://blog.naver.com/dkdk521/224447301608",
+   "https://blog.naver.com/dkdk521/224447691770",
+   "https://blog.naver.com/dkdk521/224447684058",
+   "https://blog.naver.com/dkdk521/224447666739"
   ],
   "reply_ok": true
  }
