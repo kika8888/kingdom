@@ -51,6 +51,16 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
 :root{--shop:#fde4e8;--shop-i:#b4234a}.cats [data-c=shop]{background:var(--shop);color:var(--shop-i)}.cats [data-c=shop][aria-pressed=true]{background:var(--shop-i);color:#fff}.card[data-c=shop]{border-top-color:var(--shop-i)}.tag.shop{background:var(--shop);color:var(--shop-i)}
 :root{--plan:#e0ecff;--plan-i:#1d4ed8}.cats [data-c=plan]{background:var(--plan);color:var(--plan-i)}.cats [data-c=plan][aria-pressed=true]{background:var(--plan-i);color:#fff}.card[data-c=plan]{border-top-color:var(--plan-i)}.tag.plan{background:var(--plan);color:var(--plan-i)}
 :root{--sales:#e7f6ec;--sales-i:#0b7a3b}.cats [data-c=sales]{background:var(--sales);color:var(--sales-i)}.cats [data-c=sales][aria-pressed=true]{background:var(--sales-i);color:#fff}.card[data-c=sales]{border-top-color:var(--sales-i)}.tag.sales{background:var(--sales);color:var(--sales-i)}
+/* 이용하기 버튼 v2: 남색 + 금색 테두리, 화살표 동그라미가 밀려나는 효과 */
+.go{position:relative;display:flex;align-items:center;justify-content:center;gap:10px;padding:13px 18px 13px 22px;font-size:1.02rem;letter-spacing:.02em;
+ background:linear-gradient(135deg,#1c1f4a 0%,#2e3478 60%,#3a41a0 100%);border:2px solid rgba(224,187,69,.55);
+ box-shadow:0 6px 16px rgba(28,31,74,.25),inset 0 1px 0 rgba(255,255,255,.18);transition:transform .15s,box-shadow .15s,border-color .15s}
+.go::after{content:"→";display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;
+ background:var(--gold);color:var(--navy);font-weight:900;font-size:.95rem;transition:transform .2s}
+.go:hover{color:#fff;transform:translateY(-2px);border-color:var(--gold);box-shadow:0 10px 22px rgba(28,31,74,.35),0 0 0 3px rgba(224,187,69,.25)}
+.go:hover::after{transform:translateX(4px)}
+.go:active{transform:translateY(0);box-shadow:0 4px 10px rgba(28,31,74,.3)}
+@media (prefers-reduced-motion:reduce){.go,.go::after{transition:none}.go:hover{transform:none}.go:hover::after{transform:none}}
 </style></head><body>
 <header><div class="bar">
   <a class="logo" href="/"><svg viewBox="0 0 32 24" width="28" height="21" aria-hidden="true"><path fill="currentColor" d="M2 6l7 6 7-10 7 10 7-6-3 16H5z"/><rect x="5" y="21" width="22" height="3" rx="1" fill="currentColor"/></svg>KINGDOM</a>
