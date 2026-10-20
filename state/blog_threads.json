@@ -56,7 +56,8 @@
    "https://blog.naver.com/soduwk1209/224445526029",
    "https://blog.naver.com/soduwk1209/224445617605",
    "https://blog.naver.com/soduwk1209/224445592415",
-   "https://blog.naver.com/soduwk1209/224445557343"
+   "https://blog.naver.com/soduwk1209/224445557343",
+   "https://blog.naver.com/soduwk1209/224445538871"
   ],
   "started": true,
   "v": 2,
@@ -305,7 +306,9 @@
    "https://blog.naver.com/soduwk1209/224447130776",
    "https://blog.naver.com/soduwk1209/224447123039",
    "https://blog.naver.com/soduwk1209/224447750610",
-   "https://blog.naver.com/soduwk1209/224447241918"
+   "https://blog.naver.com/soduwk1209/224447241918",
+   "https://blog.naver.com/soduwk1209/224448476079",
+   "https://blog.naver.com/soduwk1209/224448470712"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224437758802",
@@ -477,9 +480,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "짧게",
+  "tone": "친구",
   "hooks": [
-   "이 소식 어떻게 생각하세요?",
    "이서진 이야기",
    "왜 이렇게 화제일까요?",
    "화제가 된 이유를 정리했어요",
@@ -493,10 +495,10 @@
    "오상욱 근황",
    "이기찬 관련 소식 전해 드려요",
    "박서진 무슨 일이야?",
-   "오늘의 연예 소식"
+   "오늘의 연예 소식",
+   "오늘 이 소식 다들 봤지?"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224445538871",
    "https://blog.naver.com/soduwk1209/224445708992",
    "https://blog.naver.com/soduwk1209/224445639722",
    "https://blog.naver.com/soduwk1209/224445629488",
@@ -515,7 +517,9 @@
    "https://blog.naver.com/soduwk1209/224447130776",
    "https://blog.naver.com/soduwk1209/224447123039",
    "https://blog.naver.com/soduwk1209/224447750610",
-   "https://blog.naver.com/soduwk1209/224447241918"
+   "https://blog.naver.com/soduwk1209/224447241918",
+   "https://blog.naver.com/soduwk1209/224448476079",
+   "https://blog.naver.com/soduwk1209/224448470712"
   ],
   "reply_ok": true
  },
@@ -576,7 +580,8 @@
    "https://blog.naver.com/dkdk521/224447299005",
    "https://blog.naver.com/dkdk521/224447295874",
    "https://blog.naver.com/dkdk521/224447292793",
-   "https://blog.naver.com/dkdk521/224447654807"
+   "https://blog.naver.com/dkdk521/224447654807",
+   "https://blog.naver.com/dkdk521/224447308432"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1035,7 +1040,9 @@
    "https://blog.naver.com/dkdk521/224447666739",
    "https://blog.naver.com/dkdk521/224448254526",
    "https://blog.naver.com/dkdk521/224448241554",
-   "https://blog.naver.com/dkdk521/224448264226"
+   "https://blog.naver.com/dkdk521/224448264226",
+   "https://blog.naver.com/dkdk521/224448465945",
+   "https://blog.naver.com/dkdk521/224448462485"
   ],
   "backlog": [
    "https://blog.naver.com/dkdk521/224436749834",
@@ -1432,9 +1439,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "짧게",
+  "tone": "감탄",
   "hooks": [
-   "이건 몰랐네",
    "최민준 근황 정리해봄",
    "오늘 제일 놀란 소식",
    "이 소식 어떻게 생각하세요?",
@@ -1448,17 +1454,19 @@
    "화제의 소식",
    "이거 보고 놀람",
    "오늘 많이 찾아보신 소식이에요",
-   "지금 많이 보는 스포츠 뉴스"
+   "지금 많이 보는 스포츠 뉴스",
+   "와 류지현 이런 일이 있었네"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224447308432",
    "https://blog.naver.com/dkdk521/224447301608",
    "https://blog.naver.com/dkdk521/224447691770",
    "https://blog.naver.com/dkdk521/224447684058",
    "https://blog.naver.com/dkdk521/224447666739",
    "https://blog.naver.com/dkdk521/224448254526",
    "https://blog.naver.com/dkdk521/224448241554",
-   "https://blog.naver.com/dkdk521/224448264226"
+   "https://blog.naver.com/dkdk521/224448264226",
+   "https://blog.naver.com/dkdk521/224448465945",
+   "https://blog.naver.com/dkdk521/224448462485"
   ],
   "reply_ok": true
  }
