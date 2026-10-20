@@ -178,6 +178,39 @@ def post_meta(link):
     return {"link": link, "title": get("title"), "summary": get("description").rstrip(".")}
 
 
+def post_images(link, n=2):
+    """블로그 글 속 사진 n장 (내 블로그 사진만, 같은 사진은 한 번). 못 가져오면 빈 목록."""
+    try:
+        blog, no = link.rstrip("/").split("/")[-2:]
+        req = urllib.request.Request(f"https://m.blog.naver.com/{blog}/{no}", headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=20) as res:
+            t = res.read().decode("utf-8", "replace")
+    except Exception as e:
+        print("블로그 사진 찾기 실패(글만 올림):", e)
+        return []
+    out, seen = [], set()
+    for u in re.findall(r'https://mblogthumb-phinf\.pstatic\.net/[^"\'\s<>?]+?\.(?:jpe?g|png|gif|webp)', t, re.I):
+        key = u.split("/")[-2]   # 같은 사진의 다른 크기는 하나로
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(u + "?type=w800")
+        if len(out) >= n:
+            break
+    return out
+
+
+def media_post(token, text, images):
+    """사진 2장 이상이면 넘겨 보기(캐러셀), 1장이면 사진 글, 없으면 글만. 만든 컨테이너 id."""
+    if len(images) >= 2:
+        kids = [post(token, {"media_type": "IMAGE", "image_url": u, "is_carousel_item": "true"})["id"] for u in images]
+        time.sleep(15)
+        return post(token, {"media_type": "CAROUSEL", "children": ",".join(kids), "text": text})["id"]
+    if images:
+        return post(token, {"media_type": "IMAGE", "image_url": images[0], "text": text})["id"]
+    return post(token, {"media_type": "TEXT", "text": text})["id"]
+
+
 def skip(title):
     return any(w in title for w in SKIP_WORDS) or title.startswith(SKIP_PREFIX)
 
@@ -192,9 +225,14 @@ def publish(token, acc, x, seen):
         r = post(token, {"creation_id": c["id"]})
     else:
         body = text.replace("👇", "👇 (첫 댓글에 링크)", 1)
-        c = post(token, {"media_type": "TEXT", "text": body})
-        time.sleep(20)
-        r = post(token, {"creation_id": c["id"]})
+        # 글 + 블로그 사진 2장(넘겨 보기). 사진이 실패하면 글만 올린다.
+        try:
+            cid = media_post(token, body, post_images(x["link"]))
+        except RuntimeError as e:
+            print("사진 글 실패, 글만 올립니다:", e)
+            cid = post(token, {"media_type": "TEXT", "text": body})["id"]
+        time.sleep(25)
+        r = post(token, {"creation_id": cid})
         try:
             time.sleep(10)
             c2 = post(token, {"media_type": "TEXT", "text": f"전체 내용 👉 {x['title'][:80]}",
