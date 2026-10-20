@@ -50,6 +50,7 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
 .role{font-size:.8rem;font-weight:700;color:#8a6a12;margin-top:2px}
 :root{--shop:#fde4e8;--shop-i:#b4234a}.cats [data-c=shop]{background:var(--shop);color:var(--shop-i)}.cats [data-c=shop][aria-pressed=true]{background:var(--shop-i);color:#fff}.card[data-c=shop]{border-top-color:var(--shop-i)}.tag.shop{background:var(--shop);color:var(--shop-i)}
 :root{--plan:#e0ecff;--plan-i:#1d4ed8}.cats [data-c=plan]{background:var(--plan);color:var(--plan-i)}.cats [data-c=plan][aria-pressed=true]{background:var(--plan-i);color:#fff}.card[data-c=plan]{border-top-color:var(--plan-i)}.tag.plan{background:var(--plan);color:var(--plan-i)}
+:root{--sales:#e7f6ec;--sales-i:#0b7a3b}.cats [data-c=sales]{background:var(--sales);color:var(--sales-i)}.cats [data-c=sales][aria-pressed=true]{background:var(--sales-i);color:#fff}.card[data-c=sales]{border-top-color:var(--sales-i)}.tag.sales{background:var(--sales);color:var(--sales-i)}
 </style></head><body>
 <header><div class="bar">
   <a class="logo" href="/"><svg viewBox="0 0 32 24" width="28" height="21" aria-hidden="true"><path fill="currentColor" d="M2 6l7 6 7-10 7 10 7-6-3 16H5z"/><rect x="5" y="21" width="22" height="3" rx="1" fill="currentColor"/></svg>KINGDOM</a>
@@ -64,8 +65,13 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
     <button type="button" data-c="pro" aria-pressed="false">에이스</button>
     <button type="button" data-c="etc" aria-pressed="false">지원팀</button>
     <button type="button" data-c="plan" aria-pressed="false">전략팀</button>
+    <button type="button" data-c="sales" aria-pressed="false">영업기획팀</button>
   </div>
   <div class="grid">
+<article class="card" data-c="sales"><span class="tag sales">영업기획팀</span><span class="role">💰 영업기획팀 · 수익 담당</span><h2>쿠팡 파트너스 수익 계산기</h2><p>방문자·클릭률을 넣으면 예상 수익<br>목표 수익엔 필요한 방문자까지 💰</p><span class="need ok">✅ AI 없이 바로 계산</span><a class="go" href="https://claude.ai/artifact/JXErbBjjxvVZZTJTGg8YUU#calc" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="sales"><span class="tag sales">영업기획팀</span><span class="role">📅 영업기획팀 · 계획 담당</span><h2>블로그 × 쿠팡 한 달 포스팅 계획표</h2><p>블로그 주제만 넣으면<br>쿠팡 상품 붙일 30일 글 계획 📅</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/JXErbBjjxvVZZTJTGg8YUU#plan30" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="sales"><span class="tag sales">영업기획팀</span><span class="role">🎯 영업기획팀 · 시즌 담당</span><h2>시즌 판매 기획</h2><p>달만 고르면 팔 만한 쿠팡 상품<br>검색어·글 제목·시작 시기까지 🎯</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/JXErbBjjxvVZZTJTGg8YUU#season" target="_blank" rel="noopener">이용하기</a></article>
+<article class="card" data-c="sales"><span class="tag sales">영업기획팀</span><span class="role">📊 영업기획팀 · 분석 담당</span><h2>내 실적 분석</h2><p>방문자·클릭·주문 숫자를 넣으면<br>진단과 다음 7일 할 일 📊</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/JXErbBjjxvVZZTJTGg8YUU#report" target="_blank" rel="noopener">이용하기</a></article>
 <article class="card" data-c="plan"><div class="tags"><span class="tag plan">전략팀</span><span class="tag free">바로 사용</span></div><span class="role">🔍 키워드 전략팀</span><h2>키워드 검색</h2><p>키워드 하나로 네이버 검색수·클릭수<br>경쟁도와 연관 키워드 100개까지 🔍</p><span class="need ok">✅ 로그인 필요 없음 · 무료</span><a class="go" href="/ai/keyword.html">이용하기</a></article>
 <article class="card" data-c="plan"><div class="tags"><span class="tag plan">전략팀</span><span class="tag free">바로 사용</span></div><span class="role">📡 실시간 키워드 전략팀</span><h2>실시간 키워드 전략</h2><p>지금 가장 많이 찾는 검색어 TOP 10<br>+ 어떤 직원이 어떻게 쓸지 전략까지 📡</p><span class="need ok">✅ 로그인 필요 없음 · 매시간 갱신</span><a class="go" href="/ai/trends.html">이용하기</a></article>
 <article class="card" data-c="beg"><div class="tags"><span class="tag beg">인턴</span><span class="best">BEST</span></div><span class="role">🎓 승인 담당 직원</span><h2>애드센스 승인 AI</h2><p>26년 구글 최신 트렌드 반영💻<br>승인글 작성기😎<br>(티스토리용)</p><span class="need">🔒 클로드 로그인 필요</span><a class="go" href="https://claude.ai/artifact/SssqzWjuN1upAPd8cHYX5i#tistory" target="_blank" rel="noopener">이용하기</a></article>
@@ -97,8 +103,8 @@ main{max-width:1140px;margin:0 auto;padding:40px 16px 70px;display:flex;flex-dir
   <p class="note">🔒 표시 도구는 AI가 글을 써 줘서 클로드(claude.ai) 화면에서 열려요. 클로드 계정으로 로그인해야 쓸 수 있어요. ✅ 표시 도구는 이 사이트에서 바로 써요.</p>
 </main>
 <script>
-// 아백처럼 분류마다 주소가 따로: /ai/?category=인턴 · MD · 에이스 · 지원팀 · 전략팀
-const NAMES={all:"전체",beg:"인턴",shop:"MD",pro:"에이스",etc:"지원팀",plan:"전략팀"};
+// 아백처럼 분류마다 주소가 따로: /ai/?category=인턴 · MD · 에이스 · 지원팀 · 전략팀 · 영업기획팀
+const NAMES={all:"전체",beg:"인턴",shop:"MD",pro:"에이스",etc:"지원팀",plan:"전략팀",sales:"영업기획팀"};
 function apply(c){
   if(!NAMES[c])c="all";
   document.querySelectorAll(".cats button").forEach(x=>x.setAttribute("aria-pressed",String(x.dataset.c===c)));
