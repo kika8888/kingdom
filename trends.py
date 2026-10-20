@@ -122,7 +122,7 @@ main{max-width:1100px;margin:0 auto;padding:22px 16px 50px}
 </style></head><body>
 <header><div class="in"><a class="brand" href="/">👑 <b>KINGDOM</b></a><nav><a href="/">쇼핑</a><a href="/#car">뉴스</a><a href="/ai" class="on">AI 직원</a></nav></div></header>
 <main><section class="hero"><h1>📡 실시간 키워드 전략팀</h1><p>지금 한국에서 가장 많이 찾는 검색어 TOP 10과, 어떤 직원이 어떻게 쓰면 좋은지 전략을 매시간 정리해요</p>
-<span class="upd">🕒 마지막 갱신 {updated} · 출처: Google 트렌드(대한민국)</span></section>
+<div style="display:flex;gap:8px;justify-content:center;margin-top:10px"><a href="/ai/keyword.html" style="font-weight:700;text-decoration:none;border-radius:999px;padding:6px 14px;background:#fff;border:1px solid #e6e4ee;color:#17182b">🔍 키워드 검색</a><a href="/ai/trends.html" style="font-weight:700;text-decoration:none;border-radius:999px;padding:6px 14px;background:#1e2156;color:#fff">📡 실시간 인기 검색어</a></div><span class="upd">🕒 마지막 갱신 {updated} · 출처: Google 트렌드(대한민국)</span></section>
 <div class="list">{cards}</div>
 <p class="note">검색량은 구글 트렌드 추정치예요. 전략은 키워드 분류에 따른 추천이니 글을 쓰기 전에 뉴스로 사실을 꼭 확인하세요. <a href="/ai">← AI 직원 목록</a></p></main>
 <script>document.addEventListener('click',async e=>{const b=e.target.closest('.copy');if(!b)return;try{await navigator.clipboard.writeText(b.dataset.t);b.textContent='복사됨 ✓'}catch(x){prompt('복사하세요',b.dataset.t)}setTimeout(()=>b.textContent='키워드 복사',1500)});</script>
