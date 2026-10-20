@@ -35,19 +35,23 @@ function json(obj, status, headers) {
   return new Response(JSON.stringify(obj), { status, headers });
 }
 
+const clean = (v) => String(v ?? "").replace(/[\s\u200b\ufeff]/g, "");   // 복사할 때 딸려 온 띄어쓰기·줄바꿈 제거
 const num = (v) => (typeof v === "number" ? v : String(v).includes("<") ? 5 : Number(String(v).replace(/[^\d.]/g, "")) || 0);
 
 async function searchad(env, hint) {
   const path = "/keywordstool";
   const ts = String(Date.now());
-  const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(env.SEARCHAD_SECRET),
+  const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(clean(env.SEARCHAD_SECRET)),
     { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
   const sig = await crypto.subtle.sign("HMAC", key, new TextEncoder().encode(`${ts}.GET.${path}`));
   const signature = btoa(String.fromCharCode(...new Uint8Array(sig)));
   const res = await fetch(`https://api.searchad.naver.com${path}?hintKeywords=${encodeURIComponent(hint)}&showDetail=1`, {
-    headers: { "X-Timestamp": ts, "X-API-KEY": env.SEARCHAD_API_KEY, "X-Customer": String(env.SEARCHAD_CUSTOMER_ID), "X-Signature": signature },
+    headers: { "X-Timestamp": ts, "X-API-KEY": clean(env.SEARCHAD_API_KEY), "X-Customer": clean(env.SEARCHAD_CUSTOMER_ID).replace(/\D/g, ""), "X-Signature": signature },
   });
-  if (!res.ok) throw new Error(`검색광고 API 오류 ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  if (!res.ok) {
+    const msg = (await res.text()).replace(/0100000000[0-9a-f]+/gi, "(키 숨김)").slice(0, 400);
+    throw new Error(`검색광고 API 오류 ${res.status}: ${msg} | 넣은 CUSTOMER_ID 숫자 길이 ${clean(env.SEARCHAD_CUSTOMER_ID).replace(/\D/g, "").length}자`);
+  }
   const data = await res.json();
   return (data.keywordList || []).slice(0, 100).map((k) => {
     const pc = num(k.monthlyPcQcCnt), mo = num(k.monthlyMobileQcCnt);
