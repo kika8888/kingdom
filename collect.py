@@ -443,8 +443,8 @@ body{padding-bottom:calc(64px + env(safe-area-inset-bottom,0px))}
 .mhome{display:flex;flex-direction:column;gap:10px;padding:2px 0 4px}
 .mcards{display:flex;gap:10px;overflow-x:auto;padding:2px 14px 6px;scrollbar-width:none;scroll-snap-type:x mandatory}.mcards::-webkit-scrollbar{display:none}
 .mc{flex:0 0 44%;scroll-snap-align:start;background:var(--card);border-radius:20px;padding:14px 14px 12px;text-decoration:none;color:var(--ink);box-shadow:0 2px 10px rgba(28,31,74,.08);display:flex;justify-content:space-between;align-items:flex-start;gap:6px;min-height:86px}
-.mc b{display:block;font-size:1.02rem;font-weight:800;line-height:1.3}.mc small{display:block;color:var(--muted);font-size:.78rem;margin-top:4px}
-.mc i{font-style:normal;font-size:1.7rem;line-height:1}
+.mc span{min-width:0}.mc b{display:block;font-size:.98rem;font-weight:800;line-height:1.3;white-space:nowrap}.mc small{display:block;color:var(--muted);font-size:.76rem;margin-top:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mc i{flex:none;font-style:normal;font-size:1.3rem;line-height:1}
 .mtick{margin:0 14px;background:var(--card);border-radius:16px;padding:12px 14px;display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);box-shadow:0 1px 6px rgba(28,31,74,.06);overflow:hidden}
 .mtick em{flex:none;font-style:normal;font-weight:900;color:var(--sale);font-size:.85rem;letter-spacing:.02em}
 .mtick span{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.95rem;transition:opacity .3s}
