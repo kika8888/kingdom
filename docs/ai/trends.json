@@ -1,26 +1,94 @@
 {
- "updated": "2026-10-21 18:36",
+ "updated": "2026-10-21 19:00",
  "items": [
   {
+   "kw": "저축",
+   "traffic": "2000+",
+   "when": "10월 21일 17:40",
+   "news": [
+    {
+     "title": "핀다, 대원저축은행 품고 여수신 기능 탑재…금융위 최종 승인",
+     "url": "https://www.yna.co.kr/view/AKR20261021158900002",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "핀다, 대원저축은행 인수 승인…대출 중개업체서 저축은행 대주주로",
+     "url": "https://biz.chosun.com/stock/stock_general/2026/10/21/GM2TCMZVGE2TMNJVGBRWCMRWGI/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "광주 도시철도 2호선",
+   "traffic": "200+",
+   "when": "10월 21일 17:40",
+   "news": [
+    {
+     "title": "내년 시운전 광주도시철도 2호선",
+     "url": "https://mobile.newsis.com/photo/NISI20261021_0021498188",
+     "source": "뉴시스"
+    },
+    {
+     "title": "[르포] \"앉을 자리 고작 36개뿐인데…\" 광주 2호선 '지옥철' 되나",
+     "url": "https://www.newspim.com/news/view/20261021000799",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "디에이치",
+   "traffic": "200+",
+   "when": "10월 21일 17:40",
+   "news": [
+    {
+     "title": "달아나는 현대, 바짝 쫓는 삼성… 도시정비 1ㆍ2위 순위 다툼 ‘주목’",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610191345238390144",
+     "source": "대한경제"
+    },
+    {
+     "title": "목동·성수·광명…12조 '재건축 큰장' 선다",
+     "url": "https://www.hankyung.com/article/2026102039611",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "여자 배구",
+   "traffic": "100+",
+   "when": "10월 21일 17:40",
+   "news": [
+    {
+     "title": "전국 여자 배구 선수권 대회의 멋진 경기들.",
+     "url": "https://www.vietnam.vn/ko/man-nhan-nhung-man-tranh-tai-tai-giai-bong-chuyen-nu-vo-dich-quoc-gia",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "오늘(10월 21일) 2026년 전국 여자 배구 선수권 대회 경기 일정",
+     "url": "https://ko.laodong.vn/lich-thi-dau/lich-thi-dau-bong-chuyen-nu-vo-dich-quoc-gia-2026-hom-nay-2110-1786619.ldo",
+     "source": "Laodong.vn"
+    }
+   ]
+  },
+  {
    "kw": "대상포진 백신",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "10월 21일 17:30",
    "news": [
     {
-     "title": "유바이오로직스, 대상포진 백신 EuHZV 2상 임상시험계획 신청",
-     "url": "https://www.datatooza.com/article/2026102118002837652ef3c23d8_80",
-     "source": "데이터투자"
+     "title": "[HIT알공] 유바이오로직스, 대상포진 백신 'EuHZV주' 2상 신청",
+     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80091",
+     "source": "히트뉴스"
     },
     {
-     "title": "[속보] 유바이오로직스, 대상포진 백신 국내 임상 1상 결과 발표",
-     "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617884",
-     "source": "CBC뉴스"
+     "title": "유바이오로직스, 대상포진 백신 EuHZV 국내 1상 결과 발표",
+     "url": "https://www.datatooza.com/article/2026102117585124752ef3b901a_80",
+     "source": "데이터투자"
     }
    ]
   },
   {
    "kw": "김다영",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "10월 21일 17:30",
    "news": [
     {
@@ -29,21 +97,15 @@
      "source": "서울경제"
     },
     {
-     "title": "'배성재♥' 김다영, 벌써 만삭 같은 D라인…\"눈사람 됐다\" 깜짝 [★해시태그]",
-     "url": "https://www.xportsnews.com/article/2209962",
-     "source": "www.xportsnews.com"
+     "title": "'14살 연하' 김다영, ♥배성재 생일에 3단 뽀뽀…\"남편만 섬길 것\"",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014213",
+     "source": "SPOTV NEWS"
     }
    ]
   },
   {
-   "kw": "김천김밥축제",
-   "traffic": "100+",
-   "when": "10월 21일 17:30",
-   "news": []
-  },
-  {
    "kw": "청라국제도시",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "10월 21일 17:30",
    "news": [
     {
@@ -57,6 +119,12 @@
      "source": "에너지경제신문"
     }
    ]
+  },
+  {
+   "kw": "김천김밥축제",
+   "traffic": "200+",
+   "when": "10월 21일 17:30",
+   "news": []
   },
   {
    "kw": "송가 인",
@@ -89,74 +157,6 @@
      "title": "MVP가 되어 다시 만났다! 나를 버린 팀을 상대로 창단 첫 우승 정조준…46년만의 '무관'시리즈, 한쪽은 반드시 성불한다",
      "url": "https://www.chosun.com/sports/world-baseball/2026/10/21/MMZTCMTDMU4TEN3CMM2TQNZVG4/",
      "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "주택 매매",
-   "traffic": "200+",
-   "when": "10월 21일 17:20",
-   "news": [
-    {
-     "title": "美 9월 주택시장 급랭…7%대 대출금리에 매매계약 '역대 최저'",
-     "url": "https://www.newsis.com/view/NISX20261021_0003834173",
-     "source": "뉴시스"
-    },
-    {
-     "title": "“AI 거품만 걱정했는데”…美 주택시장에 무슨 일이 [이슈+]",
-     "url": "https://ekn.kr/web/view.php?key=20261021023188943",
-     "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "조세",
-   "traffic": "1000+",
-   "when": "10월 21일 17:20",
-   "news": [
-    {
-     "title": "경실련 \"구글·국내 게임사 5곳 회계부정 의혹\"…업계 반박",
-     "url": "https://www.yna.co.kr/view/AKR20261021120300017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "\"구글 인앱결제 수수료 피해 8조원”…이진숙, 국감서 책임 묻겠다",
-     "url": "https://zdnet.co.kr/view/?no=20261021171510",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "south africa vs australia",
-   "traffic": "200+",
-   "when": "10월 21일 17:10",
-   "news": [
-    {
-     "title": "South Africa vs Australia: Temba Bavuma century drags hosts back into series",
-     "url": "https://www.bbc.com/sport/cricket/articles/crx2d3y6gd80o",
-     "source": "BBC"
-    },
-    {
-     "title": "Live Test Cricket on Sky Sports Main Event HD: full details and when it's on",
-     "url": "https://www.tvguide.co.uk/schedule/5b02242c-6f35-57ca-bfa8-57d3a056d997/live-test-cricket",
-     "source": "TVGuide.co.uk"
-    }
-   ]
-  },
-  {
-   "kw": "라이언 와이스",
-   "traffic": "1000+",
-   "when": "10월 21일 16:40",
-   "news": [
-    {
-     "title": "'한화 복귀설 솔솔' 와이스, 대전예수로 돌아오나? 아내 직접 입장 밝혔다 \"지금 구단들과 접촉할 수 없어\"",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014560",
-     "source": "SPOTV NEWS"
-    },
-    {
-     "title": "한화 팬 날벼락? '주황색 모자+휴대폰' 이글스 복귀설 불붙은 '대전 예수' 와이스…아내 직접 입 열다→\"우리도 내년 어디서 뛸지 몰라\"",
-     "url": "https://www.xportsnews.com/article/2209881",
-     "source": "www.xportsnews.com"
     }
    ]
   }
