@@ -342,7 +342,7 @@ PAGE = """<!doctype html>
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 "Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif}
 a{color:inherit}
 .top{background:var(--navy);color:#fff;padding:22px 16px 18px}
-.top .in{max-width:1120px;margin:0 auto;display:flex;flex-direction:column;gap:6px}
+.top .in{max-width:1600px;margin:0 auto;display:flex;flex-direction:column;gap:6px}
 .brand{display:flex;align-items:center;gap:10px;color:var(--gold)}
 .brand b{font-size:1.7rem;letter-spacing:.18em;color:#fff}
 .topbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.menu{display:flex;gap:18px;font-weight:700}.menu a{color:#c9cbe0;text-decoration:none;padding-bottom:2px}.menu a[aria-current]{color:#fff;border-bottom:2px solid var(--gold)}.menu a:hover,.menu a:focus-visible{color:#fff}
