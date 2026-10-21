@@ -333,7 +333,7 @@ CROWN = ('<svg viewBox="0 0 32 24" width="34" height="26" aria-hidden="true"><pa
 PAGE = """<!doctype html>
 <html lang="ko"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>KINGDOM · 오늘의 신기템 & 특가</title><meta property="og:type" content="website"><meta property="og:site_name" content="KINGDOM"><meta property="og:title" content="KINGDOM · 오늘의 신기템 & 특가"><meta property="og:description" content="쿠팡에서 지금 뜨는 신기템 · 골드박스 특가 · 분야별 베스트를 매시간 모아요"><meta property="og:image" content="https://kingdom.papalaqi.com/og/home.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:url" content="https://kingdom.papalaqi.com/"><meta name="twitter:card" content="summary_large_image">
+<title>KINGDOM · 오늘의 신기템 & 특가</title><meta property="og:type" content="website"><meta property="og:site_name" content="KINGDOM"><meta property="og:title" content="KINGDOM · 오늘의 신기템 & 특가"><meta property="og:description" content="지금 뜨는 신기템 · 오늘의 특가 · 분야별 베스트를 매시간 모아요"><meta property="og:image" content="https://kingdom.papalaqi.com/og/home.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:url" content="https://kingdom.papalaqi.com/"><meta name="twitter:card" content="summary_large_image">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3166823959561954" crossorigin="anonymous"></script>
 <meta name="description" content="쿠팡에서 지금 뜨는 신기템, 골드박스 특가, 분야별 베스트를 매시간 모아 보여 드려요.">
 <style>
