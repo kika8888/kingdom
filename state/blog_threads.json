@@ -62,7 +62,8 @@
    "https://blog.naver.com/soduwk1209/224445639722",
    "https://blog.naver.com/soduwk1209/224445629488",
    "https://blog.naver.com/soduwk1209/224445721450",
-   "https://blog.naver.com/soduwk1209/224445713575"
+   "https://blog.naver.com/soduwk1209/224445713575",
+   "https://blog.naver.com/soduwk1209/224445735855"
   ],
   "started": true,
   "v": 2,
@@ -488,9 +489,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "짧게",
+  "tone": "감탄",
   "hooks": [
-   "와 서강준 이런 일이 있었네",
    "이혼설 근황",
    "다들 이거 아셨어요?",
    "화제의 소식",
@@ -504,10 +504,10 @@
    "지금 많이 보는 연예 뉴스",
    "김범수 소식, 정리해 드릴게요",
    "임영웅 무슨 일이야?",
-   "부친상 근황"
+   "부친상 근황",
+   "오늘 제일 놀란 소식"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224445735855",
    "https://blog.naver.com/soduwk1209/224445738123",
    "https://blog.naver.com/soduwk1209/224445746036",
    "https://blog.naver.com/soduwk1209/224447022168",
@@ -592,7 +592,8 @@
    "https://blog.naver.com/dkdk521/224447691770",
    "https://blog.naver.com/dkdk521/224447684058",
    "https://blog.naver.com/dkdk521/224447666739",
-   "https://blog.naver.com/dkdk521/224448254526"
+   "https://blog.naver.com/dkdk521/224448254526",
+   "https://blog.naver.com/dkdk521/224448241554"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1450,9 +1451,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "감탄",
+  "tone": "질문",
   "hooks": [
-   "홍창기 이야기 듣고 깜짝",
    "다들 이거 아셨어요?",
    "나고야 얘기 봤어?",
    "안세영 어떻게 된 일일까요?",
@@ -1466,10 +1466,10 @@
    "오늘의 스포츠 소식",
    "류지현 소식, 정리해 드릴게요",
    "황희찬 근황",
-   "이건 몰랐네"
+   "이건 몰랐네",
+   "이 소식 어떻게 생각하세요?"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224448241554",
    "https://blog.naver.com/dkdk521/224448264226",
    "https://blog.naver.com/dkdk521/224448465945",
    "https://blog.naver.com/dkdk521/224448462485"
