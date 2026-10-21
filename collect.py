@@ -434,7 +434,7 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 }
 </style></head><body>
 <div class="top"><div class="in">
-<div class="topbar"><div class="brand">CROWN<b>KINGDOM</b></div><nav class="menu" aria-label="메뉴"><a href="/" aria-current="page">쇼핑</a><a href="#car">뉴스</a><a href="/ai">AI 직원</a><a href="https://index01.pantaqi100.com/" target="_blank" rel="noopener">💰 지원금 찾기</a></nav></div>
+<div class="topbar"><div class="brand">CROWN<b>KINGDOM</b></div><nav class="menu" aria-label="메뉴"><a href="/" aria-current="page">쇼핑</a><a href="#car">뉴스</a><a href="/ai">AI 직원</a><a href="https://index01.pantaqi100.com/" target="_blank" rel="noopener">💰 지원금 찾기</a><a href="https://post0020.papalaqi.com/" target="_blank" rel="noopener">💊 심야약국</a></nav></div>
 <p class="tagline">쿠팡에서 지금 뜨는 신기템 · 골드박스 특가 · 분야별 베스트를 매시간 모아요</p>
 </div></div>
 <div class="notice">이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
