@@ -97,7 +97,7 @@ def card(i, item):
 
 
 PAGE = """<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>KINGDOM 실시간 키워드 전략팀</title><meta name="description" content="지금 한국에서 가장 많이 찾는 검색어 TOP 10과 글쓰기 전략">
+<title>KINGDOM 실시간 키워드 전략팀</title><meta property="og:type" content="website"><meta property="og:site_name" content="KINGDOM"><meta property="og:title" content="KINGDOM 실시간 키워드 전략팀"><meta property="og:description" content="지금 가장 많이 찾는 검색어 TOP 10과 글쓰기 전략을 매시간 정리"><meta property="og:image" content="https://kingdom.papalaqi.com/og/trends.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:url" content="https://kingdom.papalaqi.com/ai/trends.html"><meta name="twitter:card" content="summary_large_image"><meta name="description" content="지금 한국에서 가장 많이 찾는 검색어 TOP 10과 글쓰기 전략">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap">
 <style>
 :root{--navy:#1e2156;--navy2:#2e3478;--gold:#e0b84a;--ink:#17182b;--muted:#5d6072;--line:#e6e4ee;--bg:#f6f5f1}
