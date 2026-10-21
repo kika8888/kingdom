@@ -1,6 +1,40 @@
 {
- "updated": "2026-10-21 17:46",
+ "updated": "2026-10-21 18:20",
  "items": [
+  {
+   "kw": "south africa vs australia",
+   "traffic": "100+",
+   "when": "10월 21일 17:10",
+   "news": [
+    {
+     "title": "Live: South Africa strikes early to deepen Aussie woes in Gqeberha",
+     "url": "https://www.abc.net.au/news/2026-10-21/test-cricket-live-updates-south-africa-vs-australia/107293438",
+     "source": "ABC News & Headlines – Australian Broadcasting Corporation"
+    },
+    {
+     "title": "South Africa vs Australia LIVE Score, 2nd Test Day 4 LIVE Updates",
+     "url": "https://sports.ndtv.com/cricket/south-africa-vs-australia-live-score-2nd-test-day-4-sa-v-aus-live-updates-gqeberha-12213514",
+     "source": "NDTV Sports"
+    }
+   ]
+  },
+  {
+   "kw": "대상포진백신",
+   "traffic": "500+",
+   "when": "10월 21일 16:50",
+   "news": [
+    {
+     "title": "유바이오로직스, 대상포진 백신 EuHZV 2상 임상시험계획 신청",
+     "url": "https://www.datatooza.com/article/2026102118002837652ef3c23d8_80",
+     "source": "데이터투자"
+    },
+    {
+     "title": "[속보] 유바이오로직스, 대상포진 백신 국내 임상 1상 결과 발표",
+     "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617884",
+     "source": "CBC뉴스"
+    }
+   ]
+  },
   {
    "kw": "송가인",
    "traffic": "2000+",
@@ -20,7 +54,7 @@
   },
   {
    "kw": "라이언 와이스",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "10월 21일 16:40",
    "news": [
     {
@@ -46,9 +80,9 @@
      "source": "지디넷코리아"
     },
     {
-     "title": "[르포] \"소고기 패티 2장에 치즈 3장, 빅맥 1.7배\" … 맥도날드 '빅아치' 승부수",
-     "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/21/2026102100289.html",
-     "source": "뉴데일리"
+     "title": "[먹어보아투] 맥도날드서 가장 크고 비싼 버거…1만2400원 ‘빅아치’ 먹어보니",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261021010007250",
+     "source": "아시아투데이"
     }
    ]
   },
@@ -58,14 +92,14 @@
    "when": "10월 21일 16:30",
    "news": [
     {
-     "title": "'내란 가담' 박성재 2심 징역 9년‥16년 감형",
-     "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6859649_36981.html",
+     "title": "[속보] '내란 가담' 박성재 2심 징역 9년‥1심 25년서 대폭 감형",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6859636_36918.html",
      "source": "MBC 뉴스"
     },
     {
-     "title": "[속보]‘내란 가담’ 박성재 전 법무부 장관, 항소심 징역 9년 선고…1심보다 대폭 감형",
-     "url": "https://www.khan.co.kr/article/202610211547001",
-     "source": "경향신문"
+     "title": "법원 “박성재 내란 가담했지만 사전에 몰라”…항소심서 징역 9년 선고",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1283486.html",
+     "source": "한겨레"
     }
    ]
   },
@@ -93,8 +127,8 @@
    "news": [
     {
      "title": "김연경, '신인감독' 인기 분석 \"無대본, 진심 100%→이런 예능 없어\"",
-     "url": "https://www.osen.co.kr/article/G1112896026",
-     "source": "OSEN"
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GBSWGM3BME3DEMTDGQZGKNBVMU/",
+     "source": "조선일보"
     },
     {
      "title": "김연경, 감독으로도 통했다…‘신인감독 김연경2’ 화제성 1위",
@@ -122,7 +156,7 @@
   },
   {
    "kw": "폭스바겐",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "10월 21일 16:00",
    "news": [
     {
@@ -134,40 +168,6 @@
      "title": "한국타이어, 폭스바겐 차세대 소형 전기차에 '아이온' 공급",
      "url": "https://www.newsis.com/view/NISX20261021_0003835262",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "창동",
-   "traffic": "200+",
-   "when": "10월 21일 16:00",
-   "news": [
-    {
-     "title": "서울아레나 대비 도봉구 창동경제엔진추진단, 소규모 회의 전환",
-     "url": "https://www.newsis.com/view/NISX20261021_0003834924",
-     "source": "뉴시스"
-    },
-    {
-     "title": "서울시의회 유기훈 의원, 서울아레나 개장 주민설명회 참석",
-     "url": "https://www.sisanews.org/articles/224448977733",
-     "source": "시사프리신문"
-    }
-   ]
-  },
-  {
-   "kw": "ai 안경",
-   "traffic": "200+",
-   "when": "10월 21일 16:00",
-   "news": [
-    {
-     "title": "‘AI 안경’ 적발은 감독관 육안으로?…새 수능 지침, 이게 맞아? [이런뉴스]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8690860",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "\"엄마, 안경 바꿔야 돼\" 수능 땐 뿔테 벗는다?...'AI 안경' 대책에 '비상' - 머니투데이",
-     "url": "https://www.mt.co.kr/policy/2026/10/21/2026102115241772341",
-     "source": "머니투데이"
     }
    ]
   }
