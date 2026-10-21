@@ -189,7 +189,10 @@ def post_images(link, n=2):
         print("블로그 사진 찾기 실패(글만 올림):", e)
         return []
     out, seen = [], set()
-    for u in re.findall(r'https://mblogthumb-phinf\.pstatic\.net/[^"\'\s<>?]+?\.(?:jpe?g|png|gif|webp)', t, re.I):
+    # 주소 중간에도 ".JPEG" 가 들어 있어서, 끝(따옴표·? 앞)까지 다 잡은 뒤 확장자로 거른다
+    for u in re.findall(r'https://mblogthumb-phinf\.pstatic\.net/[^"\'\s<>?]+', t):
+        if not re.search(r'\.(?:jpe?g|png|gif|webp)$', u, re.I):
+            continue
         key = u.split("/")[-2]   # 같은 사진의 다른 크기는 하나로
         if key in seen:
             continue
