@@ -1,173 +1,162 @@
 {
- "updated": "2026-10-21 08:48",
+ "updated": "2026-10-21 13:34",
  "items": [
   {
-   "kw": "황선우",
-   "traffic": "100+",
-   "when": "10월 21일 07:40",
+   "kw": "무궁화호",
+   "traffic": "200+",
+   "when": "10월 21일 12:30",
    "news": [
     {
-     "title": "[전국체전] 수영 황선우, 6관왕 무산…개인혼영 200ｍ 실격",
-     "url": "https://www.yna.co.kr/view/AKR20261020167200007",
+     "title": "부산서 70대 남성 무궁화호 열차에 치여 숨져···한때 운행 중단",
+     "url": "https://www.khan.co.kr/article/202610210913001",
+     "source": "경향신문"
+    },
+    {
+     "title": "경부선 사상역서 열차에 치여 1명 숨져…한때 지연 운행",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8690884",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "원주시",
+   "traffic": "100+",
+   "when": "10월 21일 12:30",
+   "news": [
+    {
+     "title": "원주시, 소금산 그랜드밸리 공실 활용·관광객 유치 방안 모색",
+     "url": "https://www.yna.co.kr/view/AKR20261021063800062",
      "source": "연합뉴스"
     },
     {
-     "title": "황선우·김영범, 나란히 3관왕‥'MVP 누가 될까'",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859438_37004.html",
-     "source": "MBC 뉴스"
+     "title": "원주시, 소금산 그랜드밸리 운영 점검…관광객 유입·상권 활성화 논의",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719217",
+     "source": "뉴스타운"
     }
    ]
   },
   {
-   "kw": "외환시장",
+   "kw": "ai 에이전트",
    "traffic": "200+",
-   "when": "10월 21일 07:30",
+   "when": "10월 21일 12:20",
    "news": [
     {
-     "title": "원/달러 환율 1,325원 연저점 또 경신…원/엔 환율도",
-     "url": "https://www.yna.co.kr/view/AKR20261020131100002",
-     "source": "연합뉴스"
+     "title": "[AI와 디지털전환] AI 대중화 시대, AI 전문 기업을 키워야 하는 이유",
+     "url": "https://www.etnews.com/20261020000078",
+     "source": "전자신문"
     },
     {
-     "title": "달러 약세에 반도체 네고까지…환율 1320원대 하락 압력",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02624006645615216",
-     "source": "마켓인"
+     "title": "AI, 생성 넘어 예측·자율화…기업 경쟁력은 '통제력'",
+     "url": "https://zdnet.co.kr/view/?no=20261021103416",
+     "source": "지디넷코리아"
     }
    ]
   },
   {
-   "kw": "문재인",
-   "traffic": "100+",
-   "when": "10월 21일 07:30",
-   "news": [
-    {
-     "title": "문재인 전 대통령 ‘뇌물 혐의’ 국민참여재판 내년 1월 진행...증인 18명 채택",
-     "url": "https://news.jtbc.co.kr/article/NB12323911",
-     "source": "JTBC"
-    },
-    {
-     "title": "문재인 전 대통령, 내년 1월 국민참여재판…딸·전 사위 등 18명 증인 출석",
-     "url": "http://weekly.chosun.com/news/articleView.html?idxno=56373",
-     "source": "주간조선"
-    }
-   ]
-  },
-  {
-   "kw": "일기예보",
-   "traffic": "500+",
-   "when": "10월 21일 07:20",
-   "news": [
-    {
-     "title": "2026년 10월 21일 날씨 예보: 베트남 북부 지역에 \"이례적인\" 한랭 전선이 영향을 미칠 것으로 예상됩니다.",
-     "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-21-10-2026-mien-bac-don-khong-khi-lanh-la-thuong",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "약한 찬 공기가 곧 유입될 예정이며, 내일 오후 지역에 뇌우가 예상됩니다",
-     "url": "https://ko.laodong.vn/moi-truong/sap-don-khong-khi-lanh-yeu-du-bao-khu-vuc-kha-nang-mua-dong-chieu-mai-1786442.ldo",
-     "source": "Laodong.vn"
-    }
-   ]
-  },
-  {
-   "kw": "windy",
-   "traffic": "100+",
-   "when": "10월 21일 07:20",
-   "news": [
-    {
-     "title": "Cooler, windy day ahead Wednesday",
-     "url": "https://whdh.com/news/cooler-windy-day-ahead-wednesday/",
-     "source": "WHDH"
-    },
-    {
-     "title": "Video: Sunny, but breezy day ahead",
-     "url": "https://www.wcvb.com/article/video-sunny-but-breezy-day-ahead/74189928",
-     "source": "WCVB"
-    }
-   ]
-  },
-  {
-   "kw": "weather",
-   "traffic": "2000+",
-   "when": "10월 21일 07:20",
-   "news": [
-    {
-     "title": "Denver weather: Warm midweek ahead of weekend showers",
-     "url": "https://kdvr.com/weather/weather-forecast/denver-weather-warm-midweek-ahead-of-weekend-showers/",
-     "source": "KDVR"
-    },
-    {
-     "title": "Latest forecast | Denver warm, dry October outlook with mountain rain and snow showers",
-     "url": "https://www.9news.com/video/weather/forecast/latest-forecast-denver-warm-dry-october-outlook-with-mountain-rain-and-snow-showers/73-2512f40f-1f70-463e-b60a-e46cce83dbc3",
-     "source": "9News"
-    }
-   ]
-  },
-  {
-   "kw": "псж – барселона турнирная таблица",
-   "traffic": "200+",
-   "when": "10월 21일 07:20",
-   "news": [
-    {
-     "title": "Фото: Сафонов после пропущенного гола от «Барселоны» в Лиге чемпионов",
-     "url": "https://www.championat.ru/football/news-6665782-foto-safonov-posle-propuschennogo-gola-ot-barselony-v-lige-chempionov.html",
-     "source": "https://www.championat.ru/"
-    },
-    {
-     "title": "Сафонов вошел в стартовый состав «ПСЖ» на игру с «Барселоной»",
-     "url": "https://sportmail.ru/news/football-eurocups/72792948/",
-     "source": "Спорт Mail"
-    }
-   ]
-  },
-  {
-   "kw": "조혜련",
-   "traffic": "2000+",
-   "when": "10월 21일 07:10",
-   "news": [
-    {
-     "title": "엄마가 조혜련인데? \"아들 우주, 학자금 대출 받게 해..독립 위해\" 눈길 - 조선비즈",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MIYTKOBRGRRWIYRSGIYTONTEGA/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "6년간 '339억' 거래..김수용, 주식 큰손이었다? \"단타로 1억 벌었다고\"('물린음악회')",
-     "url": "https://www.osen.co.kr/article/G1112896023",
-     "source": "OSEN"
-    }
-   ]
-  },
-  {
-   "kw": "오늘날씨",
+   "kw": "동탄 신도시",
    "traffic": "1000+",
-   "when": "10월 21일 07:10",
+   "when": "10월 21일 12:10",
    "news": [
     {
-     "title": "[날씨] 오전까지 곳곳 비...비 그친 뒤 기온 '뚝'",
-     "url": "https://www.ytn.co.kr/_ln/0108_202610210726264856",
-     "source": "YTN"
+     "title": "\"국평 17억인데 싸다고?\"…서울도 아닌데 4만5000명 몰렸다 [주간이집]",
+     "url": "https://www.hankyung.com/article/2026102031886",
+     "source": "한국경제"
     },
     {
-     "title": "전남광주, 찬공기에 한낮 18도…시속 55㎞ 강풍 '체감 뚝'",
-     "url": "https://www.newsis.com/view/NISX20261021_0003834210",
+     "title": "[부동산 AD] 동탄1신도시 중심에 초고층 하이엔드 주거단지 ‘아크메르 동탄’ 분양",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334688",
+     "source": "인천일보"
+    }
+   ]
+  },
+  {
+   "kw": "태풍 참피 경로",
+   "traffic": "20000+",
+   "when": "10월 21일 12:00",
+   "news": [
+    {
+     "title": "'슈퍼태풍 참피' 한·일 사이로? 美 JTWC 예측 경로 보니",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6859272_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "제주해경, 연안 안전사고 위험 ‘주의보’ 발령",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=844918",
+     "source": "제민일보"
+    }
+   ]
+  },
+  {
+   "kw": "대왕암공원",
+   "traffic": "200+",
+   "when": "10월 21일 12:00",
+   "news": [
+    {
+     "title": "울산 동구, ‘2026 해파랑길 힐링 페스타’ 오는 24일 개최",
+     "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065585322587716",
+     "source": "울산종합일보"
+    },
+    {
+     "title": "팜파스 물든 울산 대왕암 걷는다…\"24일 힐링페스타\"",
+     "url": "https://www.newsis.com/view/NISX20261019_0003831565",
      "source": "뉴시스"
     }
    ]
   },
   {
-   "kw": "제1도련선",
+   "kw": "전략적 팀 전투",
+   "traffic": "100+",
+   "when": "10월 21일 12:00",
+   "news": []
+  },
+  {
+   "kw": "용인 fc",
    "traffic": "200+",
-   "when": "10월 21일 07:10",
+   "when": "10월 21일 12:00",
    "news": [
     {
-     "title": "美육군 \"중국과 분쟁 발발 첫날부터 총전력 투입\"… 새 지침 공개",
-     "url": "https://www.chosun.com/international/us/2026/10/21/PIP3Y7C6NNHFPJV3WCPIEDL2XQ/",
-     "source": "조선일보"
+     "title": "[단독] 한 달에 한두 번 출근, 회의도 불참 의혹…이동국 용인FC ‘근무 태만’ 논란",
+     "url": "https://news.jtbc.co.kr/article/NB12324028",
+     "source": "JTBC"
     },
     {
-     "title": "미군, 中겨냥 제1도련선에 전력 집중 “전쟁 첫날 즉각 대응”",
-     "url": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2",
-     "source": "동아일보"
+     "title": "'근무 태만 의혹' 이동국 용인FC 디렉터, 국정감사 불출석... 구단 \"출근 기록 증빙 자료 모두 제출\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/10/21/2026102110453587558",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "전기 자동차",
+   "traffic": "5000+",
+   "when": "10월 21일 11:50",
+   "news": [
+    {
+     "title": "[싱귤래리티헙] 새 휘발유차를 전기차로 바꾸면 배출가스를 줄일 수 있다는 연구 결과가 나왔다. 연구진은 조사한 대부분의 시나리오에서 배출량이 감소하는 결과를 보였으며, 여기에는 가솔린 차량이 겨우 1년밖에 되지 않은 경우도 포함",
+     "url": "http://www.ainet.link/29477",
+     "source": "AI넷"
+    },
+    {
+     "title": "현대차 中 전략형 전기차 아이오닉 V '초라한' 성적…첫달 판매 '28대'",
+     "url": "https://theguru.co.kr/news/article.html?no=108575",
+     "source": "더구루"
+    }
+   ]
+  },
+  {
+   "kw": "spurs vs thunder",
+   "traffic": "200+",
+   "when": "10월 21일 11:50",
+   "news": [
+    {
+     "title": "Shai Gilgeous-Alexander, Thunder shut down Victor Wembanyama to roll past Spurs on opening night",
+     "url": "https://sports.yahoo.com/nba/live/spurs-thunder-score-live-updates-lineups-news-highlights-where-to-watch-004103290.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Live Updates: Top moments, highlights and stats from our season tipoff tripleheader on NBC and Peacock",
+     "url": "https://www.nba.com/news/live-updates-nba-tip-off-tripleheader",
+     "source": "NBA.com"
     }
    ]
   }
