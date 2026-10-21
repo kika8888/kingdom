@@ -432,6 +432,28 @@ main{padding:4px 0 40px}
 .about{padding:6px 16px 12px;font-size:.85rem}.about h2{font-size:1rem}
 footer{font-size:.72rem;padding:16px 16px 30px}
 }
+/* ── 휴대폰 홈 (네이버 앱처럼): 큰 검색창 · 정보 카드 줄 · 실시간 검색어 띠 · 아래 고정 메뉴. PC 에서는 숨김 ── */
+.mhome,.mnav,.msheet{display:none}
+@media (max-width:640px){
+.menu{display:none}.top{padding:14px 18px 8px}.brand{justify-content:center}
+body{padding-bottom:calc(64px + env(safe-area-inset-bottom,0px))}
+.bar{background:linear-gradient(180deg,var(--navy) 0,var(--navy) 34px,var(--bg) 34px);border-bottom:0;padding:4px 14px 10px}
+#q{height:56px;border:2.5px solid var(--gold);border-radius:999px;padding:0 18px 0 54px;font-size:1rem;box-shadow:0 6px 18px rgba(28,31,74,.16);
+ background:var(--card) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 24'%3E%3Cpath fill='%23c9a227' d='M2 20 0 6l8 6 8-11 8 11 8-6-2 14z'/%3E%3C/svg%3E") 18px center/26px no-repeat}
+.mhome{display:flex;flex-direction:column;gap:10px;padding:2px 0 4px}
+.mcards{display:flex;gap:10px;overflow-x:auto;padding:2px 14px 6px;scrollbar-width:none;scroll-snap-type:x mandatory}.mcards::-webkit-scrollbar{display:none}
+.mc{flex:0 0 44%;scroll-snap-align:start;background:var(--card);border-radius:20px;padding:14px 14px 12px;text-decoration:none;color:var(--ink);box-shadow:0 2px 10px rgba(28,31,74,.08);display:flex;justify-content:space-between;align-items:flex-start;gap:6px;min-height:86px}
+.mc b{display:block;font-size:1.02rem;font-weight:800;line-height:1.3}.mc small{display:block;color:var(--muted);font-size:.78rem;margin-top:4px}
+.mc i{font-style:normal;font-size:1.7rem;line-height:1}
+.mtick{margin:0 14px;background:var(--card);border-radius:16px;padding:12px 14px;display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);box-shadow:0 1px 6px rgba(28,31,74,.06);overflow:hidden}
+.mtick em{flex:none;font-style:normal;font-weight:900;color:var(--sale);font-size:.85rem;letter-spacing:.02em}
+.mtick span{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.95rem;transition:opacity .3s}
+.mnav{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:20;background:var(--card);border-top:1px solid var(--line);padding:6px 4px calc(6px + env(safe-area-inset-bottom,0px));box-shadow:0 -4px 16px rgba(28,31,74,.08)}
+.mnav a,.mnav button{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;font:inherit;font-size:.72rem;font-weight:600;color:var(--muted);text-decoration:none;background:none;border:0;padding:4px 0;cursor:pointer}
+.mnav .ic{font-size:1.35rem;line-height:1.1}.mnav [aria-current]{color:var(--ink)}.mnav [aria-current] .ic{filter:drop-shadow(0 0 4px rgba(201,162,39,.6))}
+.msheet{position:fixed;left:10px;right:10px;bottom:calc(74px + env(safe-area-inset-bottom,0px));z-index:21;background:var(--card);border-radius:18px;box-shadow:0 10px 30px rgba(0,0,0,.25);padding:8px}
+.msheet.open{display:block}.msheet a{display:flex;align-items:center;gap:10px;padding:13px 12px;border-radius:12px;text-decoration:none;color:var(--ink);font-weight:700}.msheet a:active{background:var(--chip)}
+}
 </style></head><body>
 <div class="top"><div class="in">
 <div class="topbar"><div class="brand">CROWN<b>KINGDOM</b></div><nav class="menu" aria-label="메뉴"><a href="/" aria-current="page">쇼핑</a><a href="#car">뉴스</a><a href="/ai">AI 직원</a><a href="https://index01.pantaqi100.com/" target="_blank" rel="noopener">💰 지원금 찾기</a><a href="https://post0020.papalaqi.com/" target="_blank" rel="noopener">💊 전국 24시 심야약국</a><a href="https://pantaqidex14.papalaqi.com/" target="_blank" rel="noopener">⛳ 파크골프장 찾기</a></nav></div>
@@ -457,6 +479,29 @@ footer{font-size:.72rem;padding:16px 16px 30px}
 </div>
 <div class="chips" id="chips">{chips}</div>
 </div></div>
+<div class="mhome" aria-label="바로가기">
+<div class="mcards">
+<a class="mc" href="#goldbox" data-mg="goldbox"><span><b>오늘의 특가</b><small id="mgold">골드박스 모아보기</small></span><i>⏰</i></a>
+<a class="mc" href="#" data-mg="weird"><span><b>신기템</b><small>요즘 뜨는 아이디어템</small></span><i>🔥</i></a>
+<a class="mc" href="/ai/trends.html"><span><b>실시간 검색어</b><small id="mtop">지금 1위 보기</small></span><i>📡</i></a>
+<a class="mc" href="https://index01.pantaqi100.com/" target="_blank" rel="noopener"><span><b>지원금 찾기</b><small>나이·지역으로 검색</small></span><i>💰</i></a>
+<a class="mc" href="https://post0020.papalaqi.com/" target="_blank" rel="noopener"><span><b>심야약국</b><small>전국 24시 약국</small></span><i>💊</i></a>
+<a class="mc" href="https://pantaqidex14.papalaqi.com/" target="_blank" rel="noopener"><span><b>파크골프장</b><small>전국 319곳</small></span><i>⛳</i></a>
+</div>
+<a class="mtick" href="/ai/trends.html"><em>실시간</em><span id="mtk">지금 가장 많이 찾는 검색어</span><b aria-hidden="true">›</b></a>
+</div>
+<nav class="mnav" aria-label="아래 메뉴">
+<a href="/" aria-current="page"><span class="ic">🛍️</span>쇼핑</a>
+<a href="#car"><span class="ic">📰</span>뉴스</a>
+<a href="/ai"><span class="ic">🤖</span>AI 직원</a>
+<a href="/ai/keyword.html"><span class="ic">🔍</span>키워드</a>
+<button type="button" id="mmore" aria-expanded="false"><span class="ic">🧭</span>생활찾기</button>
+</nav>
+<div class="msheet" id="msheet">
+<a href="https://index01.pantaqi100.com/" target="_blank" rel="noopener">💰 지원금 찾기</a>
+<a href="https://post0020.papalaqi.com/" target="_blank" rel="noopener">💊 전국 24시 심야약국</a>
+<a href="https://pantaqidex14.papalaqi.com/" target="_blank" rel="noopener">⛳ 파크골프장 찾기</a>
+</div>
 <main>
 <section class="cpsearch"><h2>🔎 쿠팡 전체에서 찾기 <small>원하는 상품이 위에 없으면 여기서 검색하세요</small></h2>
 <iframe title="쿠팡 상품 검색" src="https://coupa.ng/cp0DM8" width="100%" height="75" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
@@ -489,6 +534,15 @@ document.addEventListener('click',function(e){var b=e.target.closest('button[dat
 var t=b.textContent;function done(m){b.textContent=m;setTimeout(function(){b.textContent=t},1500)}
 var txt='이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\\n\\n'+b.dataset.name+'\\n'+b.dataset.link;
 navigator.clipboard.writeText(txt).then(function(){done('복사됨')},function(){prompt('아래 내용을 복사하세요',txt)})});
+/* 휴대폰 홈: 카드로 탭 바꾸기, 골드박스 개수, 실시간 검색어 띠, 생활찾기 시트 */
+document.querySelectorAll('.mc[data-mg]').forEach(function(a){a.addEventListener('click',function(e){e.preventDefault();var b=document.querySelector('.tabs button[data-g="'+a.dataset.mg+'"]');if(b)b.click()})});
+var gn=document.querySelectorAll('[data-group="goldbox"] .card').length;if(gn)document.getElementById('mgold').textContent='골드박스 '+gn+'개';
+var sh=document.getElementById('msheet'),mm=document.getElementById('mmore');
+mm.addEventListener('click',function(e){e.stopPropagation();var o=sh.classList.toggle('open');mm.setAttribute('aria-expanded',String(o))});
+document.addEventListener('click',function(e){if(!e.target.closest('#msheet'))sh.classList.remove('open')});
+fetch('/ai/trends.json',{cache:'no-store'}).then(function(r){return r.json()}).then(function(j){var it=(j.items||[]).map(function(x){return x.kw});if(!it.length)return;
+document.getElementById('mtop').textContent='1위 '+it[0];var k=0,s=document.getElementById('mtk');
+function show(){s.style.opacity=0;setTimeout(function(){s.textContent=(k+1)+'. '+it[k];s.style.opacity=1;k=(k+1)%it.length},300)}show();setInterval(show,3000)}).catch(function(){});
 })();
 </script></body></html>"""
 
