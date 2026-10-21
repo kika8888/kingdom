@@ -1,27 +1,10 @@
 {
- "updated": "2026-10-21 18:20",
+ "updated": "2026-10-21 18:35",
  "items": [
   {
-   "kw": "south africa vs australia",
-   "traffic": "100+",
-   "when": "10월 21일 17:10",
-   "news": [
-    {
-     "title": "Live: South Africa strikes early to deepen Aussie woes in Gqeberha",
-     "url": "https://www.abc.net.au/news/2026-10-21/test-cricket-live-updates-south-africa-vs-australia/107293438",
-     "source": "ABC News & Headlines – Australian Broadcasting Corporation"
-    },
-    {
-     "title": "South Africa vs Australia LIVE Score, 2nd Test Day 4 LIVE Updates",
-     "url": "https://sports.ndtv.com/cricket/south-africa-vs-australia-live-score-2nd-test-day-4-sa-v-aus-live-updates-gqeberha-12213514",
-     "source": "NDTV Sports"
-    }
-   ]
-  },
-  {
-   "kw": "대상포진백신",
-   "traffic": "500+",
-   "when": "10월 21일 16:50",
+   "kw": "대상포진 백신",
+   "traffic": "1000+",
+   "when": "10월 21일 17:30",
    "news": [
     {
      "title": "유바이오로직스, 대상포진 백신 EuHZV 2상 임상시험계획 신청",
@@ -36,9 +19,49 @@
    ]
   },
   {
-   "kw": "송가인",
-   "traffic": "2000+",
-   "when": "10월 21일 16:40",
+   "kw": "김다영",
+   "traffic": "200+",
+   "when": "10월 21일 17:30",
+   "news": [
+    {
+     "title": "로마로 신혼여행 간 김다영, ♥배성재 볼에 뽀뽀 세례 “남편 섬기겠다”",
+     "url": "https://www.sedaily.com/article/20104166",
+     "source": "서울경제"
+    },
+    {
+     "title": "'14살 연하' 김다영, ♥배성재 생일에 3단 뽀뽀…\"남편만 섬길 것\"",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014213",
+     "source": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "kw": "김천김밥축제",
+   "traffic": "100+",
+   "when": "10월 21일 17:30",
+   "news": []
+  },
+  {
+   "kw": "청라국제도시",
+   "traffic": "100+",
+   "when": "10월 21일 17:30",
+   "news": [
+    {
+     "title": "인천경제청, 청라영상문화복합단지 개발계획 변경 승인…2031년 준공 목표",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719191",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "[패트롤] 강원도-강원교육청-춘천시-원주시",
+     "url": "https://m.ekn.kr/view.php?key=20261020028378862",
+     "source": "에너지경제신문"
+    }
+   ]
+  },
+  {
+   "kw": "송가 인",
+   "traffic": "5000+",
+   "when": "10월 21일 17:20",
    "news": [
     {
      "title": "안성훈, ‘미스터트롯2’ 상금 5억으로 부모님 집 마련…“카드도 못 써”",
@@ -49,6 +72,74 @@
      "title": "안성훈 “무명시절, 송가인이 매니저 역할” (편스토랑)",
      "url": "https://sports.khan.co.kr/article/202610211500003",
      "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "밀워키 브루어스",
+   "traffic": "500+",
+   "when": "10월 21일 17:20",
+   "news": [
+    {
+     "title": "월드시리즈 진출 밀워키, 11년 전 고액 입장권 구매한 팬들 홀대",
+     "url": "https://www.yna.co.kr/view/AKR20261021038700007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "MVP가 되어 다시 만났다! 나를 버린 팀을 상대로 창단 첫 우승 정조준…46년만의 '무관'시리즈, 한쪽은 반드시 성불한다",
+     "url": "https://www.chosun.com/sports/world-baseball/2026/10/21/MMZTCMTDMU4TEN3CMM2TQNZVG4/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "주택 매매",
+   "traffic": "200+",
+   "when": "10월 21일 17:20",
+   "news": [
+    {
+     "title": "美 9월 주택시장 급랭…7%대 대출금리에 매매계약 '역대 최저'",
+     "url": "https://www.newsis.com/view/NISX20261021_0003834173",
+     "source": "뉴시스"
+    },
+    {
+     "title": "“AI 거품만 걱정했는데”…美 주택시장에 무슨 일이 [이슈+]",
+     "url": "https://ekn.kr/web/view.php?key=20261021023188943",
+     "source": "에너지경제신문"
+    }
+   ]
+  },
+  {
+   "kw": "조세",
+   "traffic": "1000+",
+   "when": "10월 21일 17:20",
+   "news": [
+    {
+     "title": "경실련 \"구글·국내 게임사 5곳 회계부정 의혹\"…업계 반박",
+     "url": "https://www.yna.co.kr/view/AKR20261021120300017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "\"구글 인앱결제 수수료 피해 8조원”…이진숙, 국감서 책임 묻겠다",
+     "url": "https://zdnet.co.kr/view/?no=20261021171510",
+     "source": "지디넷코리아"
+    }
+   ]
+  },
+  {
+   "kw": "south africa vs australia",
+   "traffic": "200+",
+   "when": "10월 21일 17:10",
+   "news": [
+    {
+     "title": "South Africa vs Australia: Temba Bavuma century drags hosts back into series",
+     "url": "https://www.bbc.com/sport/cricket/articles/crx2d3y6gd80o",
+     "source": "BBC"
+    },
+    {
+     "title": "First Time In 60 Years: Marco Jansen Achieves Historic Feat For South Africa In Tests",
+     "url": "https://sports.ndtv.com/cricket/first-time-in-60-years-marco-jansen-achieves-historic-feat-for-south-africa-in-tests-12211653",
+     "source": "NDTV Sports"
     }
    ]
   },
@@ -66,108 +157,6 @@
      "title": "한화 팬 날벼락? '주황색 모자+휴대폰' 이글스 복귀설 불붙은 '대전 예수' 와이스…아내 직접 입 열다→\"우리도 내년 어디서 뛸지 몰라\"",
      "url": "https://www.xportsnews.com/article/2209881",
      "source": "www.xportsnews.com"
-    }
-   ]
-  },
-  {
-   "kw": "빅아치",
-   "traffic": "100+",
-   "when": "10월 21일 16:40",
-   "news": [
-    {
-     "title": "빅맥보다 68% 묵직하다…맥도날드 ‘빅아치’ 먹어보니",
-     "url": "https://zdnet.co.kr/view/?no=20261021171656",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "[먹어보아투] 맥도날드서 가장 크고 비싼 버거…1만2400원 ‘빅아치’ 먹어보니",
-     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261021010007250",
-     "source": "아시아투데이"
-    }
-   ]
-  },
-  {
-   "kw": "박성재",
-   "traffic": "200+",
-   "when": "10월 21일 16:30",
-   "news": [
-    {
-     "title": "[속보] '내란 가담' 박성재 2심 징역 9년‥1심 25년서 대폭 감형",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6859636_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "법원 “박성재 내란 가담했지만 사전에 몰라”…항소심서 징역 9년 선고",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1283486.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "리그 오브 레전드",
-   "traffic": "1000+",
-   "when": "10월 21일 16:20",
-   "news": [
-    {
-     "title": "26.21 패치 노트",
-     "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-21-notes/",
-     "source": "League of Legends"
-    },
-    {
-     "title": "롤 21일 5시간 점검…26.21 패치 적용 : 산업",
-     "url": "https://news.jkn.co.kr/post/1038369",
-     "source": "재경일보"
-    }
-   ]
-  },
-  {
-   "kw": "신인감독 김연경 2",
-   "traffic": "5000+",
-   "when": "10월 21일 16:10",
-   "news": [
-    {
-     "title": "김연경, '신인감독' 인기 분석 \"無대본, 진심 100%→이런 예능 없어\"",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/10/21/GBSWGM3BME3DEMTDGQZGKNBVMU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "김연경, 감독으로도 통했다…‘신인감독 김연경2’ 화제성 1위",
-     "url": "https://sports.donga.com/ent/article/all/20261021/134881185/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "고소영",
-   "traffic": "500+",
-   "when": "10월 21일 16:00",
-   "news": [
-    {
-     "title": "고소영, 돌반지 70만원 화들짝 \"나 땐 4만원 할 때도\"",
-     "url": "https://www.newsis.com/view/NISX20261020_0003834050",
-     "source": "뉴시스"
-    },
-    {
-     "title": "고소영, 애처가 ♥장동건 자랑 “맛집 가면 나 먹으라고 맨날 싸와” - 조선비즈",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GZRGMYJZMMYTAMBQMUZGEYJUHE/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "폭스바겐",
-   "traffic": "500+",
-   "when": "10월 21일 16:00",
-   "news": [
-    {
-     "title": "한국타이어, 폭스바겐 전기차 2종에 아이온 공급",
-     "url": "https://www.yna.co.kr/view/AKR20261021041400003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "한국타이어, 폭스바겐 차세대 소형 전기차에 '아이온' 공급",
-     "url": "https://www.newsis.com/view/NISX20261021_0003835262",
-     "source": "뉴시스"
     }
    ]
   }
