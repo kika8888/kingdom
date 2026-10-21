@@ -58,7 +58,8 @@
    "https://blog.naver.com/soduwk1209/224445592415",
    "https://blog.naver.com/soduwk1209/224445557343",
    "https://blog.naver.com/soduwk1209/224445538871",
-   "https://blog.naver.com/soduwk1209/224445708992"
+   "https://blog.naver.com/soduwk1209/224445708992",
+   "https://blog.naver.com/soduwk1209/224445639722"
   ],
   "started": true,
   "v": 2,
@@ -481,9 +482,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "감탄",
+  "tone": "짧게",
   "hooks": [
-   "왜 이렇게 화제일까요?",
    "화제가 된 이유를 정리했어요",
    "이거 보고 놀람",
    "지석진 관련 소식 전해 드려요",
@@ -497,10 +497,10 @@
    "박서진 무슨 일이야?",
    "오늘의 연예 소식",
    "오늘 이 소식 다들 봤지?",
-   "이건 몰랐네"
+   "이건 몰랐네",
+   "지금 많이 보는 연예 뉴스"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224445639722",
    "https://blog.naver.com/soduwk1209/224445629488",
    "https://blog.naver.com/soduwk1209/224445721450",
    "https://blog.naver.com/soduwk1209/224445713575",
@@ -582,7 +582,8 @@
    "https://blog.naver.com/dkdk521/224447292793",
    "https://blog.naver.com/dkdk521/224447654807",
    "https://blog.naver.com/dkdk521/224447308432",
-   "https://blog.naver.com/dkdk521/224447301608"
+   "https://blog.naver.com/dkdk521/224447301608",
+   "https://blog.naver.com/dkdk521/224447691770"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1440,9 +1441,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "질문",
+  "tone": "짧게",
   "hooks": [
-   "오늘 제일 놀란 소식",
    "이 소식 어떻게 생각하세요?",
    "안세영 근황 정리해봄",
    "오스틴 소식 들으셨어요?",
@@ -1456,10 +1456,10 @@
    "오늘 많이 찾아보신 소식이에요",
    "지금 많이 보는 스포츠 뉴스",
    "와 류지현 이런 일이 있었네",
-   "손아섭 소식 들으셨어요?"
+   "손아섭 소식 들으셨어요?",
+   "오늘의 스포츠 소식"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224447691770",
    "https://blog.naver.com/dkdk521/224447684058",
    "https://blog.naver.com/dkdk521/224447666739",
    "https://blog.naver.com/dkdk521/224448254526",
