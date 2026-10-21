@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-21 19:03",
+ "updated": "2026-10-21 19:36",
  "items": [
+  {
+   "kw": "박보경",
+   "traffic": "500+",
+   "when": "10월 21일 18:30",
+   "news": [
+    {
+     "title": "[Y터뷰] '로또 1등' 하율리 \"이준혁 vs 서현우, 실제라면 더 의지할 상사는?\"",
+     "url": "https://www.ytn.co.kr/_ln/0117_202610211046115818_",
+     "source": "YTN"
+    },
+    {
+     "title": "박보경 \"저도 두 아이 키우며 복귀…워킹맘 위대함 담고 싶었죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261020111700005",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "손아섭",
+   "traffic": "1000+",
+   "when": "10월 21일 18:30",
+   "news": [
+    {
+     "title": "'16억+@'에 롯데 떠난 손아섭은 지금.. 20억 포기한 박용택은 LG 영구결번",
+     "url": "https://www.chosun.com/sports/baseball/2026/10/21/GJTGIN3BGVQTGOLFMJRGKYLBGY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "고작 30살인데 방출 충격! 제2의 김동주로 불렸던 거포, 11년 프로생활 끝→왜 고개 숙였나 “죄송한 마음 갖고 떠난다”",
+     "url": "https://www.osen.co.kr/article/G1112896034",
+     "source": "OSEN"
+    }
+   ]
+  },
+  {
+   "kw": "죽음",
+   "traffic": "5000+",
+   "when": "10월 21일 18:10",
+   "news": [
+    {
+     "title": "가족 있는데 '무연고'...장례까지 '258일'",
+     "url": "https://www.tbc.co.kr/news/view?pno=20261013154818AE06772&id=212064&c1=code&c2=",
+     "source": "Tbc.co.kr"
+    },
+    {
+     "title": "[새벽메아리]혼자 맞는 죽음, 무엇이 두려운가?",
+     "url": "https://www.jjan.kr/article/20261020500248",
+     "source": "전북일보 인터넷신문"
+    }
+   ]
+  },
+  {
+   "kw": "현대로보틱스",
+   "traffic": "200+",
+   "when": "10월 21일 18:10",
+   "news": [
+    {
+     "title": "HD현대로보틱스, 피지컬 AI 기반 ’휴머노이드’ 공개",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021145639y8j",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "대구시, 'FIX 2026 혁신상' 31개 혁신기업 선정… 22일 시상식 개최",
+     "url": "https://www.etnews.com/20261021000440",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "한문철",
+   "traffic": "100+",
+   "when": "10월 21일 18:10",
+   "news": [
+    {
+     "title": "주차 빌런에 공중 배달까지…테슬라 ‘로드스터’ 패러디 봇물",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8689506",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "'제로백 1초' 순간 바나나 '뚝'‥3일 만에 찾아내자 \"알아챘네\"",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6859376_36925.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "추위",
+   "traffic": "1000+",
+   "when": "10월 21일 18:10",
+   "news": [
+    {
+     "title": "[날씨] 비구름 뒤 찬바람…한낮 쌀쌀, 내일 한파주의보",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261021131138Hq8",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "낮부터 찬 바람 유입...내일 곳곳 영하권 ‘반짝 추위’",
+     "url": "https://www.chosun.com/national/transport-environment/2026/10/21/TAK7T3MHGBHMLK5VURKR75YCHA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "알렉산더 볼카노프스키",
+   "traffic": "100+",
+   "when": "10월 21일 18:00",
+   "news": []
+  },
   {
    "kw": "저축",
    "traffic": "2000+",
@@ -12,26 +120,9 @@
      "source": "연합뉴스"
     },
     {
-     "title": "핀다, 대원저축은행 인수 승인…대출 중개업체서 저축은행 대주주로",
-     "url": "https://biz.chosun.com/stock/stock_general/2026/10/21/GM2TCMZVGE2TMNJVGBRWCMRWGI/",
+     "title": "핀다, 국내 핀테크 최초 저축은행업 진출… 대원저축은행 인수 승인 - 조선비즈",
+     "url": "https://biz.chosun.com/stock/finance/2026/10/21/HBW5XAK24VEJ3BMK3YTK3PBDLE/",
      "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "광주 도시철도 2호선",
-   "traffic": "200+",
-   "when": "10월 21일 17:40",
-   "news": [
-    {
-     "title": "내년 시운전 광주도시철도 2호선",
-     "url": "https://mobile.newsis.com/photo/NISI20261021_0021498188",
-     "source": "뉴시스"
-    },
-    {
-     "title": "[르포] \"앉을 자리 고작 36개뿐인데…\" 광주 2호선 '지옥철' 되나",
-     "url": "https://www.newspim.com/news/view/20261021000799",
-     "source": "뉴스핌"
     }
    ]
   },
@@ -66,97 +157,6 @@
      "title": "오늘(10월 21일) 2026년 전국 여자 배구 선수권 대회 경기 일정",
      "url": "https://ko.laodong.vn/lich-thi-dau/lich-thi-dau-bong-chuyen-nu-vo-dich-quoc-gia-2026-hom-nay-2110-1786619.ldo",
      "source": "Laodong.vn"
-    }
-   ]
-  },
-  {
-   "kw": "대상포진 백신",
-   "traffic": "2000+",
-   "when": "10월 21일 17:30",
-   "news": [
-    {
-     "title": "[HIT알공] 유바이오로직스, 대상포진 백신 'EuHZV주' 2상 신청",
-     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80091",
-     "source": "히트뉴스"
-    },
-    {
-     "title": "유바이오로직스, 대상포진 백신 EuHZV 국내 1상 결과 발표",
-     "url": "https://www.datatooza.com/article/2026102117585124752ef3b901a_80",
-     "source": "데이터투자"
-    }
-   ]
-  },
-  {
-   "kw": "김다영",
-   "traffic": "500+",
-   "when": "10월 21일 17:30",
-   "news": [
-    {
-     "title": "로마로 신혼여행 간 김다영, ♥배성재 볼에 뽀뽀 세례 “남편 섬기겠다”",
-     "url": "https://www.sedaily.com/article/20104166",
-     "source": "서울경제"
-    },
-    {
-     "title": "'배성재♥' 김다영, 벌써 만삭 같은 D라인…\"눈사람 됐다\" 깜짝 [★해시태그]",
-     "url": "https://www.xportsnews.com/article/2209962",
-     "source": "www.xportsnews.com"
-    }
-   ]
-  },
-  {
-   "kw": "청라국제도시",
-   "traffic": "200+",
-   "when": "10월 21일 17:30",
-   "news": [
-    {
-     "title": "인천경제청, 청라영상문화복합단지 개발계획 변경 승인…2031년 준공 목표",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=719191",
-     "source": "뉴스타운"
-    },
-    {
-     "title": "[패트롤] 강원도-강원교육청-춘천시-원주시",
-     "url": "https://m.ekn.kr/view.php?key=20261020028378862",
-     "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "김천김밥축제",
-   "traffic": "200+",
-   "when": "10월 21일 17:30",
-   "news": []
-  },
-  {
-   "kw": "송가 인",
-   "traffic": "5000+",
-   "when": "10월 21일 17:20",
-   "news": [
-    {
-     "title": "안성훈, ‘미스터트롯2’ 상금 5억으로 부모님 집 마련…“카드도 못 써”",
-     "url": "https://sports.donga.com/ent/article/all/20261021/134881885/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "안성훈 “무명시절, 송가인이 매니저 역할” (편스토랑)",
-     "url": "https://sports.khan.co.kr/article/202610211500003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "밀워키 브루어스",
-   "traffic": "500+",
-   "when": "10월 21일 17:20",
-   "news": [
-    {
-     "title": "월드시리즈 진출 밀워키, 11년 전 고액 입장권 구매한 팬들 홀대",
-     "url": "https://www.yna.co.kr/view/AKR20261021038700007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "MVP가 되어 다시 만났다! 나를 버린 팀을 상대로 창단 첫 우승 정조준…46년만의 '무관'시리즈, 한쪽은 반드시 성불한다",
-     "url": "https://www.chosun.com/sports/world-baseball/2026/10/21/MMZTCMTDMU4TEN3CMM2TQNZVG4/",
-     "source": "조선일보"
     }
    ]
   }
