@@ -1,6 +1,23 @@
 {
- "updated": "2026-10-21 19:36",
+ "updated": "2026-10-21 19:44",
  "items": [
+  {
+   "kw": "국가유공자",
+   "traffic": "200+",
+   "when": "10월 21일 18:40",
+   "news": [
+    {
+     "title": "김상욱 울산시장, 호국보훈가족 한마음 위안행사 참석",
+     "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065594189786625",
+     "source": "울산종합일보"
+    },
+    {
+     "title": "의정부시, 메모리얼파크서 ‘보훈가족 문화의 날’ 개최",
+     "url": "https://view.asiae.co.kr/article/2026102110211822834",
+     "source": "아시아경제"
+    }
+   ]
+  },
   {
    "kw": "박보경",
    "traffic": "500+",
@@ -97,9 +114,9 @@
      "source": "연합뉴스TV"
     },
     {
-     "title": "낮부터 찬 바람 유입...내일 곳곳 영하권 ‘반짝 추위’",
-     "url": "https://www.chosun.com/national/transport-environment/2026/10/21/TAK7T3MHGBHMLK5VURKR75YCHA/",
-     "source": "조선일보"
+     "title": "내일 아침 곳곳 5도 이하로…금요일에 추위 풀려",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8691318",
+     "source": "KBS 뉴스"
     }
    ]
   },
@@ -108,23 +125,6 @@
    "traffic": "100+",
    "when": "10월 21일 18:00",
    "news": []
-  },
-  {
-   "kw": "저축",
-   "traffic": "2000+",
-   "when": "10월 21일 17:40",
-   "news": [
-    {
-     "title": "핀다, 대원저축은행 품고 여수신 기능 탑재…금융위 최종 승인",
-     "url": "https://www.yna.co.kr/view/AKR20261021158900002",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "핀다, 국내 핀테크 최초 저축은행업 진출… 대원저축은행 인수 승인 - 조선비즈",
-     "url": "https://biz.chosun.com/stock/finance/2026/10/21/HBW5XAK24VEJ3BMK3YTK3PBDLE/",
-     "source": "Chosunbiz"
-    }
-   ]
   },
   {
    "kw": "디에이치",
@@ -144,19 +144,19 @@
    ]
   },
   {
-   "kw": "여자 배구",
-   "traffic": "100+",
+   "kw": "저축",
+   "traffic": "2000+",
    "when": "10월 21일 17:40",
    "news": [
     {
-     "title": "전국 여자 배구 선수권 대회의 멋진 경기들.",
-     "url": "https://www.vietnam.vn/ko/man-nhan-nhung-man-tranh-tai-tai-giai-bong-chuyen-nu-vo-dich-quoc-gia",
-     "source": "Vietnam.vn"
+     "title": "핀다, 대원저축은행 품고 여수신 기능 탑재…금융위 최종 승인",
+     "url": "https://www.yna.co.kr/view/AKR20261021158900002",
+     "source": "연합뉴스"
     },
     {
-     "title": "오늘(10월 21일) 2026년 전국 여자 배구 선수권 대회 경기 일정",
-     "url": "https://ko.laodong.vn/lich-thi-dau/lich-thi-dau-bong-chuyen-nu-vo-dich-quoc-gia-2026-hom-nay-2110-1786619.ldo",
-     "source": "Laodong.vn"
+     "title": "핀다, 국내 핀테크 최초 저축은행업 진출… 대원저축은행 인수 승인 - 조선비즈",
+     "url": "https://biz.chosun.com/stock/finance/2026/10/21/HBW5XAK24VEJ3BMK3YTK3PBDLE/",
+     "source": "Chosunbiz"
     }
    ]
   }
