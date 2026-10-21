@@ -23,6 +23,8 @@
 | 링크 미리보기 이미지 | `docs/og/*.png` + 각 페이지 `og:` 태그 |
 | AI 도구(클로드 아티팩트) | 수익화 모음 https://claude.ai/artifact/JXErbBjjxvVZZTJTGg8YUU#도구id, 스레드&블로그 7mHh5qotz2BZs2hAGaZqCy, 애드센스 SssqzWjuN1upAPd8cHYX5i, 키워드 2nHhx1ejsgFDhuRHj6qBjR, 이미지 6Bc7Db265UTAbCfgcEX7Sv |
 
+휴대폰 화면(640px 이하, `collect.py` PAGE): 네이버 앱처럼 큰 금색 검색창 · 옆으로 넘기는 바로가기 카드(`.mhome`) · 실시간 검색어 한 줄(`/ai/trends.json`) · 아래 고정 메뉴(`.mnav`: 쇼핑·뉴스·AI 직원·키워드·생활찾기). 맨 위 구글 앵커 광고가 화면을 가림 → 끌지는 사용자 결정 대기.
+
 메뉴(맨 위): 쇼핑 · 뉴스 · AI 직원 · 💰 지원금 찾기(index01.pantaqi100.com) · 💊 전국 24시 심야약국(post0020.papalaqi.com) · ⛳ 파크골프장 찾기(pantaqidex14.papalaqi.com)
 
 ## 꼭 지킬 규칙
