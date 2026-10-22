@@ -66,9 +66,9 @@ def main(once=False):
             return
 
     items = trends.fetch()
-    # 사건·사고 키워드는 글감으로 위험해 빼고, 위에서부터 10개
-    seeds = [it["kw"] for it in items
-             if not any(w in " ".join(n["title"] for n in it["news"]) for w in trends.CAUTION)][:10]
+    # 사건·사고 키워드는 글감으로 위험해 빼고, 키워드 서버가 받는 40자 이하만 위에서부터 10개
+    seeds = [it["kw"] for it in items if len(it["kw"]) <= 40
+             and not any(w in " ".join(n["title"] for n in it["news"]) for w in trends.CAUTION)][:10]
     if not seeds:
         raise SystemExit("씨앗 키워드(실시간 검색어)를 못 가져왔어요")
     best, total = pick(seeds)
