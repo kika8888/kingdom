@@ -119,14 +119,14 @@ def report(kind, start, end):
 
 # ── 알림 / 요약 ──────────────────────────────────────────────
 
-def notify(text):
+def notify(text, link=None, button="KINGDOM 열기"):
     """카카오톡(나에게 보내기)·텔레그램 중 설정된 곳으로 보낸다. 없으면 조용히 넘어간다.
     실패한 곳의 이유 목록을 돌려준다 (실적 알림은 이걸 보고 작업을 실패로 표시한다)."""
     sent = False
     errors = []
     if os.environ.get("KAKAO_REST_KEY", "").strip() and os.environ.get("KAKAO_REFRESH_TOKEN", "").strip():
         try:
-            kakao_send(text)
+            kakao_send(text, link or KAKAO_SITE, button)
             sent = True
         except Exception as e:
             print("카카오톡 전송 실패:", e)
@@ -188,12 +188,13 @@ def kakao_token(**data):
     return tok
 
 
-def kakao_send(text):
+def kakao_send(text, link=KAKAO_SITE, button="KINGDOM 열기"):
     tok = kakao_token(grant_type="refresh_token", refresh_token=os.environ["KAKAO_REFRESH_TOKEN"].strip())
     if tok.get("refresh_token"):   # 만료 한 달 전부터 새 refresh_token 이 온다
         save_secret("KAKAO_REFRESH_TOKEN", tok["refresh_token"])
-    template = {"object_type": "text", "text": text[:200], "button_title": "KINGDOM 열기",
-                "link": {"web_url": KAKAO_SITE, "mobile_web_url": KAKAO_SITE}}
+    # 링크는 카카오 앱에 등록한 도메인(kingdom.papalaqi.com) 안의 주소만 열린다
+    template = {"object_type": "text", "text": text[:200], "button_title": button,
+                "link": {"web_url": link, "mobile_web_url": link}}
     body = urllib.parse.urlencode({"template_object": json.dumps(template, ensure_ascii=False)}).encode()
     req = urllib.request.Request("https://kapi.kakao.com/v2/api/talk/memo/default/send", data=body)
     req.add_header("Authorization", f"Bearer {tok['access_token']}")
