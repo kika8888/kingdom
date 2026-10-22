@@ -38,9 +38,7 @@
 - [ ] 지원금·심야약국·파크골프장(블로그스팟) 테마 `<head>`에 og 태그 붙이기 — 사용자가 직접. 코드는 이미지 `https://kingdom.papalaqi.com/og/support.png`, `pharmacy.png`, `parkgolf.png` 사용.
 - [ ] 벤치마킹 글쓰기 도구 — 사용자가 "나중에" (아백 화면 캡처 받으면 다시).
 - [ ] 아이디어(사용자 결정 대기): Cloudflare Cron으로 GitHub 예약 실행 깨우기.
-- [x] 매일 아침 S급 키워드 카톡 (2026-10-22 완료, 시험 발송 성공).
-- [ ] 워크플로에 `keywords` 수동 실행 추가는 못 함 — 토큰에 Workflows 권한이 없음(.github 수정 403). 필요하면 토큰에 Workflows Read and write 추가.
-- 조회수·수익 부진(쿠팡 하루 클릭 ~5, 수익 ~1,000원) — 블로그→스레드 사진 방식 바꾼 효과를 지켜보는 중.
+- [x] 매일 아침 S급 키워드 카톡 (2026-10-22 완료, 시험 발송 성공).- 조회수·수익 부진(쿠팡 하루 클릭 ~5, 수익 ~1,000원) — 블로그→스레드 사진 방식 바꾼 효과를 지켜보는 중.
 
 ## 작업 방법 메모
 - 커밋은 GitHub Contents API로(토큰 필요: 회사 PC `C:\Users\부자재창고\kingdom\github_token.txt`. 다른 PC면 새로 발급 — github.com/settings/personal-access-tokens/new, kika8888/kingdom만, Contents·Actions Read and write).
