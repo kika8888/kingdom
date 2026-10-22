@@ -1,7 +1,7 @@
 # KINGDOM 이어서 하기 메모 (다른 컴퓨터·새 대화용)
 
 > 집이나 다른 컴퓨터에서 Claude에게: **"github.com/kika8888/kingdom 의 HANDOFF.md 읽고 이어서 해줘"**
-> 마지막 업데이트: 2026-10-21
+> 마지막 업데이트: 2026-10-22
 
 ## 사용자
 - 비개발자. 한국어로 짧고 쉽게, 한 번에 한 단계씩 안내. 캡처를 보내며 진행.
@@ -16,6 +16,7 @@
 | 블로그→스레드 (연예 @yesol276, 스포츠 @pantaqi9988, 매시 47분) | `blog_threads.py` — 글 + 블로그 사진 2장 + 첫 댓글 링크 |
 | 자동 영상 | `make_video.py` |
 | 카톡 실적 보고 | `report.py` (최근 7일 포함) |
+| 아침 S급 키워드 카톡 | `morning_keywords.py` — 매시간 collect 가 07시 이후 하루 한 번. 실시간 검색어 10개를 씨앗으로 키워드 서버 연관어 → S급(모자라면 A급) 5개. 보낸 날짜 `docs/keyword_sent.txt` |
 | 워크플로 | `.github/workflows/kingdom.yml` (task: collect, threads, blog, report …) |
 | AI 직원 페이지 | `docs/ai/index.html` — 탭: 전체·인턴·MD(상품기획자)·에이스·지원팀·전략팀·영업기획팀, 버튼 "업무 맡기기" |
 | 키워드 검색 | `docs/ai/keyword.html` → Cloudflare Worker `https://kingdom-keyword.pantaqi999.workers.dev` (코드 `worker/keyword-worker.js`, 키는 Cloudflare Secrets) |
@@ -36,7 +37,9 @@
 ## 진행 중 / 남은 일
 - [ ] 지원금·심야약국·파크골프장(블로그스팟) 테마 `<head>`에 og 태그 붙이기 — 사용자가 직접. 코드는 이미지 `https://kingdom.papalaqi.com/og/support.png`, `pharmacy.png`, `parkgolf.png` 사용.
 - [ ] 벤치마킹 글쓰기 도구 — 사용자가 "나중에" (아백 화면 캡처 받으면 다시).
-- [ ] 아이디어(사용자 결정 대기): Cloudflare Cron으로 GitHub 예약 실행 깨우기, 매일 아침 S급 키워드 카톡 발굴.
+- [ ] 아이디어(사용자 결정 대기): Cloudflare Cron으로 GitHub 예약 실행 깨우기.
+- [x] 매일 아침 S급 키워드 카톡 (2026-10-22 완료, 시험 발송 성공).
+- [ ] 워크플로에 `keywords` 수동 실행 추가는 못 함 — 토큰에 Workflows 권한이 없음(.github 수정 403). 필요하면 토큰에 Workflows Read and write 추가.
 - 조회수·수익 부진(쿠팡 하루 클릭 ~5, 수익 ~1,000원) — 블로그→스레드 사진 방식 바꾼 효과를 지켜보는 중.
 
 ## 작업 방법 메모
