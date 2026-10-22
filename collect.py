@@ -679,7 +679,17 @@ def trends_backup():
         print("실시간 키워드 갱신 실패:", ex)
 
 
+def keywords_backup():
+    """☀️ 아침 7시 이후 첫 수집 때 오늘의 S급 키워드를 카톡으로 한 번 보낸다. 실패해도 수집에는 영향 없음."""
+    try:
+        import morning_keywords
+        morning_keywords.main(once=True)
+    except BaseException as ex:
+        print("아침 키워드 알림 실패:", ex)
+
+
 if __name__ == "__main__":
     main()
     trends_backup()
     report_backup()
+    keywords_backup()
