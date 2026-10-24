@@ -79,7 +79,8 @@
    "https://blog.naver.com/soduwk1209/224447241918",
    "https://blog.naver.com/soduwk1209/224448476079",
    "https://blog.naver.com/soduwk1209/224448470712",
-   "https://blog.naver.com/soduwk1209/224449492167"
+   "https://blog.naver.com/soduwk1209/224449492167",
+   "https://blog.naver.com/soduwk1209/224449480892"
   ],
   "started": true,
   "v": 2,
@@ -533,9 +534,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "짧게",
+  "tone": "친구",
   "hooks": [
-   "이 소식 진짜 의외다",
    "윤유선 관련 소식 전해 드려요",
    "강동원 근황 정리해봄",
    "화제의 소식",
@@ -549,10 +549,10 @@
    "와 하이킥 이런 일이 있었네",
    "다들 이거 아셨어요?",
    "이혼남 이야기, 무슨 일인지 짚어봤어요",
-   "오늘의 연예 소식"
+   "오늘의 연예 소식",
+   "오늘 이 소식 다들 봤지?"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224449480892",
    "https://blog.naver.com/soduwk1209/224449469711",
    "https://blog.naver.com/soduwk1209/224449700553",
    "https://blog.naver.com/soduwk1209/224449705918",
@@ -665,7 +665,8 @@
    "https://blog.naver.com/dkdk521/224450861073",
    "https://blog.naver.com/dkdk521/224450870031",
    "https://blog.naver.com/dkdk521/224450869031",
-   "https://blog.naver.com/dkdk521/224451515595"
+   "https://blog.naver.com/dkdk521/224451515595",
+   "https://blog.naver.com/dkdk521/224451483172"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1542,9 +1543,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "질문",
+  "tone": "친구",
   "hooks": [
-   "마라톤 어떻게 된 일일까요?",
    "김민재 근황",
    "다들 이거 아셨어요?",
    "최하위 무슨 일이야?",
@@ -1558,10 +1558,10 @@
    "다들 이거 아셨어요?",
    "이 소식 진짜 의외다",
    "구자욱 이야기, 무슨 일인지 짚어봤어요",
-   "김호령 어떻게 된 일일까요?"
+   "김호령 어떻게 된 일일까요?",
+   "한국행 얘기 봤어?"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224451483172",
    "https://blog.naver.com/dkdk521/224451469770",
    "https://blog.naver.com/dkdk521/224451547267",
    "https://blog.naver.com/dkdk521/224451538130",
