@@ -1,162 +1,173 @@
 {
- "updated": "2026-10-24 14:43",
+ "updated": "2026-10-24 19:49",
  "items": [
   {
-   "kw": "안양 대 전북",
-   "traffic": "2000+",
-   "when": "10월 24일 13:20",
+   "kw": "인플루엔자",
+   "traffic": "100+",
+   "when": "10월 24일 18:40",
    "news": [
     {
-     "title": "\"힘들지만 둘 다 놓칠 수 없다\" K리그1와 ACLE 병행하는 정정용 감독, 두 마리 토끼 사냥 나선다 [SPO 현장]",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015093",
-     "source": "SPOTV NEWS"
+     "title": "제주도, 26일부터 보건소서 독감 무료 예방접종",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=845175",
+     "source": "제민일보"
     },
     {
-     "title": "티아고 시즌 10골+MVP 만들어준 이승우의 환상적인 노룩패스…“거기 있을 줄 알았어” '환상적인 케미 대폭발 [오!쎈 전주] - 조선비즈",
-     "url": "https://biz.chosun.com/sports/football/2026/10/21/GA3GIMTFHA2WIMZRHFTDGM3DMY/",
+     "title": "26일부터 제주서 인플루엔자 무료 예방 접종",
+     "url": "https://m.ihalla.com/article.php?aid=1792720837791946044",
+     "source": "한라일보"
+    }
+   ]
+  },
+  {
+   "kw": "부산항",
+   "traffic": "5000+",
+   "when": "10월 24일 18:30",
+   "news": [
+    {
+     "title": "[속보]이틀간 사라졌던 ‘부캉이’ 다시 나타나…최종 목격지점서 2㎞ 떨어진 곳서 유영",
+     "url": "https://www.munhwa.com/article/11625921",
+     "source": "문화일보"
+    },
+    {
+     "title": "아침부터 모습 감춘 상어 ‘부캉이’ 어디로 갔나···“잠영하며 바다 적응 하는 듯”",
+     "url": "https://www.khan.co.kr/article/202610231824001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "붕어빵",
+   "traffic": "2000+",
+   "when": "10월 24일 18:30",
+   "news": [
+    {
+     "title": "광명 ‘붕은우’가 누구길래···붕어빵 사려고 2시간씩 기다리는 사람들",
+     "url": "https://www.khan.co.kr/article/202610231536001",
+     "source": "경향신문"
+    },
+    {
+     "title": "\"9시간 걸려도 보러 간다\"…광명 '붕은우', 방송 제의에는 \"붕어빵 구워야 해요\"",
+     "url": "https://www.newsis.com/view/NISX20261024_0003839541",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "호나우지뉴",
+   "traffic": "200+",
+   "when": "10월 24일 18:30",
+   "news": [
+    {
+     "title": "‘브라질 축구 레전드’ 호나우지뉴, 내달 11년만에 그라운드 복귀",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8694273",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "“46세에 현역이라니, 역시 외계인”···‘브라질 축구 레전드’ 호나우지뉴, 다음달 11년 만에 그라운드 복귀",
+     "url": "https://www.khan.co.kr/article/202610241432001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "놀면 뭐하니?",
+   "traffic": "200+",
+   "when": "10월 24일 18:20",
+   "news": [
+    {
+     "title": "‘놀면 뭐하니?’ 유재석·정준하, 주우재·곽범에 발끈…‘먹쪄 모임’ 뒤집은 막내들의 반란",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=845185",
+     "source": "제민일보"
+    },
+    {
+     "title": "유재석, ‘먹쪄’ 계원들 먹성 폭주하자 ‘돈 싸대기’로 진압 (놀뭐)",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522297",
+     "source": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "kw": "오픈ai",
+   "traffic": "200+",
+   "when": "10월 24일 18:20",
+   "news": [
+    {
+     "title": "오픈AI, 차세대 인공지능 훈련 재개…인터넷 차단·보안 검증 강화로 안전성 높인다.",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=845182",
+     "source": "제민일보"
+    },
+    {
+     "title": "오픈AI, 'AI 안전' 목소리 낸 연구원 3명 해고…기밀 유출 의혹 공방",
+     "url": "https://www.newsis.com/view/NISX20261023_0003838448",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "김남춘",
+   "traffic": "100+",
+   "when": "10월 24일 18:10",
+   "news": [
+    {
+     "title": "FC Seoul captures first K League 1 championship in a decade",
+     "url": "https://www.koreajoongangdaily.com/sports/fc-seoul-captures-first-k-league-1-championship-in-a-decadenbsp/12936376",
+     "source": "Korea JoongAng Daily"
+    },
+    {
+     "title": "[Photo]Hwang Mun-gi tugs Andersen's uniform, trying to stop him - CHOSUNBIZ",
+     "url": "https://biz.chosun.com/en/en-photo-spo/2026/10/24/TJ23OPOG2JHCLJNHA7ZGFEUJG4/",
      "source": "Chosunbiz"
     }
    ]
   },
   {
-   "kw": "fc 서울 대 강원",
-   "traffic": "2000+",
-   "when": "10월 24일 13:20",
+   "kw": "여객",
+   "traffic": "200+",
+   "when": "10월 24일 18:10",
    "news": [
     {
-     "title": "'이기면 우승' FC서울 김기동 감독, 두 손 쥐고 \"오늘 끝내길\"",
-     "url": "https://www.yna.co.kr/view/AKR20261024031000007",
-     "source": "연합뉴스"
+     "title": "인천공항서 빵 봉지에 불 지른 60대 남성 검거",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8693673",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "서울, 조기우승까지 ’승점 3’…상암 팬들로 북적",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024140600Omk",
-     "source": "연합뉴스TV"
+     "title": "새벽 인천공항 터미널서 라이터로 불…시민이 소화기로 끄고 제압",
+     "url": "https://www.kyeonggi.com/article/20261023580101",
+     "source": "경기일보"
     }
    ]
   },
   {
-   "kw": "인천 대 제주",
-   "traffic": "1000+",
-   "when": "10월 24일 13:20",
-   "news": []
-  },
-  {
-   "kw": "낚시",
-   "traffic": "500+",
-   "when": "10월 24일 13:20",
+   "kw": "설인아",
+   "traffic": "100+",
+   "when": "10월 24일 18:10",
    "news": [
     {
-     "title": "공원 연못서 낚은 몸통만한 잉어 메고 떠난 여성 놓고 ‘와글와글’",
-     "url": "https://www.donga.com/news/Inter/article/all/20261023/134899915/2",
+     "title": "임시완 “피부과 이렇게 열심히 간 건 태어나서 처음” (살롱드립)[어제TV]",
+     "url": "https://m.newsen.com/news_view.php?uid=202610210706391710",
+     "source": "뉴스엔"
+    },
+    {
+     "title": "설인아 “숨이 안 쉬어져”⋯남장 위해 가슴에 한 ‘이것’, 소화까지 힘들었다고?",
+     "url": "https://kormedi.com/2885829/",
+     "source": "코메디닷컴"
+    }
+   ]
+  },
+  {
+   "kw": "이선민",
+   "traffic": "200+",
+   "when": "10월 24일 18:10",
+   "news": [
+    {
+     "title": "이선민, ‘모태 마름’ 코쿤 벌크업 나섰다…‘밥도둑 식단’ 도전",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261023/134896492/1",
      "source": "동아일보"
     },
     {
-     "title": "’거대 잉어’ 업고 유유히…“공원 불법 낚시“·“외래종 제거“ 논쟁",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021173732wVD",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "삼성전기",
-   "traffic": "2000+",
-   "when": "10월 24일 13:10",
-   "news": [
-    {
-     "title": "삼성전기·LG이노텍 실적 희비…AI 전략 달랐다",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172654",
-     "source": "IT조선"
-    },
-    {
-     "title": "[단독] 빅테크, 첨단기판 못구해 발동동 … 韓·日공장 증설에 돈 쏟아부어",
-     "url": "https://www.mk.co.kr/news/business/12183246",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "김천상무 대 대전",
-   "traffic": "1000+",
-   "when": "10월 24일 13:10",
-   "news": [
-    {
-     "title": "김천상무, 대전 상대로 정규라운드 유종의 미 도전!",
-     "url": "https://www.dailydgnews.com/news/article.html?no=266752",
-     "source": "데일리대구경북뉴스"
-    },
-    {
-     "title": "김천상무, '든든한 동반자' 후원회 후원금 전달식 진행:중수청일보",
-     "url": "https://unionilbo.com/2228778",
-     "source": "중수청일보"
-    }
-   ]
-  },
-  {
-   "kw": "노태문",
-   "traffic": "200+",
-   "when": "10월 24일 13:10",
-   "news": [
-    {
-     "title": "삼성전자 노조, 합의 5개월 만에 ‘반도체 성과급’ 개선 요구 반영 추진… 개선안 81% 찬성 - 조선비즈",
-     "url": "https://biz.chosun.com/it-science/ict/2026/10/22/6G33IGWRFNAFTMBSTTNHKHXQTE/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "삼성 DX 타운홀 돌연 연기…성과급 격차가 키운 '노사 리스크'",
-     "url": "https://www.etnews.com/20261020000388",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "lakers vs clippers",
-   "traffic": "100+",
-   "when": "10월 24일 13:10",
-   "news": [
-    {
-     "title": "TST Images: Lakers defeat Clippers, 125-117, at Crypto.com Arena",
-     "url": "https://www.thesportingtribune.com/2026/10/23/261023-clippers-at-lakers",
-     "source": "The Sporting Tribune"
-    },
-    {
-     "title": "Lakers player grades: Lakers get past Clippers, improve to 2-0",
-     "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/23/lakers-player-grades-lakers-get-past-clippers-improve-to-2-0/92411390007/",
-     "source": "Lakers Wire"
-    }
-   ]
-  },
-  {
-   "kw": "신상출시 편스토랑",
-   "traffic": "200+",
-   "when": "10월 24일 13:00",
-   "news": [
-    {
-     "title": "도경완, '120억 집' 관리비에 한숨…\"애들 변기 물도 못 내리게 해\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102411282968011",
-     "source": "머니투데이"
-    },
-    {
-     "title": "“괜히 들어갔네” 도경완도 물렸다…고점 대비 89% 폭락한 이 상품",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=02578086645615872&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "성심당",
-   "traffic": "500+",
-   "when": "10월 24일 13:00",
-   "news": [
-    {
-     "title": "‘성심당 싹쓸이 논란’ 이지혜, 유튜브로 본격해명… 스태프 몫 합쳐 ‘총 7개’",
-     "url": "https://sports.khan.co.kr/article/202610230006003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "이지혜, 성심당 '싹쓸이 논란' 직접 나섰다…영상 공개하며 '억울함' 토로 ('관종언니')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MQ4DMMZSHFSGCYJWGMZDAMRWHA/",
-     "source": "조선일보"
+     "title": "‘나혼산’ 코쿤-이선민 ‘산스장’ 접수→김민, 동두천시 운동회 출격",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/522305",
+     "source": "iMBC 연예"
     }
    ]
   }
