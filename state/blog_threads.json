@@ -75,7 +75,8 @@
    "https://blog.naver.com/soduwk1209/224447070128",
    "https://blog.naver.com/soduwk1209/224447130776",
    "https://blog.naver.com/soduwk1209/224447123039",
-   "https://blog.naver.com/soduwk1209/224447750610"
+   "https://blog.naver.com/soduwk1209/224447750610",
+   "https://blog.naver.com/soduwk1209/224447241918"
   ],
   "started": true,
   "v": 2,
@@ -521,9 +522,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "친구",
+  "tone": "감탄",
   "hooks": [
-   "임영웅 무슨 일이야?",
    "부친상 근황",
    "오늘 제일 놀란 소식",
    "이거 보고 놀람",
@@ -537,10 +537,10 @@
    "임찬규 근황 정리해봄",
    "이다해 이야기 듣고 깜짝",
    "오늘 많이 찾아보신 소식이에요",
-   "한블리 무슨 일이야?"
+   "한블리 무슨 일이야?",
+   "와 하이킥 이런 일이 있었네"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224447241918",
    "https://blog.naver.com/soduwk1209/224448476079",
    "https://blog.naver.com/soduwk1209/224448470712",
    "https://blog.naver.com/soduwk1209/224449492167",
@@ -645,7 +645,8 @@
    "https://blog.naver.com/dkdk521/224450455397",
    "https://blog.naver.com/dkdk521/224450448441",
    "https://blog.naver.com/dkdk521/224450858332",
-   "https://blog.naver.com/dkdk521/224450463256"
+   "https://blog.naver.com/dkdk521/224450463256",
+   "https://blog.naver.com/dkdk521/224450861073"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1522,9 +1523,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "감탄",
+  "tone": "질문",
   "hooks": [
-   "황희찬 근황",
    "이건 몰랐네",
    "이 소식 어떻게 생각하세요?",
    "오늘 제일 놀란 소식",
@@ -1538,10 +1538,10 @@
    "김도영 소식, 정리해 드릴게요",
    "반응이 이야기",
    "이거 보고 놀람",
-   "김영권 이야기 듣고 깜짝"
+   "김영권 이야기 듣고 깜짝",
+   "다들 이거 아셨어요?"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224450861073",
    "https://blog.naver.com/dkdk521/224450870031",
    "https://blog.naver.com/dkdk521/224450869031",
    "https://blog.naver.com/dkdk521/224451515595",
