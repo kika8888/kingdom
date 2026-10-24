@@ -1,151 +1,162 @@
 {
- "updated": "2026-10-24 09:37",
+ "updated": "2026-10-24 14:43",
  "items": [
   {
-   "kw": "cblol",
-   "traffic": "200+",
-   "when": "10월 24일 08:30",
-   "news": [
-    {
-     "title": "Worlds 2026: ''A gente não fica atrás em mecânica'', diz Duduhh sobre diferencial da LOS",
-     "url": "https://maisesports.com.br/cblol-2026-a-gente-nao-fica-atras-em-mecanica-diz-duduhh-sobre-diferencial-da-los",
-     "source": "Mais Esports"
-    },
-    {
-     "title": "Worlds 2026: ''O cansaço pesou bastante'', diz LOS Ackermann sobre 2v2 da bot-lane na reta final no Brasil",
-     "url": "https://maisesports.com.br/worlds-2026-o-cansaco-pesou-bastante-diz-los-ackermann-sobre-2v2-da-bot-lane-na-reta-final-no-brasil",
-     "source": "Mais Esports"
-    }
-   ]
-  },
-  {
-   "kw": "대구 날씨",
-   "traffic": "100+",
-   "when": "10월 24일 08:30",
-   "news": [
-    {
-     "title": "대구·경북 흐리거나 비…내일까지 예상 강수량 5∼60㎜",
-     "url": "https://www.yna.co.kr/view/AKR20261024007700053",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'태풍 참피 영향' 대구·경북 25일까지 최고 60mm 비...강풍 '유의'",
-     "url": "https://www.newspim.com/news/view/20261024000014",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "단체교섭",
-   "traffic": "200+",
-   "when": "10월 24일 08:00",
-   "news": [
-    {
-     "title": "“원·하청 상생” 내걸었지만…‘사용자성’ 놓고 진통",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693997",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "부산교통공사 노사 단체교섭 최종 타결‥총파업 철회",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6860154_36918.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "미래에셋증권",
-   "traffic": "100+",
-   "when": "10월 24일 08:00",
-   "news": [
-    {
-     "title": "이찬진 '스페이스X 0주' 野 보상촉구에…\"공감, 제재절차 진행\"",
-     "url": "https://www.yna.co.kr/view/AKR20261022171200002",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "금감원장 \"미래에셋 스페이스X 청약 보상 공감\" - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/10/22/2026102217003165426",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "颱風動態",
-   "traffic": "200+",
-   "when": "10월 24일 08:00",
-   "news": []
-  },
-  {
-   "kw": "조세",
+   "kw": "안양 대 전북",
    "traffic": "2000+",
-   "when": "10월 24일 07:50",
+   "when": "10월 24일 13:20",
+   "news": [
+    {
+     "title": "\"힘들지만 둘 다 놓칠 수 없다\" K리그1와 ACLE 병행하는 정정용 감독, 두 마리 토끼 사냥 나선다 [SPO 현장]",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015093",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "티아고 시즌 10골+MVP 만들어준 이승우의 환상적인 노룩패스…“거기 있을 줄 알았어” '환상적인 케미 대폭발 [오!쎈 전주] - 조선비즈",
+     "url": "https://biz.chosun.com/sports/football/2026/10/21/GA3GIMTFHA2WIMZRHFTDGM3DMY/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "fc 서울 대 강원",
+   "traffic": "2000+",
+   "when": "10월 24일 13:20",
+   "news": [
+    {
+     "title": "'이기면 우승' FC서울 김기동 감독, 두 손 쥐고 \"오늘 끝내길\"",
+     "url": "https://www.yna.co.kr/view/AKR20261024031000007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "서울, 조기우승까지 ’승점 3’…상암 팬들로 북적",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024140600Omk",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "인천 대 제주",
+   "traffic": "1000+",
+   "when": "10월 24일 13:20",
    "news": []
   },
   {
-   "kw": "조선소",
-   "traffic": "1000+",
-   "when": "10월 24일 07:50",
-   "news": [
-    {
-     "title": "‘마스가’ 첫발은 뗐지만... 인력 확보·일감 수주 ‘산 넘어 산’",
-     "url": "https://www.chosun.com/economy/industry-company/2026/10/24/RRVVEJ425NBCDFJ44SNCALOZ5E/",
-     "source": "조선일보"
-    },
-    {
-     "title": "美 조선업 재건 뛰어든 K조선…HD현대·한화, 현지 생산 '박차'",
-     "url": "https://www.newsis.com/view/NISX20261023_0003838882",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "cfo",
-   "traffic": "200+",
-   "when": "10월 24일 07:50",
-   "news": [
-    {
-     "title": "StoneX reiterates Hold on Nike stock after CFO meeting",
-     "url": "https://www.investing.com/news/analyst-ratings/stonex-reiterates-hold-on-nike-stock-after-cfo-meeting-93CH-4966818",
-     "source": "Investing.com"
-    },
-    {
-     "title": "NKE Stock In Focus: Barclays Raises Price Target To $45, Says Shares Are ‘Near Bottom’",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/nke-stock-focus-barclays-raises-113450381.html",
-     "source": "Yahoo Finance"
-    }
-   ]
-  },
-  {
-   "kw": "서울날씨",
-   "traffic": "100000+",
-   "when": "10월 24일 07:40",
-   "news": [
-    {
-     "title": "주말 태풍 ’참피’ 영향…제주·남해안 비바람",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261024083115GzK",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "태풍 '참피' 영향 남부·제주 많은 비에 강풍…전국 대체로 흐려",
-     "url": "https://www.yna.co.kr/view/AKR20261024017200530",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "선수",
+   "kw": "낚시",
    "traffic": "500+",
-   "when": "10월 24일 07:30",
+   "when": "10월 24일 13:20",
    "news": [
     {
-     "title": "“돌연 생리 터졌는데도 완주”…쉬쉬하던 女선수들 달라진 이유",
-     "url": "https://www.joongang.co.kr/article/25471632",
-     "source": "중앙일보"
+     "title": "공원 연못서 낚은 몸통만한 잉어 메고 떠난 여성 놓고 ‘와글와글’",
+     "url": "https://www.donga.com/news/Inter/article/all/20261023/134899915/2",
+     "source": "동아일보"
     },
     {
-     "title": "'피범벅 운동화' 이어 '생리통 투혼'…韓 마라톤, 또 울림",
-     "url": "https://www.nocutnews.co.kr/news/6594086",
-     "source": "노컷뉴스"
+     "title": "’거대 잉어’ 업고 유유히…“공원 불법 낚시“·“외래종 제거“ 논쟁",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261021173732wVD",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "삼성전기",
+   "traffic": "2000+",
+   "when": "10월 24일 13:10",
+   "news": [
+    {
+     "title": "삼성전기·LG이노텍 실적 희비…AI 전략 달랐다",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172654",
+     "source": "IT조선"
+    },
+    {
+     "title": "[단독] 빅테크, 첨단기판 못구해 발동동 … 韓·日공장 증설에 돈 쏟아부어",
+     "url": "https://www.mk.co.kr/news/business/12183246",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "김천상무 대 대전",
+   "traffic": "1000+",
+   "when": "10월 24일 13:10",
+   "news": [
+    {
+     "title": "김천상무, 대전 상대로 정규라운드 유종의 미 도전!",
+     "url": "https://www.dailydgnews.com/news/article.html?no=266752",
+     "source": "데일리대구경북뉴스"
+    },
+    {
+     "title": "김천상무, '든든한 동반자' 후원회 후원금 전달식 진행:중수청일보",
+     "url": "https://unionilbo.com/2228778",
+     "source": "중수청일보"
+    }
+   ]
+  },
+  {
+   "kw": "노태문",
+   "traffic": "200+",
+   "when": "10월 24일 13:10",
+   "news": [
+    {
+     "title": "삼성전자 노조, 합의 5개월 만에 ‘반도체 성과급’ 개선 요구 반영 추진… 개선안 81% 찬성 - 조선비즈",
+     "url": "https://biz.chosun.com/it-science/ict/2026/10/22/6G33IGWRFNAFTMBSTTNHKHXQTE/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "삼성 DX 타운홀 돌연 연기…성과급 격차가 키운 '노사 리스크'",
+     "url": "https://www.etnews.com/20261020000388",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "lakers vs clippers",
+   "traffic": "100+",
+   "when": "10월 24일 13:10",
+   "news": [
+    {
+     "title": "TST Images: Lakers defeat Clippers, 125-117, at Crypto.com Arena",
+     "url": "https://www.thesportingtribune.com/2026/10/23/261023-clippers-at-lakers",
+     "source": "The Sporting Tribune"
+    },
+    {
+     "title": "Lakers player grades: Lakers get past Clippers, improve to 2-0",
+     "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/23/lakers-player-grades-lakers-get-past-clippers-improve-to-2-0/92411390007/",
+     "source": "Lakers Wire"
+    }
+   ]
+  },
+  {
+   "kw": "신상출시 편스토랑",
+   "traffic": "200+",
+   "when": "10월 24일 13:00",
+   "news": [
+    {
+     "title": "도경완, '120억 집' 관리비에 한숨…\"애들 변기 물도 못 내리게 해\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/10/24/2026102411282968011",
+     "source": "머니투데이"
+    },
+    {
+     "title": "“괜히 들어갔네” 도경완도 물렸다…고점 대비 89% 폭락한 이 상품",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02578086645615872&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "성심당",
+   "traffic": "500+",
+   "when": "10월 24일 13:00",
+   "news": [
+    {
+     "title": "‘성심당 싹쓸이 논란’ 이지혜, 유튜브로 본격해명… 스태프 몫 합쳐 ‘총 7개’",
+     "url": "https://sports.khan.co.kr/article/202610230006003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "이지혜, 성심당 '싹쓸이 논란' 직접 나섰다…영상 공개하며 '억울함' 토로 ('관종언니')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/10/23/MQ4DMMZSHFSGCYJWGMZDAMRWHA/",
+     "source": "조선일보"
     }
    ]
   }
