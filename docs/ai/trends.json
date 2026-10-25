@@ -1,162 +1,173 @@
 {
- "updated": "2026-10-25 20:16",
+ "updated": "2026-10-26 01:04",
  "items": [
   {
-   "kw": "닥터x: 하얀 마피아의 시대",
-   "traffic": "5000+",
-   "when": "10월 25일 19:00",
+   "kw": "분만",
+   "traffic": "200+",
+   "when": "10월 26일 00:00",
    "news": [
     {
-     "title": "5·18 다룬 ‘닥터X’, 방영 중단 청원 등장…“정치적 편향” 주장",
-     "url": "https://sports.khan.co.kr/article/202610250929003",
-     "source": "스포츠경향"
+     "title": "고위험 산모 치료 정부 지원에도…응급시 정작 받아줄 병원·의사는 부족",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363740344",
+     "source": "중부일보"
     },
     {
-     "title": "‘닥터X’ 6회만 19.5% 돌파…SBS 역대 금토극 공동 5위",
-     "url": "https://www.mk.co.kr/news/hot-issues/12184920",
-     "source": "매일경제"
+     "title": "대한산부인과의사회 “분만 건수 아닌 분만실 ‘유지’에 보상하라”",
+     "url": "https://medicalworldnews.co.kr/m/view.php?idx=1510978058&mcode=",
+     "source": "medicalworldnews.co.kr"
     }
    ]
   },
   {
-   "kw": "축구 감독",
+   "kw": "pl",
+   "traffic": "100+",
+   "when": "10월 26일 00:00",
+   "news": [
+    {
+     "title": "\"Nadchodzi najdroższa zima w historii\". Czarnek zapowiada nowy projekt",
+     "url": "https://tvn24.pl/biznes/pieniadze/nadchodzi-najdrozsza-zima-w-historii-przemyslaw-czarnek-zapowiada-nowy-projekt-st9304052",
+     "source": "TVN24"
+    },
+    {
+     "title": "Polaków czeka droga zima? Prof. M. Andrzejewski o polityce energetycznej: Największe gospodarki na świecie śmieją się z Unii Europejskiej",
+     "url": "https://www.radiomaryja.pl/informacje/polakow-czeka-droga-zima-prof-m-andrzejewski-o-polityce-energetycznej-najwieksze-gospodarki-na-swiecie-smieja-sie-z-unii-europejskiej/",
+     "source": "RadioMaryja.pl"
+    }
+   ]
+  },
+  {
+   "kw": "셀타 비고 대 레알 베티스",
+   "traffic": "200+",
+   "when": "10월 25일 23:50",
+   "news": [
+    {
+     "title": "Celta - Betis LIVE. LALIGA EA Sports latest updates",
+     "url": "https://www.marca.com/en/soccer/laliga-ea-sports/celta-betis/2026/10/25/01_0101_20261025_176_185-live.html",
+     "source": "MARCA"
+    },
+    {
+     "title": "! [SOCCER-EL-CLASICOSTREAMS] CELTA VIGO - REAL BETIS LIVE Free Streams ON Tv Channel",
+     "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9qYWwvIi8+PC9rcnBhbm8+&id=video-soccer-el-clasicostreams-celta-vigo-real-betis-liv-new-live",
+     "source": "FC東京オフィシャルホームページ"
+    }
+   ]
+  },
+  {
+   "kw": "남양주시",
+   "traffic": "100+",
+   "when": "10월 25일 23:50",
+   "news": [
+    {
+     "title": "가을 수놓은 남양주 '주민 화합의 장'…문화·체육으로 묶인 ‘이웃의 정’",
+     "url": "https://view.asiae.co.kr/article/2026102517265611415",
+     "source": "아시아경제"
+    },
+    {
+     "title": "남양주시 퇴계원읍, ‘2026년 한마음 체육대회’ 성황리 개최",
+     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799181",
+     "source": "일간투데이"
+    }
+   ]
+  },
+  {
+   "kw": "ngoại hạng anh",
+   "traffic": "100+",
+   "when": "10월 25일 23:50",
+   "news": [
+    {
+     "title": "Trực tiếp bóng đá Liverpool - Brighton: Ăn miếng trả miếng (Ngoại hạng Anh)",
+     "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-liverpool-brighton-bai-toan-kho-cua-iraola-ngoai-hang-anh-c48a1805545.html",
+     "source": "Tin tức 24h"
+    },
+    {
+     "title": "Tối 25-10, người hâm mộ có thể không được xem Premier League, vì sao?",
+     "url": "https://tuoitre.vn/toi-25-10-nguoi-ham-mo-co-the-khong-duoc-xem-premier-league-vi-sao-100261024123019224.htm",
+     "source": "Tuổi Trẻ"
+    }
+   ]
+  },
+  {
+   "kw": "epl",
    "traffic": "1000+",
-   "when": "10월 25일 19:00",
+   "when": "10월 25일 23:40",
    "news": [
     {
-     "title": "천안시티FC, 홈에서 안산에 승…시즌 첫 2연승",
-     "url": "https://www.newsis.com/view/NISX20261025_0003840182",
-     "source": "뉴시스"
+     "title": "Premier League: Fernandes left out by Man Utd plus Liverpool v Brighton & two more games",
+     "url": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t",
+     "source": "BBC"
     },
     {
-     "title": "첫 '2연승' 천안시티 박진섭 \"승리했지만 경기력에선 질책 받아야\"",
-     "url": "https://www.newsis.com/view/NISX20261025_0003840200",
-     "source": "뉴시스"
+     "title": "Bruno Fernandes Omitted After Criticizing Carrick's Tactics",
+     "url": "https://www.chosun.com/english/sports-en/2026/10/25/F22Z3WF46VFCVOQAI36BMWVAHA/",
+     "source": "조선일보"
     }
    ]
   },
   {
-   "kw": "충주시",
-   "traffic": "200+",
-   "when": "10월 25일 18:50",
-   "news": []
-  },
-  {
-   "kw": "lig 디펜스&에어로스페이스",
-   "traffic": "200+",
-   "when": "10월 25일 18:20",
-   "news": [
-    {
-     "title": "방사청, LIG D&A '소형무인기 대응사업' 방산업체 지정취소 검토",
-     "url": "https://www.yna.co.kr/view/AKR20261025020200504",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[단독] '방산 비리' LIG에 추가 제재‥'방산업체 지정 취소' 검토",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6860474_37004.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "스테이블코인",
-   "traffic": "200+",
-   "when": "10월 25일 18:20",
-   "news": [
-    {
-     "title": "하나금융, 스테이블코인 생태계 구축 박차",
-     "url": "https://www.fnnews.com/news/202610251811487405",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "업비트 지갑으로 결제·바로 정산…하나금융, 두나무와 기술검증",
-     "url": "https://www.yna.co.kr/view/AKR20261023084200002",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "설거지",
-   "traffic": "5000+",
-   "when": "10월 25일 18:10",
-   "news": [
-    {
-     "title": "“청소비 냈는데 설거지에 쓰레기까지 치우라고?”…에어비앤비, 결국 규칙 바꿨다",
-     "url": "https://www.seoul.co.kr/news/international/2026/10/25/20261025500089",
-     "source": "서울신문"
-    },
-    {
-     "title": "돈 내고 숙박하는데 “빨래랑 설거지까지 하라고?”…집주인들 과한 요구에 에어비앤비 결국",
-     "url": "https://www.sedaily.com/article/20105438",
-     "source": "서울경제"
-    }
-   ]
-  },
-  {
-   "kw": "eng vs pak",
-   "traffic": "200+",
-   "when": "10월 25일 18:00",
-   "news": [
-    {
-     "title": "Pakistan eyeing final, England need lift after Pindi capitulation",
-     "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/match-preview",
-     "source": "Cricinfo"
-    },
-    {
-     "title": "“The Future Is With Minhas Brothers”: Bashaar Syed After Arafat Minhas’ Performance Against England",
-     "url": "https://www.sportscapemagazine.com/blog/the-future-is-with-minhas-brothers-bashaar-syed-after-arafat-minhas-performance-against-england",
-     "source": "Sportscape Magazine"
-    }
-   ]
-  },
-  {
-   "kw": "택시",
+   "kw": "리버풀",
    "traffic": "1000+",
-   "when": "10월 25일 17:50",
+   "when": "10월 25일 23:40",
    "news": [
     {
-     "title": "택시 사고 줄었는데 …'아車車!' 고령 기사 사고율은 치솟아",
-     "url": "https://www.mk.co.kr/news/society/12185211",
-     "source": "매일경제"
+     "title": "프리미어 리그 리버풀 대 브라이튼 축구 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-liverpool-vs-brighton-tai-premier-league-1788808.ldo",
+     "source": "Laodong.vn"
     },
     {
-     "title": "택시 타면 기사 절반은 65세 이상…대구·경북 40세 미만은 0.7%",
-     "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088420",
-     "source": "경북일보"
+     "title": "승점 16점 브라이튼, 안필드서 리버풀과 8R 격돌 : 스포츠",
+     "url": "https://news.jkn.co.kr/post/1048923",
+     "source": "재경일보"
     }
    ]
   },
   {
-   "kw": "전현무",
-   "traffic": "1000+",
-   "when": "10월 25일 17:50",
+   "kw": "맨유",
+   "traffic": "2000+",
+   "when": "10월 25일 23:30",
    "news": [
     {
-     "title": "\"유두에 점퍼 걸겠다\" 조롱에…전현무, 수술까지 고민 '고백' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/10/25/2026102511232730654",
+     "title": "'7경기 무승-UCL 1-4 참패' 맨유는 감독들의 무덤인가...경질 위기 캐릭, 단 한마디로 반박 \"아니다\" - 조선비즈",
+     "url": "https://biz.chosun.com/sports/football/2026/10/25/GBTGMOJZGVQTOZBZG5SDEZJQGI/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "'맨유행 전권 요구? 사실 아닙니다' 콘테 직접 '오피셜', 공식입장 밝혔다...\"근거 없는 보도, 현재 진전된 협상 전혀 없어\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/10/24/202610242052779033O",
      "source": "머니투데이"
-    },
-    {
-     "title": "전현무 \"첫 악플이 '유두도 비호감'…절제술 알아봤다\"",
-     "url": "https://www.newsis.com/view/NISX20261025_0003839880",
-     "source": "뉴시스"
     }
    ]
   },
   {
-   "kw": "채무",
-   "traffic": "5000+",
-   "when": "10월 25일 17:40",
+   "kw": "fotmob",
+   "traffic": "200+",
+   "when": "10월 25일 23:30",
    "news": [
     {
-     "title": "계속되는 불황의 그림자…자영업 영업난 '새출발기금' 수요 지속",
-     "url": "https://www.metroseoul.co.kr/article/20261025500187",
-     "source": "메트로신문"
+     "title": "Manchester United's Michael Carrick Faces Dismissal Risk Amid BBC Warning",
+     "url": "https://www.chosun.com/english/sports-en/2026/10/25/7NUYBPJCWZCJDEJL2RCF7FJ5RA/",
+     "source": "조선일보"
     },
     {
-     "title": "이억원 \"새출발기금 연장 필요성 굉장히 커\"…내년 연장 시사",
-     "url": "https://www.news1.kr/finance/general-finance/6329205",
-     "source": "뉴스1"
+     "title": "Senne Lammens: Manchester United players are united and behind under-pressure boss Michael Carrick",
+     "url": "https://www.skysports.com/football/news/13602864/senne-lammens-manchester-united-players-are-united-and-behind-under-pressure-boss-michael-carrick",
+     "source": "Sky Sports"
+    }
+   ]
+  },
+  {
+   "kw": "ลิเวอร์พูล พบ ไบรตัน",
+   "traffic": "200+",
+   "when": "10월 25일 23:20",
+   "news": [
+    {
+     "title": "ลิเวอร์พูล เตรียมแผนดึงกองหลังดาวรุ่ง ไบรตัน เสริมแนวรับ | Khaosod",
+     "url": "https://today.line.me/th/v3/article/aGpmEqP",
+     "source": "LINE TODAY"
+    },
+    {
+     "title": "ลิเวอร์พูล เตรียมแผนดึงกองหลังดาวรุ่ง ไบรตัน เสริมแนวรับ",
+     "url": "https://www.khaosod.co.th/sports/news_10449415",
+     "source": "ข่าวสด"
     }
    ]
   }
