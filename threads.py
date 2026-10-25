@@ -363,14 +363,31 @@ def pick_manual(posted):
         if url and not url.startswith("http"):   # 휴대폰에서 상품 이름만 적어도 쿠팡 검색 링크로 바꾼다
             url = "https://www.coupang.com/np/search?q=" + urllib.parse.quote(url)
         if url.startswith("http") and url not in seen:
-            links = p.deeplink([url])
-            short = links[0].get("shortenUrl") if links else ""
+            short = partner_link(url)
             if not short:
                 print("파트너스 링크를 만들지 못한 주소(건너뜀):", url)
                 continue
             return {"productId": url, "productUrl": short, "productName": name, "productImage": manual_image(url, hint),
                     "memo": memo, "video": flag == "영상"}, "manual"
     return None, None
+
+
+def partner_link(url):
+    """직접 넣은 쿠팡 주소를 파트너스 짧은 링크로. 쿠팡이 거절하면(url convert failed 등)
+    주소 뒤 ?itemId=... 를 떼고 한 번 더 해 보고, 그래도 안 되면 "" (게시 전체가 멈추지 않게)."""
+    tries = [url]
+    if "/vp/products/" in url and "?" in url:
+        tries.append(url.split("?")[0])
+    for u in tries:
+        try:
+            links = p.deeplink([u])
+        except Exception as e:
+            print("파트너스 링크 실패:", u, e)
+            continue
+        short = links[0].get("shortenUrl") if links else ""
+        if short:
+            return short
+    return ""
 
 
 def manual_image(url, hint=""):
@@ -424,8 +441,7 @@ def pick_video(posted):
             continue
         short = ""
         if url.startswith("http"):
-            links = p.deeplink([url])
-            short = links[0].get("shortenUrl") if links else ""
+            short = partner_link(url)
         return {"productId": f"video:{name}", "productUrl": short, "productName": "", "productImage": "",
                 "video": video, "memo": memo}, "video"
     return None, None
