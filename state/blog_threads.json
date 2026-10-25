@@ -86,7 +86,8 @@
    "https://blog.naver.com/soduwk1209/224449705918",
    "https://blog.naver.com/soduwk1209/224450251050",
    "https://blog.naver.com/soduwk1209/224450236823",
-   "https://blog.naver.com/soduwk1209/224449702972"
+   "https://blog.naver.com/soduwk1209/224449702972",
+   "https://blog.naver.com/soduwk1209/224450323916"
   ],
   "started": true,
   "v": 2,
@@ -376,7 +377,9 @@
    "https://blog.naver.com/soduwk1209/224452784784",
    "https://blog.naver.com/soduwk1209/224452780325",
    "https://blog.naver.com/soduwk1209/224452801221",
-   "https://blog.naver.com/soduwk1209/224452794090"
+   "https://blog.naver.com/soduwk1209/224452794090",
+   "https://blog.naver.com/soduwk1209/224453659314",
+   "https://blog.naver.com/soduwk1209/224453654060"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224437758802",
@@ -548,9 +551,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "친구",
+  "tone": "짧게",
   "hooks": [
-   "임찬규 근황 정리해봄",
    "이다해 이야기 듣고 깜짝",
    "오늘 많이 찾아보신 소식이에요",
    "한블리 무슨 일이야?",
@@ -564,10 +566,10 @@
    "우승자 이야기",
    "안무가 소식 들으셨어요?",
    "유니스 이야기, 무슨 일인지 짚어봤어요",
-   "박신혜 무슨 일이야?"
+   "박신혜 무슨 일이야?",
+   "우덕배 근황"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224450323916",
    "https://blog.naver.com/soduwk1209/224450263691",
    "https://blog.naver.com/soduwk1209/224450359343",
    "https://blog.naver.com/soduwk1209/224450339223",
@@ -597,7 +599,9 @@
    "https://blog.naver.com/soduwk1209/224452784784",
    "https://blog.naver.com/soduwk1209/224452780325",
    "https://blog.naver.com/soduwk1209/224452801221",
-   "https://blog.naver.com/soduwk1209/224452794090"
+   "https://blog.naver.com/soduwk1209/224452794090",
+   "https://blog.naver.com/soduwk1209/224453659314",
+   "https://blog.naver.com/soduwk1209/224453654060"
   ],
   "reply_ok": true
  },
@@ -688,7 +692,8 @@
    "https://blog.naver.com/dkdk521/224451538130",
    "https://blog.naver.com/dkdk521/224451529969",
    "https://blog.naver.com/dkdk521/224451555203",
-   "https://blog.naver.com/dkdk521/224452747158"
+   "https://blog.naver.com/dkdk521/224452747158",
+   "https://blog.naver.com/dkdk521/224452745460"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1573,9 +1578,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "질문",
+  "tone": "존댓말",
   "hooks": [
-   "김도영 소식, 정리해 드릴게요",
    "반응이 이야기",
    "이거 보고 놀람",
    "김영권 이야기 듣고 깜짝",
@@ -1589,10 +1593,10 @@
    "문정현 얘기 봤어?",
    "모레노 소식 들으셨어요?",
    "유니폼 관련 소식 전해 드려요",
-   "왜 이렇게 화제일까요?"
+   "왜 이렇게 화제일까요?",
+   "오늘 많이 찾아보신 소식이에요"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224452745460",
    "https://blog.naver.com/dkdk521/224452748880",
    "https://blog.naver.com/dkdk521/224452758243",
    "https://blog.naver.com/dkdk521/224452754201",
