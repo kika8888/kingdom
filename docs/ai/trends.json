@@ -1,9 +1,100 @@
 {
- "updated": "2026-10-26 01:04",
+ "updated": "2026-10-26 03:58",
  "items": [
   {
-   "kw": "분만",
+   "kw": "루키",
    "traffic": "200+",
+   "when": "10월 26일 02:50",
+   "news": []
+  },
+  {
+   "kw": "스위스스테이지",
+   "traffic": "200+",
+   "when": "10월 26일 02:50",
+   "news": [
+    {
+     "title": "[오!쎈 인터뷰] '지도자로 첫 월즈' 젠지 류상욱 감독, \"목표 오직 롤드컵 우승, 이상적인 팀 만들 것\"",
+     "url": "https://www.osen.co.kr/article/G1112897876",
+     "source": "OSEN"
+    },
+    {
+     "title": "[롤드컵] 젠지·디플러스 기아, LCK 내전 승리로 8강행 성큼…한화생명·T1도 반격 노린다",
+     "url": "https://www.chosun.com/sports/sports_general/2026/10/25/GYYTSMDBMMZDMZTDMUZTIM3EMQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "앙투안 그리즈만",
+   "traffic": "500+",
+   "when": "10월 26일 02:20",
+   "news": [
+    {
+     "title": "손흥민도 뛰어넘다니...\"유럽 최고 팀 갈 선수\" 그리즈만마저 푹 빠졌다, MLS에 나타난 19세 드리블 천재",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99794",
+     "source": "포포투"
+    },
+    {
+     "title": "한 명은 손흥민 뛰어넘은 대활약, 한 명은 손흥민보다 수준 미달...MLS 적응 희비 엇갈린 '월클 공격수'",
+     "url": "https://www.sportschosun.com/football/2026-10-24/202610240100153170009995",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "kw": "더샤이",
+   "traffic": "200+",
+   "when": "10월 26일 02:10",
+   "news": [
+    {
+     "title": "[롤드컵] '더샤이·루키 맹활약' IG, TSW 상대로 짜릿한 역전승… 대회 마수걸이 승리",
+     "url": "https://www.osen.co.kr/article/G1112897860",
+     "source": "OSEN"
+    },
+    {
+     "title": "[롤드컵] '3년 만의 복귀' IG 손대영 총감독, \"꿈의 무대 월즈, 실수 보완해 미국서 오래 머물 것\"",
+     "url": "https://www.koreadaily.com/article/20261024001100886",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "england cricket team vs pakistan national cricket team standings",
+   "traffic": "200+",
+   "when": "10월 26일 02:10",
+   "news": [
+    {
+     "title": "Pakistan vs England: Shadab Khan condemns Harry Brook's side to another improbable loss",
+     "url": "https://www.bbc.com/sport/cricket/articles/cq0mek4de4xno",
+     "source": "BBC"
+    },
+    {
+     "title": "Ball by Ball Commentary & Live Score - PAK vs ENG, 4th Match",
+     "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-england-4th-match-1550716/ball-by-ball-commentary",
+     "source": "Cricinfo"
+    }
+   ]
+  },
+  {
+   "kw": "sc 프라이부르크 대 바이에른",
+   "traffic": "5000+",
+   "when": "10월 26일 00:40",
+   "news": [
+    {
+     "title": "부상 김민재, 프라이부르크전 못 뛴다…뮌헨 \"큰 문제 아니지만\"",
+     "url": "https://www.yna.co.kr/view/AKR20261025030800007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'김민재 부상에 노이어까지 쓰러졌다' 콤파니 없는 바이에른, 주전 수비수·골키퍼 동시 이탈...프라이부르크 원정 비상",
+     "url": "https://www.osen.co.kr/article/G1112898016",
+     "source": "OSEN"
+    }
+   ]
+  },
+  {
+   "kw": "분만",
+   "traffic": "500+",
    "when": "10월 26일 00:00",
    "news": [
     {
@@ -12,32 +103,49 @@
      "source": "중부일보"
     },
     {
-     "title": "대한산부인과의사회 “분만 건수 아닌 분만실 ‘유지’에 보상하라”",
-     "url": "https://medicalworldnews.co.kr/m/view.php?idx=1510978058&mcode=",
-     "source": "medicalworldnews.co.kr"
+     "title": "산부인과의사회 '분만기관 1곳뿐인 60개 지역 유지비 지원해야' : 사회",
+     "url": "https://news.jkn.co.kr/post/1048951",
+     "source": "재경일보"
     }
    ]
   },
   {
    "kw": "pl",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "10월 26일 00:00",
    "news": [
     {
-     "title": "\"Nadchodzi najdroższa zima w historii\". Czarnek zapowiada nowy projekt",
-     "url": "https://tvn24.pl/biznes/pieniadze/nadchodzi-najdrozsza-zima-w-historii-przemyslaw-czarnek-zapowiada-nowy-projekt-st9304052",
-     "source": "TVN24"
+     "title": "Ile kosztowałby polexit? Wystawili \"rachunek\"",
+     "url": "https://www.money.pl/gospodarka/rachunek-za-polexit-tyle-kosztowaloby-polske-wyjscie-z-ue-7343868849555488a.html",
+     "source": "Money.pl"
     },
     {
-     "title": "Polaków czeka droga zima? Prof. M. Andrzejewski o polityce energetycznej: Największe gospodarki na świecie śmieją się z Unii Europejskiej",
-     "url": "https://www.radiomaryja.pl/informacje/polakow-czeka-droga-zima-prof-m-andrzejewski-o-polityce-energetycznej-najwieksze-gospodarki-na-swiecie-smieja-sie-z-unii-europejskiej/",
-     "source": "RadioMaryja.pl"
+     "title": "Czy Polska traci, czy zyskuje na członkostwie w UE? Znamy bilans, ale i koszty polexitu",
+     "url": "https://www.wnp.pl/przemysl/zyski-i-straty-polski-z-czlonkostwa-w-ue-znamy-pelny-bilans-ale-i-koszty-polexitu,1112755.html",
+     "source": "wnp.pl"
+    }
+   ]
+  },
+  {
+   "kw": "남양주시",
+   "traffic": "200+",
+   "when": "10월 25일 23:50",
+   "news": [
+    {
+     "title": "[제민포럼] 농지 전수조사의 문제점과 대책",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=845298",
+     "source": "제민일보"
+    },
+    {
+     "title": "농지조사는 ‘개문발차’, 농협개혁은 ‘졸속’ 공방",
+     "url": "https://www.nongupin.co.kr/news/articleView.html?idxno=208615",
+     "source": "농업인신문"
     }
    ]
   },
   {
    "kw": "셀타 비고 대 레알 베티스",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "10월 25일 23:50",
    "news": [
     {
@@ -46,128 +154,9 @@
      "source": "MARCA"
     },
     {
-     "title": "! [SOCCER-EL-CLASICOSTREAMS] CELTA VIGO - REAL BETIS LIVE Free Streams ON Tv Channel",
-     "url": "https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9qYWwvIi8+PC9rcnBhbm8+&id=video-soccer-el-clasicostreams-celta-vigo-real-betis-liv-new-live",
-     "source": "FC東京オフィシャルホームページ"
-    }
-   ]
-  },
-  {
-   "kw": "남양주시",
-   "traffic": "100+",
-   "when": "10월 25일 23:50",
-   "news": [
-    {
-     "title": "가을 수놓은 남양주 '주민 화합의 장'…문화·체육으로 묶인 ‘이웃의 정’",
-     "url": "https://view.asiae.co.kr/article/2026102517265611415",
-     "source": "아시아경제"
-    },
-    {
-     "title": "남양주시 퇴계원읍, ‘2026년 한마음 체육대회’ 성황리 개최",
-     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=799181",
-     "source": "일간투데이"
-    }
-   ]
-  },
-  {
-   "kw": "ngoại hạng anh",
-   "traffic": "100+",
-   "when": "10월 25일 23:50",
-   "news": [
-    {
-     "title": "Trực tiếp bóng đá Liverpool - Brighton: Ăn miếng trả miếng (Ngoại hạng Anh)",
-     "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-liverpool-brighton-bai-toan-kho-cua-iraola-ngoai-hang-anh-c48a1805545.html",
-     "source": "Tin tức 24h"
-    },
-    {
-     "title": "Tối 25-10, người hâm mộ có thể không được xem Premier League, vì sao?",
-     "url": "https://tuoitre.vn/toi-25-10-nguoi-ham-mo-co-the-khong-duoc-xem-premier-league-vi-sao-100261024123019224.htm",
-     "source": "Tuổi Trẻ"
-    }
-   ]
-  },
-  {
-   "kw": "epl",
-   "traffic": "1000+",
-   "when": "10월 25일 23:40",
-   "news": [
-    {
-     "title": "Premier League: Fernandes left out by Man Utd plus Liverpool v Brighton & two more games",
-     "url": "https://www.bbc.com/sport/football/live/c5dj4kvpd4j9t",
-     "source": "BBC"
-    },
-    {
-     "title": "Bruno Fernandes Omitted After Criticizing Carrick's Tactics",
-     "url": "https://www.chosun.com/english/sports-en/2026/10/25/F22Z3WF46VFCVOQAI36BMWVAHA/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "리버풀",
-   "traffic": "1000+",
-   "when": "10월 25일 23:40",
-   "news": [
-    {
-     "title": "프리미어 리그 리버풀 대 브라이튼 축구 예측",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-liverpool-vs-brighton-tai-premier-league-1788808.ldo",
-     "source": "Laodong.vn"
-    },
-    {
-     "title": "승점 16점 브라이튼, 안필드서 리버풀과 8R 격돌 : 스포츠",
-     "url": "https://news.jkn.co.kr/post/1048923",
-     "source": "재경일보"
-    }
-   ]
-  },
-  {
-   "kw": "맨유",
-   "traffic": "2000+",
-   "when": "10월 25일 23:30",
-   "news": [
-    {
-     "title": "'7경기 무승-UCL 1-4 참패' 맨유는 감독들의 무덤인가...경질 위기 캐릭, 단 한마디로 반박 \"아니다\" - 조선비즈",
-     "url": "https://biz.chosun.com/sports/football/2026/10/25/GBTGMOJZGVQTOZBZG5SDEZJQGI/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "'맨유행 전권 요구? 사실 아닙니다' 콘테 직접 '오피셜', 공식입장 밝혔다...\"근거 없는 보도, 현재 진전된 협상 전혀 없어\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/10/24/202610242052779033O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "fotmob",
-   "traffic": "200+",
-   "when": "10월 25일 23:30",
-   "news": [
-    {
-     "title": "Manchester United's Michael Carrick Faces Dismissal Risk Amid BBC Warning",
-     "url": "https://www.chosun.com/english/sports-en/2026/10/25/7NUYBPJCWZCJDEJL2RCF7FJ5RA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "Senne Lammens: Manchester United players are united and behind under-pressure boss Michael Carrick",
-     "url": "https://www.skysports.com/football/news/13602864/senne-lammens-manchester-united-players-are-united-and-behind-under-pressure-boss-michael-carrick",
-     "source": "Sky Sports"
-    }
-   ]
-  },
-  {
-   "kw": "ลิเวอร์พูล พบ ไบรตัน",
-   "traffic": "200+",
-   "when": "10월 25일 23:20",
-   "news": [
-    {
-     "title": "ลิเวอร์พูล เตรียมแผนดึงกองหลังดาวรุ่ง ไบรตัน เสริมแนวรับ | Khaosod",
-     "url": "https://today.line.me/th/v3/article/aGpmEqP",
-     "source": "LINE TODAY"
-    },
-    {
-     "title": "ลิเวอร์พูล เตรียมแผนดึงกองหลังดาวรุ่ง ไบรตัน เสริมแนวรับ",
-     "url": "https://www.khaosod.co.th/sports/news_10449415",
-     "source": "ข่าวสด"
+     "title": "Celta Vigo vs. Real Betis - Game Highlights",
+     "url": "https://www.espn.in/video/clip/_/id/50278064/celta-vigo-vs-real-betis-game-highlights",
+     "source": "ESPN India"
     }
    ]
   }
