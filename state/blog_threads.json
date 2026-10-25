@@ -81,7 +81,8 @@
    "https://blog.naver.com/soduwk1209/224448470712",
    "https://blog.naver.com/soduwk1209/224449492167",
    "https://blog.naver.com/soduwk1209/224449480892",
-   "https://blog.naver.com/soduwk1209/224449469711"
+   "https://blog.naver.com/soduwk1209/224449469711",
+   "https://blog.naver.com/soduwk1209/224449700553"
   ],
   "started": true,
   "v": 2,
@@ -364,7 +365,9 @@
    "https://blog.naver.com/soduwk1209/224452323832",
    "https://blog.naver.com/soduwk1209/224452328890",
    "https://blog.naver.com/soduwk1209/224452338122",
-   "https://blog.naver.com/soduwk1209/224452769924"
+   "https://blog.naver.com/soduwk1209/224452769924",
+   "https://blog.naver.com/soduwk1209/224452776164",
+   "https://blog.naver.com/soduwk1209/224452772623"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224437758802",
@@ -536,9 +539,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "질문",
+  "tone": "감탄",
   "hooks": [
-   "강동원 근황 정리해봄",
    "화제의 소식",
    "화제가 된 이유를 정리했어요",
    "엄마가 이야기",
@@ -552,10 +554,10 @@
    "이혼남 이야기, 무슨 일인지 짚어봤어요",
    "오늘의 연예 소식",
    "오늘 이 소식 다들 봤지?",
-   "조용히 소식 들으셨어요?"
+   "조용히 소식 들으셨어요?",
+   "이건 몰랐네"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224449700553",
    "https://blog.naver.com/soduwk1209/224449705918",
    "https://blog.naver.com/soduwk1209/224450251050",
    "https://blog.naver.com/soduwk1209/224450236823",
@@ -583,7 +585,9 @@
    "https://blog.naver.com/soduwk1209/224452323832",
    "https://blog.naver.com/soduwk1209/224452328890",
    "https://blog.naver.com/soduwk1209/224452338122",
-   "https://blog.naver.com/soduwk1209/224452769924"
+   "https://blog.naver.com/soduwk1209/224452769924",
+   "https://blog.naver.com/soduwk1209/224452776164",
+   "https://blog.naver.com/soduwk1209/224452772623"
   ],
   "reply_ok": true
  },
@@ -669,7 +673,8 @@
    "https://blog.naver.com/dkdk521/224450869031",
    "https://blog.naver.com/dkdk521/224451515595",
    "https://blog.naver.com/dkdk521/224451483172",
-   "https://blog.naver.com/dkdk521/224451469770"
+   "https://blog.naver.com/dkdk521/224451469770",
+   "https://blog.naver.com/dkdk521/224451547267"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1151,7 +1156,8 @@
    "https://blog.naver.com/dkdk521/224451529969",
    "https://blog.naver.com/dkdk521/224451555203",
    "https://blog.naver.com/dkdk521/224452747158",
-   "https://blog.naver.com/dkdk521/224452745460"
+   "https://blog.naver.com/dkdk521/224452745460",
+   "https://blog.naver.com/dkdk521/224452748880"
   ],
   "backlog": [
    "https://blog.naver.com/dkdk521/224436749834",
@@ -1548,9 +1554,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "존댓말",
+  "tone": "질문",
   "hooks": [
-   "다들 이거 아셨어요?",
    "최하위 무슨 일이야?",
    "이강인 관련 소식 전해 드려요",
    "왜 이렇게 화제일까요?",
@@ -1564,15 +1569,16 @@
    "구자욱 이야기, 무슨 일인지 짚어봤어요",
    "김호령 어떻게 된 일일까요?",
    "한국행 얘기 봤어?",
-   "화제가 된 이유를 정리했어요"
+   "화제가 된 이유를 정리했어요",
+   "이 소식 어떻게 생각하세요?"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224451547267",
    "https://blog.naver.com/dkdk521/224451538130",
    "https://blog.naver.com/dkdk521/224451529969",
    "https://blog.naver.com/dkdk521/224451555203",
    "https://blog.naver.com/dkdk521/224452747158",
-   "https://blog.naver.com/dkdk521/224452745460"
+   "https://blog.naver.com/dkdk521/224452745460",
+   "https://blog.naver.com/dkdk521/224452748880"
   ],
   "reply_ok": true
  }
