@@ -1,37 +1,54 @@
 {
- "updated": "2026-10-25 10:06",
+ "updated": "2026-10-25 10:21",
  "items": [
+  {
+   "kw": "롯데 자이언츠",
+   "traffic": "2000+",
+   "when": "10월 25일 09:00",
+   "news": [
+    {
+     "title": "김태형 감독, 롯데와 3년 동행 마침표…재계약 불발로 새 출발 불가피",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=845202",
+     "source": "제민일보"
+    },
+    {
+     "title": "3년 내내 7위…롯데자이언츠, 김태형 감독과 뒤늦은 결별",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02036886645616200&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "중앙일보",
+   "traffic": "500+",
+   "when": "10월 25일 08:50",
+   "news": [
+    {
+     "title": "[단독]문학동네 김소영 대표 돌연 ‘사임’···출판사 내부에선 ‘매각 항의 차원’ 추측 무성",
+     "url": "https://www.khan.co.kr/article/202610191505001",
+     "source": "경향신문"
+    },
+    {
+     "title": "다우키움, 중앙일보 이어 문학동네 품나",
+     "url": "https://www.chosun.com/culture-life/culture_general/2026/10/23/EPFGBRIBWFHRZHD5OFGTSYWSOA/",
+     "source": "조선일보"
+    }
+   ]
+  },
   {
    "kw": "김천김밥축제",
    "traffic": "200+",
    "when": "10월 25일 08:50",
    "news": [
     {
+     "title": "이번 주말 김천김밥축제 간다면…줄서지 말고 '카맵' 보세요 - 머니투데이",
+     "url": "https://www.mt.co.kr/culture/2026/10/24/2026102316020597182",
+     "source": "머니투데이"
+    },
+    {
      "title": "수십만 명 모이는 김천 축제…TS, ‘오늘도 무사고’ 캠페인",
      "url": "https://m.ekn.kr/view.php?key=20261024026030588",
      "source": "에너지경제신문"
-    },
-    {
-     "title": "이번 주말 김천김밥축제 간다면…줄서지 말고 '카맵' 보세요 - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/culture/2026/10/24/2026102316020597182",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "중앙일보",
-   "traffic": "1000+",
-   "when": "10월 25일 08:50",
-   "news": [
-    {
-     "title": "다우키움 vs CJ, 중앙일보 사주 쟁취는 '다음 세대'의 전쟁",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/10/22/2026102280099.html",
-     "source": "인베스트조선"
-    },
-    {
-     "title": "‘홍씨 시대’ 저무는 중앙일보…매각까지 남은 관문 셋",
-     "url": "https://marketin.edaily.co.kr/News/Read?newsId=01810566645616200",
-     "source": "마켓인"
     }
    ]
   },
@@ -75,14 +92,14 @@
    "when": "10월 25일 08:40",
    "news": [
     {
-     "title": "Shiyu, who boasted about her son, Kim Hyun-jung's illegitimate child, faces backlash over privacy concerns: \"He has an outstanding appearance\" [Star Issue]",
-     "url": "https://www.starnewskorea.com/en/star/2026/10/24/2026102315300366533",
-     "source": "스타뉴스"
+     "title": "Ex-Girlfriend Updates On K-Pop Idol’s Illegitimate Son",
+     "url": "https://www.koreaboo.com/news/ex-girlfriend-updates-kpop-idol-illegitimate-son/",
+     "source": "Koreaboo"
     },
     {
-     "title": "'Siyou' debuts as TikTok creator…Kim Hyun-joong's ex-girlfriend, begins entertainment activities",
-     "url": "https://www.dipe.co.kr/2349627",
-     "source": "DIPE.CO.KR"
+     "title": "Model Moon Gabi withdraws from public while Kim Hyun-joong ex appears as creator - CHOSUNBIZ",
+     "url": "https://biz.chosun.com/en/en-entertainment/2026/10/24/NDXGKWBGFZHHBANAKJCEUURJMI/",
+     "source": "Chosunbiz"
     }
    ]
   },
@@ -92,31 +109,14 @@
    "when": "10월 25일 08:30",
    "news": [
     {
-     "title": "Nick Nurse says that while Joel Embiid will play …",
-     "url": "https://sports.yahoo.com/articles/nick-nurse-says-while-joel-230556476.html",
-     "source": "Yahoo Sports"
-    },
-    {
      "title": "Joel Embiid to miss a game this weekend",
      "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-23/joel-embiid-to-miss-a-game-this-weekend",
      "source": "NBC Sports"
-    }
-   ]
-  },
-  {
-   "kw": "김태형",
-   "traffic": "2000+",
-   "when": "10월 25일 08:30",
-   "news": [
-    {
-     "title": "김태형 감독, 롯데와 3년 동행 마침표…재계약 불발로 새 출발 불가피",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=845202",
-     "source": "제민일보"
     },
     {
-     "title": "3년 내내 7위…롯데자이언츠, 김태형 감독과 뒤늦은 결별",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=02036886645616200&mediaCodeNo=257",
-     "source": "이데일리"
+     "title": "Nick Nurse says that while Joel Embiid will play …",
+     "url": "https://sports.yahoo.com/articles/nick-nurse-says-while-joel-230556476.html",
+     "source": "Yahoo Sports"
     }
    ]
   },
