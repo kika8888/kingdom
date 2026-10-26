@@ -89,7 +89,8 @@
    "https://blog.naver.com/soduwk1209/224449702972",
    "https://blog.naver.com/soduwk1209/224450323916",
    "https://blog.naver.com/soduwk1209/224450263691",
-   "https://blog.naver.com/soduwk1209/224450359343"
+   "https://blog.naver.com/soduwk1209/224450359343",
+   "https://blog.naver.com/soduwk1209/224450339223"
   ],
   "started": true,
   "v": 2,
@@ -384,7 +385,11 @@
    "https://blog.naver.com/soduwk1209/224453654060",
    "https://blog.naver.com/soduwk1209/224453663290",
    "https://blog.naver.com/soduwk1209/224452807934",
-   "https://blog.naver.com/soduwk1209/224453668339"
+   "https://blog.naver.com/soduwk1209/224453668339",
+   "https://blog.naver.com/soduwk1209/224453930750",
+   "https://blog.naver.com/soduwk1209/224453876964",
+   "https://blog.naver.com/soduwk1209/224453861258",
+   "https://blog.naver.com/soduwk1209/224453672007"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224437758802",
@@ -556,9 +561,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "짧게",
+  "tone": "질문",
   "hooks": [
-   "한블리 무슨 일이야?",
    "와 하이킥 이런 일이 있었네",
    "다들 이거 아셨어요?",
    "이혼남 이야기, 무슨 일인지 짚어봤어요",
@@ -572,10 +576,10 @@
    "박신혜 무슨 일이야?",
    "우덕배 근황",
    "화제가 된 이유를 정리했어요",
-   "화제의 소식"
+   "화제의 소식",
+   "이 소식 어떻게 생각하세요?"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224450339223",
    "https://blog.naver.com/soduwk1209/224450374409",
    "https://blog.naver.com/soduwk1209/224450490947",
    "https://blog.naver.com/soduwk1209/224450482625",
@@ -607,7 +611,11 @@
    "https://blog.naver.com/soduwk1209/224453654060",
    "https://blog.naver.com/soduwk1209/224453663290",
    "https://blog.naver.com/soduwk1209/224452807934",
-   "https://blog.naver.com/soduwk1209/224453668339"
+   "https://blog.naver.com/soduwk1209/224453668339",
+   "https://blog.naver.com/soduwk1209/224453930750",
+   "https://blog.naver.com/soduwk1209/224453876964",
+   "https://blog.naver.com/soduwk1209/224453861258",
+   "https://blog.naver.com/soduwk1209/224453672007"
   ],
   "reply_ok": true
  },
@@ -701,7 +709,8 @@
    "https://blog.naver.com/dkdk521/224452747158",
    "https://blog.naver.com/dkdk521/224452745460",
    "https://blog.naver.com/dkdk521/224452748880",
-   "https://blog.naver.com/dkdk521/224452758243"
+   "https://blog.naver.com/dkdk521/224452758243",
+   "https://blog.naver.com/dkdk521/224452754201"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1586,9 +1595,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1791835223.4066353,
-  "tone": "존댓말",
+  "tone": "짧게",
   "hooks": [
-   "김영권 이야기 듣고 깜짝",
    "다들 이거 아셨어요?",
    "이 소식 진짜 의외다",
    "구자욱 이야기, 무슨 일인지 짚어봤어요",
@@ -1602,10 +1610,10 @@
    "왜 이렇게 화제일까요?",
    "오늘 많이 찾아보신 소식이에요",
    "오늘의 스포츠 소식",
-   "오늘 많이 찾아보신 소식이에요"
+   "오늘 많이 찾아보신 소식이에요",
+   "황희찬 이야기"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224452754201",
    "https://blog.naver.com/dkdk521/224452751562",
    "https://blog.naver.com/dkdk521/224452767012",
    "https://blog.naver.com/dkdk521/224452760003"
