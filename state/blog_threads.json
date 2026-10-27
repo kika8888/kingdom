@@ -93,7 +93,8 @@
    "https://blog.naver.com/soduwk1209/224450339223",
    "https://blog.naver.com/soduwk1209/224450374409",
    "https://blog.naver.com/soduwk1209/224450490947",
-   "https://blog.naver.com/soduwk1209/224450482625"
+   "https://blog.naver.com/soduwk1209/224450482625",
+   "https://blog.naver.com/soduwk1209/224450475112"
   ],
   "started": true,
   "v": 2,
@@ -568,9 +569,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "감탄",
+  "tone": "짧게",
   "hooks": [
-   "오늘의 연예 소식",
    "오늘 이 소식 다들 봤지?",
    "조용히 소식 들으셨어요?",
    "이건 몰랐네",
@@ -584,10 +584,10 @@
    "이 소식 어떻게 생각하세요?",
    "사생활 무슨 일이야?",
    "전혜빈 소식 들으셨어요?",
-   "와 문가영 이런 일이 있었네"
+   "와 문가영 이런 일이 있었네",
+   "호흡만 이야기"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224450475112",
    "https://blog.naver.com/soduwk1209/224451573725",
    "https://blog.naver.com/soduwk1209/224451565219",
    "https://blog.naver.com/soduwk1209/224450633637",
@@ -721,7 +721,8 @@
    "https://blog.naver.com/dkdk521/224452754201",
    "https://blog.naver.com/dkdk521/224452751562",
    "https://blog.naver.com/dkdk521/224452767012",
-   "https://blog.naver.com/dkdk521/224452760003"
+   "https://blog.naver.com/dkdk521/224452760003",
+   "https://blog.naver.com/dkdk521/224436749834"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1212,7 +1213,6 @@
    "https://blog.naver.com/dkdk521/224452760003"
   ],
   "backlog": [
-   "https://blog.naver.com/dkdk521/224436749834",
    "https://blog.naver.com/dkdk521/224436733827",
    "https://blog.naver.com/dkdk521/224436729448",
    "https://blog.naver.com/dkdk521/224436726025",
@@ -1605,10 +1605,9 @@
    "https://blog.naver.com/dkdk521/223183698757",
    "https://blog.naver.com/dkdk521/223021978335"
   ],
-  "last_old": 1791835223.4066353,
-  "tone": "존댓말",
+  "last_old": 1793079583.6040761,
+  "tone": "감탄",
   "hooks": [
-   "김호령 어떻게 된 일일까요?",
    "한국행 얘기 봤어?",
    "화제가 된 이유를 정리했어요",
    "이 소식 어떻게 생각하세요?",
@@ -1622,7 +1621,8 @@
    "황희찬 이야기",
    "오늘 이 소식 다들 봤지?",
    "오늘 제일 놀란 소식",
-   "화제가 된 이유를 정리했어요"
+   "화제가 된 이유를 정리했어요",
+   "이건 몰랐네"
   ],
   "queue": [],
   "reply_ok": true
