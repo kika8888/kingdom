@@ -1,173 +1,162 @@
 {
- "updated": "2026-10-28 06:15",
+ "updated": "2026-10-28 10:13",
  "items": [
   {
-   "kw": "태풍",
+   "kw": "그랜드 테프트 오토 vi",
+   "traffic": "200+",
+   "when": "10월 28일 09:00",
+   "news": [
+    {
+     "title": "“게임 하나 때문에 150만명 결근?”…1조원 손실 전망까지 나온 美, 무슨 일",
+     "url": "https://www.sedaily.com/article/20106659",
+     "source": "서울경제"
+    },
+    {
+     "title": "GTA6 - 게임 캘린더",
+     "url": "https://www.inven.co.kr/webzine/calendar/game/11934",
+     "source": "인벤"
+    }
+   ]
+  },
+  {
+   "kw": "sk하이닉스 ir",
+   "traffic": "200+",
+   "when": "10월 28일 09:00",
+   "news": [
+    {
+     "title": "블룸버그 \"솔리다임, 미국에 60조원 낸드공장 추진\"",
+     "url": "https://www.yna.co.kr/view/AKR20261028011300009",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "\"미국 공장 지을 테니 중국 공장 규제 풀어라\"...솔리다임의 '빅딜'",
+     "url": "https://www.ytn.co.kr/_ln/0104_202610280917074364",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "대신증권",
+   "traffic": "200+",
+   "when": "10월 28일 08:50",
+   "news": [
+    {
+     "title": "대신증권, 해킹 사고 발생…금융권 해킹 증권업계로 확산(상보)",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441503",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "[이슈]대신·미래운용·빗썸도 털렸다…금융권 해킹 공포 확산",
+     "url": "https://www.munhwa.com/article/11626836",
+     "source": "문화일보"
+    }
+   ]
+  },
+  {
+   "kw": "도박",
+   "traffic": "200+",
+   "when": "10월 28일 08:50",
+   "news": [
+    {
+     "title": "4900억 불법도박사이트 운영진 단합대회 사진",
+     "url": "https://www.munhwa.com/article/11626691",
+     "source": "문화일보"
+    },
+    {
+     "title": "워크숍에 해외 여행도 지원...기업처럼 운영한 4900억 도박사이트 조직 적발",
+     "url": "https://www.chosun.com/national/regional/2026/10/27/LIENDL3NNFCFVH6UGRSDJ3AJFI/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "아주대 소아 응급실",
    "traffic": "2000+",
-   "when": "10월 28일 05:10",
+   "when": "10월 28일 08:30",
    "news": [
     {
-     "title": "점점 강해지는 태풍 '인파'…한반도 영향 가능성은",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=05497286645617184&mediaCodeNo=257",
-     "source": "이데일리"
+     "title": "\"극심한 무력감·분노\"…경찰 '압수수색 사과 거부'에 아주대병원 소아응급센터 교수 7명 사직",
+     "url": "https://www.medigatenews.com/news/666187207",
+     "source": "MEDI:GATE NEWS"
     },
     {
-     "title": "태풍 악몽 가시기 전 또 북상…제주 긴장 고조",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=845479",
-     "source": "제민일보"
+     "title": "“손이 떨려 진료 못 하겠다”…아주대 소아응급실 교수 7명 사직 결정",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=56624",
+     "source": "주간조선"
     }
    ]
   },
   {
-   "kw": "주영진",
+   "kw": "국민연금",
+   "traffic": "500+",
+   "when": "10월 28일 08:30",
+   "news": [
+    {
+     "title": "청년 생애 첫 연금보험료 지원 사전신청 1만명 넘어",
+     "url": "https://www.yna.co.kr/view/AKR20261028056200530",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "청년 생애 첫 국민연금 보험료 지원 사전신청 1만명 돌파",
+     "url": "https://www.newsis.com/view/NISX20261028_0003844134",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "어닝콜",
+   "traffic": "200+",
+   "when": "10월 28일 08:30",
+   "news": []
+  },
+  {
+   "kw": "아버지",
+   "traffic": "5000+",
+   "when": "10월 28일 08:20",
+   "news": [
+    {
+     "title": "\"아버지 장례비 750만 원 혼자 냈는데\"…부의금 싹 달라는 작은아버지",
+     "url": "https://www.news1.kr/society/general-society/6333729",
+     "source": "뉴스1"
+    },
+    {
+     "title": "\"아버지 장례비 한 푼 안 낸 작은아버지, 부의금 다 내놓으라고 하네요\" [어떻게 생각하세요]",
+     "url": "https://www.fnnews.com/news/202610280757170803",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "헤이 지니",
    "traffic": "100+",
-   "when": "10월 28일 05:10",
+   "when": "10월 28일 08:20",
    "news": [
     {
-     "title": "주영진 SBS 보도본부장 “전혀 다른 뉴스 만들어야 할 때”",
-     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338023",
-     "source": "미디어오늘"
+     "title": "\"'밥값 해, 일부러 야근해?' 막차 끊길 때까지 일 강요\"…헤이지니 또 폭로",
+     "url": "https://www.news1.kr/society/general-society/6333612",
+     "source": "뉴스1"
     },
     {
-     "title": "SBS 사장에 양윤석 보도본부장… 첫 여성 보도국장도 선임",
-     "url": "https://m.journalist.or.kr/m/m_article.html?no=61926",
-     "source": "한국기자협회"
+     "title": "헤이지니, 직원들에 유모차 토스 영상 재조명 \"나는 멀리서 관전\"",
+     "url": "https://www.newsis.com/view/NISX20261028_0003844073",
+     "source": "뉴시스"
     }
    ]
   },
   {
-   "kw": "전현무",
+   "kw": "창신 메모리 테크놀로지",
    "traffic": "1000+",
-   "when": "10월 28일 05:10",
+   "when": "10월 28일 07:50",
    "news": [
     {
-     "title": "“방송 나가면 나 죽어” 74세 사장 호소에도..‘전현무계획4’ 리얼 강조하려다 ‘역풍’ [Oh!쎈 이슈]",
-     "url": "http://www.osen.co.kr/article/G1112898303",
-     "source": "OSEN"
-    },
-    {
-     "title": "\"알려지길 원치 않아\" 촬영 거부한 식당 노출한 '전현무 계획' 논란 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/10/26/2026102608235429706",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "두나무",
-   "traffic": "100+",
-   "when": "10월 28일 05:00",
-   "news": [
-    {
-     "title": "수일 걸리던 정산, 실시간으로...금융권, 스테이블코인 결제 실험",
-     "url": "https://zdnet.co.kr/view/?no=20261027105613",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "신한카드, 업계 첫 두나무 '기와체인' 활용 토큰 결제 실증",
-     "url": "https://www.yna.co.kr/view/AKR20261027058800002?section=industry/all",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "며느리",
-   "traffic": "2000+",
-   "when": "10월 28일 04:50",
-   "news": [
-    {
-     "title": "결혼 한달만에 식물인간 된 며느리…17년 돌본 시모, 기적을 만들다",
-     "url": "https://www.donga.com/news/Inter/article/all/20261027/134916900/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "결혼 한 달 만에 식물인간 된 며느리…17년 간병 끝에 찾아온 기적",
-     "url": "https://www.etnews.com/20261027000169",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "에코프로",
-   "traffic": "200+",
-   "when": "10월 28일 04:50",
-   "news": [
-    {
-     "title": "[1027시황레이더] 에코프로비엠, 유럽 中 배터리사와 조 단위 양극재 공급 계약 협의 소식 등 By 인포스탁데일리",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2142350",
-     "source": "Investing.com 한국어"
-    },
-    {
-     "title": "\"포기하지 않는 도전정신으로 미래 개척\"",
-     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106505",
-     "source": "충청매일"
-    }
-   ]
-  },
-  {
-   "kw": "서장훈의 이웃집 백만장자",
-   "traffic": "200+",
-   "when": "10월 28일 04:30",
-   "news": [
-    {
-     "title": "“집을 쇼핑하고, 택배처럼 배송받는다?!” 한 달 매출 150억·기업 가치 2400억···모듈러 주택 CEO 박...",
-     "url": "https://sports.khan.co.kr/article/202610280421003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "서장훈, 100평 럭셔리 주택 쇼핑? “새로운 세상”(‘이웃집 백만장자’)",
-     "url": "https://www.mk.co.kr/news/hot-issues/12187453",
+     "title": "[단독] \"AI, 중국칩만으론 불안\"… 고성능 한국 D램 구하기 '혈안'",
+     "url": "https://www.mk.co.kr/news/business/12187432",
      "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "박문성",
-   "traffic": "100+",
-   "when": "10월 28일 04:30",
-   "news": [
-    {
-     "title": "모레노호, 29일 11월 원정 명단 발표…'은퇴소동' 96라인 품을까",
-     "url": "https://www.yna.co.kr/view/AKR20261027121400007",
-     "source": "연합뉴스"
     },
     {
-     "title": "능력 하나는 조규성…폼만 따지면 오현규",
-     "url": "https://sports.khan.co.kr/article/202610280500016",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "소넨호프 대 아우크스부르크",
-   "traffic": "100+",
-   "when": "10월 28일 03:20",
-   "news": [
-    {
-     "title": "Confirmed DFB-Pokal lineups: SG Sonnenhof Großaspach vs. FC Augsburg",
-     "url": "https://sports.yahoo.com/articles/confirmed-dfb-pokal-lineups-sg-161000460.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Baum: \"We'll give it everything we’ve got\"",
-     "url": "https://www.fcaugsburg.de/en/article/baum-we-ll-give-it-everything-we-ve-got-23613",
-     "source": "FC Augsburg"
-    }
-   ]
-  },
-  {
-   "kw": "s",
-   "traffic": "100+",
-   "when": "10월 28일 03:20",
-   "news": [
-    {
-     "title": "Anthropic's expansion into biotech brings new risks — and opportunities",
-     "url": "https://www.axios.com/pro/biotech-deals/2026/10/27/anthropic-drug-discovery-ipo-biotech",
-     "source": "Axios"
-    },
-    {
-     "title": "Short Thoughts: Anthropic’s S-1",
-     "url": "https://michaeljburry.substack.com/p/short-thoughts-anthropics-s-1",
-     "source": "Cassandra Unchained | Michael Burry"
+     "title": "[뉴스 저격] \"中으로 몰리는 글로벌 자금… 로봇·전기차는 세계 최고, 반도체 자립도 빨라져\"",
+     "url": "https://www.chosun.com/economy/money/2026/10/28/SECPATNDQFAPPKO57HBTIIOBVY/",
+     "source": "조선일보"
     }
    ]
   }
