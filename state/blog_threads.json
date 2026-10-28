@@ -98,7 +98,8 @@
    "https://blog.naver.com/soduwk1209/224451573725",
    "https://blog.naver.com/soduwk1209/224451565219",
    "https://blog.naver.com/soduwk1209/224450633637",
-   "https://blog.naver.com/soduwk1209/224451588005"
+   "https://blog.naver.com/soduwk1209/224451588005",
+   "https://blog.naver.com/soduwk1209/224451582869"
   ],
   "started": true,
   "v": 2,
@@ -573,9 +574,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "감탄",
+  "tone": "질문",
   "hooks": [
-   "안무가 소식 들으셨어요?",
    "유니스 이야기, 무슨 일인지 짚어봤어요",
    "박신혜 무슨 일이야?",
    "우덕배 근황",
@@ -589,10 +589,10 @@
    "오늘 많이 찾아보신 소식이에요",
    "왜 이렇게 화제일까요?",
    "오늘 많이 찾아보신 소식이에요",
-   "이혜영 이야기 듣고 깜짝"
+   "이혜영 이야기 듣고 깜짝",
+   "다들 이거 아셨어요?"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224451582869",
    "https://blog.naver.com/soduwk1209/224451601709",
    "https://blog.naver.com/soduwk1209/224451595489",
    "https://blog.naver.com/soduwk1209/224452186531",
@@ -726,7 +726,8 @@
    "https://blog.naver.com/dkdk521/224436733827",
    "https://blog.naver.com/dkdk521/224436729448",
    "https://blog.naver.com/dkdk521/224436726025",
-   "https://blog.naver.com/dkdk521/224436717154"
+   "https://blog.naver.com/dkdk521/224436717154",
+   "https://blog.naver.com/dkdk521/224436683793"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1217,7 +1218,6 @@
    "https://blog.naver.com/dkdk521/224452760003"
   ],
   "backlog": [
-   "https://blog.naver.com/dkdk521/224436683793",
    "https://blog.naver.com/dkdk521/224436676469",
    "https://blog.naver.com/dkdk521/224436670915",
    "https://blog.naver.com/dkdk521/224435161192",
@@ -1605,10 +1605,9 @@
    "https://blog.naver.com/dkdk521/223183698757",
    "https://blog.naver.com/dkdk521/223021978335"
   ],
-  "last_old": 1793148355.136921,
-  "tone": "짧게",
+  "last_old": 1793168515.7573829,
+  "tone": "질문",
   "hooks": [
-   "모레노 소식 들으셨어요?",
    "유니폼 관련 소식 전해 드려요",
    "왜 이렇게 화제일까요?",
    "오늘 많이 찾아보신 소식이에요",
@@ -1622,7 +1621,8 @@
    "지금 많이 보는 스포츠 뉴스",
    "와 김효주 이런 일이 있었네",
    "다들 이거 아셨어요?",
-   "화제의 소식"
+   "화제의 소식",
+   "최원준 소식 들으셨어요?"
   ],
   "queue": [],
   "reply_ok": true
