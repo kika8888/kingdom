@@ -100,7 +100,8 @@
    "https://blog.naver.com/soduwk1209/224450633637",
    "https://blog.naver.com/soduwk1209/224451588005",
    "https://blog.naver.com/soduwk1209/224451582869",
-   "https://blog.naver.com/soduwk1209/224451601709"
+   "https://blog.naver.com/soduwk1209/224451601709",
+   "https://blog.naver.com/soduwk1209/224451595489"
   ],
   "started": true,
   "v": 2,
@@ -575,9 +576,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "친구",
+  "tone": "질문",
   "hooks": [
-   "박신혜 무슨 일이야?",
    "우덕배 근황",
    "화제가 된 이유를 정리했어요",
    "화제의 소식",
@@ -591,10 +591,10 @@
    "오늘 많이 찾아보신 소식이에요",
    "이혜영 이야기 듣고 깜짝",
    "다들 이거 아셨어요?",
-   "오늘 이 소식 다들 봤지?"
+   "오늘 이 소식 다들 봤지?",
+   "김현중 소식 들으셨어요?"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224451595489",
    "https://blog.naver.com/soduwk1209/224452186531",
    "https://blog.naver.com/soduwk1209/224452158599",
    "https://blog.naver.com/soduwk1209/224452147516",
@@ -728,7 +728,8 @@
    "https://blog.naver.com/dkdk521/224436726025",
    "https://blog.naver.com/dkdk521/224436717154",
    "https://blog.naver.com/dkdk521/224436683793",
-   "https://blog.naver.com/dkdk521/224436676469"
+   "https://blog.naver.com/dkdk521/224436676469",
+   "https://blog.naver.com/dkdk521/224436670915"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1219,7 +1220,6 @@
    "https://blog.naver.com/dkdk521/224452760003"
   ],
   "backlog": [
-   "https://blog.naver.com/dkdk521/224436670915",
    "https://blog.naver.com/dkdk521/224435161192",
    "https://blog.naver.com/dkdk521/224435137622",
    "https://blog.naver.com/dkdk521/224435128212",
@@ -1605,10 +1605,9 @@
    "https://blog.naver.com/dkdk521/223183698757",
    "https://blog.naver.com/dkdk521/223021978335"
   ],
-  "last_old": 1793194480.8417585,
-  "tone": "존댓말",
+  "last_old": 1793214498.1389766,
+  "tone": "친구",
   "hooks": [
-   "왜 이렇게 화제일까요?",
    "오늘 많이 찾아보신 소식이에요",
    "오늘의 스포츠 소식",
    "오늘 많이 찾아보신 소식이에요",
@@ -1622,7 +1621,8 @@
    "다들 이거 아셨어요?",
    "화제의 소식",
    "최원준 소식 들으셨어요?",
-   "오늘 많이 찾아보신 소식이에요"
+   "오늘 많이 찾아보신 소식이에요",
+   "이거 보고 놀람"
   ],
   "queue": [],
   "reply_ok": true
