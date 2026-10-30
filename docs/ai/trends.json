@@ -1,162 +1,173 @@
 {
- "updated": "2026-10-30 16:01",
+ "updated": "2026-10-30 23:02",
  "items": [
   {
-   "kw": "고속철도",
+   "kw": "김태형",
    "traffic": "500+",
-   "when": "10월 30일 14:40",
+   "when": "10월 30일 21:30",
    "news": [
     {
-     "title": "서울서 부산까지 1시간 주파…시속 400km 고속철 핵심기술 개발 추진",
-     "url": "https://www.dongascience.com/ko/news/80621",
-     "source": "DongA Science"
+     "title": "포수 출신 감독 ‘0명’시대…류지현-이동욱 선임으로 ‘내야수 감독 전성시대’ 활짝",
+     "url": "https://www.donga.com/news/Sports/article/all/20261030/134939694/1",
+     "source": "동아일보"
     },
     {
-     "title": "(2026 철도학회 추계학술대회) 철도 관제, 경험 의존 관제서 AI 기반 경합 예측·의사결정 지원으로 전환",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374127",
-     "source": "전기신문"
+     "title": "[영상] 롯데, 이렇게까지 바뀐다고? 내년 시즌은 다를까?",
+     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8698708",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
-   "kw": "인천공항",
-   "traffic": "200+",
-   "when": "10월 30일 14:20",
+   "kw": "kbo 리그",
+   "traffic": "500+",
+   "when": "10월 30일 21:30",
    "news": [
     {
-     "title": "[속보] 인천공항 항공사 네트워크 일부 장애…출국수속 지연",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261030143325P5W",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "인천공항 항공권 발권 시스템 ‘오류’···체크인 지연에 승객 ‘발동동’",
-     "url": "https://www.khan.co.kr/article/202610301407001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "차예련",
-   "traffic": "5000+",
-   "when": "10월 30일 14:10",
-   "news": [
-    {
-     "title": "“뺨 때리고 고막 찢어져”…차예련, 학폭 의혹에 “사실무근” 반박 [공식]",
-     "url": "https://www.mk.co.kr/news/hot-issues/12191552",
-     "source": "매일경제"
-    },
-    {
-     "title": "뺨 때려 고막 찢고 '좋은 엄마'로 TV에…유명 여배우 학폭 폭로 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/10/30/2026103013593434577",
+     "title": "\"내 인생 최고의 야구 경기\" KIA-삼성 가을야구, 美 독립리그 27홈런 거포도 홀렸다 \"내 강점은 장타력... KBO서 뛰고 싶다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/10/30/2026103010054858528",
      "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "우주",
-   "traffic": "200+",
-   "when": "10월 30일 14:10",
-   "news": [
-    {
-     "title": "인천시교육청, 최초 우주인 이소연 박사와 만나는 우주과학 교실",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=720259",
-     "source": "뉴스타운"
     },
     {
-     "title": "인천교육청, 500여 명 대상 우주과학특강 개최",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737509",
-     "source": "www.gukjenews.com"
+     "title": "'日 원투펀치' 짠물투! 오카다 부상→나가 4⅔이닝 무실점, 김성균 끝내기 희플...울산웨일즈, KIA 꺾고 폴리그 결승행 [울산 리뷰]",
+     "url": "https://www.chosun.com/sports/baseball/2026/10/30/MJQTKYZWHBQTCZRVMYYTKZBYHA/",
+     "source": "조선일보"
     }
    ]
   },
   {
-   "kw": "울산과학대학교",
+   "kw": "기아",
    "traffic": "200+",
-   "when": "10월 30일 14:00",
-   "news": []
-  },
-  {
-   "kw": "해병대",
-   "traffic": "2000+",
-   "when": "10월 30일 13:40",
+   "when": "10월 30일 21:30",
    "news": [
     {
-     "title": "후임병 성추행·폭행한 해병대 선임병 징역 1년…법정구속",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261030144457s44",
-     "source": "연합뉴스TV"
+     "title": "기아, 3분기 최대 매출에도 ‘어닝 쇼크’…주가 11% 급락",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374163",
+     "source": "전기신문"
     },
     {
-     "title": "해병대서 군 후임들 강제 추행·폭행한 20대 실형",
-     "url": "https://www.newsis.com/view/NISX20261030_0003848306",
-     "source": "뉴시스"
+     "title": "기아, 3분기 매출 역대 최대에도 영업익 기대 이하…주가 11%대 급락",
+     "url": "https://www.chosun.com/economy/industry-company/2026/10/30/KSDYK6CS6RE5ZNSDWIB3ZPTYNQ/",
+     "source": "조선일보"
     }
    ]
   },
   {
-   "kw": "휘발유",
-   "traffic": "200+",
-   "when": "10월 30일 13:40",
+   "kw": "김은지",
+   "traffic": "100+",
+   "when": "10월 30일 21:30",
    "news": [
     {
-     "title": "日, 겨울 전기·가스요금 보조키로…휘발유보조금은 단계적 축소",
-     "url": "https://www.yna.co.kr/view/AKR20261029205000073",
+     "title": "김은지, 스미레 꺾고 수협은행배 여자바둑 초대 우승",
+     "url": "https://www.yna.co.kr/view/AKR20261030172400007",
      "source": "연합뉴스"
     },
     {
-     "title": "日, 재정부담에 휘발유 보조금 단계적 축소…12월부터 매달 5엔씩",
-     "url": "https://www.news1.kr/world/northeast-asia/6337192",
+     "title": "바둑 김은지, 스미레 3-0 완파…수협은행배 초대 챔피언 등극",
+     "url": "https://www.donga.com/news/Culture/article/all/20261030/134941615/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "에버랜드 판다월드",
+   "traffic": "200+",
+   "when": "10월 30일 21:20",
+   "news": [
+    {
+     "title": "머뭇머뭇 나오더니 ‘발라당’…막내 판다 ‘슈바오’의 바깥 구경 [현장영상]",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8696431",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "\"너무 작아서 신기해\"…아기 판다 슈바오 '아장아장' 첫 등장",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823821",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "전상현",
+   "traffic": "500+",
+   "when": "10월 30일 21:10",
+   "news": [
+    {
+     "title": "역투 조상우",
+     "url": "https://www.newsis.com/view/NISI20261030_0021512209",
+     "source": "뉴시스"
+    },
+    {
+     "title": "역투 펼치는 전상현",
+     "url": "https://www.news1.kr/photos/8189573",
      "source": "뉴스1"
     }
    ]
   },
   {
-   "kw": "택시",
-   "traffic": "2000+",
-   "when": "10월 30일 13:20",
-   "news": [
-    {
-     "title": "홍성군 효도택시 8천400명 시범운행 신청…내년 1월 정식 시행",
-     "url": "https://www.yna.co.kr/view/AKR20261030048700063",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "“병원 가고 장보기 편해졌다”… 홍성 ‘어르신 효도택시’ 8400명 몰리며 폭발적 호응",
-     "url": "https://www.munhwa.com/article/11627523",
-     "source": "문화일보"
-    }
-   ]
-  },
-  {
-   "kw": "의정부시",
+   "kw": "이세돌",
    "traffic": "200+",
-   "when": "10월 30일 13:20",
+   "when": "10월 30일 21:10",
    "news": [
     {
-     "title": "동래구노인복지관, 노인 일자리 및 사회활동 지원사업 참여자 대상 문화 활동 나들이 실시",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261028.99099008394",
-     "source": "국제신문"
+     "title": "이제는 멘토 없이 혼자 해야 한다! 이세돌의 요구르트 정기 배달 | KBS 261030 방송",
+     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026147431-01-000_MFSC2&program_code=T2026-0530&program_id=PS-2026147431-01-000&section_code=04&broadcast_complete_yn=N&section_id=28580",
+     "source": "대한민국 대표 공영미디어 KBS"
     },
     {
-     "title": "의정부시 노인일자리 참여 어르신 651명, 문화활동 행사 열려",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737646",
-     "source": "국제뉴스"
+     "title": "이세돌, 43세에 벌써 20세 딸…“청소 멘토가 딸 친구뻘”",
+     "url": "https://sports.donga.com/ent/article/all/20261030/134937412/1",
+     "source": "스포츠동아"
     }
    ]
   },
   {
-   "kw": "대한민국 해병대",
-   "traffic": "100+",
-   "when": "10월 30일 13:20",
+   "kw": "오윤아 재혼 남편",
+   "traffic": "2000+",
+   "when": "10월 30일 21:10",
    "news": [
     {
-     "title": "[영상] 4년 개발 끝에…내년부터 해병대 상륙공격헬기 양산 돌입",
-     "url": "https://www.yna.co.kr/view/AKR20261029169600704",
-     "source": "연합뉴스"
+     "title": "\"시부모님 만나고...\" 오윤아 재혼 결심한 이유 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/10/29/2026102922163212296",
+     "source": "머니투데이"
     },
     {
-     "title": "K2 전차부터 300㎞ 로켓·자폭드론까지…해병대의 변신 [박수찬의 軍]",
-     "url": "https://www.segye.com/newsView/20261030503470",
-     "source": "세계일보"
+     "title": "오윤아 \"프로 수영단 입단한 아들, 기적 같은 일 일어나\"",
+     "url": "https://www.newsis.com/view/NISX20261029_0003847392",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "김영웅",
+   "traffic": "500+",
+   "when": "10월 30일 21:00",
+   "news": [
+    {
+     "title": "'KS 진출 눈앞에서 날아갔다' 삼성, 치명적인 실책 하나에 와르르…7회 3실점 악몽, 결국 최종 5차전으로 [PO4]",
+     "url": "https://www.chosun.com/sports/baseball/2026/10/30/GMYDMNRZGM2TKMJZMYYWMMZTMI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "아! '악몽의' 삼성 김영웅 '7회 대참사' 치명적 실책 '나비효과', KIA 폭풍 대반격 기회 잡았다 [PO4 현장] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/10/30/2026103016490180765",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "kbo",
+   "traffic": "2000+",
+   "when": "10월 30일 20:40",
+   "news": [
+    {
+     "title": "Tigers beat Lions to stave off KBO postseason elimination",
+     "url": "https://www.koreatimes.co.kr/sports/20261030/tigers-beat-lions-to-stave-off-kbo-postseason-elimination",
+     "source": "The Korea Times"
+    },
+    {
+     "title": "\"The players showed their efforts to prevent the last (fall baseball) game in Gwangju.\"KIA Tigers ma..",
+     "url": "https://www.mk.co.kr/en/sports/12192122",
+     "source": "매일경제"
     }
    ]
   }
