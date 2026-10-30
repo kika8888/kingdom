@@ -108,7 +108,8 @@
    "https://blog.naver.com/soduwk1209/224452327337",
    "https://blog.naver.com/soduwk1209/224452325459",
    "https://blog.naver.com/soduwk1209/224452323832",
-   "https://blog.naver.com/soduwk1209/224452328890"
+   "https://blog.naver.com/soduwk1209/224452328890",
+   "https://blog.naver.com/soduwk1209/224452338122"
   ],
   "started": true,
   "v": 2,
@@ -583,9 +584,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "질문",
+  "tone": "친구",
   "hooks": [
-   "호흡만 이야기",
    "오늘 많이 찾아보신 소식이에요",
    "왜 이렇게 화제일까요?",
    "오늘 많이 찾아보신 소식이에요",
@@ -599,10 +599,10 @@
    "지금 많이 보는 연예 뉴스",
    "이건 몰랐네",
    "김지원 근황",
-   "이 소식 어떻게 생각하세요?"
+   "이 소식 어떻게 생각하세요?",
+   "이종혁 얘기 봤어?"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224452338122",
    "https://blog.naver.com/soduwk1209/224452769924",
    "https://blog.naver.com/soduwk1209/224452776164",
    "https://blog.naver.com/soduwk1209/224452772623",
@@ -736,7 +736,8 @@
    "https://blog.naver.com/dkdk521/224435119064",
    "https://blog.naver.com/dkdk521/224435110537",
    "https://blog.naver.com/dkdk521/224434567652",
-   "https://blog.naver.com/dkdk521/224434554352"
+   "https://blog.naver.com/dkdk521/224434554352",
+   "https://blog.naver.com/dkdk521/224434539514"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1227,7 +1228,6 @@
    "https://blog.naver.com/dkdk521/224452760003"
   ],
   "backlog": [
-   "https://blog.naver.com/dkdk521/224434539514",
    "https://blog.naver.com/dkdk521/224433639507",
    "https://blog.naver.com/dkdk521/224433637708",
    "https://blog.naver.com/dkdk521/224433633880",
@@ -1605,10 +1605,9 @@
    "https://blog.naver.com/dkdk521/223183698757",
    "https://blog.naver.com/dkdk521/223021978335"
   ],
-  "last_old": 1793350978.6220472,
-  "tone": "짧게",
+  "last_old": 1793376973.4682934,
+  "tone": "질문",
   "hooks": [
-   "이건 몰랐네",
    "지금 많이 보는 스포츠 뉴스",
    "와 김효주 이런 일이 있었네",
    "다들 이거 아셨어요?",
@@ -1622,7 +1621,8 @@
    "오늘 많이 찾아보신 소식이에요",
    "인하대 이야기",
    "와 김민재 이런 일이 있었네",
-   "오늘의 스포츠 소식"
+   "오늘의 스포츠 소식",
+   "이 소식 어떻게 생각하세요?"
   ],
   "queue": [],
   "reply_ok": true
