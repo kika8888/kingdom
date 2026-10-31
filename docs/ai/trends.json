@@ -1,157 +1,173 @@
 {
- "updated": "2026-10-31 14:26",
+ "updated": "2026-10-31 21:14",
  "items": [
   {
-   "kw": "전북 대 대전",
-   "traffic": "2000+",
-   "when": "10월 31일 13:20",
-   "news": []
-  },
-  {
-   "kw": "인도네시아",
-   "traffic": "100+",
-   "when": "10월 31일 13:00",
+   "kw": "현대이 지웰",
+   "traffic": "200+",
+   "when": "10월 31일 20:10",
    "news": [
     {
-     "title": "조현, 인도네시아와 외교장관회담…전략적소통 강화 논의",
-     "url": "https://www.yna.co.kr/view/AKR20261030081400504",
+     "title": "340만명 사용 복지포인트 쇼핑몰 ‘현대이지웰’, 해킹으로 개인정보 유출",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=146907",
+     "source": "보안뉴스"
+    },
+    {
+     "title": "현대이지웰서 개인정보 유출 사고…사과문 게시",
+     "url": "https://www.yna.co.kr/view/AKR20261030179900030",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "원희",
+   "traffic": "100+",
+   "when": "10월 31일 20:10",
+   "news": [
+    {
+     "title": "'놀토' 엔믹스·아일릿, 서로 향한 팬심 고백…훈훈한 칭찬 릴레이",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6338736",
+     "source": "뉴스1"
+    },
+    {
+     "title": "엔믹스 릴리 설윤+아일릿 윤아 원희, 이 조합 유닛 짜면 블핑 안 부러울 기세(놀토)",
+     "url": "https://www.newsen.com/news_view.php?uid=202610311005421210&code=100100",
+     "source": "뉴스엔"
+    }
+   ]
+  },
+  {
+   "kw": "하수도",
+   "traffic": "100+",
+   "when": "10월 31일 19:50",
+   "news": [
+    {
+     "title": "거제 계룡로·통영 봉평동 ‘하수도 정비’ 920억 투입",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8699537",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "충남도, 아산·서산·부여 침수 예방에 1650억 투입… 배수시설 대수술",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=353535",
+     "source": "녹색경제신문"
+    }
+   ]
+  },
+  {
+   "kw": "국",
+   "traffic": "1000+",
+   "when": "10월 31일 19:40",
+   "news": [
+    {
+     "title": "바이낸스 8조4천억 원 해킹 피해…“북한이 배후”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8700100",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "사상 최대 규모인 8조4000억원어치 암호화폐 털렸다...北소행 의심",
+     "url": "https://www.chosun.com/international/international_general/2026/10/31/C2B4ZCQE3NBYXMX2AJ5CGIP77I/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "동행",
+   "traffic": "100+",
+   "when": "10월 31일 19:40",
+   "news": [
+    {
+     "title": "수원문화재단, 수원시 동네 37곳서 무료 문화프로그램 39개 운영",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3444685",
+     "source": "천지일보"
+    },
+    {
+     "title": "수원문화재단, 우리 동네 문화여행 월간 동행공간 '문화 프리(free) 패스' 운영",
+     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=800417",
+     "source": "일간투데이"
+    }
+   ]
+  },
+  {
+   "kw": "문동주",
+   "traffic": "1000+",
+   "when": "10월 31일 19:30",
+   "news": [
+    {
+     "title": "내일 없는 삼성·KIA 마운드 총력전…기다리는 kt만 미소",
+     "url": "https://www.yna.co.kr/view/AKR20261030029900007",
      "source": "연합뉴스"
     },
     {
-     "title": "김희상 셰르파, G20 정상회의 대비 차원 인도네시아 셰르파 면담",
-     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6336823",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "bangladesh vs west indies",
-   "traffic": "100+",
-   "when": "10월 31일 13:00",
-   "news": [
-    {
-     "title": "BAN vs WI Cricket Scorecard, 1st Test at Dhaka, October 28 - November 01, 2026",
-     "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-1st-test-1553295/full-scorecard",
-     "source": "Cricinfo"
-    },
-    {
-     "title": "Shadman finds reward in patient preparation",
-     "url": "https://www.cricbuzz.com/cricket-news/140702/bangladesh-vs-west-indies-shadman-islam-finds-reward-in-patient-preparation-cricbuzzcom",
-     "source": "Cricbuzz"
-    }
-   ]
-  },
-  {
-   "kw": "jtbc",
-   "traffic": "200+",
-   "when": "10월 31일 12:30",
-   "news": [
-    {
-     "title": "Chefs discuss weight loss and similar looks in JTBC special video",
-     "url": "https://www.famtimes.co.kr/en/news/articleView.html?idxno=703790",
-     "source": "www.famtimes.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "이지현",
-   "traffic": "1000+",
-   "when": "10월 31일 12:10",
-   "news": [
-    {
-     "title": "\"가족 때문에 불행\"…'싱글맘' 이지현, 11살 아들 가출 고백 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/10/31/2026103023354313811",
+     "title": "“(김)도영이와 승부하고 싶었다” 승리에도 아쉬운 원태인, 4차전 생애 첫 연투 각오 “내가 최후의 보루” - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/10/30/202610301046773411O",
      "source": "머니투데이"
-    },
-    {
-     "title": "“아빠랑 살고 싶어” 김현숙, 아들 한마디에 자책­…48세에 대학원 진학",
-     "url": "https://sports.donga.com/ent/article/all/20261030/134937445/1",
-     "source": "스포츠동아"
     }
    ]
   },
   {
-   "kw": "제주 삼다수",
-   "traffic": "200+",
-   "when": "10월 31일 12:10",
+   "kw": "로스앤젤레스 fc",
+   "traffic": "500+",
+   "when": "10월 31일 19:30",
    "news": [
     {
-     "title": "“삼다수인 줄 알았는데”…무라벨 생수 늘자 식별 혼선",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=05162726645618168&mediaCodeNo=257",
-     "source": "이데일리"
+     "title": "\"손흥민, 약속해 놓고 아직도 안 지켰다!\" 日 레전드 요시다 마야, 공개 불만 폭발…대체 무슨 일?",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015955",
+     "source": "SPOTV NEWS"
     },
     {
-     "title": "라벨 뗀 제주삼다수, 한라산 새기고 페트병 무게 줄였다",
-     "url": "https://www.donga.com/news/Economy/article/all/20261030/134938632/1",
+     "title": "'손흥민 골 취소' LAFC, LA더비서 2-2 무승부…PO 출전권은 확보",
+     "url": "https://www.yna.co.kr/view/AKR20261026084300007",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "나는 solo",
+   "traffic": "1000+",
+   "when": "10월 31일 19:20",
+   "news": [
+    {
+     "title": "'나솔' 34기 공무원 영철, 뜬금 학력 논란…\"거짓말한 것도 아닌데\"[이슈S]",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016401",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "“언니들 정신 차려!” 데이트 후 깊어지는 여자들의 고민 #나는솔로 EP.277ㅣSBS PLUS X ENAㅣ수요일 밤 10시 30분",
+     "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000638951",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "gs리테일",
+   "traffic": "200+",
+   "when": "10월 31일 19:20",
+   "news": [
+    {
+     "title": "GS리테일, 국가보훈부와 협약…유공자 지원 확대",
+     "url": "https://www.yna.co.kr/view/AKR20261030028000030",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "보훈부와 손잡고 ‘일상 속 보훈’ 확산",
+     "url": "https://www.donga.com/news/Economy/article/all/20261029/134928168/2",
      "source": "동아일보"
     }
    ]
   },
   {
-   "kw": "india vs uae",
-   "traffic": "1000+",
-   "when": "10월 31일 11:50",
+   "kw": "김광규",
+   "traffic": "100+",
+   "when": "10월 31일 19:20",
    "news": [
     {
-     "title": "India vs UAE, Hong Kong Sixes Highlights: UAE defeats IND by six wickets",
-     "url": "https://sportstar.thehindu.com/cricket/india-vs-uae-hong-kong-sixes-live-score-updates-highlights-commentary/article71648091.ece",
-     "source": "Sportstar"
+     "title": "김광규, 유재석·하하까지 네 명의 전담 비서 거느린다…‘놀면 뭐하니?’ VIP 하루의 반전",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=845810",
+     "source": "제민일보"
     },
     {
-     "title": "India vs UAE: After Pakistan loss, Krunal Pandya's men suffer another Hong Kong Sixes 2026 defeat; Afghanistan win",
-     "url": "https://www.livemint.com/sports/cricket-news/india-vs-uae-after-pakistan-loss-krunal-pandyas-men-suffer-another-hong-kong-sixes-2026-defeat-afghanistan-win-11793421134657.html",
-     "source": "Livemint"
-    }
-   ]
-  },
-  {
-   "kw": "jtbc 마라톤",
-   "traffic": "200+",
-   "when": "10월 31일 11:50",
-   "news": [
-    {
-     "title": "월치, 11월1일 JTBC 마라톤서 스포츠 케어 제품 체험 부스 운영",
-     "url": "https://siminilbo.co.kr/news/newsview.php?ncode=1160286451854054",
-     "source": "시민일보"
-    },
-    {
-     "title": "러닝에도 MBTI가 있다?…HLB라이프케어, 러닝 유형별 운동법 제안",
-     "url": "https://www.news1.kr/bio/pharmaceutical-bio/6338001",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "공휴일",
-   "traffic": "2000+",
-   "when": "10월 31일 11:40",
-   "news": [
-    {
-     "title": "노동절·제헌절 대체공휴일 첫 적용… 2027년 휴일 및 연차 활용법 총정리",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3738221",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "2027년 10월 연휴, 연차 4일로 10일 쉰다",
-     "url": "https://www.vegannews.co.kr/news/article.html?no=398553",
-     "source": "비건뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "warriors vs lakers",
-   "traffic": "200+",
-   "when": "10월 31일 11:40",
-   "news": [
-    {
-     "title": "Preview: Warriors welcome Lakers in rematch of opening night",
-     "url": "https://www.goldenstateofmind.com/general/113079/preview-warriors-welcome-lakers-in-rematch-of-opening-night",
-     "source": "Golden State Of Mind"
-    },
-    {
-     "title": "Lakers make final decision on Ziaire Williams for Friday's game",
-     "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/30/lakers-make-final-decision-on-ziaire-williams-for-fridays-game/92524282007/",
-     "source": "Lakers Wire"
+     "title": "김광규, 드디어 서울에 ‘내 집’ 마련…“28년 걸렸네” 뭉클",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261031/134942827/1",
+     "source": "동아일보"
     }
    ]
   }
