@@ -1,173 +1,173 @@
 {
- "updated": "2026-11-01 10:01",
+ "updated": "2026-11-01 16:26",
  "items": [
   {
-   "kw": "화재",
-   "traffic": "200+",
-   "when": "11월 01일 08:50",
+   "kw": "빙그레",
+   "traffic": "500+",
+   "when": "11월 01일 15:20",
    "news": [
     {
-     "title": "경북소방 '겨울철 화재안전대책' 추진…사상자 10% 줄인다",
-     "url": "https://www.newsis.com/view/NISX20261101_0003849570",
+     "title": "\"젠슨 황도 100개 쏘더니\"…해외서 불티난 52살 '국민 간식'",
+     "url": "https://www.hankyung.com/article/2026110178927",
+     "source": "한국경제"
+    },
+    {
+     "title": "빙그레 바나나맛우유 수출 4년새 두배…해외에 4번째 법인 설립",
+     "url": "https://www.yna.co.kr/view/AKR20261031036600030",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "김지찬",
+   "traffic": "200+",
+   "when": "11월 01일 15:10",
+   "news": [
+    {
+     "title": "김지찬, 적시타 치고 도루까지",
+     "url": "https://www.newsis.com/view/NISI20261101_0021513578",
      "source": "뉴시스"
     },
     {
-     "title": "[기고] 올겨울 월동 준비 목록에 `안전`을 더하자",
-     "url": "https://www.imaeil.com/page/view/2026102216372069216",
-     "source": "매일신문"
+     "title": "[사진] 득점 올린 강민호와 이재원, 박진만 감독과 하이파이브",
+     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/01/GI2GGZRZHEZTKMRZMUYDKNRRGQ/",
+     "source": "Chosunbiz"
     }
    ]
   },
   {
-   "kw": "정전",
-   "traffic": "100+",
-   "when": "11월 01일 08:50",
-   "news": [
-    {
-     "title": "거제서 전신주 파손…아파트 1천200여세대 한때 정전",
-     "url": "https://www.yna.co.kr/view/AKR20261031039100052",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "거제 공사 현장서 전신주 파손…1200세대 아파트 단지 정전",
-     "url": "https://www.donga.com/news/Society/article/all/20261031/134942831/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "롤드컵 8강",
-   "traffic": "500+",
-   "when": "11월 01일 08:40",
-   "news": [
-    {
-     "title": "[롤드컵] '운명의 멸망전' 첫 세트부터 대접전… 한화생명, 中 BLG에 아쉬운 1세트 덜미",
-     "url": "https://www.osen.co.kr/article/G1112902078",
-     "source": "OSEN"
-    },
-    {
-     "title": "[롤드컵] 젠지는 LYON, T1은 KC, DK는 BLG…롤드컵 8강 대진 확정",
-     "url": "https://sports.khan.co.kr/article/202611010923003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "자폭형 무인 항공기",
+   "kw": "스포츠",
    "traffic": "200+",
-   "when": "11월 01일 08:40",
+   "when": "11월 01일 15:00",
    "news": [
     {
-     "title": "북한 무인기 공개‥남북 드론 전력차 해법은?",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6862218_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "김여정은 왜 밝은 옷을 입고 전방에 나타났을까 …북한이 숨긴 사진, 북한이 퍼트린 사진 [청계천 옆 사진관]",
-     "url": "https://www.donga.com/news/Politics/article/all/20261031/134942240/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "이찬원",
-   "traffic": "500+",
-   "when": "11월 01일 08:30",
-   "news": [
-    {
-     "title": "이찬원 팬클럽, 생일 맞아 청각장애인 위해 3,445만원 후원",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3737647",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "가수 이찬원 팬클럽 ‘합심대도 Chan’s’, 경남발달장애인복지협회에 후원금 200만 원 전달",
-     "url": "https://www.idomin.com/news/articleView.html?idxno=2018268",
-     "source": "경남도민일보"
-    }
-   ]
-  },
-  {
-   "kw": "gs건설",
-   "traffic": "100+",
-   "when": "11월 01일 08:30",
-   "news": [
-    {
-     "title": "건설사 해킹에 부각된 입주민 정보보안…아파트 첨단화의 그늘",
-     "url": "https://www.yna.co.kr/view/AKR20261031047400003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "GS건설도 해킹…아파트 입주민 개인정보 유출",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8700288",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "테일러 프리츠",
-   "traffic": "100+",
-   "when": "11월 01일 08:20",
-   "news": [
-    {
-     "title": "Olivia Jade Reportedly Has a New Man in the Picture, & It’s Not Taylor Fritz",
-     "url": "https://www.yahoo.com/entertainment/celebrity/articles/olivia-jade-reportedly-man-picture-190624887.html",
-     "source": "Yahoo"
-    },
-    {
-     "title": "OLIVIA JADE’S RELATIONSHIP REVEALED: Mystery man uncovered",
-     "url": "https://www.deuxmoi.world/news/olivia-jades-relationship-revealed",
-     "source": "DeuxMoi.world"
-    }
-   ]
-  },
-  {
-   "kw": "이정영",
-   "traffic": "200+",
-   "when": "11월 01일 07:40",
-   "news": [
-    {
-     "title": "\"나는 코리안 타이거, 증명하겠다\" 이정영 계체 통과, 美 파이터와 맞대결 '화끈 다짐' - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/10/31/2026103113024659616",
+     "title": "'다이렉트 승격권 진입' 수원FC, 3경기 남기고 2위 탈환 '하정우 결승골'... 안산 1-0 제압 [수원 현장리뷰] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/01/2026110112384474357",
      "source": "머니투데이"
     },
     {
-     "title": "또 다시 쓰러진 코리안 타이거...이로사에 1라운드 KO패 [MK현장]",
-     "url": "https://www.mk.co.kr/news/sports/12192535",
+     "title": "K리그2 수원FC, 안산에 1-0 승리",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039519",
+     "source": "기호일보"
+    }
+   ]
+  },
+  {
+   "kw": "kbo",
+   "traffic": "2000+",
+   "when": "11월 01일 14:50",
+   "news": [
+    {
+     "title": "Samsung, KIA Clash for Korean Series Berth",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/01/ENUCCRV5KND6VHESBYRVX2IEQY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "Right-handers squaring off again with KBO championship series berth at stake",
+     "url": "https://www.koreatimes.co.kr/sports/20261031/right-handers-squaring-off-again-with-kbo-championship-series-berth-at-stake",
+     "source": "The Korea Times"
+    }
+   ]
+  },
+  {
+   "kw": "상장지수펀드",
+   "traffic": "500+",
+   "when": "11월 01일 14:50",
+   "news": [
+    {
+     "title": "\"시장 흔들려도 버텨라\"…연령별 ETF 투자 황금비율은",
+     "url": "https://www.hankyung.com/article/202611018106i",
+     "source": "한국경제"
+    },
+    {
+     "title": "최고민수의 442 포트폴리오 전술✨",
+     "url": "https://www.mt.co.kr/video/channel/475303",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "england vs south africa",
+   "traffic": "200+",
+   "when": "11월 01일 14:50",
+   "news": [
+    {
+     "title": "ENG 68/2 (4) (Fynn Hudson-Prentice 8(4) Ed Barnard 35(10)) | South Africa vs England, Bowl, Final, Hong Kong Sixes 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+     "url": "https://www.cricbuzz.com/live-cricket-scores/175210/rsa-vs-eng-bowl-final-hong-kong-sixes-2026",
+     "source": "Cricbuzz"
+    },
+    {
+     "title": "England vs South Africa Stats",
+     "url": "https://thesportstak.com/cricket/match/eng-vs-sa-bowl-final-hong-kong-sixes-01-november-2026-275393/stats",
+     "source": "SportsTak"
+    }
+   ]
+  },
+  {
+   "kw": "크보",
+   "traffic": "100+",
+   "when": "11월 01일 14:50",
+   "news": [
+    {
+     "title": "Samsung's Fedde Vows to Cheer Team to Korean Series",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/01/UXBTH2YXNFDQBHR2ZSAIID5OEY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "Game 5 of the playoffs (PO, best-of-five) between the 2026 Shinhan SOL KBO postseason (PS) KIA Tiger..",
+     "url": "https://www.mk.co.kr/en/sports/12192683",
      "source": "매일경제"
     }
    ]
   },
   {
-   "kw": "milan vs inter",
-   "traffic": "100+",
-   "when": "11월 01일 07:40",
+   "kw": "닥터 x 시청률",
+   "traffic": "500+",
+   "when": "11월 01일 14:40",
    "news": [
     {
-     "title": "Video: Milan surge into 2-0 lead over Inter within first 10 minutes",
-     "url": "https://football-italia.net/video-milan-surge-into-2-0-lead-over-inter/",
-     "source": "Football Italia"
+     "title": "시청률 20% 앞두고 15%대로…‘닥터X’ 전공의 파업 일침, 2회 연속 하락",
+     "url": "https://www.mk.co.kr/news/hot-issues/12192541",
+     "source": "매일경제"
     },
     {
-     "title": "In the footsteps of Kaká and Çalhanoğlu: Rabiot writes an exceptional chapter with Milan",
-     "url": "https://www.goal.com/en/news/in-the-footsteps-of-kaka-and-calhanoglu-rabiot-writes-an-exceptional-chapter-with-milan/blt02cba0df9cf4e96d",
-     "source": "Goal.com"
+     "title": "의료 파업 다룬 ‘닥터X’ 시청률 하락…20% 못 넘고 15.6%",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261101/134945053/1",
+     "source": "동아일보"
     }
    ]
   },
   {
-   "kw": "fc barcelona vs deportivo alavés standings",
-   "traffic": "500+",
-   "when": "11월 01일 07:30",
+   "kw": "기아 야구",
+   "traffic": "200+",
+   "when": "11월 01일 14:40",
    "news": [
     {
-     "title": "De Jong, Adeyemi start in a 4-2-3-1: How Barcelona can line up against Alaves",
-     "url": "https://barcauniversal.com/de-jong-adeyemi-start-in-a-4-2-3-1-how-barcelona-can-line-up-against-alaves/",
-     "source": "Barca Universal"
+     "title": "KIA 카스트로 \"좋은 공 기다릴 것\"…PO 최종전 앞두고 전략 수정",
+     "url": "https://www.yna.co.kr/view/AKR20261101024800007",
+     "source": "연합뉴스"
     },
     {
-     "title": "Barca hammer Alaves to retain Liga top spot",
-     "url": "https://www.rfi.fr/en/sports/20261031-barca-hammer-alaves-to-retain-liga-top-spot",
-     "source": "RFI"
+     "title": "\"좌절하지 마, 에너지 유지하자\" 박재현 어떻게 달랬나...할 일 많은 카스트로, \"오늘 모두가 잘할 수 있다\" [PO5]",
+     "url": "https://www.osen.co.kr/article/G1112902137",
+     "source": "OSEN"
+    }
+   ]
+  },
+  {
+   "kw": "디아즈",
+   "traffic": "200+",
+   "when": "11월 01일 14:40",
+   "news": [
+    {
+     "title": "'2경기 연속 수비 실수' 디아즈, PO 통산 최다 실책 타이[PO]",
+     "url": "https://www.newsis.com/view/NISX20261101_0003849800",
+     "source": "뉴시스"
+    },
+    {
+     "title": "[포토] '3회말 안타로 출루한' 김영웅 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/01/2026110115590087742",
+     "source": "머니투데이"
     }
    ]
   }
