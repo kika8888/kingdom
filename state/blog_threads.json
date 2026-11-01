@@ -116,7 +116,8 @@
    "https://blog.naver.com/soduwk1209/224452788857",
    "https://blog.naver.com/soduwk1209/224452784784",
    "https://blog.naver.com/soduwk1209/224452780325",
-   "https://blog.naver.com/soduwk1209/224452801221"
+   "https://blog.naver.com/soduwk1209/224452801221",
+   "https://blog.naver.com/soduwk1209/224452794090"
   ],
   "started": true,
   "v": 2,
@@ -422,7 +423,9 @@
    "https://blog.naver.com/soduwk1209/224453944390",
    "https://blog.naver.com/soduwk1209/224460771978",
    "https://blog.naver.com/soduwk1209/224460785078",
-   "https://blog.naver.com/soduwk1209/224460779663"
+   "https://blog.naver.com/soduwk1209/224460779663",
+   "https://blog.naver.com/soduwk1209/224460862133",
+   "https://blog.naver.com/soduwk1209/224460860816"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224437758802",
@@ -594,9 +597,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "짧게",
+  "tone": "감탄",
   "hooks": [
-   "오늘의 연예 소식",
    "이 소식 진짜 의외다",
    "화제가 된 이유를 정리했어요",
    "지금 많이 보는 연예 뉴스",
@@ -610,10 +612,10 @@
    "와 임영웅 이런 일이 있었네",
    "화제의 소식",
    "화제가 된 이유를 정리했어요",
-   "전지현 이야기"
+   "전지현 이야기",
+   "와 감우성 이런 일이 있었네"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224452794090",
    "https://blog.naver.com/soduwk1209/224453659314",
    "https://blog.naver.com/soduwk1209/224453654060",
    "https://blog.naver.com/soduwk1209/224453663290",
@@ -629,7 +631,9 @@
    "https://blog.naver.com/soduwk1209/224453944390",
    "https://blog.naver.com/soduwk1209/224460771978",
    "https://blog.naver.com/soduwk1209/224460785078",
-   "https://blog.naver.com/soduwk1209/224460779663"
+   "https://blog.naver.com/soduwk1209/224460779663",
+   "https://blog.naver.com/soduwk1209/224460862133",
+   "https://blog.naver.com/soduwk1209/224460860816"
   ],
   "reply_ok": true
  },
@@ -750,7 +754,8 @@
    "https://blog.naver.com/dkdk521/224433629050",
    "https://blog.naver.com/dkdk521/224433546896",
    "https://blog.naver.com/dkdk521/224433538809",
-   "https://blog.naver.com/dkdk521/224460886391"
+   "https://blog.naver.com/dkdk521/224460886391",
+   "https://blog.naver.com/dkdk521/224432945111"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1242,7 +1247,6 @@
    "https://blog.naver.com/dkdk521/224460886391"
   ],
   "backlog": [
-   "https://blog.naver.com/dkdk521/224432945111",
    "https://blog.naver.com/dkdk521/224432924103",
    "https://blog.naver.com/dkdk521/224432845408",
    "https://blog.naver.com/dkdk521/224432835596",
@@ -1613,10 +1617,9 @@
    "https://blog.naver.com/dkdk521/223183698757",
    "https://blog.naver.com/dkdk521/223021978335"
   ],
-  "last_old": 1793487070.3007143,
-  "tone": "짧게",
+  "last_old": 1793526396.8902118,
+  "tone": "친구",
   "hooks": [
-   "양의지 근황",
    "모레노 무슨 일이야?",
    "이 소식 진짜 의외다",
    "오늘 많이 찾아보신 소식이에요",
@@ -1630,7 +1633,8 @@
    "화제가 된 이유를 정리했어요",
    "다들 이거 아셨어요?",
    "신지애 이야기 듣고 깜짝",
-   "지금 많이 보는 스포츠 뉴스"
+   "지금 많이 보는 스포츠 뉴스",
+   "오늘 이 소식 다들 봤지?"
   ],
   "queue": [],
   "reply_ok": true
