@@ -119,7 +119,8 @@
    "https://blog.naver.com/soduwk1209/224452801221",
    "https://blog.naver.com/soduwk1209/224452794090",
    "https://blog.naver.com/soduwk1209/224453659314",
-   "https://blog.naver.com/soduwk1209/224453654060"
+   "https://blog.naver.com/soduwk1209/224453654060",
+   "https://blog.naver.com/soduwk1209/224453663290"
   ],
   "started": true,
   "v": 2,
@@ -603,9 +604,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "감탄",
+  "tone": "친구",
   "hooks": [
-   "지금 많이 보는 연예 뉴스",
    "이건 몰랐네",
    "김지원 근황",
    "이 소식 어떻게 생각하세요?",
@@ -619,10 +619,10 @@
    "전지현 이야기",
    "와 감우성 이런 일이 있었네",
    "오늘의 연예 소식",
-   "하나로 이야기 듣고 깜짝"
+   "하나로 이야기 듣고 깜짝",
+   "이영애 얘기 봤어?"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224453663290",
    "https://blog.naver.com/soduwk1209/224452807934",
    "https://blog.naver.com/soduwk1209/224453668339",
    "https://blog.naver.com/soduwk1209/224453930750",
@@ -765,7 +765,8 @@
    "https://blog.naver.com/dkdk521/224460886391",
    "https://blog.naver.com/dkdk521/224432945111",
    "https://blog.naver.com/dkdk521/224461478267",
-   "https://blog.naver.com/dkdk521/224461467348"
+   "https://blog.naver.com/dkdk521/224461467348",
+   "https://blog.naver.com/dkdk521/224461456289"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1634,9 +1635,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1793526396.8902118,
-  "tone": "친구",
+  "tone": "존댓말",
   "hooks": [
-   "오늘 많이 찾아보신 소식이에요",
    "인하대 이야기",
    "와 김민재 이런 일이 있었네",
    "오늘의 스포츠 소식",
@@ -1650,10 +1650,10 @@
    "지금 많이 보는 스포츠 뉴스",
    "오늘 이 소식 다들 봤지?",
    "지소연 소식, 정리해 드릴게요",
-   "이거 보고 놀람"
+   "이거 보고 놀람",
+   "오늘 많이 찾아보신 소식이에요"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224461456289",
    "https://blog.naver.com/dkdk521/224461449040",
    "https://blog.naver.com/dkdk521/224461504117",
    "https://blog.naver.com/dkdk521/224461486981"
