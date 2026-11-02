@@ -1,151 +1,173 @@
 {
- "updated": "2026-11-02 08:31",
+ "updated": "2026-11-02 14:52",
  "items": [
   {
-   "kw": "휴고 칼데라노",
+   "kw": "기인",
    "traffic": "200+",
-   "when": "11월 02일 07:10",
+   "when": "11월 02일 13:30",
    "news": [
     {
-     "title": "'심장이 멎을 듯한 7게임 혈투!' 장우진, 마지막 14-12 '연속 듀스' 이겨내고 세계 7위 칼데라노 격파...몽펠리에 결승 무대 오른다 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/01/202611012131770272O",
+     "title": "춘길X장혜리, 연습실 문까지 잠갔다…핑크빛 폭발 커플 요가 (천만기인쇼)",
+     "url": "https://sports.donga.com/ent/article/all/20261102/134947673/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "‘천만기인쇼’ 표창원 파격 변신에 춘길·장혜리 묘한 기류… 195점 기록 깨질까",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3445033",
+     "source": "천지일보"
+    }
+   ]
+  },
+  {
+   "kw": "정년 연장",
+   "traffic": "5000+",
+   "when": "11월 02일 13:20",
+   "news": [
+    {
+     "title": "'박애'를 흔드는 프랑스 연금 갈등[투데이窓/박경덕] - 머니투데이",
+     "url": "https://www.mt.co.kr/opinion/2026/11/02/2026110110081316176",
      "source": "머니투데이"
     },
     {
-     "title": "‘거침없다’ 탁구 에이스 장우진, 세계랭킹 6위와 결승 티켓 다툰다…WTT 챔피언스 몽펠리에 4강 진출",
-     "url": "https://www.osen.co.kr/article/G1112902055",
+     "title": "“임금 삭감·촉탁직 재고용 말고, 65세 온전한 정년연장 입법하라”",
+     "url": "https://www.ilabor.org/news/articleView.html?idxno=12450",
+     "source": "https://www.ilabor.org/"
+    }
+   ]
+  },
+  {
+   "kw": "신의 구슬",
+   "traffic": "1000+",
+   "when": "11월 02일 13:20",
+   "news": [
+    {
+     "title": "안보현·이성민, 세대 뛰어넘는 특별한 전우호흡 예고…든든한 투샷(‘신의 구슬’)",
+     "url": "https://www.osen.co.kr/article/G1112902607",
+     "source": "OSEN"
+    },
+    {
+     "title": "‘신의 구슬’ 안보현·이성민, 관음보주 호송 작전서 맞선다… 첫 투샷 공개",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3445062",
+     "source": "천지일보"
+    }
+   ]
+  },
+  {
+   "kw": "당구",
+   "traffic": "1000+",
+   "when": "11월 02일 13:10",
+   "news": [
+    {
+     "title": "경복당구회, ‘창립 20주년 기념 당구축제’ 성황리 마무리",
+     "url": "https://sports.donga.com/sports/article/all/20261102/134950261/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "경복당구회 20주년 축제…동문 170명 참가 : 스포츠",
+     "url": "https://news.jkn.co.kr/post/1065270",
+     "source": "재경일보"
+    }
+   ]
+  },
+  {
+   "kw": "손태영",
+   "traffic": "100+",
+   "when": "11월 02일 13:10",
+   "news": [
+    {
+     "title": "손태영, 미국서 아들 시집살이…\"스트레스 확 올라와\"",
+     "url": "https://www.newsis.com/view/NISX20261102_0003850414",
+     "source": "뉴시스"
+    },
+    {
+     "title": "손태영 “시어머니도 아니고 아들 시집살이”…룩희 때문에 스트레스",
+     "url": "https://sports.donga.com/ent/article/all/20261101/134946031/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "kw": "농업",
+   "traffic": "500+",
+   "when": "11월 02일 13:00",
+   "news": [
+    {
+     "title": "대동, 역대 최대 규모 키엠스타 참가…AI트랙터·신형 농업드론 공개 - 머니투데이",
+     "url": "https://www.mt.co.kr/living/2026/11/02/2026110213391627658",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[게시판] 농식품부, 4∼7일 대구서 '2026 국제농기계자재박람회'",
+     "url": "https://stock.mk.co.kr/news/view/1186686",
+     "source": "매일경제 마켓"
+    }
+   ]
+  },
+  {
+   "kw": "철원",
+   "traffic": "200+",
+   "when": "11월 02일 13:00",
+   "news": [
+    {
+     "title": "[속보]육군 “강원도 철원 소재 전방 부대서 하사 1명 외상입고 사망”···사고 경위 조사 중",
+     "url": "https://www.khan.co.kr/article/202611021114001",
+     "source": "경향신문"
+    },
+    {
+     "title": "육군 \"강원 철원 전방부대서 하사 1명 외상 입고 숨져\"",
+     "url": "https://news.jtbc.co.kr/article/NB12325985",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "로스앤젤레스 fc 대 미네소타 유나이티드 fc 순위",
+   "traffic": "50000+",
+   "when": "11월 02일 12:50",
+   "news": [
+    {
+     "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발",
+     "url": "https://www.yna.co.kr/view/AKR20261102091400007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "손흥민 선발 풀타임에도 '대참사' LAFC, 12위 미네소타에 1-3 완패...전반에만 2골 허용→후반 추가골까지 '속수무책'",
+     "url": "https://www.osen.co.kr/article/G1112902576",
      "source": "OSEN"
     }
    ]
   },
   {
-   "kw": "비트코인",
-   "traffic": "500+",
-   "when": "11월 02일 07:10",
+   "kw": "부평구",
+   "traffic": "1000+",
+   "when": "11월 02일 12:50",
    "news": [
     {
-     "title": "北해커 훔친 비트코인, 테슬라 보유량 넘어‥北연간 수출액 3배",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6862373_36925.html",
-     "source": "MBC 뉴스"
+     "title": "인천 부평구, ‘재개발·재건축 원스톱 지원센터’ 신설 박차… 현장 소통 강화",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=353607",
+     "source": "녹색경제신문"
     },
     {
-     "title": "“8조 원이 한순간에 증발”…바이낸스, 대체 왜 털렸나? [잇슈 머니]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700945",
-     "source": "KBS 뉴스"
+     "title": "인천 부평구, 재개발·재건축 원스톱센터 신설·복지평가 ‘특별상’수상",
+     "url": "https://www.metroseoul.co.kr/article/20261102500322",
+     "source": "메트로신문"
     }
    ]
   },
   {
-   "kw": "구미시",
+   "kw": "과태료",
    "traffic": "200+",
-   "when": "11월 02일 07:00",
+   "when": "11월 02일 12:40",
    "news": [
     {
-     "title": "창업안착 100개사·미래기술 60개사…구미시, 4대 성과목표·6대 추진 전략 완성",
-     "url": "https://www.ajunews.com/view/20261101203439139",
-     "source": "아주경제"
+     "title": "\"과태료 부과했다\"…택시민원 허위종결한 부평구 공무원 해임",
+     "url": "https://news.ikbc.co.kr/article/view/kbc202611020013",
+     "source": "KBC광주방송"
     },
     {
-     "title": "구미 중소기업·소상공인 협업 지원 길 열렸다",
-     "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089130",
-     "source": "경북일보"
-    }
-   ]
-  },
-  {
-   "kw": "지소연",
-   "traffic": "100+",
-   "when": "11월 02일 07:00",
-   "news": [
-    {
-     "title": "지소연 소신 발언! \"손흥민 선수가 안쓰럽다…고참들 단합 중요해, 후배들이 똑같이 보고 배운다\"→정답 내놨다",
-     "url": "https://www.xportsnews.com/article/2213907",
-     "source": "엑스포츠뉴스"
-    },
-    {
-     "title": "'A매치 200경기 앞둔' 지소연 \"국가대표 20년 차...대표팀 주장은 한 번도 안 했죠\"",
-     "url": "https://www.hankookilbo.com/news/article/A2026103014500000918",
-     "source": "한국일보"
-    }
-   ]
-  },
-  {
-   "kw": "klasemen liverpool vs arsenal",
-   "traffic": "100+",
-   "when": "11월 02일 07:00",
-   "news": []
-  },
-  {
-   "kw": "사학연금",
-   "traffic": "200+",
-   "when": "11월 02일 06:50",
-   "news": []
-  },
-  {
-   "kw": "김호령",
-   "traffic": "5000+",
-   "when": "11월 02일 06:40",
-   "news": [
-    {
-     "title": "KIA 가을 최악 악몽 주인공… FA 가치 시험대 오른다, 설마 이렇게 KIA 떠날까",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016924",
-     "source": "SPOTV NEWS"
-    },
-    {
-     "title": "[사진]아쉬운 김호령 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/10/30/202610302057770725O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "파업",
-   "traffic": "200+",
-   "when": "11월 02일 06:40",
-   "news": [
-    {
-     "title": "포스코노조, 7일 조합원 대상 임금교섭 잠정 합의안 찬반투표",
-     "url": "https://www.yna.co.kr/view/AKR20261101014100053",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "포스코 노조 파업 철회하고 7일 임금협상 잠정합의안 투표, 과반 찬성하면 최종 타결",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450846",
-     "source": "비즈니스포스트"
-    }
-   ]
-  },
-  {
-   "kw": "미국 중간선거",
-   "traffic": "200+",
-   "when": "11월 02일 06:30",
-   "news": [
-    {
-     "title": "美, 5200만명 사전투표 역대 최대… 민주당원 비율이 11%p 더 높아",
-     "url": "https://www.chosun.com/international/international_general/2026/11/02/J7MG2TX5ABG4DKTJFURO3HROLQ/",
-     "source": "조선일보"
-    },
-    {
-     "title": "트럼프, 아이오와·캔자스 주에서 유세 마무리...알래스카 주 공화당 후보 \"져도 결과 받아들일 것\"",
-     "url": "https://www.ytn.co.kr/_ln/0104_202611020803313813",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "신인감독 김연경",
-   "traffic": "200+",
-   "when": "11월 02일 06:20",
-   "news": [
-    {
-     "title": "김연경 큰 실망…자존심 다 걸고 핑크스파이더스 맞대결",
-     "url": "https://sports.donga.com/ent/article/all/20261101/134944838/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "‘신인감독 김연경2’ 표승주 팀과 맞대결서 고전…김연경 “할 말이 없다”",
-     "url": "https://www.sedaily.com/article/20108740",
-     "source": "서울경제"
+     "title": "택시 민원 전산기록 조작한 부평구 공무원 해임…공소청 송치",
+     "url": "https://www.kyeonggi.com/article/20261102580018",
+     "source": "경기일보"
     }
    ]
   }
