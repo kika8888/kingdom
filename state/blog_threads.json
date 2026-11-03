@@ -124,7 +124,8 @@
    "https://blog.naver.com/soduwk1209/224452807934",
    "https://blog.naver.com/soduwk1209/224453668339",
    "https://blog.naver.com/soduwk1209/224453930750",
-   "https://blog.naver.com/soduwk1209/224453876964"
+   "https://blog.naver.com/soduwk1209/224453876964",
+   "https://blog.naver.com/soduwk1209/224453861258"
   ],
   "started": true,
   "v": 2,
@@ -445,7 +446,11 @@
    "https://blog.naver.com/soduwk1209/224462485260",
    "https://blog.naver.com/soduwk1209/224462679121",
    "https://blog.naver.com/soduwk1209/224462653950",
-   "https://blog.naver.com/soduwk1209/224463796305"
+   "https://blog.naver.com/soduwk1209/224463796305",
+   "https://blog.naver.com/soduwk1209/224463841631",
+   "https://blog.naver.com/soduwk1209/224463832188",
+   "https://blog.naver.com/soduwk1209/224463818871",
+   "https://blog.naver.com/soduwk1209/224463809684"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224437758802",
@@ -617,9 +622,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "친구",
+  "tone": "짧게",
   "hooks": [
-   "오늘 많이 찾아보신 소식이에요",
    "용준형 이야기 듣고 깜짝",
    "전참시 관련 소식 전해 드려요",
    "와 임영웅 이런 일이 있었네",
@@ -633,10 +637,10 @@
    "전지현 어떻게 된 일일까요?",
    "이거 보고 놀람",
    "지금 많이 보는 연예 뉴스",
-   "오늘 이 소식 다들 봤지?"
+   "오늘 이 소식 다들 봤지?",
+   "이다해 근황"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224453861258",
    "https://blog.naver.com/soduwk1209/224453672007",
    "https://blog.naver.com/soduwk1209/224454004323",
    "https://blog.naver.com/soduwk1209/224453991118",
@@ -659,7 +663,11 @@
    "https://blog.naver.com/soduwk1209/224462485260",
    "https://blog.naver.com/soduwk1209/224462679121",
    "https://blog.naver.com/soduwk1209/224462653950",
-   "https://blog.naver.com/soduwk1209/224463796305"
+   "https://blog.naver.com/soduwk1209/224463796305",
+   "https://blog.naver.com/soduwk1209/224463841631",
+   "https://blog.naver.com/soduwk1209/224463832188",
+   "https://blog.naver.com/soduwk1209/224463818871",
+   "https://blog.naver.com/soduwk1209/224463809684"
   ],
   "reply_ok": true
  },
@@ -788,7 +796,8 @@
    "https://blog.naver.com/dkdk521/224461449040",
    "https://blog.naver.com/dkdk521/224461504117",
    "https://blog.naver.com/dkdk521/224461486981",
-   "https://blog.naver.com/dkdk521/224432924103"
+   "https://blog.naver.com/dkdk521/224432924103",
+   "https://blog.naver.com/dkdk521/224464070808"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1283,7 +1292,10 @@
    "https://blog.naver.com/dkdk521/224461456289",
    "https://blog.naver.com/dkdk521/224461449040",
    "https://blog.naver.com/dkdk521/224461504117",
-   "https://blog.naver.com/dkdk521/224461486981"
+   "https://blog.naver.com/dkdk521/224461486981",
+   "https://blog.naver.com/dkdk521/224464070808",
+   "https://blog.naver.com/dkdk521/224464050476",
+   "https://blog.naver.com/dkdk521/224464038841"
   ],
   "backlog": [
    "https://blog.naver.com/dkdk521/224432845408",
@@ -1656,9 +1668,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1793700432.024824,
-  "tone": "감탄",
+  "tone": "짧게",
   "hooks": [
-   "김도영 이야기, 무슨 일인지 짚어봤어요",
    "손흥민 얘기 봤어?",
    "황인범 근황",
    "화제가 된 이유를 정리했어요",
@@ -1672,9 +1683,13 @@
    "이건 몰랐네",
    "박시원 소식, 정리해 드릴게요",
    "홍명보 소식 들으셨어요?",
-   "이 소식 진짜 의외다"
+   "이 소식 진짜 의외다",
+   "화제의 소식"
   ],
-  "queue": [],
+  "queue": [
+   "https://blog.naver.com/dkdk521/224464050476",
+   "https://blog.naver.com/dkdk521/224464038841"
+  ],
   "reply_ok": true
  }
 }
