@@ -51,8 +51,10 @@ ASK = {
     "질문": ["여러분 생각은 어떠세요?", "댓글로 의견 나눠 주세요"],
     "짧게": ["여러분 생각은?", "어떻게 보세요?", "의견 궁금해요"],
 }
-# 범죄·사고·죽음 소식에는 의견 질문을 붙이지 않는다 (피해자가 있는 일을 '어떻게 생각해?'로 묻지 않게)
-SERIOUS = re.compile(r"혐의|실형|선고|구속|기소|재판|성폭|폭행|사망|숨진|별세|사고|피해자|학폭|음주운전|마약|도박")
+# 범죄·사고·죽음·확인 안 된 의혹 소식에는 의견 질문을 붙이지 않는다
+# (피해자가 있는 일이나 사실이 아닐 수 있는 폭로를 '어떻게 생각해?'로 묻지 않게)
+SERIOUS = re.compile(r"혐의|실형|선고|구속|기소|재판|성폭|폭행|사망|숨진|별세|사고|피해자|학폭|음주운전|마약|약물|도박"
+                     r"|의혹|폭로|불륜|외도|논란")
 STOP = {"결국", "이유", "그리고", "하지만", "근황", "공개", "포착", "이후", "모습", "사실", "충격", "논란", "화제", "드디어",
         "숙인", "고개", "무슨", "일이", "공식", "입장", "국대", "출신", "정말", "진짜", "모두", "다시", "역대", "최근",
         "아들", "딸", "아내", "남편", "엄마", "아빠", "동생", "부부", "가족", "와이프", "만에", "지금은", "꼬맹이",
@@ -151,8 +153,10 @@ def compose(x, acc, seen, paras=None):
     # 스레드는 글 하나에 주제 태그 1개만 인식한다 → 제목 속 사람 이름 중 글에 가장 많이 나온 것, 없으면 기본 태그
     text_all = " ".join(paras)
     names = [w for w in re.findall(r"[가-힣]{3}", title) if w[0] in SURNAMES and w not in STOP and not VERB_END.search(w)]
-    # 흔한 성(김·이·박…)으로 시작하는 말을 먼저 ('예식장'·'동메달' 보다 '김나라'·'장우진')
-    n = max(names, key=lambda w: (w[0] in "김이박최정강조윤장임한오서신권황안송류홍", text_all.count(w))) if names else name_of(title)
+    # 글에 두 번 이상 나오는 말 → 흔한 성(김·이·박…)으로 시작하는 말 → 많이 나온 말 순
+    # ('이번엔' 보다 '양홍원', '예식장'·'동메달' 보다 '김나라'·'장우진')
+    n = max(names, key=lambda w: (text_all.count(w) >= 2, w[0] in "김이박최정강조윤장임한오서신권황안송류홍",
+                                  text_all.count(w))) if names else name_of(title)
     tag = "#" + (n if len(n) == 3 and n[0] in SURNAMES else acc["tags"].split()[0].lstrip("#"))
     serious = SERIOUS.search(title + " " + text_all[:600])
     tail = ([] if serious else ["", random.choice(ASK[tone])]) + ["", random.choice(CTA[tone]), x["link"], tag]
