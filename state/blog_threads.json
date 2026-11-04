@@ -126,7 +126,8 @@
    "https://blog.naver.com/soduwk1209/224453930750",
    "https://blog.naver.com/soduwk1209/224453876964",
    "https://blog.naver.com/soduwk1209/224453861258",
-   "https://blog.naver.com/soduwk1209/224453672007"
+   "https://blog.naver.com/soduwk1209/224453672007",
+   "https://blog.naver.com/soduwk1209/224454004323"
   ],
   "started": true,
   "v": 2,
@@ -623,9 +624,8 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "친구",
+  "tone": "짧게",
   "hooks": [
-   "전참시 관련 소식 전해 드려요",
    "와 임영웅 이런 일이 있었네",
    "화제의 소식",
    "화제가 된 이유를 정리했어요",
@@ -639,10 +639,10 @@
    "지금 많이 보는 연예 뉴스",
    "오늘 이 소식 다들 봤지?",
    "이다해 근황",
-   "송지효 무슨 일이야?"
+   "송지효 무슨 일이야?",
+   "조세호 이야기"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224454004323",
    "https://blog.naver.com/soduwk1209/224453991118",
    "https://blog.naver.com/soduwk1209/224453953836",
    "https://blog.naver.com/soduwk1209/224453944390",
@@ -798,7 +798,8 @@
    "https://blog.naver.com/dkdk521/224461486981",
    "https://blog.naver.com/dkdk521/224432924103",
    "https://blog.naver.com/dkdk521/224464070808",
-   "https://blog.naver.com/dkdk521/224464050476"
+   "https://blog.naver.com/dkdk521/224464050476",
+   "https://blog.naver.com/dkdk521/224464038841"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1670,9 +1671,8 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1793700432.024824,
-  "tone": "친구",
+  "tone": "감탄",
   "hooks": [
-   "황인범 근황",
    "화제가 된 이유를 정리했어요",
    "다들 이거 아셨어요?",
    "신지애 이야기 듣고 깜짝",
@@ -1686,10 +1686,10 @@
    "홍명보 소식 들으셨어요?",
    "이 소식 진짜 의외다",
    "화제의 소식",
-   "동메달 근황 정리해봄"
+   "동메달 근황 정리해봄",
+   "손흥민 이야기 듣고 깜짝"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224464038841",
    "https://blog.naver.com/dkdk521/224464084783"
   ],
   "reply_ok": true
