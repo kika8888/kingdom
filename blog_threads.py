@@ -298,7 +298,8 @@ def publish(token, acc, x, seen):
         r = post(token, {"creation_id": cid})
         try:
             time.sleep(10)
-            c2 = post(token, {"media_type": "TEXT", "text": f"전체 내용 👉 {x['title'][:80]}",
+            # 첫 댓글은 "전체 내용 👉" 같은 안내 없이 글 제목 + 링크 카드만 (광고처럼 안 보이게)
+            c2 = post(token, {"media_type": "TEXT", "text": x["title"][:80],
                               "link_attachment": x["link"], "reply_to_id": r["id"]})
             time.sleep(20)
             post(token, {"creation_id": c2["id"]})
