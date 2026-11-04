@@ -1,7 +1,8 @@
 """매시간: 네이버 블로그 새 글을 주제별 스레드 계정에 올린다 (계정 하나 = 블로그 하나 = 주제 하나).
 
-블로그 글은 링크 카드 + 후킹 + 제목 + 짧은 요약만 올린다 (글 전체를 옮기지 않는다).
-글마다 말투·후킹·끝맺음·해시태그가 다르다 (제목에서 이름과 단어를 뽑는다).
+스레드 글 = 블로그 제목(첫 줄 후킹) + 블로그 첫머리 문장 몇 개 + 의견 질문 + 자연스러운 한 줄과 블로그 주소 + 사진 2장.
+글 전체를 옮기지 않고 앞부분만 보여 줘서, 뒷이야기는 블로그에서 보게 한다 (스레드 글자 수 500자 안에 맞춘다).
+글마다 말투·끝맺음이 다르다.
 새 글은 매시간 확인해서 바로 올리고, 새 글이 없을 땐 전에 쓴 글을 3시간에 1개씩(최근 글부터) 올린다.
 한 번 올린 글은 다시 올리지 않고 (state/blog_threads.json), 한 번 실행에 계정마다 1개만 올린다.
 루머성 제목(사망설·찌라시 등)은 건너뛴다 (명예훼손·허위사실 위험).
@@ -34,17 +35,6 @@ ACCOUNTS = [
 ]
 SKIP_WORDS = ("사망설", "찌라시", "루머", "카더라", "충격 실체", "19금")
 
-# 후킹: 말투 5가지. {n} = 제목에서 뽑은 이름(없으면 이름 없는 문장만 쓴다), {t} = 주제(연예·스포츠).
-# 자극적·단정적 표현은 쓰지 않는다.
-HOOKS = {
-    "친구": ["{n} 무슨 일이야?", "{n} 얘기 봤어?", "오늘 이 소식 다들 봤지?", "{n} 근황 정리해봄", "이거 보고 놀람"],
-    "존댓말": ["{n} 소식, 정리해 드릴게요", "오늘 많이 찾아보신 소식이에요", "{n} 이야기, 무슨 일인지 짚어봤어요",
-             "화제가 된 이유를 정리했어요", "{n} 관련 소식 전해 드려요"],
-    "감탄": ["와 {n} 이런 일이 있었네", "이 소식 진짜 의외다", "{n} 이야기 듣고 깜짝", "이건 몰랐네", "오늘 제일 놀란 소식"],
-    "질문": ["{n} 소식 들으셨어요?", "왜 이렇게 화제일까요?", "{n} 어떻게 된 일일까요?", "이 소식 어떻게 생각하세요?",
-             "다들 이거 아셨어요?"],
-    "짧게": ["{n} 근황", "오늘의 {t} 소식", "{n} 이야기", "화제의 소식", "지금 많이 보는 {t} 뉴스"],
-}
 # 본문 맨 아래 블로그 주소 앞에 붙는 한 줄 (광고 말투 말고 자연스럽게)
 CTA = {
     "친구": ["어떻게 된 일인지 여기 정리돼 있어", "자세한 얘기는 여기"],
@@ -55,12 +45,14 @@ CTA = {
 }
 # 끝맺음 질문: 읽은 사람이 자기 생각을 댓글로 남기고 싶게 (찬반이 갈려도 비난을 부추기지 않는 말로)
 ASK = {
-    "친구": ["너는 어떻게 생각해?", "이거 이해돼?", "너라면 어땠을 것 같아?", "다들 생각 어때?"],
-    "존댓말": ["여러분은 어떻게 생각하세요?", "이 소식 어떻게 보셨어요?", "여러분이라면 어떻게 하셨을까요?"],
+    "친구": ["너는 어떻게 생각해?", "다들 생각 어때?"],
+    "존댓말": ["여러분은 어떻게 생각하세요?", "이 소식 어떻게 보셨어요?"],
     "감탄": ["다들 어떻게 봐?", "이거 나만 놀란 거 아니지?", "여러분 생각은 어때요?"],
-    "질문": ["여러분 생각은 어떠세요?", "댓글로 의견 나눠 주세요", "이해되시나요, 아니면 좀 아쉬운가요?"],
+    "질문": ["여러분 생각은 어떠세요?", "댓글로 의견 나눠 주세요"],
     "짧게": ["여러분 생각은?", "어떻게 보세요?", "의견 궁금해요"],
 }
+# 범죄·사고·죽음 소식에는 의견 질문을 붙이지 않는다 (피해자가 있는 일을 '어떻게 생각해?'로 묻지 않게)
+SERIOUS = re.compile(r"혐의|실형|선고|구속|기소|재판|성폭|폭행|사망|숨진|별세|사고|피해자|학폭|음주운전|마약|도박")
 STOP = {"결국", "이유", "그리고", "하지만", "근황", "공개", "포착", "이후", "모습", "사실", "충격", "논란", "화제", "드디어",
         "숙인", "고개", "무슨", "일이", "공식", "입장", "국대", "출신", "정말", "진짜", "모두", "다시", "역대", "최근",
         "아들", "딸", "아내", "남편", "엄마", "아빠", "동생", "부부", "가족", "와이프", "만에", "지금은", "꼬맹이",
@@ -108,27 +100,80 @@ def tags_of(title, base):
     return " ".join(dict.fromkeys(t if t.startswith("#") else "#" + t for t in picks))
 
 
-def compose(x, acc, seen):
-    """글마다 다른 말투·후킹·끝맺음·해시태그. 바로 전 글과 같은 말투, 최근 쓴 후킹은 피한다."""
-    tone = random.choice([t for t in HOOKS if t != seen.get("tone")])
-    n = name_of(x["title"])
-    if not (len(n) == 3 and n[0] in SURNAMES):   # '노래방 무슨 일이야?' 같은 어색한 후킹 방지: 사람 이름일 때만 넣는다
-        n = ""
-    pool =[h.format(n=n, t=acc["name"]) for h in HOOKS[tone] if n or "{n}" not in h]
-    fresh = [h for h in pool if h not in seen.get("hooks", [])] or pool
-    hook = random.choice(fresh)
-    summary = x["summary"].strip()
-    if summary and summary[-1] not in ".!?…다요":   # RSS 요약은 90자에서 잘려 온다
-        summary = summary.rsplit(" ", 1)[0] + "…"
-    # 스레드는 글 하나에 주제 태그 1개만 인식하고 나머지 #단어 는 글자로 남아 지저분해진다 → 태그는 1개만.
-    # 제목은 아래 링크 카드에 이미 나오므로 본문에 다시 쓰지 않는다.
-    real_name = n if len(n) == 3 and n[0] in SURNAMES else ""
-    tag = "#" + (real_name or acc["tags"].split()[0].lstrip("#"))
-    ask = random.choice([q for q in ASK[tone] if q != hook] or ASK[tone])
-    lines = [hook, "", summary, "", ask, "", random.choice(CTA[tone]), x["link"], tag]
+LIMIT = 500   # 스레드 글 최대 글자 수
+# 블로그 글에서 스레드로 옮기지 않는 문장 (블로그 안내·인사말)
+NOT_BODY = re.compile(r"이웃추가|이웃 추가|출처|구독|공감|댓글|포스팅|오늘은|짚어보|알아보|살펴보|정리해 ?보|정리해 ?드|마무리")
+
+
+def sentences(p):
+    return [s.strip() for s in re.split(r"(?<=[.!?…])\s+", p) if s.strip()]
+
+
+def post_text(link):
+    """블로그 글의 문단 목록 (모바일 페이지). 첫 줄 제목·빈 줄·사진 출처는 뺀다. 못 가져오면 빈 목록."""
+    try:
+        blog, no = link.rstrip("/").split("/")[-2:]
+        req = urllib.request.Request(f"https://m.blog.naver.com/{blog}/{no}", headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=20) as res:
+            t = res.read().decode("utf-8", "replace")
+    except Exception as e:
+        print("블로그 글 읽기 실패(요약으로 올림):", e)
+        return []
+    out = []
+    for raw in re.findall(r'<p class="se-text-paragraph[^"]*"[^>]*>([\s\S]*?)</p>', t):
+        s = html.unescape(re.sub(r"<[^>]+>", "", raw)).replace("​", "").replace("\xa0", " ").strip()
+        if s and not s.startswith("["):
+            out.append(re.sub(r"\s+", " ", s))
+    return out
+
+
+def compose(x, acc, seen, paras=None):
+    """제목 → (블로그의 짧은 후킹 한 줄) → 첫머리 문장들 → 의견 질문 → 한 줄 + 블로그 주소 → 태그.
+    말투는 바로 전 글과 다르게. 500자를 넘지 않게 본문 문장 수를 맞춘다."""
+    tone = random.choice([t for t in ASK if t != seen.get("tone")])
+    title = x["title"].strip()
+    head = re.sub(r"\s*(…|\.\.\.)\s*", "…\n", title, count=1).strip()   # '…' 뒤에서 줄을 바꿔 두 줄 후킹으로
+    paras = [q for q in (paras or []) if q.replace(" ", "") != title.replace(" ", "")]
+    # 블로그 첫머리의 짧은 물음 한 줄(예: '아니, 설마 그 사이가 벌써 10년이었다고요?')은 후킹으로 제목 밑에
+    hook2 = ""
+    if paras and len(paras[0]) <= 45 and paras[0].endswith(("?", "…")):
+        hook2 = paras.pop(0)
+    # 본문 문단 = 문장 부호로 끝나는 문단. 소제목('…그녀는 누구?' 같은 짧은 한 줄)은 뺀다.
+    # 첫 문단부터 문장 순서대로 이어 붙인다.
+    body = [[s for s in sentences(q) if not NOT_BODY.search(s)] for q in paras
+            if q.endswith((".", "!", "?", "…", "”", "'")) and not (len(q) <= 30 and q.endswith(("?", "!")))]
+    body = [b for b in body if b]
+    if not body:   # 글을 못 읽었으면 블로그 요약(90자에서 잘려 온다)
+        s = x.get("summary", "").strip()
+        if s and s[-1] not in ".!?…다요":
+            s = s.rsplit(" ", 1)[0] + "…"
+        body = [[s]] if s else []
+    # 스레드는 글 하나에 주제 태그 1개만 인식한다 → 제목 속 사람 이름 중 글에 가장 많이 나온 것, 없으면 기본 태그
+    text_all = " ".join(paras)
+    names = [w for w in re.findall(r"[가-힣]{3}", title) if w[0] in SURNAMES and w not in STOP and not VERB_END.search(w)]
+    # 흔한 성(김·이·박…)으로 시작하는 말을 먼저 ('예식장'·'동메달' 보다 '김나라'·'장우진')
+    n = max(names, key=lambda w: (w[0] in "김이박최정강조윤장임한오서신권황안송류홍", text_all.count(w))) if names else name_of(title)
+    tag = "#" + (n if len(n) == 3 and n[0] in SURNAMES else acc["tags"].split()[0].lstrip("#"))
+    serious = SERIOUS.search(title + " " + text_all[:600])
+    tail = ([] if serious else ["", random.choice(ASK[tone])]) + ["", random.choice(CTA[tone]), x["link"], tag]
+    top = [head] + ([hook2] if hook2 else [])
+    # 문단 안 문장은 줄바꿈, 문단 사이는 빈 줄. 500자를 넘기기 직전까지 (최대 7문장)
+    build = lambda used: "\n".join(top + (["", "\n\n".join("\n".join(p) for p in used)] if used else []) + tail)
+    used, count, full = [], 0, False
+    for para in body:
+        cur = []
+        for s in para:
+            if count >= 7 or len(s) > 120 or len(build(used + [cur + [s]])) > LIMIT:
+                full = True
+                break
+            cur.append(s)
+            count += 1
+        if cur:
+            used.append(cur)
+        if full:
+            break
     seen["tone"] = tone
-    seen["hooks"] = (seen.get("hooks", []) + [hook])[-15:]
-    return "\n".join(lines)[:500]
+    return build(used)
 
 
 def post(token, params):
@@ -279,7 +324,7 @@ def publish(token, acc, x, seen):
     """글 + 블로그 사진 2장(넘겨 보기), 블로그 주소는 본문 맨 아래에 자연스러운 한 줄과 함께. 첫 댓글은 달지 않는다.
     (스레드는 사진 글에 링크 카드를 못 붙여서 주소를 글자로 넣는다. 눌리는 링크가 된다)
     사진이 실패하면 글 + 링크 카드로 올린다."""
-    text = compose(x, acc, seen)
+    text = compose(x, acc, seen, post_text(x["link"]))
     try:
         no = x["link"].rstrip("/").split("/")[-1]
         images = host_images(post_images(x["link"]), f"{acc['blog']}-{no}")
