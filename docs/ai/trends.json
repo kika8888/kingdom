@@ -1,173 +1,162 @@
 {
- "updated": "2026-11-04 05:56",
+ "updated": "2026-11-04 10:16",
  "items": [
   {
-   "kw": "barcelona vs aston villa",
+   "kw": "369",
    "traffic": "200+",
-   "when": "11월 04일 04:50",
+   "when": "11월 04일 09:10",
+   "news": []
+  },
+  {
+   "kw": "텐센트",
+   "traffic": "200+",
+   "when": "11월 04일 09:00",
    "news": [
     {
-     "title": "Manchester United vs Roma: UEFA Champions League stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cmj47pveql18t",
-     "source": "BBC"
+     "title": "컴투스플랫폼, 텐센트 클라우드 '루미너리 어워드' 수상",
+     "url": "https://zdnet.co.kr/view/?no=20261102162259",
+     "source": "지디넷코리아"
     },
     {
-     "title": "Carrick reveals Man Utd injury latest after surprise return",
-     "url": "https://www.standard.co.uk/sport/football/man-utd-injury-news-carrick-dorgu-b1303257.html",
-     "source": "London Evening Standard"
+     "title": "텐센트, 기업용 AI 에이전트 확대…신형 AI 모델 'Hy4' 출시 예고",
+     "url": "https://www.the-tech.co.kr/news/article.html?no=42106",
+     "source": "더테크"
     }
    ]
   },
   {
-   "kw": "장례",
+   "kw": "fox news",
    "traffic": "200+",
-   "when": "11월 04일 04:50",
+   "when": "11월 04일 09:00",
    "news": [
     {
-     "title": "장례식서 함께 박수를…영정사진 대신 96살 어르신의 환한 미소",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1285644.html",
-     "source": "한겨레"
+     "title": "Trump turns off Fox News over Tarlov’s ‘dumb voice’",
+     "url": "https://thehill.com/homenews/media/6194311-trump-attacks-jessica-tarlov-voice/",
+     "source": "The Hill"
     },
     {
-     "title": "진천군-별지반려동물장례식장 업무협약…장례비용 10% 할인",
-     "url": "https://www.yna.co.kr/view/AKR20261103149900064",
+     "title": "Trump: Fox News ratings down because of anti-Trump coverage",
+     "url": "https://breakingthenews.net/Article/Trump:-Fox-News-ratings-down-because-of-anti-Trump-coverage/67474465",
+     "source": "Breakingthenews.net"
+    }
+   ]
+  },
+  {
+   "kw": "블랙 프라이데이",
+   "traffic": "100+",
+   "when": "11월 04일 09:00",
+   "news": [
+    {
+     "title": "삼성물산 패션, SSF샵서 '블랙프라이데이'…\"최대 80% 할인\"",
+     "url": "https://www.yna.co.kr/view/AKR20261104024400030",
      "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "스포티비",
-   "traffic": "200+",
-   "when": "11월 04일 04:50",
-   "news": [
-    {
-     "title": "“말 경주로 달리며 추억 더하기” 한국마사회, 야간 러닝 축제",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335823",
-     "source": "인천일보"
     },
     {
-     "title": "경주로가 러닝 코스로 변신…렛츠런파크 서울서 이색 야간 레이스 열린다",
-     "url": "https://www.kyeonggi.com/article/20261103580214",
-     "source": "경기일보"
+     "title": "패션업계, 블프 앞당긴다…SSF샵·퀸잇 대규모 할인전",
+     "url": "https://www.news1.kr/industry/distribution/6342266",
+     "source": "뉴스1"
     }
    ]
   },
   {
-   "kw": "호반건설",
-   "traffic": "200+",
-   "when": "11월 04일 04:40",
+   "kw": "정용진",
+   "traffic": "100+",
+   "when": "11월 04일 08:50",
    "news": [
     {
-     "title": "한진칼 최대주주 올라선 호반그룹…조원태 경영권은 또 안갯속",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/02/2026110280113.html",
-     "source": "인베스트조선"
+     "title": "정용진 회장, 13년 만에 이마트 대표 복귀…AI·글로벌 투자로 성장 구도 재편",
+     "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254463",
+     "source": "넥스트데일리"
     },
     {
-     "title": "‘1조 베팅’ 호반의 한진칼 투자…경영권 경쟁 기대에 평가차익 1.5조원[한진칼 지배구조 변곡점]",
-     "url": "https://www.etoday.co.kr/news/view/2643571",
-     "source": "이투데이"
+     "title": "[MD 포커스] ‘같은 신세계, 다른 미래’…정용진·정유경이 꺼낸 대형 승부수",
+     "url": "https://mydaily.co.kr/page/view/2026110216014046688",
+     "source": "마이데일리"
     }
    ]
   },
   {
-   "kw": "정기예금",
-   "traffic": "200+",
-   "when": "11월 04일 04:30",
+   "kw": "정년",
+   "traffic": "1000+",
+   "when": "11월 04일 08:30",
    "news": [
     {
-     "title": "예금 든다면 만기 ‘짧게’…뉴노멀 된 ‘고금리 단기예금’",
-     "url": "https://www.khan.co.kr/article/202611031726001",
+     "title": "김동명 한국노총 위원장, 김민석 대표 만나 “집권당, 청와대 판단 없으면 아무 결정도 못해”",
+     "url": "https://www.khan.co.kr/article/202611031544001",
      "source": "경향신문"
     },
     {
-     "title": "주담대에 신용대출까지 금리 7% 임박",
-     "url": "https://mobile.newsis.com/photo/NISI20261103_0021516759",
-     "source": "뉴시스"
+     "title": "정년연장 법안 곧 발의, ‘변곡점’ 맞은 연내 입법",
+     "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237549",
+     "source": "매일노동뉴스"
     }
    ]
   },
   {
-   "kw": "빌라",
-   "traffic": "100+",
-   "when": "11월 04일 04:30",
+   "kw": "권오중",
+   "traffic": "500+",
+   "when": "11월 04일 08:30",
    "news": [
     {
-     "title": "30년 묶인 다세대·다가구 규제 완화…주택공급 확대 기대",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974876",
-     "source": "대한민국 정책브리핑"
+     "title": "아들은 세상 속 ‘홀로서기’, 아빠는 배우로 ‘다시 서기’",
+     "url": "https://www.chosun.com/national/people/2026/11/04/QGSN5KNR5ZCCNC4SPOKCY4TNEM/",
+     "source": "조선일보"
     },
     {
-     "title": "30년 묶인 빌라 면적 규제 푼다…660㎡→1000㎡ 확대",
-     "url": "https://www.donga.com/news/Economy/article/all/20261103/134956761/1",
-     "source": "동아일보"
+     "title": "'희귀병子' 권오중, 7년째 금주한 사연 \"술에 의존하던 아버지 닮아가\"",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-03/202611030100015200001327",
+     "source": "스포츠조선"
     }
    ]
   },
   {
-   "kw": "기소",
+   "kw": "외환시장",
    "traffic": "200+",
-   "when": "11월 04일 04:20",
+   "when": "11월 04일 08:30",
    "news": [
     {
-     "title": "與, 모레 '조작기소 특검법안' 처리 추진…曺국조는 추가의견 수렴",
-     "url": "https://www.yna.co.kr/view/AKR20261103155200001",
-     "source": "연합뉴스"
+     "title": "NDF, 1,344.00/ 1,344.40원…3.95원↑",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442895",
+     "source": "연합인포맥스"
     },
     {
-     "title": "與 ‘조희대 국조’ 속도조절… 조작기소 특검법은 내일 본회의 처리 추진",
-     "url": "https://www.donga.com/news/Politics/article/all/20261104/134961352/2",
-     "source": "동아일보"
+     "title": "美 중간선거 개표 앞두고 관망세…환율 1340원대 등락",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03207846645642440",
+     "source": "마켓인"
     }
    ]
   },
   {
-   "kw": "무기",
-   "traffic": "100+",
-   "when": "11월 04일 04:20",
+   "kw": "여객선",
+   "traffic": "200+",
+   "when": "11월 04일 08:30",
    "news": [
     {
-     "title": "[포착] 트럼프도 못 막았다…“이란 LPG선, 봉쇄망 뚫고 중국행 성공”",
-     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261103601005",
-     "source": "나우뉴스"
+     "title": "'편도 1500원' i-바다패스 후퇴…시민 부담 최대 10배",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335894",
+     "source": "인천일보"
     },
     {
-     "title": "이란의 비밀 무기 공급 시스템이 드러났다.",
-     "url": "https://www.vietnam.vn/ko/he-thong-cung-cap-vu-khi-bi-mat-cho-iran-lo-dien",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "아틀레티코 대 바이에른",
-   "traffic": "5000+",
-   "when": "11월 04일 04:10",
-   "news": [
-    {
-     "title": "AT마드리드 이강인 vs 뮌헨 김민재…모레노 앞에서 '코리안더비'",
-     "url": "https://www.newsis.com/view/NISX20261103_0003852303",
-     "source": "뉴시스"
-    },
-    {
-     "title": "\"80분 동안 공격하고 20번 패스해서 골 넣고 싶다\" 시메오네의 파격 선언!...바이에른과 정면충돌 앞두고 공격 축구 예고",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/03/MI4TMODGMZRTSYLDGRTGIZTBMY/",
+     "title": "1500원에 가던 백령도, 내년부턴 1만5600원 내야 간다",
+     "url": "https://www.chosun.com/national/regional/2026/11/03/KQZIILYYVNDU7BEZJ2MXMA3LIA/",
      "source": "조선일보"
     }
    ]
   },
   {
-   "kw": "맨유 대 로마",
-   "traffic": "5000+",
-   "when": "11월 04일 04:10",
+   "kw": "fc barcelona vs aston villa standings",
+   "traffic": "200+",
+   "when": "11월 04일 08:20",
    "news": [
     {
-     "title": "“맨유 왜 이렇게 못하는지 나도 모르겠어” 맨유 상대하는 적장도 이해가 안 된다...“다시 궤도에 오를 거야, 단 내일 경기 이후에”",
-     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100247",
-     "source": "포포투"
+     "title": "With Hamza Abdel Karim's participation: a crazy draw between Barcelona and Aston Villa in the UEFA Youth League",
+     "url": "https://www.goal.com/en/news/with-hamza-abdelkrim-featuring-a-crazy-draw-between-barcelona-and-aston-villa-in-the-uefa-youth-league/bltcddcb7ed1b1facf4",
+     "source": "Goal.com"
     },
     {
-     "title": "마이클 카릭, AS 로마전 앞두고 미래설 잠잠\n이탈리아 밀라노 - 마이클 카릭이 AS 로마전을 앞두고 미래설을 잠잠시켰다.",
-     "url": "https://voi.id/kr/sports/601069",
-     "source": "VOI.ID"
+     "title": "Ebrima Tunkara scores and assists as Barcelona rescue UEFA Youth League draw against Aston Villa",
+     "url": "https://www.barcablaugranes.com/barca-atletic/136960/ebrima-tunkara-uefa-youth-league-aston-villa",
+     "source": "Barca Blaugranes"
     }
    ]
   }
