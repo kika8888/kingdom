@@ -274,7 +274,10 @@ def publish(token, acc, x, seen):
         time.sleep(20)
         r = post(token, {"creation_id": c["id"]})
     else:
-        body = text.replace("👇", "👇 (첫 댓글에 링크)", 1)
+        # 링크가 첫 댓글로 가면 본문에는 블로그·링크 안내를 쓰지 않는다 (광고처럼 보이면 덜 퍼진다)
+        body = text
+        for c in (c for cs in CTA.values() for c in cs):
+            body = body.replace(c + " ", "", 1)
         # 글 + 블로그 사진 2장(넘겨 보기). 사진이 실패하면 글만 올린다.
         try:
             no = x["link"].rstrip("/").split("/")[-1]
