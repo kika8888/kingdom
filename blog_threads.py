@@ -45,12 +45,13 @@ HOOKS = {
              "다들 이거 아셨어요?"],
     "짧게": ["{n} 근황", "오늘의 {t} 소식", "{n} 이야기", "화제의 소식", "지금 많이 보는 {t} 뉴스"],
 }
+# 본문 맨 아래 블로그 주소 앞에 붙는 한 줄 (광고 말투 말고 자연스럽게)
 CTA = {
-    "친구": ["자세한 건 블로그에 정리해놨어 👇", "전체 내용은 여기 👇"],
-    "존댓말": ["자세한 내용은 블로그에서 확인하세요 👇", "전체 내용은 아래 링크에 있어요 👇"],
-    "감탄": ["자세한 이야기는 여기서 👇", "전체 내용 보러 가기 👇"],
-    "질문": ["자세한 내용 궁금하시면 👇", "어떻게 된 건지 링크에서 확인해 보세요 👇"],
-    "짧게": ["더 보기 👇", "전문 👇"],
+    "친구": ["어떻게 된 일인지 여기 정리돼 있어", "자세한 얘기는 여기"],
+    "존댓말": ["어떻게 된 일인지 여기 정리돼 있어요", "자세한 내용은 여기 있어요"],
+    "감탄": ["무슨 일이었는지 여기 정리돼 있어", "자세한 이야기는 여기"],
+    "질문": ["어떻게 된 건지 여기 정리돼 있어요", "궁금하시면 여기 자세히 있어요"],
+    "짧게": ["자세히", "정리된 글"],
 }
 # 끝맺음 질문: 읽은 사람이 자기 생각을 댓글로 남기고 싶게 (찬반이 갈려도 비난을 부추기지 않는 말로)
 ASK = {
@@ -124,7 +125,7 @@ def compose(x, acc, seen):
     real_name = n if len(n) == 3 and n[0] in SURNAMES else ""
     tag = "#" + (real_name or acc["tags"].split()[0].lstrip("#"))
     ask = random.choice([q for q in ASK[tone] if q != hook] or ASK[tone])
-    lines = [hook, "", summary, "", ask, "", random.choice(CTA[tone]) + " " + tag]
+    lines = [hook, "", summary, "", ask, "", random.choice(CTA[tone]), x["link"], tag]
     seen["tone"] = tone
     seen["hooks"] = (seen.get("hooks", []) + [hook])[-15:]
     return "\n".join(lines)[:500]
@@ -275,42 +276,21 @@ def skip(title):
 
 
 def publish(token, acc, x, seen):
-    """본문은 링크 없이(스레드는 링크 없는 글을 더 퍼뜨린다), 링크 카드는 첫 댓글로.
-    댓글 권한이 없으면 예전처럼 본문에 링크를 붙이고, 다음부터는 계속 그 방식으로 올린다."""
+    """글 + 블로그 사진 2장(넘겨 보기), 블로그 주소는 본문 맨 아래에 자연스러운 한 줄과 함께. 첫 댓글은 달지 않는다.
+    (스레드는 사진 글에 링크 카드를 못 붙여서 주소를 글자로 넣는다. 눌리는 링크가 된다)
+    사진이 실패하면 글 + 링크 카드로 올린다."""
     text = compose(x, acc, seen)
-    if seen.get("reply_ok") is False:
-        c = post(token, {"media_type": "TEXT", "text": text, "link_attachment": x["link"]})
-        time.sleep(20)
-        r = post(token, {"creation_id": c["id"]})
-    else:
-        # 링크가 첫 댓글로 가면 본문에는 블로그·링크 안내를 쓰지 않는다 (광고처럼 보이면 덜 퍼진다)
-        body = text
-        for c in (c for cs in CTA.values() for c in cs):
-            body = body.replace(c + " ", "", 1)
-        # 글 + 블로그 사진 2장(넘겨 보기). 사진이 실패하면 글만 올린다.
-        try:
-            no = x["link"].rstrip("/").split("/")[-1]
-            cid = media_post(token, body, host_images(post_images(x["link"]), f"{acc['blog']}-{no}"))
-        except RuntimeError as e:
-            print("사진 글 실패, 글만 올립니다:", e)
-            cid = post(token, {"media_type": "TEXT", "text": body})["id"]
-        time.sleep(25)
-        r = post(token, {"creation_id": cid})
-        try:
-            time.sleep(10)
-            # 첫 댓글은 "전체 내용 👉" 같은 안내 없이 글 제목 + 링크 카드만 (광고처럼 안 보이게)
-            c2 = post(token, {"media_type": "TEXT", "text": x["title"][:80],
-                              "link_attachment": x["link"], "reply_to_id": r["id"]})
-            time.sleep(20)
-            post(token, {"creation_id": c2["id"]})
-            seen["reply_ok"] = True
-            text = body
-        except RuntimeError as e:
-            print(f"::warning title=첫 댓글 실패, 본문 링크 방식으로 바꿉니다::{e}")
-            seen["reply_ok"] = False
-            c = post(token, {"media_type": "TEXT", "text": text, "link_attachment": x["link"]})
-            time.sleep(20)
-            r = post(token, {"creation_id": c["id"]})
+    try:
+        no = x["link"].rstrip("/").split("/")[-1]
+        images = host_images(post_images(x["link"]), f"{acc['blog']}-{no}")
+        if not images:
+            raise RuntimeError("블로그 사진 없음")
+        cid = media_post(token, text, images)
+    except RuntimeError as e:
+        print("사진 글 실패, 글 + 링크 카드로 올립니다:", e)
+        cid = post(token, {"media_type": "TEXT", "text": text, "link_attachment": x["link"]})["id"]
+    time.sleep(25)
+    r = post(token, {"creation_id": cid})
     seen["posted"].append(x["link"])
     return text, r
 
