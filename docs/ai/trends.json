@@ -1,162 +1,162 @@
 {
- "updated": "2026-11-05 08:35",
+ "updated": "2026-11-05 15:32",
  "items": [
   {
-   "kw": "보이스 피싱",
-   "traffic": "2000+",
-   "when": "11월 05일 07:20",
+   "kw": "경제",
+   "traffic": "5000+",
+   "when": "11월 05일 14:20",
    "news": [
     {
-     "title": "피싱에 5000만원 잃고 목숨 끊은 母子…카자흐스탄 한인 조직 소행이었다",
-     "url": "https://www.donga.com/news/Society/article/all/20261105/134969025/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "[단독] ‘충북 모자 사망’ 부른 피싱…카자흐스탄 한인들 짓이었다",
-     "url": "https://www.joongang.co.kr/article/25475795",
-     "source": "중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "s&p 500",
-   "traffic": "2000+",
-   "when": "11월 05일 07:20",
-   "news": [
-    {
-     "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates",
-     "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
-     "source": "CNBC"
-    },
-    {
-     "title": "Dow posts biggest gain of the year after Democrats take control of Congress",
-     "url": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
-     "source": "CBS News"
-    }
-   ]
-  },
-  {
-   "kw": "에코프로비엠",
-   "traffic": "200+",
-   "when": "11월 05일 07:20",
-   "news": [
-    {
-     "title": "에코프로머티 에코프로 측 지분 45.36%로 하락",
-     "url": "https://www.vegannews.co.kr/news/article.html?no=400192",
-     "source": "비건뉴스"
-    },
-    {
-     "title": "에코프로비엠 1.2조 유상증자…키움證 실적 전망 : 한국증시",
-     "url": "https://news.jkn.co.kr/post/1071035",
-     "source": "재경일보"
-    }
-   ]
-  },
-  {
-   "kw": "홍수",
-   "traffic": "100+",
-   "when": "11월 05일 07:20",
-   "news": [
-    {
-     "title": "(해외환경뉴스) 기후 변화는 극한 강수보다 홍수를 더 크게 증폭시킨다.",
-     "url": "https://www.newsje.com/news/articleView.html?idxno=409729",
-     "source": "제주환경일보"
-    },
-    {
-     "title": "기후부, 올여름 집중호우 선제 대응…“홍수 피해 최소화”",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374274",
-     "source": "전기신문"
-    }
-   ]
-  },
-  {
-   "kw": "피겨스케이팅",
-   "traffic": "500+",
-   "when": "11월 05일 07:10",
-   "news": [
-    {
-     "title": "은반 위의 시…캐나다에서 열린 국제빙상경기연맹 피겨 스케이팅 대회",
-     "url": "https://www.yna.co.kr/view/IPT20261102000010365",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'세계가 놀랐다' 피겨 여제 김연아 뛰어넘는 역대 최고의 피겨 유망주 등장! 日 천재 시마다 마오, 시니어 그랑프리 데뷔전서 압도적 우승",
-     "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553667279",
-     "source": "스포탈코리아"
-    }
-   ]
-  },
-  {
-   "kw": "vix",
-   "traffic": "500+",
-   "when": "11월 05일 07:10",
-   "news": [
-    {
-     "title": "Investor Fear Spikes Ahead Of Midterms. It May Not Be So Bad For Stocks.",
-     "url": "https://www.investors.com/news/vix-stock-market-fear-gauge-sp-500/",
-     "source": "Investor's Business Daily"
-    },
-    {
-     "title": "CBOE Volatility Index Falls to One-Week Low of 16.97",
-     "url": "https://en.bloomingbit.io/feed/news/123660",
-     "source": "bloomingbit"
-    }
-   ]
-  },
-  {
-   "kw": "전기 요금",
-   "traffic": "200+",
-   "when": "11월 05일 07:10",
-   "news": []
-  },
-  {
-   "kw": "블리자드",
-   "traffic": "100+",
-   "when": "11월 05일 07:10",
-   "news": [
-    {
-     "title": "[클릭! e 게임]넥슨 PC ‘오버워치’, ‘어둠의 신조’ 업데이트",
-     "url": "https://www.munhwa.com/article/11628663",
-     "source": "문화일보"
-    },
-    {
-     "title": "탈론의 지배 - 5시즌 중간 패치로 결전의 막이 오릅니다 - 새소식 - 오버워치",
-     "url": "https://overwatch.blizzard.com/ko-kr/news/24303010/",
-     "source": "Blizzard Entertainment"
-    }
-   ]
-  },
-  {
-   "kw": "schd",
-   "traffic": "200+",
-   "when": "11월 05일 07:10",
-   "news": [
-    {
-     "title": "Dividend ETF SCHD Crushed SPY This Year, But The Rise Has A Cost For New Buyers",
-     "url": "https://www.benzinga.com/opinion/26/11/62832070/dividend-etf-schd-crushed-spy-this-year-but-the-rise-has-a-cost-for-new-buyers",
-     "source": "Benzinga"
-    },
-    {
-     "title": "If I Only Had $500 to Invest Right Now, I'd Buy and Hold This ETF for the Next 25 Years",
-     "url": "https://www.aol.com/articles/only-had-500-invest-now-124500000.html",
-     "source": "AOL.com"
-    }
-   ]
-  },
-  {
-   "kw": "다우 존스 산업평균지수",
-   "traffic": "200+",
-   "when": "11월 05일 07:00",
-   "news": [
-    {
-     "title": "중간선거 끝나자 다우 3% 급등…정치 불확실성 걷히고 유가도 급락",
-     "url": "https://www.chosun.com/economy/int_economy/2026/11/05/NL2CYCLOANHIVKRTU43CIHL6DM/",
+     "title": "\"트럼프 일가 코인으로만 3조원\"... 美민주당, 재산증식 의혹 다 턴다",
+     "url": "https://www.chosun.com/international/international_general/2026/11/05/OAHMQ4DPZJAQDEUYHQ45T3KWPQ/",
      "source": "조선일보"
     },
     {
-     "title": "[굿모닝 증시]美 중간선거發 '블루웨이브'…AI주 희비 엇갈려",
-     "url": "https://www.asiae.co.kr/article/2026110508120979331",
-     "source": "아시아경제"
+     "title": "[미 중간선거]“트럼프 범죄 일가·측근 최우선 조사”···의회 장악한 민주당 첫 경고장",
+     "url": "https://www.khan.co.kr/article/202611051356001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "롯데몰 벨리타운 청량리",
+   "traffic": "200+",
+   "when": "11월 05일 13:50",
+   "news": [
+    {
+     "title": "\"크다고 다 잘되나\"…알짜만 모은 '컴팩트몰' 짓는 이유",
+     "url": "https://www.newsis.com/view/NISX20261103_0003852474",
+     "source": "뉴시스"
+    },
+    {
+     "title": "“한번 들어오면 나가기 싫네”…15년 만에 청량리 ‘쇼핑의 판’이 바뀌었다 [현장]",
+     "url": "https://www.mk.co.kr/news/business/12194864",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "기뢰",
+   "traffic": "200+",
+   "when": "11월 05일 13:40",
+   "news": [
+    {
+     "title": "청해부대, 美 파병 요구에 화답…호르무즈 작전영역 2배로 확대",
+     "url": "https://www.munhwa.com/article/11629041",
+     "source": "문화일보"
+    },
+    {
+     "title": "청해부대 작전구역 확대·초계기 투입…파병연장안 조만간 국회 제출",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261105.99099001732",
+     "source": "국제신문"
+    }
+   ]
+  },
+  {
+   "kw": "양민혁",
+   "traffic": "2000+",
+   "when": "11월 05일 13:30",
+   "news": [
+    {
+     "title": "‘3연승 & 8위 도약’ 토트넘, 더 이상 강등권 수모는 없다? 데 제르비 감독, “더 많은 골, 더 많은 승리가 필요해”",
+     "url": "https://www.donga.com/SODA/article/0210/20261101/134943508/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "‘캡틴’ 손흥민 킥오프 26분 만에 멀티 도움으로 3골 차 대승 이끌었을 때가 마지막이었다니…21개월 만에 EPL 3연승 성공한 토트넘, 단숨에 8위로 껑충",
+     "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%8F%E1%85%A2%E1%86%B8%E1%84%90%E1%85%B5%E1%86%AB-%E1%84%89%E1%85%A9%E1%86%AB%E1%84%92%E1%85%B3%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB-%E1%84%8F%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B3-26%E1%84%87%E1%85%AE%E1%86%AB-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A6-%E1%84%86%E1%85%A5%E1%86%AF%E1%84%90%E1%85%B5-%E1%84%83%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%B7%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9-3%E1%84%80%E1%85%A9%E1%86%AF-%E1%84%8E%E1%85%A1-%E1%84%83%E1%85%A2%E1%84%89%E1%85%B3%E1%86%BC-%E1%84%8B%E1%85%B5%E1%84%81%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%A5%E1%86%BB%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%84%E1%85%A2%E1%84%80%E1%85%A1-%E1%84%86%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%86%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%BB%E1%84%83%E1%85%A1%E1%84%82%E1%85%B5--21%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AF%E1%86%AF-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A6-epl-3%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%BC-%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%90%E1%85%A9%E1%84%90%E1%85%B3%E1%84%82%E1%85%A5%E1%86%B7-%E1%84%83%E1%85%A1%E1%86%AB%E1%84%89%E1%85%AE%E1%86%B7%E1%84%8B%E1%85%A6-8%E1%84%8B%E1%85%B1%E1%84%85%E1%85%A9-%E1%84%81%E1%85%A5%E1%86%BC%E1%84%8E%E1%85%AE%E1%86%BC/blted11fecffdd49900",
+     "source": "Goal.com"
+    }
+   ]
+  },
+  {
+   "kw": "제네시스 g90",
+   "traffic": "500+",
+   "when": "11월 05일 13:10",
+   "news": [
+    {
+     "title": "[차 어때] 익숙한 편안함에 더 똑똑해진 ‘럭셔리’...벤츠 E300의 ‘진화’",
+     "url": "https://www.ekn.kr/web/view.php?key=20261102020094184",
+     "source": "에너지경제신문"
+    },
+    {
+     "title": "\"9,000만 원 싸게 산다고?\"... 1억 9,360만 원→‘4천만 원대’로 뚝 떨어진 프리미엄 세단",
+     "url": "https://topictree.co.kr/automobiles/news/2020-bmw-730d-used-luxury-sedan/",
+     "source": "토픽트리"
+    }
+   ]
+  },
+  {
+   "kw": "west indies vs bangladesh",
+   "traffic": "100+",
+   "when": "11월 05일 13:10",
+   "news": [
+    {
+     "title": "Jangoo, Wickham soften blow of Taskin's early strikes",
+     "url": "https://www.cricinfo.com/series/west-indies-in-bangladesh-2026-27-1553291/bangladesh-vs-west-indies-2nd-test-1553296/match-report-1",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Sammy demands more hunger as Windies chase Bangladesh series sweep",
+     "url": "https://www.caribbeannationalweekly.com/posts/sammy-demands-more-hunger-as-windies-chase-bangladesh-series-sweep",
+     "source": "Caribbean National Weekly"
+    }
+   ]
+  },
+  {
+   "kw": "jtbc",
+   "traffic": "200+",
+   "when": "11월 05일 13:10",
+   "news": []
+  },
+  {
+   "kw": "데블스플랜3",
+   "traffic": "100+",
+   "when": "11월 05일 13:00",
+   "news": [
+    {
+     "title": "6번째 우승 도전 장동민 \"살아있는 한 서바이벌 은퇴는 없죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261105097500005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "레전드 멤버들 모인 '데블스 플랜 : 데드 어게인'",
+     "url": "https://www.mt.co.kr/photo/202611051403287482",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "허가",
+   "traffic": "500+",
+   "when": "11월 05일 12:40",
+   "news": [
+    {
+     "title": "거래량 줄었다는데…서울 토지거래허가 두 달 연속 ‘반등’",
+     "url": "https://www.sisajournal.com/news/articleView.html?idxno=392926",
+     "source": "시사저널"
+    },
+    {
+     "title": "해제 15년 경과지 관리권 이양·우선공급 50%…하남시, 국토부에 건의",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335943",
+     "source": "인천일보"
+    }
+   ]
+  },
+  {
+   "kw": "잠수함",
+   "traffic": "1000+",
+   "when": "11월 05일 12:40",
+   "news": [
+    {
+     "title": "캐나다, 독일 잠수함 도입 규모 '12척→8척' 분할 검토…\"전략적 유연성 확보\"",
+     "url": "https://www.theguru.co.kr/mobile/article.html?no=109288",
+     "source": "더구루"
+    },
+    {
+     "title": "캐나다 | 캐나다, 잠수함 12척 대신 8척 제안… 독일 투자 흔들",
+     "url": "https://joinsmediacanada.com/bbs/board.php?bo_table=news&wr_id=54959",
+     "source": "밴쿠버 중앙일보"
     }
    ]
   }
