@@ -148,7 +148,8 @@
    "https://blog.naver.com/soduwk1209/224462485260",
    "https://blog.naver.com/soduwk1209/224462679121",
    "https://blog.naver.com/soduwk1209/224462653950",
-   "https://blog.naver.com/soduwk1209/224463796305"
+   "https://blog.naver.com/soduwk1209/224463796305",
+   "https://blog.naver.com/soduwk1209/224463841631"
   ],
   "started": true,
   "v": 2,
@@ -667,7 +668,7 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "감탄",
+  "tone": "존댓말",
   "hooks": [
    "와 임영웅 이런 일이 있었네",
    "화제의 소식",
@@ -686,7 +687,6 @@
    "조세호 이야기"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224463841631",
    "https://blog.naver.com/soduwk1209/224463832188",
    "https://blog.naver.com/soduwk1209/224463818871",
    "https://blog.naver.com/soduwk1209/224463809684",
