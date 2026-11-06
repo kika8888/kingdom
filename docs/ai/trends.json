@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-06 20:23",
+ "updated": "2026-11-06 21:23",
  "items": [
   {
-   "kw": "kt 삼성",
+   "kw": "안현민",
+   "traffic": "200+",
+   "when": "11월 06일 19:50",
+   "news": [
+    {
+     "title": "안현민의 투런 홈런으로 격차 벌리는 KT 위즈",
+     "url": "https://www.news1.kr/photos/8195289",
+     "source": "뉴스1"
+    },
+    {
+     "title": "\"도영아, 보고있니?\" PO 홈런 김도영에 연락했다는 안현민이 KS 홈런 치고 김도영에게 보낸 메시지 [베이스볼S]",
+     "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89154/22000639319",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "kt wiz",
    "traffic": "100+",
+   "when": "11월 06일 19:50",
+   "news": [
+    {
+     "title": "[Photo] Lee Seung-Yuop asks to take good care of Kang Min-ho",
+     "url": "https://biz.chosun.com/en/en-photo-spo/2026/11/06/SERJLP6ML5D4BHUYZNHKHCRK6I/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "This Year's Fall Baseball Ticket Revenue Reaches 10 Billion Won... All-Time High Set Last Year at 15.7 Billion Won",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008830574",
+     "source": "news.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "힐리어드",
+   "traffic": "100+",
+   "when": "11월 06일 19:40",
+   "news": [
+    {
+     "title": "[포토] 힐리어드, 빅토리 데이 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/06/2026110618592665361",
+     "source": "머니투데이"
+    },
+    {
+     "title": "부상 악재 대반전! 1위팀 1회부터 삼성 에이스 공략 성공…44홈런 외인 거포 선제 2루타 쾅 ‘KT 1-0 리드’ [KS3]",
+     "url": "https://www.osen.co.kr/article/G1112905305",
+     "source": "OSEN"
+    }
+   ]
+  },
+  {
+   "kw": "nepal premier league",
+   "traffic": "200+",
+   "when": "11월 06일 19:40",
+   "news": [
+    {
+     "title": "16th Match, Nepal Premier League at Kirtipur, Nov 6 2026",
+     "url": "https://www.espn.in/cricket/series/23081/scorecard/1558597/karnali-yaks-npl-vs-sudur-paschim-royals-npl-16th-match-nepal-premier-league-2026-27",
+     "source": "ESPN India"
+    },
+    {
+     "title": "Sudurpaschim Royals set 177-run target for Karnali Yaks in NPL",
+     "url": "https://english.nepalnews.com/s/sports/sudurpaschim-royals-set-177-run-target-for-karnali-yaks-in-npl/",
+     "source": "Nepalnews.com"
+    }
+   ]
+  },
+  {
+   "kw": "kt vs samsung",
+   "traffic": "200+",
+   "when": "11월 06일 19:30",
+   "news": [
+    {
+     "title": "LIVE: KT Wiz vs. Samsung Lions in Korean Series Game 3",
+     "url": "https://www.koreajoongangdaily.com/sports/live-kt-wiz-vs-samsung-lions-in-korean-series-game-3/12960263",
+     "source": "Korea JoongAng Daily"
+    },
+    {
+     "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "kt 삼성",
+   "traffic": "200+",
    "when": "11월 06일 19:20",
    "news": [
     {
@@ -15,6 +100,23 @@
      "title": "“열차 안이라 잘 안들려”…KT, 차내 통신 끊김 막을 기술 개발",
      "url": "https://www.sedaily.com/article/20110805",
      "source": "서울경제"
+    }
+   ]
+  },
+  {
+   "kw": "구자욱",
+   "traffic": "200+",
+   "when": "11월 06일 19:20",
+   "news": [
+    {
+     "title": "[사진] 구자욱, 동료들과 함께 한 짜릿한 2타점 3루타",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GBTDGYJXMRRTQOJZHA2DOYZTGI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[포토] 구자욱 '넘어가나' - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/06/2026110619262337816",
+     "source": "머니투데이"
     }
    ]
   },
@@ -35,108 +137,6 @@
    "traffic": "200+",
    "when": "11월 06일 18:50",
    "news": []
-  },
-  {
-   "kw": "퇴직",
-   "traffic": "20000+",
-   "when": "11월 06일 18:40",
-   "news": [
-    {
-     "title": "정부, 퇴직연금 사업자와 제도 개편 논의…기금형 연금 안착 지원",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374453",
-     "source": "전기신문"
-    },
-    {
-     "title": "연봉 7억인데 일 안하는 은행연합회장, 차라리 정치인에게?",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/06/2026110680001.html",
-     "source": "인베스트조선"
-    }
-   ]
-  },
-  {
-   "kw": "티빙",
-   "traffic": "2000+",
-   "when": "11월 06일 18:30",
-   "news": [
-    {
-     "title": "하나증권 \"CJ ENM, 간만의 TV 광고 회복세…목표가 상향\"",
-     "url": "https://www.yna.co.kr/view/AKR20261106026900008",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "티빙, 3분기 영업손실 72억원...\"확실한 손익 개선 흐름\"",
-     "url": "https://zdnet.co.kr/view/?no=20261105152651",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "병사",
-   "traffic": "100+",
-   "when": "11월 06일 18:20",
-   "news": [
-    {
-     "title": "‘강제 팔굽혀펴기’ 100회로 근육 녹게 한 軍간부, 재판 넘겨져",
-     "url": "https://www.donga.com/news/Society/article/all/20261106/134978709/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "'강제 팔굽혀펴기'로 병사 근육 녹인 군 간부 가혹행위죄 기소",
-     "url": "https://www.yna.co.kr/view/AKR20261106074000062",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "배트맨",
-   "traffic": "200+",
-   "when": "11월 06일 18:00",
-   "news": [
-    {
-     "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
-     "url": "https://www.hollywoodreporter.com/movies/movie-news/scarlett-johansson-on-the-batman-part-ii-role-1236748021/",
-     "source": "The Hollywood Reporter"
-    },
-    {
-     "title": "Scarlett Johansson Says Batman Role Gave Her ‘a Lot of Existential Angst’",
-     "url": "https://www.vulture.com/article/scarlett-johansson-batman-existential-angst.html",
-     "source": "Vulture"
-    }
-   ]
-  },
-  {
-   "kw": "박지후",
-   "traffic": "200+",
-   "when": "11월 06일 17:40",
-   "news": [
-    {
-     "title": "‘미스트롯 포유’ 김동현, 이소나와 우승 정조준 “밥그릇 줄어들까 봐 걱정돼”",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523752",
-     "source": "iMBC 연예"
-    },
-    {
-     "title": "진(眞) 저력 입증한 이소나, 변진섭 '그대 내게 다시'부터 김상배 '삼백초'까지",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743776",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "강민호",
-   "traffic": "200+",
-   "when": "11월 06일 17:40",
-   "news": [
-    {
-     "title": "박진만 삼성 감독 \"배찬승이 있어 원태인 선발로 돌린다\"",
-     "url": "https://www.yna.co.kr/view/AKR20261106147200007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[사진]구자욱 2타점 3루타, '이렇게 좋을수가'",
-     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/MQ4WENJWMUYDMZTFGYZWENRZME/",
-     "source": "Chosunbiz"
-    }
-   ]
   }
  ]
 }
