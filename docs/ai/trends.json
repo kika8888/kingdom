@@ -1,162 +1,173 @@
 {
- "updated": "2026-11-07 06:23",
+ "updated": "2026-11-07 07:23",
  "items": [
   {
-   "kw": "젠슨 황",
+   "kw": "은마아파트",
    "traffic": "500+",
-   "when": "11월 07일 05:00",
+   "when": "11월 07일 06:20",
    "news": [
     {
-     "title": "“술자리 옆 여성과 무슨 사이냐”…젠슨 황, ‘소환장’ 받았다",
-     "url": "https://www.donga.com/news/Inter/article/all/20261106/134978932/1",
-     "source": "동아일보"
+     "title": "주택공급 발목잡는 재초환… 가구당 은마 4억, 반포현대 2억 내야",
+     "url": "https://www.chosun.com/economy/real_estate/2026/11/07/3FFT6HIJ7NG6JEFMGED6OS6BXA/",
+     "source": "조선일보"
     },
     {
-     "title": "“술자리 옆 中 여성과 무슨 사이냐”…젠슨 황, 美의회 '소환장' 받았다",
-     "url": "https://www.etnews.com/20261107000003",
-     "source": "전자신문"
+     "title": "강남 재건축 덮친 재초환…은마 조합원당 4.6억[집슐랭]",
+     "url": "https://www.sedaily.com/article/20111382",
+     "source": "서울경제"
     }
    ]
   },
   {
-   "kw": "송미령",
+   "kw": "비트코인",
    "traffic": "200+",
-   "when": "11월 07일 05:00",
+   "when": "11월 07일 06:20",
    "news": [
     {
-     "title": "햇빛 모아 부자 될 거야! 농사도 짓고 돈도 버는 영농형 태양광의 모든 것 - 영상 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975227&pWise=sub&pWiseSub=C2",
-     "source": "대한민국 정책브리핑"
+     "title": "블랙록 IBIT, 5거래일 연속 10억 4,000만 달러 이탈…나스닥 5.5% 급락 여파",
+     "url": "https://www.wikitree.co.kr/articles/1172576",
+     "source": "위키트리"
     },
     {
-     "title": "농식품부, 규제합리화 과제 선정…농지조사 후속 특별법 추진",
-     "url": "https://www.yna.co.kr/view/AKR20261106171100030",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "황인범",
-   "traffic": "1000+",
-   "when": "11월 07일 04:50",
-   "news": [
-    {
-     "title": "투입 2분 만에 도움…황인범, 모레노 앞 매력 발산",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261105233057CdZ",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "투입 2분 만에 쐐기골 도움…3연패 끊었다!",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832927",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "카를로스 알카라스",
-   "traffic": "500+",
-   "when": "11월 07일 04:40",
-   "news": [
-    {
-     "title": "알카라스, 베레티니 부상 기권으로 파리 마스터스 8강…프리츠와 격돌",
-     "url": "https://www.etoday.co.kr/news/view/2644971?trc=main_list_news",
-     "source": "이투데이"
-    },
-    {
-     "title": "알카라스, 미켈센 2-0 제압…파리 마스터스 16강 진출",
-     "url": "https://www.etoday.co.kr/news/view/2644533?trc=right_categori_news",
-     "source": "이투데이"
-    }
-   ]
-  },
-  {
-   "kw": "주가 대폭락",
-   "traffic": "100+",
-   "when": "11월 07일 04:10",
-   "news": []
-  },
-  {
-   "kw": "어 도어",
-   "traffic": "200+",
-   "when": "11월 07일 03:30",
-   "news": [
-    {
-     "title": "‘뉴진스’ 계약 불공정 논란…“가혹하다” vs “사실아냐”",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706309",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
-     "url": "https://www.khan.co.kr/article/202611061631011",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "농성",
-   "traffic": "200+",
-   "when": "11월 07일 03:20",
-   "news": [
-    {
-     "title": "한화오션 생산 직·반장들 \"하청노조 고공농성 중단하라\"",
-     "url": "https://www.yna.co.kr/view/AKR20261106056400052",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "한화오션, 생산 현장 직·반장 \"거제 경제·일터 수호\" 결의",
-     "url": "https://www.newsis.com/view/NISX20261106_0003857343",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "옥수수",
-   "traffic": "200+",
-   "when": "11월 07일 02:50",
-   "news": [
-    {
-     "title": "\"주인님, 저 이상해요\"…병 걸리면 SOS 보내는 옥수수 정체",
-     "url": "https://www.hankyung.com/article/2026110615051",
-     "source": "한국경제"
-    },
-    {
-     "title": "AI로 작물 분석 병해충 감지시스템 개발",
-     "url": "https://www.nongmin.com/article/20261030500621",
-     "source": "농민신문"
-    }
-   ]
-  },
-  {
-   "kw": "이강철",
-   "traffic": "500+",
-   "when": "11월 07일 02:50",
-   "news": [
-    {
-     "title": "‘KT 악재’ 손 다친 최원준, 선발 라인업 제외…“중요할 때 대타로”",
-     "url": "https://www.donga.com/news/Sports/article/all/20261106/134981290/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "[KS 포커스] 빈공 시달리는 '팀 타율 1위' KT...장성우 DH·회심의 대타 작전 모두 무위",
-     "url": "https://www.newspim.com/news/view/20261106001306",
+     "title": "[ETF 특징주] 비트코인 펀드 이틀간 10억달러 '썰물' 바이낸스·중간선거 파장",
+     "url": "https://www.newspim.com/news/view/20261104001165",
      "source": "뉴스핌"
     }
    ]
   },
   {
-   "kw": "시콜 스키 s 92",
-   "traffic": "2000+",
-   "when": "11월 07일 02:40",
+   "kw": "패션",
+   "traffic": "500+",
+   "when": "11월 07일 06:10",
    "news": [
     {
-     "title": "South Korea selects Sikorsky S-92A+ for new presidential transport helicopter",
-     "url": "https://www.flightglobal.com/defence/2026/11/south-korea-selects-sikorsky-s-92a-for-new-presidential-transport-helicopter/",
-     "source": "FlightGlobal"
+     "title": "Fashion Doesn’t Need Kanye West’s Yeezy",
+     "url": "https://www.nytimes.com/2026/11/05/style/yeezy-season-01-fashion-show-kanye-west.html",
+     "source": "The New York Times"
     },
     {
-     "title": "South Korea orders four S-92A+ helicopters to replace presidential fleet",
-     "url": "https://www.airdatanews.com/south-korea-orders-four-s-92-a-helicopters-to-replace-presidential-fleet/",
-     "source": "Air Data News"
+     "title": "Yeezy Returns with LA Runway Show and JD Sports Partnership",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-06/yeezy-returns-with-la-runway-show-and-jd-sports-partnership",
+     "source": "Bloomberg.com"
+    }
+   ]
+  },
+  {
+   "kw": "임영웅",
+   "traffic": "100+",
+   "when": "11월 07일 06:10",
+   "news": [
+    {
+     "title": "임영웅, 공연 실황 영화 예고편 공개… “앞으로 10년도 함께”",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/P6I7OBIKH5BJFPZCELCE7TOAIA/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "“영웅시대와 함께한 10년의 기적”…임영웅, 스타디움 감동 담은 예고편 공개",
+     "url": "https://www.viva100.com/article/20261106500158",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "옥주현",
+   "traffic": "1000+",
+   "when": "11월 07일 05:50",
+   "news": [
+    {
+     "title": "190억에 산 한남더힐 경매로…\"옥주현 183억 빚\" 자금난 분석한 변호사",
+     "url": "https://www.news1.kr/society/general-society/6344223",
+     "source": "뉴스1"
+    },
+    {
+     "title": "“옥주현, 180억 대부업체 대출 추정…연이자만 20억 이상” 변호사 분석 [이슈픽]",
+     "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/05/20261105500315",
+     "source": "TWIG"
+    }
+   ]
+  },
+  {
+   "kw": "빈곤",
+   "traffic": "200+",
+   "when": "11월 07일 05:50",
+   "news": [
+    {
+     "title": "하안구는 2026년 '빈곤층 지원 기금'에 2억 8900만 VND 이상의 기부금을 받았습니다.",
+     "url": "https://www.vietnam.vn/ko/phuong-ha-an-tiep-nhan-tren-289-trieu-dong-ung-ho-quy-vi-nguoi-ngheo-nam-2026",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "꽝닌성, 빈곤층 기금 지원을 위해 약 170억 동 모금",
+     "url": "https://ko.laodong.vn/hoat-dong-mat-tran/quang-ninh-van-dong-gan-17-ti-dong-dang-ky-ung-ho-quy-vi-nguoi-ngheo-1795960.ldo",
+     "source": "Laodong.vn"
+    }
+   ]
+  },
+  {
+   "kw": "투자",
+   "traffic": "1000+",
+   "when": "11월 07일 05:50",
+   "news": [
+    {
+     "title": "AI 규제 공포에 뉴욕 증시 폭락…트럼프 “멍청한 민주당 탓”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706285",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "AMD, 반도체주 반등 타고 11% 급등… 하루 만에 449달러선 회복",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=846372",
+     "source": "제민일보"
+    }
+   ]
+  },
+  {
+   "kw": "두산에너빌리티",
+   "traffic": "1000+",
+   "when": "11월 07일 05:40",
+   "news": [
+    {
+     "title": "[리포트 브리핑]두산에너빌리티, '미국 신규 원전 건설 가속화 수혜주' 목표가 120,000원 - KB증권",
+     "url": "https://www.newspim.com/news/view/20261105000927",
+     "source": "뉴스핌"
+    },
+    {
+     "title": "두산에너빌리티 주가 4,600원 하락 후 마감",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3215388&type=&mobile=",
+     "source": "아시아뉴스통신"
+    }
+   ]
+  },
+  {
+   "kw": "염경엽",
+   "traffic": "200+",
+   "when": "11월 07일 05:40",
+   "news": [
+    {
+     "title": "“감독 하면서 제일 좋은 투수\" 염경엽 극찬...12승 톨허스트 교체 승부수도 있다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/06/202611042246775040O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "LG 트윈스, 새 외국인 에이스 트리스탄 벡 영입…2027시즌 마운드 재편 시동",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=846226",
+     "source": "제민일보"
+    }
+   ]
+  },
+  {
+   "kw": "은행",
+   "traffic": "100+",
+   "when": "11월 07일 05:40",
+   "news": [
+    {
+     "title": "[은행권 풍향계] KB국민은행, 대부업체 성실상환자 1만명 금융부담 완화 外",
+     "url": "https://m.ekn.kr/view.php?key=20261104027205455",
+     "source": "에너지경제신문"
+    },
+    {
+     "title": "[이코노 브리핑] 국민銀, 취약차주 100억 규모 이자 지원 외",
+     "url": "https://m.segye.com/view/20261104517829",
+     "source": "세계일보"
     }
    ]
   }
