@@ -1,9 +1,77 @@
 {
- "updated": "2026-11-06 23:23",
+ "updated": "2026-11-07 00:22",
  "items": [
   {
-   "kw": "장유빈",
+   "kw": "삼성증권",
+   "traffic": "100+",
+   "when": "11월 06일 23:10",
+   "news": [
+    {
+     "title": "한미약품, 두 번째 'Bio Innovation Day' 개최···신약·AI 헬스케어 교류의 장",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=354049",
+     "source": "녹색경제신문"
+    },
+    {
+     "title": "한미약품·삼성증권, 유망 바이오벤처 투자 유치 지원 나선다",
+     "url": "https://www.sedaily.com/article/20111140",
+     "source": "서울경제"
+    }
+   ]
+  },
+  {
+   "kw": "dc",
+   "traffic": "1000+",
+   "when": "11월 06일 23:00",
+   "news": [
+    {
+     "title": "Hegseth expands National Guard presence in DC",
+     "url": "https://www.politico.com/news/2026/11/05/hegseth-expands-d-c-national-guard-presence-01151398",
+     "source": "Politico"
+    },
+    {
+     "title": "Hegseth allows National Guard to boost DC patrols with military vehicles, boats and patrol cars",
+     "url": "https://www.nbcwashington.com/news/local/hegseth-national-guard-boost-dc-patrols-military-vehicles-boats-patrol-cars/4178655/",
+     "source": "NBC4 Washington"
+    }
+   ]
+  },
+  {
+   "kw": "노태문",
    "traffic": "500+",
+   "when": "11월 06일 23:00",
+   "news": [
+    {
+     "title": "삼성전자 노태문 대표이사, 자사주 3천 주 매입‥6억 3천만 원 규모",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6863796_36932.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "삼성전자 노태문 사장, 자사주 3천주 매입…책임 경영 행보",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261106173527nt6",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "화장실",
+   "traffic": "100+",
+   "when": "11월 06일 22:30",
+   "news": [
+    {
+     "title": "부산교통공사, 노포역 화장실 전국 75곳 중 동상…16번째 수상",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721088",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "벡스코 아름다운 화장실 국무총리상 수상 - 머니투데이",
+     "url": "https://www.mt.co.kr/policy/2026/11/06/2026110613531167437",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "장유빈",
+   "traffic": "1000+",
    "when": "11월 06일 22:00",
    "news": [
     {
@@ -20,13 +88,13 @@
   },
   {
    "kw": "이혜정",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 06일 21:50",
    "news": [
     {
-     "title": "이혜정, 2년 전 절연한 아들 생각에 눈물…“언젠가는 화해하겠지”",
-     "url": "https://www.segye.com/newsView/20261106503569",
-     "source": "세계일보"
+     "title": "아들과 절연한 이혜정 \"언젠가 화해할 날 있겠지\" 눈물",
+     "url": "https://www.newsis.com/view/NISX20261106_0003858051",
+     "source": "뉴시스"
     },
     {
      "title": "이혜정, '남편팔이' 욕먹었는데 \"'외도' 남편 흉 안봤더니 예능 끊겨\" 씁쓸",
@@ -37,7 +105,7 @@
   },
   {
    "kw": "장찬희",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 06일 21:50",
    "news": [
     {
@@ -46,15 +114,15 @@
      "source": "조선일보"
     },
     {
-     "title": "kt 좌완 로건, KS 4차전 선발 복귀…\"이기는 데만 집중해\"",
-     "url": "https://www.yna.co.kr/view/AKR20261104138900007",
-     "source": "연합뉴스"
+     "title": "KT 로건 vs 삼성 '루키' 장찬희 깜짝 선발…KS 4차전서 선발 맞대결",
+     "url": "https://www.news1.kr/sports/baseball/6346226",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "kw": "현장르포 특종세상",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 06일 21:40",
    "news": [
     {
@@ -92,77 +160,9 @@
      "source": "조선일보"
     },
     {
-     "title": "이태성, '소개팅 女' 수의사와 결별 \"좋은 친구로 남기로\"('신랑수업2')",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017872",
-     "source": "SPOTV NEWS"
-    }
-   ]
-  },
-  {
-   "kw": "카광",
-   "traffic": "1000+",
-   "when": "11월 06일 21:20",
-   "news": [
-    {
-     "title": "‘여성 학대 의혹’ 유튜버 카광, 채널 삭제 이어 ‘출국금지’… 경찰 수사 본격화",
-     "url": "https://sports.khan.co.kr/article/202611061749003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "인기 유튜버, 女 학대 생중계 논란…16년 전 파묘 (궁금한 이야기Y)",
-     "url": "https://sports.donga.com/ent/article/all/20261106/134981087/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "박승규",
-   "traffic": "500+",
-   "when": "11월 06일 21:00",
-   "news": [
-    {
-     "title": "박승규, '좋았어'",
-     "url": "https://www.newsis.com/view/NISI20261106_0021522762",
-     "source": "뉴시스"
-    },
-    {
-     "title": "[사진]구자욱, 박승규 'KS 3차전 솔로포에 뜨거운 포옹'",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GBTGKMZRGM4TSMBVMMYWIMBSGM/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "마이클세일러",
-   "traffic": "200+",
-   "when": "11월 06일 20:50",
-   "news": [
-    {
-     "title": "AI 해커가 암호화폐 거래소 노린다…바이낸스 63억 달러 해킹 이어 또 보안 위기?",
-     "url": "https://www.coinreaders.com/267961",
-     "source": "코인리더스"
-    },
-    {
-     "title": "마이클 세일러 \"AI 해커, 디지털자산 산업 새 위협…비트코인 보다 거래소가 취약\"",
-     "url": "https://www.blockmedia.co.kr/archives/1162198",
-     "source": "블록미디어"
-    }
-   ]
-  },
-  {
-   "kw": "식이",
-   "traffic": "200+",
-   "when": "11월 06일 20:50",
-   "news": [
-    {
-     "title": "풀무원 올가홀푸드, 단백질 5g·식이섬유 3g 담은 '한봉견과'",
-     "url": "https://www.newspim.com/news/view/20261106000055",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "올가홀푸드, 견과류 7종을 배합한 저온 로스팅 한봉견과 내놓아",
-     "url": "https://www.lawissue.co.kr/view.php?ud=202611060830144152204ead0791_12",
-     "source": "로이슈"
+     "title": "[선공개] “오빠한테 관심 있다고 말하고 싶었어” 태성과 효영은 둘만의 새로운 이야기를 써 내려갈 수 있을까?",
+     "url": "https://ichannela.com/program/clip/000000558568.do",
+     "source": "채널A"
     }
    ]
   }
