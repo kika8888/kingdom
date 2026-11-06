@@ -1,9 +1,44 @@
 {
- "updated": "2026-11-06 19:43",
+ "updated": "2026-11-06 20:23",
  "items": [
   {
-   "kw": "퇴직",
+   "kw": "kt 삼성",
+   "traffic": "100+",
+   "when": "11월 06일 19:20",
+   "news": [
+    {
+     "title": "KT·삼성전자, AI로 고속철도 통신 끊김 29% 줄였다",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374397",
+     "source": "전기신문"
+    },
+    {
+     "title": "“열차 안이라 잘 안들려”…KT, 차내 통신 끊김 막을 기술 개발",
+     "url": "https://www.sedaily.com/article/20110805",
+     "source": "서울경제"
+    }
+   ]
+  },
+  {
+   "kw": "안양 정관장 대 서울 sk",
+   "traffic": "500+",
+   "when": "11월 06일 19:00",
+   "news": []
+  },
+  {
+   "kw": "야구중계",
+   "traffic": "500+",
+   "when": "11월 06일 18:50",
+   "news": []
+  },
+  {
+   "kw": "tving",
    "traffic": "200+",
+   "when": "11월 06일 18:50",
+   "news": []
+  },
+  {
+   "kw": "퇴직",
+   "traffic": "20000+",
    "when": "11월 06일 18:40",
    "news": [
     {
@@ -12,9 +47,9 @@
      "source": "전기신문"
     },
     {
-     "title": "이찬진 \"퇴직연금 계열사 밀어주기 안돼\"",
-     "url": "https://stock.mk.co.kr/news/view/1192498",
-     "source": "매일경제 마켓"
+     "title": "연봉 7억인데 일 안하는 은행연합회장, 차라리 정치인에게?",
+     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/06/2026110680001.html",
+     "source": "인베스트조선"
     }
    ]
   },
@@ -24,31 +59,31 @@
    "when": "11월 06일 18:30",
    "news": [
     {
-     "title": "티빙, 3분기 영업손실 72억원...\"확실한 손익 개선 흐름\"",
-     "url": "https://zdnet.co.kr/view/?no=20261105152651",
-     "source": "지디넷코리아"
-    },
-    {
      "title": "하나증권 \"CJ ENM, 간만의 TV 광고 회복세…목표가 상향\"",
      "url": "https://www.yna.co.kr/view/AKR20261106026900008",
      "source": "연합뉴스"
+    },
+    {
+     "title": "티빙, 3분기 영업손실 72억원...\"확실한 손익 개선 흐름\"",
+     "url": "https://zdnet.co.kr/view/?no=20261105152651",
+     "source": "지디넷코리아"
     }
    ]
   },
   {
-   "kw": "한국시리즈 3차전",
+   "kw": "병사",
    "traffic": "100+",
-   "when": "11월 06일 18:10",
+   "when": "11월 06일 18:20",
    "news": [
     {
-     "title": "‘국민타자’ 이승엽, 삼성라이온즈파크에 뜬다…3차전 시구",
-     "url": "https://www.donga.com/news/Sports/article/all/20261106/134980475/1",
+     "title": "‘강제 팔굽혀펴기’ 100회로 근육 녹게 한 軍간부, 재판 넘겨져",
+     "url": "https://www.donga.com/news/Society/article/all/20261106/134978709/1",
      "source": "동아일보"
     },
     {
-     "title": "[사진]KT 선발 소형준, 반드시 이긴다",
-     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/GUZWCMZTMU3TSYLBHEYGCNDCGQ/",
-     "source": "Chosunbiz"
+     "title": "'강제 팔굽혀펴기'로 병사 근육 녹인 군 간부 가혹행위죄 기소",
+     "url": "https://www.yna.co.kr/view/AKR20261106074000062",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -80,9 +115,9 @@
      "source": "iMBC 연예"
     },
     {
-     "title": "[TV조선] 허찬미·박지후 달콤한 듀엣",
-     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/05/EYYKM3NJPVELBLBRQ376YGH7D4/",
-     "source": "조선일보"
+     "title": "진(眞) 저력 입증한 이소나, 변진섭 '그대 내게 다시'부터 김상배 '삼백초'까지",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743776",
+     "source": "국제뉴스"
     }
    ]
   },
@@ -92,82 +127,14 @@
    "when": "11월 06일 17:40",
    "news": [
     {
-     "title": "\"번트? 저 강민호인데요\" 13년 전 CF대사, 올해 강민호에겐 없다",
-     "url": "https://www.yna.co.kr/view/AKR20261106134600007",
+     "title": "박진만 삼성 감독 \"배찬승이 있어 원태인 선발로 돌린다\"",
+     "url": "https://www.yna.co.kr/view/AKR20261106147200007",
      "source": "연합뉴스"
     },
     {
-     "title": "구자욱은 뛰지도 못하는데..득점 막는 '2개의 핸디캡' 삼성은 무슨 생각으로 '자동아웃' 포수를 라인업에 두고 있을까[KS]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/06/HFTGMY3GGJRDSNZYMEYDCMTBGY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "kt 대 삼성",
-   "traffic": "20000+",
-   "when": "11월 06일 17:30",
-   "news": [
-    {
-     "title": "한국시리즈 3차전 승리 팀은?...소형준 vs 후라도 선발 대결",
-     "url": "https://www.ytn.co.kr/_ln/0107_202611061727570999",
-     "source": "YTN"
-    },
-    {
-     "title": "\"우승의 기쁨, 함께 나눠요\" 국민 유격수 향한 특별한 응원…대구CC 우승수 대표의 깜짝 이벤트 [KS3]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/06/GQ3WKNLCGUZTEOJUGBRDCYRRMQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "가상자산",
-   "traffic": "500+",
-   "when": "11월 06일 17:30",
-   "news": [
-    {
-     "title": "가상자산 소득과세 2년 유예 추진…2029년 시행 기반 마련",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975124",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "정부 '가상자산 과세' 네 번째 유예, 디지털자산법 입법 지연에 정책 신뢰성·조세형평성 논란",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451394",
-     "source": "비즈니스포스트"
-    }
-   ]
-  },
-  {
-   "kw": "어도어",
-   "traffic": "1000+",
-   "when": "11월 06일 17:30",
-   "news": [
-    {
-     "title": "NYT가 입수한 ‘가혹한 뉴진스 계약서’ 파장···하이브 “적법한 계약” 해명",
-     "url": "https://www.khan.co.kr/article/202611061345001",
-     "source": "경향신문"
-    },
-    {
-     "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
-     "url": "https://www.yna.co.kr/view/AKR20261106094700075",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "부산 불꽃축제",
-   "traffic": "100+",
-   "when": "11월 06일 17:30",
-   "news": [
-    {
-     "title": "카카오맵, ‘제21회 부산불꽃축제’ 축제 전용 지도 제공…혼잡 구역부터 일행 위치 확인까지",
-     "url": "https://www.kakaocorp.com/page/detail/12194",
-     "source": "카카오"
-    },
-    {
-     "title": "KT, 부산불꽃축제 특별 소통 대책 가동",
-     "url": "https://www.yna.co.kr/view/PYH20261106013600013",
-     "source": "연합뉴스"
+     "title": "[사진]구자욱 2타점 3루타, '이렇게 좋을수가'",
+     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/MQ4WENJWMUYDMZTFGYZWENRZME/",
+     "source": "Chosunbiz"
     }
    ]
   }
