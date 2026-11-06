@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>KINGDOM 소개 — 매일 자동으로 모이는 생활 정보</title>
+<meta name="description" content="오늘의 특가, 실시간 검색어, 키워드 등급, AI 직원, 지원금·심야약국·파크골프장 찾기까지 한곳에서">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="KINGDOM">
+<meta property="og:title" content="KINGDOM — 매일 자동으로 모이는 생활 정보">
+<meta property="og:description" content="오늘의 특가, 실시간 검색어, AI 직원, 생활 찾기까지 한곳에서">
+<meta property="og:image" content="https://kingdom.papalaqi.com/og/home.png">
+<meta property="og:url" content="https://kingdom.papalaqi.com/about.html">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap">
+<style>
+:root{--bg:#07080d;--bg2:#0d0f17;--card:#11131d;--line:#1f2233;--ink:#f3f1ea;--muted:#8d8fa3;--gold:#e0b84a;--gold2:#f5d77e;--navy:#2e3478}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 "Noto Sans KR","Malgun Gothic",sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit;text-decoration:none}
+#sky{position:fixed;inset:0;z-index:0;pointer-events:none}
+.wrap{position:relative;z-index:1;max-width:1100px;margin:0 auto;padding:0 20px}
+
+/* 머리 */
+header{position:sticky;top:0;z-index:5;backdrop-filter:blur(10px);background:rgba(7,8,13,.72);border-bottom:1px solid rgba(255,255,255,.04)}
+header .wrap{display:flex;align-items:center;gap:16px;height:64px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:900;letter-spacing:.04em}
+.logo i{width:34px;height:34px;border-radius:10px;display:grid;place-items:center;font-style:normal;background:linear-gradient(135deg,var(--gold2),var(--gold));color:#1a1405;box-shadow:0 0 22px rgba(224,184,74,.45)}
+.logo b{color:var(--gold)}
+header nav{margin-left:auto;display:flex;gap:20px;align-items:center;font-size:.92rem;color:var(--muted)}
+header nav a:hover{color:var(--ink)}
+.btn-s{border:1px solid rgba(224,184,74,.35);color:var(--gold2)!important;background:rgba(224,184,74,.08);padding:7px 14px;border-radius:10px;font-weight:700}
+
+/* 첫 화면 */
+.hero{text-align:center;padding:96px 0 40px}
+.badge{display:inline-flex;align-items:center;gap:8px;font-size:.82rem;color:var(--gold2);border:1px solid rgba(224,184,74,.28);background:rgba(224,184,74,.06);padding:6px 14px;border-radius:999px}
+.badge:before{content:"";width:7px;height:7px;border-radius:50%;background:var(--gold);box-shadow:0 0 10px var(--gold);animation:blink 1.6s infinite}
+@keyframes blink{50%{opacity:.35}}
+.hero h1{margin:26px 0 0;font-size:clamp(2.3rem,7vw,4.4rem);line-height:1.18;font-weight:900;letter-spacing:-.02em}
+.hero h1 span{background:linear-gradient(180deg,var(--gold2),var(--gold));-webkit-background-clip:text;background-clip:text;color:transparent;filter:drop-shadow(0 0 24px rgba(224,184,74,.35))}
+.hero p{margin:22px auto 0;max-width:560px;color:var(--muted);font-size:clamp(.98rem,2.4vw,1.12rem)}
+.hero p b{color:var(--ink);font-weight:500}
+.cta{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-top:34px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:14px 26px;border-radius:12px;font-weight:700;transition:transform .15s,box-shadow .15s}
+.btn.main{background:linear-gradient(135deg,var(--gold2),var(--gold));color:#1a1405;box-shadow:0 8px 30px rgba(224,184,74,.3)}
+.btn.main:hover{transform:translateY(-2px);box-shadow:0 12px 36px rgba(224,184,74,.42)}
+.btn.sub{background:rgba(255,255,255,.04);border:1px solid var(--line);color:var(--ink)}
+.btn.sub:hover{border-color:rgba(224,184,74,.4)}
+.stats{display:flex;justify-content:center;gap:clamp(28px,8vw,90px);margin:64px auto 0;padding-top:34px;border-top:1px solid var(--line);max-width:560px;flex-wrap:wrap}
+.stats div{text-align:center}
+.stats b{display:block;font-size:1.9rem;font-weight:900;color:var(--gold)}
+.stats small{color:var(--muted);font-size:.82rem}
+.scroll{display:block;text-align:center;margin-top:30px;font-size:.72rem;letter-spacing:.2em;color:#5a5c6e}
+.scroll:after{content:"⌄";display:block;font-size:1.1rem;animation:down 1.8s infinite}
+@keyframes down{50%{transform:translateY(5px)}}
+
+/* 공통 제목 */
+section.blk{padding:90px 0}
+.kicker{text-align:center;font-size:.78rem;letter-spacing:.25em;color:var(--gold);font-weight:700}
+.blk h2{text-align:center;margin:10px 0 0;font-size:clamp(1.6rem,4.6vw,2.4rem);font-weight:900}
+.blk .lead{text-align:center;color:var(--muted);margin:12px 0 0}
+
+/* 기능 카드 */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;margin-top:44px}
+.card{position:relative;background:linear-gradient(180deg,var(--card),var(--bg2));border:1px solid var(--line);border-radius:18px;padding:26px;transition:border-color .2s,transform .2s;overflow:hidden}
+.card:before{content:"";position:absolute;inset:-1px;border-radius:18px;background:radial-gradient(400px 120px at 20% 0,rgba(224,184,74,.12),transparent 70%);opacity:0;transition:opacity .2s;pointer-events:none}
+.card:hover{border-color:rgba(224,184,74,.35);transform:translateY(-3px)}
+.card:hover:before{opacity:1}
+.ic{width:46px;height:46px;border-radius:12px;display:grid;place-items:center;background:rgba(224,184,74,.1);border:1px solid rgba(224,184,74,.25);font-size:1.35rem}
+.card h3{margin:18px 0 6px;font-size:1.12rem}
+.card p{margin:0;color:var(--muted);font-size:.93rem}
+.card .go{display:inline-block;margin-top:14px;font-size:.85rem;font-weight:700;color:var(--gold2)}
+
+/* 3단계 */
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;margin-top:44px}
+.step{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:28px}
+.step em{font-style:normal;font-size:2.1rem;font-weight:900;color:transparent;-webkit-text-stroke:1px rgba(224,184,74,.6)}
+.step h3{margin:10px 0 6px;font-size:1.1rem}
+.step p{margin:0;color:var(--muted);font-size:.93rem}
+
+/* 마무리 */
+.final{margin:20px 0 90px;text-align:center;padding:64px 24px;border-radius:24px;border:1px solid rgba(224,184,74,.22);background:radial-gradient(600px 220px at 50% 0,rgba(224,184,74,.14),transparent 70%),var(--bg2)}
+.final h2{margin:0;font-size:clamp(1.6rem,4.6vw,2.3rem);font-weight:900}
+.final p{color:var(--muted);margin:12px 0 0}
+footer{border-top:1px solid var(--line);padding:30px 0 40px;color:#5d5f72;font-size:.82rem}
+footer .wrap{display:flex;gap:14px;flex-wrap:wrap;justify-content:space-between}
+footer a:hover{color:var(--ink)}
+
+.reveal{opacity:0;transform:translateY(18px);transition:opacity .7s,transform .7s}
+.reveal.on{opacity:1;transform:none}
+@media (max-width:640px){header nav a:not(.btn-s){display:none}.hero{padding-top:64px}.grid{grid-template-columns:1fr}
+  .stats{flex-wrap:nowrap;gap:0;justify-content:space-between}.stats div{flex:1}.stats b{font-size:1.45rem}.stats small{font-size:.74rem}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<canvas id="sky"></canvas>
+
+<header><div class="wrap">
+  <a class="logo" href="/"><i>👑</i><span><b>KING</b>DOM</span></a>
+  <nav><a href="#features">기능</a><a href="#how">이용 방법</a><a href="/ai">AI 직원</a><a class="btn-s" href="/">바로가기</a></nav>
+</div></header>
+
+<main class="wrap">
+  <section class="hero">
+    <span class="badge">매시간 자동 업데이트</span>
+    <h1>생활에 필요한 정보,<br><span>여기 다 모였다</span></h1>
+    <p>오늘의 특가부터 실시간 검색어, 키워드 분석, 지원금·심야약국·파크골프장 찾기까지<br><b>KINGDOM이 매시간 알아서 모아 둡니다</b></p>
+    <div class="cta">
+      <a class="btn main" href="/">시작하기 →</a>
+      <a class="btn sub" href="/ai">AI 직원 보기</a>
+    </div>
+    <div class="stats">
+      <div><b>매시간</b><small>새 정보 자동 수집</small></div>
+      <div><b>7가지</b><small>한곳에 모은 서비스</small></div>
+      <div><b>무료</b><small>가입 없이 바로</small></div>
+    </div>
+    <span class="scroll">SCROLL</span>
+  </section>
+
+  <section class="blk" id="features">
+    <div class="kicker reveal">FEATURES</div>
+    <h2 class="reveal">찾아다닐 필요 없는 올인원 생활 정보</h2>
+    <p class="lead reveal">자주 찾는 것들을 하나의 사이트에서 해결하세요</p>
+    <div class="grid">
+      <a class="card reveal" href="/#goldbox"><div class="ic">⏰</div><h3>오늘의 특가</h3><p>매일 바뀌는 골드박스 할인 상품과 요즘 뜨는 신기템을 매시간 모아 보여드려요</p><span class="go">특가 보러 가기 →</span></a>
+      <a class="card reveal" href="/ai/trends.html"><div class="ic">📡</div><h3>실시간 인기 검색어</h3><p>지금 가장 많이 찾는 검색어 TOP 10과 관련 뉴스를 매시간 정리해요</p><span class="go">검색어 보기 →</span></a>
+      <a class="card reveal" href="/ai/keyword.html"><div class="ic">🔍</div><h3>키워드 등급 검색</h3><p>검색수와 경쟁도를 한 번에 보고 S·A·B 등급으로 글감을 골라 드려요</p><span class="go">키워드 검색 →</span></a>
+      <a class="card reveal" href="/ai"><div class="ic">🤖</div><h3>AI 직원</h3><p>상품기획·글쓰기·전략 등 역할별 AI 직원에게 바로 업무를 맡겨 보세요</p><span class="go">AI 직원 만나기 →</span></a>
+      <a class="card reveal" href="https://index01.pantaqi100.com/" target="_blank" rel="noopener"><div class="ic">💰</div><h3>지원금 찾기</h3><p>나이와 지역만 고르면 받을 수 있는 정부 지원금을 찾아 드려요</p><span class="go">지원금 찾기 →</span></a>
+      <a class="card reveal" href="https://post0020.papalaqi.com/" target="_blank" rel="noopener"><div class="ic">💊</div><h3>심야약국 · 파크골프장</h3><p>전국 24시 심야약국과 파크골프장 위치를 지역별로 빠르게 찾아요</p><span class="go">생활 찾기 →</span></a>
+    </div>
+  </section>
+
+  <section class="blk" id="how">
+    <div class="kicker reveal">HOW IT WORKS</div>
+    <h2 class="reveal">간단한 시작</h2>
+    <p class="lead reveal">3단계면 충분해요</p>
+    <div class="steps">
+      <div class="step reveal"><em>01</em><h3>사이트 접속</h3><p>가입이나 로그인 없이 kingdom.papalaqi.com 에 들어오세요</p></div>
+      <div class="step reveal"><em>02</em><h3>필요한 메뉴 선택</h3><p>쇼핑·검색어·키워드·AI 직원·생활 찾기 중 필요한 걸 고르세요</p></div>
+      <div class="step reveal"><em>03</em><h3>매시간 새로 확인</h3><p>정보는 매시간 자동으로 바뀌어요. 즐겨찾기 해 두고 수시로 보세요</p></div>
+    </div>
+  </section>
+
+  <section class="final reveal">
+    <h2>지금 바로 둘러보세요</h2>
+    <p>즐겨찾기 한 번이면 매일 새 정보를 받아볼 수 있어요</p>
+    <div class="cta"><a class="btn main" href="/">KINGDOM 바로가기 →</a></div>
+  </section>
+</main>
+
+<footer><div class="wrap">
+  <span>© KINGDOM · kingdom.papalaqi.com</span>
+  <span><a href="/">쇼핑</a> · <a href="/ai">AI 직원</a> · <a href="/ai/trends.html">실시간 검색어</a> · <a href="/ai/keyword.html">키워드</a></span>
+</div></footer>
+
+<script>
+// 배경에 천천히 떠다니는 금빛 점
+(function(){
+  var c=document.getElementById('sky'),x=c.getContext('2d'),pts=[],w,h;
+  var still=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function size(){w=c.width=innerWidth;h=c.height=innerHeight;pts=[];for(var i=0;i<Math.min(90,w/14);i++)pts.push({x:Math.random()*w,y:Math.random()*h,r:Math.random()*1.4+.3,v:Math.random()*.25+.05,a:Math.random()*.6+.15})}
+  function draw(){x.clearRect(0,0,w,h);pts.forEach(function(p){x.fillStyle='rgba(224,184,74,'+p.a+')';x.beginPath();x.arc(p.x,p.y,p.r,0,7);x.fill();if(!still){p.y-=p.v;if(p.y<-4){p.y=h+4;p.x=Math.random()*w}}});if(!still)requestAnimationFrame(draw)}
+  addEventListener('resize',size);size();draw();
+})();
+// 스크롤하면 부드럽게 나타나기
+(function(){
+  var els=document.querySelectorAll('.reveal');
+  if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('on')});return}
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('on');io.unobserve(e.target)}})},{threshold:.12});
+  els.forEach(function(e){io.observe(e)});
+})();
+</script>
+</body>
+</html>
