@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07 02:54",
+ "updated": "2026-11-07 03:23",
  "items": [
   {
    "kw": "임형주",
@@ -54,18 +54,35 @@
   },
   {
    "kw": "유튜버",
-   "traffic": "2000+",
+   "traffic": "500+",
    "when": "11월 07일 00:00",
    "news": [
     {
-     "title": "인기 유튜버, 女 학대 생중계 논란…16년 전 파묘 (궁금한 이야기Y)",
-     "url": "https://sports.donga.com/ent/article/all/20261106/134981087/1",
-     "source": "스포츠동아"
+     "title": "자전거 여행 중 숨진 유튜버…\"마지막 여정을\" 친형의 글",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833712",
+     "source": "SBS 뉴스"
     },
     {
-     "title": "‘여성 학대 의혹’ 유튜버 카광, 채널 삭제 이어 ‘출국금지’… 경찰 수사 본격화",
-     "url": "https://sports.khan.co.kr/article/202611061749003",
+     "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
+     "url": "https://sports.khan.co.kr/article/202611061513013",
      "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "겨울",
+   "traffic": "2000+",
+   "when": "11월 06일 23:30",
+   "news": [
+    {
+     "title": "갑자기 기온 뚝…내일 ’입동’ 서울 첫 영하권",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124747vqp",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "오늘 입동 추위… 서울 영하 1도, 춘천 대관령 등 영하 5도",
+     "url": "https://www.donga.com/news/Society/article/all/20261106/134982236/2",
+     "source": "동아일보"
     }
    ]
   },
@@ -121,25 +138,8 @@
    ]
   },
   {
-   "kw": "dc",
-   "traffic": "500+",
-   "when": "11월 06일 23:00",
-   "news": [
-    {
-     "title": "DC councilmember advocates for National Guard withdrawal",
-     "url": "https://www.nbcwashington.com/news/local/dc-councilmember-advocates-for-national-guard-withdrawal/4178875/",
-     "source": "NBC4 Washington"
-    },
-    {
-     "title": "National Guard gets boats and Humvees as D.C. leaders seek to oust troops",
-     "url": "https://www.washingtonpost.com/dc-md-va/2026/11/05/national-guard-adding-boats-humvees-dc-leaders-hope-oust-troops/",
-     "source": "The Washington Post"
-    }
-   ]
-  },
-  {
    "kw": "디씨",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 06일 22:50",
    "news": [
     {
