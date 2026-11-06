@@ -1,6 +1,103 @@
 {
- "updated": "2026-11-06 22:23",
+ "updated": "2026-11-06 23:23",
  "items": [
+  {
+   "kw": "장유빈",
+   "traffic": "500+",
+   "when": "11월 06일 22:00",
+   "news": [
+    {
+     "title": "‘스코어카드 반대로 썼다’… 장유빈 KPGA 최종전 실격, 상금·대상 2관왕 무산",
+     "url": "https://www.chosun.com/national/people/2026/11/06/WUGH7AT4N5DH5IDTBW6OFLVDZE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "황재민, 초속 13ｍ 강풍에도 66타…KPGA 투어챔피언십 2R 선두",
+     "url": "https://www.yna.co.kr/view/AKR20261106162900007",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "이혜정",
+   "traffic": "200+",
+   "when": "11월 06일 21:50",
+   "news": [
+    {
+     "title": "이혜정, 2년 전 절연한 아들 생각에 눈물…“언젠가는 화해하겠지”",
+     "url": "https://www.segye.com/newsView/20261106503569",
+     "source": "세계일보"
+    },
+    {
+     "title": "이혜정, '남편팔이' 욕먹었는데 \"'외도' 남편 흉 안봤더니 예능 끊겨\" 씁쓸",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/05/GYZWCMZUGM2GMOJUMZSDCNTBGM/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "장찬희",
+   "traffic": "200+",
+   "when": "11월 06일 21:50",
+   "news": [
+    {
+     "title": "대반전! 삼성, 4차전 선발 장찬희 깜짝 예고! → KT는 예상대로 로건 [KS3 현장]",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/06/MFTGMNJXGBTDSMLDG5SDONRUGM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "kt 좌완 로건, KS 4차전 선발 복귀…\"이기는 데만 집중해\"",
+     "url": "https://www.yna.co.kr/view/AKR20261104138900007",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "현장르포 특종세상",
+   "traffic": "200+",
+   "when": "11월 06일 21:40",
+   "news": [
+    {
+     "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253",
+     "source": "머니투데이"
+    },
+    {
+     "title": "김세레나 \"100억 차용증 없이 빌려줘…사기로 전 재산 잃어\"",
+     "url": "https://www.newsis.com/view/NISX20261105_0003857049",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "sbs",
+   "traffic": "500+",
+   "when": "11월 06일 21:40",
+   "news": [
+    {
+     "title": "Fire Breaks Out at Muan Pig Farm... Estimated 500 Pigs Dead",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008834812",
+     "source": "news.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "류효영",
+   "traffic": "500+",
+   "when": "11월 06일 21:30",
+   "news": [
+    {
+     "title": "이태성, '11살 연하♥' 김요한에 송곳 돌직구 \"안 미안하냐\"",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/06/MMZTKMTCGI2DKNBZGZRTIMBXMU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "이태성, '소개팅 女' 수의사와 결별 \"좋은 친구로 남기로\"('신랑수업2')",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017872",
+     "source": "SPOTV NEWS"
+    }
+   ]
+  },
   {
    "kw": "카광",
    "traffic": "1000+",
@@ -12,9 +109,26 @@
      "source": "스포츠경향"
     },
     {
-     "title": "'지적장애女 학대 의혹' 유튜버 카광, 가학 생방송 전말 고발된다",
-     "url": "https://www.newsis.com/view/NISX20261106_0003858579",
+     "title": "인기 유튜버, 女 학대 생중계 논란…16년 전 파묘 (궁금한 이야기Y)",
+     "url": "https://sports.donga.com/ent/article/all/20261106/134981087/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "kw": "박승규",
+   "traffic": "500+",
+   "when": "11월 06일 21:00",
+   "news": [
+    {
+     "title": "박승규, '좋았어'",
+     "url": "https://www.newsis.com/view/NISI20261106_0021522762",
      "source": "뉴시스"
+    },
+    {
+     "title": "[사진]구자욱, 박승규 'KS 3차전 솔로포에 뜨거운 포옹'",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GBTGKMZRGM4TSMBVMMYWIMBSGM/",
+     "source": "조선일보"
     }
    ]
   },
@@ -49,125 +163,6 @@
      "title": "올가홀푸드, 견과류 7종을 배합한 저온 로스팅 한봉견과 내놓아",
      "url": "https://www.lawissue.co.kr/view.php?ud=202611060830144152204ead0791_12",
      "source": "로이슈"
-    }
-   ]
-  },
-  {
-   "kw": "이승민",
-   "traffic": "200+",
-   "when": "11월 06일 20:50",
-   "news": [
-    {
-     "title": "역투하는 이승민",
-     "url": "https://mobile.newsis.com/photo/NISI20261106_0021522728",
-     "source": "뉴시스"
-    },
-    {
-     "title": "[포토] '8회초는 책임지죠!' 이승민 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/06/2026110620524651962",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "최우식",
-   "traffic": "200+",
-   "when": "11월 06일 20:30",
-   "news": [
-    {
-     "title": "최우식 측, '승무원 갑질' 의혹에 법적 대응 예고…\"허위 사실, 선처 없다\"",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611061727265969",
-     "source": "YTN"
-    },
-    {
-     "title": "최우식 측, '기내 태도 루머' 법적 대응…\"선처 없다\"",
-     "url": "https://www.newsis.com/view/NISX20261106_0003858309",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "김상수",
-   "traffic": "200+",
-   "when": "11월 06일 20:30",
-   "news": [
-    {
-     "title": "[사진]안현민-힐리어드, 라팍에는 홈런이 중요해",
-     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/MI4GIM3EGA2DOMBZHA2DSNJUMM/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "[사진]펜스 충돌 최원준, 3차전 선발 제외",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GY3WGMJRMZQTCZJSME3DSYZWHE/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "xsmb",
-   "traffic": "500+",
-   "when": "11월 06일 20:30",
-   "news": [
-    {
-     "title": "Xổ số miền Nam ngày 6 tháng 11: Dãy số giúp nhiều người trúng đài Trà Vinh",
-     "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-6-thang-11-day-so-giup-nhieu-nguoi-trung-dai-tra-vinh-185261106083235699.htm",
-     "source": "Báo Thanh Niên"
-    },
-    {
-     "title": "XSBD 6/11 - Kết quả xổ số Bình Dương ngày 6 tháng 11",
-     "url": "https://cafef.vn/xsbd-6-11-ket-qua-xo-so-binh-duong-ngay-6-thang-11-188261106163154116.chn",
-     "source": "CafeF"
-    }
-   ]
-  },
-  {
-   "kw": "이승엽",
-   "traffic": "200+",
-   "when": "11월 06일 20:00",
-   "news": [
-    {
-     "title": "'3차전 시구' 이승엽 \"일본서 코치 애환 배워…더 단단해져야\"",
-     "url": "https://www.yna.co.kr/view/AKR20261106180600007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "\"이제 진정한 라이온즈 리더\" 국민타자 인정, 왕조 막내가 이렇게 컸습니다…절뚝이며 걸어가는 우승의 길 [KS3]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/06/GM3WEZRVG4YDGMLDMRSGIMTFME/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "안현민",
-   "traffic": "200+",
-   "when": "11월 06일 19:50",
-   "news": [
-    {
-     "title": "\"도영아, 보고있니?\" PO 홈런 김도영에 연락했다는 안현민이 KS 홈런 치고 김도영에게 보낸 메시지 [베이스볼S]",
-     "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89154/22000639319",
-     "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "안현민의 투런 홈런으로 격차 벌리는 KT 위즈",
-     "url": "https://www.news1.kr/photos/8195289",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "김현수",
-   "traffic": "200+",
-   "when": "11월 06일 19:40",
-   "news": [
-    {
-     "title": "KT 김현수, PS 통산 109경기로 최다 타이기록…홍성흔과 동률[KS]",
-     "url": "https://www.newsis.com/view/NISX20261106_0003858580",
-     "source": "뉴시스"
-    },
-    {
-     "title": "[사진]후라도 믿고 가는 최일언 코치",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/06/GY2TGZRUHE3WMZDGHA3DMYJYMM/",
-     "source": "조선일보"
     }
    ]
   }
