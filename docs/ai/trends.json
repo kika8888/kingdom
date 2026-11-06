@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-06 19:23",
+ "updated": "2026-11-06 19:43",
  "items": [
+  {
+   "kw": "퇴직",
+   "traffic": "200+",
+   "when": "11월 06일 18:40",
+   "news": [
+    {
+     "title": "정부, 퇴직연금 사업자와 제도 개편 논의…기금형 연금 안착 지원",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374453",
+     "source": "전기신문"
+    },
+    {
+     "title": "이찬진 \"퇴직연금 계열사 밀어주기 안돼\"",
+     "url": "https://stock.mk.co.kr/news/view/1192498",
+     "source": "매일경제 마켓"
+    }
+   ]
+  },
+  {
+   "kw": "티빙",
+   "traffic": "2000+",
+   "when": "11월 06일 18:30",
+   "news": [
+    {
+     "title": "티빙, 3분기 영업손실 72억원...\"확실한 손익 개선 흐름\"",
+     "url": "https://zdnet.co.kr/view/?no=20261105152651",
+     "source": "지디넷코리아"
+    },
+    {
+     "title": "하나증권 \"CJ ENM, 간만의 TV 광고 회복세…목표가 상향\"",
+     "url": "https://www.yna.co.kr/view/AKR20261106026900008",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "한국시리즈 3차전",
+   "traffic": "100+",
+   "when": "11월 06일 18:10",
+   "news": [
+    {
+     "title": "‘국민타자’ 이승엽, 삼성라이온즈파크에 뜬다…3차전 시구",
+     "url": "https://www.donga.com/news/Sports/article/all/20261106/134980475/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "[사진]KT 선발 소형준, 반드시 이긴다",
+     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/06/GUZWCMZTMU3TSYLBHEYGCNDCGQ/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
   {
    "kw": "배트맨",
    "traffic": "200+",
@@ -20,7 +71,7 @@
   },
   {
    "kw": "박지후",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 06일 17:40",
    "news": [
     {
@@ -29,21 +80,21 @@
      "source": "iMBC 연예"
     },
     {
-     "title": "진(眞) 저력 입증한 이소나, 변진섭 '그대 내게 다시'부터 김상배 '삼백초'까지",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743776",
-     "source": "국제뉴스"
+     "title": "[TV조선] 허찬미·박지후 달콤한 듀엣",
+     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/05/EYYKM3NJPVELBLBRQ376YGH7D4/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "kw": "강민호",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 06일 17:40",
    "news": [
     {
-     "title": "“번트? 저 강민호인데요” 13년 전 CF대사, 올해 강민호에겐 없다",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706059",
-     "source": "KBS 뉴스"
+     "title": "\"번트? 저 강민호인데요\" 13년 전 CF대사, 올해 강민호에겐 없다",
+     "url": "https://www.yna.co.kr/view/AKR20261106134600007",
+     "source": "연합뉴스"
     },
     {
      "title": "구자욱은 뛰지도 못하는데..득점 막는 '2개의 핸디캡' 삼성은 무슨 생각으로 '자동아웃' 포수를 라인업에 두고 있을까[KS]",
@@ -58,8 +109,8 @@
    "when": "11월 06일 17:30",
    "news": [
     {
-     "title": "1승 1패 맞서다 3차전 이긴 팀, KS서 '18번 중 16번' 웃었다 [자막뉴스]",
-     "url": "https://www.ytn.co.kr/_ln/0134_202611061433540189",
+     "title": "한국시리즈 3차전 승리 팀은?...소형준 vs 후라도 선발 대결",
+     "url": "https://www.ytn.co.kr/_ln/0107_202611061727570999",
      "source": "YTN"
     },
     {
@@ -92,9 +143,9 @@
    "when": "11월 06일 17:30",
    "news": [
     {
-     "title": "하이브·어도어, \"뉴진스 계약서에 미성년자 보호 조항 빠졌다\"는 美 언론 보도 반박",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611061140471579",
-     "source": "YTN"
+     "title": "NYT가 입수한 ‘가혹한 뉴진스 계약서’ 파장···하이브 “적법한 계약” 해명",
+     "url": "https://www.khan.co.kr/article/202611061345001",
+     "source": "경향신문"
     },
     {
      "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
@@ -117,46 +168,6 @@
      "title": "KT, 부산불꽃축제 특별 소통 대책 가동",
      "url": "https://www.yna.co.kr/view/PYH20261106013600013",
      "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "005930",
-   "traffic": "1000+",
-   "when": "11월 06일 17:20",
-   "news": []
-  },
-  {
-   "kw": "스노클링",
-   "traffic": "200+",
-   "when": "11월 06일 17:10",
-   "news": [
-    {
-     "title": "인니 발리 인근 섬서 스노클링하던 韓관광객, 한달째 실종",
-     "url": "https://www.yna.co.kr/view/AKR20261106098000084",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "\"제발 유리 좀 찾아주세요\"...30대 韓 여성, 대낮 휴양지서 사라져 한달째 실종",
-     "url": "https://www.fnnews.com/news/202611060606251303",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "구급차",
-   "traffic": "200+",
-   "when": "11월 06일 17:10",
-   "news": [
-    {
-     "title": "“아기가 나오려는데요?” 구급차에서 태어난 31주 신생아···50일 만에 집으로 갔다",
-     "url": "https://www.khan.co.kr/article/202611061118001",
-     "source": "경향신문"
-    },
-    {
-     "title": "구급차에서 태어난 31주 조산아…응급처치로 살렸다",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8705843",
-     "source": "KBS 뉴스"
     }
    ]
   }
