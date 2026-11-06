@@ -1,6 +1,125 @@
 {
- "updated": "2026-11-06 18:22",
+ "updated": "2026-11-06 19:23",
  "items": [
+  {
+   "kw": "배트맨",
+   "traffic": "200+",
+   "when": "11월 06일 18:00",
+   "news": [
+    {
+     "title": "Scarlett Johansson Breaks Silence on ‘The Batman Part II’ Role: “It Was Very Hard to Figure Out”",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/scarlett-johansson-on-the-batman-part-ii-role-1236748021/",
+     "source": "The Hollywood Reporter"
+    },
+    {
+     "title": "Scarlett Johansson Says Batman Role Gave Her ‘a Lot of Existential Angst’",
+     "url": "https://www.vulture.com/article/scarlett-johansson-batman-existential-angst.html",
+     "source": "Vulture"
+    }
+   ]
+  },
+  {
+   "kw": "박지후",
+   "traffic": "100+",
+   "when": "11월 06일 17:40",
+   "news": [
+    {
+     "title": "‘미스트롯 포유’ 김동현, 이소나와 우승 정조준 “밥그릇 줄어들까 봐 걱정돼”",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523752",
+     "source": "iMBC 연예"
+    },
+    {
+     "title": "진(眞) 저력 입증한 이소나, 변진섭 '그대 내게 다시'부터 김상배 '삼백초'까지",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3743776",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "강민호",
+   "traffic": "100+",
+   "when": "11월 06일 17:40",
+   "news": [
+    {
+     "title": "“번트? 저 강민호인데요” 13년 전 CF대사, 올해 강민호에겐 없다",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706059",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "구자욱은 뛰지도 못하는데..득점 막는 '2개의 핸디캡' 삼성은 무슨 생각으로 '자동아웃' 포수를 라인업에 두고 있을까[KS]",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/06/HFTGMY3GGJRDSNZYMEYDCMTBGY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "kt 대 삼성",
+   "traffic": "20000+",
+   "when": "11월 06일 17:30",
+   "news": [
+    {
+     "title": "1승 1패 맞서다 3차전 이긴 팀, KS서 '18번 중 16번' 웃었다 [자막뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0134_202611061433540189",
+     "source": "YTN"
+    },
+    {
+     "title": "\"우승의 기쁨, 함께 나눠요\" 국민 유격수 향한 특별한 응원…대구CC 우승수 대표의 깜짝 이벤트 [KS3]",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/06/GQ3WKNLCGUZTEOJUGBRDCYRRMQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "가상자산",
+   "traffic": "500+",
+   "when": "11월 06일 17:30",
+   "news": [
+    {
+     "title": "가상자산 소득과세 2년 유예 추진…2029년 시행 기반 마련",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975124",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "정부 '가상자산 과세' 네 번째 유예, 디지털자산법 입법 지연에 정책 신뢰성·조세형평성 논란",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451394",
+     "source": "비즈니스포스트"
+    }
+   ]
+  },
+  {
+   "kw": "어도어",
+   "traffic": "1000+",
+   "when": "11월 06일 17:30",
+   "news": [
+    {
+     "title": "하이브·어도어, \"뉴진스 계약서에 미성년자 보호 조항 빠졌다\"는 美 언론 보도 반박",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611061140471579",
+     "source": "YTN"
+    },
+    {
+     "title": "연애금지에 소속사가 초상권 무기한 사용…뉴진스 비밀계약 공개",
+     "url": "https://www.yna.co.kr/view/AKR20261106094700075",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "부산 불꽃축제",
+   "traffic": "100+",
+   "when": "11월 06일 17:30",
+   "news": [
+    {
+     "title": "카카오맵, ‘제21회 부산불꽃축제’ 축제 전용 지도 제공…혼잡 구역부터 일행 위치 확인까지",
+     "url": "https://www.kakaocorp.com/page/detail/12194",
+     "source": "카카오"
+    },
+    {
+     "title": "KT, 부산불꽃축제 특별 소통 대책 가동",
+     "url": "https://www.yna.co.kr/view/PYH20261106013600013",
+     "source": "연합뉴스"
+    }
+   ]
+  },
   {
    "kw": "005930",
    "traffic": "1000+",
@@ -9,7 +128,7 @@
   },
   {
    "kw": "스노클링",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 06일 17:10",
    "news": [
     {
@@ -26,7 +145,7 @@
   },
   {
    "kw": "구급차",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 06일 17:10",
    "news": [
     {
@@ -38,125 +157,6 @@
      "title": "구급차에서 태어난 31주 조산아…응급처치로 살렸다",
      "url": "https://news.kbs.co.kr/news/view.do?ncd=8705843",
      "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "코리아오픈 배드민턴",
-   "traffic": "200+",
-   "when": "11월 06일 17:10",
-   "news": [
-    {
-     "title": "더 빨리 끝낸 16강전‥36분만에 52연승 행진",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863524_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "'한 번만 더 이기면 진짜로 8전 전패 안세영과 또 만난다!' 日배드민턴 요정, 이번에도 2-0 완승…진짜 예쁘다!",
-     "url": "https://www.chosun.com/sports/sports_general/2026/11/05/GAZTSNRUMRSWKZJVGU2DCMLGGA/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "코스피",
-   "traffic": "10000+",
-   "when": "11월 06일 17:00",
-   "news": [
-    {
-     "title": "블루쓰나미에 AI 성장 서사 급제동…글로벌 증시 ‘패닉셀’",
-     "url": "https://www.hankyung.com/article/202611061030i",
-     "source": "한국경제"
-    },
-    {
-     "title": "[속보]코스피, 서킷브레이커 이어 매도 사이드카…5000선 턱걸이",
-     "url": "https://www.khan.co.kr/article/202611060944001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "이현중",
-   "traffic": "100+",
-   "when": "11월 06일 16:50",
-   "news": [
-    {
-     "title": "이현중의 NBA 도전, 안방서 본다… 쿠팡플레이, G리그 생중계",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=04362406645643096&mediaCodeNo=257",
-     "source": "이데일리"
-    },
-    {
-     "title": "‘NBA 꿈은 계속된다’ 이현중, 립시티 트레이닝 캠프 합류…첫 경기는 언제?",
-     "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065573720342245",
-     "source": "점프볼"
-    }
-   ]
-  },
-  {
-   "kw": "나혜미",
-   "traffic": "200+",
-   "when": "11월 06일 16:30",
-   "news": [
-    {
-     "title": "'에릭♥' 나혜미 \"TV 부서지고 소파엔 낙서\"…아들 둘 현실육아",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110608494136149",
-     "source": "머니투데이"
-    },
-    {
-     "title": "♥에릭 없이 독박육아..나혜미, 아둘맘 쉽지 않다 \"에라 모르겠다\" [핫피플]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/06/GMZTCMTCMFTDEMJZGQ2DIY3GG4/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "과징금",
-   "traffic": "2000+",
-   "when": "11월 06일 16:30",
-   "news": [
-    {
-     "title": "[속보] 법원 \"'이용자 1천만 명 기록 무단수집' 쿠팡 과징금 2천억 효력정지\"",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6863701_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "법원, '회원기록 무단수집' 쿠팡 과징금 2천억 효력정지",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611061353102189_005.html",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "무덤",
-   "traffic": "500+",
-   "when": "11월 06일 16:20",
-   "news": [
-    {
-     "title": "2000년전 세계 누빈 흉노…무덤서 ‘로마 유리잔’까지 나왔다",
-     "url": "https://www.donga.com/news/Culture/article/all/20261106/134977387/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "표주박 모양 장식·유리잔…2천년 전 흉노 무덤에 남은 교류사",
-     "url": "https://www.yna.co.kr/view/AKR20261106051100005",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "노무라 증권",
-   "traffic": "500+",
-   "when": "11월 06일 16:20",
-   "news": [
-    {
-     "title": "폭락장에도 꿋꿋…노무라 “코스피 목표 1만 유지…상승 동력 4가지 있어”",
-     "url": "https://www.mk.co.kr/news/stock/12200293",
-     "source": "매일경제"
-    },
-    {
-     "title": "\"그래도 만스피 간다\"…노무라가 꼽은 韓증시 상승동력 4가지는?",
-     "url": "https://www.newsis.com/view/NISX20261106_0003857779",
-     "source": "뉴시스"
     }
    ]
   }
