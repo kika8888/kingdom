@@ -146,7 +146,8 @@
    "https://blog.naver.com/soduwk1209/224462531816",
    "https://blog.naver.com/soduwk1209/224462498344",
    "https://blog.naver.com/soduwk1209/224462485260",
-   "https://blog.naver.com/soduwk1209/224462679121"
+   "https://blog.naver.com/soduwk1209/224462679121",
+   "https://blog.naver.com/soduwk1209/224462653950"
   ],
   "started": true,
   "v": 2,
@@ -665,7 +666,7 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1791705273.64403,
-  "tone": "감탄",
+  "tone": "존댓말",
   "hooks": [
    "와 임영웅 이런 일이 있었네",
    "화제의 소식",
@@ -684,7 +685,6 @@
    "조세호 이야기"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224462653950",
    "https://blog.naver.com/soduwk1209/224463796305",
    "https://blog.naver.com/soduwk1209/224463841631",
    "https://blog.naver.com/soduwk1209/224463832188",
@@ -862,7 +862,8 @@
    "https://blog.naver.com/dkdk521/224466890271",
    "https://blog.naver.com/dkdk521/224466881916",
    "https://blog.naver.com/dkdk521/224466953463",
-   "https://blog.naver.com/dkdk521/224466964727"
+   "https://blog.naver.com/dkdk521/224466964727",
+   "https://blog.naver.com/dkdk521/224466979581"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1749,7 +1750,7 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1793818377.1733139,
-  "tone": "존댓말",
+  "tone": "감탄",
   "hooks": [
    "화제가 된 이유를 정리했어요",
    "다들 이거 아셨어요?",
@@ -1767,9 +1768,7 @@
    "동메달 근황 정리해봄",
    "손흥민 이야기 듣고 깜짝"
   ],
-  "queue": [
-   "https://blog.naver.com/dkdk521/224466979581"
-  ],
+  "queue": [],
   "reply_ok": true
  }
 }
