@@ -456,7 +456,7 @@ body{padding-bottom:calc(64px + env(safe-area-inset-bottom,0px))}
 }
 </style></head><body>
 <div class="top"><div class="in">
-<div class="topbar"><div class="brand">CROWN<b>KINGDOM</b></div><nav class="menu" aria-label="메뉴"><a href="/" aria-current="page">쇼핑</a><a href="#car">뉴스</a><a href="/ai">AI 직원</a><a href="https://index01.pantaqi100.com/" target="_blank" rel="noopener">💰 지원금 찾기</a><a href="https://post0020.papalaqi.com/" target="_blank" rel="noopener">💊 전국 24시 심야약국</a><a href="https://pantaqidex14.papalaqi.com/" target="_blank" rel="noopener">⛳ 파크골프장 찾기</a></nav></div>
+<div class="topbar"><div class="brand">CROWN<b>KINGDOM</b></div><nav class="menu" aria-label="메뉴"><a href="/" aria-current="page">쇼핑</a><a href="#car">뉴스</a><a href="/ai">AI 직원</a><a href="/about.html">소개</a><a href="https://index01.pantaqi100.com/" target="_blank" rel="noopener">💰 지원금 찾기</a><a href="https://post0020.papalaqi.com/" target="_blank" rel="noopener">💊 전국 24시 심야약국</a><a href="https://pantaqidex14.papalaqi.com/" target="_blank" rel="noopener">⛳ 파크골프장 찾기</a></nav></div>
 <p class="tagline">쿠팡에서 지금 뜨는 신기템 · 골드박스 특가 · 분야별 베스트를 매시간 모아요</p>
 </div></div>
 <div class="notice">이 페이지는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>
@@ -501,6 +501,7 @@ body{padding-bottom:calc(64px + env(safe-area-inset-bottom,0px))}
 <a href="https://index01.pantaqi100.com/" target="_blank" rel="noopener">💰 지원금 찾기</a>
 <a href="https://post0020.papalaqi.com/" target="_blank" rel="noopener">💊 전국 24시 심야약국</a>
 <a href="https://pantaqidex14.papalaqi.com/" target="_blank" rel="noopener">⛳ 파크골프장 찾기</a>
+<a href="/about.html">👑 KINGDOM 소개</a>
 </div>
 <main>
 <section class="cpsearch"><h2>🔎 쿠팡 전체에서 찾기 <small>원하는 상품이 위에 없으면 여기서 검색하세요</small></h2>
