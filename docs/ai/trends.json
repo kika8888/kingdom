@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-07 03:23",
+ "updated": "2026-11-07 04:23",
  "items": [
+  {
+   "kw": "이강철",
+   "traffic": "500+",
+   "when": "11월 07일 02:50",
+   "news": [
+    {
+     "title": "'이럴수가' 알고보니 가을야구 9G 만에 첫 패전이라니! 이강철도 아쉽다 \"그런 볼넷 안 던지는 투수인데...\" [KS3 현장] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/07/2026110620534942569",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘KT 악재’ 손 다친 최원준, 선발 라인업 제외…“중요할 때 대타로”",
+     "url": "https://www.donga.com/news/Sports/article/all/20261106/134981290/1",
+     "source": "동아일보"
+    }
+   ]
+  },
   {
    "kw": "임형주",
    "traffic": "5000+",
@@ -19,6 +36,23 @@
    ]
   },
   {
+   "kw": "이승기",
+   "traffic": "500+",
+   "when": "11월 07일 01:10",
+   "news": [
+    {
+     "title": "\"내 보물 둘\" 이승기·이다인, 생후 4개월 둘째 아들 첫 공개 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110605372731434",
+     "source": "머니투데이"
+    },
+    {
+     "title": "이다인, 4개월 된 둘째 아들 모습 최초 공개…이승기 ‘딸바보’ 인증도 눈길",
+     "url": "https://sports.khan.co.kr/article/202611060841003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
    "kw": "일론 머스크",
    "traffic": "100+",
    "when": "11월 07일 00:50",
@@ -29,28 +63,17 @@
      "source": "경향신문"
     },
     {
-     "title": "E200 1000만원 낮춰 판매한 벤츠…BMW 제치고 2위 탈환",
-     "url": "https://www.sedaily.com/article/20110290",
-     "source": "서울경제"
+     "title": "벤츠코리아, 직판제 안착에 신차 효과…BMW 제치고 독일 3사 ‘선두’",
+     "url": "https://www.etoday.co.kr/news/view/2644121",
+     "source": "이투데이"
     }
    ]
   },
   {
    "kw": "t1 kc",
-   "traffic": "500+",
+   "traffic": "100+",
    "when": "11월 07일 00:10",
-   "news": [
-    {
-     "title": "BLG 벽 앞에 무너진 디플러스 기아…월즈 8강전서 0-3 패",
-     "url": "https://www.yna.co.kr/view/AKR20261106093800017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[롤드컵]젠지, 4강서 중국 IG와 격돌…한중 자존심 대결",
-     "url": "https://www.newsis.com/view/NISX20261105_0003856558",
-     "source": "뉴시스"
-    }
-   ]
+   "news": []
   },
   {
    "kw": "유튜버",
@@ -70,19 +93,19 @@
    ]
   },
   {
-   "kw": "겨울",
-   "traffic": "2000+",
-   "when": "11월 06일 23:30",
+   "kw": "강남",
+   "traffic": "1000+",
+   "when": "11월 07일 00:00",
    "news": [
     {
-     "title": "갑자기 기온 뚝…내일 ’입동’ 서울 첫 영하권",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261106124747vqp",
-     "source": "연합뉴스TV"
+     "title": "[르포] 강남 은마아파트 가보니 “분담금에 세금 겹쳐 급락했지만… 매수는 현금부자만”",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041530490450645",
+     "source": "대한경제"
     },
     {
-     "title": "오늘 입동 추위… 서울 영하 1도, 춘천 대관령 등 영하 5도",
-     "url": "https://www.donga.com/news/Society/article/all/20261106/134982236/2",
-     "source": "동아일보"
+     "title": "\"최근 강남3구서 5% 이상 하락 거래 16건\"",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611062251356141",
+     "source": "YTN"
     }
    ]
   },
@@ -92,13 +115,13 @@
    "when": "11월 06일 23:20",
    "news": [
     {
-     "title": "김상욱 울산시장, 중국 양장시 방문…해상풍력 시찰",
-     "url": "https://www.yna.co.kr/view/AKR20261105175500057",
-     "source": "연합뉴스"
+     "title": "김상욱 시장, 중국 밍양그룹 방문…에너지 협력 논의",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8705397",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "일렬로 늘어선 中 해상풍력발전기",
-     "url": "https://www.news1.kr/photos/8201784",
+     "title": "中 부유식 해상풍력 '오션X'",
+     "url": "https://www.news1.kr/photos/8201790",
      "source": "뉴스1"
     }
    ]
@@ -122,7 +145,7 @@
   },
   {
    "kw": "노태문",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 06일 23:00",
    "news": [
     {
@@ -134,40 +157,6 @@
      "title": "노태문 삼성전자 사장, 증시 급락 속 자사주 6.3억원 어치 매입 \"책임경영\"",
      "url": "https://www.newsis.com/view/NISX20261106_0003858472",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "디씨",
-   "traffic": "1000+",
-   "when": "11월 06일 22:50",
-   "news": [
-    {
-     "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
-     "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "Trump Launches Triumphal Arch Website Right As Judge Blocks Construction",
-     "url": "https://www.rollingstone.com/politics/politics-news/trump-launches-arch-website-judge-shuts-down-construction-1235653978/",
-     "source": "Rolling Stone"
-    }
-   ]
-  },
-  {
-   "kw": "화장실",
-   "traffic": "100+",
-   "when": "11월 06일 22:30",
-   "news": [
-    {
-     "title": "부산교통공사, 노포역 화장실 전국 75곳 중 동상…16번째 수상",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721088",
-     "source": "뉴스타운"
-    },
-    {
-     "title": "벡스코 아름다운 화장실 국무총리상 수상 - 머니투데이",
-     "url": "https://www.mt.co.kr/policy/2026/11/06/2026110613531167437",
-     "source": "머니투데이"
     }
    ]
   }
