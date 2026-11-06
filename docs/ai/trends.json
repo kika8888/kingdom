@@ -1,20 +1,77 @@
 {
- "updated": "2026-11-07 04:23",
+ "updated": "2026-11-07 05:23",
  "items": [
+  {
+   "kw": "주가 대폭락",
+   "traffic": "20000+",
+   "when": "11월 07일 04:10",
+   "news": []
+  },
+  {
+   "kw": "어 도어",
+   "traffic": "200+",
+   "when": "11월 07일 03:30",
+   "news": [
+    {
+     "title": "“하이브 승인 없이 계약 불가능했다”…민희진, 뉴진스 ‘불공정 계약’ 논란에 하이브 책임전가 비판",
+     "url": "https://www.khan.co.kr/article/202611061631011",
+     "source": "경향신문"
+    },
+    {
+     "title": "뉴진스 계약서 공개되자...하이브가 내놓은 답변 [자막뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0134_202611062336285237",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "농성",
+   "traffic": "200+",
+   "when": "11월 07일 03:20",
+   "news": [
+    {
+     "title": "한화오션 생산 직·반장들 \"하청노조 고공농성 중단하라\"",
+     "url": "https://www.yna.co.kr/view/AKR20261106056400052",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "한화오션, 생산 현장 직·반장 \"거제 경제·일터 수호\" 결의",
+     "url": "https://www.newsis.com/view/NISX20261106_0003857343",
+     "source": "뉴시스"
+    }
+   ]
+  },
   {
    "kw": "이강철",
    "traffic": "500+",
    "when": "11월 07일 02:50",
    "news": [
     {
-     "title": "'이럴수가' 알고보니 가을야구 9G 만에 첫 패전이라니! 이강철도 아쉽다 \"그런 볼넷 안 던지는 투수인데...\" [KS3 현장] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/07/2026110620534942569",
-     "source": "머니투데이"
-    },
-    {
      "title": "‘KT 악재’ 손 다친 최원준, 선발 라인업 제외…“중요할 때 대타로”",
      "url": "https://www.donga.com/news/Sports/article/all/20261106/134981290/1",
      "source": "동아일보"
+    },
+    {
+     "title": "'이럴수가' 알고보니 가을야구 9G 만에 첫 패전이라니! 이강철도 아쉽다 \"그런 볼넷 안 던지는 투수인데...\" [KS3 현장] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/07/2026110620534942569",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "시콜 스키 s 92",
+   "traffic": "500+",
+   "when": "11월 07일 02:40",
+   "news": [
+    {
+     "title": "South Korea selects Sikorsky S-92A+ for new presidential transport helicopter",
+     "url": "https://www.flightglobal.com/defence/2026/11/south-korea-selects-sikorsky-s-92a-for-new-presidential-transport-helicopter/",
+     "source": "FlightGlobal"
+    },
+    {
+     "title": "South Korea orders four S-92A+ helicopters to replace presidential fleet",
+     "url": "https://www.airdatanews.com/south-korea-orders-four-s-92-a-helicopters-to-replace-presidential-fleet/",
+     "source": "Air Data News"
     }
    ]
   },
@@ -54,7 +111,7 @@
   },
   {
    "kw": "일론 머스크",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 07일 00:50",
    "news": [
     {
@@ -71,7 +128,7 @@
   },
   {
    "kw": "t1 kc",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 07일 00:10",
    "news": []
   },
@@ -89,74 +146,6 @@
      "title": "‘볼리비아 사고 유튜버’ 故 진쓰레블, 마지막 영상 공개",
      "url": "https://sports.khan.co.kr/article/202611061513013",
      "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "강남",
-   "traffic": "1000+",
-   "when": "11월 07일 00:00",
-   "news": [
-    {
-     "title": "[르포] 강남 은마아파트 가보니 “분담금에 세금 겹쳐 급락했지만… 매수는 현금부자만”",
-     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611041530490450645",
-     "source": "대한경제"
-    },
-    {
-     "title": "\"최근 강남3구서 5% 이상 하락 거래 16건\"",
-     "url": "https://www.ytn.co.kr/_ln/0102_202611062251356141",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "숲",
-   "traffic": "2000+",
-   "when": "11월 06일 23:20",
-   "news": [
-    {
-     "title": "김상욱 시장, 중국 밍양그룹 방문…에너지 협력 논의",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8705397",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "中 부유식 해상풍력 '오션X'",
-     "url": "https://www.news1.kr/photos/8201790",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "삼성증권",
-   "traffic": "200+",
-   "when": "11월 06일 23:10",
-   "news": [
-    {
-     "title": "한미약품, 두 번째 'Bio Innovation Day' 개최···신약·AI 헬스케어 교류의 장",
-     "url": "https://www.greened.kr/news/articleView.html?idxno=354049",
-     "source": "녹색경제신문"
-    },
-    {
-     "title": "한미약품·삼성증권, 유망 바이오벤처 투자 유치 지원 나선다",
-     "url": "https://www.sedaily.com/article/20111140",
-     "source": "서울경제"
-    }
-   ]
-  },
-  {
-   "kw": "노태문",
-   "traffic": "1000+",
-   "when": "11월 06일 23:00",
-   "news": [
-    {
-     "title": "삼성전자 노태문 대표이사, 자사주 3천 주 매입‥6억 3천만 원 규모",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6863796_36932.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "노태문 삼성전자 사장, 증시 급락 속 자사주 6.3억원 어치 매입 \"책임경영\"",
-     "url": "https://www.newsis.com/view/NISX20261106_0003858472",
-     "source": "뉴시스"
     }
    ]
   }
