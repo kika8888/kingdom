@@ -1,13 +1,81 @@
 {
- "updated": "2026-11-08 00:23",
+ "updated": "2026-11-08 01:21",
  "items": [
   {
-   "kw": "arsenal vs hull",
+   "kw": "mainz vs bayern",
+   "traffic": "100+",
+   "when": "11월 08일 00:10",
+   "news": [
+    {
+     "title": "Der Pressetalk vor dem Spiel beim 1. FSV Mainz 05 im Ticker",
+     "url": "https://fcbayern.com/de/news/2026/11/ticker-pressetalk-des-fc-bayern-vor-dem-bundesliga-spiel-beim-1.-fsv-mainz-05",
+     "source": "FC Bayern"
+    },
+    {
+     "title": "Bundesliga: Wer zeigt / überträgt Mainz 05 vs. FC Bayern im TV und LIVE-STREAM?",
+     "url": "https://www.dazn.com/de-AT/news/fussball/bundesliga-wer-zeigt-uebertraegt-mainz-05-vs-fc-bayern-im-tv-und-live-stream/1cumq1imznl6c14skzqshjj7gr",
+     "source": "DAZN"
+    }
+   ]
+  },
+  {
+   "kw": "김성우",
    "traffic": "200+",
+   "when": "11월 07일 23:50",
+   "news": [
+    {
+     "title": "[이슈5] \"보자마자 흉기 휘둘러\"…장모 살해 김성우 구속기소 外",
+     "url": "https://www.yna.co.kr/view/MYH20261106018400038",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "nepal premier league",
+   "traffic": "100+",
+   "when": "11월 07일 23:50",
+   "news": [
+    {
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "url": "https://www.cricbuzz.com/player-match-performance/match/177730/player/1739/batting",
+     "source": "Cricbuzz"
+    },
+    {
+     "title": "Kathmandu Ghorkaj Defeats Lumbini Lions by 36 Runs in Nepal Premier League",
+     "url": "https://english.ratopati.com/story/86002/undefeated-lumbinis-journey-halted-kathmandu-wins-by-36-runs",
+     "source": "Ratopati"
+    }
+   ]
+  },
+  {
+   "kw": "버밍엄 대 스완지 시티",
+   "traffic": "500+",
+   "when": "11월 07일 23:30",
+   "news": [
+    {
+     "title": "Birmingham City v Swansea City: Championship stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cvlyd97z1k92t",
+     "source": "BBC"
+    },
+    {
+     "title": "Preview: Birmingham City v Swansea City",
+     "url": "https://www.bcfc.com/pages/en/media-article/preview-birmingham-city-v-swansea-city",
+     "source": "Birmingham City Football Club"
+    }
+   ]
+  },
+  {
+   "kw": "arsenal vs hull",
+   "traffic": "500+",
    "when": "11월 07일 23:20",
    "news": [
     {
-     "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+     "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
      "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
      "source": "BBC"
     },
@@ -24,20 +92,20 @@
    "when": "11월 07일 23:10",
    "news": [
     {
-     "title": "노팅엄 포레스트 vs 맨체스터 시티 예측: 선두 자리를 노릴 기회",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-manchester-city-co-hoi-bam-duoi-ngoi-dau",
+     "title": "아스널 0-0 헐 시티 (전반전) 생중계: 경기가 시작됩니다",
+     "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h1-tran-dau-bat-dau",
      "source": "Vietnam.vn"
     },
     {
-     "title": "잉글랜드 프리미어 리그 아스날 대 헐 시티 축구 예측",
-     "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-arsenal-vs-hull-city-tai-giai-ngoai-hang-anh-1796210.ldo",
-     "source": "Laodong.vn"
+     "title": "리버풀은 빌라, 유벤투스는 나폴리…11월 1~2일 유럽축구 일정 : 스포츠",
+     "url": "https://news.jkn.co.kr/post/1064325",
+     "source": "재경일보"
     }
    ]
   },
   {
    "kw": "풀럼 대 뉴캐슬",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 07일 23:10",
    "news": [
     {
@@ -53,36 +121,36 @@
    ]
   },
   {
-   "kw": "라이프치히 대 아우크스부르크",
-   "traffic": "200+",
-   "when": "11월 07일 23:00",
-   "news": [
-    {
-     "title": "⚡ Kade shock for Leipzig! Augsburg's fast starters stun RB",
-     "url": "https://sports.yahoo.com/articles/kade-shock-leipzig-augsburgs-fast-143900988.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "RB Leipzig vs Augsburg: German Bundesliga stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/c6qxn7zrq0yet",
-     "source": "BBC"
-    }
-   ]
-  },
-  {
    "kw": "도르트문트 대 엘버스베르크",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 07일 23:00",
    "news": [
+    {
+     "title": "Borussia Dortmund vs Elversberg: German Bundesliga stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cwvgdj931ez7t",
+     "source": "BBC"
+    },
     {
      "title": "Confirmed lineups: Borussia Dortmund vs. SV Elversberg",
      "url": "https://sports.yahoo.com/articles/confirmed-lineups-borussia-dortmund-vs-132600612.html",
      "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "kw": "라이프치히 대 아우크스부르크",
+   "traffic": "500+",
+   "when": "11월 07일 23:00",
+   "news": [
+    {
+     "title": "Licensable picture: Fall Weather in Bad Homburg",
+     "url": "https://www.reutersconnect.com/item/fall-weather-in-bad-homburg/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjExMDdYOTlYMjAzNjcx",
+     "source": "Reuters Connect"
     },
     {
-     "title": "Borussia Dortmund - SV 07 Elversberg LIVE. Bundesliga latest updates",
-     "url": "https://www.marca.com/en/soccer/bundesliga/borussia-dortmund-sv-07-elversberg/2026/11/07/01_0108_20261107_157_4071-live.html",
-     "source": "MARCA"
+     "title": "2. Bundesliga: Keller strikes late to secure important Fürth victory over Kiel",
+     "url": "https://sports.yahoo.com/articles/2-bundesliga-keller-strikes-secure-145500365.html",
+     "source": "Yahoo Sports"
     }
    ]
   },
@@ -92,82 +160,14 @@
    "when": "11월 07일 23:00",
    "news": [
     {
-     "title": "Roberto De Zerbi reaction: What did Spurs boss say after losing at Leeds?",
-     "url": "https://www.nbcsports.com/soccer/news/roberto-de-zerbi-reaction-what-did-spurs-boss-say-after-losing-at-leeds",
-     "source": "NBC Sports"
+     "title": "Roberto De Zerbi reveals Tottenham injury latest in new four-man Leeds update",
+     "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-leeds-savio-bergvall-b1303848.html",
+     "source": "London Evening Standard"
     },
     {
-     "title": "Every word De Zerbi said on crunch Tottenham meeting, Williams-Barnett dilemma and injuries",
-     "url": "https://www.football.london/tottenham-hotspur-fc/news/roberto-de-zerbi-transcript-leeds-34874141",
-     "source": "Football London"
-    }
-   ]
-  },
-  {
-   "kw": "마인츠 05 대 바이에른",
-   "traffic": "5000+",
-   "when": "11월 07일 22:40",
-   "news": [
-    {
-     "title": "“96라인 은퇴설” 김민재, 바이에른 뮌헨 선발 명단 제외…‘92라인’ 이재성은 선발 출격",
-     "url": "https://www.osen.co.kr/article/G1112906194",
-     "source": "OSEN"
-    },
-    {
-     "title": "“국가대표 은퇴해라!” 논란의 김민재, 마인츠전 예상 선발 명단 포함…이재성은 벤치 출발 전망, 코리안 더비 성사될까",
-     "url": "https://biz.chosun.com/sports/football/2026/11/07/GVRGIY3CMNRDQMZQGNTDOYRQG4/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "페드로 포로",
-   "traffic": "500+",
-   "when": "11월 07일 22:20",
-   "news": [
-    {
-     "title": "‘월드컵 위너’ 포로, “가장 존경하는 선수는 쏘니”…손흥민 향한 진심",
-     "url": "https://www.sportsseoul.com/news/read/1647554",
-     "source": "스포츠서울"
-    },
-    {
-     "title": "포로에게 손흥민은 은인이었다…“존경할 수밖에 없는 사람, 토트넘 전설임에도 날 가족처럼 받아줬어”",
-     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100360",
-     "source": "포포투"
-    }
-   ]
-  },
-  {
-   "kw": "ลีดส์ พบ สเปอร์ส",
-   "traffic": "100+",
-   "when": "11월 07일 22:20",
-   "news": [
-    {
-     "title": "การคาดการณ์ผลการแข่งขันระหว่างลีดส์กับท็อตแนม: จุดสนใจสำคัญในการลุ้นแย่งตำแหน่งสูงสุด",
-     "url": "https://www.vietnam.vn/th/nhan-dinh-leeds-vs-tottenham-diem-nong-cuoc-dua-top-dau",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "สำรองแผลงฤทธิ์ ! ลีดส์ เปิดบ้านเฉือน สเปอร์ส 1-0 หยุดสถิติ สเปอร์ส ชนะรวดใน พรีเมียร์ ลีก 2026/27",
-     "url": "https://mainstand.co.th/index.php/th/news/1/article/27491",
-     "source": "Mainstand"
-    }
-   ]
-  },
-  {
-   "kw": "검사",
-   "traffic": "500+",
-   "when": "11월 07일 21:50",
-   "news": [
-    {
-     "title": "\"대통령 탈옥법\" 국힘 장외집회‥\"진상 드러날까 두렵나\"",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863931_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과",
-     "url": "https://newstapa.org/article/HxPrq",
-     "source": "뉴스타파"
+     "title": "De Zerbi on when Tosin, Bergvall, Mudryk and Savio could return",
+     "url": "https://www.tottenhamhotspur.com/news/1182782/de-zerbi-on-when-tosin-bergvall-mudryk-and-savio-could-return",
+     "source": "Tottenham Hotspur"
     }
    ]
   }
