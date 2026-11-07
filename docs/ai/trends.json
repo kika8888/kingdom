@@ -1,43 +1,139 @@
 {
- "updated": "2026-11-07 09:23",
+ "updated": "2026-11-07 10:22",
  "items": [
+  {
+   "kw": "집",
+   "traffic": "200+",
+   "when": "11월 07일 09:20",
+   "news": [
+    {
+     "title": "5억짜리 집, 8천만 원에 '내 집'으로...가능하다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04450966645642768&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "[부동산캘린더] 내주 광교 자연앤 센트레빌 등 12곳서 5천215가구 청약",
+     "url": "https://www.yna.co.kr/view/AKR20261106175000003",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "폭탄",
+   "traffic": "100+",
+   "when": "11월 07일 09:20",
+   "news": [
+    {
+     "title": "여객기 다음은 방송국?…연쇄 폭탄 협박에 유럽 언론사까지 대피",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706563",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "\"60분 뒤 폭발\"…여객기 27편에 또 폭탄 위협",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834647",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "주차장",
+   "traffic": "200+",
+   "when": "11월 07일 09:10",
+   "news": [
+    {
+     "title": "[현장 속 의정활동] 수원 일월호수공영주차장 준공…180면 확보해 주차난 해소 기대",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336154",
+     "source": "인천일보"
+    },
+    {
+     "title": "수원시, 180대 주차할 수 있는 '일월호수공영주차장' 준공…23일부터 시범운영",
+     "url": "https://www.yna.co.kr/view/RPR20261106007900353",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "매일경제신문",
+   "traffic": "20000+",
+   "when": "11월 07일 08:50",
+   "news": [
+    {
+     "title": "개장 3분만에 서킷브레이커… 이틀간 삼전 13%-하이닉스 17% 빠져",
+     "url": "https://www.donga.com/news/Economy/article/all/20261107/134982636/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "블루웨이브에 파랗게 질린 AI주…신재생에너지는 날았다[김근희의 증시랩업] - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/07/2026110616282621049",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "국민연금",
+   "traffic": "5000+",
+   "when": "11월 07일 08:40",
+   "news": [
+    {
+     "title": "국민연금 한 달 49만원 받는 80세, 나이 들어 가장 큰 후회는…",
+     "url": "https://www.chosun.com/economy/startup_story/2026/11/07/MFMQSRXGTJCIFD6JADMYWW4E64/",
+     "source": "조선일보"
+    },
+    {
+     "title": "국민연금에도 세금을 뗀다구요?ㅣ연금 로드맵 360",
+     "url": "https://story.pay.naver.com/content/3859",
+     "source": "네이버페이 머니스토리"
+    }
+   ]
+  },
+  {
+   "kw": "요즘 남자 라이프 - 신랑수업",
+   "traffic": "500+",
+   "when": "11월 07일 08:20",
+   "news": [
+    {
+     "title": "송해나, '이승철 주선' 소개팅에 \"술 별로 안 좋아했으면\"→이국주 \"네가?\" ('신랑수업2')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/GYZDCYTFGQ4DMY3BME4TCMRYMY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "디테일한 질문을 통해 가까워지는 해나&승우?! 그리고 타로 선생님 국주?!",
+     "url": "https://ichannela.com/program/clip/000000558837.do",
+     "source": "채널A"
+    }
+   ]
+  },
   {
    "kw": "공무원",
    "traffic": "1000+",
    "when": "11월 07일 08:20",
    "news": [
     {
+     "title": "\"왜 쳐다봐\" 호신용 스프레이 분사, 공무원 각막염…집유",
+     "url": "https://www.newsis.com/view/NISX20261107_0003858784",
+     "source": "뉴시스"
+    },
+    {
      "title": "“날 쳐다봐서” 공무원 눈에 호신용 스프레이 쏜 40대",
      "url": "https://www.kyeonggi.com/article/20261107580005",
      "source": "경기일보"
-    },
-    {
-     "title": "“왜 쳐다봐” 공무원에 호신용 스프레이 뿌린 40대…법원 판단은",
-     "url": "https://www.khan.co.kr/article/202611070744001",
-     "source": "경향신문"
     }
    ]
   },
   {
    "kw": "문화일보",
-   "traffic": "100+",
-   "when": "11월 07일 08:10",
-   "news": []
-  },
-  {
-   "kw": "농구",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 07일 08:10",
    "news": [
     {
-     "title": "아시안게임 금메달 이정현 등 농구 월드컵 아시아 예선 출전",
-     "url": "https://www.yna.co.kr/view/AKR20261106082900007",
-     "source": "연합뉴스"
+     "title": "‘파견 검사 20명’ 조작기소 특검에···검사들 “무조건 피해야”, “법왜곡죄 범할까 우려”",
+     "url": "https://www.khan.co.kr/article/202611061742001",
+     "source": "경향신문"
     },
     {
-     "title": "금메달 주역 8명에 허훈·안영준까지 합류! 마줄스호 월드컵 예선 최종 12인 발표... 카타르 원정 2연전 나선다 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/06/2026110614350616921",
-     "source": "머니투데이"
+     "title": "“이재명 재판취소 악법”…국민의힘 ‘조작기소특검법 규탄’ 대규모 장외집회",
+     "url": "https://www.kyeonggi.com/article/20261107580021",
+     "source": "경기일보"
     }
    ]
   },
@@ -60,94 +156,9 @@
   },
   {
    "kw": "대한민국 농림축산식품부 장관",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 07일 08:00",
    "news": []
-  },
-  {
-   "kw": "테슬라 사이버트럭",
-   "traffic": "500+",
-   "when": "11월 07일 07:40",
-   "news": [
-    {
-     "title": "테슬라, 사이버트럭 생산 중단키로…머스크 \"한 시대의 끝\"",
-     "url": "https://www.yna.co.kr/view/AKR20261107003800075",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "테슬라, Cybertruck 생산 축소…머스크는 로보택시에 집중",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2164179",
-     "source": "Investing.com 한국어"
-    }
-   ]
-  },
-  {
-   "kw": "의약품",
-   "traffic": "200+",
-   "when": "11월 07일 07:40",
-   "news": [
-    {
-     "title": "식약처, 의약품 허가·심사 수수료 현실화 추진",
-     "url": "https://www.ibric.org/bric/trend/results-of-research.do?mode=view&articleNo=10063463&article.offset=0&articleLimit=15",
-     "source": "BRIC"
-    },
-    {
-     "title": "식약처, 의약품 허가 수수료 최대 6배 인상 추진… 제약사 비용 부담 전망",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000429",
-     "source": "IT조선"
-    }
-   ]
-  },
-  {
-   "kw": "노동자",
-   "traffic": "200+",
-   "when": "11월 07일 07:40",
-   "news": [
-    {
-     "title": "제주 노동존중사회 의원연구포럼, 공무직 노동자 근무환경 개선 방안 모색 간담회",
-     "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601745",
-     "source": "헤드라인제주"
-    },
-    {
-     "title": "양경호 제주도의원, ‘제주 노동존중사회 의원연구포럼 간담회’ 참석…노동 현장 목소리 청취",
-     "url": "https://newsnjeju.com/news/articleView.html?idxno=303858",
-     "source": "뉴스N제주"
-    }
-   ]
-  },
-  {
-   "kw": "기초 연구",
-   "traffic": "100+",
-   "when": "11월 07일 07:30",
-   "news": [
-    {
-     "title": "내년 '기초연구' 2조 9102억 투자…지역·청년 연구 지원 확대",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975126",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "2027년도 기초연구사업 2.91조 원 투자 총 과제 수 18,516개로 역대 최대 지원",
-     "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10063428&title=2027%EB%85%84%EB%8F%84+%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B5%AC%EC%82%AC%EC%97%85+2.91%EC%A1%B0+%EC%9B%90+%ED%88%AC%EC%9E%90+%EC%B4%9D+%EA%B3%BC%EC%A0%9C+%EC%88%98+18%2C516%EA%B0%9C%EB%A1%9C+%EC%97%AD%EB%8C%80+%EC%B5%9C%EB%8C%80+%EC%A7%80%EC%9B%90",
-     "source": "BRIC"
-    }
-   ]
-  },
-  {
-   "kw": "아프리카",
-   "traffic": "100+",
-   "when": "11월 07일 07:30",
-   "news": [
-    {
-     "title": "국회아프리카포럼, 문병준 前 사우디대사대리 초청 세미나",
-     "url": "http://www.jeonpa.co.kr/news/articleView.html?idxno=228027",
-     "source": "전파신문"
-    },
-    {
-     "title": "5,000km 로드트립으로 만나는, 나미비아",
-     "url": "https://mylovekbs.kbs.co.kr/index.html?source=mylovekbs&sname=mylovekbs&stype=blog&contents_id=70000000404091",
-     "source": "MyloveKBS"
-    }
-   ]
   }
  ]
 }
