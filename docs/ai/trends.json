@@ -1,11 +1,79 @@
 {
- "updated": "2026-11-07 15:23",
+ "updated": "2026-11-07 16:23",
  "items": [
+  {
+   "kw": "통장",
+   "traffic": "200+",
+   "when": "11월 07일 15:00",
+   "news": [
+    {
+     "title": "계좌 숨기고, 아동 수당 받으면 우대금리… 달라진 은행 통장",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000422",
+     "source": "IT조선"
+    },
+    {
+     "title": "“아내·남편 모르게?”···‘타사 오픈뱅킹 조회 불가’ 특정 장소·시간에만 보이는 통장 나온다",
+     "url": "https://www.khan.co.kr/article/202611051752001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "디아즈",
+   "traffic": "200+",
+   "when": "11월 07일 14:40",
+   "news": [
+    {
+     "title": "삼성 배찬승, 첫 PS 세이브에 포효 \"좀 더 멋있게 해보겠다\"",
+     "url": "https://www.yna.co.kr/view/AKR20261106137800007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[포토]'5회초 밀어내기 볼넷 출루하는' 힐리어드 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716020866251",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "안현민",
+   "traffic": "500+",
+   "when": "11월 07일 14:30",
+   "news": [
+    {
+     "title": "[포토] 안현민 '뛰겠습니다' - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/06/2026110620061228498",
+     "source": "머니투데이"
+    },
+    {
+     "title": "펜스랑 마가 끼었나? MVP급 핵심타자 2명 잇따라 충돌 → 통증 호소, 11월 강추위에 피토하는 KT [KS3 현장]",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/06/MJTGGNZSGY3GEMRUMUYTCMRRMM/",
+     "source": "조선일보"
+    }
+   ]
+  },
   {
    "kw": "tving",
    "traffic": "200+",
    "when": "11월 07일 14:20",
    "news": []
+  },
+  {
+   "kw": "lakers vs trail blazers",
+   "traffic": "100+",
+   "when": "11월 07일 14:20",
+   "news": [
+    {
+     "title": "Licensable picture: NBA: Portland Trail Blazers at Los Angeles Lakers",
+     "url": "https://www.reutersconnect.com/item/nba-portland-trail-blazers-at-los-angeles-lakers/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAyOTU5MTQ",
+     "source": "Reuters Connect"
+    },
+    {
+     "title": "Blazers Drop Lead in Road Loss to Lakers",
+     "url": "https://www.blazersedge.com/gameday-coverage/118048/portland-trail-blazers-los-angeles-lakers-final-score-boxscore-luka-doncic-recap",
+     "source": "Blazer's Edge"
+    }
+   ]
   },
   {
    "kw": "장진혁",
@@ -18,9 +86,9 @@
      "source": "연합뉴스"
     },
     {
-     "title": "[사진]안현민과 'KS 4차전 선제 솔로포 기쁨 나누는 장진혁",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/GA2TSYJYHEYTIZJYMQZTSM3BME/",
-     "source": "조선일보"
+     "title": "[사진]이재희, 위기 탈추",
+     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/07/MMYDOMRTGIYDKMLFMRQTSMZQME/",
+     "source": "Chosunbiz"
     }
    ]
   },
@@ -30,14 +98,14 @@
    "when": "11월 07일 13:50",
    "news": [
     {
-     "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/",
-     "source": "조선일보"
+     "title": "Jang Chan-hee shines in Korean Series start, allows one run over four innings",
+     "url": "https://biz.chosun.com/en/en-sports/2026/11/07/C2WDHJU63FHRHHIXTAT5JFNZTE/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "KT Wiz Beat Samsung 8-7 in Korean Series Opener",
-     "url": "https://en.sedaily.com/sports/2026/11/04/kt-wiz-beat-samsung-8-7-in-korean-series-opener",
-     "source": "Seoul Economic Daily"
+     "title": "Jang Chan-hee Delivers Four-Inning, One-Run Performance",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/07/I774T5LJJRFUBGOMVXQHVZCKNE/",
+     "source": "조선일보"
     }
    ]
   },
@@ -52,9 +120,9 @@
      "source": "연합뉴스"
     },
     {
-     "title": "[사진]한국시리즈 4차전 역투 펼치는 삼성 선발 장찬희",
-     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/07/GUYGINTDMNQTANJYMJQTEOJXGE/",
-     "source": "Chosunbiz"
+     "title": "[사진]만루 위기 등판 이재희",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MMZTQZJQMJSWCZDDG5SWMOBWGY/",
+     "source": "조선일보"
     }
    ]
   },
@@ -76,76 +144,19 @@
    ]
   },
   {
-   "kw": "삼전 닉스",
-   "traffic": "5000+",
-   "when": "11월 07일 13:10",
+   "kw": "west indies vs bangladesh",
+   "traffic": "100+",
+   "when": "11월 07일 13:30",
    "news": [
     {
-     "title": "\"삼전닉스 믿고 버텼는데\"…증권가가 내놓은 뜻밖의 조언 [종목+]",
-     "url": "https://www.hankyung.com/article/2026110610246",
-     "source": "한국경제"
+     "title": "'It's all about sticking to my strengths' - Jangoo backs his instincts after Sylhet ton",
+     "url": "https://www.cricinfo.com/story/ban-vs-wi-sylhet-test-amir-jangoo-backs-his-instincts-after-century-1561675",
+     "source": "Cricinfo"
     },
     {
-     "title": "주가폭락했는데 삼전닉스 LTA 믿어도 되나…마이크론 사례 보니",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4443491",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "kw": "대치동 은마아파트",
-   "traffic": "10000+",
-   "when": "11월 07일 13:00",
-   "news": [
-    {
-     "title": "주택공급 발목잡는 ‘재초환’… 은마아파트 가구당 4억 내야",
-     "url": "https://www.chosun.com/economy/real_estate/2026/11/07/3FFT6HIJ7NG6JEFMGED6OS6BXA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "영등포 2.2억·강북 1.2억…재초환 억대 부담금에 '닥공' 발목",
-     "url": "https://www.mk.co.kr/news/realestate/12200669",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "한국대학신문",
-   "traffic": "500+",
-   "when": "11월 07일 13:00",
-   "news": []
-  },
-  {
-   "kw": "조작 기소 의혹 특검법 통과에 따른 핵심 쟁점과 최신 뉴스 알려줘",
-   "traffic": "500+",
-   "when": "11월 07일 13:00",
-   "news": [
-    {
-     "title": "정청래의 ‘조희대 탄핵’ 주장이 대통령 공격인 이유…김웅의 분석",
-     "url": "https://www.munhwa.com/article/11629487",
-     "source": "문화일보"
-    },
-    {
-     "title": "與, '조작기소 특검 장외투쟁' 국힘에 \"본질 외면한 채 국민 호도\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6863902_36911.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "환자",
-   "traffic": "200+",
-   "when": "11월 07일 13:00",
-   "news": [
-    {
-     "title": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975199&pWise=sub&pWiseSub=R6",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "초등학교 곳곳서 ‘콜록콜록’…독감 다시 확산세",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706178",
-     "source": "KBS 뉴스"
+     "title": "Pacers give Windies edge after lift from tailenders",
+     "url": "https://guyanachronicle.com/2026/11/07/pacers-give-windies-edge-after-lift-from-tailenders/",
+     "source": "Guyana Chronicle"
     }
    ]
   }
