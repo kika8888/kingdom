@@ -1,20 +1,54 @@
 {
- "updated": "2026-11-08 02:23",
+ "updated": "2026-11-08 03:22",
  "items": [
+  {
+   "kw": "gta6",
+   "traffic": "100+",
+   "when": "11월 08일 02:10",
+   "news": [
+    {
+     "title": "Grand Theft Auto VI Pre-Load Begins on November 10",
+     "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10?utm_source=blast&amp;amp%3Butm_medium=o_email&amp;amp%3Butm_campaign=e10316_global_localized_gtavi-preload_static_learn-more&amp;amp%3Butm_content=main-img",
+     "source": "Rockstar Games"
+    },
+    {
+     "title": "Grand Theft Auto VI pre-download begins November 10",
+     "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/",
+     "source": "PlayStation.Blog"
+    }
+   ]
+  },
+  {
+   "kw": "노팅엄 포레스트 대 맨 시티",
+   "traffic": "2000+",
+   "when": "11월 08일 01:40",
+   "news": [
+    {
+     "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
+     "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
+     "source": "BBC"
+    },
+    {
+     "title": "Nottingham Forest stuns Man City with early goals in Premier League clash",
+     "url": "https://www.usatoday.com/story/sports/soccer/epl/2026/11/07/manchester-city-nottingham-forest-premier-league/92661741007/",
+     "source": "USA Today"
+    }
+   ]
+  },
   {
    "kw": "일본 지진",
    "traffic": "200+",
    "when": "11월 08일 01:00",
    "news": [
     {
-     "title": "일본 시즈오카현 하마마쓰시 북쪽서 규모 5.7 지진",
-     "url": "https://www.yna.co.kr/view/AKR20261108001400530",
-     "source": "연합뉴스"
+     "title": "일본 시즈오카현 하마마쓰시 북쪽 21km 지역 규모 5.7 지진",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706831",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "일본 지바현 지바시 동남동쪽 202km 해역 규모 6.1 지진",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706275",
-     "source": "KBS 뉴스"
+     "title": "일본 지바현 지바시 동남동쪽 바다서 규모 6.1 지진 발생",
+     "url": "https://www.yna.co.kr/view/AKR20261106183200530",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -24,14 +58,14 @@
    "when": "11월 08일 00:30",
    "news": [
     {
-     "title": "“분위기 어쩌다 이렇게 됐나”…이천수, 대표팀 갈등설에 조언",
-     "url": "https://www.donga.com/news/Sports/article/all/20261107/134983161/1",
-     "source": "동아일보"
+     "title": "이천수 “은퇴 번복 창피해 10억 제안 거절”…♥심하은 “말렸어야 했다”",
+     "url": "https://www.sedaily.com/article/20110260",
+     "source": "서울경제"
     },
     {
-     "title": "'손흥민-96라인 불화설'...'前 국가대표' 이천수 작심 발언 \"축구에만 집중하길\"",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018354",
-     "source": "SPOTV NEWS"
+     "title": "심하은, 이천수♥ '1도 안 닮은' 키즈모델 딸 공개..\"매거진 나오는 날\"",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-07/202611070100051710005164",
+     "source": "스포츠조선"
     }
    ]
   },
@@ -41,31 +75,48 @@
    "when": "11월 08일 00:20",
    "news": [
     {
+     "title": "1249회 로또 1등 14명…1인당 20억3천만원",
+     "url": "https://www.khan.co.kr/article/202611072132001",
+     "source": "경향신문"
+    },
+    {
      "title": "\"20억 대박\" 로또 1등 14명 당첨…서울에서만 7곳 최다",
      "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645643424&mediaCodeNo=257",
      "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "하정우",
+   "traffic": "1000+",
+   "when": "11월 08일 00:10",
+   "news": [
+    {
+     "title": "하정우, 12월 결혼 앞두고...확 달라진 비주얼 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110716222760934",
+     "source": "머니투데이"
     },
     {
-     "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
-     "url": "https://www.kyeonggi.com/article/20261107580125",
-     "source": "경기일보"
+     "title": "'차정원♥' 하정우, 결혼 앞두고 달라진 비주얼 공개",
+     "url": "https://www.newsis.com/view/NISX20261107_0003859045",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "kw": "mainz vs bayern",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 08일 00:10",
    "news": [
     {
-     "title": "Ausgerechnet im Rekordspiel: Neuer verletzt ausgewechselt",
-     "url": "https://www.kicker.de/ausgerechnet-im-rekordspiel-neuer-verletzt-ausgewechselt-1269459/artikel",
-     "source": "Kicker"
+     "title": "Bayern schlagen Mainz und behaupten die Tabellenführung",
+     "url": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
+     "source": "sportschau.de"
     },
     {
-     "title": "FC Bayern, Noten: Harry Kane glänzt und gibt den Debatten neue Nahrung",
-     "url": "https://www.spox.com/fussball/news/harry-kane-glaenzt-und-gibt-den-debatten-dennoch-neue-nahrung-fc-bayern-muenchen-noten-und-einzelkritiken-zum-sieg-gegen-den-fsv-mainz-05/blt6547c9a95b684248",
-     "source": "SPOX.com"
+     "title": "BILD-Einzelkritik: Note 4 für zwei Bayern-Stars",
+     "url": "https://www.bild.de/sport/fussball/bild-einzelkritik-note-4-fuer-zwei-bayern-stars-6aef2caaa389bc337cfc9214",
+     "source": "BILD"
     }
    ]
   },
@@ -75,14 +126,14 @@
    "when": "11월 07일 23:50",
    "news": [
     {
+     "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852",
+     "source": "YTN"
+    },
+    {
      "title": "[다시보기] 그것이 알고싶다 1511회",
      "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000639438",
      "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "[이슈5] \"보자마자 흉기 휘둘러\"…장모 살해 김성우 구속기소 外",
-     "url": "https://www.yna.co.kr/view/MYH20261106018400038",
-     "source": "연합뉴스"
     }
    ]
   },
@@ -114,60 +165,9 @@
      "source": "BBC"
     },
     {
-     "title": "Preview: Birmingham City v Swansea City",
-     "url": "https://www.bcfc.com/pages/en/media-article/preview-birmingham-city-v-swansea-city",
-     "source": "Birmingham City Football Club"
-    }
-   ]
-  },
-  {
-   "kw": "arsenal vs hull",
-   "traffic": "500+",
-   "when": "11월 07일 23:20",
-   "news": [
-    {
-     "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
-     "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
-     "source": "BBC"
-    },
-    {
-     "title": "Team news: Arteta makes six changes for visit of Hull City",
-     "url": "https://www.arsenal.com/news/team-news-arteta-makes-six-changes-for-visit-of-hull-city-aFm6p5H0sRkP",
-     "source": "Arsenal.com"
-    }
-   ]
-  },
-  {
-   "kw": "아스널 대 헐 시티",
-   "traffic": "5000+",
-   "when": "11월 07일 23:10",
-   "news": [
-    {
-     "title": "아스널 0-0 헐 시티 (전반전): 선제골을 넣기 위한 공격에 박차를 가하고 있다.",
-     "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h2-tang-toc-tim-ban-mo-ty-so",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "리버풀은 빌라, 유벤투스는 나폴리…11월 1~2일 유럽축구 일정 : 스포츠",
-     "url": "https://news.jkn.co.kr/post/1064325",
-     "source": "재경일보"
-    }
-   ]
-  },
-  {
-   "kw": "풀럼 대 뉴캐슬",
-   "traffic": "1000+",
-   "when": "11월 07일 23:10",
-   "news": [
-    {
-     "title": "프리미어 리그 풀럼 대 뉴캐슬 경기 예측",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fulham-vs-newcastle-tai-premier-league-1795650.ldo",
-     "source": "Laodong.vn"
-    },
-    {
-     "title": "경기 프리뷰: 풀럼 vs 뉴캐슬, 11월 7일 22시: 정상 등극을 향한 결의.",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fulham-vs-newcastle-22h00-ngay-7-11-quyet-chi-vuon-len",
-     "source": "Vietnam.vn"
+     "title": "Birmingham 2-1 Swansea: Jay Stansfield scores twice as Blues go top of the Championship",
+     "url": "https://www.skysports.com/football/news/13592975/birmingham-2-1-swansea-jay-stansfield-scores-twice-as-blues-go-top-of-the-championship",
+     "source": "Sky Sports"
     }
    ]
   }
