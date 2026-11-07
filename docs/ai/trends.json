@@ -1,20 +1,71 @@
 {
- "updated": "2026-11-08 01:21",
+ "updated": "2026-11-08 02:23",
  "items": [
+  {
+   "kw": "일본 지진",
+   "traffic": "200+",
+   "when": "11월 08일 01:00",
+   "news": [
+    {
+     "title": "일본 시즈오카현 하마마쓰시 북쪽서 규모 5.7 지진",
+     "url": "https://www.yna.co.kr/view/AKR20261108001400530",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "일본 지바현 지바시 동남동쪽 202km 해역 규모 6.1 지진",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706275",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "이천수",
+   "traffic": "100+",
+   "when": "11월 08일 00:30",
+   "news": [
+    {
+     "title": "“분위기 어쩌다 이렇게 됐나”…이천수, 대표팀 갈등설에 조언",
+     "url": "https://www.donga.com/news/Sports/article/all/20261107/134983161/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "'손흥민-96라인 불화설'...'前 국가대표' 이천수 작심 발언 \"축구에만 집중하길\"",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018354",
+     "source": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "kw": "복권",
+   "traffic": "5000+",
+   "when": "11월 08일 00:20",
+   "news": [
+    {
+     "title": "\"20억 대박\" 로또 1등 14명 당첨…서울에서만 7곳 최다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645643424&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
+     "url": "https://www.kyeonggi.com/article/20261107580125",
+     "source": "경기일보"
+    }
+   ]
+  },
   {
    "kw": "mainz vs bayern",
    "traffic": "100+",
    "when": "11월 08일 00:10",
    "news": [
     {
-     "title": "Der Pressetalk vor dem Spiel beim 1. FSV Mainz 05 im Ticker",
-     "url": "https://fcbayern.com/de/news/2026/11/ticker-pressetalk-des-fc-bayern-vor-dem-bundesliga-spiel-beim-1.-fsv-mainz-05",
-     "source": "FC Bayern"
+     "title": "Ausgerechnet im Rekordspiel: Neuer verletzt ausgewechselt",
+     "url": "https://www.kicker.de/ausgerechnet-im-rekordspiel-neuer-verletzt-ausgewechselt-1269459/artikel",
+     "source": "Kicker"
     },
     {
-     "title": "Bundesliga: Wer zeigt / überträgt Mainz 05 vs. FC Bayern im TV und LIVE-STREAM?",
-     "url": "https://www.dazn.com/de-AT/news/fussball/bundesliga-wer-zeigt-uebertraegt-mainz-05-vs-fc-bayern-im-tv-und-live-stream/1cumq1imznl6c14skzqshjj7gr",
-     "source": "DAZN"
+     "title": "FC Bayern, Noten: Harry Kane glänzt und gibt den Debatten neue Nahrung",
+     "url": "https://www.spox.com/fussball/news/harry-kane-glaenzt-und-gibt-den-debatten-dennoch-neue-nahrung-fc-bayern-muenchen-noten-und-einzelkritiken-zum-sieg-gegen-den-fsv-mainz-05/blt6547c9a95b684248",
+     "source": "SPOX.com"
     }
    ]
   },
@@ -24,14 +75,14 @@
    "when": "11월 07일 23:50",
    "news": [
     {
+     "title": "[다시보기] 그것이 알고싶다 1511회",
+     "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000639438",
+     "source": "programs.sbs.co.kr"
+    },
+    {
      "title": "[이슈5] \"보자마자 흉기 휘둘러\"…장모 살해 김성우 구속기소 外",
      "url": "https://www.yna.co.kr/view/MYH20261106018400038",
      "source": "연합뉴스"
-    },
-    {
-     "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852",
-     "source": "YTN"
     }
    ]
   },
@@ -80,20 +131,20 @@
      "source": "BBC"
     },
     {
-     "title": "Arteta's update on Saka, Saliba and Konsa",
-     "url": "https://www.arsenal.com/news/artetas-update-on-saka-saliba-and-konsa-aopoW1X0hn87",
+     "title": "Team news: Arteta makes six changes for visit of Hull City",
+     "url": "https://www.arsenal.com/news/team-news-arteta-makes-six-changes-for-visit-of-hull-city-aFm6p5H0sRkP",
      "source": "Arsenal.com"
     }
    ]
   },
   {
    "kw": "아스널 대 헐 시티",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 07일 23:10",
    "news": [
     {
-     "title": "아스널 0-0 헐 시티 (전반전) 생중계: 경기가 시작됩니다",
-     "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h1-tran-dau-bat-dau",
+     "title": "아스널 0-0 헐 시티 (전반전): 선제골을 넣기 위한 공격에 박차를 가하고 있다.",
+     "url": "https://www.vietnam.vn/ko/truc-tiep-arsenal-0-0-hull-city-h2-tang-toc-tim-ban-mo-ty-so",
      "source": "Vietnam.vn"
     },
     {
@@ -117,57 +168,6 @@
      "title": "경기 프리뷰: 풀럼 vs 뉴캐슬, 11월 7일 22시: 정상 등극을 향한 결의.",
      "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fulham-vs-newcastle-22h00-ngay-7-11-quyet-chi-vuon-len",
      "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "도르트문트 대 엘버스베르크",
-   "traffic": "500+",
-   "when": "11월 07일 23:00",
-   "news": [
-    {
-     "title": "Borussia Dortmund vs Elversberg: German Bundesliga stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cwvgdj931ez7t",
-     "source": "BBC"
-    },
-    {
-     "title": "Confirmed lineups: Borussia Dortmund vs. SV Elversberg",
-     "url": "https://sports.yahoo.com/articles/confirmed-lineups-borussia-dortmund-vs-132600612.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "kw": "라이프치히 대 아우크스부르크",
-   "traffic": "500+",
-   "when": "11월 07일 23:00",
-   "news": [
-    {
-     "title": "Licensable picture: Fall Weather in Bad Homburg",
-     "url": "https://www.reutersconnect.com/item/fall-weather-in-bad-homburg/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0RQQUFQSVMyNjExMDdYOTlYMjAzNjcx",
-     "source": "Reuters Connect"
-    },
-    {
-     "title": "2. Bundesliga: Keller strikes late to secure important Fürth victory over Kiel",
-     "url": "https://sports.yahoo.com/articles/2-bundesliga-keller-strikes-secure-145500365.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "kw": "리즈 유나이티드 대 토트넘 홋스퍼 fc 라인업",
-   "traffic": "100+",
-   "when": "11월 07일 23:00",
-   "news": [
-    {
-     "title": "Roberto De Zerbi reveals Tottenham injury latest in new four-man Leeds update",
-     "url": "https://www.standard.co.uk/sport/football/tottenham-injury-news-leeds-savio-bergvall-b1303848.html",
-     "source": "London Evening Standard"
-    },
-    {
-     "title": "De Zerbi on when Tosin, Bergvall, Mudryk and Savio could return",
-     "url": "https://www.tottenhamhotspur.com/news/1182782/de-zerbi-on-when-tosin-bergvall-mudryk-and-savio-could-return",
-     "source": "Tottenham Hotspur"
     }
    ]
   }
