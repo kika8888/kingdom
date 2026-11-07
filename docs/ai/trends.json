@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-07 22:22",
+ "updated": "2026-11-07 23:23",
  "items": [
+  {
+   "kw": "페드로 포로",
+   "traffic": "200+",
+   "when": "11월 07일 22:20",
+   "news": [
+    {
+     "title": "‘월드컵 위너’ 포로, “가장 존경하는 선수는 쏘니”…손흥민 향한 진심",
+     "url": "https://www.sportsseoul.com/news/read/1647554",
+     "source": "스포츠서울"
+    },
+    {
+     "title": "포로에게 손흥민은 은인이었다…“존경할 수밖에 없는 사람, 토트넘 전설임에도 날 가족처럼 받아줬어”",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100360",
+     "source": "포포투"
+    }
+   ]
+  },
+  {
+   "kw": "ลีดส์ พบ สเปอร์ส",
+   "traffic": "100+",
+   "when": "11월 07일 22:20",
+   "news": [
+    {
+     "title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก ลีดส์ พบ สเปอร์ส 7 พ.ย.69",
+     "url": "https://www.pptvhd36.com/sport/news/286664",
+     "source": "pptvhd36.com"
+    },
+    {
+     "title": "การคาดการณ์ผลการแข่งขันระหว่างลีดส์กับท็อตแนม: จุดสนใจสำคัญในการลุ้นแย่งตำแหน่งสูงสุด",
+     "url": "https://www.vietnam.vn/th/nhan-dinh-leeds-vs-tottenham-diem-nong-cuoc-dua-top-dau",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "검사",
+   "traffic": "500+",
+   "when": "11월 07일 21:50",
+   "news": [
+    {
+     "title": "“이재명 탈옥법” 국힘, ‘조작기소 특검법’ 규탄 도심 집회",
+     "url": "https://www.donga.com/news/Politics/article/all/20261107/134983683/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "\"대통령 탈옥법\" 국힘 장외집회‥\"진상 드러날까 두렵나\"",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863931_37004.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "닥터x 하얀 마피아의 시대",
+   "traffic": "1000+",
+   "when": "11월 07일 21:30",
+   "news": [
+    {
+     "title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
+     "url": "https://sports.khan.co.kr/article/202611070054003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "“이것이 제 선택입니다” 투표장을 등지고 생명을 살리겠다는 일념으로 수술실로 발걸음을 옮긴 손현주의 선택!",
+     "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483056078",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "sbs",
+   "traffic": "500+",
+   "when": "11월 07일 21:30",
+   "news": [
+    {
+     "title": "Cha Cheong-hwa joins SBS drama 9 to 6 as corporate support head",
+     "url": "https://biz.chosun.com/en/en-entertainment/2026/11/05/5HE6SVDTEVGWTOJWGZ4ORT5ECI/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "Cha Chung-hwa Cast as Political Management Head in 'Nine to Six'",
+     "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/05/7IKXEKZ3XBDTTETMY6DI6FDFCE/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "persija jakarta vs persebaya",
+   "traffic": "200+",
+   "when": "11월 07일 21:00",
+   "news": []
+  },
   {
    "kw": "agf",
    "traffic": "500+",
@@ -12,17 +103,11 @@
      "source": "AGF Perspectives"
     },
     {
-     "title": "The fed’s new approach",
-     "url": "https://www.thecabin.net/opinion/the-fed-s-new-approach/article_d26c91eb-79bb-5078-b8a9-c73cabad0629.html",
-     "source": "thecabin.net"
+     "title": "AGF Management : The Fed in Uncharted Territory with New Communication Policy",
+     "url": "https://www.marketscreener.com/news/agf-management-the-fed-in-uncharted-territory-with-new-communication-policy-ce785fd2da8cff2c",
+     "source": "www.marketscreener.com"
     }
    ]
-  },
-  {
-   "kw": "persija jakarta vs persebaya",
-   "traffic": "200+",
-   "when": "11월 07일 21:00",
-   "news": []
   },
   {
    "kw": "내일 날씨",
@@ -30,14 +115,31 @@
    "when": "11월 07일 20:50",
    "news": [
     {
-     "title": "[날씨] 아침 영하권 추위에 중부 비 소식…강원 산지엔 눈",
-     "url": "https://www.yna.co.kr/view/AKR20261107045800004",
-     "source": "연합뉴스"
+     "title": "[날씨] 충청권 올가을 첫 영하권...주말 나들이 옷차림 두툼",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611071646040743",
+     "source": "YTN"
     },
     {
-     "title": "'입동 추위' 서울 첫 얼음 관측‥내일은 비 소식",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863939_37004.html",
-     "source": "MBC 뉴스"
+     "title": "’입동’ 추위 서울 첫얼음…내일 중부 비·강원 눈",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261107225235CVg",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "leeds vs spurs",
+   "traffic": "500+",
+   "when": "11월 07일 20:50",
+   "news": [
+    {
+     "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+     "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
+     "source": "BBC"
+    },
+    {
+     "title": "Leeds United v Tottenham Hotspur: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
+     "source": "The Guardian"
     }
    ]
   },
@@ -55,97 +157,6 @@
      "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
      "url": "https://www.kyeonggi.com/article/20261107580125",
      "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "leeds vs spurs",
-   "traffic": "500+",
-   "when": "11월 07일 20:50",
-   "news": [
-    {
-     "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
-     "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
-     "source": "BBC"
-    },
-    {
-     "title": "Team News: Injury updates on Calvert-Lewin, Okafor & Stach",
-     "url": "https://www.leedsunited.com/en/news/team-news-injury-updates-on-calvert-lewin-okafor-and-stach",
-     "source": "Leeds United | Official Website - Leeds United"
-    }
-   ]
-  },
-  {
-   "kw": "유방암",
-   "traffic": "1000+",
-   "when": "11월 07일 20:40",
-   "news": [
-    {
-     "title": "“일주일에 두 번쯤이야” 했는데…‘이것’ 즐겨 먹은 여성들 유방암 위험 높았다 [헬시타임]",
-     "url": "https://www.sedaily.com/article/20111438",
-     "source": "서울경제"
-    },
-    {
-     "title": "\"스트레스 풀려고 가끔만 먹었는데?\"…일주일 딱 2번에 암 위험 28% 높아 '날벼락'",
-     "url": "https://view.asiae.co.kr/article/2026110515040815942",
-     "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "weather tomorrow",
-   "traffic": "5000+",
-   "when": "11월 07일 20:40",
-   "news": [
-    {
-     "title": "College football preview capsules: Hawkeyes set to face Northwestern tonight",
-     "url": "https://www.telegraphherald.com/sports/local_sports/article_19f90c58-5097-4b8c-a93a-4b2c55fee0f2.html",
-     "source": "TelegraphHerald.com"
-    },
-    {
-     "title": "Wildcats to Host No. 21 Iowa in Saturday Night Showdown",
-     "url": "https://nusports.com/news/2026/11/6/wildcats-to-host-no-21-iowa-in-saturday-night-showdown",
-     "source": "Northwestern Wildcats"
-    }
-   ]
-  },
-  {
-   "kw": "погода завтра",
-   "traffic": "500+",
-   "when": "11월 07일 20:40",
-   "news": []
-  },
-  {
-   "kw": "thời tiết ngày mai",
-   "traffic": "1000+",
-   "when": "11월 07일 20:40",
-   "news": [
-    {
-     "title": "[Video] Dự báo thời tiết đêm nay và ngày mai 8/11/2026: Bắc Bộ sắp đón không khí lạnh, Bắc Trung Bộ mưa lớn",
-     "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-8112026-bac-bo-sap-don-khong-khi-lanh-bac-trung-bo-mua-lon-post1000913.html",
-     "source": "Báo Nhân Dân điện tử"
-    },
-    {
-     "title": "Ngày nào rét nhất trong đợt không khí lạnh ở miền Bắc?",
-     "url": "https://phapluat.suckhoedoisong.vn/ngay-nao-ret-nhat-trong-dot-khong-khi-lanh-o-mien-bac-287064.html",
-     "source": "phapluat.suckhoedoisong.vn"
-    }
-   ]
-  },
-  {
-   "kw": "리즈 유나이티드 대 토트넘",
-   "traffic": "20000+",
-   "when": "11월 07일 20:30",
-   "news": [
-    {
-     "title": "\"맨유전 3시간 불꽃 난상토론\" 데제르비의 토트넘, '3연승' 대반전 이유가 밝혀졌다! 최하위→9위→오늘밤 리즈 원정 승리시 '톱5' 눈앞",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/07/GRRDKNZQMM2GMODCMVSDCNDFG4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "‘EPL 20→9위’ 수직 상승! 616일, 손흥민과 이별 후 처음 터진 상승세! 토트넘의 반등 이유 “신뢰 회...",
-     "url": "https://sports.khan.co.kr/article/202611072029003",
-     "source": "스포츠경향"
     }
    ]
   }
