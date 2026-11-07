@@ -1,14 +1,82 @@
 {
- "updated": "2026-11-07 12:23",
+ "updated": "2026-11-07 13:23",
  "items": [
+  {
+   "kw": "아이뉴스24",
+   "traffic": "2000+",
+   "when": "11월 07일 12:10",
+   "news": [
+    {
+     "title": "이제 미국엔 데이터센터를 못 짓는 걸까",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706616",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "텍사스-조지아 등 美민주 주지사 당선인들 “AI 데이터센터 규제”",
+     "url": "https://www.donga.com/news/Inter/article/all/20261106/134982640/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "kc t1",
+   "traffic": "200+",
+   "when": "11월 07일 11:50",
+   "news": [
+    {
+     "title": "AEW's Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
+     "url": "https://www.thesportingtribune.com/2026/11/06/claudio-castagnoli-worlds-2026-aew-league-of-legends",
+     "source": "The Sporting Tribune"
+    },
+    {
+     "title": "Impregnable 'Peyz-Keria' Duo... T1 Beats KC 3-1 to Face BLG in Semifinals",
+     "url": "https://www.invenglobal.com/articles/28298/impregnable-peyz-keria-duo-t1-beats-kc-3-1-to-face-blg-in-semifinals",
+     "source": "Inven Global"
+    }
+   ]
+  },
+  {
+   "kw": "타릭 스쿠발",
+   "traffic": "200+",
+   "when": "11월 07일 11:40",
+   "news": [
+    {
+     "title": "\"날 떠나지마\" 최대 4억불 초대어 투수 잔류 원하는 다저스, 스넬까지 나섰다…결말은",
+     "url": "https://www.chosun.com/sports/world-baseball/2026/11/06/MY2TQMJQGUZDQOBYMNQTSYZRMU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"설득 끝냈다\" 스쿠발과 형-동생하더니…양대리그 CY 수상자 핵폭탄급 의미심장 한마디 \"잔류 가능성 있어\"",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018048",
+     "source": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "kw": "nz vs ind",
+   "traffic": "200+",
+   "when": "11월 07일 11:10",
+   "news": [
+    {
+     "title": "Ball by Ball Commentary & Live Score - NZ vs IND, 2nd ODI",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/ball-by-ball-commentary",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Shubman Gill wins toss as India opt to chase in rain-reduced ODI",
+     "url": "https://thenewsmill.com/2026/11/india-opt-to-chase-after-shubman-gill-wins-toss-in-rain-reduced-wellington-odi/",
+     "source": "The News Mill"
+    }
+   ]
+  },
   {
    "kw": "사건반장",
    "traffic": "200+",
    "when": "11월 07일 11:10",
    "news": [
     {
-     "title": "조개구이 리필까지 하고 먹튀…무단횡단도 했다",
-     "url": "https://news.jtbc.co.kr/article/NB12326939",
+     "title": "\"내가 뜨면 경찰서 초토화\" 보문동 자영업자 ‘킬러’ 유튜버 논란",
+     "url": "https://news.jtbc.co.kr/video/NB12326440",
      "source": "JTBC"
     },
     {
@@ -19,25 +87,8 @@
    ]
   },
   {
-   "kw": "nz vs ind",
-   "traffic": "200+",
-   "when": "11월 07일 11:10",
-   "news": [
-    {
-     "title": "NZ vs Ind, 2nd ODI, Live Blog - Windy Wellington is rainy too",
-     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/live-match-blog",
-     "source": "Cricinfo"
-    },
-    {
-     "title": "Why Wellington's Weather Could Test India's Cricket Superstars",
-     "url": "https://timesofindia.indiatimes.com/short-videos/briefs/why-wellingtons-weather-could-test-indias-cricket-superstars/videoshow/135618131.cms",
-     "source": "The Times of India"
-    }
-   ]
-  },
-  {
    "kw": "유언",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 07일 11:00",
    "news": [
     {
@@ -54,18 +105,18 @@
   },
   {
    "kw": "미래에셋",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 07일 11:00",
    "news": [
     {
-     "title": "미래에셋증권, 해킹으로 고객 3천여 명·임직원 3만여 명 정보 유출",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6863876_36932.html",
-     "source": "MBC 뉴스"
+     "title": "고객 계좌번호부터 임직원 연락처까지…미래에셋증권 해킹 3만9000여명 정보 유출",
+     "url": "https://www.khan.co.kr/article/202611070800031",
+     "source": "경향신문"
     },
     {
-     "title": "미래에셋증권도 해킹…3만 9천명 정보 유출",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706653",
-     "source": "KBS 뉴스"
+     "title": "미래에셋증권도 3만9천여명 정보유출…당국에 전날 밤 신고(종합2보)",
+     "url": "https://stock.mk.co.kr/news/view/1193103",
+     "source": "매일경제 마켓"
     }
    ]
   },
@@ -88,7 +139,7 @@
   },
   {
    "kw": "잠수함",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 07일 10:50",
    "news": [
     {
@@ -104,70 +155,19 @@
    ]
   },
   {
-   "kw": "blg",
+   "kw": "new zealand vs india",
    "traffic": "200+",
    "when": "11월 07일 10:50",
    "news": [
     {
-     "title": "Karmine Corp vs T1: Why T1 Will Crush KC at Worlds 2026",
-     "url": "https://theloadout.com/karmine-corp-vs-t1",
-     "source": "The Loadout"
+     "title": "NZ vs Ind, 2nd ODI, Live Blog - Quicks all over New Zealand on helpful pitch",
+     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/live-match-blog",
+     "source": "Cricinfo"
     },
     {
-     "title": "AEW's Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
-     "url": "https://www.thesportingtribune.com/2026/11/06/claudio-castagnoli-worlds-2026-aew-league-of-legends",
-     "source": "The Sporting Tribune"
-    }
-   ]
-  },
-  {
-   "kw": "기뢰",
-   "traffic": "500+",
-   "when": "11월 07일 10:40",
-   "news": [
-    {
-     "title": "이란 혁명수비대 \"호르무즈 해협서 유조선 2척 기뢰와 충돌\"",
-     "url": "https://www.yna.co.kr/view/AKR20261106174900099",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "이란 연계 선박들, 호르무즈 오만만 해저 케이블 위 '수상한 배회'",
-     "url": "https://www.news1.kr/world/middleeast-africa/6346328",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "보험",
-   "traffic": "1000+",
-   "when": "11월 07일 10:00",
-   "news": [
-    {
-     "title": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’",
-     "url": "https://www.mk.co.kr/news/economy/12201283",
-     "source": "매일경제"
-    },
-    {
-     "title": "4년 새 60% 폭증…소득보다 2.7배 더 뛴 60세 이상 1인 가구 보험료",
-     "url": "https://www.segye.com/newsView/20261107503545?OutUrl=google",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "지스타",
-   "traffic": "500+",
-   "when": "11월 07일 10:00",
-   "news": [
-    {
-     "title": "AGF 2026, 참가사 106곳 역대 최대…전년보다 49% 증가",
-     "url": "https://www.sedaily.com/article/20110777",
-     "source": "서울경제"
-    },
-    {
-     "title": "\"지스타 대신 AGF로 간다\"…'오타쿠'에 베팅하는 게임사들",
-     "url": "https://www.hankyung.com/article/2026110614741",
-     "source": "한국경제"
+     "title": "India vs New Zealand Live Score 2nd ODI: NZ struggle after early wickets; India on top",
+     "url": "https://www.rediff.com/cricket/commentary/2026/nov/07/liveupdates.htm",
+     "source": "Rediff"
     }
    ]
   }
