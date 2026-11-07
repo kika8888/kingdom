@@ -1,26 +1,54 @@
 {
- "updated": "2026-11-07 18:23",
+ "updated": "2026-11-07 18:56",
  "items": [
   {
-   "kw": "수원fc 대 경남 fc 순위",
-   "traffic": "500+",
-   "when": "11월 07일 17:20",
-   "news": []
+   "kw": "정철원",
+   "traffic": "100+",
+   "when": "11월 07일 17:30",
+   "news": [
+    {
+     "title": "정철원, ‘러브캐처’ 김지연 가정폭력·외도 주장에 “사실관계 다투는 중”",
+     "url": "https://www.mk.co.kr/news/hot-issues/12201436",
+     "source": "매일경제"
+    },
+    {
+     "title": "미래 연봉까지 재산분할?…롯데 정철원, 전처 김지연 폭로에 입 열었다 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/06/2026110619540321491",
+     "source": "머니투데이"
+    }
+   ]
   },
   {
    "kw": "하희라",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 07일 17:10",
    "news": [
+    {
+     "title": "'살림남', 최수종은 러브레터...은지원은 변명레터 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110709347264332",
+     "source": "머니투데이"
+    },
     {
      "title": "최수종♥하희라도 싸운다..유일한 갈등 원인 '이것' 때문에 ('살림남')",
      "url": "https://www.koreadaily.com/article/20261106152251067",
      "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "이승민",
+   "traffic": "500+",
+   "when": "11월 07일 17:10",
+   "news": [
+    {
+     "title": "'놀랍다' ERA '0' 대체 삼성 '이 선수' 韓 대표팀 왜 안 뽑혔나, 가을바람 신들린 '히어로' 찬사 폭발 [KS] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/07/2026110707491780846",
+     "source": "머니투데이"
     },
     {
-     "title": "은지원, 아내에게 쓴 편지 정체…“러브레터 아닌 변명 레터”",
-     "url": "https://sports.donga.com/ent/article/all/20261107/134983006/1",
-     "source": "스포츠동아"
+     "title": "[사진]한국시리즈 4차전 9회 마운드 오른 삼성 이승민",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/G44WMNDDHFRDMYZQGU3TMZLGMY/",
+     "source": "조선일보"
     }
    ]
   },
@@ -77,7 +105,7 @@
   },
   {
    "kw": "김영철",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 07일 16:30",
    "news": [
     {
@@ -104,14 +132,14 @@
    "when": "11월 07일 16:20",
    "news": [
     {
+     "title": "“젠슨 황 ‘中스파이 의혹’ 여성과 연인관계”…美정부 메모 파장",
+     "url": "https://www.joongang.co.kr/article/25476575",
+     "source": "중앙일보"
+    },
+    {
      "title": "젠슨 황, 중국 스파이 의심 여성과 연인 관계였나···미 정보당국 메모에 드러난 새로운 사실",
      "url": "https://www.khan.co.kr/article/202611071346001",
      "source": "경향신문"
-    },
-    {
-     "title": "美의회, 젠슨 황에 \"'中간첩 의혹' 여성과 관계 직접 해명하라\"",
-     "url": "https://www.news1.kr/world/usa-canada/6345644",
-     "source": "뉴스1"
     }
    ]
   },
@@ -129,23 +157,6 @@
      "title": "역투하는 우규민",
      "url": "https://www.news1.kr/photos/8202260",
      "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "맥도날드",
-   "traffic": "200+",
-   "when": "11월 07일 16:10",
-   "news": [
-    {
-     "title": "\"존박이 랩으로 주문했더니\"…맥도날드가 진짜 만든 '이것' [김소연의 얼굴전략]",
-     "url": "https://www.hankyung.com/article/202611060608g",
-     "source": "한국경제"
-    },
-    {
-     "title": "[기자의눈] “주문하신 광고 나왔습니다”…달라진 마케팅 공식",
-     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261105010001847",
-     "source": "아시아투데이"
     }
    ]
   }
