@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-07 18:56",
+ "updated": "2026-11-07 19:23",
  "items": [
+  {
+   "kw": "전유성",
+   "traffic": "500+",
+   "when": "11월 07일 18:10",
+   "news": [
+    {
+     "title": "'불후의 명곡', 故전유성 특집…애제자 김신영 스페셜 MC",
+     "url": "https://www.yna.co.kr/view/AKR20261106069500005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'불후' 이찬원, 김신영과 '행님아'로 정통 개그 도전 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110717007262146",
+     "source": "머니투데이"
+    }
+   ]
+  },
   {
    "kw": "정철원",
    "traffic": "100+",
@@ -140,23 +157,6 @@
      "title": "젠슨 황, 중국 스파이 의심 여성과 연인 관계였나···미 정보당국 메모에 드러난 새로운 사실",
      "url": "https://www.khan.co.kr/article/202611071346001",
      "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "우규민",
-   "traffic": "500+",
-   "when": "11월 07일 16:20",
-   "news": [
-    {
-     "title": "[사진] 우규민, 볼넷허용 만루 위기",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MYZWMMRTGU3TIMRRME4GGNZQGI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "역투하는 우규민",
-     "url": "https://www.news1.kr/photos/8202260",
-     "source": "뉴스1"
     }
    ]
   }
