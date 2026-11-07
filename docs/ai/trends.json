@@ -1,20 +1,71 @@
 {
- "updated": "2026-11-08 04:23",
+ "updated": "2026-11-08 05:23",
  "items": [
+  {
+   "kw": "박수홍",
+   "traffic": "500+",
+   "when": "11월 08일 04:20",
+   "news": [
+    {
+     "title": "박수홍 아내, '딸 돈자랑' 맛들였나..'800만원 신발' 이어 '명품 패딩' 인증 뭇매[Oh!쎈 이슈]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/MQYWKYJUGMYDIOJQGU2TCY3CHA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "‘박수홍♥’ 김다예, ‘140만 원 명품 패딩’ 딸 사진 올렸다 삭제… 잇따른 ‘돈자랑 논란’ 왜?",
+     "url": "https://sports.khan.co.kr/article/202611071658003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "발렌시아 대 레알 마드리드",
+   "traffic": "1000+",
+   "when": "11월 08일 04:10",
+   "news": [
+    {
+     "title": "라리가 발렌시아 대 레알 마드리드 축구 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-valencia-vs-real-madrid-tai-la-liga-1795640.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "경기 프리뷰: 발렌시아 vs 레알 마드리드, 11월 8일 새벽 3시: 레알 마드리드의 연승 행진을 막기는 어려울 것이다.",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-valencia-vs-real-madrid-3h00-ngay-8-11-kho-can-mach-thang",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "배드민턴",
+   "traffic": "200+",
+   "when": "11월 08일 04:10",
+   "news": [
+    {
+     "title": "\"안세영, 작년에도 충분히 강했는데...\" 1년 전 꺾었던 日 야마구치의 솔직 평가...\"모든 면에서 발전, 필승법 없다\"[현장 인터뷰] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/08/202611071511774591O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘배드민턴을 얼굴로 치나?’ 일본이 자랑하는 배드민턴 아이돌, 코리아오픈 결승전 전멸...일본 3개 종목 우승 도전",
+     "url": "https://www.osen.co.kr/article/G1112906193",
+     "source": "OSEN"
+    }
+   ]
+  },
   {
    "kw": "맨시티",
    "traffic": "200+",
    "when": "11월 08일 03:20",
    "news": [
     {
-     "title": "'115건 유죄' 맨시티, 리그 2연패하며 아스널에 1위 내줬다",
-     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190430",
-     "source": "금강일보"
+     "title": "리암 델랍은 환상적인 두 골을 터뜨리며 맨체스터 시티에게 큰 실망감을 안겨주었다.",
+     "url": "https://www.vietnam.vn/ko/liam-delap-lap-cu-dup-tuyet-dinh-khien-man-city-om-han",
+     "source": "Vietnam.vn"
     },
     {
-     "title": "맨체스터 시티는 추가 혐의를 받을 위험에 처해 있다.",
-     "url": "https://www.vietnam.vn/ko/man-city-doi-mat-nguy-co-bi-them-cac-cao-buoc",
-     "source": "Vietnam.vn"
+     "title": "리버풀은 빌라, 유벤투스는 나폴리…11월 1~2일 유럽축구 일정 : 스포츠",
+     "url": "https://news.jkn.co.kr/post/1064325",
+     "source": "재경일보"
     }
    ]
   },
@@ -24,14 +75,14 @@
    "when": "11월 08일 02:10",
    "news": [
     {
-     "title": "Grand Theft Auto VI Pre-Load Begins on November 10",
-     "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+     "title": "Explore the Grand Theft Auto VI Launch Gallery",
+     "url": "https://www.rockstargames.com/newswire/article/39ak81277255o9/explore-the-grand-theft-auto-vi-launch-gallery",
      "source": "Rockstar Games"
     },
     {
-     "title": "Grand Theft Auto VI pre-download begins November 10",
-     "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/",
-     "source": "PlayStation.Blog"
+     "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life",
+     "url": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars",
+     "source": "Hypebeast"
     }
    ]
   },
@@ -41,7 +92,7 @@
    "when": "11월 08일 01:40",
    "news": [
     {
-     "title": "Premier League LIVE: Live text, radio & score updates from across the Premier League",
+     "title": "Premier League LIVE: Live text, radio and reaction from across the Premier League",
      "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
      "source": "BBC"
     },
@@ -71,7 +122,7 @@
   },
   {
    "kw": "이천수",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 08일 00:30",
    "news": [
     {
@@ -92,14 +143,14 @@
    "when": "11월 08일 00:20",
    "news": [
     {
-     "title": "1249회 로또 1등 14명…1인당 20억3천만원",
-     "url": "https://www.khan.co.kr/article/202611072132001",
-     "source": "경향신문"
-    },
-    {
      "title": "\"20억 대박\" 로또 1등 14명 당첨…서울에서만 7곳 최다",
      "url": "https://www.edaily.co.kr/News/Read?newsId=03778566645643424&mediaCodeNo=257",
      "source": "이데일리"
+    },
+    {
+     "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
+     "url": "https://www.kyeonggi.com/article/20261107580125",
+     "source": "경기일보"
     }
    ]
   },
@@ -117,57 +168,6 @@
      "title": "‘차정원♥’ 하정우, 12월 결혼 앞두고 근황…한층 날렵해진 모습",
      "url": "https://www.donga.com/news/Entertainment/article/all/20261107/134983571/1",
      "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "mainz vs bayern",
-   "traffic": "200+",
-   "when": "11월 08일 00:10",
-   "news": [
-    {
-     "title": "BILD-Einzelkritik: Note 4 für zwei Bayern-Stars",
-     "url": "https://www.bild.de/sport/fussball/bild-einzelkritik-note-4-fuer-zwei-bayern-stars-6aef2caaa389bc337cfc9214",
-     "source": "BILD"
-    },
-    {
-     "title": "Tietz nach über vierminütigem VAR-Check: \"Ganz kurios, wie das abgelaufen ist\"",
-     "url": "https://www.kicker.de/tietz-nach-ueber-vierminuetigem-var-check-ganz-kurios-wie-das-abgelaufen-ist-1269518/artikel",
-     "source": "Kicker"
-    }
-   ]
-  },
-  {
-   "kw": "김성우",
-   "traffic": "200+",
-   "when": "11월 07일 23:50",
-   "news": [
-    {
-     "title": "'장모 살해·아내 납치' 김성우 구속 기소...스토킹 끝에 범행",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611062253499852",
-     "source": "YTN"
-    },
-    {
-     "title": "[다시보기] 그것이 알고싶다 1511회",
-     "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000639438",
-     "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "nepal premier league",
-   "traffic": "100+",
-   "when": "11월 07일 23:50",
-   "news": [
-    {
-     "title": "Match Predictions: Nepal Premier League 2026 - 18th Match - Kathmandu Gorkhas vs Lumbini Lions - 7th November",
-     "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-18th-match-kathmandu-gorkhas-vs-lumbini-lions-7th-november/114221.htm",
-     "source": "Cricket World"
-    },
-    {
-     "title": "Kathmandu Gurkhas Batting Well Against Lumbini, David Warner Scores Half-Century",
-     "url": "https://english.ratopati.com/story/85985/warner-completes-half-century-against-lumbini",
-     "source": "Ratopati"
     }
    ]
   }
