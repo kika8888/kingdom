@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-08 03:22",
+ "updated": "2026-11-08 04:23",
  "items": [
+  {
+   "kw": "맨시티",
+   "traffic": "200+",
+   "when": "11월 08일 03:20",
+   "news": [
+    {
+     "title": "'115건 유죄' 맨시티, 리그 2연패하며 아스널에 1위 내줬다",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1190430",
+     "source": "금강일보"
+    },
+    {
+     "title": "맨체스터 시티는 추가 혐의를 받을 위험에 처해 있다.",
+     "url": "https://www.vietnam.vn/ko/man-city-doi-mat-nguy-co-bi-them-cac-cao-buoc",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
   {
    "kw": "gta6",
    "traffic": "100+",
@@ -8,7 +25,7 @@
    "news": [
     {
      "title": "Grand Theft Auto VI Pre-Load Begins on November 10",
-     "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10?utm_source=blast&amp;amp%3Butm_medium=o_email&amp;amp%3Butm_campaign=e10316_global_localized_gtavi-preload_static_learn-more&amp;amp%3Butm_content=main-img",
+     "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
      "source": "Rockstar Games"
     },
     {
@@ -20,7 +37,7 @@
   },
   {
    "kw": "노팅엄 포레스트 대 맨 시티",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 08일 01:40",
    "news": [
     {
@@ -29,9 +46,9 @@
      "source": "BBC"
     },
     {
-     "title": "Nottingham Forest stuns Man City with early goals in Premier League clash",
-     "url": "https://www.usatoday.com/story/sports/soccer/epl/2026/11/07/manchester-city-nottingham-forest-premier-league/92661741007/",
-     "source": "USA Today"
+     "title": "Premier League predictions & Jones Knows' best bets: Nottingham Forest vs Man City, Man Utd vs Aston Villa and more!",
+     "url": "https://www.skysports.com/football/news/13607998/premier-league-predictions-and-jones-knows-best-bets-nottingham-forest-vs-man-city-man-utd-vs-aston-villa-and-more",
+     "source": "Sky Sports"
     }
    ]
   },
@@ -58,14 +75,14 @@
    "when": "11월 08일 00:30",
    "news": [
     {
-     "title": "이천수 “은퇴 번복 창피해 10억 제안 거절”…♥심하은 “말렸어야 했다”",
-     "url": "https://www.sedaily.com/article/20110260",
-     "source": "서울경제"
+     "title": "“분위기 어쩌다 이렇게 됐나”…이천수, 대표팀 갈등설에 조언",
+     "url": "https://www.donga.com/news/Sports/article/all/20261107/134983161/1",
+     "source": "동아일보"
     },
     {
-     "title": "심하은, 이천수♥ '1도 안 닮은' 키즈모델 딸 공개..\"매거진 나오는 날\"",
-     "url": "https://www.sportschosun.com/entertainment/2026-11-07/202611070100051710005164",
-     "source": "스포츠조선"
+     "title": "'손흥민-96라인 불화설'...'前 국가대표' 이천수 작심 발언 \"축구에만 집중하길\"",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018354",
+     "source": "SPOTV NEWS"
     }
    ]
   },
@@ -97,9 +114,9 @@
      "source": "머니투데이"
     },
     {
-     "title": "'차정원♥' 하정우, 결혼 앞두고 달라진 비주얼 공개",
-     "url": "https://www.newsis.com/view/NISX20261107_0003859045",
-     "source": "뉴시스"
+     "title": "‘차정원♥’ 하정우, 12월 결혼 앞두고 근황…한층 날렵해진 모습",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261107/134983571/1",
+     "source": "동아일보"
     }
    ]
   },
@@ -109,14 +126,14 @@
    "when": "11월 08일 00:10",
    "news": [
     {
-     "title": "Bayern schlagen Mainz und behaupten die Tabellenführung",
-     "url": "https://www.sportschau.de/fussball/bundesliga/kimmich-und-karl-fuehren-bayern-zu-arbeitssieg-in-mainz,spielbericht-mainz-05-bayern-muenchen-100.html",
-     "source": "sportschau.de"
-    },
-    {
      "title": "BILD-Einzelkritik: Note 4 für zwei Bayern-Stars",
      "url": "https://www.bild.de/sport/fussball/bild-einzelkritik-note-4-fuer-zwei-bayern-stars-6aef2caaa389bc337cfc9214",
      "source": "BILD"
+    },
+    {
+     "title": "Tietz nach über vierminütigem VAR-Check: \"Ganz kurios, wie das abgelaufen ist\"",
+     "url": "https://www.kicker.de/tietz-nach-ueber-vierminuetigem-var-check-ganz-kurios-wie-das-abgelaufen-ist-1269518/artikel",
+     "source": "Kicker"
     }
    ]
   },
@@ -143,31 +160,14 @@
    "when": "11월 07일 23:50",
    "news": [
     {
-     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-     "url": "https://www.cricbuzz.com/player-match-performance/match/177730/player/1739/batting",
-     "source": "Cricbuzz"
+     "title": "Match Predictions: Nepal Premier League 2026 - 18th Match - Kathmandu Gorkhas vs Lumbini Lions - 7th November",
+     "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-18th-match-kathmandu-gorkhas-vs-lumbini-lions-7th-november/114221.htm",
+     "source": "Cricket World"
     },
     {
-     "title": "Kathmandu Ghorkaj Defeats Lumbini Lions by 36 Runs in Nepal Premier League",
-     "url": "https://english.ratopati.com/story/86002/undefeated-lumbinis-journey-halted-kathmandu-wins-by-36-runs",
+     "title": "Kathmandu Gurkhas Batting Well Against Lumbini, David Warner Scores Half-Century",
+     "url": "https://english.ratopati.com/story/85985/warner-completes-half-century-against-lumbini",
      "source": "Ratopati"
-    }
-   ]
-  },
-  {
-   "kw": "버밍엄 대 스완지 시티",
-   "traffic": "500+",
-   "when": "11월 07일 23:30",
-   "news": [
-    {
-     "title": "Birmingham City v Swansea City: Championship stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cvlyd97z1k92t",
-     "source": "BBC"
-    },
-    {
-     "title": "Birmingham 2-1 Swansea: Jay Stansfield scores twice as Blues go top of the Championship",
-     "url": "https://www.skysports.com/football/news/13592975/birmingham-2-1-swansea-jay-stansfield-scores-twice-as-blues-go-top-of-the-championship",
-     "source": "Sky Sports"
     }
    ]
   }
