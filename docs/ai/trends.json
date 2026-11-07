@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-07 23:23",
+ "updated": "2026-11-08 00:23",
  "items": [
   {
-   "kw": "페드로 포로",
+   "kw": "arsenal vs hull",
    "traffic": "200+",
+   "when": "11월 07일 23:20",
+   "news": [
+    {
+     "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+     "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
+     "source": "BBC"
+    },
+    {
+     "title": "Arteta's update on Saka, Saliba and Konsa",
+     "url": "https://www.arsenal.com/news/artetas-update-on-saka-saliba-and-konsa-aopoW1X0hn87",
+     "source": "Arsenal.com"
+    }
+   ]
+  },
+  {
+   "kw": "아스널 대 헐 시티",
+   "traffic": "2000+",
+   "when": "11월 07일 23:10",
+   "news": [
+    {
+     "title": "노팅엄 포레스트 vs 맨체스터 시티 예측: 선두 자리를 노릴 기회",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-manchester-city-co-hoi-bam-duoi-ngoi-dau",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "잉글랜드 프리미어 리그 아스날 대 헐 시티 축구 예측",
+     "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-arsenal-vs-hull-city-tai-giai-ngoai-hang-anh-1796210.ldo",
+     "source": "Laodong.vn"
+    }
+   ]
+  },
+  {
+   "kw": "풀럼 대 뉴캐슬",
+   "traffic": "500+",
+   "when": "11월 07일 23:10",
+   "news": [
+    {
+     "title": "프리미어 리그 풀럼 대 뉴캐슬 경기 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-fulham-vs-newcastle-tai-premier-league-1795650.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "경기 프리뷰: 풀럼 vs 뉴캐슬, 11월 7일 22시: 정상 등극을 향한 결의.",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-fulham-vs-newcastle-22h00-ngay-7-11-quyet-chi-vuon-len",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "라이프치히 대 아우크스부르크",
+   "traffic": "200+",
+   "when": "11월 07일 23:00",
+   "news": [
+    {
+     "title": "⚡ Kade shock for Leipzig! Augsburg's fast starters stun RB",
+     "url": "https://sports.yahoo.com/articles/kade-shock-leipzig-augsburgs-fast-143900988.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "RB Leipzig vs Augsburg: German Bundesliga stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c6qxn7zrq0yet",
+     "source": "BBC"
+    }
+   ]
+  },
+  {
+   "kw": "도르트문트 대 엘버스베르크",
+   "traffic": "200+",
+   "when": "11월 07일 23:00",
+   "news": [
+    {
+     "title": "Confirmed lineups: Borussia Dortmund vs. SV Elversberg",
+     "url": "https://sports.yahoo.com/articles/confirmed-lineups-borussia-dortmund-vs-132600612.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Borussia Dortmund - SV 07 Elversberg LIVE. Bundesliga latest updates",
+     "url": "https://www.marca.com/en/soccer/bundesliga/borussia-dortmund-sv-07-elversberg/2026/11/07/01_0108_20261107_157_4071-live.html",
+     "source": "MARCA"
+    }
+   ]
+  },
+  {
+   "kw": "리즈 유나이티드 대 토트넘 홋스퍼 fc 라인업",
+   "traffic": "100+",
+   "when": "11월 07일 23:00",
+   "news": [
+    {
+     "title": "Roberto De Zerbi reaction: What did Spurs boss say after losing at Leeds?",
+     "url": "https://www.nbcsports.com/soccer/news/roberto-de-zerbi-reaction-what-did-spurs-boss-say-after-losing-at-leeds",
+     "source": "NBC Sports"
+    },
+    {
+     "title": "Every word De Zerbi said on crunch Tottenham meeting, Williams-Barnett dilemma and injuries",
+     "url": "https://www.football.london/tottenham-hotspur-fc/news/roberto-de-zerbi-transcript-leeds-34874141",
+     "source": "Football London"
+    }
+   ]
+  },
+  {
+   "kw": "마인츠 05 대 바이에른",
+   "traffic": "5000+",
+   "when": "11월 07일 22:40",
+   "news": [
+    {
+     "title": "“96라인 은퇴설” 김민재, 바이에른 뮌헨 선발 명단 제외…‘92라인’ 이재성은 선발 출격",
+     "url": "https://www.osen.co.kr/article/G1112906194",
+     "source": "OSEN"
+    },
+    {
+     "title": "“국가대표 은퇴해라!” 논란의 김민재, 마인츠전 예상 선발 명단 포함…이재성은 벤치 출발 전망, 코리안 더비 성사될까",
+     "url": "https://biz.chosun.com/sports/football/2026/11/07/GVRGIY3CMNRDQMZQGNTDOYRQG4/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "페드로 포로",
+   "traffic": "500+",
    "when": "11월 07일 22:20",
    "news": [
     {
@@ -24,14 +143,14 @@
    "when": "11월 07일 22:20",
    "news": [
     {
-     "title": "ดูบอลสด วิเคราะห์บอลพรีเมียร์ลีก ลีดส์ พบ สเปอร์ส 7 พ.ย.69",
-     "url": "https://www.pptvhd36.com/sport/news/286664",
-     "source": "pptvhd36.com"
-    },
-    {
      "title": "การคาดการณ์ผลการแข่งขันระหว่างลีดส์กับท็อตแนม: จุดสนใจสำคัญในการลุ้นแย่งตำแหน่งสูงสุด",
      "url": "https://www.vietnam.vn/th/nhan-dinh-leeds-vs-tottenham-diem-nong-cuoc-dua-top-dau",
      "source": "Vietnam.vn"
+    },
+    {
+     "title": "สำรองแผลงฤทธิ์ ! ลีดส์ เปิดบ้านเฉือน สเปอร์ส 1-0 หยุดสถิติ สเปอร์ส ชนะรวดใน พรีเมียร์ ลีก 2026/27",
+     "url": "https://mainstand.co.th/index.php/th/news/1/article/27491",
+     "source": "Mainstand"
     }
    ]
   },
@@ -41,122 +160,14 @@
    "when": "11월 07일 21:50",
    "news": [
     {
-     "title": "“이재명 탈옥법” 국힘, ‘조작기소 특검법’ 규탄 도심 집회",
-     "url": "https://www.donga.com/news/Politics/article/all/20261107/134983683/1",
-     "source": "동아일보"
-    },
-    {
      "title": "\"대통령 탈옥법\" 국힘 장외집회‥\"진상 드러날까 두렵나\"",
      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863931_37004.html",
      "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "닥터x 하얀 마피아의 시대",
-   "traffic": "1000+",
-   "when": "11월 07일 21:30",
-   "news": [
-    {
-     "title": "‘닥터X’ 김영민, 참 멋없는데… 누구보다 멋진 ‘진짜 의사’였다",
-     "url": "https://sports.khan.co.kr/article/202611070054003",
-     "source": "스포츠경향"
     },
     {
-     "title": "“이것이 제 선택입니다” 투표장을 등지고 생명을 살리겠다는 일념으로 수술실로 발걸음을 옮긴 손현주의 선택!",
-     "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483056078",
-     "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "sbs",
-   "traffic": "500+",
-   "when": "11월 07일 21:30",
-   "news": [
-    {
-     "title": "Cha Cheong-hwa joins SBS drama 9 to 6 as corporate support head",
-     "url": "https://biz.chosun.com/en/en-entertainment/2026/11/05/5HE6SVDTEVGWTOJWGZ4ORT5ECI/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "Cha Chung-hwa Cast as Political Management Head in 'Nine to Six'",
-     "url": "https://www.chosun.com/english/kpop-culture-en/2026/11/05/7IKXEKZ3XBDTTETMY6DI6FDFCE/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "persija jakarta vs persebaya",
-   "traffic": "200+",
-   "when": "11월 07일 21:00",
-   "news": []
-  },
-  {
-   "kw": "agf",
-   "traffic": "500+",
-   "when": "11월 07일 21:00",
-   "news": [
-    {
-     "title": "The Fed in Uncharted Territory with New Communication Policy",
-     "url": "https://perspectives.agf.com/the-fed-in-uncharted-territory-with-new-communication-policy/",
-     "source": "AGF Perspectives"
-    },
-    {
-     "title": "AGF Management : The Fed in Uncharted Territory with New Communication Policy",
-     "url": "https://www.marketscreener.com/news/agf-management-the-fed-in-uncharted-territory-with-new-communication-policy-ce785fd2da8cff2c",
-     "source": "www.marketscreener.com"
-    }
-   ]
-  },
-  {
-   "kw": "내일 날씨",
-   "traffic": "200000+",
-   "when": "11월 07일 20:50",
-   "news": [
-    {
-     "title": "[날씨] 충청권 올가을 첫 영하권...주말 나들이 옷차림 두툼",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611071646040743",
-     "source": "YTN"
-    },
-    {
-     "title": "’입동’ 추위 서울 첫얼음…내일 중부 비·강원 눈",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261107225235CVg",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "leeds vs spurs",
-   "traffic": "500+",
-   "when": "11월 07일 20:50",
-   "news": [
-    {
-     "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
-     "url": "https://www.bbc.com/sport/football/live/cmj6jdk36975t",
-     "source": "BBC"
-    },
-    {
-     "title": "Leeds United v Tottenham Hotspur: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/nov/07/leeds-united-v-tottenham-hotspur-premier-league-live",
-     "source": "The Guardian"
-    }
-   ]
-  },
-  {
-   "kw": "로또1249",
-   "traffic": "500+",
-   "when": "11월 07일 20:50",
-   "news": [
-    {
-     "title": "[속보]로또 1249회 당첨번호 '2·11·16·25·34·35'…보너스 '14'",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=03758886645643424&mediaCodeNo=257",
-     "source": "이데일리"
-    },
-    {
-     "title": "“자동 7명·수동 7명 황금 비율”… 20억 배출 명당 어디?",
-     "url": "https://www.kyeonggi.com/article/20261107580125",
-     "source": "경기일보"
+     "title": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과",
+     "url": "https://newstapa.org/article/HxPrq",
+     "source": "뉴스타파"
     }
    ]
   }
