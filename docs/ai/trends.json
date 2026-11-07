@@ -1,22 +1,102 @@
 {
- "updated": "2026-11-07 17:23",
+ "updated": "2026-11-07 18:23",
  "items": [
   {
-   "kw": "우규민",
+   "kw": "수원fc 대 경남 fc 순위",
    "traffic": "500+",
-   "when": "11월 07일 16:20",
+   "when": "11월 07일 17:20",
+   "news": []
+  },
+  {
+   "kw": "하희라",
+   "traffic": "500+",
+   "when": "11월 07일 17:10",
    "news": [
     {
-     "title": "[사진] 우규민, 볼넷허용 만루 위기",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MYZWMMRTGU3TIMRRME4GGNZQGI/",
-     "source": "조선일보"
+     "title": "최수종♥하희라도 싸운다..유일한 갈등 원인 '이것' 때문에 ('살림남')",
+     "url": "https://www.koreadaily.com/article/20261106152251067",
+     "source": "미주중앙일보"
     },
     {
-     "title": "역투하는 우규민",
-     "url": "https://www.news1.kr/photos/8202260",
+     "title": "은지원, 아내에게 쓴 편지 정체…“러브레터 아닌 변명 레터”",
+     "url": "https://sports.donga.com/ent/article/all/20261107/134983006/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "kw": "주권",
+   "traffic": "200+",
+   "when": "11월 07일 17:00",
+   "news": [
+    {
+     "title": "[박성진의 국방 B컷](69) 집속탄 사진에 흔들리는 한국과 김정은의 ‘사진 정치’",
+     "url": "https://weekly.khan.co.kr/article/202611061326001",
+     "source": "주간경향"
+    },
+    {
+     "title": "전작권 전환 대비 독자적 역량 갖추려면…\"탄약 비축 체계 보완 시급\"",
+     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6343392",
      "source": "뉴스1"
     }
    ]
+  },
+  {
+   "kw": "나탈리 하프",
+   "traffic": "200+",
+   "when": "11월 07일 16:50",
+   "news": [
+    {
+     "title": "Trump Hands Natalie Harp New Deeply Personal Role",
+     "url": "https://www.thedailybeast.com/trump-hands-natalie-harp-new-deeply-personal-role",
+     "source": "The Daily Beast"
+    },
+    {
+     "title": "Trump’s constant companion aide Natalie Harp seems to have taken on a more personal role",
+     "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-mobile-phone-natalie-harp-b3079434.html",
+     "source": "The Independent"
+    }
+   ]
+  },
+  {
+   "kw": "혈당",
+   "traffic": "2000+",
+   "when": "11월 07일 16:40",
+   "news": [
+    {
+     "title": "\"혈당 재려 손 잡았는데\"...119구급대원 폭행한 60대 벌금 700만원",
+     "url": "https://www.ikbc.co.kr/article/view/kbc202611070005",
+     "source": "KBC광주방송"
+    },
+    {
+     "title": "\"뭐하냐\" 소리치며 얼굴 '퍽'…구급대원 때린 60대 벌금형 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/07/2026110713433748825",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "김영철",
+   "traffic": "500+",
+   "when": "11월 07일 16:30",
+   "news": [
+    {
+     "title": "\"치킨 사 오겠다던 형, 그날 세상 떠나\"…김영철이 떠올린 35년 전 비극 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110710284750683",
+     "source": "머니투데이"
+    },
+    {
+     "title": "김영철·정선희, '재혼황후' 됐다..\"2시간 8분 통화, 이봉주 마라톤 기록 쯤\"",
+     "url": "https://www.osen.co.kr/article/G1112905732",
+     "source": "OSEN"
+    }
+   ]
+  },
+  {
+   "kw": "수원 kt 대 대구 한국가스공사",
+   "traffic": "500+",
+   "when": "11월 07일 16:30",
+   "news": []
   },
   {
    "kw": "젠슨황",
@@ -36,6 +116,23 @@
    ]
   },
   {
+   "kw": "우규민",
+   "traffic": "500+",
+   "when": "11월 07일 16:20",
+   "news": [
+    {
+     "title": "[사진] 우규민, 볼넷허용 만루 위기",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MYZWMMRTGU3TIMRRME4GGNZQGI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "역투하는 우규민",
+     "url": "https://www.news1.kr/photos/8202260",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
    "kw": "맥도날드",
    "traffic": "200+",
    "when": "11월 07일 16:10",
@@ -49,125 +146,6 @@
      "title": "[기자의눈] “주문하신 광고 나왔습니다”…달라진 마케팅 공식",
      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261105010001847",
      "source": "아시아투데이"
-    }
-   ]
-  },
-  {
-   "kw": "류현인",
-   "traffic": "100+",
-   "when": "11월 07일 16:10",
-   "news": [
-    {
-     "title": "류현인 ‘한 점씩 추격한다’[포토]",
-     "url": "https://www.xportsnews.com/article/2216806",
-     "source": "www.xportsnews.com"
-    },
-    {
-     "title": "생애 첫 KS, 설렘보다 분함이 앞섰던 KT 류현인 \"내가 '이것밖에 안 되나' 싶었죠\" [KS3 인터뷰]",
-     "url": "https://isplus.com/article/view/isp202611060048",
-     "source": "일간스포츠"
-    }
-   ]
-  },
-  {
-   "kw": "박승규",
-   "traffic": "1000+",
-   "when": "11월 07일 16:00",
-   "news": [
-    {
-     "title": "[포토]'따라오면 도망가면 되지' 5회말 2타점 2루타 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716150697584",
-     "source": "머니투데이"
-    },
-    {
-     "title": "이러니 좋아할 수밖에! 박승규, KT 거센 추격 따돌리는 2타점 2루타 폭발 [KS4]",
-     "url": "https://www.osen.co.kr/article/G1112905999",
-     "source": "OSEN"
-    }
-   ]
-  },
-  {
-   "kw": "루카 돈치치",
-   "traffic": "100+",
-   "when": "11월 07일 16:00",
-   "news": [
-    {
-     "title": "[스포츠 영상] '통곡의 벽' 웸반야마‥'10초 만에 3블록'",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863527_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "'돈치치가 MVP 1순위라고?' 웸반야마의 무력시위. 52P-24R, 그리고 8블록. MVP 후보 0순위 입증",
-     "url": "https://www.chosun.com/sports/basketball/2026/11/06/MNTDSZDFMY3WEZLBGE2DKMJRMY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "롯데 자이언츠",
-   "traffic": "5000+",
-   "when": "11월 07일 15:50",
-   "news": [
-    {
-     "title": "\"내가 하고 싶은 야구 찾았다\" 전미르의 '이도류' 2년 종료 → 롯데에선 어떨까 [인터뷰]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/06/MYYWGYLFMQYTONZWMVTDIYZZGM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "롯데가 설렌다, 대표팀 투수보다 구위가 더 좋았다니… 찬바람에도 150㎞, 선물이 찾아오나",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018251",
-     "source": "SPOTV NEWS"
-    }
-   ]
-  },
-  {
-   "kw": "이재희",
-   "traffic": "2000+",
-   "when": "11월 07일 15:50",
-   "news": [
-    {
-     "title": "[포토] 이재희 '내일도 등판 가능' - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716573250691",
-     "source": "머니투데이"
-    },
-    {
-     "title": "[사진]5회 선두타자 안타 뽑아내는 KT 한승택",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/07/MMZDIOLCGRQWCOJQGJSTAN3BGU/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "배찬승",
-   "traffic": "200+",
-   "when": "11월 07일 15:50",
-   "news": [
-    {
-     "title": "[포토] 배찬승, 볼 판정에 엉거주춤 항의 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/07/2026110716151460673",
-     "source": "머니투데이"
-    },
-    {
-     "title": "반갑다! 밀어내기",
-     "url": "https://www.news1.kr/photos/8202156",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "미야지",
-   "traffic": "100+",
-   "when": "11월 07일 15:30",
-   "news": [
-    {
-     "title": "[포토] 미야지 '식지 않는 인기' - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/07/2026110713554747083",
-     "source": "머니투데이"
-    },
-    {
-     "title": "\"삼성 떠났지만 애정은 더 커졌다\" 방출된 日 투수의 특별한 라팍 방문…\"다시 한국에서 뛰고 싶다\" [KS3]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/07/GJSDKZLBGEYGGYJZMI2DKOJWMQ/",
-     "source": "조선일보"
     }
    ]
   }
