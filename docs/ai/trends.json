@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-09 01:23",
+ "updated": "2026-11-09 02:23",
  "items": [
+  {
+   "kw": "premier league",
+   "traffic": "100+",
+   "when": "11월 09일 01:20",
+   "news": [
+    {
+     "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
+     "url": "https://www.bbc.com/sport/football/live/c8x23v559276t",
+     "source": "BBC"
+    },
+    {
+     "title": "Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened",
+     "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
+     "source": "The Guardian"
+    }
+   ]
+  },
+  {
+   "kw": "man utd vs aston villa",
+   "traffic": "500+",
+   "when": "11월 09일 00:40",
+   "news": [
+    {
+     "title": "Premier League: Villa lead at second-bottom Man Utd inside two minutes",
+     "url": "https://www.bbc.com/sport/football/live/cq2d6wgrey22t",
+     "source": "BBC"
+    },
+    {
+     "title": "Carrick selects side to face Aston Villa",
+     "url": "https://www.manutd.com/en/news/michael-carrick-selects-man-united-side-to-face-aston-villa",
+     "source": "Manchester United"
+    }
+   ]
+  },
+  {
+   "kw": "맨유 대 애스턴 빌라",
+   "traffic": "10000+",
+   "when": "11월 09일 00:30",
+   "news": [
+    {
+     "title": "“최악 성적 기록한 맨유… 캐릭 감독의 전술 실패가 주원인”",
+     "url": "https://weekly.donga.com/sports/article/all/11/6438610/1",
+     "source": "주간동아"
+    },
+    {
+     "title": "'스승님, 왜 13년째 우승하지 못할까요' 알렉스 퍼거슨 맨유 감독 부임 40주년 자축, 반데사르-비디치-캐릭 레전드 OT에 모였다",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/08/GVRTQNZUMFQWKOLBMI4DEYLGME/",
+     "source": "조선일보"
+    }
+   ]
+  },
   {
    "kw": "올리브영",
    "traffic": "500+",
@@ -29,9 +80,9 @@
      "source": "Vietnam.vn"
     },
     {
-     "title": "เปิดสถิติพบกัน 5 ครั้งหลังสุด คริสตัล พาเลซ VS ลิเวอร์พูล ก่อนดวลเดือดคืนนี้",
-     "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2971240",
-     "source": "www.thairath.co.th"
+     "title": "เวียร์ตซ์ ปลดล็อกประตู ลิเวอร์พูล บุกปราบ พาเลซ 3-1 คว้าสามแต้ม ก่อนเข้าบอลทีมชาติ",
+     "url": "https://mainstand.co.th/index.php/th/news/1/article/27504",
+     "source": "Mainstand"
     }
    ]
   },
@@ -58,13 +109,13 @@
    "when": "11월 08일 23:00",
    "news": [
     {
-     "title": "Crystal Palace vs Liverpool: Premier League preview, team news, stats & head-to-head",
+     "title": "Crystal Palace 1-3 Liverpool: Pierre Sage under pressure as Reds win at Selhurst Park",
      "url": "https://www.bbc.com/sport/football/live/c6r7ydrm8xlyt",
      "source": "BBC"
     },
     {
-     "title": "Crystal Palace v Liverpool: Team news",
-     "url": "https://www.liverpoolfc.com/news/crystal-palace-liverpool-team-news-premier-league",
+     "title": "Florian Wirtz reaction: 'Efficient' win at Palace and Andoni Iraola's guidance for goal",
+     "url": "https://www.liverpoolfc.com/news/florian-wirtz-reaction-crystal-palace-premier-league",
      "source": "Liverpool FC"
     }
    ]
@@ -117,57 +168,6 @@
      "title": "KSAD, 중부 칼리만탄에서 헬리콥터 추돌 사고로 사망한 TNI 요원의 장례식을 주도하다",
      "url": "https://voi.id/kr/berita/601640",
      "source": "VOI.ID"
-    }
-   ]
-  },
-  {
-   "kw": "와이스",
-   "traffic": "100+",
-   "when": "11월 08일 22:30",
-   "news": [
-    {
-     "title": "[단독] '대전 예수' 와이스, 한화 복귀 무산될 듯…미국 잔류 결정, MLB 구단과 계약 임박",
-     "url": "http://www.spochoo.com/news/articleView.html?idxno=131892",
-     "source": "더게이트"
-    },
-    {
-     "title": "자유계약 풀린 와이스는 어디로? 시카고 컵스, 신시내티행 예측도...한화 복귀 가능성은?",
-     "url": "https://news.jtbc.co.kr/video/NB12326053",
-     "source": "JTBC"
-    }
-   ]
-  },
-  {
-   "kw": "sbs",
-   "traffic": "2000+",
-   "when": "11월 08일 22:20",
-   "news": [
-    {
-     "title": "Today's SBS 8 News Preview (November 8)",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836221",
-     "source": "news.sbs.co.kr"
-    },
-    {
-     "title": "Jung Jae-hyun Claims First KPGA Tour Title at Season Finale",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/09/F4IZRCHNPFA6JMUZU3OP4AIRRM/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "브라이턴 대 브렌트퍼드",
-   "traffic": "2000+",
-   "when": "11월 08일 22:20",
-   "news": [
-    {
-     "title": "Brighton 2-0 Brentford: Diego Gomez stunners fires Seagulls up to second with win over 10-man Brentford",
-     "url": "https://www.bbc.com/sport/football/live/cqkgkwj1rpl8t",
-     "source": "BBC"
-    },
-    {
-     "title": "Gross' penalty doubles Brighton's lead over Bees",
-     "url": "https://sports.yahoo.com/videos/gross-penalty-doubles-brightons-lead-145452546.html",
-     "source": "Yahoo Sports"
     }
    ]
   }
