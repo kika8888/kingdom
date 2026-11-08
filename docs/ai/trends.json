@@ -1,9 +1,111 @@
 {
- "updated": "2026-11-08 12:23",
+ "updated": "2026-11-08 13:22",
  "items": [
   {
-   "kw": "코리안투어",
+   "kw": "lng선",
+   "traffic": "200+",
+   "when": "11월 08일 12:20",
+   "news": [
+    {
+     "title": "K조선 독주하던 LNG 운반선마저…중국 10월 수주 한국 추월",
+     "url": "https://www.yna.co.kr/view/AKR20261107049200003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "“LNG선도 중국에 내줄라”...韓, 기술 우위 지키기 과제",
+     "url": "https://www.ekn.kr/web/view.php?key=20261108023126758",
+     "source": "에너지경제신문"
+    }
+   ]
+  },
+  {
+   "kw": "earthquake",
+   "traffic": "200+",
+   "when": "11월 08일 12:20",
+   "news": [
+    {
+     "title": "Magnitude 5.7 Earthquake Hits Western Shizuoka Prefecture, Japan... \"Caution Urged for Strong Aftershocks\"",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835890",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "Strong earthquake with preliminary magnitude of 5.7 strikes Japan",
+     "url": "https://www.koreatimes.co.kr/world/20261108/strong-earthquake-with-preliminary-magnitude-of-57-strikes-japan",
+     "source": "The Korea Times"
+    }
+   ]
+  },
+  {
+   "kw": "warriors vs magic",
    "traffic": "100+",
+   "when": "11월 08일 12:20",
+   "news": [
+    {
+     "title": "[Free] *Orlando Magic vs Golden State Warriors Live 𝐒𝐭𝐫𝐞𝐚𝐦𝐬 ON NBA Free Tv Game",
+     "url": "https://www.prpeak.com/classifieds/garage-sales/garage-sales/2166413",
+     "source": "Powell River Peak"
+    },
+    {
+     "title": "Warriors' Draymond Green: Available to play",
+     "url": "https://www.cbssports.com/fantasy/basketball/news/warriors-draymond-green-available-to-play-538044/",
+     "source": "CBS Sports"
+    }
+   ]
+  },
+  {
+   "kw": "보이저 1호",
+   "traffic": "200+",
+   "when": "11월 08일 12:10",
+   "news": [
+    {
+     "title": "‘외계 생명체’와 접촉은 언제쯤?···보이저 1호, 인공 물체 최초 ‘1광일’ 도달 눈앞",
+     "url": "https://www.khan.co.kr/article/202611080800041",
+     "source": "경향신문"
+    },
+    {
+     "title": "인간의 속도, 우주의 시간",
+     "url": "https://www.chosun.com/national/weekend/2026/11/07/LQ4464KXCFBVVFJSNOTCHP3C3A/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "자동차",
+   "traffic": "10000+",
+   "when": "11월 08일 12:00",
+   "news": [
+    {
+     "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최",
+     "url": "https://newsroom.genesis.com/ko-ko/%ED%98%84%EB%8C%80%EC%B0%A8-%C2%B7%EA%B8%B0%EC%95%84-%252C-%EB%A3%A8%ED%81%AC-%EB%8F%99%EC%BB%A4%EB%B3%BC%EC%BC%80-CCO-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-%EC%A0%84%EC%8B%9C-%EA%B0%9C%EC%B5%9C/",
+     "source": "Genesis Newsroom"
+    },
+    {
+     "title": "‘제네시스 신화 어떻게 탄생했나’⋯ 현대차·기아, 동커볼케 ‘비밀 노트’ 공개",
+     "url": "https://www.viva100.com/article/20261108500210",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "허미미",
+   "traffic": "200+",
+   "when": "11월 08일 11:50",
+   "news": [
+    {
+     "title": "한국시리즈 시구한 유도 간판 허미미 \"세계랭킹 회복에 전념\"",
+     "url": "https://www.yna.co.kr/view/AKR20261107034700007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[사진]삼성 이재희, '한국시리즈 역투'",
+     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/07/MQ2TGZJUGJRTSNBYMRRTMZDEHA/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "코리안투어",
+   "traffic": "200+",
    "when": "11월 08일 11:10",
    "news": [
     {
@@ -37,7 +139,7 @@
   },
   {
    "kw": "이다현",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 08일 10:40",
    "news": [
     {
@@ -53,121 +155,19 @@
    ]
   },
   {
-   "kw": "미디어오늘",
-   "traffic": "100+",
+   "kw": "음악회",
+   "traffic": "200+",
    "when": "11월 08일 10:40",
    "news": [
     {
-     "title": "[주간政談] '올공' 집회 마무리…\"장동혁, 제도권 안으로\" - 정치 | 기사",
-     "url": "https://news.tf.co.kr/read/ptoday/2386011.htm",
-     "source": "더팩트"
+     "title": "청도읍성에 울려 퍼진 풍물가락…읍성밟기로 가을 축제 흥겨움",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002751",
+     "source": "아시아투데이"
     },
     {
-     "title": "“장동혁은 오세훈에게 찍소리 못해” 부정선거 주장하던 유튜브 태세 전환?",
-     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338238",
-     "source": "미디어오늘"
-    }
-   ]
-  },
-  {
-   "kw": "루이바오",
-   "traffic": "100+",
-   "when": "11월 08일 10:30",
-   "news": [
-    {
-     "title": "용인시, 루이·후이바오에 ‘명예시민증’… 슈바오는 ‘아기 주민증’",
-     "url": "https://www.kyeonggi.com/article/20261106580394",
-     "source": "경기일보"
-    },
-    {
-     "title": "쌍둥이 판다, 중국행 앞두고 용인 명예시민증 받아",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706067",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "자산",
-   "traffic": "5000+",
-   "when": "11월 08일 10:20",
-   "news": [
-    {
-     "title": "금융당국, 가상자산업계 잇단 해킹에 보안 책임자 소집",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611081126524B0",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "잇단 가상자산 거래소 해킹... 금감원, 가상자산사업자 CISO 소집한다",
-     "url": "https://www.boannews.com/news/articleView.html?idxno=147086",
-     "source": "보안뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "blg t1",
-   "traffic": "100+",
-   "when": "11월 08일 10:20",
-   "news": [
-    {
-     "title": "T1 Doran: “What Makes You A Great Player Is How You Get Through The Pressure”",
-     "url": "https://www.hotspawn.com/league-of-legends/news/t1-doran-worlds-2026-interview",
-     "source": "Hotspawn"
-    },
-    {
-     "title": "Claudio Castagnoli Calls League of Legends ‘the Best Sport to Watch’",
-     "url": "https://sports.yahoo.com/articles/aews-claudio-castagnoli-calls-league-012456063.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "kw": "액화천연가스",
-   "traffic": "200+",
-   "when": "11월 08일 10:10",
-   "news": [
-    {
-     "title": "K조선 독주하던 LNG 운반선마저…중국 10월 수주 한국 추월",
-     "url": "https://www.yna.co.kr/view/AKR20261107049200003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "“LNG선도 중국에 내줄라”...韓, 기술 우위 지키기 과제",
-     "url": "https://www.ekn.kr/web/view.php?key=20261108023126758",
-     "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "장재인",
-   "traffic": "500+",
-   "when": "11월 08일 10:00",
-   "news": [
-    {
-     "title": "장재인, 22세에 반신마비 진단…\"하루 2시간 자며 행사 뛰어\"",
-     "url": "https://www.newsis.com/view/NISX20261107_0003858922",
-     "source": "뉴시스"
-    },
-    {
-     "title": "\"기타 치는 게 두려웠어\" 장재인, '반신마비' 투병 당시 심경 전해",
-     "url": "https://www.nocutnews.co.kr/news/6603572",
-     "source": "노컷뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "인구감소지역",
-   "traffic": "500+",
-   "when": "11월 08일 09:50",
-   "news": [
-    {
-     "title": "경남 인구감소지역 11곳, 등록 인구↓·체류 인구↑",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706757",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "인구 10만 공주에 74만명 발길…생활인구 전국 2위",
-     "url": "https://m.ekn.kr/view.php?key=20261105021545761",
-     "source": "에너지경제신문"
+     "title": "청도군, 음악으로 물든 가을밤 주민 화합의 장",
+     "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/06/2026110600306.html",
+     "source": "뉴데일리 대구경북"
     }
    ]
   }
