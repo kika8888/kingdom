@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-09 05:23",
+ "updated": "2026-11-09 06:23",
  "items": [
   {
+   "kw": "사관학교",
+   "traffic": "100+",
+   "when": "11월 09일 05:20",
+   "news": [
+    {
+     "title": "해사 이전 반대…“통합 철회·사업비 공개해야”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706270",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[단독] 전면 통합 대신… 사관학교 분리·통합 병행 검토",
+     "url": "https://m.go.seoul.co.kr/news/politics/2026/11/09/20261109001002",
+     "source": "서울Pn"
+    }
+   ]
+  },
+  {
+   "kw": "김도영",
+   "traffic": "500+",
+   "when": "11월 09일 05:10",
+   "news": [
+    {
+     "title": "“김도영 파워, MLB에서도 통한다” MLB가 이렇게 낙관한 타자 있었나… 美에서도 커져가는 신드롬",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018468",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "'벌써' KIA 슈퍼스타 최소 1400억 꽃길 예고…美 \"곧 대형 계약 가능, 파워 ML도 통한다\"",
+     "url": "https://www.sportschosun.com/baseball/2026-11-08/202611080100053240005256",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "kw": "뉴진스",
+   "traffic": "200+",
+   "when": "11월 09일 05:10",
+   "news": [
+    {
+     "title": "330억 소송에도 각별한 뉴진스…하니·다니엘 얼굴 맞댔다",
+     "url": "https://www.newsis.com/view/NISX20261108_0003859383",
+     "source": "뉴시스"
+    },
+    {
+     "title": "‘뉴진스 퇴출’ 다니엘, 하니와 마라톤 행사서 포착",
+     "url": "https://www.mk.co.kr/news/hot-issues/12201681",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "atlético vs barcelona",
+   "traffic": "500+",
+   "when": "11월 09일 05:00",
+   "news": [
+    {
+     "title": "Atlético de Madrid - Barcelona en directo, La Liga en vivo | Fermín empata el partido antes del descanso",
+     "url": "https://elpais.com/deportes/futbol/2026-11-08/atletico-de-madrid-barcelona-en-directo-la-liga-en-vivo.html",
+     "source": "EL PAÍS"
+    },
+    {
+     "title": "Atlético-Barça: cuenta atrás para los ONCES en el Metropolitano",
+     "url": "https://es-us.noticias.yahoo.com/deportes/atl%C3%A9tico-bar%C3%A7a-atr%C3%A1s-onces-metropolitano-175000227.html",
+     "source": "Yahoo"
+    }
+   ]
+  },
+  {
+   "kw": "thứ hạng của man utd gặp aston villa",
+   "traffic": "500+",
+   "when": "11월 09일 05:00",
+   "news": [
+    {
+     "title": "'Lại là nhục nhã cho Man Utd' Kỳ tích hòa 4-4 nhưng vẫn ở vị trí xuống hạng 18... 'Mất 2 bàn trong 3 phút 42 giây' Kỷ lục buồn nhất lịch sử EPL của câu lạc bộ",
+     "url": "https://www.starnewskorea.com/vi/sports/2026/11/09/2026110904123635758",
+     "source": "스타뉴스"
+    },
+    {
+     "title": "Man United 0-0 Aston Villa: Bruno Fernandes và Matheus Cunha đá chính",
+     "url": "https://yeuthethao.net.vn/man-united-0-0-aston-villa-bruno-fernandes-va-matheus-cunha-da-chinh-d901731.html",
+     "source": "yeuthethao.net.vn"
+    }
+   ]
+  },
+  {
+   "kw": "현금",
+   "traffic": "100+",
+   "when": "11월 09일 04:50",
+   "news": [
+    {
+     "title": "삼성전자 현금 보유액 200조원 돌파... 하루 2700억원씩 늘어",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/08/P6W2K5K3DNEO3MEA4O5EJ7PX3U/",
+     "source": "조선일보"
+    },
+    {
+     "title": "“삼성전자에 돈이 이렇게 많았나”...주주에게 풀 돈도 ‘역대급’",
+     "url": "https://m.ekn.kr/view.php?key=20261108020146772",
+     "source": "에너지경제신문"
+    }
+   ]
+  },
+  {
+   "kw": "잠수함",
+   "traffic": "1000+",
+   "when": "11월 09일 04:40",
+   "news": [
+    {
+     "title": "캐나다 잠수함 발주 축소에 독 117조 공약 압박…한화 예비 지위 눈길",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611080818311806fbbec65dfb_1",
+     "source": "글로벌이코노믹"
+    },
+    {
+     "title": "\"한국 잠수함 제쳐놓더니\"…캐나다, 독일과 계약에 변수",
+     "url": "https://www.hankyung.com/article/2026110723987",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
    "kw": "아틀레티코 대 바르셀로나",
-   "traffic": "2000+",
+   "traffic": "10000+",
    "when": "11월 09일 04:10",
    "news": [
     {
@@ -12,32 +131,32 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "[라리가] 이강인, 9일 바르샤전 알바레스와 투톱 선발 예고",
-     "url": "https://www.newspim.com/news/view/20261108000003",
-     "source": "뉴스핌"
+     "title": "\"야말 나와!\" 이강인, 알바레스와 최전방 투톱 출격... '바르셀로나 사냥' 선봉장 출격 \"리그 1위 탈환한다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/09/2026110904422345453",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "사랑이 온다",
-   "traffic": "200+",
+   "traffic": "1000+",
    "when": "11월 09일 04:00",
    "news": [
     {
-     "title": "[솔직 엔딩] ＂우리 그냥 의절하면 안 돼?＂안희연 앞에서 속마음을 토로하는 배윤규 [사랑이 온다] | KBS 261108 방송",
-     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026191031-01-000_MFSC13&program_code=T2026-0039&program_id=PS-2026191031-01-000&section_code=03&broadcast_complete_yn=N&section_id=27798",
-     "source": "대한민국 대표 공영미디어 KBS"
+     "title": "‘사랑이 온다’ 진경, 하석진 향한 광기 폭발… 류승수 위로에 결국 ‘눈물’ 쏟았다",
+     "url": "https://sports.khan.co.kr/article/202611072149003",
+     "source": "스포츠경향"
     },
     {
-     "title": "‘사랑이 온다’ 배윤규, 혼인신고 직전 날벼락",
-     "url": "https://sports.khan.co.kr/article/202611081646003",
-     "source": "스포츠경향"
+     "title": "[사랑이 온다] 하석진, 회피 루트 타려는 배윤규에 현실 조언 “네가 갔던 길에 대한 대가는 치러야지”",
+     "url": "https://kstar.kbs.co.kr/list_view.html?idx=414228",
+     "source": "KBS연예"
     }
    ]
   },
   {
    "kw": "압구정동",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 09일 03:50",
    "news": [
     {
@@ -49,125 +168,6 @@
      "title": "UFC파이터 김동현도 ‘주인 근저당’ … 100억 압구정아파트 절반 집주인 돈 빌려",
      "url": "https://www.mk.co.kr/news/realestate/12196333",
      "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "f1",
-   "traffic": "200+",
-   "when": "11월 09일 03:50",
-   "news": [
-    {
-     "title": "F1 LIVE: Sao Paulo Grand Prix 2026 reaction & result as Norris wins in Interlagos",
-     "url": "https://www.bbc.com/sport/formula1/live/ckge0zygre7t",
-     "source": "BBC"
-    },
-    {
-     "title": "Mercedes wins the constructors’ title for the ninth time, tying with Williams",
-     "url": "https://www.racefans.net/2026/11/08/mercedes-wins-the-constructors-title-for-the-ninth-time-tying-with-williams/",
-     "source": "RaceFans"
-    }
-   ]
-  },
-  {
-   "kw": "닥터x 10화",
-   "traffic": "100+",
-   "when": "11월 09일 03:50",
-   "news": [
-    {
-     "title": "[다시보기] 닥터X : 하얀 마피아의 시대 10회",
-     "url": "https://programs.sbs.co.kr/drama/doctorx/vod/88585/22000639451",
-     "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "‘닥터X’ 김지원, 기적의 수술 성공...20.2% 찍었다",
-     "url": "https://www.mk.co.kr/news/broadcasting-service/12201597",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "프리미어리그 순위",
-   "traffic": "500+",
-   "when": "11월 09일 03:20",
-   "news": [
-    {
-     "title": "\"122년 동안 없었던 일이 벌어졌다\" 맨시티의 충격적인 몰락...개막 7연승→3연패, 마레스카의 꿈이 악몽으로 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/08/202611080850773835O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "도쿠, “포레스트 원정에서 스스로 어렵게 만들었다”",
-     "url": "https://kr.mancity.com/news/mens/doku-post-forest-reaction-pl-7-nov-63929682",
-     "source": "Manchester City FC"
-    }
-   ]
-  },
-  {
-   "kw": "sc 프라이부르크 대 우니온 베를린",
-   "traffic": "100+",
-   "when": "11월 09일 02:50",
-   "news": [
-    {
-     "title": "Freiburg vs Union Berlin: German Bundesliga stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cwdd8v7renyqt",
-     "source": "BBC"
-    },
-    {
-     "title": "Freiburg third after beating Union, Leverkusen beat Cologne in derby",
-     "url": "https://uk.sports.yahoo.com/news/garcia-schick-leverkusen-derby-win-163836266.html",
-     "source": "Yahoo"
-    }
-   ]
-  },
-  {
-   "kw": "빗썸",
-   "traffic": "100+",
-   "when": "11월 09일 02:50",
-   "news": [
-    {
-     "title": "24시간 거래되는 가상자산 맞춰 연중무휴 상담",
-     "url": "https://www.chosun.com/economy/industry-company/2026/11/09/IZUSQSGMHJAWJLL7GYJRXC5PZE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "빗썸, '24시간 상담·AI 서비스' 강화…고객만족도·브랜드 평가 호평",
-     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422212",
-     "source": "데일리한국"
-    }
-   ]
-  },
-  {
-   "kw": "베식타시 대 겐칠레르빌리이",
-   "traffic": "1000+",
-   "when": "11월 09일 02:30",
-   "news": [
-    {
-     "title": "Beşiktaş vs Gençlerbirliği: Turkish Süper Lig stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/c674pkj0n28wt",
-     "source": "BBC"
-    },
-    {
-     "title": "Licensable picture: Ahead of Genclerbirligi v Besiktas - Turkish Super Lig",
-     "url": "https://www.reutersconnect.com/item/ahead-of-genclerbirligi-v-besiktas-turkish-super-lig/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwRFJWNjZK",
-     "source": "Reuters Connect"
-    }
-   ]
-  },
-  {
-   "kw": "แมนยู พบ แอสตันวิลลา",
-   "traffic": "200+",
-   "when": "11월 09일 01:40",
-   "news": [
-    {
-     "title": "แมนเชสเตอร์ ยูไนเต็ด อยู่ในโซนตกชั้นก่อนเริ่มการแข่งขัน",
-     "url": "https://www.vietnam.vn/th/man-united-vao-nhom-xuong-hang-truoc-gio-bong-lan",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "ฟื้นจากความพ่ายแพ้ แมนยู ไล่เจ๊า แอสตัน วิลลา สุดมัน - ขยับขึ้นมาอยู่อันดับ 18 พรีเมียร์ลีก",
-     "url": "https://www.khaosod.co.th/sports/news_10465323",
-     "source": "ข่าวสด"
     }
    ]
   }
