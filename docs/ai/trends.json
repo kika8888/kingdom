@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-08 22:23",
+ "updated": "2026-11-08 23:23",
  "items": [
   {
-   "kw": "철도망",
+   "kw": "브라이턴 대 브렌트퍼드",
+   "traffic": "500+",
+   "when": "11월 08일 22:20",
+   "news": [
+    {
+     "title": "Brighton & Hove Albion vs Brentford: Premier League preview, team news, stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cqkgkwj1rpl8t",
+     "source": "BBC"
+    },
+    {
+     "title": "Brighton vs Brentford LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream",
+     "url": "https://www.skysports.com/football/live-blog/13592882/brighton-vs-brentford-live-premier-league-score-updates-news-prediction-line-ups-and-how-to-watch-or-stream",
+     "source": "Sky Sports"
+    }
+   ]
+  },
+  {
+   "kw": "sbs",
+   "traffic": "500+",
+   "when": "11월 08일 22:20",
+   "news": [
+    {
+     "title": "Today's SBS 8 News Preview (November 8)",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836221",
+     "source": "news.sbs.co.kr"
+    },
+    {
+     "title": "21-Year-Old Jung Jae-hyun Secures First Regular Tour Win at KPGA 2026 Season Finale",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836085",
+     "source": "news.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "sunderland vs chelsea",
+   "traffic": "500+",
+   "when": "11월 08일 22:20",
+   "news": [
+    {
+     "title": "Starting XI: Will Le Bris Stick Or Twist For Crunch Clash With Chelsea?",
+     "url": "https://rokerreport.sbnation.com/haway-the-podcast/158804/starting-xi-will-le-bris-stick-or-twist-for-crunch-clash-with-chelsea",
+     "source": "Roker Report"
+    },
+    {
+     "title": "(WAY) TO WATCH Ipswich vs Bournemouth LIVE Streams Reddit ON TV CHANNEL",
+     "url": "https://www.goldderby.com/topic/way-to-watch-ipswich-vs-bournemouth-live-streams-reddit-on-tv-channel/",
+     "source": "Gold Derby"
+    }
+   ]
+  },
+  {
+   "kw": "크리스털 팰리스 대 리버풀",
+   "traffic": "2000+",
+   "when": "11월 08일 22:10",
+   "news": [
+    {
+     "title": "프리미어 리그 크리스탈 팰리스 대 리버풀 점수 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-crystal-palace-vs-liverpool-tai-premier-league-1796643.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "\"90%는 윙어로 쓸 겁니다!\"…리버풀 이라올라 감독이 직접 밝힌 속내→2연패에 공격수 부상까지, 바르콜라 최전방 기용한 이유",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100487",
+     "source": "포포투"
+    }
+   ]
+  },
+  {
+   "kw": "tvn",
    "traffic": "100+",
+   "when": "11월 08일 21:50",
+   "news": [
+    {
+     "title": "Teatr 6. piętro zmienia decyzję. Co ze spektaklami?",
+     "url": "https://www.pudelek.pl/fala-oburzenia-po-decyzji-teatru-6-pietro-dyrekcja-zmienila-zdanie-spektakle-zostaja-ostatecznie-odwolane-7348811862288864a",
+     "source": "Pudelek.pl"
+    },
+    {
+     "title": "Kolejni artyści odwołują występy po tragedii w Krakowie. Wśród nich Krzysztof Cugowski i Ralph Kaminski",
+     "url": "https://muzyka.interia.pl/pop/news-kolejni-artysci-odwoluja-wystepy-po-tragedii-w-krakowie-wsro,nId,23570749",
+     "source": "Interia Muzyka"
+    }
+   ]
+  },
+  {
+   "kw": "철도망",
+   "traffic": "200+",
    "when": "11월 08일 21:20",
    "news": [
     {
@@ -54,7 +139,7 @@
   },
   {
    "kw": "국민 총소득",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 08일 20:20",
    "news": [
     {
@@ -80,83 +165,9 @@
      "source": "경향신문"
     },
     {
-     "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
-     "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2",
+     "title": "서울대 총장 최종 후보에 최해천…교내 평가 1위 탈락은 12년만",
+     "url": "https://www.donga.com/news/Society/article/all/20261108/134987507/1",
      "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "김세레나",
-   "traffic": "200+",
-   "when": "11월 08일 19:10",
-   "news": []
-  },
-  {
-   "kw": "wec",
-   "traffic": "200+",
-   "when": "11월 08일 19:00",
-   "news": [
-    {
-     "title": "Fuoco puts Ferrari on pole at Monza",
-     "url": "https://www.fiawec.com/en/news/fuoco-puts-ferrari-on-pole-at-monza/13928",
-     "source": "WEC"
-    },
-    {
-     "title": "Two Toyotas, three titles to settle: When and where to watch the WEC finale at Monza",
-     "url": "https://grandepremio.com/en/endurance/wec/6-hours-of-monza-2026-where-to-watch-the-wec-finale-live-and-when-the-race-starts/",
-     "source": "Grande Prêmio"
-    }
-   ]
-  },
-  {
-   "kw": "박한이",
-   "traffic": "100+",
-   "when": "11월 08일 19:00",
-   "news": [
-    {
-     "title": "[포토] 디아즈, 어쩌다 타격감 상 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/08/2026110817500911158",
-     "source": "머니투데이"
-    },
-    {
-     "title": "[사진]부상으로 실려나가는 권동진",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/08/MEYDONZSMJQTIOLDMIZDIZJTGY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "생계",
-   "traffic": "2000+",
-   "when": "11월 08일 18:30",
-   "news": [
-    {
-     "title": "“연금 오르면 뭐하나”…생계급여 삭감에 빈곤노인 78만명은 답보 상태",
-     "url": "https://www.segye.com/newsView/20261108504769",
-     "source": "세계일보"
-    },
-    {
-     "title": "기초연금 3만원 더 받는 저소득층, 생계급여 삭감…인상 효과 미미",
-     "url": "https://www.donga.com/news/Society/article/all/20261108/134985262/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "광안리해수욕장",
-   "traffic": "200+",
-   "when": "11월 08일 18:30",
-   "news": [
-    {
-     "title": "광안리 해변에 돗자리 깔아두고 ‘10만 원’…중학생까지 자릿세 장사",
-     "url": "https://www.segye.com/newsView/20261108507475",
-     "source": "세계일보"
-    },
-    {
-     "title": "100만 인파 몰렸다‥부산불꽃축제",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863938_37004.html",
-     "source": "MBC 뉴스"
     }
    ]
   }
