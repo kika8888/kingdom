@@ -1,9 +1,111 @@
 {
- "updated": "2026-11-08 18:23",
+ "updated": "2026-11-08 19:23",
  "items": [
   {
+   "kw": "수능",
+   "traffic": "500+",
+   "when": "11월 08일 18:20",
+   "news": [
+    {
+     "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=846466",
+     "source": "제민일보"
+    },
+    {
+     "title": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611081615422561",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "최태원",
+   "traffic": "2000+",
+   "when": "11월 08일 18:00",
+   "news": [
+    {
+     "title": "서울대 강단 선 최태원…“AI시대 복합 위기, ‘4대 해법’으로 뚫자”",
+     "url": "https://www.sedaily.com/article/20110913",
+     "source": "서울경제"
+    },
+    {
+     "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998",
+     "source": "아시아투데이"
+    }
+   ]
+  },
+  {
+   "kw": "기아",
+   "traffic": "10000+",
+   "when": "11월 08일 17:50",
+   "news": [
+    {
+     "title": "현대차·기아, 루크 동커볼케 CCO 디자인 아카이브 전시 개최",
+     "url": "https://newsroom.genesis.com/ko-ko/%ED%98%84%EB%8C%80%EC%B0%A8-%C2%B7%EA%B8%B0%EC%95%84-%252C-%EB%A3%A8%ED%81%AC-%EB%8F%99%EC%BB%A4%EB%B3%BC%EC%BC%80-CCO-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C-%EC%A0%84%EC%8B%9C-%EA%B0%9C%EC%B5%9C/",
+     "source": "Genesis Newsroom"
+    },
+    {
+     "title": "‘제네시스 신화 어떻게 탄생했나’⋯ 현대차·기아, 동커볼케 ‘비밀 노트’ 공개",
+     "url": "https://www.viva100.com/article/20261108500210",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "파주 대 충남 아산 fc",
+   "traffic": "200+",
+   "when": "11월 08일 17:40",
+   "news": [
+    {
+     "title": "충남아산FC, ‘준우승 주역’ 황기욱·박한근 전역 후 복귀",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109709",
+     "source": "충청매일"
+    },
+    {
+     "title": "\"파주 팬들에게 기쁨을 선사하겠다\" 제라드 누스의 남은 시즌 목표는? [케터뷰]",
+     "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216619",
+     "source": "풋볼리스트"
+    }
+   ]
+  },
+  {
+   "kw": "천안 시티 fc 대 부산 아이파크 순위",
+   "traffic": "500+",
+   "when": "11월 08일 17:30",
+   "news": [
+    {
+     "title": "'이규민 데뷔골' 천안시티, 갈길 바쁜 부산 잡고 홈 3연승",
+     "url": "https://www.newsis.com/view/NISX20261108_0003859426",
+     "source": "뉴시스"
+    },
+    {
+     "title": "천안시티 박진섭 감독 \"잘 버텨준 선수들에게 감사\"",
+     "url": "https://www.newsis.com/view/NISX20261108_0003859443",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "스포츠",
+   "traffic": "200+",
+   "when": "11월 08일 17:30",
+   "news": [
+    {
+     "title": "[포토] 아디다스코리아, 구일역 체육시설 재단장 '야간 스포츠 축제 개최'",
+     "url": "https://www.etnews.com/20261108000047",
+     "source": "전자신문"
+    },
+    {
+     "title": "아디다스, 서울시와 함께 구일역 체육시설 새 단장",
+     "url": "https://www.newsis.com/view/NISI20261108_0021524522",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
    "kw": "서울교통공사 채용",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 08일 17:20",
    "news": []
   },
@@ -26,7 +128,7 @@
   },
   {
    "kw": "김재서",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 08일 17:10",
    "news": [
     {
@@ -42,121 +144,19 @@
    ]
   },
   {
-   "kw": "김우석",
-   "traffic": "500+",
-   "when": "11월 08일 16:50",
-   "news": [
-    {
-     "title": "‘닥터X’ 김우석, 전국환 살해 시도… ‘햇살 인턴’ 섬뜩한 반전",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01331686645643752&mediaCodeNo=257",
-     "source": "이데일리"
-    },
-    {
-     "title": "닥터X : 하얀 마피아의 시대 : [11회 예고] “실패해 주시면 안 될까요?” 김우석, 김지원에게 간절한 부탁",
-     "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483056440",
-     "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "권동진",
-   "traffic": "2000+",
-   "when": "11월 08일 16:40",
-   "news": [
-    {
-     "title": "2021 목발 투혼 어디 갔나…자만한 kt, 신기루처럼 사라진 2026",
-     "url": "https://www.yna.co.kr/view/AKR20261108022600007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[포토] 고영표 '핵잠투로 잠재우리' - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/08/2026110815415245634",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "주권",
+   "kw": "2026 한국시리즈",
    "traffic": "200+",
-   "when": "11월 08일 16:40",
+   "when": "11월 08일 17:10",
    "news": [
     {
-     "title": "’12·3 국민주권의 날’ 이번 달 기념일 지정…기록물 1,625건 등록",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611081759505QP",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "12·3 '빛의 혁명' 기념일 이달 지정…기록물 1625점 등록",
-     "url": "https://www.newsis.com/view/NISX20261108_0003859320",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "우규민",
-   "traffic": "1000+",
-   "when": "11월 08일 16:30",
-   "news": [
-    {
-     "title": "\"괜찮아?\" 만루서 적으로 만난 41세 절친, '반지 전쟁'보다 진했던 우정, 이것이 '낭만 야구'[KS]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/08/GA3GIOJXHEZDKMZXHA4DKZRTG4/",
+     "title": "\"이겨야 빨리 빼준다\" 박진만 감독이 공개한 '투덜이' 최형우 조기 퇴근 조건[KS]",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/07/GQ4TGYLDHFRTIZLBG4YDEZJRG4/",
      "source": "조선일보"
     },
     {
-     "title": "“괜찮아?” 야구팬 울린 41세 베테랑의 한마디, 벼랑 끝 왜 적 상태 걱정했나 “마음 아파서…강민호 대단하고 존경해” [KS5] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/08/202611081241776267O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "공기업",
-   "traffic": "1000+",
-   "when": "11월 08일 16:20",
-   "news": [
-    {
-     "title": "‘국민체육진흥공단 이어 코레일도’… 충주상고, 공기업 합격 ‘대박’",
-     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109601",
-     "source": "충청매일"
-    },
-    {
-     "title": "충주상고 박시은, 코레일 최종 합격",
-     "url": "https://www.inews365.com/news/article.html?no=942507",
-     "source": "충북일보"
-    }
-   ]
-  },
-  {
-   "kw": "박진만",
-   "traffic": "1000+",
-   "when": "11월 08일 16:20",
-   "news": [
-    {
-     "title": "선수로 6번·감독으로 첫 정상…'부드러운 승부사' 삼성 박진만",
-     "url": "https://www.yna.co.kr/view/AKR20261108021800007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'2006 KS MVP' 유격수 박진만, 20년 후엔 KS 우승 사령탑으로[삼성 KS 우승]",
-     "url": "https://www.newsis.com/view/NISX20261108_0003859388",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "창원 lg 대 부산 kcc",
-   "traffic": "1000+",
-   "when": "11월 08일 16:10",
-   "news": [
-    {
-     "title": "허웅+롱+킹 91점 폭발한 프로농구 KCC, 안방에서 EASL 2연승",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8705274",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "프로농구 KCC, EASL서 마카오 108-94 격파…2연승 질주",
-     "url": "https://www.newsis.com/view/NISX20261105_0003857016",
-     "source": "뉴시스"
+     "title": "[KS4] 구자욱 살리려면 최형우가 뛰어야 한다...삼성 우승 향한 특별한 동행",
+     "url": "https://www.newspim.com/news/view/20261107000059",
+     "source": "뉴스핌"
     }
    ]
   }
