@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 09:23",
+ "updated": "2026-11-08 09:28",
  "items": [
   {
    "kw": "코스피 11% 급락 원인과 정부의 반대매매 완화 조치 내용 알려줘",
@@ -30,14 +30,14 @@
    "when": "11월 08일 08:10",
    "news": [
     {
-     "title": "SEAvLAFC Starting XI: Coach Schmetzer names his lineup for Decision Day clash with LAFC",
-     "url": "https://www.soundersfc.com/news/seavlafc-starting-xi-coach-schmetzer-names-his-lineup-for-decision-day-clash-with-lafc",
-     "source": "Seattle Sounders FC"
+     "title": "Valencia 0-3 Real Madrid (Nov 7, 2026) Player Stats",
+     "url": "https://www.espn.com/soccer/player-stats/_/gameId/401882808",
+     "source": "ESPN"
     },
     {
-     "title": "Sounders vs. LAFC, livestream: Kickoff, lineups, updates",
-     "url": "https://www.sounderatheart.com/2026/11/sounders-vs-lafc-livestream-kickoff-lineups-updates/",
-     "source": "Sounder at Heart"
+     "title": "Alabama trounces LSU 31-13 in Baton Rouge",
+     "url": "https://www.espn.com/video/clip/_/id/50414109/alabama-trounces-lsu-31-13-baton-rouge",
+     "source": "ESPN"
     }
    ]
   },
@@ -72,6 +72,23 @@
      "title": "Zelenskyy Says North Korean KN-23 Missiles Used in Ukraine Energy Attacks",
      "url": "https://www.chosun.com/english/world-en/2026/11/08/GJR3FXN4CZCRRKT7FFCYDTQDNY/",
      "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "전공의",
+   "traffic": "200+",
+   "when": "11월 08일 08:10",
+   "news": [
+    {
+     "title": "‘전공의 부족 해결·9월 인턴’ 이중 과제",
+     "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942351",
+     "source": "데일리메디"
+    },
+    {
+     "title": "\"수술할 의사가 사라진다\"…외과 소멸 위기에 의료계 '초비상'",
+     "url": "https://www.hankyung.com/article/202611058590i",
+     "source": "한국경제"
     }
    ]
   },
@@ -116,36 +133,19 @@
    ]
   },
   {
-   "kw": "남구",
-   "traffic": "100+",
+   "kw": "valencia cf vs real madrid standings",
+   "traffic": "1000+",
    "when": "11월 08일 07:40",
    "news": [
     {
-     "title": "부산 용호동서 오토바이가 좌회전 승용차와 충돌…1명 부상",
-     "url": "https://www.yna.co.kr/view/AKR20261107028000051",
-     "source": "연합뉴스"
+     "title": "Real Madrid beat Valencia to move level on points with leaders Barcelona",
+     "url": "https://www.bbc.com/sport/football/live/c9y7l4p8v268t",
+     "source": "BBC"
     },
     {
-     "title": "교차로에서 오토바이와 승용차 충돌...2명 다쳐",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611071301545916_005.html",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "박서진",
-   "traffic": "100+",
-   "when": "11월 08일 07:40",
-   "news": [
-    {
-     "title": "박서진, 父 실수에 결국 폭발…한 달 공들인 민화에 물 쏟았다",
-     "url": "https://sports.donga.com/ent/article/all/20261108/134984079/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "박서진 父, 밥 안 해준 아내에 삐쳐 가출했다가 아들 그림 망가뜨려('살림남2')",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/07/GBRGKODBG5RTSMZWMRRTMNLGGY/",
-     "source": "Chosunbiz"
+     "title": "Guler pounces on rebound to double Real Madrid's lead at Mestalla",
+     "url": "https://www.besoccer.com/new/guler-pounces-on-rebound-to-double-real-madrids-lead-at-mestalla-1439944",
+     "source": "BeSoccer Livescore"
     }
    ]
   }
