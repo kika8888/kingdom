@@ -1,27 +1,10 @@
 {
- "updated": "2026-11-08 20:22",
+ "updated": "2026-11-08 21:23",
  "items": [
   {
-   "kw": "김세레나",
-   "traffic": "200+",
-   "when": "11월 08일 19:10",
-   "news": [
-    {
-     "title": "김세레나 \"첫 남편 유부남인 줄 몰랐다\"…굴곡진 인생사 털어놔",
-     "url": "https://www.segye.com/newsView/20261106501275",
-     "source": "세계일보"
-    },
-    {
-     "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "최해천",
-   "traffic": "100+",
-   "when": "11월 08일 19:10",
+   "kw": "최해천 교수",
+   "traffic": "500+",
+   "when": "11월 08일 20:00",
    "news": [
     {
      "title": "차기 서울대 총장에 최해천 기계공학부 교수",
@@ -36,14 +19,20 @@
    ]
   },
   {
+   "kw": "김세레나",
+   "traffic": "200+",
+   "when": "11월 08일 19:10",
+   "news": []
+  },
+  {
    "kw": "wec",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 08일 19:00",
    "news": [
     {
      "title": "Fuoco puts Ferrari on pole at Monza",
      "url": "https://www.fiawec.com/en/news/fuoco-puts-ferrari-on-pole-at-monza/13928",
-     "source": "FIA WEC"
+     "source": "WEC"
     },
     {
      "title": "Two Toyotas, three titles to settle: When and where to watch the WEC finale at Monza",
@@ -58,14 +47,14 @@
    "when": "11월 08일 18:30",
    "news": [
     {
+     "title": "내년에 25조 쏟아붓는 기초연금…생계급여 깎여 노인빈곤 개선 '헛바퀴'",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01908966645643752&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
      "title": "“연금 오르면 뭐하나”…생계급여 삭감에 빈곤노인 78만명은 답보 상태",
      "url": "https://www.segye.com/newsView/20261108504769",
      "source": "세계일보"
-    },
-    {
-     "title": "기초연금 3만원 더 받는 저소득층, 생계급여 삭감…인상 효과 미미",
-     "url": "https://www.donga.com/news/Society/article/all/20261108/134985262/1",
-     "source": "동아일보"
     }
    ]
   },
@@ -92,14 +81,14 @@
    "when": "11월 08일 18:20",
    "news": [
     {
-     "title": "수능 열흘 앞으로…생활 리듬 관리 잘해야",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=846466",
-     "source": "제민일보"
-    },
-    {
      "title": "\"수능 최대 변수는 국어\"...N수생 20만 명 역대 최다",
      "url": "https://www.ytn.co.kr/_ln/0103_202611081615422561",
      "source": "YTN"
+    },
+    {
+     "title": "수험생 가족의 촛불 공양",
+     "url": "https://www.news1.kr/photos/8203052",
+     "source": "뉴스1"
     }
    ]
   },
