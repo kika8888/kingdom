@@ -1,6 +1,91 @@
 {
- "updated": "2026-11-09 04:36",
+ "updated": "2026-11-09 05:23",
  "items": [
+  {
+   "kw": "아틀레티코 대 바르셀로나",
+   "traffic": "2000+",
+   "when": "11월 09일 04:10",
+   "news": [
+    {
+     "title": "[엠빅뉴스] ‘이강인 질문’에 발끈한 시메오네 감독? 기자가 안절부절못하자..",
+     "url": "https://imnews.imbc.com/original/mbig/6864035_29041.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "[라리가] 이강인, 9일 바르샤전 알바레스와 투톱 선발 예고",
+     "url": "https://www.newspim.com/news/view/20261108000003",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "사랑이 온다",
+   "traffic": "200+",
+   "when": "11월 09일 04:00",
+   "news": [
+    {
+     "title": "[솔직 엔딩] ＂우리 그냥 의절하면 안 돼?＂안희연 앞에서 속마음을 토로하는 배윤규 [사랑이 온다] | KBS 261108 방송",
+     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026191031-01-000_MFSC13&program_code=T2026-0039&program_id=PS-2026191031-01-000&section_code=03&broadcast_complete_yn=N&section_id=27798",
+     "source": "대한민국 대표 공영미디어 KBS"
+    },
+    {
+     "title": "‘사랑이 온다’ 배윤규, 혼인신고 직전 날벼락",
+     "url": "https://sports.khan.co.kr/article/202611081646003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "압구정동",
+   "traffic": "500+",
+   "when": "11월 09일 03:50",
+   "news": [
+    {
+     "title": "좀만 참을 걸…김동현 100억에 산 압구정현대, 80억대로",
+     "url": "https://www.munhwa.com/article/11628648",
+     "source": "문화일보"
+    },
+    {
+     "title": "UFC파이터 김동현도 ‘주인 근저당’ … 100억 압구정아파트 절반 집주인 돈 빌려",
+     "url": "https://www.mk.co.kr/news/realestate/12196333",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "f1",
+   "traffic": "200+",
+   "when": "11월 09일 03:50",
+   "news": [
+    {
+     "title": "F1 LIVE: Sao Paulo Grand Prix 2026 reaction & result as Norris wins in Interlagos",
+     "url": "https://www.bbc.com/sport/formula1/live/ckge0zygre7t",
+     "source": "BBC"
+    },
+    {
+     "title": "Mercedes wins the constructors’ title for the ninth time, tying with Williams",
+     "url": "https://www.racefans.net/2026/11/08/mercedes-wins-the-constructors-title-for-the-ninth-time-tying-with-williams/",
+     "source": "RaceFans"
+    }
+   ]
+  },
+  {
+   "kw": "닥터x 10화",
+   "traffic": "100+",
+   "when": "11월 09일 03:50",
+   "news": [
+    {
+     "title": "[다시보기] 닥터X : 하얀 마피아의 시대 10회",
+     "url": "https://programs.sbs.co.kr/drama/doctorx/vod/88585/22000639451",
+     "source": "programs.sbs.co.kr"
+    },
+    {
+     "title": "‘닥터X’ 김지원, 기적의 수술 성공...20.2% 찍었다",
+     "url": "https://www.mk.co.kr/news/broadcasting-service/12201597",
+     "source": "매일경제"
+    }
+   ]
+  },
   {
    "kw": "프리미어리그 순위",
    "traffic": "500+",
@@ -29,15 +114,32 @@
      "source": "BBC"
     },
     {
-     "title": "Bundesliga Player Ratings | Freiburg 2 -0 Union Berlin",
-     "url": "https://www.getfootballnewsgermany.com/2026/bundesliga-md9-freiburg-union-ratings/",
-     "source": "Get German Football News"
+     "title": "Freiburg third after beating Union, Leverkusen beat Cologne in derby",
+     "url": "https://uk.sports.yahoo.com/news/garcia-schick-leverkusen-derby-win-163836266.html",
+     "source": "Yahoo"
+    }
+   ]
+  },
+  {
+   "kw": "빗썸",
+   "traffic": "100+",
+   "when": "11월 09일 02:50",
+   "news": [
+    {
+     "title": "24시간 거래되는 가상자산 맞춰 연중무휴 상담",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/09/IZUSQSGMHJAWJLL7GYJRXC5PZE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "빗썸, '24시간 상담·AI 서비스' 강화…고객만족도·브랜드 평가 호평",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1422212",
+     "source": "데일리한국"
     }
    ]
   },
   {
    "kw": "베식타시 대 겐칠레르빌리이",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 09일 02:30",
    "news": [
     {
@@ -66,108 +168,6 @@
      "title": "ฟื้นจากความพ่ายแพ้ แมนยู ไล่เจ๊า แอสตัน วิลลา สุดมัน - ขยับขึ้นมาอยู่อันดับ 18 พรีเมียร์ลีก",
      "url": "https://www.khaosod.co.th/sports/news_10465323",
      "source": "ข่าวสด"
-    }
-   ]
-  },
-  {
-   "kw": "man utd đấu với aston villa",
-   "traffic": "200+",
-   "when": "11월 09일 01:40",
-   "news": [
-    {
-     "title": "Kết quả bóng đá MU - Aston Villa: 8 bàn rượt đuổi điên rồ (Ngoại hạng Anh)",
-     "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-mu-aston-villa-6-ban-ruot-duoi-hap-dan-ngoai-hang-anh-c48a1809466.html",
-     "source": "Tin tức 24h"
-    },
-    {
-     "title": "曼联对阵阿斯顿维拉直播：半场结束，2-2 战平",
-     "url": "https://www.vietnam.vn/zh-cn/truc-tieptruc-tiep-manchester-united-vs-aston-villa-het-hiep-1-hoa-2-2",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "premier league",
-   "traffic": "1000+",
-   "when": "11월 09일 01:20",
-   "news": [
-    {
-     "title": "Premier League LIVE: Build-up, team news, live text, radio & score updates from across the Premier League",
-     "url": "https://www.bbc.com/sport/football/live/c8x23v559276t",
-     "source": "BBC"
-    },
-    {
-     "title": "Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened",
-     "url": "https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live",
-     "source": "The Guardian"
-    }
-   ]
-  },
-  {
-   "kw": "전력",
-   "traffic": "500+",
-   "when": "11월 09일 01:10",
-   "news": [
-    {
-     "title": "\"사막에 지어야 할지도\"…데이터센터 전략 다시 짜는 美 AI 기업들",
-     "url": "https://zdnet.co.kr/view/?no=20261108030741",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "\"이러다 전기 다 빨린다\"…국가전력 30% 먹는 '흡혈귀' 정체",
-     "url": "https://www.hankyung.com/article/2026110832841",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "man utd vs aston villa",
-   "traffic": "2000+",
-   "when": "11월 09일 00:40",
-   "news": [
-    {
-     "title": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
-     "url": "https://www.theguardian.com/football/2026/nov/08/manchester-united-aston-villa-premier-league-match-report",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Man Utd 4-4 Aston Villa: Patrick Dorgu levels in the 96th minute as United come from two down TWICE to earn incredible draw",
-     "url": "https://www.skysports.com/football/news/13593226/man-utd-4-4-aston-villa-patrick-dorgu-levels-in-the-96th-minute-as-united-come-from-two-down-twice-to-earn-incredible-draw",
-     "source": "Sky Sports"
-    }
-   ]
-  },
-  {
-   "kw": "맨유 대 애스턴 빌라",
-   "traffic": "20000+",
-   "when": "11월 09일 00:30",
-   "news": [
-    {
-     "title": "“최악 성적 기록한 맨유… 캐릭 감독의 전술 실패가 주원인”",
-     "url": "https://weekly.donga.com/sports/article/all/11/6438610/1",
-     "source": "주간동아"
-    },
-    {
-     "title": "'스승님, 왜 13년째 우승하지 못할까요' 알렉스 퍼거슨 맨유 감독 부임 40주년 자축, 반데사르-비디치-캐릭 레전드 OT에 모였다",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/08/GVRTQNZUMFQWKOLBMI4DEYLGME/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "올리브영",
-   "traffic": "500+",
-   "when": "11월 09일 00:10",
-   "news": [
-    {
-     "title": "‘올리브영 쿠폰’으로 고객 잡기 나선 네카오 [정지은의 테크킥]",
-     "url": "https://www.hankyung.com/article/202611082799i",
-     "source": "한국경제"
-    },
-    {
-     "title": "네이버, 올영 제휴·소상공인 상생 등 ‘플랫폼 동반 성장’ 가속화",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3446479",
-     "source": "천지일보"
     }
    ]
   }
