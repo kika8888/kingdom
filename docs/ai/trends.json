@@ -1,6 +1,108 @@
 {
- "updated": "2026-11-08 09:28",
+ "updated": "2026-11-08 10:23",
  "items": [
+  {
+   "kw": "메이저 리그 베이스볼",
+   "traffic": "100+",
+   "when": "11월 08일 09:20",
+   "news": [
+    {
+     "title": "'WBC 한국전 세이브' 대만 투수 쩡쥔웨, MLB 진출 도전",
+     "url": "https://www.news1.kr/sports/overseas-baseball/6346604",
+     "source": "뉴스1"
+    },
+    {
+     "title": "WBC서 한국 울린 대만 마무리, 이제는 MLB 도전장…포스팅 절차 돌입",
+     "url": "https://isplus.com/article/view/isp202611080032",
+     "source": "일간스포츠"
+    }
+   ]
+  },
+  {
+   "kw": "밥",
+   "traffic": "1000+",
+   "when": "11월 08일 08:50",
+   "news": [
+    {
+     "title": "“30분 만에 밥이 뚝딱”…1만원 '마카롱 밥솥' 써보니[득템기]",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01118486645643752&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "햇반 30주년 ‘갓 지은 AI디어 공모전’… 13일까지 접수",
+     "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71631",
+     "source": "한국영농신문"
+    }
+   ]
+  },
+  {
+   "kw": "남대문시장",
+   "traffic": "500+",
+   "when": "11월 08일 08:50",
+   "news": [
+    {
+     "title": "몰려드는 인파 '통제불가'…남대문 스카프 아저씨, 경호원까지 고용 [지금이뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0545_202611061650015146",
+     "source": "YTN"
+    },
+    {
+     "title": "\"사지 마\" 말리는데도 산다…요즘 SNS 뒤집어놓은 '이 가게' [권용훈의 트렌드워치]",
+     "url": "https://www.hankyung.com/article/202611069848i",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "기초 연구",
+   "traffic": "100+",
+   "when": "11월 08일 08:40",
+   "news": [
+    {
+     "title": "[김우재의 플라이룸](89) 빈 의자의 R&D…예산은 39.5조원, 사람은 왜 늘지 않나",
+     "url": "https://weekly.khan.co.kr/article/202611061327001",
+     "source": "주간경향"
+    },
+    {
+     "title": "2027년도 기초연구사업 2.91조 원 투자 총 과제 수 18,516개로 역대 최대 지원",
+     "url": "https://www.ibric.org/bric/trend/bio-news.do?mode=view&articleNo=10063428&title=2027%EB%85%84%EB%8F%84+%EA%B8%B0%EC%B4%88%EC%97%B0%EA%B5%AC%EC%82%AC%EC%97%85+2.91%EC%A1%B0+%EC%9B%90+%ED%88%AC%EC%9E%90+%EC%B4%9D+%EA%B3%BC%EC%A0%9C+%EC%88%98+18%2C516%EA%B0%9C%EB%A1%9C+%EC%97%AD%EB%8C%80+%EC%B5%9C%EB%8C%80+%EC%A7%80%EC%9B%90",
+     "source": "BRIC"
+    }
+   ]
+  },
+  {
+   "kw": "솔트레이크 대 la 갤럭시",
+   "traffic": "5000+",
+   "when": "11월 08일 08:30",
+   "news": [
+    {
+     "title": "How the LA Galaxy can clinch a spot in the Audi 2026 MLS Cup Playoffs",
+     "url": "https://www.lagalaxy.com/news/how-the-la-galaxy-can-clinch-a-spot-in-the-audi-2026-mls-cup-playoffs",
+     "source": "LA Galaxy"
+    },
+    {
+     "title": "Real Salt Lake vs LA Galaxy Prediction, Betting Tips, Lineups & Odds | 07 Nov 2026",
+     "url": "https://www.sportsgambler.com/betting-tips/football/real-salt-lake-vs-la-galaxy-prediction-lineups-odds-2026-11-07/",
+     "source": "Sportsgambler"
+    }
+   ]
+  },
+  {
+   "kw": "상호저축은행",
+   "traffic": "200+",
+   "when": "11월 08일 08:30",
+   "news": [
+    {
+     "title": "'1000억 족쇄' 못 푼 저축은행… 자산관리회사 설립 해 넘긴다 - 머니투데이",
+     "url": "https://www.mt.co.kr/finance/2026/11/08/2026110614230969126",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[기획] 신협, 자산관리회사 설립 본격화… 부실자산 관리 전문성 강화:시사앤피플",
+     "url": "https://www.sisanpeople.com/17200",
+     "source": "시사앤피플"
+    }
+   ]
+  },
   {
    "kw": "코스피 11% 급락 원인과 정부의 반대매매 완화 조치 내용 알려줘",
    "traffic": "500+",
@@ -8,36 +110,19 @@
    "news": []
   },
   {
-   "kw": "리암 델랍",
-   "traffic": "500+",
-   "when": "11월 08일 08:20",
-   "news": [
-    {
-     "title": "[속보] ‘충격’ 현실···맨유 결국 ‘PL 18위 강등권’ 추락, 맨시티의 예상 못한 패배의 나비 효과, 빌라...",
-     "url": "https://sports.khan.co.kr/article/202611080508003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "도쿠, “포레스트 원정에서 스스로 어렵게 만들었다”",
-     "url": "https://kr.mancity.com/news/mens/doku-post-forest-reaction-pl-7-nov-63929682",
-     "source": "Manchester City FC"
-    }
-   ]
-  },
-  {
    "kw": "시애틀 사운더스 대 엘에이 fc",
-   "traffic": "10000+",
+   "traffic": "20000+",
    "when": "11월 08일 08:10",
    "news": [
     {
-     "title": "Valencia 0-3 Real Madrid (Nov 7, 2026) Player Stats",
-     "url": "https://www.espn.com/soccer/player-stats/_/gameId/401882808",
-     "source": "ESPN"
+     "title": "시애틀 사운더스 vs 로스앤젤레스 FC 예측: 우승 경쟁의 뜨거운 대결",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-seattle-sounders-vs-los-angeles-fc-diem-nong-cuoc-dua-top-dau",
+     "source": "Vietnam.vn"
     },
     {
-     "title": "Alabama trounces LSU 31-13 in Baton Rouge",
-     "url": "https://www.espn.com/video/clip/_/id/50414109/alabama-trounces-lsu-31-13-baton-rouge",
-     "source": "ESPN"
+     "title": "[오피셜]'최종 결정의 날' LA FC 손흥민 선발 낙점, 시애틀 원정 리그 8호골 도전",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/08/GUZDGNBXHE2WGODEMU3TANRZGU/",
+     "source": "조선일보"
     }
    ]
   },
@@ -47,20 +132,20 @@
    "when": "11월 08일 08:10",
    "news": [
     {
-     "title": "최대 미스터리! 107억 다승왕까지 대기했는데, 5회 만루 찬스→왜 대타 안 썼나 \"김상수 연습 때는 잘 쳤는데…\" [KS4]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/08/MZRTIZRQMU4TSODFGU3TAMZTGI/",
-     "source": "조선일보"
+     "title": "장찬희·이재희 호투+박승규 3타점 펄펄…삼성, 12년 만의 KS 정상까지 ‘1승’ 남았다.",
+     "url": "https://www.munhwa.com/article/11629549",
+     "source": "문화일보"
     },
     {
-     "title": "삼성, 한국시리즈 3승 선점‥오늘 5차전",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863972_37012.html",
-     "source": "MBC 뉴스"
+     "title": "'90승' 1위팀 우승 확률 고작 5.3%라니…승패패패 충격→600승 명장 최후의 총력전 선언 “고영표 소형준까지 대기” [KS] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/08/202611080729775319O",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "kn-23",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 08일 08:10",
    "news": [
     {
@@ -72,80 +157,6 @@
      "title": "Zelenskyy Says North Korean KN-23 Missiles Used in Ukraine Energy Attacks",
      "url": "https://www.chosun.com/english/world-en/2026/11/08/GJR3FXN4CZCRRKT7FFCYDTQDNY/",
      "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "전공의",
-   "traffic": "200+",
-   "when": "11월 08일 08:10",
-   "news": [
-    {
-     "title": "‘전공의 부족 해결·9월 인턴’ 이중 과제",
-     "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942351",
-     "source": "데일리메디"
-    },
-    {
-     "title": "\"수술할 의사가 사라진다\"…외과 소멸 위기에 의료계 '초비상'",
-     "url": "https://www.hankyung.com/article/202611058590i",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "신인감독 김연경",
-   "traffic": "200+",
-   "when": "11월 08일 08:10",
-   "news": []
-  },
-  {
-   "kw": "세균",
-   "traffic": "2000+",
-   "when": "11월 08일 08:00",
-   "news": [
-    {
-     "title": "‘집에서만 입으니 괜찮다’는 착각… 잠옷 알고 보면 ‘세균 덩어리’",
-     "url": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110601112.html",
-     "source": "헬스조선"
-    },
-    {
-     "title": "“발암물질 덩어리”… 미국 의사들 절대 안 쓰는 생활용품 3",
-     "url": "https://health.chosun.com/site/data/html_dir/2026/11/06/2026110602384.html",
-     "source": "헬스조선"
-    }
-   ]
-  },
-  {
-   "kw": "아는 형님",
-   "traffic": "200+",
-   "when": "11월 08일 07:50",
-   "news": [
-    {
-     "title": "김현철, 유재석에 축의금 환불 요구?...\"혜택이 없다\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/07/2026110722173962019",
-     "source": "머니투데이"
-    },
-    {
-     "title": "김현철 \"유재석 결혼 축의금 50만원…환불해줬으면 해\"",
-     "url": "https://www.newsis.com/view/NISX20261107_0003859066",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "valencia cf vs real madrid standings",
-   "traffic": "1000+",
-   "when": "11월 08일 07:40",
-   "news": [
-    {
-     "title": "Real Madrid beat Valencia to move level on points with leaders Barcelona",
-     "url": "https://www.bbc.com/sport/football/live/c9y7l4p8v268t",
-     "source": "BBC"
-    },
-    {
-     "title": "Guler pounces on rebound to double Real Madrid's lead at Mestalla",
-     "url": "https://www.besoccer.com/new/guler-pounces-on-rebound-to-double-real-madrids-lead-at-mestalla-1439944",
-     "source": "BeSoccer Livescore"
     }
    ]
   }
