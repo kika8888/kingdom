@@ -1,26 +1,111 @@
 {
- "updated": "2026-11-08 11:23",
+ "updated": "2026-11-08 12:23",
  "items": [
   {
+   "kw": "코리안투어",
+   "traffic": "100+",
+   "when": "11월 08일 11:10",
+   "news": [
+    {
+     "title": "Hwang Jae-min Maintains Lead on Day Two of KPGA Tour Championship, Pursuing First Win at Age 40",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008835433",
+     "source": "news.sbs.co.kr"
+    },
+    {
+     "title": "Scorecard Error Disqualifies Jang Yu-bin, Ends Prize Money Lead",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/06/TKN5DK6MHVFVNHJ7C6UVC7VDV4/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "미스 베트남",
+   "traffic": "1000+",
+   "when": "11월 08일 10:50",
+   "news": [
+    {
+     "title": "2026년 미스 베트남에 하노이 소녀 Nguyen Yen Trang이 선정되었습니다.",
+     "url": "https://www.vietnam.vn/ko/co-gai-ha-noi-nguyen-yen-trang-dang-quang-hoa-hau-viet-nam-2026",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "새로운 미스 베트남 응우옌 짱(Nguyen Yen Trang)의 첫 걸음.",
+     "url": "https://www.vietnam.vn/ko/nhung-buoc-chan-dau-tien-cua-tan-hoa-hau-nguyen-yen-trang",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "이다현",
+   "traffic": "500+",
+   "when": "11월 08일 10:40",
+   "news": [
+    {
+     "title": "‘환상 블로킹’ 韓 미녀 스타 이다현이 경기 끝냈다…10득점 맹활약, NEC 2연패 탈출→3위 도약",
+     "url": "https://www.chosun.com/sports/volleyball/2026/11/08/MVSGKNBYMFRTGNRTHFQTIMJQGY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "이다현 '매치 포인트' 만든 블로킹 포함 10점 제몫…히로타 26점 NEC, 아란마레와 주말 2연전 첫날 승리",
+     "url": "https://mydaily.co.kr/page/view/2026110717402841925",
+     "source": "마이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "미디어오늘",
+   "traffic": "100+",
+   "when": "11월 08일 10:40",
+   "news": [
+    {
+     "title": "[주간政談] '올공' 집회 마무리…\"장동혁, 제도권 안으로\" - 정치 | 기사",
+     "url": "https://news.tf.co.kr/read/ptoday/2386011.htm",
+     "source": "더팩트"
+    },
+    {
+     "title": "“장동혁은 오세훈에게 찍소리 못해” 부정선거 주장하던 유튜브 태세 전환?",
+     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338238",
+     "source": "미디어오늘"
+    }
+   ]
+  },
+  {
+   "kw": "루이바오",
+   "traffic": "100+",
+   "when": "11월 08일 10:30",
+   "news": [
+    {
+     "title": "용인시, 루이·후이바오에 ‘명예시민증’… 슈바오는 ‘아기 주민증’",
+     "url": "https://www.kyeonggi.com/article/20261106580394",
+     "source": "경기일보"
+    },
+    {
+     "title": "쌍둥이 판다, 중국행 앞두고 용인 명예시민증 받아",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706067",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
    "kw": "자산",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 08일 10:20",
    "news": [
     {
-     "title": "금융자산 35억인데…60대 부부, 세금 줄이고 월 1200만원 쓰는 법",
-     "url": "https://www.hankyung.com/article/202611058584i",
-     "source": "한국경제"
+     "title": "금융당국, 가상자산업계 잇단 해킹에 보안 책임자 소집",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611081126524B0",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "노후 자금 10억 압박에 포기하셨나요? ‘곳간’ 말고 ‘우물’을 파라",
-     "url": "https://story.pay.naver.com/content/3847",
-     "source": "네이버페이 머니스토리"
+     "title": "잇단 가상자산 거래소 해킹... 금감원, 가상자산사업자 CISO 소집한다",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147086",
+     "source": "보안뉴스"
     }
    ]
   },
   {
    "kw": "blg t1",
-   "traffic": "200+",
+   "traffic": "100+",
    "when": "11월 08일 10:20",
    "news": [
     {
@@ -53,25 +138,8 @@
    ]
   },
   {
-   "kw": "첫눈",
-   "traffic": "500+",
-   "when": "11월 08일 10:00",
-   "news": [
-    {
-     "title": "\"이대로 겨울 오는 건 아냐\"...때 이른 추위, 언제까지? [Y녹취록]",
-     "url": "https://www.ytn.co.kr/_ln/0134_202611080929115361_001",
-     "source": "YTN"
-    },
-    {
-     "title": "쌀쌀하고 흐린 주말…산불 주의",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706864",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
    "kw": "장재인",
-   "traffic": "100+",
+   "traffic": "500+",
    "when": "11월 08일 10:00",
    "news": [
     {
@@ -88,7 +156,7 @@
   },
   {
    "kw": "인구감소지역",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 08일 09:50",
    "news": [
     {
@@ -97,76 +165,8 @@
      "source": "KBS 뉴스"
     },
     {
-     "title": "공주에 무슨 일?… 생활인구 14만명 늘며 전국 2위 도약",
-     "url": "https://www.newsis.com/view/NISX20261105_0003856782",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "이자",
-   "traffic": "500+",
-   "when": "11월 08일 09:50",
-   "news": [
-    {
-     "title": "대기업·중소기업 '양극화' 심화…이자보상비율 격차 '최대'",
-     "url": "https://www.asiae.co.kr/article/2026110810553584575",
-     "source": "아시아경제"
-    },
-    {
-     "title": "기업간 '초양극화'…대·중소기업 이자보상비율 격차 최대",
-     "url": "https://stock.mk.co.kr/news/view/1193139",
-     "source": "매일경제 마켓"
-    }
-   ]
-  },
-  {
-   "kw": "우박",
-   "traffic": "200+",
-   "when": "11월 08일 09:50",
-   "news": [
-    {
-     "title": "세계 곳곳 우박 피해 속출…우박이 점점 커지는 이유",
-     "url": "https://www.dongascience.com/ko/news/80745",
-     "source": "DongA Science"
-    },
-    {
-     "title": "\"우박 폭풍 얼마나 심했길래…\" 기체 찌그러지고 조종석 유리 깨지고",
-     "url": "https://www.sportschosun.com/life/2026-10-30/202610300100195980013750",
-     "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "kw": "코리아 그랜드 뮤직 어워즈",
-   "traffic": "1000+",
-   "when": "11월 08일 09:40",
-   "news": [
-    {
-     "title": "튜이드, 데뷔 2개월 반만에 ‘2026 KGMA’ 첫 신인상 수상 ‘대세 신인’",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/08/GY3DQMTDMZSGMMRUHEYDSNDGMQ/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'대세' 리센느, 'KGMA' 4관왕…소속사 대표도 수상-리더 원이 MC 데뷔",
-     "url": "https://www.nocutnews.co.kr/news/6603610",
-     "source": "노컷뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "sk하이닉스",
-   "traffic": "20000+",
-   "when": "11월 08일 09:30",
-   "news": [
-    {
-     "title": "지난주 삼전닉스 7조 던진 외인...보유율도 최저",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611080926229369_005.html",
-     "source": "YTN"
-    },
-    {
-     "title": "“20% 빠져도 개미는 샀다”...외국인 ‘등 돌린’ 삼전닉스",
-     "url": "https://m.ekn.kr/view.php?key=20261108022326765",
+     "title": "인구 10만 공주에 74만명 발길…생활인구 전국 2위",
+     "url": "https://m.ekn.kr/view.php?key=20261105021545761",
      "source": "에너지경제신문"
     }
    ]
