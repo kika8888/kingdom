@@ -1,9 +1,117 @@
 {
- "updated": "2026-11-08 17:22",
+ "updated": "2026-11-08 18:23",
  "items": [
   {
-   "kw": "공기업",
+   "kw": "서울교통공사 채용",
+   "traffic": "100+",
+   "when": "11월 08일 17:20",
+   "news": []
+  },
+  {
+   "kw": "이승엽",
+   "traffic": "100+",
+   "when": "11월 08일 17:20",
+   "news": [
+    {
+     "title": "‘라이언킹’ 삼성 전설 이승엽 시구에 캡틴 구자욱이 답했다",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706380",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "'와' 국민타자 생생 증언, \"김도영 모르는 사람 없어\"…'어나더 클래스' 슈퍼스타, 도쿄돔 3번째 쇼케이스 준비 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/07/202611070221776603O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "김재서",
+   "traffic": "1000+",
+   "when": "11월 08일 17:10",
+   "news": [
+    {
+     "title": "김민경, 게임 개발자 일상에 반했다? “좋은 신랑감” (전착시)",
+     "url": "https://sports.donga.com/ent/article/all/20261108/134984561/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "'모솔연애2' 김재서, '게임 괴인'으로 돌아온다…메이크오버 소용없던 '회사생활 24시'('전착시')",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018488",
+     "source": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "kw": "김우석",
    "traffic": "500+",
+   "when": "11월 08일 16:50",
+   "news": [
+    {
+     "title": "‘닥터X’ 김우석, 전국환 살해 시도… ‘햇살 인턴’ 섬뜩한 반전",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01331686645643752&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "닥터X : 하얀 마피아의 시대 : [11회 예고] “실패해 주시면 안 될까요?” 김우석, 김지원에게 간절한 부탁",
+     "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483056440",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "권동진",
+   "traffic": "2000+",
+   "when": "11월 08일 16:40",
+   "news": [
+    {
+     "title": "2021 목발 투혼 어디 갔나…자만한 kt, 신기루처럼 사라진 2026",
+     "url": "https://www.yna.co.kr/view/AKR20261108022600007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[포토] 고영표 '핵잠투로 잠재우리' - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/08/2026110815415245634",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "주권",
+   "traffic": "200+",
+   "when": "11월 08일 16:40",
+   "news": [
+    {
+     "title": "’12·3 국민주권의 날’ 이번 달 기념일 지정…기록물 1,625건 등록",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611081759505QP",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "12·3 '빛의 혁명' 기념일 이달 지정…기록물 1625점 등록",
+     "url": "https://www.newsis.com/view/NISX20261108_0003859320",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "우규민",
+   "traffic": "1000+",
+   "when": "11월 08일 16:30",
+   "news": [
+    {
+     "title": "\"괜찮아?\" 만루서 적으로 만난 41세 절친, '반지 전쟁'보다 진했던 우정, 이것이 '낭만 야구'[KS]",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/08/GA3GIOJXHEZDKMZXHA4DKZRTG4/",
+     "source": "조선일보"
+    },
+    {
+     "title": "“괜찮아?” 야구팬 울린 41세 베테랑의 한마디, 벼랑 끝 왜 적 상태 걱정했나 “마음 아파서…강민호 대단하고 존경해” [KS5] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/08/202611081241776267O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "공기업",
+   "traffic": "1000+",
    "when": "11월 08일 16:20",
    "news": [
     {
@@ -19,143 +127,35 @@
    ]
   },
   {
+   "kw": "박진만",
+   "traffic": "1000+",
+   "when": "11월 08일 16:20",
+   "news": [
+    {
+     "title": "선수로 6번·감독으로 첫 정상…'부드러운 승부사' 삼성 박진만",
+     "url": "https://www.yna.co.kr/view/AKR20261108021800007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'2006 KS MVP' 유격수 박진만, 20년 후엔 KS 우승 사령탑으로[삼성 KS 우승]",
+     "url": "https://www.newsis.com/view/NISX20261108_0003859388",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
    "kw": "창원 lg 대 부산 kcc",
-   "traffic": "500+",
-   "when": "11월 08일 16:10",
-   "news": [
-    {
-     "title": "[나는농구선수다] 부산 KCC 전시윤 “7이 두 개, 행운도 두 배”… 리바운드에서 직감한 승리",
-     "url": "https://www.pennmike.com/news/articleView.html?idxno=131284",
-     "source": "펜앤마이크"
-    },
-    {
-     "title": "KBL 6개 구단 유소년팀 출전…전국 농구 최강전 부산서 개막",
-     "url": "https://m.ekn.kr/view.php?key=20261108021006825",
-     "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "기사",
    "traffic": "1000+",
    "when": "11월 08일 16:10",
    "news": [
     {
-     "title": "[카드뉴스] 제6회 올해의 기호자치의정대상 수상자 선정",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040225",
-     "source": "기호일보"
-    },
-    {
-     "title": "[특별기고] \"그린벨트 농지, 현실에 맞는 대책 필요\"",
-     "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=455012",
-     "source": "굿모닝충청"
-    }
-   ]
-  },
-  {
-   "kw": "이강철",
-   "traffic": "100+",
-   "when": "11월 08일 16:10",
-   "news": [
-    {
-     "title": "'벼랑 끝 KT' 선수단에 어떤 이야기? 이강철 쿨한 답변 \"어제(7일) 다 이야기해서 안 했다\" [KS5 현장] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/08/2026110810291978432",
-     "source": "머니투데이"
-    },
-    {
-     "title": "벼랑 끝 kt, 안현민 대신 장진혁 선발 기용…수비 강화",
-     "url": "https://www.yna.co.kr/view/AKR20261108025900007",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "부천 대 포항",
-   "traffic": "1000+",
-   "when": "11월 08일 16:00",
-   "news": []
-  },
-  {
-   "kw": "대학 입학",
-   "traffic": "500+",
-   "when": "11월 08일 16:00",
-   "news": [
-    {
-     "title": "'인서울 신입생' 서울 고교 출신 29.9%…최근 6년새 최저치",
-     "url": "https://www.yna.co.kr/view/AKR20261108020800530",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "서울 산다고 대학도 '인서울'?…신입생 10명 중 7명은 타 지역 출신",
-     "url": "https://view.asiae.co.kr/article/2026110815141452391",
-     "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "크보",
-   "traffic": "200+",
-   "when": "11월 08일 16:00",
-   "news": [
-    {
-     "title": "\"51 consecutive sellouts, yet still 400 fans short\" — KBO's three-year streak of 300,000 postseason spectators may end just out of reach... It all hinges on Samsung's bid for a championship after 12 years [KS5 On-Site]",
-     "url": "https://www.starnewskorea.com/en/sports/2026/11/08/2026110809313751805",
-     "source": "스타뉴스"
-    },
-    {
-     "title": "Samsung-KT Korean Series Game 5 Sells Out 23,550 Seats",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/08/7VZVYHOBARBMFE4JFWMABMYC3A/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "대한축구협회",
-   "traffic": "100+",
-   "when": "11월 08일 16:00",
-   "news": [
-    {
-     "title": "대한축구협회 ‘연내 회장 선거’ 무산…FIFA, 개혁안에 우려 표명",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706920",
+     "title": "허웅+롱+킹 91점 폭발한 프로농구 KCC, 안방에서 EASL 2연승",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8705274",
      "source": "KBS 뉴스"
     },
     {
-     "title": "대한축구협회 ’연내 회장 선거’ 무산…FIFA, 선거 개혁안에 제동",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261108145500s1d",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "강원 대 전북",
-   "traffic": "2000+",
-   "when": "11월 08일 15:50",
-   "news": [
-    {
-     "title": "전북도 강원도 물러설 곳 없다...승점 단 1점 차, 3위 도약이냐 6위 추락이냐 '강릉 혈투' 예고 [오!쎈 프리뷰] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/08/202611071940777032O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "[현장인터뷰] 물러설 수 없는 '5위' 전북과 '6위' 강원...정경호 \"터닝 포인트될 경기\"vs정정용 \"자신감 갖고 득점해주길\"",
-     "url": "https://www.sportschosun.com/football/2026-11-08/202611080100056770005525",
-     "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "kw": "강민호",
-   "traffic": "2000+",
-   "when": "11월 08일 15:50",
-   "news": [
-    {
-     "title": "삼성, 승리가 보인다",
-     "url": "https://www.yna.co.kr/view/PYH20261108095300013?section=photo/major",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "강민호 '자욱아 형도 해냈다'",
-     "url": "https://www.newsis.com/view/NISI20261108_0021524627",
+     "title": "프로농구 KCC, EASL서 마카오 108-94 격파…2연승 질주",
+     "url": "https://www.newsis.com/view/NISX20261105_0003857016",
      "source": "뉴시스"
     }
    ]
