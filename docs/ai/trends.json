@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-08 19:23",
+ "updated": "2026-11-08 20:22",
  "items": [
   {
+   "kw": "김세레나",
+   "traffic": "200+",
+   "when": "11월 08일 19:10",
+   "news": [
+    {
+     "title": "김세레나 \"첫 남편 유부남인 줄 몰랐다\"…굴곡진 인생사 털어놔",
+     "url": "https://www.segye.com/newsView/20261106501275",
+     "source": "세계일보"
+    },
+    {
+     "title": "'성형 부작용' 김세레나 근황…\"100억 빌려 주고 못 받아\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/06/2026110523315220253",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "최해천",
+   "traffic": "100+",
+   "when": "11월 08일 19:10",
+   "news": [
+    {
+     "title": "차기 서울대 총장에 최해천 기계공학부 교수",
+     "url": "https://www.chosun.com/national/national_general/2026/11/08/3R5JJK6GPJBH5OQCKJELN67FDQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "서울대 총장 최종 후보에 최해천 공과대학 교수 선출",
+     "url": "https://www.donga.com/news/Society/article/all/20261108/134987457/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "wec",
+   "traffic": "100+",
+   "when": "11월 08일 19:00",
+   "news": [
+    {
+     "title": "Fuoco puts Ferrari on pole at Monza",
+     "url": "https://www.fiawec.com/en/news/fuoco-puts-ferrari-on-pole-at-monza/13928",
+     "source": "FIA WEC"
+    },
+    {
+     "title": "Two Toyotas, three titles to settle: When and where to watch the WEC finale at Monza",
+     "url": "https://grandepremio.com/en/endurance/wec/6-hours-of-monza-2026-where-to-watch-the-wec-finale-live-and-when-the-race-starts/",
+     "source": "Grande Prêmio"
+    }
+   ]
+  },
+  {
+   "kw": "생계",
+   "traffic": "2000+",
+   "when": "11월 08일 18:30",
+   "news": [
+    {
+     "title": "“연금 오르면 뭐하나”…생계급여 삭감에 빈곤노인 78만명은 답보 상태",
+     "url": "https://www.segye.com/newsView/20261108504769",
+     "source": "세계일보"
+    },
+    {
+     "title": "기초연금 3만원 더 받는 저소득층, 생계급여 삭감…인상 효과 미미",
+     "url": "https://www.donga.com/news/Society/article/all/20261108/134985262/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "광안리해수욕장",
+   "traffic": "200+",
+   "when": "11월 08일 18:30",
+   "news": [
+    {
+     "title": "광안리 해변에 돗자리 깔아두고 ‘10만 원’…중학생까지 자릿세 장사",
+     "url": "https://www.segye.com/newsView/20261108507475",
+     "source": "세계일보"
+    },
+    {
+     "title": "100만 인파 몰렸다‥부산불꽃축제",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863938_37004.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
    "kw": "수능",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 08일 18:20",
    "news": [
     {
@@ -20,18 +105,18 @@
   },
   {
    "kw": "최태원",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 08일 18:00",
    "news": [
-    {
-     "title": "서울대 강단 선 최태원…“AI시대 복합 위기, ‘4대 해법’으로 뚫자”",
-     "url": "https://www.sedaily.com/article/20110913",
-     "source": "서울경제"
-    },
     {
      "title": "맏형 최태원의 28년 궤적… SK 행복 씨앗으로 ‘국가 AI’ 설계",
      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261109010002998",
      "source": "아시아투데이"
+    },
+    {
+     "title": "최태원 “돈이 너무 많이 풀려...롤러코스피 이어질 것”",
+     "url": "https://www.mk.co.kr/news/business/12200335",
+     "source": "매일경제"
     }
    ]
   },
@@ -63,8 +148,8 @@
      "source": "충청매일"
     },
     {
-     "title": "\"파주 팬들에게 기쁨을 선사하겠다\" 제라드 누스의 남은 시즌 목표는? [케터뷰]",
-     "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216619",
+     "title": "‘헤더 동점골’ 파주 유재준, “이승우·포든 보며 배워” 축구는 신장이 아닌 심장으로 [케터뷰]",
+     "url": "https://www.footballist.co.kr/news/articleView.html?idxno=216629",
      "source": "풋볼리스트"
     }
    ]
@@ -83,80 +168,6 @@
      "title": "천안시티 박진섭 감독 \"잘 버텨준 선수들에게 감사\"",
      "url": "https://www.newsis.com/view/NISX20261108_0003859443",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "스포츠",
-   "traffic": "200+",
-   "when": "11월 08일 17:30",
-   "news": [
-    {
-     "title": "[포토] 아디다스코리아, 구일역 체육시설 재단장 '야간 스포츠 축제 개최'",
-     "url": "https://www.etnews.com/20261108000047",
-     "source": "전자신문"
-    },
-    {
-     "title": "아디다스, 서울시와 함께 구일역 체육시설 새 단장",
-     "url": "https://www.newsis.com/view/NISI20261108_0021524522",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "서울교통공사 채용",
-   "traffic": "200+",
-   "when": "11월 08일 17:20",
-   "news": []
-  },
-  {
-   "kw": "이승엽",
-   "traffic": "100+",
-   "when": "11월 08일 17:20",
-   "news": [
-    {
-     "title": "‘라이언킹’ 삼성 전설 이승엽 시구에 캡틴 구자욱이 답했다",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706380",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "'와' 국민타자 생생 증언, \"김도영 모르는 사람 없어\"…'어나더 클래스' 슈퍼스타, 도쿄돔 3번째 쇼케이스 준비 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/07/202611070221776603O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "김재서",
-   "traffic": "2000+",
-   "when": "11월 08일 17:10",
-   "news": [
-    {
-     "title": "김민경, 게임 개발자 일상에 반했다? “좋은 신랑감” (전착시)",
-     "url": "https://sports.donga.com/ent/article/all/20261108/134984561/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "'모솔연애2' 김재서, '게임 괴인'으로 돌아온다…메이크오버 소용없던 '회사생활 24시'('전착시')",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018488",
-     "source": "SPOTV NEWS"
-    }
-   ]
-  },
-  {
-   "kw": "2026 한국시리즈",
-   "traffic": "200+",
-   "when": "11월 08일 17:10",
-   "news": [
-    {
-     "title": "\"이겨야 빨리 빼준다\" 박진만 감독이 공개한 '투덜이' 최형우 조기 퇴근 조건[KS]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/07/GQ4TGYLDHFRTIZLBG4YDEZJRG4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[KS4] 구자욱 살리려면 최형우가 뛰어야 한다...삼성 우승 향한 특별한 동행",
-     "url": "https://www.newspim.com/news/view/20261107000059",
-     "source": "뉴스핌"
     }
    ]
   }
