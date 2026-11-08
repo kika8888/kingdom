@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-09 00:05",
+ "updated": "2026-11-09 01:23",
  "items": [
   {
-   "kw": "palace vs liverpool",
+   "kw": "올리브영",
+   "traffic": "500+",
+   "when": "11월 09일 00:10",
+   "news": [
+    {
+     "title": "‘올리브영 쿠폰’으로 고객 잡기 나선 네카오 [정지은의 테크킥]",
+     "url": "https://www.hankyung.com/article/202611082799i",
+     "source": "한국경제"
+    },
+    {
+     "title": "네이버, 올영 제휴·소상공인 상생 등 ‘플랫폼 동반 성장’ 가속화",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3446479",
+     "source": "천지일보"
+    }
+   ]
+  },
+  {
+   "kw": "คริสตัลพาเลซ พบ ลิเวอร์พูล",
    "traffic": "200+",
+   "when": "11월 08일 23:20",
+   "news": [
+    {
+     "title": "การทำนายผลการแข่งขันรอบที่ 10 โดยคอมพิวเตอร์: การล่าแต้มของลิเวอร์พูล แมนเชสเตอร์ ยูไนเต็ด และเชลซี",
+     "url": "https://www.vietnam.vn/th/may-tinh-du-doan-vong-10-cuoc-san-diem-so-cua-liverpool-man-united-va-chelsea",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "เปิดสถิติพบกัน 5 ครั้งหลังสุด คริสตัล พาเลซ VS ลิเวอร์พูล ก่อนดวลเดือดคืนนี้",
+     "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2971240",
+     "source": "www.thairath.co.th"
+    }
+   ]
+  },
+  {
+   "kw": "snow",
+   "traffic": "100+",
+   "when": "11월 08일 23:20",
+   "news": [
+    {
+     "title": "Seoul Sees First Snow 12 Days Earlier Than Average Amid Early Cold Snap",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836268",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "[Tomorrow's Weather] Cloudy and Rainy Nationwide Monday... Early-Winter Chill to Continue for Now",
+     "url": "https://www.asiae.co.kr/en/article/2026110820021658120",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  {
+   "kw": "palace vs liverpool",
+   "traffic": "500+",
    "when": "11월 08일 23:00",
    "news": [
     {
@@ -12,15 +63,15 @@
      "source": "BBC"
     },
     {
-     "title": "Andoni Iraola feels Liverpool ‘too honest’ so miss out with refereeing decisions",
-     "url": "https://www.birmingham-now.co.uk/sport/national/26708284.andoni-iraola-feels-liverpool-too-honest-miss-refereeing-decisions/",
-     "source": "https://www.birmingham-now.co.uk/"
+     "title": "Crystal Palace v Liverpool: Team news",
+     "url": "https://www.liverpoolfc.com/news/crystal-palace-liverpool-team-news-premier-league",
+     "source": "Liverpool FC"
     }
    ]
   },
   {
    "kw": "원더독스",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 08일 23:00",
    "news": [
     {
@@ -29,9 +80,9 @@
      "source": "이데일리"
     },
     {
-     "title": "‘필승 원더독스’ 시즌2 첫 직관 경기서 짜릿한 역전승 거둘 수 있을까 (신인감독 김연경2)",
-     "url": "https://sports.khan.co.kr/article/202611080738003",
-     "source": "스포츠경향"
+     "title": "'신인감독 김연경2', 하효림vs이나연 '자존심 맞대결'→신흥 콤비 '옌쿠시' 등장 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110818357287811",
+     "source": "머니투데이"
     }
    ]
   },
@@ -41,31 +92,14 @@
    "when": "11월 08일 22:40",
    "news": [
     {
-     "title": "Elche vs Real Betis: Lineups, Prediction, Odds & Bet Builder Tip",
-     "url": "https://www.whoscored.com/articles/8QuZRsskSEGTgxuE7av-9g/show/cng111-20261108-elche-vs-real-betis-prediction-1794114324",
-     "source": "WhoScored.com"
+     "title": "Elche v Betis (08/11/2026)",
+     "url": "https://www.flashscore.com/match/football/betis-vJbTeCGP/elche-4jl02tPF/h2h/overall/?mid=S88X9hRp",
+     "source": "Flashscore.com"
     },
     {
      "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
-     "url": "https://www.firstpost.com/football-news/live-score/stats/bha-vs-bre-190590/",
+     "url": "https://www.firstpost.com/football-news/live-score/stats/sun-vs-che-190598/",
      "source": "Firstpost"
-    }
-   ]
-  },
-  {
-   "kw": "와이스",
-   "traffic": "100+",
-   "when": "11월 08일 22:30",
-   "news": [
-    {
-     "title": "[단독] '대전 예수' 와이스, 한화 복귀 무산될 듯…미국 잔류 결정, MLB 구단과 계약 임박",
-     "url": "http://www.spochoo.com/news/articleView.html?idxno=131892",
-     "source": "더게이트"
-    },
-    {
-     "title": "자유계약 풀린 와이스는 어디로? 시카고 컵스, 신시내티행 예측도...한화 복귀 가능성은?",
-     "url": "https://news.jtbc.co.kr/video/NB12326053",
-     "source": "JTBC"
     }
    ]
   },
@@ -87,19 +121,19 @@
    ]
   },
   {
-   "kw": "브라이턴 대 브렌트퍼드",
-   "traffic": "1000+",
-   "when": "11월 08일 22:20",
+   "kw": "와이스",
+   "traffic": "100+",
+   "when": "11월 08일 22:30",
    "news": [
     {
-     "title": "Brighton & Hove Albion vs Brentford: Premier League preview, team news, stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cqkgkwj1rpl8t",
-     "source": "BBC"
+     "title": "[단독] '대전 예수' 와이스, 한화 복귀 무산될 듯…미국 잔류 결정, MLB 구단과 계약 임박",
+     "url": "http://www.spochoo.com/news/articleView.html?idxno=131892",
+     "source": "더게이트"
     },
     {
-     "title": "Brentford predicted XI vs Brighton: Bees eye back-to-back wins to gatecrash top four race",
-     "url": "https://sports.yahoo.com/articles/brentford-predicted-xi-vs-brighton-000000348.html",
-     "source": "Yahoo Sports"
+     "title": "자유계약 풀린 와이스는 어디로? 시카고 컵스, 신시내티행 예측도...한화 복귀 가능성은?",
+     "url": "https://news.jtbc.co.kr/video/NB12326053",
+     "source": "JTBC"
     }
    ]
   },
@@ -114,60 +148,26 @@
      "source": "news.sbs.co.kr"
     },
     {
-     "title": "21-Year-Old Jung Jae-hyun Secures First Regular Tour Win at KPGA 2026 Season Finale",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836085",
-     "source": "news.sbs.co.kr"
+     "title": "Jung Jae-hyun Claims First KPGA Tour Title at Season Finale",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/09/F4IZRCHNPFA6JMUZU3OP4AIRRM/",
+     "source": "조선일보"
     }
    ]
   },
   {
-   "kw": "sunderland vs chelsea",
-   "traffic": "500+",
+   "kw": "브라이턴 대 브렌트퍼드",
+   "traffic": "2000+",
    "when": "11월 08일 22:20",
    "news": [
     {
-     "title": "Sunderland vs Chelsea: Premier League preview, team news, stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cwm23qne5pqyt",
+     "title": "Brighton 2-0 Brentford: Diego Gomez stunners fires Seagulls up to second with win over 10-man Brentford",
+     "url": "https://www.bbc.com/sport/football/live/cqkgkwj1rpl8t",
      "source": "BBC"
     },
     {
-     "title": "Starting XI: Will Le Bris Stick Or Twist For Crunch Clash With Chelsea?",
-     "url": "https://rokerreport.sbnation.com/haway-the-podcast/158804/starting-xi-will-le-bris-stick-or-twist-for-crunch-clash-with-chelsea",
-     "source": "Roker Report"
-    }
-   ]
-  },
-  {
-   "kw": "크리스털 팰리스 대 리버풀",
-   "traffic": "5000+",
-   "when": "11월 08일 22:10",
-   "news": [
-    {
-     "title": "프리미어 리그 크리스탈 팰리스 대 리버풀 점수 예측",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-crystal-palace-vs-liverpool-tai-premier-league-1796643.ldo",
-     "source": "Laodong.vn"
-    },
-    {
-     "title": "\"90%는 윙어로 쓸 겁니다!\"…리버풀 이라올라 감독이 직접 밝힌 속내→2연패에 공격수 부상까지, 바르콜라 최전방 기용한 이유",
-     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100487",
-     "source": "포포투"
-    }
-   ]
-  },
-  {
-   "kw": "선덜랜드 대 첼시",
-   "traffic": "2000+",
-   "when": "11월 08일 22:00",
-   "news": [
-    {
-     "title": "첼시에서 사비 알론소의 정체성은 아직 형성되지 않았습니다",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/ban-sac-cua-xabi-alonso-tai-chelsea-van-chua-duoc-dinh-hinh-1796628.ldo",
-     "source": "Laodong.vn"
-    },
-    {
-     "title": "선덜랜드 vs 첼시 경기 예측 (8/11): 첼시가 설욕에 성공할 수 있을까?",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-sunderland-vs-chelsea-8-11-the-blues-co-doi-duoc-mon-no-cu",
-     "source": "Vietnam.vn"
+     "title": "Gross' penalty doubles Brighton's lead over Bees",
+     "url": "https://sports.yahoo.com/videos/gross-penalty-doubles-brightons-lead-145452546.html",
+     "source": "Yahoo Sports"
     }
    ]
   }
