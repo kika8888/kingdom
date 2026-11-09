@@ -1,20 +1,88 @@
 {
- "updated": "2026-11-09 10:23",
+ "updated": "2026-11-09 11:22",
  "items": [
   {
+   "kw": "젠슨 황 부인",
+   "traffic": "20000+",
+   "when": "11월 09일 10:10",
+   "news": [
+    {
+     "title": "“아내에 불충실했다”…젠슨황, 첩자 의혹女와 불륜 인정",
+     "url": "https://www.munhwa.com/article/11629698",
+     "source": "문화일보"
+    },
+    {
+     "title": "젠슨 황부터 빌 게이츠까지…권력자들이 외도를 정당화하는 심리 [이윤정 기자의 소소월드]",
+     "url": "https://www.khan.co.kr/article/202611091044001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "마산가고파국화축제",
+   "traffic": "200+",
+   "when": "11월 09일 10:00",
+   "news": [
+    {
+     "title": "창원시, 오늘부터 창동 라면 축제…‘이색 라면’ 공개",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8705704",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "확대운영 마산가고파국화축제, 9일간 일정 성황리 폐막",
+     "url": "https://www.newsis.com/view/NISX20261109_0003859690",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "삼성전자 주식",
+   "traffic": "200+",
+   "when": "11월 09일 09:40",
+   "news": [
+    {
+     "title": "노태문, 삼성전자 자사주 3000주 장내 매입…주당 가격은",
+     "url": "https://view.asiae.co.kr/article/2026110714573867999",
+     "source": "아시아경제"
+    },
+    {
+     "title": "주당 21만원에 3천주 매입했다…삼성전자 노태문, 6억3천만원 규모",
+     "url": "https://www.mk.co.kr/news/business/12200736",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "이용철",
+   "traffic": "200+",
+   "when": "11월 09일 09:30",
+   "news": [
+    {
+     "title": "[단독] 유동규 \"이용철과 포커 최소 세 번\"…\"도박 안 했다\" 李 주장에 반박",
+     "url": "https://www.chosun.com/national/court_law/2026/11/09/OTPHRKRSQJBC5MIVHXZEHM7WTM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+     "url": "https://www.yna.co.kr/view/AKR20261109051300011",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
    "kw": "공장",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 09일 09:10",
    "news": [
     {
-     "title": "세아베스틸, 철강공장 특화 AI 안전 솔루션 개발",
-     "url": "https://www.yna.co.kr/view/AKR20261109043900003",
-     "source": "연합뉴스"
+     "title": "30분이면 국가별 품목 교체… 라면 年 5억개 생산",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/09/PBKZ6FQHNRDLHJ4IVKF3DVOMNU/",
+     "source": "조선일보"
     },
     {
-     "title": "세아베스틸, AI 안전 설루션 개발… 안전 경영 ‘강화’",
-     "url": "https://biz.chosun.com/industry/company/2026/11/09/UTPPKOPSB5BDPMVH5GEBXRMEQ4/",
-     "source": "Chosunbiz"
+     "title": "“K컬처 넘어 맛으로 승부”…농심, 부산에 첫 수출 전문공장 가동",
+     "url": "https://www.donga.com/news/Economy/article/all/20261108/134982132/1",
+     "source": "동아일보"
     }
    ]
   },
@@ -24,14 +92,48 @@
    "when": "11월 09일 09:00",
    "news": [
     {
+     "title": "\"17만원 냈는데 앞사람 머리만 봤다\" 악뮤 콘서트 '혹평'…왜? - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110814103286435",
+     "source": "머니투데이"
+    },
+    {
      "title": "악뮤 강릉 콘서트 시야 제한 논란…“17만 원 VIP석도 안 보여”",
      "url": "https://www.donga.com/news/Society/article/all/20261109/134989499/1",
      "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "카카오모빌리티",
+   "traffic": "200+",
+   "when": "11월 09일 09:00",
+   "news": [
+    {
+     "title": "카카오모빌리티·엔비디아 ‘레벨4’ 자율주행 개발…기아 차량에 적용 추진",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8707302",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "공연 도중 관객 이탈까지... 호평받던 악뮤 콘서트, 쏟아진 혹평",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GUZGIYRXMM4DKODCMFSDGYJVG4/",
-     "source": "조선일보"
+     "title": "\"강남에 엔비디아 자율주행 푼다\"…카카오모빌리티, 엔비디아와 맞손 - 머니투데이",
+     "url": "https://www.mt.co.kr/tech/2026/11/09/2026110908512517533",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "포티나이너스 대 레이더스",
+   "traffic": "100+",
+   "when": "11월 09일 09:00",
+   "news": [
+    {
+     "title": "Chicago Bears wide receiver Rome Odunze makes two would-be tacklers miss on 22-yard catch and run",
+     "url": "https://www.nfl.com/videos/rome-odunze-makes-two-would-be-tacklers-miss-on-22-yard-catch-and-run",
+     "source": "NFL.com"
+    },
+    {
+     "title": "Raiders 38-33 Jets (Nov 1, 2026) Game Recap",
+     "url": "https://www.espn.com/nfl/recap/_/gameId/401873029",
+     "source": "ESPN"
     }
    ]
   },
@@ -41,14 +143,14 @@
    "when": "11월 09일 08:50",
    "news": [
     {
-     "title": "“삼전닉스 적정 주가는?”…현금 확보가 필요한 이유 [경제한방]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706862",
-     "source": "KBS 뉴스"
-    },
-    {
      "title": "“고점서 60% 빠졌는데 당연히 사야죠”...삼전닉스 지금 매수하라는 노익장",
      "url": "https://www.mk.co.kr/news/stock/12201921",
      "source": "매일경제"
+    },
+    {
+     "title": "급락한 반도체 주식 중 제가 고른 3개",
+     "url": "https://contents.premium.naver.com/finfarmer00/finfarmer/contents/261108115751427dp",
+     "source": "네이버 프리미엄콘텐츠"
     }
    ]
   },
@@ -66,86 +168,6 @@
      "title": "NBA 필라델피아, 클리블랜드에 24점 차 완패…르브론 '8점' 부진",
      "url": "https://www.news1.kr/sports/basketball/6346369",
      "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "개발제한구역",
-   "traffic": "1000+",
-   "when": "11월 09일 08:20",
-   "news": []
-  },
-  {
-   "kw": "마린 올솝",
-   "traffic": "200+",
-   "when": "11월 09일 08:10",
-   "news": [
-    {
-     "title": "지휘자 마린 알솝 \"임윤찬은 우리 세기의 위대한 피아니스트 될 것\"",
-     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/09/3KYP7RTFZBFRRBFPBVQIYBSZYE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "임윤찬의 힘찬 건반, 벨벳처럼 감싼 악단… 4년전 거장울린 감동 그대로",
-     "url": "https://www.munhwa.com/article/11629755",
-     "source": "문화일보"
-    }
-   ]
-  },
-  {
-   "kw": "bulls vs 76ers",
-   "traffic": "100+",
-   "when": "11월 09일 08:00",
-   "news": [
-    {
-     "title": "LeBron James makes a key adjustment to help Sixers bounce back against Bulls",
-     "url": "https://www.phillyvoice.com/sixers-vs-bulls-76ers-highlights-score-joel-embiid-lebron-james-jaylen-brown-tyrese-maxey-vj-edgecombe-nba-chi/",
-     "source": "PhillyVoice"
-    },
-    {
-     "title": "Game Recap: 76ers 127, Bulls 121 (Nov. 8)",
-     "url": "https://www.nba.com/watch/video/game-recap-76ers-127-bulls-121-nov-8?plsrc=nba&collection=2026-27-game-recaps",
-     "source": "NBA.com"
-    }
-   ]
-  },
-  {
-   "kw": "노동법",
-   "traffic": "1000+",
-   "when": "11월 09일 07:50",
-   "news": []
-  },
-  {
-   "kw": "황유민",
-   "traffic": "200+",
-   "when": "11월 09일 07:50",
-   "news": [
-    {
-     "title": "황유민·김효주 LPGA 토토 저팬 공동 6위…우승은 사쿠마",
-     "url": "https://www.yna.co.kr/view/AKR20261108030300007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "황유민, LPGA 토토 저팬 클래식 3R 공동 3위…선두에 2타 차",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706681",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "기영식",
-   "traffic": "200+",
-   "when": "11월 09일 07:50",
-   "news": [
-    {
-     "title": "‘나솔사계’ 14기 광수 독주에 7기 영식·영호 질투 폭발",
-     "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435261",
-     "source": "데일리스포츠한국"
-    },
-    {
-     "title": "[사계 191회 예고] 백합에게 스킨십?! 14광수의 과감한 행동에 삐진 7영식 #나솔사계 EP.191ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
-     "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000639414",
-     "source": "programs.sbs.co.kr"
     }
    ]
   }
