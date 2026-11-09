@@ -1,9 +1,83 @@
 {
- "updated": "2026-11-09 12:23",
+ "updated": "2026-11-09 13:23",
  "items": [
   {
-   "kw": "한남더힐 아파트",
+   "kw": "연차",
+   "traffic": "500+",
+   "when": "11월 09일 12:20",
+   "news": []
+  },
+  {
+   "kw": "jtbc",
+   "traffic": "200+",
+   "when": "11월 09일 12:20",
+   "news": [
+    {
+     "title": "JTBC launches sale, to pick preferred buyer in January",
+     "url": "https://biz.chosun.com/en/en-finance/2026/11/09/I67ZL7I37VCOJOM7A6MXFLPHRM/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "Troubled broadcaster JTBC to select preferred bidder in Jan.",
+     "url": "https://en.yna.co.kr/view/AEN20261109001900315",
+     "source": "Yonhap News Agency"
+    }
+   ]
+  },
+  {
+   "kw": "삼전닉스",
+   "traffic": "20000+",
+   "when": "11월 09일 12:10",
+   "news": [
+    {
+     "title": "외국인 7일째 '팔자'에도…ETF 담는 개미들, 삼전닉스 들어 올렸다 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/09/2026110911301182528",
+     "source": "머니투데이"
+    },
+    {
+     "title": "코스피, 장 초반 보합세로 '5천피'...반도체주 오름세",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611091146440527",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "김희영",
+   "traffic": "100+",
+   "when": "11월 09일 12:10",
+   "news": [
+    {
+     "title": "산이 좋아 머문 자리 ‘K-마운틴’ 희망을 품다 [화제인물 파타고니아 영남알프스점 김희영 대표]",
+     "url": "http://san.chosun.com/news/articleView.html?idxno=26280",
+     "source": "월간산"
+    },
+    {
+     "title": "“최태원 동거인은 중국간첩” 주장한 ‘배터리 아저씨’ 2심도 벌금 700만원",
+     "url": "https://www.dt.co.kr/article/12093593",
+     "source": "www.dt.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "신인감독 김연경",
    "traffic": "2000+",
+   "when": "11월 09일 11:50",
+   "news": [
+    {
+     "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'신인감독2' 원더독스 VS 전 주장 표승주…승자는?!",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523982",
+     "source": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "kw": "한남더힐 아파트",
+   "traffic": "5000+",
    "when": "11월 09일 11:20",
    "news": [
     {
@@ -20,7 +94,7 @@
   },
   {
    "kw": "노점상",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 09일 11:10",
    "news": [
     {
@@ -36,19 +110,19 @@
    ]
   },
   {
-   "kw": "파주시",
-   "traffic": "200+",
+   "kw": "연구",
+   "traffic": "500+",
    "when": "11월 09일 11:10",
    "news": [
     {
-     "title": "파주시장, 한강 터널 굴진식서 파주·김포 상생발전 강조",
-     "url": "https://stock.mk.co.kr/news/view/1193400",
-     "source": "매일경제 마켓"
+     "title": "국방 AI 선도연구기관에 KAIST·ETRI·LG AI연구원 지정",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611091145519412",
+     "source": "YTN 사이언스"
     },
     {
-     "title": "손배찬 파주시장 “한강터널, 파주·김포 상생발전 이끌 기반”",
-     "url": "https://view.asiae.co.kr/article/2026110908535553201",
-     "source": "아시아경제"
+     "title": "방사청, 국방분야 AI 선도연구기관 선정…'기관-기업 협력 촉진'",
+     "url": "https://www.newsis.com/view/NISX20261109_0003859756",
+     "source": "뉴시스"
     }
    ]
   },
@@ -63,111 +137,26 @@
      "source": "Chosunbiz"
     },
     {
-     "title": "[특징주] 알테오젠, 키트루다SC 특허분쟁 확대에 17%대 급락",
-     "url": "https://www.viva100.com/article/20261109500332",
+     "title": "알테오젠 키트루다SC, 유럽 위탁제조사도 특허소송 대상",
+     "url": "http://www.press9.kr/news/articleView.html?idxno=85795",
+     "source": "PRESS9"
+    }
+   ]
+  },
+  {
+   "kw": "파주시",
+   "traffic": "500+",
+   "when": "11월 09일 11:10",
+   "news": [
+    {
+     "title": "고성군, ‘2026년 하반기 불법자동차 일제단속’ 실시",
+     "url": "https://www.viva100.com/article/20261107500098",
      "source": "브릿지경제"
-    }
-   ]
-  },
-  {
-   "kw": "홍창기",
-   "traffic": "5000+",
-   "when": "11월 09일 11:00",
-   "news": [
-    {
-     "title": "롯데서 은퇴선언, FA 영입 1순위로 이 선수 지목했다…\"올해는 시행착오, 내년부터 괜찮아질 것\" 기대",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018505",
-     "source": "SPOTV NEWS"
     },
     {
-     "title": "‘다년 계약 거절→최악 부진→FA 취득’ 홍창기·박동원, LG 분위기가 달라졌다…차명석 단장 “시장은 움직이니까”",
-     "url": "https://www.osen.co.kr/article/G1112903112",
-     "source": "OSEN"
-    }
-   ]
-  },
-  {
-   "kw": "빈",
-   "traffic": "100+",
-   "when": "11월 09일 11:00",
-   "news": [
-    {
-     "title": "청와대 몰려간 국민의힘 \"죄수에게 탈옥 열쇠 쥐어준 꼴\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6864201_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "[영상] \"대통령 탈옥법\"...장외로 나간 국민의힘",
-     "url": "https://www.ytn.co.kr/_ln/0101_202611091152496258",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "중앙일보",
-   "traffic": "10000+",
-   "when": "11월 09일 10:50",
-   "news": [
-    {
-     "title": "[부고] 김병수 씨(중앙일보 마케팅솔루션국 리더) 부친상",
-     "url": "https://www.news1.kr/life-culture/press/6347157",
-     "source": "뉴스1"
-    },
-    {
-     "title": "[부고] 김종현씨",
-     "url": "http://www.ksw-news.com/news/articleView.html?idxno=3058376",
-     "source": "한국사회복지저널"
-    }
-   ]
-  },
-  {
-   "kw": "항공 승무원",
-   "traffic": "200+",
-   "when": "11월 09일 10:50",
-   "news": [
-    {
-     "title": "비행기 텅 비었는데…\"자리 옮기면 안 된다\" 제지한 승무원 - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/09/2026110909193257655",
-     "source": "머니투데이"
-    },
-    {
-     "title": "좌석 절반 비었는데 옮기면 안 된다?…미국 항공사 규정 갑론을박",
-     "url": "https://view.asiae.co.kr/article/2026110818283606331",
-     "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "젠슨 황 부인",
-   "traffic": "20000+",
-   "when": "11월 09일 10:10",
-   "news": [
-    {
-     "title": "젠슨황, 中스파이 의심 여성과 불륜 인정…이사회 독립조사 착수(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261109005251091",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'엔디비아 얼굴' 매디슨 황 없이 'AI 데이' 개막, 현장서는 \"불참 아쉬워\"",
-     "url": "https://www.newspim.com/news/view/20261109000648",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "마산가고파국화축제",
-   "traffic": "200+",
-   "when": "11월 09일 10:00",
-   "news": [
-    {
-     "title": "창원시, 오늘부터 창동 라면 축제…‘이색 라면’ 공개",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8705704",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "[마산가고파국화축제 결산] 1억5000만 송이 국화, 100만 눈길 사로잡았다",
-     "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1554591",
-     "source": "경남신문"
+     "title": "파주시, 관계기관 합동 불법자동차 집중 합동 단속",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3215844&type=&mobile=",
+     "source": "아시아뉴스통신"
     }
    ]
   }
