@@ -1,22 +1,28 @@
 {
- "updated": "2026-11-10 01:23",
+ "updated": "2026-11-10 02:23",
  "items": [
   {
-   "kw": "kf-21 보라매",
-   "traffic": "500+",
-   "when": "11월 10일 00:20",
+   "kw": "신애",
+   "traffic": "200+",
+   "when": "11월 10일 01:20",
    "news": [
     {
-     "title": "유로파이터 200대 증산 시동…KAI KF-21 유럽 진출 타진 분수령",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611070911181985fbbec65dfb_1",
-     "source": "글로벌이코노믹"
+     "title": "'17년째 활동 중단' 신애, 깜짝 근황…여전한 미모 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110917541840072",
+     "source": "머니투데이"
     },
     {
-     "title": "\"이걸 우리가 만들었어?\"…KF-21 첫 조종사들이 말하는 '보라매'",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974973",
-     "source": "대한민국 정책브리핑"
+     "title": "'17년째 활동 중단' 신애, 오랜만에 근황 포착…'이규한♥' 솔비 만났네",
+     "url": "https://news.nate.com/view/20261109n26947",
+     "source": "네이트"
     }
    ]
+  },
+  {
+   "kw": "kf-21 보라매",
+   "traffic": "1000+",
+   "when": "11월 10일 00:20",
+   "news": []
   },
   {
    "kw": "gta6",
@@ -37,7 +43,7 @@
   },
   {
    "kw": "버거킹",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 10일 00:10",
    "news": [
     {
@@ -46,32 +52,15 @@
      "source": "연합뉴스TV"
     },
     {
-     "title": "버거킹, 소방관·가족 초청해 감사 행사…와퍼 콤보 1190개 전달",
-     "url": "https://www.etnews.com/20261109000029",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "nvda",
-   "traffic": "100+",
-   "when": "11월 09일 23:50",
-   "news": [
-    {
-     "title": "NVDA support and resistance levels as stock trades in oversold territory",
-     "url": "https://www.investing.com/news/stock-market-news/nvda-support-and-resistance-levels-as-stock-trades-in-oversold-territory-93CH-5012758",
-     "source": "Investing.com"
-    },
-    {
-     "title": "Stock of the Day: Where is the Bottom for NVIDIA?",
-     "url": "https://www.benzinga.com/trading-ideas/technicals/26/11/63041933/stock-of-the-day-where-is-the-bottom-for-nvidia-2",
-     "source": "Benzinga"
+     "title": "료혼, 소방의 날 맞아 소방공무원 대상 ‘1+1’ 사은 행사 개최",
+     "url": "https://www.lawissue.co.kr/view.php?ud=202611091831329301204ead0791_12",
+     "source": "로이슈"
     }
    ]
   },
   {
    "kw": "안드레이 알롭스키",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 09일 23:20",
    "news": [
     {
@@ -97,9 +86,9 @@
      "source": "경향신문"
     },
     {
-     "title": "재경장관 \"대미 투자 1호 '텍사스 발전소', 상황 지켜볼 필요\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6864310_36911.html",
-     "source": "MBC 뉴스"
+     "title": "\"이러다 전기 다 빨린다\"…국가전력 30% 먹는 '흡혈귀' 정체",
+     "url": "https://www.hankyung.com/article/2026110832841",
+     "source": "한국경제"
     }
    ]
   },
@@ -127,36 +116,36 @@
    ]
   },
   {
-   "kw": "신인감독 김연경 시즌2",
-   "traffic": "5000+",
-   "when": "11월 09일 21:40",
-   "news": [
-    {
-     "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728",
-     "source": "머니투데이"
-    },
-    {
-     "title": "“짜증 나 죽겠네” 작전판 내던진 김연경…역대급 대노한 이유는",
-     "url": "https://www.segye.com/newsView/20261109504342",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
    "kw": "캐시워크 정답",
    "traffic": "200+",
    "when": "11월 09일 21:10",
    "news": [
     {
+     "title": "국민건강보험 건강보험료 캐시워크 돈 버는 퀴즈, 정답은?",
+     "url": "https://www.ajunews.com/view/20261109155345023",
+     "source": "아주경제"
+    },
+    {
      "title": "[단독] 캐시워크 돈버는퀴즈 정답 11월 9일",
      "url": "https://www.bntnews.co.kr/article/view/bnt202611090065",
      "source": "BNT뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "빅테크",
+   "traffic": "5000+",
+   "when": "11월 09일 20:50",
+   "news": [
+    {
+     "title": "한국 AI 생태계의 에이전틱 AI 고도화하고 보안 강화하는 NVIDIA - NVIDIA Blog Korea",
+     "url": "https://blogs.nvidia.co.kr/blog/korea-secure-agentic-ai/",
+     "source": "NVIDIA"
     },
     {
-     "title": "종근당건강 비타콜라겐…캐시워크 돈버는퀴즈 정답 공개",
-     "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112874",
-     "source": "게임톡"
+     "title": "정석근 SKT \"GPU·NPU 결합해 세계서 가장 싸게 토큰 생산\"",
+     "url": "https://zdnet.co.kr/view/?no=20261109161556",
+     "source": "지디넷코리아"
     }
    ]
   }
