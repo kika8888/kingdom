@@ -1,9 +1,43 @@
 {
- "updated": "2026-11-10 04:23",
+ "updated": "2026-11-10 05:23",
  "items": [
   {
-   "kw": "1인당 국민소득",
+   "kw": "장례",
+   "traffic": "200+",
+   "when": "11월 10일 04:20",
+   "news": [
+    {
+     "title": "죽어서도 자식 부담 주기 싫다…연 5000건 몰린 '이 장례'",
+     "url": "https://www.hankyung.com/article/2026110956691",
+     "source": "한국경제"
+    },
+    {
+     "title": "울산하늘공원 추모공간 2배 이상 확대…산분장도 첫 도입",
+     "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1070048",
+     "source": "울산매일 - 울산최초, 최고의 조간신문"
+    }
+   ]
+  },
+  {
+   "kw": "google",
    "traffic": "100+",
+   "when": "11월 10일 04:00",
+   "news": [
+    {
+     "title": "Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems",
+     "source": "Bloomberg.com"
+    },
+    {
+     "title": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+     "source": "blog.google"
+    }
+   ]
+  },
+  {
+   "kw": "1인당 국민소득",
+   "traffic": "200+",
    "when": "11월 10일 02:20",
    "news": [
     {
@@ -12,9 +46,9 @@
      "source": "한국경제"
     },
     {
-     "title": "민생 현장에 안 퍼지는 ‘반도체 온기’… 자영업자 돌아섰다",
-     "url": "https://www.seoul.co.kr/news/politics/2026/11/09/20261109008004",
-     "source": "서울신문"
+     "title": "7억 성과급과 100만 폐업... 양극화 심화에 갈라진 대한민국",
+     "url": "https://www.hankookilbo.com/news/article/A2026102913310004277",
+     "source": "한국일보"
     }
    ]
   },
@@ -54,7 +88,7 @@
   },
   {
    "kw": "대한민국 해군",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 10일 01:50",
    "news": [
     {
@@ -103,9 +137,9 @@
      "source": "조선일보"
     },
     {
-     "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited",
-     "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
-     "source": "IGN"
+     "title": "GTA VI launch set to cost bosses £12m as workers book 83,000 days off to play long-awaited game",
+     "url": "https://www.thesun.co.uk/news/40963228/gta-vi-launch-cost-workers-book-days-off/",
+     "source": "The Sun"
     }
    ]
   },
@@ -125,29 +159,6 @@
      "source": "로이슈"
     }
    ]
-  },
-  {
-   "kw": "안드레이 알롭스키",
-   "traffic": "200+",
-   "when": "11월 09일 23:20",
-   "news": [
-    {
-     "title": "사망 조롱 논란에 “죄송합니다”…UFC 전 챔피언 “영어는 제2외국어” 해명",
-     "url": "https://isplus.com/article/view/isp202611090129",
-     "source": "일간스포츠"
-    },
-    {
-     "title": "사망 조롱 후폭풍…“관심에 인간성까지 팔았다” UFC 전 챔피언까지 비판 가세",
-     "url": "https://isplus.com/article/view/isp202611090177",
-     "source": "일간스포츠"
-    }
-   ]
-  },
-  {
-   "kw": "안랩",
-   "traffic": "200+",
-   "when": "11월 09일 23:00",
-   "news": []
   }
  ]
 }
