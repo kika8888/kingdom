@@ -1,9 +1,43 @@
 {
- "updated": "2026-11-09 19:23",
+ "updated": "2026-11-09 20:23",
  "items": [
   {
+   "kw": "아놀드 슈워제네거",
+   "traffic": "1000+",
+   "when": "11월 09일 19:00",
+   "news": [
+    {
+     "title": "“가정부와 불륜으로 낳은 아들”…슈워제네거 혼외자, 보디빌딩 5위",
+     "url": "https://www.twig24.com/news/2026/11/09/20261109500162",
+     "source": "www.twig24.com"
+    },
+    {
+     "title": "'터미네이터' 슈워제네거 혼외자 보디빌더 데뷔…\"父, 최고 운동 파트너\"",
+     "url": "https://view.asiae.co.kr/article/2026110917171140991",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  {
+   "kw": "착륙",
+   "traffic": "500+",
+   "when": "11월 09일 18:40",
+   "news": [
+    {
+     "title": "[영상] \"세계 최고도 기록\"…印 수송기, 해발 4천154ｍ 비행장 착륙",
+     "url": "https://www.yna.co.kr/view/AKR20261109127800704",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "인도 ＂공군 대형 수송기 해발 4천여ｍ 비행장에 착륙＂",
+     "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261109047100009",
+     "source": "한국경제TV"
+    }
+   ]
+  },
+  {
    "kw": "가상자산",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 09일 18:20",
    "news": [
     {
@@ -20,29 +54,29 @@
   },
   {
    "kw": "김부선",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 09일 18:10",
    "news": [
-    {
-     "title": "김부선 \"월 300만원 '무상 지원' 소송서 승리…2억 다 안 갚아도 된다\"",
-     "url": "https://www.news1.kr/society/general-society/6347578",
-     "source": "뉴스1"
-    },
     {
      "title": "’2억 변제 소송’ 김부선, 일부 승소…“완승과도 같은 결과“",
      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109155246gBN",
      "source": "연합뉴스TV"
+    },
+    {
+     "title": "김부선 \"2억 변제 소송, 사실상 완승…원고 추가 청구 전부 기각\" - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/09/2026110915460134238",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "nepal premier league",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 09일 18:00",
    "news": [
     {
-     "title": "Pokhara set 218-run target for Karnali in NPL",
-     "url": "https://english.nepalnews.com/s/sports/pokhara-set-218-run-target-for-karnali-in-npl/",
+     "title": "Pokhara Avengers beat Karnali Yaks by 63 runs for first NPL win",
+     "url": "https://english.nepalnews.com/s/sports/pokhara-avengers-beat-karnali-yaks-by-63-runs-for-first-npl-win/",
      "source": "Nepalnews.com"
     },
     {
@@ -105,7 +139,7 @@
   },
   {
    "kw": "볼더링",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 09일 16:50",
    "news": [
     {
@@ -122,52 +156,18 @@
   },
   {
    "kw": "에너지",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 09일 16:50",
    "news": [
     {
      "title": "한전 에너지캐시백 가입자 200만호…제주 가정 1년 전력량 절약",
-     "url": "https://stock.mk.co.kr/news/view/1193673",
-     "source": "매일경제 마켓"
+     "url": "https://www.yna.co.kr/view/AKR20261109094200003",
+     "source": "연합뉴스"
     },
     {
      "title": "한전, 주택용 에너지캐시백 200만호 돌파…1025GWh 절감",
      "url": "https://www.newsis.com/view/NISX20261109_0003860845",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "한국 민속촌",
-   "traffic": "2000+",
-   "when": "11월 09일 16:30",
-   "news": [
-    {
-     "title": "[자막뉴스] \"말 잘 들을거야?\" 귀신 훈육 놀이에…터져버린 '아동학대' 논란",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "\"민속촌 참교육 중단해야\" '귀신 훈육' 아동학대 논란 [앵커리포트]",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611091416020041",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "류지현",
-   "traffic": "1000+",
-   "when": "11월 09일 16:00",
-   "news": [
-    {
-     "title": "‘류지현호’ 첫발 뗀 한화…내년 전력 구상 과제는?",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706798",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "정우주 선발? 불펜? 그보다 중요한 이야기가 있었다…2년 차 영건과 깊은 대화, 신임 감독은 무슨 메시지 전했나 [오!쎈 미야자키] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/09/202611090808777879O",
-     "source": "머니투데이"
     }
    ]
   }
