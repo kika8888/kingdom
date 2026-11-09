@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-09 13:23",
+ "updated": "2026-11-09 14:23",
  "items": [
   {
-   "kw": "연차",
+   "kw": "반계리 은행나무",
+   "traffic": "1000+",
+   "when": "11월 09일 13:10",
+   "news": [
+    {
+     "title": "[포토] 노랗게 물든 장수동 은행나무",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336217",
+     "source": "인천일보"
+    },
+    {
+     "title": "[포토] 사랑을 남기고 떠나는 가을",
+     "url": "https://www.viva100.com/article/20261109500540",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "pak vs sl",
    "traffic": "500+",
+   "when": "11월 09일 13:00",
+   "news": [
+    {
+     "title": "Kusal Mendis: 'I have no doubt in my batting line-up'",
+     "url": "https://www.cricinfo.com/story/pak-vs-sl-1st-test-kusal-mendis-has-no-doubt-his-batters-can-deal-with-all-sorts-of-conditions-1561879",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Pakistan update WTC27 series squad against Sri Lanka",
+     "url": "https://www.icc-cricket.com/news/pakistan-update-wtc27-series-squad-against-sri-lanka",
+     "source": "ICC"
+    }
+   ]
+  },
+  {
+   "kw": "최태원",
+   "traffic": "10000+",
+   "when": "11월 09일 12:50",
+   "news": [
+    {
+     "title": "최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명",
+     "url": "https://view.asiae.co.kr/article/2026110908402307630",
+     "source": "아시아경제"
+    },
+    {
+     "title": "\"가만히 갖고 있으라더니\"…40% 고꾸라진 주가에 하닉 개미들 속앓이",
+     "url": "https://news.tf.co.kr/read/economy/2386242.htm",
+     "source": "더팩트"
+    }
+   ]
+  },
+  {
+   "kw": "생일",
+   "traffic": "500+",
+   "when": "11월 09일 12:50",
+   "news": [
+    {
+     "title": "린, 생일 맞아 포스터 공개…단독 콘서트 앞두고 근황",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16271464",
+     "source": "톱스타뉴스"
+    },
+    {
+     "title": "린, 붉은 드레스와 미소로 전한 생일 근황…팬심 사로잡다",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080815",
+     "source": "진일보 | 전남일보"
+    }
+   ]
+  },
+  {
+   "kw": "용산공원",
+   "traffic": "200+",
+   "when": "11월 09일 12:50",
+   "news": [
+    {
+     "title": "용산국제업무지구 주택물량 8000가구 놓고 말 다른 서울시와 국토부",
+     "url": "https://www.khan.co.kr/article/202611091152001",
+     "source": "경향신문"
+    },
+    {
+     "title": "서울 용산구, '용산공원 특별법' 개정 추진에 \"분명한 반대\"",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837227",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "소방",
+   "traffic": "100+",
+   "when": "11월 09일 12:50",
+   "news": [
+    {
+     "title": "\"여러분의 아버지는…\" 李대통령, 순직 소방경 세 자녀들에 건넨 말 - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/09/2026110911165238847",
+     "source": "머니투데이"
+    },
+    {
+     "title": "용인서부소방서, 제64주년 소방의 날 기념식…유공 표창",
+     "url": "https://www.newsis.com/view/NISX20261109_0003860465",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "김연아",
+   "traffic": "2000+",
+   "when": "11월 09일 12:30",
+   "news": [
+    {
+     "title": "'임신설 부인' 김연아, 볼살 통통하게 오른 모습 공개…여전한 미모 [N샷]",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6347161",
+     "source": "뉴스1"
+    },
+    {
+     "title": "‘고우림♥’ 김연아, 여전한 청순 미모",
+     "url": "https://www.mk.co.kr/news/hot-issues/12202061",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "연차",
+   "traffic": "1000+",
    "when": "11월 09일 12:20",
    "news": []
   },
@@ -30,133 +149,14 @@
    "when": "11월 09일 12:10",
    "news": [
     {
-     "title": "외국인 7일째 '팔자'에도…ETF 담는 개미들, 삼전닉스 들어 올렸다 - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/09/2026110911301182528",
-     "source": "머니투데이"
-    },
-    {
-     "title": "코스피, 장 초반 보합세로 '5천피'...반도체주 오름세",
-     "url": "https://www.ytn.co.kr/_ln/0102_202611091146440527",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "김희영",
-   "traffic": "100+",
-   "when": "11월 09일 12:10",
-   "news": [
-    {
-     "title": "산이 좋아 머문 자리 ‘K-마운틴’ 희망을 품다 [화제인물 파타고니아 영남알프스점 김희영 대표]",
-     "url": "http://san.chosun.com/news/articleView.html?idxno=26280",
-     "source": "월간산"
-    },
-    {
-     "title": "“최태원 동거인은 중국간첩” 주장한 ‘배터리 아저씨’ 2심도 벌금 700만원",
-     "url": "https://www.dt.co.kr/article/12093593",
-     "source": "www.dt.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "신인감독 김연경",
-   "traffic": "2000+",
-   "when": "11월 09일 11:50",
-   "news": [
-    {
-     "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728",
-     "source": "머니투데이"
-    },
-    {
-     "title": "'신인감독2' 원더독스 VS 전 주장 표승주…승자는?!",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/523982",
-     "source": "iMBC 연예"
-    }
-   ]
-  },
-  {
-   "kw": "한남더힐 아파트",
-   "traffic": "5000+",
-   "when": "11월 09일 11:20",
-   "news": [
-    {
-     "title": "옥주현 한남더힐 경매 사태…\"50억으로 400억 당겼다가 청산된 것\"",
-     "url": "https://www.news1.kr/realestate/general/6346754",
-     "source": "뉴스1"
-    },
-    {
-     "title": "‘190억이 경매로’…옥주현 사는 한남동 최고가 아파트는[누구집]",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645643752&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "노점상",
-   "traffic": "2000+",
-   "when": "11월 09일 11:10",
-   "news": [
-    {
-     "title": "\"하루 3만원 버는데…\" 붕어빵 노점상 울린 판사의 한마디 [사장님 고충백서]",
-     "url": "https://www.hankyung.com/article/202611083087i",
+     "title": "\"개미들 공포에 떠는데\"…월가 큰손들 반도체 다시 보는 까닭 [빈난새의 빈틈없이마켓]",
+     "url": "https://www.hankyung.com/article/202611094448i",
      "source": "한국경제"
     },
     {
-     "title": "\"하루 3만원 버는 보통 사람들\"…무허가 붕어빵 노점상 울린 한마디",
-     "url": "https://news.jtbc.co.kr/article/NB12327118",
-     "source": "JTBC"
-    }
-   ]
-  },
-  {
-   "kw": "연구",
-   "traffic": "500+",
-   "when": "11월 09일 11:10",
-   "news": [
-    {
-     "title": "국방 AI 선도연구기관에 KAIST·ETRI·LG AI연구원 지정",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611091145519412",
-     "source": "YTN 사이언스"
-    },
-    {
-     "title": "방사청, 국방분야 AI 선도연구기관 선정…'기관-기업 협력 촉진'",
-     "url": "https://www.newsis.com/view/NISX20261109_0003859756",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "알 테오 젠",
-   "traffic": "200+",
-   "when": "11월 09일 11:10",
-   "news": [
-    {
-     "title": "[특징주] 알테오젠, 美 약가협상 규정 확정에 15% 급락…SC 전환 수익성 우려",
-     "url": "https://biz.chosun.com/stock/stock_general/2026/11/09/UZES6NYL4JFW5FOP6QH3QOSVWQ/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "알테오젠 키트루다SC, 유럽 위탁제조사도 특허소송 대상",
-     "url": "http://www.press9.kr/news/articleView.html?idxno=85795",
-     "source": "PRESS9"
-    }
-   ]
-  },
-  {
-   "kw": "파주시",
-   "traffic": "500+",
-   "when": "11월 09일 11:10",
-   "news": [
-    {
-     "title": "고성군, ‘2026년 하반기 불법자동차 일제단속’ 실시",
-     "url": "https://www.viva100.com/article/20261107500098",
-     "source": "브릿지경제"
-    },
-    {
-     "title": "파주시, 관계기관 합동 불법자동차 집중 합동 단속",
-     "url": "https://m.anewsa.com/article_sub3.php?number=3215844&type=&mobile=",
-     "source": "아시아뉴스통신"
+     "title": "양시장 반등…코스피 5100선 넘어",
+     "url": "https://www.asiae.co.kr/article/2026110913524831135",
+     "source": "아시아경제"
     }
    ]
   }
