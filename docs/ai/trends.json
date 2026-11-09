@@ -1,9 +1,43 @@
 {
- "updated": "2026-11-10 03:23",
+ "updated": "2026-11-10 04:23",
  "items": [
   {
+   "kw": "1인당 국민소득",
+   "traffic": "100+",
+   "when": "11월 10일 02:20",
+   "news": [
+    {
+     "title": "\"1인당 5700만원 번다고?\"…현실은 딴판인 이유 있었다",
+     "url": "https://www.hankyung.com/article/2026110956791",
+     "source": "한국경제"
+    },
+    {
+     "title": "민생 현장에 안 퍼지는 ‘반도체 온기’… 자영업자 돌아섰다",
+     "url": "https://www.seoul.co.kr/news/politics/2026/11/09/20261109008004",
+     "source": "서울신문"
+    }
+   ]
+  },
+  {
+   "kw": "사이비 종교",
+   "traffic": "100+",
+   "when": "11월 10일 02:10",
+   "news": [
+    {
+     "title": "15화 사이비 종교 신도 2,000명이 방송국으로 몰려간 밤",
+     "url": "https://brunch.co.kr/@poet/68",
+     "source": "브런치"
+    },
+    {
+     "title": "\"목사들이 위험하다고\"...박진영 종교 '사이비 논란'에 입 열었다 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/09/2026110905275910960",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
    "kw": "골드만삭스",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 10일 02:00",
    "news": [
     {
@@ -37,7 +71,7 @@
   },
   {
    "kw": "신애",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 10일 01:20",
    "news": [
     {
@@ -60,18 +94,18 @@
   },
   {
    "kw": "gta6",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 10일 00:20",
    "news": [
     {
-     "title": "GTA6 Release Triggers 1.5M U.S. Absences",
-     "url": "https://www.chosun.com/english/industry-en/2026/11/10/SGZQM3ZS6NBEPE7EBXVFVCBDTE/",
+     "title": "GTA6 Release Sparks $1B Economic Fears",
+     "url": "https://www.chosun.com/english/industry-en/2026/11/09/ME7KYHBGNNCIXB3PPQW2ULLC4Q/",
      "source": "조선일보"
     },
     {
-     "title": "GTA VI launch set to cost bosses £12m as workers book 83,000 days off to play long-awaited game",
-     "url": "https://www.thesun.co.uk/news/40963228/gta-vi-launch-cost-workers-book-days-off/",
-     "source": "The Sun"
+     "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited",
+     "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
+     "source": "IGN"
     }
    ]
   },
@@ -114,40 +148,6 @@
    "traffic": "200+",
    "when": "11월 09일 23:00",
    "news": []
-  },
-  {
-   "kw": "티머니",
-   "traffic": "200+",
-   "when": "11월 09일 22:10",
-   "news": [
-    {
-     "title": "티머니, '모두의카드' 편의점 판매 시작",
-     "url": "https://www.etnews.com/20261109000258",
-     "source": "전자신문"
-    },
-    {
-     "title": "모두의카드, CU·GS25 등 편의점서 판매…전국 환급혜택 제공",
-     "url": "https://biz.sbs.co.kr/article/20000345065",
-     "source": "SBS Biz"
-    }
-   ]
-  },
-  {
-   "kw": "신인감독 김연경 시즌2",
-   "traffic": "5000+",
-   "when": "11월 09일 21:40",
-   "news": [
-    {
-     "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728",
-     "source": "머니투데이"
-    },
-    {
-     "title": "“짜증 나 죽겠네” 작전판 내던진 김연경…역대급 대노한 이유는",
-     "url": "https://www.segye.com/newsView/20261109504342",
-     "source": "세계일보"
-    }
-   ]
   }
  ]
 }
