@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-09 22:23",
+ "updated": "2026-11-09 23:23",
  "items": [
+  {
+   "kw": "신인감독 김연경 시즌2",
+   "traffic": "5000+",
+   "when": "11월 09일 21:40",
+   "news": [
+    {
+     "title": "'신인감독' 김연경, 흥국생명에 3대2 대역전 '2연승 쾌거' - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110902291872728",
+     "source": "머니투데이"
+    },
+    {
+     "title": "“짜증 나 죽겠네” 작전판 내던진 김연경…역대급 대노한 이유는",
+     "url": "https://www.segye.com/newsView/20261109504342",
+     "source": "세계일보"
+    }
+   ]
+  },
   {
    "kw": "캐시워크 정답",
    "traffic": "200+",
@@ -24,37 +41,20 @@
    "when": "11월 09일 20:50",
    "news": [
     {
-     "title": "한국 주요 오픈 모델의 프로덕션 배포 가속하는 NVIDIA Dynamo",
-     "url": "https://blogs.nvidia.co.kr/blog/nvidia-dynamo-korea-open-models/",
+     "title": "NVIDIA, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 고도화 협력 발표",
+     "url": "https://blogs.nvidia.co.kr/blog/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion/",
      "source": "NVIDIA"
     },
     {
-     "title": "국산 AI반도체, 엔비디아 생태계 편입",
-     "url": "https://www.khan.co.kr/article/202611092056015",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "아시아나항공",
-   "traffic": "200+",
-   "when": "11월 09일 20:50",
-   "news": [
-    {
-     "title": "아시아나항공 주가 170원 하락 후 장마감",
-     "url": "https://m.anewsa.com/article_sub3.php?number=3215988&type=&mobile=",
-     "source": "아시아뉴스통신"
-    },
-    {
-     "title": "[장중수급포착] 아시아나항공, 기관 6일 연속 순매수행진... 주가 +4.13%",
-     "url": "https://www.newspim.com/news/view/20261103000361",
-     "source": "뉴스핌"
+     "title": "에이전틱 AI·피지컬 AI부터 인프라까지 아우른 “엔비디아 AI 데이 서울 2026”",
+     "url": "https://www.donga.com/news/It/article/all/20261109/134995914/1",
+     "source": "동아일보"
     }
    ]
   },
   {
    "kw": "박승규",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 09일 20:50",
    "news": [
     {
@@ -66,6 +66,23 @@
      "title": "\"팬도 선수도 함께 쓰러질 때까지…\" 박승규의 비장한 우승 다짐 [베이스볼S]",
      "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000639518",
      "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "아시아나항공",
+   "traffic": "500+",
+   "when": "11월 09일 20:50",
+   "news": [
+    {
+     "title": "아시아나항공 주가 170원 하락 후 장마감",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3215988&type=&mobile=",
+     "source": "아시아뉴스통신"
+    },
+    {
+     "title": "[장중수급포착] 아시아나항공, 기관 6일 연속 순매수행진... 주가 +4.13%",
+     "url": "https://www.newspim.com/news/view/20261103000361",
+     "source": "뉴스핌"
     }
    ]
   },
@@ -88,24 +105,24 @@
   },
   {
    "kw": "이지혜",
-   "traffic": "2000+",
+   "traffic": "1000+",
    "when": "11월 09일 19:50",
    "news": [
     {
-     "title": "섬뜩한 얼굴로 \"왜 말 안 들어\"…'아동학대' 논란 터졌다",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764",
-     "source": "SBS 뉴스"
+     "title": "이지혜, 샵 서지영과 부둥켜안고 울며 화해..\"딸들 앞에서 '스위티' 불러\"[핫피플]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/HAZDOOLCGQ2GMNLDMQ2WKM3FMI/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "이지혜, 민속촌 귀신 ‘아동학대 논란’에 입장 밝혔다 “트라우마까진..”(관종언니)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/G43GMOJZMIYDONZZGE4DEZRYMU/",
-     "source": "조선일보"
+     "title": "\"부둥켜 안고 오열\"…이지혜, 서지영과 불화 끝 화해 [소셜in]",
+     "url": "https://enews.imbc.com/M/Detail/524168",
+     "source": "iMBC 연예"
     }
    ]
   },
   {
    "kw": "해커",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 09일 19:30",
    "news": [
     {
@@ -114,9 +131,9 @@
      "source": "문화일보"
     },
     {
-     "title": "[단독] 北 해킹 장물에 개미들 ‘830억 돈잔치’… “공포장 속 황당 횡재”",
-     "url": "https://www.mk.co.kr/news/stock/12202311",
-     "source": "매일경제"
+     "title": "[新테크용어] 바이낸스 해커는 왜 코인 쪼갰을까…’필 체인’ 수법이란",
+     "url": "https://zdnet.co.kr/view/?no=20261109155158",
+     "source": "지디넷코리아"
     }
    ]
   },
@@ -148,26 +165,9 @@
      "source": "www.twig24.com"
     },
     {
-     "title": "'터미네이터' 슈워제네거 혼외자 보디빌더 데뷔…\"父, 최고 운동 파트너\"",
-     "url": "https://view.asiae.co.kr/article/2026110917171140991",
-     "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "착륙",
-   "traffic": "1000+",
-   "when": "11월 09일 18:40",
-   "news": [
-    {
-     "title": "[영상] \"세계 최고도 기록\"…印 수송기, 해발 4천154ｍ 비행장 착륙",
-     "url": "https://www.yna.co.kr/view/AKR20261109127800704",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "인도 ＂공군 대형 수송기 해발 4천여ｍ 비행장에 착륙＂",
-     "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=AKR20261109047100009",
-     "source": "한국경제TV"
+     "title": "\"피는 못 속여\" 아놀드 슈왈제네거 가정부 혼외자, 父와 똑닮은 근육질 몸매[Oh!llywood]",
+     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/09/GA4TOMTFMNSGKNJRHBQWCOJQME/",
+     "source": "조선일보"
     }
    ]
   }
