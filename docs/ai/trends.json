@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-09 17:23",
+ "updated": "2026-11-09 18:23",
  "items": [
   {
-   "kw": "류지현",
+   "kw": "김장훈",
+   "traffic": "5000+",
+   "when": "11월 09일 17:00",
+   "news": [
+    {
+     "title": "김장훈, 국민연금 예상액 듣고 깜짝…“그렇게 많이 주냐”",
+     "url": "https://www.segye.com/newsView/20261109502306",
+     "source": "세계일보"
+    },
+    {
+     "title": "\"한 달에 이렇게 많이 줘?\"…국민연금 수령에 김장훈, 또 결심 - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/09/2026110917220064923",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "구속",
+   "traffic": "2000+",
+   "when": "11월 09일 16:50",
+   "news": [
+    {
+     "title": "지하철에서 잠든 여성에 성폭력‥60대 남성 구속 송치",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6864258_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "지하철서 잠든 20대 여성에 입 맞추고 신체 접촉…60대 구속 송치",
+     "url": "https://www.kyeonggi.com/article/20261109580406",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "볼더링",
    "traffic": "200+",
+   "when": "11월 09일 16:50",
+   "news": [
+    {
+     "title": "스포츠클라이밍 대표팀, 국가대항전서 볼더링·리드 은메달",
+     "url": "https://www.yna.co.kr/view/AKR20261109124800007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "서채현·이도현의 한국 스포츠클라이밍, 네이션스 그랜드 파이널 銀 2개",
+     "url": "https://www.newsis.com/view/NISX20261109_0003860941",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "에너지",
+   "traffic": "200+",
+   "when": "11월 09일 16:50",
+   "news": [
+    {
+     "title": "한전 에너지캐시백 가입자 200만호…제주 가정 1년 전력량 절약",
+     "url": "https://stock.mk.co.kr/news/view/1193673",
+     "source": "매일경제 마켓"
+    },
+    {
+     "title": "한전, 주택용 에너지캐시백 200만호 돌파…1025GWh 절감",
+     "url": "https://www.newsis.com/view/NISX20261109_0003860845",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "한국 민속촌",
+   "traffic": "2000+",
+   "when": "11월 09일 16:30",
+   "news": [
+    {
+     "title": "[자막뉴스] \"말 잘 들을거야?\" 귀신 훈육 놀이에…터져버린 '아동학대' 논란",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "“아이 훈육을 귀신에게?”…한국민속촌 ‘귀신 훈육’ 아동학대 논란",
+     "url": "https://www.kyeonggi.com/article/20261109580335",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "류지현",
+   "traffic": "500+",
    "when": "11월 09일 16:00",
    "news": [
     {
@@ -24,9 +109,9 @@
    "when": "11월 09일 15:50",
    "news": [
     {
-     "title": "한화에어로, 천무 해상 사격 시험… 무인수상정 탑재 추진",
-     "url": "https://biz.chosun.com/industry/company/2026/11/09/MFAUDA76S5FGBCLNWX6SX4DZJA/",
-     "source": "Chosunbiz"
+     "title": "한화에어로스페이스, 육상용 ‘천무’ 바다에서 쏜다…美 무인함정 시장 공략",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/09/7MFLUFVJQRHAHGO6FKCDX5LWEU/",
+     "source": "조선일보"
     },
     {
      "title": "한화오션 미국 해군 중형상륙함 수주는 '미미' 평가, 블룸버그 \"한국 조선업체 투자 유인할 추가 발주 필요\"",
@@ -47,14 +132,14 @@
    "when": "11월 09일 15:10",
    "news": [
     {
-     "title": "노동부, 고용보험 부정수급 집중신고…자진신고하면 추가징수 면제",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374488",
-     "source": "전기신문"
+     "title": "'자발적 퇴사' 청년에 月100만원 검토…\"도덕적 해이 우려 적어\"",
+     "url": "https://www.newsis.com/view/NISX20261109_0003859821",
+     "source": "뉴시스"
     },
     {
-     "title": "\"고용보험 부정수급 자진신고하세요\"…추가징수 면제 등[부산소식]",
-     "url": "https://www.newsis.com/view/NISX20261109_0003860654",
-     "source": "뉴시스"
+     "title": "내 발로 퇴사해도 실업급여… “도덕적 해이 우려 크지 않아”",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3447169",
+     "source": "천지일보"
     }
    ]
   },
@@ -64,99 +149,14 @@
    "when": "11월 09일 15:10",
    "news": [
     {
-     "title": "\"레버리지도 아닌데\"…일제히 '10%대 급등' ETF 뭐길래",
-     "url": "https://www.hankyung.com/article/202611094906i",
+     "title": "한달 만에 1000만원→299만원 됐다...'야수의 심장' 개미, 눈물의 물타기 [서학픽] - 머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/09/2026110814501193864",
+     "source": "머니투데이"
+    },
+    {
+     "title": "3배 더 벌 줄 알았는데, 3배 더 빨리 무너지는 이유",
+     "url": "https://www.hankyung.com/article/202611059275i",
      "source": "한국경제"
-    },
-    {
-     "title": "[ETF 시황] 우주항공·양자 ETF 날았다…2차전지 레버리지는 12% 급락",
-     "url": "https://www.newspim.com/news/view/20261109001123",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "정지선",
-   "traffic": "2000+",
-   "when": "11월 09일 14:50",
-   "news": [
-    {
-     "title": "정지선, 대만 매장서 직원 10명 퇴사…“한 달 반 만에 다 나갔다”",
-     "url": "https://www.segye.com/newsView/20261109502858",
-     "source": "세계일보"
-    },
-    {
-     "title": "정지선 \"140평 대만 식당 한 달 반 만에 10명 퇴사해\"",
-     "url": "https://www.newsis.com/view/NISX20261108_0003859545",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "lg전자",
-   "traffic": "500+",
-   "when": "11월 09일 14:40",
-   "news": [
-    {
-     "title": "[기업] LG전자, 차량 통신 모듈 안전 최고등급...\"중대 사고 방지\"",
-     "url": "https://www.ytn.co.kr/_ln/0102_202611091433199410",
-     "source": "YTN"
-    },
-    {
-     "title": "LG전자, 차량 통신모듈 안전성 최고 등급 획득…제네시스 GV90 탑재",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02191046645644080",
-     "source": "마켓인"
-    }
-   ]
-  },
-  {
-   "kw": "이규한",
-   "traffic": "1000+",
-   "when": "11월 09일 14:40",
-   "news": [
-    {
-     "title": "이규한, 예비신부 솔비 향한 남다른 사랑…“분리수거도 안 시킬 것”",
-     "url": "https://www.segye.com/newsView/20261109502020",
-     "source": "세계일보"
-    },
-    {
-     "title": "솔비와 결혼 티낸 이규한 \"짧은머리 이상형…결혼 압박 없어\"",
-     "url": "https://www.newsis.com/view/NISX20261108_0003859533",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "논문",
-   "traffic": "1000+",
-   "when": "11월 09일 14:30",
-   "news": [
-    {
-     "title": "황우석 전 서울대 교수, UAE 국적 취득해 한국 국적 상실",
-     "url": "https://www.khan.co.kr/article/202611091126001",
-     "source": "경향신문"
-    },
-    {
-     "title": "황우석 박사, 아랍에미리트 국적 취득…韓 국적 상실",
-     "url": "https://www.segye.com/newsView/20261109504842",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "박진혁",
-   "traffic": "200+",
-   "when": "11월 09일 14:20",
-   "news": [
-    {
-     "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
-     "url": "https://www.munhwa.com/article/11629685",
-     "source": "문화일보"
-    },
-    {
-     "title": "北 해커, 훔친 코인 급히 바꾸다 1650억 손실…트레이더들은 830억 '횡재'",
-     "url": "https://www.news1.kr/finance/blockchain-fintech/6348038",
-     "source": "뉴스1"
     }
    ]
   }
