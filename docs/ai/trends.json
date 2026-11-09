@@ -1,15 +1,83 @@
 {
- "updated": "2026-11-09 09:22",
+ "updated": "2026-11-09 10:23",
  "items": [
   {
+   "kw": "공장",
+   "traffic": "500+",
+   "when": "11월 09일 09:10",
+   "news": [
+    {
+     "title": "세아베스틸, 철강공장 특화 AI 안전 솔루션 개발",
+     "url": "https://www.yna.co.kr/view/AKR20261109043900003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "세아베스틸, AI 안전 설루션 개발… 안전 경영 ‘강화’",
+     "url": "https://biz.chosun.com/industry/company/2026/11/09/UTPPKOPSB5BDPMVH5GEBXRMEQ4/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "이찬혁",
+   "traffic": "2000+",
+   "when": "11월 09일 09:00",
+   "news": [
+    {
+     "title": "악뮤 강릉 콘서트 시야 제한 논란…“17만 원 VIP석도 안 보여”",
+     "url": "https://www.donga.com/news/Society/article/all/20261109/134989499/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "공연 도중 관객 이탈까지... 호평받던 악뮤 콘서트, 쏟아진 혹평",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GUZGIYRXMM4DKODCMFSDGYJVG4/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "매일경제신문",
+   "traffic": "2000+",
+   "when": "11월 09일 08:50",
+   "news": [
+    {
+     "title": "“삼전닉스 적정 주가는?”…현금 확보가 필요한 이유 [경제한방]",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8706862",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "“고점서 60% 빠졌는데 당연히 사야죠”...삼전닉스 지금 매수하라는 노익장",
+     "url": "https://www.mk.co.kr/news/stock/12201921",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "르브론 제임스",
+   "traffic": "100+",
+   "when": "11월 09일 08:30",
+   "news": [
+    {
+     "title": "‘클리블랜드 악몽 씻었다’ 르브론, 22점 폭발···필라델피아 ‘주전 3총사 78점 합작’ 불스 꺾고 반등",
+     "url": "https://sports.khan.co.kr/article/202611090850003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "NBA 필라델피아, 클리블랜드에 24점 차 완패…르브론 '8점' 부진",
+     "url": "https://www.news1.kr/sports/basketball/6346369",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
    "kw": "개발제한구역",
-   "traffic": "200+",
+   "traffic": "1000+",
    "when": "11월 09일 08:20",
    "news": []
   },
   {
    "kw": "마린 올솝",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 09일 08:10",
    "news": [
     {
@@ -18,9 +86,9 @@
      "source": "조선일보"
     },
     {
-     "title": "4년 전 눈물에서… 4년 후 눈맞춤으로",
-     "url": "https://www.donga.com/news/Culture/article/all/20261109/134988145/2",
-     "source": "동아일보"
+     "title": "임윤찬의 힘찬 건반, 벨벳처럼 감싼 악단… 4년전 거장울린 감동 그대로",
+     "url": "https://www.munhwa.com/article/11629755",
+     "source": "문화일보"
     }
    ]
   },
@@ -30,20 +98,20 @@
    "when": "11월 09일 08:00",
    "news": [
     {
-     "title": "Sixers starters put on a show in Chicago (Short Mix)",
-     "url": "https://www.nba.com/watch/video/sixers-starters-put-on-a-show-in-chicago",
-     "source": "NBA.com"
+     "title": "LeBron James makes a key adjustment to help Sixers bounce back against Bulls",
+     "url": "https://www.phillyvoice.com/sixers-vs-bulls-76ers-highlights-score-joel-embiid-lebron-james-jaylen-brown-tyrese-maxey-vj-edgecombe-nba-chi/",
+     "source": "PhillyVoice"
     },
     {
-     "title": "How to watch 76ers vs. Bulls: TV channel and streaming options for November 8",
-     "url": "https://www.nytimes.com/athletic/7764966/2026/11/08/76ers-vs-bulls-stream-how-to-watch-nov-8/",
-     "source": "The New York Times"
+     "title": "Game Recap: 76ers 127, Bulls 121 (Nov. 8)",
+     "url": "https://www.nba.com/watch/video/game-recap-76ers-127-bulls-121-nov-8?plsrc=nba&collection=2026-27-game-recaps",
+     "source": "NBA.com"
     }
    ]
   },
   {
    "kw": "노동법",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 09일 07:50",
    "news": []
   },
@@ -78,74 +146,6 @@
      "title": "[사계 191회 예고] 백합에게 스킨십?! 14광수의 과감한 행동에 삐진 7영식 #나솔사계 EP.191ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
      "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000639414",
      "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "수능날",
-   "traffic": "200+",
-   "when": "11월 09일 07:50",
-   "news": [
-    {
-     "title": "“수능날, 오답노트 대신 챙겨라”…불수능 만점자의 비밀무기",
-     "url": "https://www.koreadaily.com/article/20261106130050591",
-     "source": "미주중앙일보"
-    },
-    {
-     "title": "[똑똑한교육] 재능교육, 리딩앤, 하모니힐스, 웅진씽크빅, 대교 눈높이, 소노아임레디, YBN인강, 천재교과서",
-     "url": "https://m.ekn.kr/view.php?key=20261031020183718",
-     "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "할증",
-   "traffic": "2000+",
-   "when": "11월 09일 07:40",
-   "news": [
-    {
-     "title": "택시 ‘요일별 할증제’ 추진… 불금·주말엔 더 비싸지나",
-     "url": "https://www.chosun.com/national/transport-environment/2026/11/09/S4OFKKJL6JCMVC6T75PFLXXBQQ/",
-     "source": "조선일보"
-    },
-    {
-     "title": "택시비, 심야 이어 요일별 할증도 가능해진다…국토부 훈령 개정 추진",
-     "url": "https://www.news1.kr/realestate/general/6346045",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "t1",
-   "traffic": "1000+",
-   "when": "11월 09일 07:40",
-   "news": [
-    {
-     "title": "[롤드컵] '첫 걸음부터 꼬인 T1' BLG 맞춤 설계에 4강 서전 30분만에 참패",
-     "url": "https://www.osen.co.kr/article/G1112907031",
-     "source": "OSEN"
-    },
-    {
-     "title": "[롤드컵] '페이커 노데스 캐리'…T1, BLG에 2세트 반격 성공 1-1 원점",
-     "url": "https://www.osen.co.kr/article/G1112907057",
-     "source": "OSEN"
-    }
-   ]
-  },
-  {
-   "kw": "의약품",
-   "traffic": "500+",
-   "when": "11월 09일 07:40",
-   "news": [
-    {
-     "title": "소아 자료보호의약품 총 26개… 올해만 18개 품목 등재",
-     "url": "https://www.hkn24.com/news/articleView.html?idxno=351602",
-     "source": "헬스코리아뉴스"
-    },
-    {
-     "title": "희귀질환 신약 5종, 건보 신속 등재 시범사업 대상 선정",
-     "url": "https://biz.chosun.com/science-chosun/bio/2026/11/07/KKD5WKHFN5EV7I56KWCFFHGCWU/",
-     "source": "Chosunbiz"
     }
    ]
   }
