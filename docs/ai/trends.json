@@ -1,6 +1,63 @@
 {
- "updated": "2026-11-09 23:23",
+ "updated": "2026-11-10 00:23",
  "items": [
+  {
+   "kw": "안드레이 알롭스키",
+   "traffic": "100+",
+   "when": "11월 09일 23:20",
+   "news": [
+    {
+     "title": "사망 조롱 논란에 “죄송합니다”…UFC 전 챔피언 “영어는 제2외국어” 해명",
+     "url": "https://isplus.com/article/view/isp202611090129",
+     "source": "일간스포츠"
+    },
+    {
+     "title": "사망 조롱 후폭풍…“관심에 인간성까지 팔았다” UFC 전 챔피언까지 비판 가세",
+     "url": "https://isplus.com/article/view/isp202611090177",
+     "source": "일간스포츠"
+    }
+   ]
+  },
+  {
+   "kw": "ai 데이터 센터",
+   "traffic": "100+",
+   "when": "11월 09일 23:10",
+   "news": [
+    {
+     "title": "국힘 \"우상호 AIDC 수사 촉구\"…우 지사 \"투자 정쟁화 말라\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261109060851001",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "강릉 AI데이터센터 유치 논란 확산…공방 격화",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109210908VXt",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "안랩",
+   "traffic": "100+",
+   "when": "11월 09일 23:00",
+   "news": []
+  },
+  {
+   "kw": "티머니",
+   "traffic": "100+",
+   "when": "11월 09일 22:10",
+   "news": [
+    {
+     "title": "티머니, '모두의카드' 편의점 판매 시작",
+     "url": "https://www.etnews.com/20261109000258",
+     "source": "전자신문"
+    },
+    {
+     "title": "모두의카드, CU·GS25 등 편의점서 판매…전국 환급혜택 제공",
+     "url": "https://biz.sbs.co.kr/article/20000345065",
+     "source": "SBS Biz"
+    }
+   ]
+  },
   {
    "kw": "신인감독 김연경 시즌2",
    "traffic": "5000+",
@@ -41,31 +98,14 @@
    "when": "11월 09일 20:50",
    "news": [
     {
-     "title": "NVIDIA, 리벨리온·SK텔레콤과 NVLink Fusion 기반 소버린 AI 인프라 고도화 협력 발표",
-     "url": "https://blogs.nvidia.co.kr/blog/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion/",
+     "title": "과기정통부와 함께 AI 스타트업 파트너십 포럼 개최한 NVIDIA, 국내 스타트업 투자 확대",
+     "url": "https://blogs.nvidia.co.kr/blog/korean-startup-investments-msit/",
      "source": "NVIDIA"
     },
     {
      "title": "에이전틱 AI·피지컬 AI부터 인프라까지 아우른 “엔비디아 AI 데이 서울 2026”",
      "url": "https://www.donga.com/news/It/article/all/20261109/134995914/1",
      "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "박승규",
-   "traffic": "1000+",
-   "when": "11월 09일 20:50",
-   "news": [
-    {
-     "title": "무명서 가을 스타로… 박승규 “우승 반지로 청혼할래요”",
-     "url": "https://www.munhwa.com/article/11629827",
-     "source": "문화일보"
-    },
-    {
-     "title": "\"팬도 선수도 함께 쓰러질 때까지…\" 박승규의 비장한 우승 다짐 [베이스볼S]",
-     "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000639518",
-     "source": "programs.sbs.co.kr"
     }
    ]
   },
@@ -87,8 +127,25 @@
    ]
   },
   {
+   "kw": "박승규",
+   "traffic": "1000+",
+   "when": "11월 09일 20:50",
+   "news": [
+    {
+     "title": "무명서 가을 스타로… 박승규 “우승 반지로 청혼할래요”",
+     "url": "https://www.munhwa.com/article/11629827",
+     "source": "문화일보"
+    },
+    {
+     "title": "\"팬도 선수도 함께 쓰러질 때까지…\" 박승규의 비장한 우승 다짐 [베이스볼S]",
+     "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000639518",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
    "kw": "변호사",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 09일 20:30",
    "news": [
     {
@@ -100,74 +157,6 @@
      "title": "대륙아주·린 합병…변호사 규모 6위 로펌 'D&L' 출범",
      "url": "https://www.yna.co.kr/view/AKR20261109139800004",
      "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "이지혜",
-   "traffic": "1000+",
-   "when": "11월 09일 19:50",
-   "news": [
-    {
-     "title": "이지혜, 샵 서지영과 부둥켜안고 울며 화해..\"딸들 앞에서 '스위티' 불러\"[핫피플]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/09/HAZDOOLCGQ2GMNLDMQ2WKM3FMI/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "\"부둥켜 안고 오열\"…이지혜, 서지영과 불화 끝 화해 [소셜in]",
-     "url": "https://enews.imbc.com/M/Detail/524168",
-     "source": "iMBC 연예"
-    }
-   ]
-  },
-  {
-   "kw": "해커",
-   "traffic": "2000+",
-   "when": "11월 09일 19:30",
-   "news": [
-    {
-     "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
-     "url": "https://www.munhwa.com/article/11629685",
-     "source": "문화일보"
-    },
-    {
-     "title": "[新테크용어] 바이낸스 해커는 왜 코인 쪼갰을까…’필 체인’ 수법이란",
-     "url": "https://zdnet.co.kr/view/?no=20261109155158",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "고양이",
-   "traffic": "1000+",
-   "when": "11월 09일 19:30",
-   "news": [
-    {
-     "title": "고양이 보호센터·천문과학관으로 변신한 폐교…활용 우수사례 7곳 선정",
-     "url": "https://www.khan.co.kr/article/202611081336001",
-     "source": "경향신문"
-    },
-    {
-     "title": "전북도교육청, 폐교 활용 사례 2건 전국 우수사례 선정···교육부장관상 수상",
-     "url": "https://www.greened.kr/news/articleView.html?idxno=354152",
-     "source": "녹색경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "아놀드 슈워제네거",
-   "traffic": "2000+",
-   "when": "11월 09일 19:00",
-   "news": [
-    {
-     "title": "“가정부와 불륜으로 낳은 아들”…슈워제네거 혼외자, 보디빌딩 5위",
-     "url": "https://www.twig24.com/news/2026/11/09/20261109500162",
-     "source": "www.twig24.com"
-    },
-    {
-     "title": "\"피는 못 속여\" 아놀드 슈왈제네거 가정부 혼외자, 父와 똑닮은 근육질 몸매[Oh!llywood]",
-     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/09/GA4TOMTFMNSGKNJRHBQWCOJQME/",
-     "source": "조선일보"
     }
    ]
   }
