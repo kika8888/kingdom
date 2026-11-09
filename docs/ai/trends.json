@@ -1,15 +1,100 @@
 {
- "updated": "2026-11-09 14:23",
+ "updated": "2026-11-09 15:07",
  "items": [
   {
-   "kw": "반계리 은행나무",
+   "kw": "윤여정",
+   "traffic": "500+",
+   "when": "11월 09일 14:00",
+   "news": [
+    {
+     "title": "[사진]윤여정 '우아한 출국길'",
+     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/09/GVSGKMTEMRRDCMTFHE3GEMTGGU/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "[영상] 윤여정, 깔끔하고 고급진 할꾸 '멋쟁이 할머니 코어'",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524068",
+     "source": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "kw": "의과대학",
+   "traffic": "200+",
+   "when": "11월 09일 13:50",
+   "news": [
+    {
+     "title": "'의대 탈락' 목포지역에 전남대병원 분원 설립 검토",
+     "url": "https://www.yna.co.kr/view/AKR20261109052200054",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "김형동 국회의원, 국립경국대 의대 설립으로 경북 북부권 의료 혁신 기대",
+     "url": "https://www.viva100.com/article/20261109500635",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "아나운서",
+   "traffic": "2000+",
+   "when": "11월 09일 13:40",
+   "news": [
+    {
+     "title": "쌩얼에 안경쓰고 ‘지진 속보’ 전한 공영방송 아나운서…일본서 화제",
+     "url": "https://www.munhwa.com/article/11629830",
+     "source": "문화일보"
+    },
+    {
+     "title": "'파란 스웨터·안경·민낯' 日 새벽 1시 지진 속보 전한 아나운서 모습에 누리꾼 '엄지척'",
+     "url": "https://www.asiae.co.kr/article/2026110914204581600",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  {
+   "kw": "pakistan vs sri lanka",
    "traffic": "1000+",
+   "when": "11월 09일 13:40",
+   "news": [
+    {
+     "title": "Babar: 'Selection not in my hands, I simply give my inputs'",
+     "url": "https://www.cricinfo.com/story/pak-vs-sl-2026-babar-azam-selection-not-in-my-hands-i-simply-give-my-inputs-1561918",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Pakistan update WTC27 series squad against Sri Lanka",
+     "url": "https://www.icc-cricket.com/news/pakistan-update-wtc27-series-squad-against-sri-lanka",
+     "source": "ICC"
+    }
+   ]
+  },
+  {
+   "kw": "로켓",
+   "traffic": "200+",
+   "when": "11월 09일 13:40",
+   "news": [
+    {
+     "title": "이노스페이스, 준궤도 로켓 '세빛' 재도전…29일 발사 목표",
+     "url": "https://www.yna.co.kr/view/AKR20261109030000017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "‘와신상담’ 국내 민간로켓 세빛, 이번엔 발사 성공할까…오는 29일 우주행 재도전",
+     "url": "https://www.khan.co.kr/article/202611091159001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "반계리 은행나무",
+   "traffic": "2000+",
    "when": "11월 09일 13:10",
    "news": [
     {
-     "title": "[포토] 노랗게 물든 장수동 은행나무",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336217",
-     "source": "인천일보"
+     "title": "'비 내리듯 우수수' 거짓말처럼 잎 떨군 원주 반계리 은행나무",
+     "url": "https://www.yna.co.kr/view/AKR20261109063100062",
+     "source": "연합뉴스"
     },
     {
      "title": "[포토] 사랑을 남기고 떠나는 가을",
@@ -19,19 +104,19 @@
    ]
   },
   {
-   "kw": "pak vs sl",
-   "traffic": "500+",
-   "when": "11월 09일 13:00",
+   "kw": "트로이 왓슨",
+   "traffic": "100+",
+   "when": "11월 09일 13:10",
    "news": [
     {
-     "title": "Kusal Mendis: 'I have no doubt in my batting line-up'",
-     "url": "https://www.cricinfo.com/story/pak-vs-sl-1st-test-kusal-mendis-has-no-doubt-his-batters-can-deal-with-all-sorts-of-conditions-1561879",
-     "source": "Cricinfo"
+     "title": "1년 새 팔꿈치 수술만 두 번 했는데 한국행? '최고 157km/h' 트로이 왓슨, KBO 구단과 계약 임박",
+     "url": "http://www.spochoo.com/news/articleView.html?idxno=131902",
+     "source": "더게이트"
     },
     {
-     "title": "Pakistan update WTC27 series squad against Sri Lanka",
-     "url": "https://www.icc-cricket.com/news/pakistan-update-wtc27-series-squad-against-sri-lanka",
-     "source": "ICC"
+     "title": "'트로이 '목마' 왓슨 FA 됐다' LG와 한화, 또 격한 영입 경쟁할까?...NPB 진출 가능성도",
+     "url": "https://www.maniareport.com/view.php?ud=20261106060801229691b55a0d56_19",
+     "source": "마니아타임즈"
     }
    ]
   },
@@ -83,80 +168,6 @@
      "title": "서울 용산구, '용산공원 특별법' 개정 추진에 \"분명한 반대\"",
      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008837227",
      "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "소방",
-   "traffic": "100+",
-   "when": "11월 09일 12:50",
-   "news": [
-    {
-     "title": "\"여러분의 아버지는…\" 李대통령, 순직 소방경 세 자녀들에 건넨 말 - 머니투데이",
-     "url": "https://www.mt.co.kr/politics/2026/11/09/2026110911165238847",
-     "source": "머니투데이"
-    },
-    {
-     "title": "용인서부소방서, 제64주년 소방의 날 기념식…유공 표창",
-     "url": "https://www.newsis.com/view/NISX20261109_0003860465",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "김연아",
-   "traffic": "2000+",
-   "when": "11월 09일 12:30",
-   "news": [
-    {
-     "title": "'임신설 부인' 김연아, 볼살 통통하게 오른 모습 공개…여전한 미모 [N샷]",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6347161",
-     "source": "뉴스1"
-    },
-    {
-     "title": "‘고우림♥’ 김연아, 여전한 청순 미모",
-     "url": "https://www.mk.co.kr/news/hot-issues/12202061",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "연차",
-   "traffic": "1000+",
-   "when": "11월 09일 12:20",
-   "news": []
-  },
-  {
-   "kw": "jtbc",
-   "traffic": "200+",
-   "when": "11월 09일 12:20",
-   "news": [
-    {
-     "title": "JTBC launches sale, to pick preferred buyer in January",
-     "url": "https://biz.chosun.com/en/en-finance/2026/11/09/I67ZL7I37VCOJOM7A6MXFLPHRM/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "Troubled broadcaster JTBC to select preferred bidder in Jan.",
-     "url": "https://en.yna.co.kr/view/AEN20261109001900315",
-     "source": "Yonhap News Agency"
-    }
-   ]
-  },
-  {
-   "kw": "삼전닉스",
-   "traffic": "20000+",
-   "when": "11월 09일 12:10",
-   "news": [
-    {
-     "title": "\"개미들 공포에 떠는데\"…월가 큰손들 반도체 다시 보는 까닭 [빈난새의 빈틈없이마켓]",
-     "url": "https://www.hankyung.com/article/202611094448i",
-     "source": "한국경제"
-    },
-    {
-     "title": "양시장 반등…코스피 5100선 넘어",
-     "url": "https://www.asiae.co.kr/article/2026110913524831135",
-     "source": "아시아경제"
     }
    ]
   }
