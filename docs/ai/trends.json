@@ -1,9 +1,43 @@
 {
- "updated": "2026-11-09 20:23",
+ "updated": "2026-11-09 21:23",
  "items": [
   {
-   "kw": "아놀드 슈워제네거",
+   "kw": "해커",
+   "traffic": "500+",
+   "when": "11월 09일 19:30",
+   "news": [
+    {
+     "title": "“배우 닮았다” 8년째 美수배 北최고해커 박진혁 다시 주목받는 이유",
+     "url": "https://www.munhwa.com/article/11629685",
+     "source": "문화일보"
+    },
+    {
+     "title": "[단독] 北 해킹 장물에 개미들 ‘830억 돈잔치’… “공포장 속 황당 횡재”",
+     "url": "https://www.mk.co.kr/news/stock/12202311",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "고양이",
    "traffic": "1000+",
+   "when": "11월 09일 19:30",
+   "news": [
+    {
+     "title": "독사와 맞짱 뜬 아기 고양이 근황…\"생사 오가는 치료 중\"",
+     "url": "https://news.jtbc.co.kr/article/NB12327146",
+     "source": "JTBC"
+    },
+    {
+     "title": "독사와 싸워 살아남은 생후 3개월 아기고양이…새 주인 찾았다",
+     "url": "https://www.etnews.com/20261108000070",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "아놀드 슈워제네거",
+   "traffic": "2000+",
    "when": "11월 09일 19:00",
    "news": [
     {
@@ -54,18 +88,18 @@
   },
   {
    "kw": "김부선",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 09일 18:10",
    "news": [
+    {
+     "title": "김부선 \"월 300만원 '무상 지원' 소송서 승리…2억 다 안 갚아도 된다\"",
+     "url": "https://www.news1.kr/society/general-society/6347578",
+     "source": "뉴스1"
+    },
     {
      "title": "’2억 변제 소송’ 김부선, 일부 승소…“완승과도 같은 결과“",
      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109155246gBN",
      "source": "연합뉴스TV"
-    },
-    {
-     "title": "김부선 \"2억 변제 소송, 사실상 완승…원고 추가 청구 전부 기각\" - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/09/2026110915460134238",
-     "source": "머니투데이"
     }
    ]
   },
@@ -88,7 +122,7 @@
   },
   {
    "kw": "스타틴",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 09일 17:50",
    "news": [
     {
@@ -134,40 +168,6 @@
      "title": "지하철서 잠든 20대 여성에 입 맞추고 신체 접촉…60대 구속 송치",
      "url": "https://www.kyeonggi.com/article/20261109580406",
      "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "볼더링",
-   "traffic": "1000+",
-   "when": "11월 09일 16:50",
-   "news": [
-    {
-     "title": "“어딘지 어색하더라니…” 고난도 볼더링 짜깁기 논란",
-     "url": "http://san.chosun.com/news/articleView.html?idxno=26234",
-     "source": "월간산"
-    },
-    {
-     "title": "고난도 볼더링 영상 짜깁기 논란…증거 요구 확산 : 스포츠",
-     "url": "https://news.jkn.co.kr/post/1080793",
-     "source": "재경일보"
-    }
-   ]
-  },
-  {
-   "kw": "에너지",
-   "traffic": "500+",
-   "when": "11월 09일 16:50",
-   "news": [
-    {
-     "title": "한전 에너지캐시백 가입자 200만호…제주 가정 1년 전력량 절약",
-     "url": "https://www.yna.co.kr/view/AKR20261109094200003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "한전, 주택용 에너지캐시백 200만호 돌파…1025GWh 절감",
-     "url": "https://www.newsis.com/view/NISX20261109_0003860845",
-     "source": "뉴시스"
     }
    ]
   }
