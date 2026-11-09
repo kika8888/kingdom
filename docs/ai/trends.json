@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-09 18:23",
+ "updated": "2026-11-09 19:23",
  "items": [
+  {
+   "kw": "가상자산",
+   "traffic": "200+",
+   "when": "11월 09일 18:20",
+   "news": [
+    {
+     "title": "대법, 가상자산 압류·현금화 절차 마련",
+     "url": "https://www.mk.co.kr/news/society/12202498",
+     "source": "매일경제"
+    },
+    {
+     "title": "못 받은 돈, 채무자 코인 팔아 회수…대법원, 집행 절차 정비 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/09/2026110915384474564",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "김부선",
+   "traffic": "2000+",
+   "when": "11월 09일 18:10",
+   "news": [
+    {
+     "title": "김부선 \"월 300만원 '무상 지원' 소송서 승리…2억 다 안 갚아도 된다\"",
+     "url": "https://www.news1.kr/society/general-society/6347578",
+     "source": "뉴스1"
+    },
+    {
+     "title": "’2억 변제 소송’ 김부선, 일부 승소…“완승과도 같은 결과“",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109155246gBN",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "nepal premier league",
+   "traffic": "100+",
+   "when": "11월 09일 18:00",
+   "news": [
+    {
+     "title": "Pokhara set 218-run target for Karnali in NPL",
+     "url": "https://english.nepalnews.com/s/sports/pokhara-set-218-run-target-for-karnali-in-npl/",
+     "source": "Nepalnews.com"
+    },
+    {
+     "title": "Yuvraj Samrat Scores First Half-Century in Nepal Premier League",
+     "url": "https://english.ratopati.com/story/86113/yuvraj-samras-first-half-century-in-npl",
+     "source": "Ratopati"
+    }
+   ]
+  },
+  {
+   "kw": "스타틴",
+   "traffic": "1000+",
+   "when": "11월 09일 17:50",
+   "news": [
+    {
+     "title": "동맥경화성 심혈관질환 환자에 ‘이 약’ 추가했더니···‘나쁜 콜레스테롤’ 더 빨리 줄이는 데 효과",
+     "url": "https://www.khan.co.kr/article/202611091453001",
+     "source": "경향신문"
+    },
+    {
+     "title": "심혈관질환, LDL 콜레스테롤 확 낮추는 '이 방법'",
+     "url": "https://www.newsis.com/view/NISX20261109_0003860308",
+     "source": "뉴시스"
+    }
+   ]
+  },
   {
    "kw": "김장훈",
    "traffic": "5000+",
@@ -12,15 +80,15 @@
      "source": "세계일보"
     },
     {
-     "title": "\"한 달에 이렇게 많이 줘?\"…국민연금 수령에 김장훈, 또 결심 - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/09/2026110917220064923",
+     "title": "\"이렇게 많이 줘?\" 63세 김장훈, 국민연금 수령액 깜짝...또 기부? - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110917220064923",
      "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "구속",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 09일 16:50",
    "news": [
     {
@@ -37,18 +105,18 @@
   },
   {
    "kw": "볼더링",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 09일 16:50",
    "news": [
     {
-     "title": "스포츠클라이밍 대표팀, 국가대항전서 볼더링·리드 은메달",
-     "url": "https://www.yna.co.kr/view/AKR20261109124800007",
-     "source": "연합뉴스"
+     "title": "“어딘지 어색하더라니…” 고난도 볼더링 짜깁기 논란",
+     "url": "http://san.chosun.com/news/articleView.html?idxno=26234",
+     "source": "월간산"
     },
     {
-     "title": "서채현·이도현의 한국 스포츠클라이밍, 네이션스 그랜드 파이널 銀 2개",
-     "url": "https://www.newsis.com/view/NISX20261109_0003860941",
-     "source": "뉴시스"
+     "title": "고난도 볼더링 영상 짜깁기 논란…증거 요구 확산 : 스포츠",
+     "url": "https://news.jkn.co.kr/post/1080793",
+     "source": "재경일보"
     }
    ]
   },
@@ -80,15 +148,15 @@
      "source": "SBS 뉴스"
     },
     {
-     "title": "“아이 훈육을 귀신에게?”…한국민속촌 ‘귀신 훈육’ 아동학대 논란",
-     "url": "https://www.kyeonggi.com/article/20261109580335",
-     "source": "경기일보"
+     "title": "\"민속촌 참교육 중단해야\" '귀신 훈육' 아동학대 논란 [앵커리포트]",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611091416020041",
+     "source": "YTN"
     }
    ]
   },
   {
    "kw": "류지현",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 09일 16:00",
    "news": [
     {
@@ -100,63 +168,6 @@
      "title": "정우주 선발? 불펜? 그보다 중요한 이야기가 있었다…2년 차 영건과 깊은 대화, 신임 감독은 무슨 메시지 전했나 [오!쎈 미야자키] - 머니투데이",
      "url": "https://www.mt.co.kr/sports/2026/11/09/202611090808777879O",
      "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "천무 다연장로켓",
-   "traffic": "200+",
-   "when": "11월 09일 15:50",
-   "news": [
-    {
-     "title": "한화에어로스페이스, 육상용 ‘천무’ 바다에서 쏜다…美 무인함정 시장 공략",
-     "url": "https://www.chosun.com/economy/industry-company/2026/11/09/7MFLUFVJQRHAHGO6FKCDX5LWEU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "한화오션 미국 해군 중형상륙함 수주는 '미미' 평가, 블룸버그 \"한국 조선업체 투자 유인할 추가 발주 필요\"",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451483",
-     "source": "비즈니스포스트"
-    }
-   ]
-  },
-  {
-   "kw": "근로장려금",
-   "traffic": "500+",
-   "when": "11월 09일 15:40",
-   "news": []
-  },
-  {
-   "kw": "실업",
-   "traffic": "500+",
-   "when": "11월 09일 15:10",
-   "news": [
-    {
-     "title": "'자발적 퇴사' 청년에 月100만원 검토…\"도덕적 해이 우려 적어\"",
-     "url": "https://www.newsis.com/view/NISX20261109_0003859821",
-     "source": "뉴시스"
-    },
-    {
-     "title": "내 발로 퇴사해도 실업급여… “도덕적 해이 우려 크지 않아”",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3447169",
-     "source": "천지일보"
-    }
-   ]
-  },
-  {
-   "kw": "상장지수 펀드",
-   "traffic": "500+",
-   "when": "11월 09일 15:10",
-   "news": [
-    {
-     "title": "한달 만에 1000만원→299만원 됐다...'야수의 심장' 개미, 눈물의 물타기 [서학픽] - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/09/2026110814501193864",
-     "source": "머니투데이"
-    },
-    {
-     "title": "3배 더 벌 줄 알았는데, 3배 더 빨리 무너지는 이유",
-     "url": "https://www.hankyung.com/article/202611059275i",
-     "source": "한국경제"
     }
    ]
   }
