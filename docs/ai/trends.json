@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-10 00:23",
+ "updated": "2026-11-10 01:23",
  "items": [
+  {
+   "kw": "kf-21 보라매",
+   "traffic": "500+",
+   "when": "11월 10일 00:20",
+   "news": [
+    {
+     "title": "유로파이터 200대 증산 시동…KAI KF-21 유럽 진출 타진 분수령",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611070911181985fbbec65dfb_1",
+     "source": "글로벌이코노믹"
+    },
+    {
+     "title": "\"이걸 우리가 만들었어?\"…KF-21 첫 조종사들이 말하는 '보라매'",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974973",
+     "source": "대한민국 정책브리핑"
+    }
+   ]
+  },
+  {
+   "kw": "gta6",
+   "traffic": "200+",
+   "when": "11월 10일 00:20",
+   "news": [
+    {
+     "title": "GTA6 Release Triggers 1.5M U.S. Absences",
+     "url": "https://www.chosun.com/english/industry-en/2026/11/10/SGZQM3ZS6NBEPE7EBXVFVCBDTE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "GTA VI launch set to cost bosses £12m as workers book 83,000 days off to play long-awaited game",
+     "url": "https://www.thesun.co.uk/news/40963228/gta-vi-launch-cost-workers-book-days-off/",
+     "source": "The Sun"
+    }
+   ]
+  },
+  {
+   "kw": "버거킹",
+   "traffic": "100+",
+   "when": "11월 10일 00:10",
+   "news": [
+    {
+     "title": "\"소방관 응원해요\"…유통가, 소방의 날 맞이 캠페인",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109133837fmD",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "버거킹, 소방관·가족 초청해 감사 행사…와퍼 콤보 1190개 전달",
+     "url": "https://www.etnews.com/20261109000029",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "nvda",
+   "traffic": "100+",
+   "when": "11월 09일 23:50",
+   "news": [
+    {
+     "title": "NVDA support and resistance levels as stock trades in oversold territory",
+     "url": "https://www.investing.com/news/stock-market-news/nvda-support-and-resistance-levels-as-stock-trades-in-oversold-territory-93CH-5012758",
+     "source": "Investing.com"
+    },
+    {
+     "title": "Stock of the Day: Where is the Bottom for NVIDIA?",
+     "url": "https://www.benzinga.com/trading-ideas/technicals/26/11/63041933/stock-of-the-day-where-is-the-bottom-for-nvidia-2",
+     "source": "Benzinga"
+    }
+   ]
+  },
   {
    "kw": "안드레이 알롭스키",
    "traffic": "100+",
@@ -20,30 +88,30 @@
   },
   {
    "kw": "ai 데이터 센터",
-   "traffic": "100+",
+   "traffic": "1000+",
    "when": "11월 09일 23:10",
    "news": [
     {
-     "title": "국힘 \"우상호 AIDC 수사 촉구\"…우 지사 \"투자 정쟁화 말라\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261109060851001",
-     "source": "연합뉴스"
+     "title": "“미국에 못 짓는 AI 데이터센터 한국에 유치하자”?…정말 기회이기만 할까",
+     "url": "https://www.khan.co.kr/article/202611081638001",
+     "source": "경향신문"
     },
     {
-     "title": "강릉 AI데이터센터 유치 논란 확산…공방 격화",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109210908VXt",
-     "source": "연합뉴스TV"
+     "title": "재경장관 \"대미 투자 1호 '텍사스 발전소', 상황 지켜볼 필요\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6864310_36911.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
   {
    "kw": "안랩",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 09일 23:00",
    "news": []
   },
   {
    "kw": "티머니",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 09일 22:10",
    "news": [
     {
@@ -89,74 +157,6 @@
      "title": "종근당건강 비타콜라겐…캐시워크 돈버는퀴즈 정답 공개",
      "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=112874",
      "source": "게임톡"
-    }
-   ]
-  },
-  {
-   "kw": "빅테크",
-   "traffic": "2000+",
-   "when": "11월 09일 20:50",
-   "news": [
-    {
-     "title": "과기정통부와 함께 AI 스타트업 파트너십 포럼 개최한 NVIDIA, 국내 스타트업 투자 확대",
-     "url": "https://blogs.nvidia.co.kr/blog/korean-startup-investments-msit/",
-     "source": "NVIDIA"
-    },
-    {
-     "title": "에이전틱 AI·피지컬 AI부터 인프라까지 아우른 “엔비디아 AI 데이 서울 2026”",
-     "url": "https://www.donga.com/news/It/article/all/20261109/134995914/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "아시아나항공",
-   "traffic": "500+",
-   "when": "11월 09일 20:50",
-   "news": [
-    {
-     "title": "아시아나항공 주가 170원 하락 후 장마감",
-     "url": "https://m.anewsa.com/article_sub3.php?number=3215988&type=&mobile=",
-     "source": "아시아뉴스통신"
-    },
-    {
-     "title": "[장중수급포착] 아시아나항공, 기관 6일 연속 순매수행진... 주가 +4.13%",
-     "url": "https://www.newspim.com/news/view/20261103000361",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "박승규",
-   "traffic": "1000+",
-   "when": "11월 09일 20:50",
-   "news": [
-    {
-     "title": "무명서 가을 스타로… 박승규 “우승 반지로 청혼할래요”",
-     "url": "https://www.munhwa.com/article/11629827",
-     "source": "문화일보"
-    },
-    {
-     "title": "\"팬도 선수도 함께 쓰러질 때까지…\" 박승규의 비장한 우승 다짐 [베이스볼S]",
-     "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000639518",
-     "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "변호사",
-   "traffic": "500+",
-   "when": "11월 09일 20:30",
-   "news": [
-    {
-     "title": "대륙아주·린, ‘디앤엘(D&L)’로 새출발… 국내 6위 로펌으로",
-     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229091",
-     "source": "법률신문"
-    },
-    {
-     "title": "대륙아주·린 합병…변호사 규모 6위 로펌 'D&L' 출범",
-     "url": "https://www.yna.co.kr/view/AKR20261109139800004",
-     "source": "연합뉴스"
     }
    ]
   }
