@@ -1,173 +1,162 @@
 {
- "updated": "2026-11-10 12:23",
+ "updated": "2026-11-10 13:25",
  "items": [
   {
-   "kw": "골프",
-   "traffic": "1000+",
-   "when": "11월 10일 11:20",
+   "kw": "이재영",
+   "traffic": "500+",
+   "when": "11월 10일 12:20",
    "news": [
     {
-     "title": "디딤돌재단·이도, 대보하우스디 챔피언십서 꿈나무 후원금 1억원 모았다",
-     "url": "https://www.chosun.com/national/people/2026/11/09/WY6UBS5DKZBIJOYYCNXREMTY3I/",
-     "source": "조선일보"
+     "title": "\"사랑해요!\" 이재영·이다영, 쌍둥이 깜짝 근황…日 국적 동료와 댄스로 각별한 우정 과시→소속팀은 사상 첫 챔스 본선 진출 유력",
+     "url": "https://m.news.nate.com/view/20261110n01642",
+     "source": "네이트"
     },
     {
-     "title": "KLPGA, 올포유·레노마 자선골프대회서 3천만원 모금",
-     "url": "https://www.yna.co.kr/view/AKR20261110046300007",
-     "source": "연합뉴스"
+     "title": "이재영·다영 소속팀 투란, CEV 챔스 본선행 위해 '순항중'…예선 3라운드 불가리아 원정 첫 경기 승리",
+     "url": "https://mydaily.co.kr/page/view/2026110615140663862",
+     "source": "마이데일리"
     }
    ]
   },
   {
-   "kw": "연비",
+   "kw": "테슬라 모델 y",
+   "traffic": "2000+",
+   "when": "11월 10일 12:00",
+   "news": [
+    {
+     "title": "11월에도 자체 보조금… 테슬라 “모델 Y만 215만원”…BYD “4종 모두 제공”",
+     "url": "https://www.etnews.com/20261106000223",
+     "source": "전자신문"
+    },
+    {
+     "title": "아이오닉5 프리미엄은 모던보다 535만원 비싸… 보조금은 절반만 나온다",
+     "url": "https://www.radiancereport.kr/news/articleView.html?idxno=16382",
+     "source": "래디언스리포트"
+    }
+   ]
+  },
+  {
+   "kw": "회사",
+   "traffic": "1000+",
+   "when": "11월 10일 12:00",
+   "news": [
+    {
+     "title": "개미들 절규 속 나홀로 상승…코스피 폭락 버틴 뜻밖의 회사 [종목+]",
+     "url": "https://www.hankyung.com/article/2026110955146",
+     "source": "한국경제"
+    },
+    {
+     "title": "엔비디아, 신주 인수금액 1조3400억 납입…네이버 ‘3대 주주’로",
+     "url": "https://www.segye.com/newsView/20261107505195",
+     "source": "세계일보"
+    }
+   ]
+  },
+  {
+   "kw": "엔비디아",
+   "traffic": "10000+",
+   "when": "11월 10일 12:00",
+   "news": [
+    {
+     "title": "젠슨 황 불륜 파문 속 엔비디아 시총 260조 증발‥주주들 집단소송",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6864486_36925.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "젠슨 황 스캔들에 미국 여야 한목소리…‘안보위협’ 진상규명 압박",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8708638",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "공공기관",
+   "traffic": "500+",
+   "when": "11월 10일 12:00",
+   "news": [
+    {
+     "title": "공공기관 기록관리 개선됐지만…교육지원청 6곳중 1곳 '최하위'",
+     "url": "https://www.yna.co.kr/view/AKR20261014015800530",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "공공기관 기록관리 수준 향상…최하위 등급 대폭 감소",
+     "url": "https://www.asiae.co.kr/article/2026111007481906978",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  {
+   "kw": "전주시",
    "traffic": "200+",
-   "when": "11월 10일 11:10",
-   "news": [
-    {
-     "title": "“국민 차 맞아?”… 현대차 신형 아반떼, 배기량 올려 ‘세금 폭탄’",
-     "url": "https://www.kgnews.co.kr/news/article.html?no=918800",
-     "source": "경기신문"
-    },
-    {
-     "title": "[황지향의 Car톡] 몸값 오른 아반떼…하이브리드로 출근길 달려보니 - 경제 | 기사",
-     "url": "https://news.tf.co.kr/read/economy/2386428.htm",
-     "source": "더팩트"
-    }
-   ]
+   "when": "11월 10일 12:00",
+   "news": []
   },
   {
-   "kw": "가수",
+   "kw": "자기주식",
    "traffic": "500+",
-   "when": "11월 10일 11:00",
+   "when": "11월 10일 12:00",
    "news": [
     {
-     "title": "임영웅, 293주째 변함없는 정상… 장기 집권 이어가는 팬덤 파워",
-     "url": "http://www.jemin.com/news/articleView.html?idxno=846679",
-     "source": "제민일보"
+     "title": "선진, 자기주식 396주 소각 결정…발행주식총수 23,779,208주로 감소 예정",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16272124",
+     "source": "톱스타뉴스"
     },
     {
-     "title": "임영웅, 'K-브랜드지수' 1위...성리·박지현·김용빈·이찬원 TOP5",
-     "url": "https://www.nc.press/news/articleView.html?idxno=630614",
-     "source": "뉴스컬처"
+     "title": "선진, 기취득 자기주식 364만원 규모 소각 결정",
+     "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=713934",
+     "source": "디지털투데이"
     }
    ]
   },
   {
-   "kw": "원태인",
-   "traffic": "500+",
-   "when": "11월 10일 10:50",
+   "kw": "ssg 랜더스",
+   "traffic": "2000+",
+   "when": "11월 10일 11:50",
    "news": [
     {
-     "title": "'푸른 새 시대' 열려면 붙잡아야 한다…삼성의 고민, 구자욱·원태인과 샐러리캡",
-     "url": "https://isplus.com/article/view/isp202611100050",
-     "source": "일간스포츠"
-    },
-    {
-     "title": "원태인 '오늘 끝낸다'",
-     "url": "https://www.yna.co.kr/view/PYH20261108101000053",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "박진만",
-   "traffic": "20000+",
-   "when": "11월 10일 10:40",
-   "news": [
-    {
-     "title": "\"우승 신문 구해요\"…삼성라이온즈 한국시리즈 우승에 신문 불티",
-     "url": "https://www.yna.co.kr/view/AKR20261109132200053",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "“편의점 67곳 돌았다“…삼성 팬들 ’우승 신문’ 구하기 열풍",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110110222hry",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "3 기 신도시 남양주 왕숙 지구",
-   "traffic": "500+",
-   "when": "11월 10일 10:20",
-   "news": [
-    {
-     "title": "정부는 ‘앞당긴다’ 했는데… 3기 신도시 최대 사업지 또 입주 지연",
-     "url": "https://www.chosun.com/economy/real_estate/2026/11/10/HUUAKXSW6JEJ5JRRV3GTRG5UDY/",
+     "title": "'라면 끊고 본격 러닝 돌입' 김서현의 독한 다이어트…\"PS 악몽 극복하고 트로피 들고 싶다\" [미야자키 인터뷰]",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/10/MI2GGMJUHEYGKMDCGRSTSMZQHA/",
      "source": "조선일보"
     },
     {
-     "title": "3기 신도시 남양주 왕숙 공공주택 또 지연… 교통대책도 난항 - 머니투데이",
-     "url": "https://www.mt.co.kr/estate/2026/11/09/2026110615515640807",
-     "source": "머니투데이"
+     "title": "\"지현이 여기 있습니다!\" 류지현 감독의 유쾌한 한마디…한화 훈련장이 '빵' 터졌다 [오!쎈미야자키]",
+     "url": "https://www.osen.co.kr/article/G1112907516",
+     "source": "OSEN"
     }
    ]
   },
   {
-   "kw": "경기도의회",
+   "kw": "사채",
    "traffic": "100+",
-   "when": "11월 10일 10:10",
+   "when": "11월 10일 11:50",
    "news": [
     {
-     "title": "“실적보다 사람이 먼저”…김성기 경기도의원, 복지 행감서 쓴소리",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336404",
-     "source": "인천일보"
+     "title": "상품권 거래 가장한 불법 사금융업자 168명 검거…5천% 초고금리",
+     "url": "https://www.yna.co.kr/view/AKR20261110054300051",
+     "source": "연합뉴스"
     },
     {
-     "title": "방미숙 경기도의원 “어렵다고 보훈 깎나”…참전수당 감액·복지 중단 질타",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336405",
-     "source": "인천일보"
+     "title": "“돈 빌렸다가 사기범으로 몰렸다”…경찰, ‘상품권 사채’ 피해자 510건 구제·2명 무죄",
+     "url": "https://www.munhwa.com/article/11630136",
+     "source": "문화일보"
     }
    ]
   },
   {
-   "kw": "중대범죄 수사청",
-   "traffic": "1000+",
-   "when": "11월 10일 09:50",
+   "kw": "개",
+   "traffic": "5000+",
+   "when": "11월 10일 11:40",
    "news": [
     {
-     "title": "피해자가 새 증거 찾아도… 검사 \"직접 못 받아\" 경찰 \"손 떠난 사건\"",
-     "url": "https://www.chosun.com/national/court_law/2026/11/10/MNTQTB3TAZC7TBSLCRCGAXGEH4/",
-     "source": "조선일보"
+     "title": "세라젬, ’CES 2027’ 혁신상 9관왕…4년 연속 수상",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110103939xXz",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "[이달우의 신우시산국 (35)]사법부 두 기관의 대조적인 불빛",
-     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071992",
-     "source": "경상일보"
-    }
-   ]
-  },
-  {
-   "kw": "인구",
-   "traffic": "500+",
-   "when": "11월 10일 09:50",
-   "news": [
-    {
-     "title": "홍성군 인구 10만 2천 명 돌파…\"전입·정착 지원 강화\"",
-     "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/10/2026111000021.html",
-     "source": "뉴데일리 충청세종"
-    },
-    {
-     "title": "홍성군 인구 10만 2000 명 돌파",
-     "url": "https://m.joongdo.co.kr/view.php?key=20261110010003218",
-     "source": "중도일보"
-    }
-   ]
-  },
-  {
-   "kw": "병무청",
-   "traffic": "500+",
-   "when": "11월 10일 09:50",
-   "news": [
-    {
-     "title": "전북병무청, 2026년 하반기 사회복무요원 복무기관담당자 교육",
-     "url": "https://www.gkg.co.kr/195121",
-     "source": "전북금강일보"
-    },
-    {
-     "title": "병무청, 복무기관 담당자 전문성 강화",
-     "url": "https://www.cctimes.kr/news/articleView.html?idxno=935951",
-     "source": "충청타임즈"
+     "title": "한국콜마, CES 2027서 2년 연속 '뷰티테크 최고혁신상' 받아",
+     "url": "https://stock.mk.co.kr/news/view/1194664",
+     "source": "매일경제 마켓"
     }
    ]
   }
