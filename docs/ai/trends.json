@@ -1,14 +1,82 @@
 {
- "updated": "2026-11-10 17:23",
+ "updated": "2026-11-10 18:23",
  "items": [
   {
+   "kw": "조혜련",
+   "traffic": "2000+",
+   "when": "11월 10일 17:20",
+   "news": [
+    {
+     "title": "\"무서운 사이비\" 일본 종교 믿었던 조혜련 반전 근황…\"가족들도 탈출\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111011242830979",
+     "source": "머니투데이"
+    },
+    {
+     "title": "“신도 100만 종교서 온 가족 탈출”…이단 경계 나선 조혜련",
+     "url": "https://www.mk.co.kr/news/culture/12203806",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "젠슨 황 스캔들",
+   "traffic": "2000+",
+   "when": "11월 10일 17:00",
+   "news": [
+    {
+     "title": "젠슨 황이 표적이었나…미인계는 옛말, 중국 스파이가 세계 거물들에 접근하는 방식 [이윤정 기자의 소소월드]",
+     "url": "https://www.khan.co.kr/article/202611101022001",
+     "source": "경향신문"
+    },
+    {
+     "title": "대만, 젠슨 황 불륜 상대 '中스파이 의혹'에 안보조사 착수",
+     "url": "https://www.yna.co.kr/view/AKR20261110163200083",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "재활용",
+   "traffic": "200+",
+   "when": "11월 10일 16:50",
+   "news": [
+    {
+     "title": "“생활폐기물 감량부터 재활용까지”…안산시, 자원순환 정책 본격 추진",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336429",
+     "source": "인천일보"
+    },
+    {
+     "title": "안산시 \"생활폐기물 처리기반 확충·자원순환 체계 구축한다\"",
+     "url": "https://www.newspim.com/news/view/20261110001120",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "만성콩팥병",
+   "traffic": "200+",
+   "when": "11월 10일 16:30",
+   "news": [
+    {
+     "title": "\"만성콩팥병 환자 과도한 단백질 제한 시 사망 위험 117% ↑\"",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611101103278079",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "만성 콩팥병 환자, 단백질 무조건 줄이면 '독'…투석·사망 위험",
+     "url": "https://www.yna.co.kr/view/AKR20261109131700530",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
    "kw": "백용환",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 10일 16:10",
    "news": [
     {
      "title": "“이범호가 부르자 고민도 없었다”…롯데 떠난 백용환, 5년 만에 KIA 귀환",
-     "url": "http://www.ftimes.kr/news/articleView.html?idxno=40989",
+     "url": "https://www.ftimes.kr/news/articleView.html?idxno=40989",
      "source": "FT스포츠"
     },
     {
@@ -41,20 +109,20 @@
    "when": "11월 10일 14:50",
    "news": [
     {
-     "title": "\"100만 달러면 돼\" KBO 가고 싶다고 애원했는데 모두가 외면→3년 뒤 4년 538억 잭팟 터졌다",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018990",
-     "source": "SPOTV NEWS"
+     "title": "미국 매체, 삼성 페덱에 “MLB 복귀보다 삼성 잔류하라”",
+     "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325346",
+     "source": "www.stnsports.co.kr"
     },
     {
-     "title": "'NPB 4년 최대 537억 잭팟 터졌다' 레이예스, 닛폰햄과 역사적 초대형 계약 합의",
-     "url": "https://isplus.com/article/view/isp202611020108",
-     "source": "일간스포츠"
+     "title": "하늘 날던 육군 무인기, 김포 공원에 ‘쿵’…교육비행 중 사고",
+     "url": "https://news.jtbc.co.kr/article/NB12327319",
+     "source": "JTBC"
     }
    ]
   },
   {
    "kw": "대만 해협",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 10일 14:40",
    "news": [
     {
@@ -71,7 +139,7 @@
   },
   {
    "kw": "골프존카운티",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 10일 14:40",
    "news": []
   },
@@ -86,77 +154,9 @@
      "source": "JTBC"
     },
     {
-     "title": "중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’",
-     "url": "https://www.donga.com/news/Politics/article/all/20261110/134996843/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "신랑",
-   "traffic": "10000+",
-   "when": "11월 10일 14:20",
-   "news": [
-    {
-     "title": "신부 가슴에 얼굴 파묻고 흔들흔들…신랑 돌발 행동에 하객들 당혹",
-     "url": "https://www.news1.kr/world/global-topic/6347972",
-     "source": "뉴스1"
-    },
-    {
-     "title": "결혼식 중 신부 가슴에 얼굴 파묻은 신랑…“애들도 보는데” 논란 [월드픽]",
-     "url": "https://www.twig24.com/news/world/global-topic/2026/11/05/20261105500253",
-     "source": "www.twig24.com"
-    }
-   ]
-  },
-  {
-   "kw": "안영명",
-   "traffic": "500+",
-   "when": "11월 10일 14:20",
-   "news": [
-    {
-     "title": "프로야구 한화, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
-     "url": "https://www.yna.co.kr/view/AKR20261110104000007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'류지현 감독 새 출발' 한화이글스, 김강·안영명 코치 영입",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=04513286645644408&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "이세계아이돌",
-   "traffic": "200+",
-   "when": "11월 10일 14:20",
-   "news": [
-    {
-     "title": "게임 ‘대어’들, AGF 집결… ‘서브컬처 격전’ 예고",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3447190",
-     "source": "천지일보"
-    },
-    {
-     "title": "SOOP, AGF 2026에 버추얼 스트리머 28명 선보인다",
-     "url": "https://www.news1.kr/it-science/internet-platform/6348726",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "시어머니",
-   "traffic": "2000+",
-   "when": "11월 10일 14:10",
-   "news": [
-    {
-     "title": "“이혼 앞두고 애들 준 세뱃돈 돌려달라는 시어머니”-YTN상담소",
-     "url": "https://www.munhwa.com/article/11629996",
-     "source": "문화일보"
-    },
-    {
-     "title": "\"양육비는 좀 줄여도 되는 거 아냐?\"…아이들 세뱃돈 통장 들먹인 남편",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611090148472120",
-     "source": "YTN"
+     "title": "훈련 중 공포탄 쏜 부하에 맞대응 사격…대대장 재판행",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261110085611FhD",
+     "source": "연합뉴스TV"
     }
    ]
   }
