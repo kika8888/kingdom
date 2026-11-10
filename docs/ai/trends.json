@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 10:23",
+ "updated": "2026-11-10 10:27",
  "items": [
   {
    "kw": "3기신도시 남양주 왕숙지구",
@@ -53,23 +53,6 @@
    ]
   },
   {
-   "kw": "로켓",
-   "traffic": "200+",
-   "when": "11월 10일 08:30",
-   "news": [
-    {
-     "title": "“두 번 발사 미루고 첫 비행도 미완성”…부산대 대학원생들이 만든 로켓, 마침내 하늘 날아",
-     "url": "https://www.munhwa.com/article/11629997",
-     "source": "문화일보"
-    },
-    {
-     "title": "부산대 대학원생 주도로 발사체 개발…우주발사체 전주기 교육 실증",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261109.99099002610",
-     "source": "국제신문"
-    }
-   ]
-  },
-  {
    "kw": "구자욱",
    "traffic": "2000+",
    "when": "11월 10일 08:30",
@@ -100,6 +83,23 @@
      "title": "코스피 폭락…지석진 \"마이너스액으로 가게 차릴 정도\"",
      "url": "https://www.newsis.com/view/NISX20261108_0003859519",
      "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "로켓",
+   "traffic": "200+",
+   "when": "11월 10일 08:30",
+   "news": [
+    {
+     "title": "“두 번 발사 미루고 첫 비행도 미완성”…부산대 대학원생들이 만든 로켓, 마침내 하늘 날아",
+     "url": "https://www.munhwa.com/article/11629997",
+     "source": "문화일보"
+    },
+    {
+     "title": "부산대 대학원생 주도로 발사체 개발…우주발사체 전주기 교육 실증",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261109.99099002610",
+     "source": "국제신문"
     }
    ]
   },
