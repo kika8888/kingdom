@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-10 22:23",
+ "updated": "2026-11-10 23:23",
  "items": [
+  {
+   "kw": "고발",
+   "traffic": "200+",
+   "when": "11월 10일 22:20",
+   "news": [
+    {
+     "title": "\"낑낑\" 묶인 채 봉투 속에‥'이거 심상치 않다' 주변 뒤졌더니‥",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864656_37004.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "입 묶여 비닐봉지에 버려진 강아지…경찰 고발장 접수",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110150918ckC",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
   {
    "kw": "정승제",
    "traffic": "200+",
@@ -12,9 +29,9 @@
      "source": "뉴스1"
     },
     {
-     "title": "'홍대 공대 출신' 주우재, '스타강사' 꿈 품었나…\"요즘도 승제 쌤 강의 봐\" ('옥문아')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MZSTGNRXG42DSNBRHA2DAMBRGQ/",
-     "source": "조선일보"
+     "title": "정승제 \"아이돌처럼 대학 때부터 키운다\"…스타 강사도 '연습생' 시대",
+     "url": "https://www.newsis.com/view/NISX20261110_0003862893",
+     "source": "뉴시스"
     }
    ]
   },
@@ -37,7 +54,7 @@
   },
   {
    "kw": "뉴데일리",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 10일 20:50",
    "news": [
     {
@@ -71,7 +88,7 @@
   },
   {
    "kw": "금융보안원",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 10일 20:10",
    "news": [
     {
@@ -80,9 +97,9 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "정보 유출했는데 1000원짜리 보험 가입?…은행권 보상책 실효성 논란",
-     "url": "https://zdnet.co.kr/view/?no=20261110104631",
-     "source": "지디넷코리아"
+     "title": "금융보안원도 해킹에 뚫렸다...금융사 정보 유출",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611102158533011",
+     "source": "YTN"
     }
    ]
   },
@@ -104,53 +121,36 @@
    ]
   },
   {
-   "kw": "시가총액",
+   "kw": "cpi",
    "traffic": "1000+",
    "when": "11월 10일 19:30",
    "news": [
     {
-     "title": "대경 상장사 시총 15조 증발… 포스코·한화시스템 직격",
-     "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314983",
-     "source": "스트레이트뉴스"
+     "title": "Consumer prices rose 0.4% in October, more than expected",
+     "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+     "source": "CNBC"
     },
     {
-     "title": "대구·경북 상장법인 시가총액 3개월 만에 '100조' 붕괴",
-     "url": "https://www.news1.kr/local/daegu-gyeongbuk/6348748",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "cpi",
-   "traffic": "200+",
-   "when": "11월 10일 19:30",
-   "news": [
-    {
-     "title": "Bitcoin trades around $74,000 as markets await U.S. inflation data [Crypto Briefing]",
-     "url": "https://en.fnnews.com/news/202611101049484195",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "3 Signals That Could Determine Bitcoin’s Next Move: Analysts",
-     "url": "https://cryptopotato.com/3-signals-that-could-determine-bitcoins-next-move-analysts/",
-     "source": "CryptoPotato"
+     "title": "October Consumer Price Index to Be Released on November 10; Futures Market Remains Mixed",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008836491",
+     "source": "SBS 뉴스"
     }
    ]
   },
   {
    "kw": "cpi 발표",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 10일 19:30",
    "news": [
     {
-     "title": "가슴 쓸어내린 코인 시장…이번주도 긴장 못 늦추는 이유",
-     "url": "https://story.pay.naver.com/content/3914_32_C60",
-     "source": "네이버페이 머니스토리"
+     "title": "[2보] 美 10월 소비자물가 전월 대비 0.4%↑…전망치 웃돌아",
+     "url": "https://www.yna.co.kr/view/AKR20261110179000072",
+     "source": "연합뉴스"
     },
     {
-     "title": "[코인 시황] 비트코인, 美 CPI 앞두고 7만5000달러 하회…채굴업체 대규모 매도에 투심 위축",
-     "url": "https://www.newspim.com/news/view/20261110001504",
-     "source": "뉴스핌"
+     "title": "미 10월 소비자물가 전월 대비 0.4% 상승···12월 금리 인상 가능성↑",
+     "url": "https://www.khan.co.kr/article/202611102254001",
+     "source": "경향신문"
     }
    ]
   },
