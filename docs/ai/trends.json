@@ -1,9 +1,43 @@
 {
- "updated": "2026-11-11 04:23",
+ "updated": "2026-11-11 05:23",
  "items": [
   {
+   "kw": "경찰",
+   "traffic": "500+",
+   "when": "11월 11일 04:10",
+   "news": [
+    {
+     "title": "\"사람 많아\" 신고... 경찰, 남대문 스카프리오 가게 앞 인파 해산",
+     "url": "https://www.ohmynews.com/NWS_Web/OhmyPhoto/annual/2026_at_pg.aspx?CNTN_CD=A0003283649",
+     "source": "OhmyNews"
+    },
+    {
+     "title": "경찰 출동에 경호원까지…‘남대문 임영웅’ 뭐길래, 유명 여배우도 찾아갔다",
+     "url": "https://www.mk.co.kr/news/hot-issues/12204120",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "전원주",
+   "traffic": "2000+",
+   "when": "11월 11일 03:30",
+   "news": [
+    {
+     "title": "'87세' 전원주...\"병원 가보시라\" 누리꾼 걱정 산 영상 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111015121395830",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'경도인지장애 고백' 전원주, 어눌해진 발음에 건강 염려",
+     "url": "https://www.newsis.com/view/NISX20261110_0003861778",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
    "kw": "예금",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 11일 03:20",
    "news": [
     {
@@ -20,7 +54,7 @@
   },
   {
    "kw": "넥슨",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 11일 03:20",
    "news": [
     {
@@ -41,65 +75,48 @@
    "when": "11월 11일 02:50",
    "news": [
     {
-     "title": "Updated ESPN FPI game-by-game predictions for IU football after bye week",
-     "url": "https://www.insidethehall.com/2026/11/09/updated-espn-fpi-game-by-game-predictions-for-iu-football-after-bye-week/",
-     "source": "Inside the Hall"
+     "title": "How idle week impacts Indiana football in CFP rankings, projections",
+     "url": "https://www.indystar.com/story/sports/college/indiana/2026/11/10/cfp-rankings-projections-indiana-football-week-10-bye-week-predictions-iu-football/92704285007/",
+     "source": "IndyStar"
     },
     {
-     "title": "Indiana’s Offense Has a Clear Assignment Against USC",
-     "url": "https://sports.yahoo.com/articles/indiana-offense-clear-assignment-against-103049872.html",
-     "source": "Yahoo Sports"
+     "title": "ESPN FPI Predicts Indiana's Chance Against USC in Top-20 Showdown",
+     "url": "https://www.si.com/college/indiana/football/espn-fpi-predicts-indiana-usc",
+     "source": "Sports Illustrated"
     }
    ]
   },
   {
    "kw": "이재진",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 11일 02:30",
    "news": [
-    {
-     "title": "젝스키스 3인 공연, 이재진 불참에 결국 취소…예매 방식 갈등",
-     "url": "https://www.donga.com/news/Society/article/all/20261110/135002688/1",
-     "source": "동아일보"
-    },
     {
      "title": "[단독] 무산된 젝키 디너쇼, 결국 경찰서까지…주최측 “오늘부터 공식 환불”",
      "url": "https://sports.khan.co.kr/article/202611101816003",
      "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "gta",
-   "traffic": "200+",
-   "when": "11월 11일 02:00",
-   "news": [
-    {
-     "title": "Grand Theft Auto VI Pre-Load Begins on November 10",
-     "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
-     "source": "Rockstar Games"
     },
     {
-     "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
-     "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
-     "source": "XBOX Wire"
+     "title": "젝스키스 3인 공연, 이재진 불참에 결국 취소…예매 방식 갈등",
+     "url": "https://www.donga.com/news/Society/article/all/20261110/135002688/1",
+     "source": "동아일보"
     }
    ]
   },
   {
    "kw": "로스앤젤레스 다저스",
-   "traffic": "1000+",
+   "traffic": "500+",
    "when": "11월 11일 01:40",
    "news": [
     {
-     "title": "Dodgers Claim Christian Cairo",
-     "url": "https://www.mlbtraderumors.com/2026/11/dodgers-claim-christian-cairo.html",
-     "source": "MLB Trade Rumors"
+     "title": "Hot Stove rumors: Padres, Skubal, Seiya, Morejon, Yanks",
+     "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-10",
+     "source": "MLB.com"
     },
     {
-     "title": "Dodgers claim versatile infielder from Mets in first offseason acquisition",
-     "url": "https://nypost.com/2026/11/09/sports/dodgers-claim-christian-cairo-mets-first-offseason-addition/",
-     "source": "New York Post"
+     "title": "Tarik Skubal in the spotlight as MLB’s GM meetings begin in Vegas - The Athletic",
+     "url": "https://www.nytimes.com/athletic/7769378/2026/11/10/gm-meetings-tarik-skubal-age/",
+     "source": "The New York Times"
     }
    ]
   },
@@ -151,23 +168,6 @@
      "title": "임창정 아들, 4년 전 골프 선수 꿈 이뤘다…KPGA 프로 입회",
      "url": "https://www.newsis.com/view/NISX20261110_0003862839",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "장동윤",
-   "traffic": "200+",
-   "when": "11월 10일 23:30",
-   "news": [
-    {
-     "title": "동상이몽2_너는 내 운명 : 이유진, 직접 웨딩 영상 만들어 업체들과 협업하고 결혼 비용 절감",
-     "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483092209",
-     "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "11월 결혼 이유진♥차경은, 혼전임신 고백 “살림 이미 합쳤다”",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/HAZDEMJZGUYDKOJTMU4GENJRHE/",
-     "source": "Chosunbiz"
     }
    ]
   }
