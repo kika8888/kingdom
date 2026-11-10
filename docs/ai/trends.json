@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-11 00:23",
+ "updated": "2026-11-11 01:23",
  "items": [
+  {
+   "kw": "장동윤",
+   "traffic": "200+",
+   "when": "11월 10일 23:30",
+   "news": [
+    {
+     "title": "“햇살 같은 아이라서” 이유진, 첫 만남에 생각한 ‘아내’ 차경은의 첫인상♥",
+     "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483091950",
+     "source": "programs.sbs.co.kr"
+    },
+    {
+     "title": "11월 결혼 이유진♥차경은, 혼전임신 고백 “살림 이미 합쳤다”",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/HAZDEMJZGUYDKOJTMU4GENJRHE/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
   {
    "kw": "코어위브",
    "traffic": "200+",
@@ -63,15 +80,15 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "이재명 대통령 '공공기관 이전' 협조 주문",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=846787",
-     "source": "제민일보"
+     "title": "[사설] 李 “공공기관 혁신 속도”…노봉법 방치한 채 가능하겠나",
+     "url": "https://www.sedaily.com/article/20112651",
+     "source": "서울경제"
     }
    ]
   },
   {
    "kw": "한수아",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 10일 21:10",
    "news": [
     {
@@ -80,9 +97,9 @@
      "source": "엑스포츠뉴스"
     },
     {
-     "title": "“여보” 카리나, 한수아와 관계 이 정도…”스케줄 끝나면 우리 집으로” [RE:뷰]",
-     "url": "https://tvreport.co.kr/breaking/article/1089836/",
-     "source": "TV리포트"
+     "title": "한수아 카리나와 절친한 사이 공개, 바쁜 스케줄 끝나면 집으로…잠옷 입고 등산까지 한 우정 : 네이버 블로그",
+     "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&logNo=224472333613&redirect=Dlog",
+     "source": "Naver Blog"
     }
    ]
   },
@@ -92,14 +109,14 @@
    "when": "11월 10일 21:10",
    "news": [
     {
-     "title": "정승제 \"피부과 2주에 한 번씩\"…주우재도 놀란 관리",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6349705",
-     "source": "뉴스1"
-    },
-    {
      "title": "정승제 \"아이돌처럼 대학 때부터 키운다\"…스타 강사도 '연습생' 시대",
      "url": "https://www.newsis.com/view/NISX20261110_0003862893",
      "source": "뉴시스"
+    },
+    {
+     "title": "'홍대 공대 출신' 주우재, '스타강사' 꿈 품었나…\"요즘도 승제 쌤 강의 봐\" ('옥문아')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MZSTGNRXG42DSNBRHA2DAMBRGQ/",
+     "source": "조선일보"
     }
    ]
   },
@@ -148,26 +165,9 @@
      "source": "연합뉴스"
     },
     {
-     "title": "금융보안원도 해킹에 뚫렸다...금융사 정보 유출",
-     "url": "https://www.ytn.co.kr/_ln/0102_202611102158533011",
+     "title": "금융보안원도 해킹에 털렸다...금융사 보안정보 유출",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611110028275778",
      "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "악뮤 콘서트",
-   "traffic": "200+",
-   "when": "11월 10일 19:50",
-   "news": [
-    {
-     "title": "“17만 원대 좌석인데 시야 가려”…악뮤 강릉 콘서트에 관객 불만",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611091159360525",
-     "source": "YTN"
-    },
-    {
-     "title": "\"17만 원 냈는데\"…악뮤 공연 시야 제한 논란",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261109100939Eid",
-     "source": "연합뉴스TV"
     }
    ]
   }
