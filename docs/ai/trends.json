@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10 10:27",
+ "updated": "2026-11-10 11:23",
  "items": [
   {
-   "kw": "3기신도시 남양주 왕숙지구",
-   "traffic": "200+",
-   "when": "11월 10일 08:40",
+   "kw": "3 기 신도시 남양주 왕숙 지구",
+   "traffic": "500+",
+   "when": "11월 10일 10:20",
    "news": [
     {
      "title": "정부는 ‘앞당긴다’ 했는데… 3기 신도시 최대 사업지 또 입주 지연",
@@ -15,6 +15,91 @@
      "title": "3기 신도시 남양주 왕숙 공공주택 또 지연… 교통대책도 난항 - 머니투데이",
      "url": "https://www.mt.co.kr/estate/2026/11/09/2026110615515640807",
      "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "중대범죄 수사청",
+   "traffic": "1000+",
+   "when": "11월 10일 09:50",
+   "news": [
+    {
+     "title": "피해자가 새 증거 찾아도… 검사 \"직접 못 받아\" 경찰 \"손 떠난 사건\"",
+     "url": "https://www.chosun.com/national/court_law/2026/11/10/MNTQTB3TAZC7TBSLCRCGAXGEH4/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[이달우의 신우시산국 (35)]사법부 두 기관의 대조적인 불빛",
+     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1071992",
+     "source": "경상일보"
+    }
+   ]
+  },
+  {
+   "kw": "인구",
+   "traffic": "200+",
+   "when": "11월 10일 09:50",
+   "news": [
+    {
+     "title": "홍성군 인구 10만 2000 명 돌파",
+     "url": "https://m.joongdo.co.kr/view.php?key=20261110010003218",
+     "source": "중도일보"
+    },
+    {
+     "title": "홍성군 인구 10만 2천 명 돌파…\"전입·정착 지원 강화\"",
+     "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/10/2026111000021.html",
+     "source": "뉴데일리 충청세종"
+    }
+   ]
+  },
+  {
+   "kw": "병무청",
+   "traffic": "500+",
+   "when": "11월 10일 09:50",
+   "news": [
+    {
+     "title": "전북병무청, 2026년 하반기 사회복무요원 복무기관담당자 교육",
+     "url": "https://www.gkg.co.kr/195121",
+     "source": "전북금강일보"
+    },
+    {
+     "title": "병무청, 복무기관 담당자 전문성 강화",
+     "url": "https://www.cctimes.kr/news/articleView.html?idxno=935951",
+     "source": "충청타임즈"
+    }
+   ]
+  },
+  {
+   "kw": "청약홈",
+   "traffic": "500+",
+   "when": "11월 10일 09:30",
+   "news": [
+    {
+     "title": "‘반값 아파트’ 고덕강일3단지 청약에 2만5000명 넘게 몰려",
+     "url": "https://www.chosun.com/economy/real_estate/2026/11/10/AI2UOI6PTZBPXJT5L3TMECIPF4/",
+     "source": "조선일보"
+    },
+    {
+     "title": "공공분양, '청약홈'서만 신청? … SH 물량은 따로 접수",
+     "url": "https://www.hankyung.com/article/2026110832281",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "대구백화점 본점",
+   "traffic": "100+",
+   "when": "11월 10일 09:30",
+   "news": [
+    {
+     "title": "방치된 옛 대구백화점 본점, 중구청사로?…공공활용 용역 시동",
+     "url": "https://www.yna.co.kr/view/AKR20261109135300053",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[대백의 추락, 그리고 눈물] \"자산 매각에만 의존, 협상력 약화…재무구조 개선 활용 나서야\"",
+     "url": "https://www.imaeil.com/page/view/2026110314124800088",
+     "source": "매일신문"
     }
    ]
   },
@@ -46,9 +131,26 @@
      "source": "조선일보"
     },
     {
-     "title": "'미토스 쇼크' 더 거세지나…앤트로픽, 취약점 탐지 강화한 5.2 공개",
-     "url": "https://www.news1.kr/it-science/internet-platform/6348701",
-     "source": "뉴스1"
+     "title": "Anthropic, IPO 앞두고 업그레이드된 Claude 모델 공개",
+     "url": "https://kr.investing.com/news/stock-market-news/article-2166840",
+     "source": "Investing.com 한국어"
+    }
+   ]
+  },
+  {
+   "kw": "송지효",
+   "traffic": "200+",
+   "when": "11월 10일 08:30",
+   "news": [
+    {
+     "title": "송지효, 속옷 모델까지 했는데 '적자'...유재석도 걱정 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110920491280966",
+     "source": "머니투데이"
+    },
+    {
+     "title": "송지효, 주지훈과 '궁' 시절 미모 회복했다..해녀복 입어도 '굴욕無'[핫피플]",
+     "url": "https://www.osen.co.kr/article/G1112907293",
+     "source": "OSEN"
     }
    ]
   },
@@ -66,108 +168,6 @@
      "title": "12년 만의 한국시리즈 우승...모든 선수가 MVP [자막뉴스]",
      "url": "https://www.ytn.co.kr/_ln/0134_202611100913549408",
      "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "송지효",
-   "traffic": "100+",
-   "when": "11월 10일 08:30",
-   "news": [
-    {
-     "title": "송지효, 속옷 모델까지 했는데 '적자'...유재석도 걱정 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110920491280966",
-     "source": "머니투데이"
-    },
-    {
-     "title": "코스피 폭락…지석진 \"마이너스액으로 가게 차릴 정도\"",
-     "url": "https://www.newsis.com/view/NISX20261108_0003859519",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "로켓",
-   "traffic": "200+",
-   "when": "11월 10일 08:30",
-   "news": [
-    {
-     "title": "“두 번 발사 미루고 첫 비행도 미완성”…부산대 대학원생들이 만든 로켓, 마침내 하늘 날아",
-     "url": "https://www.munhwa.com/article/11629997",
-     "source": "문화일보"
-    },
-    {
-     "title": "부산대 대학원생 주도로 발사체 개발…우주발사체 전주기 교육 실증",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261109.99099002610",
-     "source": "국제신문"
-    }
-   ]
-  },
-  {
-   "kw": "둠스데이",
-   "traffic": "200+",
-   "when": "11월 10일 08:30",
-   "news": [
-    {
-     "title": "KFC, 마블 영화 협업 메뉴 5종 운영",
-     "url": "https://www.lawissue.co.kr/view.php?ud=202611100826387033204ead0791_12",
-     "source": "로이슈"
-    },
-    {
-     "title": "KFC, '어벤져스: 둠스데이' 캠페인...‘둠 시리즈’ 5종 출시",
-     "url": "https://www.slist.kr/news/articleView.html?idxno=780331",
-     "source": "싱글리스트"
-    }
-   ]
-  },
-  {
-   "kw": "버스",
-   "traffic": "200+",
-   "when": "11월 10일 08:20",
-   "news": [
-    {
-     "title": "충북도, 오송역-인천공항 직행버스 운행 시작",
-     "url": "https://www.viva100.com/article/20261110500167",
-     "source": "브릿지경제"
-    },
-    {
-     "title": "오송역 버스환승센터~인천공항 시외버스 개통…하루 왕복 2회 운행",
-     "url": "https://biz.chosun.com/topics/topics_social/2026/11/10/D2KI5RJBCNDGFCMGFRJ6U2HK7A/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "재혼 황후",
-   "traffic": "5000+",
-   "when": "11월 10일 08:10",
-   "news": [
-    {
-     "title": "'재혼 황후', '100일의 거짓말'·'닥터X' 제쳤다...화제성 1위 등극 [iZE 포커스] - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111007007295399",
-     "source": "머니투데이"
-    },
-    {
-     "title": "이세영 목걸이 테무산 2천원 논란..'재혼황후' 억까 루머에 \"빈티지 샵 구매\" 해명 [Oh!쎈 이슈]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/10/MZQTMYJXGA2WKZRUHE4TQYTFGE/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "치어리더",
-   "traffic": "2000+",
-   "when": "11월 10일 08:10",
-   "news": [
-    {
-     "title": "‘삐끼삐끼’ 이주은 여전히 핫하네, 이번엔 대만 농구행",
-     "url": "https://sports.donga.com/sports/article/all/20261108/134985735/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "'4억 몸매' 이주은, 대만 팬들은 좋겠네…야구 시즌 끝나자 전한 깜짝 소식",
-     "url": "https://www.xportsnews.com/article/2216671",
-     "source": "엑스포츠뉴스"
     }
    ]
   }
