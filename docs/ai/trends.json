@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-10 21:23",
+ "updated": "2026-11-10 22:23",
  "items": [
   {
-   "kw": "jtbc",
+   "kw": "정승제",
    "traffic": "200+",
+   "when": "11월 10일 21:10",
+   "news": [
+    {
+     "title": "정승제 \"피부과 2주에 한 번씩\"…주우재도 놀란 관리",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6349705",
+     "source": "뉴스1"
+    },
+    {
+     "title": "'홍대 공대 출신' 주우재, '스타강사' 꿈 품었나…\"요즘도 승제 쌤 강의 봐\" ('옥문아')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MZSTGNRXG42DSNBRHA2DAMBRGQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "한수아",
+   "traffic": "100+",
+   "when": "11월 10일 21:10",
+   "news": [
+    {
+     "title": "한수아, 카리나와 절친 된 사연 \"먼저 번호 물어보더라…거의 매일 집에서 만나\" (우사편)",
+     "url": "https://www.xportsnews.com/article/2218053",
+     "source": "엑스포츠뉴스"
+    },
+    {
+     "title": "“여보” 카리나, 한수아와 관계 이 정도…”스케줄 끝나면 우리 집으로” [RE:뷰]",
+     "url": "https://tvreport.co.kr/breaking/article/1089836/",
+     "source": "TV리포트"
+    }
+   ]
+  },
+  {
+   "kw": "뉴데일리",
+   "traffic": "1000+",
+   "when": "11월 10일 20:50",
+   "news": [
+    {
+     "title": "[속보]‘돌아선 50대’ 대통령 부정 61.7%·긍정 37.8%-리서치뷰",
+     "url": "https://www.munhwa.com/article/11630145",
+     "source": "문화일보"
+    },
+    {
+     "title": "'30대 민심' 국힘으로 쏠렸다, 왜?... 한 달 새 국힘 13%p 상승, 민주 15%p 하락",
+     "url": "https://www.hankookilbo.com/news/article/A2026110915210005288",
+     "source": "한국일보"
+    }
+   ]
+  },
+  {
+   "kw": "jtbc",
+   "traffic": "1000+",
    "when": "11월 10일 20:20",
    "news": [
     {
@@ -24,14 +75,14 @@
    "when": "11월 10일 20:10",
    "news": [
     {
-     "title": "[2보] '금융보안 문지기' 금융보안원도 해킹으로 정보유출",
-     "url": "https://www.yna.co.kr/view/AKR20261110173800002",
-     "source": "연합뉴스"
+     "title": "'금융보안 문지기' 금융보안원마저 해킹으로 정보유출‥긴급 차단조치",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864653_37004.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "“금융사 37곳 뚫리고 개인정보 47만건 유출”…내 예금은 안전할까",
-     "url": "https://www.donga.com/news/Economy/article/all/20261110/134996819/2",
-     "source": "동아일보"
+     "title": "정보 유출했는데 1000원짜리 보험 가입?…은행권 보상책 실효성 논란",
+     "url": "https://zdnet.co.kr/view/?no=20261110104631",
+     "source": "지디넷코리아"
     }
    ]
   },
@@ -54,7 +105,7 @@
   },
   {
    "kw": "시가총액",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 10일 19:30",
    "news": [
     {
@@ -88,7 +139,7 @@
   },
   {
    "kw": "cpi 발표",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 10일 19:30",
    "news": [
     {
@@ -104,70 +155,19 @@
    ]
   },
   {
-   "kw": "임영웅 아임 히어로 더 스타디움",
+   "kw": "양홍원 오보",
    "traffic": "200+",
-   "when": "11월 10일 19:10",
+   "when": "11월 10일 19:20",
    "news": [
     {
-     "title": "“함성까지 다시 듣는다” 임영웅 스타디움, IMAX로 귀환",
-     "url": "https://www.mk.co.kr/news/hot-issues/12203793",
-     "source": "매일경제"
+     "title": "여전히 밖에 있는 양홍원, 찜질방 흡연실서 포착",
+     "url": "https://www.newsis.com/view/NISX20261109_0003859879",
+     "source": "뉴시스"
     },
     {
-     "title": "임영웅 10주년 콘서트 실황 영화, IMAX로 본다…포스터 공개",
-     "url": "https://www.news1.kr/entertain/movie/6349064",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "더쇼",
-   "traffic": "100+",
-   "when": "11월 10일 19:10",
-   "news": [
-    {
-     "title": "[사진]리센느, With",
-     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/G5TDMMZYMU2DCMJQMIZWKYLDG4/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "[포토] 비보이즈, 치명적인 퍼포먼스",
-     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/10/GEYDCMBUGM4TAOBSHBSDCMTGMY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "광명시",
-   "traffic": "1000+",
-   "when": "11월 10일 19:00",
-   "news": [
-    {
-     "title": "파주, 1조원대 돔구장 유치전 뛰어들었다…경기도 후보지 선정이 1차 관문",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336400",
-     "source": "인천일보"
-    },
-    {
-     "title": "경기도 지자체, 돔구장 유치전 가열",
-     "url": "https://www.sedaily.com/article/20112630",
-     "source": "서울경제"
-    }
-   ]
-  },
-  {
-   "kw": "정년",
-   "traffic": "2000+",
-   "when": "11월 10일 18:50",
-   "news": [
-    {
-     "title": "정년퇴직 후 연금까지 최대 5년…공무원 92% \"소득공백 우려\"",
-     "url": "https://www.yna.co.kr/view/AKR20261110085500530",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "“국민연금 받는 급여만큼 기초생활 수급비 깎여”…조기연금 신청하는 저소득층 노인들",
-     "url": "https://www.segye.com/newsView/20261109501982",
-     "source": "세계일보"
+     "title": "\"원현주가 비번 바꿨나\"…'불륜 의혹' 양홍원, 찜질방서 포착 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/08/2026110822342823895",
+     "source": "머니투데이"
     }
    ]
   }
