@@ -1,9 +1,66 @@
 {
- "updated": "2026-11-10 18:39",
+ "updated": "2026-11-10 19:23",
  "items": [
   {
+   "kw": "9440",
+   "traffic": "100+",
+   "when": "11월 10일 18:20",
+   "news": []
+  },
+  {
+   "kw": "ai 버블",
+   "traffic": "200+",
+   "when": "11월 10일 18:00",
+   "news": [
+    {
+     "title": "\"AI 버블 터지면 닷컴버블 때보다 충격 클 것\"",
+     "url": "https://www.hankyung.com/article/202611106951i",
+     "source": "한국경제"
+    },
+    {
+     "title": "\"감원해서라도 AI 투자 늘린다\"…빅테크 생존 경쟁 속 반도체의 길",
+     "url": "https://www.newsis.com/view/NISX20261109_0003860402",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "이선균",
+   "traffic": "200+",
+   "when": "11월 10일 18:00",
+   "news": [
+    {
+     "title": "'이선균 수사정보 유출' 전직 경찰관, 2심서도 징역형 집행유예",
+     "url": "https://www.yna.co.kr/view/AKR20261110134000065",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "이선균 수사 정보 유출 전직 경찰, 항소심도 집행유예…기자도 벌금형",
+     "url": "https://www.kyeonggi.com/article/20261110580420",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "정부",
+   "traffic": "200+",
+   "when": "11월 10일 17:50",
+   "news": [
+    {
+     "title": "경제노동위원회, 경기신용보증재단‧경기도일자리재단 행정사무감사 실시",
+     "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611101055087297C111&s_code=C111",
+     "source": "경기도뉴스포털"
+    },
+    {
+     "title": "[행감인물] 이성원 의원, “경기연구원 외부 위탁 과다⋯재정 연구 기능도 강화해야”",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040363",
+     "source": "기호일보"
+    }
+   ]
+  },
+  {
    "kw": "조혜련",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 10일 17:20",
    "news": [
     {
@@ -29,15 +86,15 @@
      "source": "경향신문"
     },
     {
-     "title": "대만도 젠슨황 불륜녀 ’中 스파이 의혹’ 안보조사 착수",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611101810048zK",
-     "source": "연합뉴스TV"
+     "title": "'젠슨 황 불륜' 앨리스 황은…\"홍콩 영주권 보유 42세 中사업가\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261110008851075",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "kw": "kfc 둠스데이",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 10일 17:00",
    "news": [
     {
@@ -54,7 +111,7 @@
   },
   {
    "kw": "재활용",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 10일 16:50",
    "news": [
     {
@@ -66,6 +123,23 @@
      "title": "안산시 \"생활폐기물 처리기반 확충·자원순환 체계 구축한다\"",
      "url": "https://www.newspim.com/news/view/20261110001120",
      "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "gta 6",
+   "traffic": "100+",
+   "when": "11월 10일 16:50",
+   "news": [
+    {
+     "title": "Grand Theft Auto VI Pre-Load Begins on November 10",
+     "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+     "source": "Rockstar Games"
+    },
+    {
+     "title": "Will Grand Theft Auto 6 break the internet?",
+     "url": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
+     "source": "GamesIndustry.biz"
     }
    ]
   },
@@ -85,80 +159,6 @@
      "source": "연합뉴스"
     }
    ]
-  },
-  {
-   "kw": "백용환",
-   "traffic": "2000+",
-   "when": "11월 10일 16:10",
-   "news": [
-    {
-     "title": "“이범호가 부르자 고민도 없었다”…롯데 떠난 백용환, 5년 만에 KIA 귀환",
-     "url": "https://www.ftimes.kr/news/articleView.html?idxno=40989",
-     "source": "FT스포츠"
-    },
-    {
-     "title": "'롯데 굿바이' KIA 영입 완료, 5년 만에 친정 돌아왔다…\"새롭네요, 불러주셔서 감사합니다\"[오키나와 현장]",
-     "url": "https://www.sportschosun.com/baseball/2026-11-09/202611100100065920006214",
-     "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "kw": "담보 대출",
-   "traffic": "200+",
-   "when": "11월 10일 15:50",
-   "news": [
-    {
-     "title": "‘소액대출’ 금리도 상승…취약계층 울상",
-     "url": "https://www.khan.co.kr/article/202611092056035",
-     "source": "경향신문"
-    },
-    {
-     "title": "변동형 주택담보대출 금리, 고정형 금리 역전",
-     "url": "https://www.newsis.com/view/NISI20261110_0021527584",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "kbo 리그",
-   "traffic": "2000+",
-   "when": "11월 10일 14:50",
-   "news": [
-    {
-     "title": "미국 매체, 삼성 페덱에 “MLB 복귀보다 삼성 잔류하라”",
-     "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325346",
-     "source": "www.stnsports.co.kr"
-    },
-    {
-     "title": "하늘 날던 육군 무인기, 김포 공원에 ‘쿵’…교육비행 중 사고",
-     "url": "https://news.jtbc.co.kr/article/NB12327319",
-     "source": "JTBC"
-    }
-   ]
-  },
-  {
-   "kw": "대만 해협",
-   "traffic": "1000+",
-   "when": "11월 10일 14:40",
-   "news": [
-    {
-     "title": "30~40대 남성 절반 비만...성인 비만율 10년 새 26%↑",
-     "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611091632358497&s_hcd=",
-     "source": "YTN 사이언스"
-    },
-    {
-     "title": "대만해협 흔든 서희함의 심장…한화오션 국산 리튬전지가 비대칭 잠항 열었다",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611100637117444fbbec65dfb_1",
-     "source": "글로벌이코노믹"
-    }
-   ]
-  },
-  {
-   "kw": "골프존카운티",
-   "traffic": "1000+",
-   "when": "11월 10일 14:40",
-   "news": []
   }
  ]
 }
