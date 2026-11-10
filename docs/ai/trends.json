@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-10 16:23",
+ "updated": "2026-11-10 17:23",
  "items": [
+  {
+   "kw": "백용환",
+   "traffic": "1000+",
+   "when": "11월 10일 16:10",
+   "news": [
+    {
+     "title": "“이범호가 부르자 고민도 없었다”…롯데 떠난 백용환, 5년 만에 KIA 귀환",
+     "url": "http://www.ftimes.kr/news/articleView.html?idxno=40989",
+     "source": "FT스포츠"
+    },
+    {
+     "title": "'롯데 굿바이' KIA 영입 완료, 5년 만에 친정 돌아왔다…\"새롭네요, 불러주셔서 감사합니다\"[오키나와 현장]",
+     "url": "https://www.sportschosun.com/baseball/2026-11-09/202611100100065920006214",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "kw": "담보 대출",
+   "traffic": "200+",
+   "when": "11월 10일 15:50",
+   "news": [
+    {
+     "title": "광주은행, 기업여신 잠재·기존 부실 동반 확대...건전성 관리 '시험대'",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=354176",
+     "source": "녹색경제신문"
+    },
+    {
+     "title": "JB금융 건전성 발목 잡는 광주은행…연체액 1위 불명예 : 네이버 블로그",
+     "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224471393111&redirect=Dlog",
+     "source": "Naver Blog"
+    }
+   ]
+  },
   {
    "kw": "kbo 리그",
    "traffic": "2000+",
@@ -43,7 +77,7 @@
   },
   {
    "kw": "공포탄",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 10일 14:30",
    "news": [
     {
@@ -52,15 +86,15 @@
      "source": "JTBC"
     },
     {
-     "title": "“너 나와”…실수로 공포탄 쏜 부하에 맞대응한 대대장 재판행",
-     "url": "https://www.kyeonggi.com/article/20261110580296",
-     "source": "경기일보"
+     "title": "중대장이 실수로 공포탄 쏘자…대대장 “너 나와” 2발 ‘탕 탕’",
+     "url": "https://www.donga.com/news/Politics/article/all/20261110/134996843/2",
+     "source": "동아일보"
     }
    ]
   },
   {
    "kw": "신랑",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 10일 14:20",
    "news": [
     {
@@ -77,7 +111,7 @@
   },
   {
    "kw": "안영명",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 10일 14:20",
    "news": [
     {
@@ -86,9 +120,9 @@
      "source": "연합뉴스"
     },
     {
-     "title": "한화이글스, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
-     "url": "https://www.ytn.co.kr/_ln/0107_202611101427225762",
-     "source": "YTN"
+     "title": "'류지현 감독 새 출발' 한화이글스, 김강·안영명 코치 영입",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04513286645644408&mediaCodeNo=257",
+     "source": "이데일리"
     }
    ]
   },
@@ -123,40 +157,6 @@
      "title": "\"양육비는 좀 줄여도 되는 거 아냐?\"…아이들 세뱃돈 통장 들먹인 남편",
      "url": "https://www.ytn.co.kr/_ln/0103_202611090148472120",
      "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "전차",
-   "traffic": "500+",
-   "when": "11월 10일 14:10",
-   "news": [
-    {
-     "title": "모로코가 전차 수송차 50대를 사들인 까닭…현대로템 K2 향한 시선 쏠리는 배경은?",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611100943588335fbbec65dfb_1",
-     "source": "글로벌이코노믹"
-    },
-    {
-     "title": "모로코, 현대로템 광역급행철도 등 대규모 철도 인프라 예산안 확정",
-     "url": "https://www.theguru.co.kr/news/article.html?no=109321",
-     "source": "더구루"
-    }
-   ]
-  },
-  {
-   "kw": "뷰익",
-   "traffic": "200+",
-   "when": "11월 10일 14:10",
-   "news": [
-    {
-     "title": "\"BYD에 맞불\"…뷰익, 5m급 PHEV 세단 '일렉트라 GS' 공개",
-     "url": "https://v.daum.net/v/VVu9ggrNsS",
-     "source": "Daum"
-    },
-    {
-     "title": "KGM·체리 공동개발 'SE10', 렉스턴 이름으로 인증⋯내년 초 출시 가시화",
-     "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601877",
-     "source": "엠투데이"
     }
    ]
   }
