@@ -1,6 +1,114 @@
 {
- "updated": "2026-11-10 15:22",
+ "updated": "2026-11-10 16:23",
  "items": [
+  {
+   "kw": "kbo 리그",
+   "traffic": "2000+",
+   "when": "11월 10일 14:50",
+   "news": [
+    {
+     "title": "\"100만 달러면 돼\" KBO 가고 싶다고 애원했는데 모두가 외면→3년 뒤 4년 538억 잭팟 터졌다",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018990",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "'NPB 4년 최대 537억 잭팟 터졌다' 레이예스, 닛폰햄과 역사적 초대형 계약 합의",
+     "url": "https://isplus.com/article/view/isp202611020108",
+     "source": "일간스포츠"
+    }
+   ]
+  },
+  {
+   "kw": "대만 해협",
+   "traffic": "500+",
+   "when": "11월 10일 14:40",
+   "news": [
+    {
+     "title": "30~40대 남성 절반 비만...성인 비만율 10년 새 26%↑",
+     "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611091632358497&s_hcd=",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "대만해협 흔든 서희함의 심장…한화오션 국산 리튬전지가 비대칭 잠항 열었다",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611100637117444fbbec65dfb_1",
+     "source": "글로벌이코노믹"
+    }
+   ]
+  },
+  {
+   "kw": "골프존카운티",
+   "traffic": "500+",
+   "when": "11월 10일 14:40",
+   "news": []
+  },
+  {
+   "kw": "공포탄",
+   "traffic": "1000+",
+   "when": "11월 10일 14:30",
+   "news": [
+    {
+     "title": "중대장에 공포탄 맞은 대대장…발끈해 2발로 되갚았다가 결국",
+     "url": "https://news.jtbc.co.kr/article/NB12327297",
+     "source": "JTBC"
+    },
+    {
+     "title": "“너 나와”…실수로 공포탄 쏜 부하에 맞대응한 대대장 재판행",
+     "url": "https://www.kyeonggi.com/article/20261110580296",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "신랑",
+   "traffic": "5000+",
+   "when": "11월 10일 14:20",
+   "news": [
+    {
+     "title": "신부 가슴에 얼굴 파묻고 흔들흔들…신랑 돌발 행동에 하객들 당혹",
+     "url": "https://www.news1.kr/world/global-topic/6347972",
+     "source": "뉴스1"
+    },
+    {
+     "title": "결혼식 중 신부 가슴에 얼굴 파묻은 신랑…“애들도 보는데” 논란 [월드픽]",
+     "url": "https://www.twig24.com/news/world/global-topic/2026/11/05/20261105500253",
+     "source": "www.twig24.com"
+    }
+   ]
+  },
+  {
+   "kw": "안영명",
+   "traffic": "200+",
+   "when": "11월 10일 14:20",
+   "news": [
+    {
+     "title": "프로야구 한화, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
+     "url": "https://www.yna.co.kr/view/AKR20261110104000007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "한화이글스, 김강 타격 코치·안영명 퍼포먼스 코치 영입",
+     "url": "https://www.ytn.co.kr/_ln/0107_202611101427225762",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "이세계아이돌",
+   "traffic": "200+",
+   "when": "11월 10일 14:20",
+   "news": [
+    {
+     "title": "게임 ‘대어’들, AGF 집결… ‘서브컬처 격전’ 예고",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3447190",
+     "source": "천지일보"
+    },
+    {
+     "title": "SOOP, AGF 2026에 버추얼 스트리머 28명 선보인다",
+     "url": "https://www.news1.kr/it-science/internet-platform/6348726",
+     "source": "뉴스1"
+    }
+   ]
+  },
   {
    "kw": "시어머니",
    "traffic": "2000+",
@@ -20,7 +128,7 @@
   },
   {
    "kw": "전차",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 10일 14:10",
    "news": [
     {
@@ -37,7 +145,7 @@
   },
   {
    "kw": "뷰익",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 10일 14:10",
    "news": [
     {
@@ -49,125 +157,6 @@
      "title": "KGM·체리 공동개발 'SE10', 렉스턴 이름으로 인증⋯내년 초 출시 가시화",
      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601877",
      "source": "엠투데이"
-    }
-   ]
-  },
-  {
-   "kw": "김효주",
-   "traffic": "200+",
-   "when": "11월 10일 13:50",
-   "news": [
-    {
-     "title": "'3연속 톱10' 김효주, 세계랭킹 5위로↑…황유민도 상승 [LPGA]",
-     "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022608",
-     "source": "골프한국"
-    },
-    {
-     "title": "김민솔 16억원 돌파부터 박민지 20승까지…풍성했던 KLPGA 투어",
-     "url": "https://www.yna.co.kr/view/AKR20261110089000007",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "군대",
-   "traffic": "200+",
-   "when": "11월 10일 13:20",
-   "news": [
-    {
-     "title": "군번줄 V자 홈, 전사자 이빨에 끼우는 용도?…수십 년 이어진 군대 낭설",
-     "url": "https://weekly.khan.co.kr/article/202611081448001",
-     "source": "주간경향"
-    },
-    {
-     "title": "군인들의 삶에 법을 적용하는 것.",
-     "url": "https://www.vietnam.vn/ko/dua-phap-luat-vao-doi-song-bo-doi",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "new zealand national cricket team vs india national cricket team match scorecard",
-   "traffic": "200+",
-   "when": "11월 10일 13:10",
-   "news": [
-    {
-     "title": "Gurnoor Brar stakes claim for ODI World Cup with New Zealand show | Cricket",
-     "url": "https://www.hindustantimes.com/cricket/gurnoor-brar-stakes-claim-for-odi-world-cup-with-new-zealand-show-101794149170492.html",
-     "source": "Hindustan Times"
-    },
-    {
-     "title": "India avoid a ‘stinker’ as short-ball ploy strikes both sides",
-     "url": "https://www.cricbuzz.com/cricket-news/140823/india-avoid-a-stinker-as-short-ball-ploy-strikes-both-sides-cricbuzzcom",
-     "source": "Cricbuzz"
-    }
-   ]
-  },
-  {
-   "kw": "분당 신도시",
-   "traffic": "2000+",
-   "when": "11월 10일 13:00",
-   "news": [
-    {
-     "title": "1기 신도시 거래 11.4% 늘었지만…분당·평촌 줄고 집값은 더 뛰었다",
-     "url": "https://www.segye.com/newsView/20261109513181",
-     "source": "세계일보"
-    },
-    {
-     "title": "'토허제'가 갈랐다…산본 거래량 2배 늘때 분당 '반토막'",
-     "url": "https://www.hankyung.com/article/2026110957091",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "송금",
-   "traffic": "200+",
-   "when": "11월 10일 13:00",
-   "news": [
-    {
-     "title": "[정동칼럼]송금 영수증에 남지 않은 것들",
-     "url": "https://www.khan.co.kr/article/202611092001005",
-     "source": "경향신문"
-    },
-    {
-     "title": "[단독]외국인 노동자 98%, 월급받아 해외로 보낸다…연간 최소 4.6조 송금",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01394006645644080&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "이동경",
-   "traffic": "100+",
-   "when": "11월 10일 13:00",
-   "news": [
-    {
-     "title": "이동경 아내 예린, 유튜브 시작…\"아이돌 같아\" 첫 브이로그부터 미모에 관심 [핫피플]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MNSDEYZSGAZTMOBUGNRDEMZYGI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "“이동경은 세금 20배” 박예린, 미모 본격 노출…유튜브 데뷔에 반응 폭발",
-     "url": "https://www.sportsseoul.com/news/read/1648699",
-     "source": "스포츠서울"
-    }
-   ]
-  },
-  {
-   "kw": "정웅인",
-   "traffic": "1000+",
-   "when": "11월 10일 12:50",
-   "news": [
-    {
-     "title": "정웅인 “통장 잔고 생각에 자다가 벌떡”…세 딸 바라보며 결국 눈물",
-     "url": "https://www.donga.com/news/Culture/article/all/20261110/134997213/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "'세 딸 아빠' 정웅인, 통장잔고 걱정 \"자다가 벌떡벌떡 일어나\" 울컥",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6348967",
-     "source": "뉴스1"
     }
    ]
   }
