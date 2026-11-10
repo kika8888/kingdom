@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-11 02:23",
+ "updated": "2026-11-11 02:42",
  "items": [
+  {
+   "kw": "엘리자베스 홈즈",
+   "traffic": "200+",
+   "when": "11월 11일 01:30",
+   "news": [
+    {
+     "title": "'유 캔 씨 에브리씽', 북미 역대 비음악 다큐멘터리 흥행 2위 등극",
+     "url": "https://hypebeast.kr/2026/11/a24-you-can-see-everything-second-highest-grossing-non-music-documentary-north-america-record-news",
+     "source": "Hypebeast.KR"
+    },
+    {
+     "title": "북미 뒤흔든 ‘사기꾼’ 엘리자베스 홈즈 다큐…‘유 캔 씨 에브리씽’, 12월 9일 국내 개봉",
+     "url": "https://sports.donga.com/ent/article/all/20261108/134984075/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
   {
    "kw": "추위",
    "traffic": "500+",
@@ -71,7 +88,7 @@
   },
   {
    "kw": "한수아",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 10일 21:10",
    "news": [
     {
@@ -109,9 +126,9 @@
    "when": "11월 10일 20:50",
    "news": [
     {
-     "title": "베일에 싸인 '젠슨 황 연인'...트럼프 \"첩자인 줄 몰랐단다\"",
-     "url": "https://www.ytn.co.kr/_ln/0104_202611101333393890",
-     "source": "YTN"
+     "title": "‘중국이 노린 건 칩이 아니다’…첩보 알고도 트럼프는 왜",
+     "url": "https://news.jtbc.co.kr/article/NB12327399",
+     "source": "JTBC"
     },
     {
      "title": "美안보 악몽된 젠슨황 스캔들…AI칩 대중수출 허용 의혹 소환",
@@ -151,23 +168,6 @@
      "title": "금융보안원도 해킹에 털렸다...금융사 보안정보 유출",
      "url": "https://www.ytn.co.kr/_ln/0102_202611110028275778",
      "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "악뮤 콘서트",
-   "traffic": "200+",
-   "when": "11월 10일 19:50",
-   "news": [
-    {
-     "title": "“17만원 VIP석도 무대 안보여”…악뮤 강릉 콘서트 불만 폭발",
-     "url": "https://www.donga.com/news/Society/article/all/20261109/134989499/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "\"공연 도중 귀가\" 악뮤, 콘서트 혹평 의식했나..좌석배치 변경 후 티켓팅 [Oh!쎈 이슈]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/10/HFQTMMTEGJTDQN3DMFSTGNDBMI/",
-     "source": "Chosunbiz"
     }
    ]
   }
