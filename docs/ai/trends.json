@@ -1,32 +1,134 @@
 {
- "updated": "2026-11-11 16:23",
+ "updated": "2026-11-11 17:23",
  "items": [
   {
+   "kw": "김종국",
+   "traffic": "200+",
+   "when": "11월 11일 16:10",
+   "news": [
+    {
+     "title": "\"물도 못 마시고 이틀간 고통\"…김종국 투병 '전정신경염' 뭐길래 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111111204119040",
+     "source": "머니투데이"
+    },
+    {
+     "title": "김종국, 극비리 결혼 1년 막 지났는데..건강이상설 \"심한 어지럼증\" [핫피플]",
+     "url": "https://www.koreadaily.com/article/20261110161829887",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "조원태",
+   "traffic": "200+",
+   "when": "11월 11일 16:10",
+   "news": [
+    {
+     "title": "최대주주는 호반, 경영권은 조원태…한진칼 지분전쟁 '장기전' 국면으로",
+     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080054.html",
+     "source": "인베스트조선"
+    },
+    {
+     "title": "연일 상한가…한진칼 등 '지분경쟁·경영권 이슈' 우선주 급등",
+     "url": "https://www.yna.co.kr/view/AKR20261111067900008",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "ai 안경",
+   "traffic": "1000+",
+   "when": "11월 11일 16:00",
+   "news": [
+    {
+     "title": "\"AI 안경 쓰고 '신개념 컨닝'\"…수능 앞두고 '비상' 걸렸다 [정지은의 테크킥]",
+     "url": "https://www.hankyung.com/article/202611118708i",
+     "source": "한국경제"
+    },
+    {
+     "title": "’안경테·렌즈 꼼꼼히 확인’…’스마트안경 식별’ 특별 연수",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111170232uqK",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "로제",
+   "traffic": "200+",
+   "when": "11월 11일 15:50",
+   "news": [
+    {
+     "title": "로제 ‘아파트’ 라이브에 “중학교 장기자랑” 혹평···해외반응 ‘시끌’",
+     "url": "https://sports.khan.co.kr/article/202611111009003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "로제 'APT.' 무대 어땠길래…해외선 혹평, 국내선 옹호",
+     "url": "https://www.newsis.com/view/NISX20261111_0003863734",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "지진",
+   "traffic": "1000+",
+   "when": "11월 11일 15:30",
+   "news": [
+    {
+     "title": "지진 발생 10분 만에 출근...일본 아나운서 '민낯 속보' 화제 [앵커리포트]",
+     "url": "https://www.ytn.co.kr/_ln/0104_202611101829186378",
+     "source": "YTN"
+    },
+    {
+     "title": "지진 10분 만에 맨얼굴에 안경 쓰고 속보…日 아나운서 화제",
+     "url": "https://www.koreadaily.com/article/20261108190038698",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "석유",
+   "traffic": "100+",
+   "when": "11월 11일 15:30",
+   "news": [
+    {
+     "title": "석유관리원, 제19회 한·중·일 석유기술회 개최",
+     "url": "https://www.dailian.co.kr/news/view/1713806/%EC%84%9D%EC%9C%A0%EA%B4%80%EB%A6%AC%EC%9B%90-%EC%A0%9C19%ED%9A%8C-%ED%95%9C%EC%A4%91%EC%9D%BC-%EC%84%9D%EC%9C%A0%EA%B8%B0%EC%88%A0%ED%9A%8C-2026",
+     "source": "데일리안"
+    },
+    {
+     "title": "석유관리원, 한중일 석유기술회 개최…친환경 연료 협력 논의",
+     "url": "https://www.fnnews.com/news/202611111556094195",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
    "kw": "흡연",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 11일 15:10",
    "news": [
     {
-     "title": "수만 명의 비흡연자가 간접흡연으로 사망합니다.",
-     "url": "https://www.vietnam.vn/ko/hang-chuc-ngan-nguoi-khong-hut-thuoc-phai-chet-vi-khoi-thuoc",
-     "source": "Vietnam.vn"
+     "title": "[한 컷으로 보는 AI만평] 흡연은 부스에서, 연기는 시민에게",
+     "url": "https://m.joongdo.co.kr/view.php?key=20261111010003768",
+     "source": "중도일보"
     },
     {
-     "title": "국가 감사원, 금연 근무 환경 조성 추진",
-     "url": "https://ko.laodong.vn/xa-hoi/kiem-toan-nha-nuoc-day-manh-xay-dung-moi-truong-lam-viec-khong-khoi-thuoc-1794107.ldo",
-     "source": "Laodong.vn"
+     "title": "[르포] 육교 아래 흡연부스…담배 연기 퍼지는 신탄진역 광장",
+     "url": "https://m.joongdo.co.kr/view.php?key=20261109010002971",
+     "source": "중도일보"
     }
    ]
   },
   {
    "kw": "오유진",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 11일 15:00",
    "news": []
   },
   {
    "kw": "남편",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 11일 14:30",
    "news": [
     {
@@ -55,108 +157,6 @@
      "title": "담배 속 유해성분 검사 대상 확대",
      "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12503000000&section_id=NCCD_POLICY&news_id=0f33944c-a1a4-4d51-a935-9af421afb8ae",
      "source": "K-공감"
-    }
-   ]
-  },
-  {
-   "kw": "중국",
-   "traffic": "2000+",
-   "when": "11월 11일 13:50",
-   "news": [
-    {
-     "title": "구미시, 로봇·농식품 해외시장 개척 앞장",
-     "url": "https://www.newsis.com/view/NISX20261111_0003864060",
-     "source": "뉴시스"
-    },
-    {
-     "title": "춘천 푸드테크기업, 상하이서 100만 달러 감자맥주 수출 쾌거",
-     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004121",
-     "source": "아시아투데이"
-    }
-   ]
-  },
-  {
-   "kw": "굴착기",
-   "traffic": "200+",
-   "when": "11월 11일 13:40",
-   "news": [
-    {
-     "title": "“피땀 흘려 번 돈을 돌려줘” 중국 관공서 습격한 굴착기 [잇슈 SNS]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8709444",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "中남성, 관공서에 굴착기 몰고 가 난동…철거 보상 불만 추정",
-     "url": "https://www.yna.co.kr/view/AKR20261110119700083",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "포틀랜드 대 오클라호마시티",
-   "traffic": "1000+",
-   "when": "11월 11일 13:10",
-   "news": [
-    {
-     "title": "[오클라호마시티 포틀랜드] 3점슛 넣는 아브디야",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748963",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "[오클라호마시티 포틀랜드] 파울 당하는 길저스-알렉산더",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748917",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "총파업",
-   "traffic": "500+",
-   "when": "11월 11일 13:10",
-   "news": [
-    {
-     "title": "12월 10일 열차 멈추나…철도노조, 총파업 카드 꺼냈다",
-     "url": "https://news.jtbc.co.kr/article/NB12327526",
-     "source": "JTBC"
-    },
-    {
-     "title": "철도·지하철·학교 비정규직 등 공공부문 잇단 파업 예고",
-     "url": "https://www.khan.co.kr/article/202611111548001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "김정난",
-   "traffic": "200+",
-   "when": "11월 11일 13:10",
-   "news": [
-    {
-     "title": "김정난, 미모 믿고 데뷔했는데... \"고소영, 김혜수 만나 절망\"",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GMYWCZDDMUZGIMJQMEZTMZJRMU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "\"고소영·채시라·김혜수에 절망\"…김정난, '미모로 승부 포기' 고백('김정난')",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019035",
-     "source": "SPOTV NEWS"
-    }
-   ]
-  },
-  {
-   "kw": "폴 조지",
-   "traffic": "100+",
-   "when": "11월 11일 13:10",
-   "news": [
-    {
-     "title": "적으로 보스턴 마주한 브라운, 테이텀에 여전히 '냉랭'…경기선 필라델피아 완패",
-     "url": "https://www.newsis.com/view/NISX20261111_0003863934",
-     "source": "뉴시스"
-    },
-    {
-     "title": "브라운, '전 동료' 테이텀에 여전한 앙금…필라델피아는 보스턴에 완패",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841236",
-     "source": "SBS 뉴스"
     }
    ]
   }
