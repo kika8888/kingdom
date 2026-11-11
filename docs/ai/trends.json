@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-11 11:23",
+ "updated": "2026-11-11 12:23",
  "items": [
   {
-   "kw": "이형범",
+   "kw": "미국 항공 우주국",
+   "traffic": "100+",
+   "when": "11월 11일 11:20",
+   "news": [
+    {
+     "title": "“달에서 일 할 사람 찾아요”…연봉 2억2000만원",
+     "url": "https://www.donga.com/news/Inter/article/all/20261111/135003343/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "\"달에서 살 사람 찾습니다\"…NASA, '연봉 2억' 우주비행사 모집 - 머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/10/2026111021063876192",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "트로이 왓슨",
+   "traffic": "2000+",
+   "when": "11월 11일 11:10",
+   "news": [
+    {
+     "title": "프로야구 한화, 우완 트로이 왓슨 총액 100만 달러에 영입",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709727",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[오피셜] '드디어' 한화 새 외국인 투수 '최고 157㎞' 파이어볼러 트로이 왓슨 영입 \"내가 한화와 계약한 이유는 단 하나...\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/11/2026111111015336649",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "셀트리온",
    "traffic": "200+",
+   "when": "11월 11일 11:10",
+   "news": [
+    {
+     "title": "셀트리온, MSCI ESG 평가 최고등급 ’AAA’ 획득...글로벌 ESG 경쟁력 입증",
+     "url": "https://www.etoday.co.kr/news/view/2646722",
+     "source": "이투데이"
+    },
+    {
+     "title": "셀트리온 \"MSCI ESG 평가서 최고등급 첫 획득\"",
+     "url": "https://www.newsis.com/view/NISX20261111_0003863425",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "공중 급유",
+   "traffic": "100+",
+   "when": "11월 11일 11:10",
+   "news": [
+    {
+     "title": "美 군용기 10여대, 이란 위협 속 영국 기지서 재배치",
+     "url": "https://www.yna.co.kr/view/AKR20261111048500009",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "영국 기지에 있던 미 군용기 10여 대, 다른 기지로 재배치",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840672",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "민방위",
+   "traffic": "100+",
+   "when": "11월 11일 10:50",
+   "news": [
+    {
+     "title": "계룡시, 2026년 마지막 민방위 집합교육 보충 2차 교육 실시",
+     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=802206",
+     "source": "일간투데이"
+    },
+    {
+     "title": "[오산소식]중앙동, 저소득 어르신 '따뜻한 한 끼 나눔' 등",
+     "url": "https://www.newsis.com/view/NISX20261102_0003850919",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "수원fc",
+   "traffic": "500+",
+   "when": "11월 11일 10:40",
+   "news": [
+    {
+     "title": "화천KSPO vs 경주한수원…여자축구 WK리그 PO 12일 단판 승부",
+     "url": "https://www.yna.co.kr/view/AKR20261109077400007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "2026 WK리그 왕좌를 향한 마지막 승부, 12일 WK리그 플레이오프 킥오프!",
+     "url": "https://m.news.nate.com/view/20261110n04239?mid=s02&list=recent&cpcd=",
+     "source": "네이트"
+    }
+   ]
+  },
+  {
+   "kw": "롯데월드",
+   "traffic": "500+",
+   "when": "11월 11일 10:30",
+   "news": [
+    {
+     "title": "'수험생 여러분, 수고 많았어요' 여수 유월드, 수능 맞이 특별 무료 프로모션 진행",
+     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072092",
+     "source": "경상일보"
+    },
+    {
+     "title": "\"수능 수험표 챙기세요\"…롯데월드 2만원대·서울스카이 1만원대",
+     "url": "https://www.news1.kr/industry/hotel-tourism/6349896",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "이형범",
+   "traffic": "1000+",
    "when": "11월 11일 10:10",
    "news": [
     {
@@ -20,154 +139,35 @@
   },
   {
    "kw": "육군특수전사령부",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 11일 10:10",
    "news": [
-    {
-     "title": "군, 특전사 침투물자 구매물량 16배 확대…“전작권 전환 대비”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8708268",
-     "source": "KBS 뉴스"
-    },
     {
      "title": "육군특수전사령부, 고공침투 자격과정 확대 운영…軍 ‘독자적 임무수행 능력’ 확보",
      "url": "https://www.munhwa.com/article/11630351",
      "source": "문화일보"
+    },
+    {
+     "title": "軍, 특전사 침투물자 구매물량 16배 확대…\"전작권 전환 대비\"",
+     "url": "https://www.yna.co.kr/view/AKR20261109143300504",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "kw": "엽떡 11 월 11 일",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 11일 10:10",
    "news": [
-    {
-     "title": "오늘부터 '엽떡데이' 쿠폰 발급... 언제까지?",
-     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192376",
-     "source": "금강일보"
-    },
     {
      "title": "11월 11일은 ‘엽떡데이’…동대문엽기떡볶이, 올해도 브랜드데이 할인 행사",
      "url": "https://www.seoul.co.kr/news/economy/2026/11/10/20261110500204",
      "source": "서울신문"
-    }
-   ]
-  },
-  {
-   "kw": "기사",
-   "traffic": "2000+",
-   "when": "11월 11일 10:00",
-   "news": [
-    {
-     "title": "사진으로 보는 일상의 풍경 /홍봉기 기자",
-     "url": "https://www.genews.co.kr/news/articleView.html?idxno=501443",
-     "source": "광양경제신문"
     },
     {
-     "title": "행복청, 민·관 합동 동절기 건설현장 안전점검",
-     "url": "https://www.newspim.com/news/view/20261111000169",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "미라 안드레예바",
-   "traffic": "100+",
-   "when": "11월 11일 09:50",
-   "news": [
-    {
-     "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
-     "url": "https://www.yna.co.kr/view/AKR20261110138000007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'왕중왕전' 무호바에게 서브하는 사발렌카",
-     "url": "https://www.newsis.com/view/NISI20261110_0002288184",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "필라데피아 대 보스턴",
-   "traffic": "1000+",
-   "when": "11월 11일 09:40",
-   "news": [
-    {
-     "title": "76ers' Brown gives Tatum frosty reception early in 1st post-trade matchup",
-     "url": "https://www.espn.com/nba/story/_/id/50447991/76ers-jaylen-brown-gives-jayson-tatum-frosty-reception-early-1st-post-trade-matchup",
-     "source": "ESPN"
-    },
-    {
-     "title": "Before the tip, Jayson Tatum reached and tapped Jaylen …",
-     "url": "https://sports.yahoo.com/articles/tip-jayson-tatum-reached-tapped-014356134.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "kw": "수원 fc",
-   "traffic": "200+",
-   "when": "11월 11일 09:40",
-   "news": [
-    {
-     "title": "K리그2 수원FC, 32라운드 베스트팀 선정",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040424",
-     "source": "기호일보"
-    },
-    {
-     "title": "32라운드 나란히 승리로 순위는 그대로+다득점도 한 골 차…수원FC·서울 E·대구, 2위 다이렉트 승격 경쟁은 진행형",
-     "url": "https://www.sportsseoul.com/news/read/1648062",
-     "source": "스포츠서울"
-    }
-   ]
-  },
-  {
-   "kw": "솔비",
-   "traffic": "500+",
-   "when": "11월 11일 09:00",
-   "news": [
-    {
-     "title": "‘이규한♥’ 솔비, 내년 결혼 앞두고 열일…갤러리 개관전 초청",
-     "url": "https://sports.donga.com/ent/article/all/20261110/135002266/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "솔비, 이규한과 내년 4월 결혼 앞두고 '겹경사'..작가로 승승장구",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MM2DAOLCMYZGKMRVGAZGKM3BGM/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "피클 ai",
-   "traffic": "100+",
-   "when": "11월 11일 09:00",
-   "news": [
-    {
-     "title": "‘1위 돌풍’ AI 피클…주문·약속 척척, 전화 상대는 끊었다 [팩플]",
-     "url": "https://www.koreadaily.com/article/20261110014040989",
-     "source": "미주중앙일보"
-    },
-    {
-     "title": "[백상논단] 경제의 판 바꾸는 AI 비서",
-     "url": "https://www.sedaily.com/article/20111524",
-     "source": "서울경제"
-    }
-   ]
-  },
-  {
-   "kw": "트립닷컴 메가세일",
-   "traffic": "200+",
-   "when": "11월 11일 08:50",
-   "news": [
-    {
-     "title": "제주 왕복 1100원부터…트립닷컴, 11일 오전 11시 특가전",
-     "url": "https://www.news1.kr/industry/hotel-tourism/6347319",
-     "source": "뉴스1"
-    },
-    {
-     "title": "[유통레이더] 트립닷컴, 롯데월드, 놀유니버스, 번개장터, 삼양라운드스퀘어, 달바 外",
-     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423013",
-     "source": "데일리한국"
+     "title": "오늘부터 '엽떡데이' 쿠폰 발급... 언제까지?",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192376",
+     "source": "금강일보"
     }
    ]
   }
