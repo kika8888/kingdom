@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-11 23:06",
+ "updated": "2026-11-12 00:23",
  "items": [
+  {
+   "kw": "라라랜드",
+   "traffic": "100+",
+   "when": "11월 11일 23:00",
+   "news": [
+    {
+     "title": "‘재개봉·공연실황·실험작’… 극장가, 비수기를 飛수기로!",
+     "url": "https://www.munhwa.com/article/11630108",
+     "source": "문화일보"
+    },
+    {
+     "title": "빼빼로데이, 어떤 영화 볼까? ‘듄’·‘라라랜드’ 재개봉작 예매 강세",
+     "url": "https://www.econovill.com/news/articleView.html?idxno=756741",
+     "source": "ER 이코노믹리뷰"
+    }
+   ]
+  },
   {
    "kw": "더 스카이 184",
    "traffic": "200+",
@@ -24,7 +41,7 @@
    "when": "11월 11일 20:40",
    "news": [
     {
-     "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
+     "title": "인천 고잔동 도금 공장서 가스 누출 신고…5명 연기 흡입",
      "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
      "source": "KBS 뉴스"
     },
@@ -37,7 +54,7 @@
   },
   {
    "kw": "이종석",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 11일 20:30",
    "news": [
     {
@@ -63,9 +80,9 @@
      "source": "주간조선"
     },
     {
-     "title": "“김여정, 자신이 공주라 생각…외교관과 말도 안 섞어” 탈북 외교관의 증언",
-     "url": "https://www.munhwa.com/article/11630069",
-     "source": "문화일보"
+     "title": "\"스스로 공주라 여긴 김여정, 말도 안 섞더라\"…탈북 외교관의 폭로",
+     "url": "https://www.fnnews.com/news/202611100000461558",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
@@ -75,14 +92,31 @@
    "when": "11월 11일 20:20",
    "news": [
     {
-     "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
-     "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
-     "source": "homeup.vn"
-    },
-    {
      "title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
      "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1111-khanh-hoa-da-nang-1798739.ldo",
      "source": "Laodong.vn"
+    },
+    {
+     "title": "XSCT 11/11 - Kết quả xổ số Cần Thơ hôm nay ngày 11 tháng 11",
+     "url": "https://cafef.vn/xsct-11-11-ket-qua-xo-so-can-tho-hom-nay-ngay-11-thang-11-188261111163739876.chn",
+     "source": "CafeF"
+    }
+   ]
+  },
+  {
+   "kw": "멜론티켓",
+   "traffic": "2000+",
+   "when": "11월 11일 19:40",
+   "news": [
+    {
+     "title": "AGF 2026, 12일부터 일반 티켓 판매…역대 최대 106개사 참가",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/11/UUGAXIKN65ANNLON5NA7PT2NCE/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "이세돌·이브닛 총출동…SOOP, AGF에 버추얼 28명 띄운다",
+     "url": "https://www.etnews.com/20261110000265",
+     "source": "전자신문"
     }
    ]
   },
@@ -134,40 +168,6 @@
      "title": "8개월 만삭에 뉴욕 마라톤 완주한 30대…\"임신하고 7번째예요\"",
      "url": "https://www.news1.kr/world/usa-canada/6347861",
      "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "인터뷰",
-   "traffic": "200+",
-   "when": "11월 11일 19:20",
-   "news": [
-    {
-     "title": "[인터뷰] 조인성 \"이창동 감독님은 영화의 신, 초심으로 돌아간 기분\"",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979",
-     "source": "YTN"
-    },
-    {
-     "title": "[비평] 그래서 사랑이 가능합니까, 오진우 평론가의",
-     "url": "https://cine21.com/news/view/?mag_id=111205",
-     "source": "씨네21"
-    }
-   ]
-  },
-  {
-   "kw": "연합뉴스",
-   "traffic": "500+",
-   "when": "11월 11일 19:00",
-   "news": [
-    {
-     "title": "너무 속 보이는 민주당의 연합뉴스 지배구조 개편...연합뉴스에 특별한 문제가 돌출한 것도 아닌데 왜 법 개정 서두르나?",
-     "url": "https://www.ngonews.kr/news/articleView.html?idxno=242922",
-     "source": "한국NGO신문"
-    },
-    {
-     "title": "공언련 \"민주당, 연합뉴스 지배구조 개편 추진…'언론노조에 경영권 넘기려는 눈속임'\"",
-     "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415",
-     "source": "프리진뉴스"
     }
    ]
   }
