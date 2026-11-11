@@ -1,27 +1,10 @@
 {
- "updated": "2026-11-12 07:23",
+ "updated": "2026-11-12 08:23",
  "items": [
   {
-   "kw": "พยากรณ์อากาศ",
-   "traffic": "100+",
-   "when": "11월 12일 06:20",
-   "news": [
-    {
-     "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
-     "url": "https://www.dailynews.co.th/news/6352136/",
-     "source": "เดลินิวส์"
-    },
-    {
-     "title": "ประจำวันที่ 11 พฤศจิกายน 2569 17.00 น.",
-     "url": "https://www.tmd.go.th/forecast/daily/111120261800",
-     "source": "กรมอุตุนิยมวิทยา"
-    }
-   ]
-  },
-  {
-   "kw": "3루수",
-   "traffic": "1000+",
-   "when": "11월 12일 06:10",
+   "kw": "3 루수",
+   "traffic": "2000+",
+   "when": "11월 12일 07:20",
    "news": [
     {
      "title": "노시환과 메츠 워싱턴 코치의 한화 시절 인연, 미국 현지서 화제",
@@ -36,127 +19,144 @@
    ]
   },
   {
-   "kw": "버스",
+   "kw": "박동원",
    "traffic": "1000+",
-   "when": "11월 12일 06:10",
+   "when": "11월 12일 07:20",
    "news": [
     {
-     "title": "경기 성남시 분당서 출근길 버스 등 32대 연쇄 추돌...\"중상자 9명\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611111028493144_005.html",
-     "source": "YTN"
+     "title": "\"꼭 잡겠다\" 왜 얘기 못하나...분위기가 심상치 않다, FA 포수 대격변 일어날까",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/11/ME3GMMLBMU3GIYJXGUYTAZBYG4/",
+     "source": "조선일보"
     },
     {
-     "title": "버스기사 \"브레이크 고장\"‥\"점검, 이상없음\"",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865010_37012.html",
+     "title": "구자욱·원태인만 있나…최지훈·홍창기·박동원까지 'FA 대어' 즐비",
+     "url": "https://www.news1.kr/sports/baseball/6349521",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "vix",
+   "traffic": "200+",
+   "when": "11월 12일 07:20",
+   "news": [
+    {
+     "title": "India VIX jumps 68% in three weeks despite 7% rally in Sensex, Nifty",
+     "url": "https://m.economictimes.com/markets/stocks/news/india-vix-jumps-68-despite-7-rally-in-sensex-nifty/articleshow/135695931.cms",
+     "source": "The Economic Times"
+    },
+    {
+     "title": "India VIX Rises 1.21% to 17.71 as Nifty Jumps",
+     "url": "https://hdfcsky.com/news/india-vix-rises-1-21percent-as-us-inflation-concerns-offset-crude-oil-relief-november-11-2026",
+     "source": "HDFC Sky"
+    }
+   ]
+  },
+  {
+   "kw": "삼성자산운용",
+   "traffic": "100+",
+   "when": "11월 12일 07:20",
+   "news": [
+    {
+     "title": "[부고] 김우석(삼성자산운용 대표)씨 모친상",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444267",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "[속보] 4%대 급등 코스닥, 매수 사이드카 발동",
+     "url": "https://stock.mk.co.kr/news/view/1196032",
+     "source": "매일경제 마켓"
+    }
+   ]
+  },
+  {
+   "kw": "지소연",
+   "traffic": "100+",
+   "when": "11월 12일 07:20",
+   "news": [
+    {
+     "title": "지소연에 ‘성희롱 발언’한 심판, 출전정지 3개월 징계",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710019",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "지소연 향해 '성희롱 발언' 심판, 3개월 출전정지‥재심 없이 징계 확정",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6864877_36946.html",
      "source": "MBC 뉴스"
     }
    ]
   },
   {
-   "kw": "전고체 전지",
-   "traffic": "200+",
-   "when": "11월 12일 06:00",
+   "kw": "차장",
+   "traffic": "100+",
+   "when": "11월 12일 07:10",
    "news": [
     {
-     "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
-     "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-samsung-one-team-future-advanced-industry",
-     "source": "Hyundai Motor Group"
+     "title": "'김 차장, 요즘 왜 저래?'…부장님만 '바글바글' 심상찮다",
+     "url": "https://www.hankyung.com/article/2026111110121",
+     "source": "한국경제"
     },
     {
-     "title": "삼성·현대차, 배터리 공급 넘어 설계까지 맞손…전고체 개발도",
-     "url": "https://www.yna.co.kr/view/AKR20261110163700003",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "아들",
-   "traffic": "2000+",
-   "when": "11월 12일 05:50",
-   "news": [
-    {
-     "title": "아들의 성폭행 피해자 여중생 살해한 부친",
-     "url": "https://www.donga.com/news/Society/article/all/20261111/135010430/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "[단독] '아들 성범죄' 피해자 살해…'보복 범죄' 수사",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841962",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "이재아",
-   "traffic": "1000+",
-   "when": "11월 12일 05:50",
-   "news": [
-    {
-     "title": "'이동국 딸' 재아, '테니스 아시아 랭킹 1위'인데 은퇴→골프 전향... \"지속적인 부상·수술\"(내새연2)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GMYTSMZWMZQWCMRYGU2TMOJXGA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "이동국 딸 재아 \"테니스 선수에서 골프 선수로 전향\"",
-     "url": "https://www.newsis.com/view/NISX20261112_0003864608",
+     "title": "대화 나누는 이진수 법무부 차관과 기우종 법원행정처 차장",
+     "url": "https://www.newsis.com/view/NISI20261111_0021528524",
      "source": "뉴시스"
     }
    ]
   },
   {
-   "kw": "이지현",
-   "traffic": "10000+",
-   "when": "11월 12일 05:50",
+   "kw": "엘리나 스비톨리나",
+   "traffic": "200+",
+   "when": "11월 12일 07:10",
    "news": [
     {
-     "title": "'싱글맘' 이지현, 미용실 그만뒀다…\"딸이 혼자 병원가 4바늘 꿰매\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105064185632",
-     "source": "머니투데이"
+     "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
+     "url": "https://www.yna.co.kr/view/AKR20261110138000007",
+     "source": "연합뉴스"
     },
     {
-     "title": "쥬얼리 이지현, 미용실 원장직 내려놓는다…두 자녀 위해 이직",
-     "url": "https://www.mk.co.kr/news/hot-issues/12205041",
-     "source": "매일경제"
+     "title": "'왕중왕전' 무호바에게 서브하는 사발렌카",
+     "url": "https://www.newsis.com/view/NISI20261110_0002288184",
+     "source": "뉴시스"
     }
    ]
   },
   {
-   "kw": "전병우",
-   "traffic": "500+",
-   "when": "11월 12일 05:50",
+   "kw": "홈런",
+   "traffic": "2000+",
+   "when": "11월 12일 07:00",
+   "news": [
+    {
+     "title": "12홈런 친 3루수가 C등급이라고? 보상금 고작 1억3500...의외의 '초대박' 터지나",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/12/MQZDENLCMZRGMNTDMNRGCODFMY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'KS 65경기·우승 7회' 베테랑도 \"떨린다\", '코치' 박한이가 꿈꾸는 '여덟 번째 반지' [KS1]",
+     "url": "https://isplus.com/article/view/isp202611030293",
+     "source": "일간스포츠"
+    }
+   ]
+  },
+  {
+   "kw": "광공해",
+   "traffic": "100+",
+   "when": "11월 12일 07:00",
    "news": []
   },
   {
-   "kw": "공무원",
-   "traffic": "5000+",
-   "when": "11월 12일 05:50",
-   "news": [
-    {
-     "title": "재정난에 멈춘 경기도, 내년 본예산안 사상 첫 지각",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336604",
-     "source": "인천일보"
-    },
-    {
-     "title": "[지지대] 경기도 예산, 이제는 추미애 지사 아닌 정부 몫",
-     "url": "https://www.kyeonggi.com/article/20261111580282",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "디에이치 반포124",
+   "kw": "한국경제신문사",
    "traffic": "100+",
-   "when": "11월 12일 05:40",
+   "when": "11월 12일 07:00",
    "news": [
     {
-     "title": "디에이치반포124 분양공고에 ‘통행권’ 명시…입주 후 생길 분쟁 소지 없앤다 [집슐랭]",
-     "url": "https://www.sedaily.com/article/20112591",
-     "source": "서울경제"
+     "title": "\"AI 시대에 주식 승자 되려면\"…거장은 '이 상품'에 돈 묻는다",
+     "url": "https://www.hankyung.com/article/202611107191i",
+     "source": "한국경제"
     },
     {
-     "title": "대통령 지시에도 '30억 로또 잔치' 방관하는 국토부",
-     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/10/2026111002466.html",
-     "source": "땅집고"
+     "title": "\"AI 기업 성장 여지 많다\"…기술 거품론 맞선 엔지니어 주장",
+     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714558",
+     "source": "디지털투데이"
     }
    ]
   }
