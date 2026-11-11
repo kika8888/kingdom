@@ -1,9 +1,134 @@
 {
- "updated": "2026-11-11 12:23",
+ "updated": "2026-11-11 13:23",
  "items": [
   {
-   "kw": "미국 항공 우주국",
+   "kw": "양산시",
+   "traffic": "200+",
+   "when": "11월 11일 12:20",
+   "news": []
+  },
+  {
+   "kw": "전고체 전지",
    "traffic": "100+",
+   "when": "11월 11일 12:10",
+   "news": [
+    {
+     "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
+     "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-samsung-one-team-future-advanced-industry",
+     "source": "Hyundai Motor Group"
+    },
+    {
+     "title": "삼성·현대차, 배터리 공동 설계…전고체 생산 기술도 협력",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111083251KRa",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "76ers vs celtics",
+   "traffic": "100+",
+   "when": "11월 11일 12:10",
+   "news": [
+    {
+     "title": "76ers’ Joel Embiid starts 2nd half vs. Celtics after 1st half injury scare",
+     "url": "https://sports.yahoo.com/articles/76ers-joel-embiid-starts-2nd-032613932.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Jaylen Brown disappoints Tuesday vs. Boston",
+     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-10/jaylen-brown-disappoints-tuesday-vs-boston",
+     "source": "NBC Sports"
+    }
+   ]
+  },
+  {
+   "kw": "경기도지사",
+   "traffic": "200+",
+   "when": "11월 11일 12:00",
+   "news": [
+    {
+     "title": "추미애, 국회의원·도당과 예산협력…“경기도 재정난 함께 풀기로”",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336499",
+     "source": "인천일보"
+    },
+    {
+     "title": "(경기도 대변인 서면 브리핑)민주당 경기도당과 함께 경기도민의 삶을 지키겠습니다",
+     "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71960",
+     "source": "경기도뉴스포털"
+    }
+   ]
+  },
+  {
+   "kw": "김범",
+   "traffic": "200+",
+   "when": "11월 11일 12:00",
+   "news": [
+    {
+     "title": "김범, 해외서 의문의 여성과 포착…턱에 손대자 '깜짝'",
+     "url": "https://www.newsis.com/view/NISX20261110_0003862006",
+     "source": "뉴시스"
+    },
+    {
+     "title": "“여자 손이 쓱” 김범, 日여행 갔다가 깜짝 열애설..알고보니 지인 ‘해프닝’ [Oh!쎈 이슈]",
+     "url": "https://www.osen.co.kr/article/G1112908082",
+     "source": "OSEN"
+    }
+   ]
+  },
+  {
+   "kw": "이현중",
+   "traffic": "200+",
+   "when": "11월 11일 11:50",
+   "news": [
+    {
+     "title": "이현중, G리그 개막전 선발로 코트 밟았다…립시티 첫 경기 승리 견인",
+     "url": "http://www.jemin.com/news/articleView.html?idxno=846882",
+     "source": "제민일보"
+    },
+    {
+     "title": "이현중, NBA G리그 개막전 선발 출전해 3점·6리바운드",
+     "url": "https://www.yna.co.kr/view/AKR20261111048100007",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "신동빈",
+   "traffic": "500+",
+   "when": "11월 11일 11:30",
+   "news": [
+    {
+     "title": "부회장 4명 내보낸 신동빈 롯데 회장의 1년…실적반등에도 인사는 '난맥상'",
+     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html",
+     "source": "인베스트조선"
+    },
+    {
+     "title": "롯데 유통 수장 3인방, 첫 성적표 '합격점'…신동빈 재신임 받을까",
+     "url": "https://www.newspim.com/news/view/20261109000602",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "포수",
+   "traffic": "500+",
+   "when": "11월 11일 11:30",
+   "news": [
+    {
+     "title": "[공식발표] '아들이 9년째 양키스 감독' ML 최초 3대 메이저리거 가문 일군 GG 7회 레전드 밥 분 별세, 향년 78세 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/11/2026111100450829501",
+     "source": "머니투데이"
+    },
+    {
+     "title": "메이저리그 3대 올스타 배출한 '명문 가문' 아버지 밥 분 별세",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840627",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "미국 항공 우주국",
+   "traffic": "200+",
    "when": "11월 11일 11:20",
    "news": [
     {
@@ -19,155 +144,19 @@
    ]
   },
   {
-   "kw": "트로이 왓슨",
-   "traffic": "2000+",
-   "when": "11월 11일 11:10",
-   "news": [
-    {
-     "title": "프로야구 한화, 우완 트로이 왓슨 총액 100만 달러에 영입",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709727",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "[오피셜] '드디어' 한화 새 외국인 투수 '최고 157㎞' 파이어볼러 트로이 왓슨 영입 \"내가 한화와 계약한 이유는 단 하나...\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/11/2026111111015336649",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "셀트리온",
+   "kw": "가래떡",
    "traffic": "200+",
-   "when": "11월 11일 11:10",
+   "when": "11월 11일 11:20",
    "news": [
     {
-     "title": "셀트리온, MSCI ESG 평가 최고등급 ’AAA’ 획득...글로벌 ESG 경쟁력 입증",
-     "url": "https://www.etoday.co.kr/news/view/2646722",
-     "source": "이투데이"
-    },
-    {
-     "title": "셀트리온 \"MSCI ESG 평가서 최고등급 첫 획득\"",
-     "url": "https://www.newsis.com/view/NISX20261111_0003863425",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "공중 급유",
-   "traffic": "100+",
-   "when": "11월 11일 11:10",
-   "news": [
-    {
-     "title": "美 군용기 10여대, 이란 위협 속 영국 기지서 재배치",
-     "url": "https://www.yna.co.kr/view/AKR20261111048500009",
+     "title": "[픽! 전주] 시청서 '가래떡데이, 우리 쌀 소비' 촉진 캠페인",
+     "url": "https://www.yna.co.kr/view/AKR20261111086600055",
      "source": "연합뉴스"
     },
     {
-     "title": "영국 기지에 있던 미 군용기 10여 대, 다른 기지로 재배치",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840672",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "민방위",
-   "traffic": "100+",
-   "when": "11월 11일 10:50",
-   "news": [
-    {
-     "title": "계룡시, 2026년 마지막 민방위 집합교육 보충 2차 교육 실시",
-     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=802206",
-     "source": "일간투데이"
-    },
-    {
-     "title": "[오산소식]중앙동, 저소득 어르신 '따뜻한 한 끼 나눔' 등",
-     "url": "https://www.newsis.com/view/NISX20261102_0003850919",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "수원fc",
-   "traffic": "500+",
-   "when": "11월 11일 10:40",
-   "news": [
-    {
-     "title": "화천KSPO vs 경주한수원…여자축구 WK리그 PO 12일 단판 승부",
-     "url": "https://www.yna.co.kr/view/AKR20261109077400007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "2026 WK리그 왕좌를 향한 마지막 승부, 12일 WK리그 플레이오프 킥오프!",
-     "url": "https://m.news.nate.com/view/20261110n04239?mid=s02&list=recent&cpcd=",
-     "source": "네이트"
-    }
-   ]
-  },
-  {
-   "kw": "롯데월드",
-   "traffic": "500+",
-   "when": "11월 11일 10:30",
-   "news": [
-    {
-     "title": "'수험생 여러분, 수고 많았어요' 여수 유월드, 수능 맞이 특별 무료 프로모션 진행",
-     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072092",
-     "source": "경상일보"
-    },
-    {
-     "title": "\"수능 수험표 챙기세요\"…롯데월드 2만원대·서울스카이 1만원대",
-     "url": "https://www.news1.kr/industry/hotel-tourism/6349896",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "이형범",
-   "traffic": "1000+",
-   "when": "11월 11일 10:10",
-   "news": [
-    {
-     "title": "\"팬들에게 떳떳해지고 싶다\" KIA→한화 트레이드 이적생의 확신, 대전에서의 가을 꿈꾼다 [오!쎈 미야자키] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/11/202611102317770507O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "한화가 원클럽맨 하주석까지 주고 데려왔는데…'충격' ERA 8점대라니, KIA서 온 투수 이 악물다 \"내년은 올해와 반대로 잘하겠다\"",
-     "url": "https://mydaily.co.kr/page/view/2026110800495953940",
-     "source": "마이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "육군특수전사령부",
-   "traffic": "500+",
-   "when": "11월 11일 10:10",
-   "news": [
-    {
-     "title": "육군특수전사령부, 고공침투 자격과정 확대 운영…軍 ‘독자적 임무수행 능력’ 확보",
-     "url": "https://www.munhwa.com/article/11630351",
-     "source": "문화일보"
-    },
-    {
-     "title": "軍, 특전사 침투물자 구매물량 16배 확대…\"전작권 전환 대비\"",
-     "url": "https://www.yna.co.kr/view/AKR20261109143300504",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "엽떡 11 월 11 일",
-   "traffic": "200+",
-   "when": "11월 11일 10:10",
-   "news": [
-    {
-     "title": "11월 11일은 ‘엽떡데이’…동대문엽기떡볶이, 올해도 브랜드데이 할인 행사",
-     "url": "https://www.seoul.co.kr/news/economy/2026/11/10/20261110500204",
-     "source": "서울신문"
-    },
-    {
-     "title": "오늘부터 '엽떡데이' 쿠폰 발급... 언제까지?",
-     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192376",
-     "source": "금강일보"
+     "title": "청양군, 농업인의 날 맞아 ‘우리 쌀 소비 촉진 가래떡 나눔 행사’ 개최",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721522",
+     "source": "뉴스타운"
     }
    ]
   }
