@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11 22:23",
+ "updated": "2026-11-11 23:06",
  "items": [
   {
    "kw": "더 스카이 184",
@@ -24,14 +24,14 @@
    "when": "11월 11일 20:40",
    "news": [
     {
-     "title": "[속보] 인천 남동공단 유독가스 유출···\"주민 대피\"",
-     "url": "https://www.incheontoday.com/news/articleView.html?idxno=326251",
-     "source": "인천투데이"
+     "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "인천 남동구서 가스누출 의심 신고···1명 병원 이송",
-     "url": "https://www.khan.co.kr/article/202611112124001",
-     "source": "경향신문"
+     "title": "인천 남동국가산단 도금공장 유독가스 신고…남동구 “유독가스 아닌 것으로 판별”",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620",
+     "source": "인천일보"
     }
    ]
   },
@@ -87,8 +87,25 @@
    ]
   },
   {
+   "kw": "일진전기",
+   "traffic": "5000+",
+   "when": "11월 11일 19:30",
+   "news": [
+    {
+     "title": "어제는 9% 오늘은 14% 급등…그래도 \"가장 저평가\"",
+     "url": "https://www.hankyung.com/article/202611110559i",
+     "source": "한국경제"
+    },
+    {
+     "title": "일진전기, 올 3Q 서프라이즈급 실적 달성...글로벌 호황에 수주고도 ‘탄탄’",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374644",
+     "source": "전기신문"
+    }
+   ]
+  },
+  {
    "kw": "주차장",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 11일 19:30",
    "news": [
     {
@@ -151,23 +168,6 @@
      "title": "공언련 \"민주당, 연합뉴스 지배구조 개편 추진…'언론노조에 경영권 넘기려는 눈속임'\"",
      "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415",
      "source": "프리진뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "창원 lg 대 서울 sk",
-   "traffic": "1000+",
-   "when": "11월 11일 18:50",
-   "news": [
-    {
-     "title": "'1쿼터 32-8' 프로농구 LG, SK 완파하고 공동 5위…굿윈 26점",
-     "url": "https://www.yna.co.kr/view/AKR20261111178600007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[사진] 굿윈, 전희철 감독 앞 돌격",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/11/HFSGINJUGJSDCNDDMVRTQYZWGM/",
-     "source": "조선일보"
     }
    ]
   }
