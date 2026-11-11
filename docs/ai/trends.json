@@ -1,6 +1,125 @@
 {
- "updated": "2026-11-11 10:23",
+ "updated": "2026-11-11 11:23",
  "items": [
+  {
+   "kw": "이형범",
+   "traffic": "200+",
+   "when": "11월 11일 10:10",
+   "news": [
+    {
+     "title": "\"팬들에게 떳떳해지고 싶다\" KIA→한화 트레이드 이적생의 확신, 대전에서의 가을 꿈꾼다 [오!쎈 미야자키] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/11/202611102317770507O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "한화가 원클럽맨 하주석까지 주고 데려왔는데…'충격' ERA 8점대라니, KIA서 온 투수 이 악물다 \"내년은 올해와 반대로 잘하겠다\"",
+     "url": "https://mydaily.co.kr/page/view/2026110800495953940",
+     "source": "마이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "육군특수전사령부",
+   "traffic": "200+",
+   "when": "11월 11일 10:10",
+   "news": [
+    {
+     "title": "군, 특전사 침투물자 구매물량 16배 확대…“전작권 전환 대비”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8708268",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "육군특수전사령부, 고공침투 자격과정 확대 운영…軍 ‘독자적 임무수행 능력’ 확보",
+     "url": "https://www.munhwa.com/article/11630351",
+     "source": "문화일보"
+    }
+   ]
+  },
+  {
+   "kw": "엽떡 11 월 11 일",
+   "traffic": "100+",
+   "when": "11월 11일 10:10",
+   "news": [
+    {
+     "title": "오늘부터 '엽떡데이' 쿠폰 발급... 언제까지?",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192376",
+     "source": "금강일보"
+    },
+    {
+     "title": "11월 11일은 ‘엽떡데이’…동대문엽기떡볶이, 올해도 브랜드데이 할인 행사",
+     "url": "https://www.seoul.co.kr/news/economy/2026/11/10/20261110500204",
+     "source": "서울신문"
+    }
+   ]
+  },
+  {
+   "kw": "기사",
+   "traffic": "2000+",
+   "when": "11월 11일 10:00",
+   "news": [
+    {
+     "title": "사진으로 보는 일상의 풍경 /홍봉기 기자",
+     "url": "https://www.genews.co.kr/news/articleView.html?idxno=501443",
+     "source": "광양경제신문"
+    },
+    {
+     "title": "행복청, 민·관 합동 동절기 건설현장 안전점검",
+     "url": "https://www.newspim.com/news/view/20261111000169",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "미라 안드레예바",
+   "traffic": "100+",
+   "when": "11월 11일 09:50",
+   "news": [
+    {
+     "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
+     "url": "https://www.yna.co.kr/view/AKR20261110138000007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'왕중왕전' 무호바에게 서브하는 사발렌카",
+     "url": "https://www.newsis.com/view/NISI20261110_0002288184",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "필라데피아 대 보스턴",
+   "traffic": "1000+",
+   "when": "11월 11일 09:40",
+   "news": [
+    {
+     "title": "76ers' Brown gives Tatum frosty reception early in 1st post-trade matchup",
+     "url": "https://www.espn.com/nba/story/_/id/50447991/76ers-jaylen-brown-gives-jayson-tatum-frosty-reception-early-1st-post-trade-matchup",
+     "source": "ESPN"
+    },
+    {
+     "title": "Before the tip, Jayson Tatum reached and tapped Jaylen …",
+     "url": "https://sports.yahoo.com/articles/tip-jayson-tatum-reached-tapped-014356134.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "kw": "수원 fc",
+   "traffic": "200+",
+   "when": "11월 11일 09:40",
+   "news": [
+    {
+     "title": "K리그2 수원FC, 32라운드 베스트팀 선정",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040424",
+     "source": "기호일보"
+    },
+    {
+     "title": "32라운드 나란히 승리로 순위는 그대로+다득점도 한 골 차…수원FC·서울 E·대구, 2위 다이렉트 승격 경쟁은 진행형",
+     "url": "https://www.sportsseoul.com/news/read/1648062",
+     "source": "스포츠서울"
+    }
+   ]
+  },
   {
    "kw": "솔비",
    "traffic": "500+",
@@ -36,25 +155,8 @@
    ]
   },
   {
-   "kw": "박신영 아나운서",
-   "traffic": "200+",
-   "when": "11월 11일 08:50",
-   "news": [
-    {
-     "title": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
-     "url": "https://www.newsis.com/view/NISX20261110_0003862283",
-     "source": "뉴시스"
-    },
-    {
-     "title": "박신영, 사망사고 5년 만에 입 열었다…\"평생 안 잊어\" 문신까지 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/11/2026111106141849374",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
    "kw": "트립닷컴 메가세일",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 11일 08:50",
    "news": [
     {
@@ -66,108 +168,6 @@
      "title": "[유통레이더] 트립닷컴, 롯데월드, 놀유니버스, 번개장터, 삼양라운드스퀘어, 달바 外",
      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423013",
      "source": "데일리한국"
-    }
-   ]
-  },
-  {
-   "kw": "시내버스",
-   "traffic": "100+",
-   "when": "11월 11일 08:50",
-   "news": [
-    {
-     "title": "[속보] 분당사거리서 시내버스가 차 10여대 추돌",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261111084505NpB",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "속보 소방 \"성남 연쇄 추돌 사고로 중상 9명·경상 48명\"",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611110952377598",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "빼난지원금",
-   "traffic": "200+",
-   "when": "11월 11일 08:30",
-   "news": [
-    {
-     "title": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
-     "url": "https://biz.chosun.com/topics/topics_social/2026/11/11/2XDK6KHU2ZHRVAUMONFNISI5SA/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "어느덧 빼빼로 데이…어른들은 모르는 ’빼난지원금’ 무슨 뜻?",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110173936oEF",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "대구교도소",
-   "traffic": "200+",
-   "when": "11월 11일 08:30",
-   "news": [
-    {
-     "title": "'3년 방치' 옛 교도소, 문화예술 공간으로 변신",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611110331000220",
-     "source": "YTN"
-    },
-    {
-     "title": "‘7년 표류’ 옛 대구교도소 터 개발 본격화",
-     "url": "https://www.segye.com/newsView/20261109514586",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "이효정",
-   "traffic": "10000+",
-   "when": "11월 11일 08:20",
-   "news": [
-    {
-     "title": "\"집안에 배우만 6명\"…이효정 아들 이유진, 장동윤과 동서된다 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105460011738",
-     "source": "머니투데이"
-    },
-    {
-     "title": "동상이몽2_너는 내 운명 : 이유진, ‘아버지’ 이효정과 함께 가게 홍보용 릴스 촬영",
-     "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483092133",
-     "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "광주시",
-   "traffic": "1000+",
-   "when": "11월 11일 08:10",
-   "news": [
-    {
-     "title": "\"경기도교육감 개표 결과 달라져\"...특검, 압수수색",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611102211380963",
-     "source": "YTN"
-    },
-    {
-     "title": "선관위 특검, '개표상황표 은닉·위조' 경기 광주시 선관위 압수수색",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6864505_36918.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "훈련",
-   "traffic": "1000+",
-   "when": "11월 11일 08:00",
-   "news": [
-    {
-     "title": "훈련장에서 쓰러졌던 콩파니 뮌헨 감독, 3주 만에 팀 복귀",
-     "url": "https://www.yna.co.kr/view/AKR20261111012200007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[공식발표] '충격의 실신→긴급 병원 이송' 콤파니 감독, 뇌·척수 둘러싼 수막에 이상 발견...11일 만에 전해진 복귀 소식 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/11/202611110747778970O",
-     "source": "머니투데이"
     }
    ]
   }
