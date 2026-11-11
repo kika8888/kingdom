@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-11 20:23",
+ "updated": "2026-11-11 21:23",
  "items": [
+  {
+   "kw": "xsmb",
+   "traffic": "500+",
+   "when": "11월 11일 20:20",
+   "news": [
+    {
+     "title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
+     "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1111-khanh-hoa-da-nang-1798739.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "XSCT 11/11 - Kết quả xổ số Cần Thơ hôm nay ngày 11 tháng 11",
+     "url": "https://cafef.vn/xsct-11-11-ket-qua-xo-so-can-tho-hom-nay-ngay-11-thang-11-188261111163739876.chn",
+     "source": "CafeF"
+    }
+   ]
+  },
+  {
+   "kw": "임신",
+   "traffic": "500+",
+   "when": "11월 11일 19:30",
+   "news": [
+    {
+     "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
+     "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "8개월 만삭에 뉴욕 마라톤 완주한 30대…\"임신하고 7번째예요\"",
+     "url": "https://www.news1.kr/world/usa-canada/6347861",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "주차장",
+   "traffic": "100+",
+   "when": "11월 11일 19:30",
+   "news": [
+    {
+     "title": "서부발전, 대전산단 에너지 자립사업 참여…320억 규모",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374592",
+     "source": "전기신문"
+    },
+    {
+     "title": "한전KDN, 전력 정보통신 넘어 태양광 발전사업으로 영역 확대",
+     "url": "https://edata.ekn.kr/article/view/ekn202611110007",
+     "source": "기후에너지데이터뱅크"
+    }
+   ]
+  },
   {
    "kw": "인터뷰",
    "traffic": "200+",
@@ -41,8 +92,8 @@
    "when": "11월 11일 18:50",
    "news": [
     {
-     "title": "◇오늘의 경기(11일)",
-     "url": "https://www.yna.co.kr/view/AKR20261109042251007",
+     "title": "'1쿼터 32-8' 프로농구 LG, SK 완파하고 공동 5위…굿윈 26점",
+     "url": "https://www.yna.co.kr/view/AKR20261111178600007",
      "source": "연합뉴스"
     },
     {
@@ -71,7 +122,7 @@
   },
   {
    "kw": "비전",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 11일 18:30",
    "news": [
     {
@@ -92,20 +143,20 @@
    "when": "11월 11일 18:30",
    "news": [
     {
-     "title": "넷이즈 '마블 라이벌즈' 시즌11, 13일 시작…나이트크롤러·드라큘라 합류",
-     "url": "https://zdnet.co.kr/view/?no=20261111142136",
-     "source": "지디넷코리아"
+     "title": "'어벤져스: 둠스데이' 내한 확정…캡틴 아메리카·토르 한국 온다",
+     "url": "https://www.ytn.co.kr/_sn/0117_202611060938487803",
+     "source": "YTN"
     },
     {
-     "title": "마블 라이벌즈 시즌11 ‘둠스데이’ 11월 13일 시작",
-     "url": "https://kbench.com/?q=node/283251",
-     "source": "케이벤치"
+     "title": "[문화연예 플러스] 지난 9월, 북미 사전 예매액 '670억 원' 돌파",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6864443_37012.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
   {
    "kw": "의약품",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 11일 18:20",
    "news": [
     {
@@ -114,60 +165,9 @@
      "source": "조선일보"
     },
     {
-     "title": "[속보]국내 가격의 7분의 1…비만약 ‘스시자로’ 허용된다",
+     "title": "[속보]국내 가격의 5분의 1…비만약 ‘스시자로’ 허용된다",
      "url": "https://www.munhwa.com/article/11630646",
      "source": "문화일보"
-    }
-   ]
-  },
-  {
-   "kw": "김태희",
-   "traffic": "500+",
-   "when": "11월 11일 17:40",
-   "news": [
-    {
-     "title": "김태희 맞아? 외모 악플 쏟아진 후..민낯으로 증명한 '태혜지' 태쁘 미모 [핫피플]",
-     "url": "https://www.osen.co.kr/article/G1112908092",
-     "source": "OSEN"
-    },
-    {
-     "title": "김태희, ♥비도 감탄할 등근육…한때 액션 구미호 뒤태 [DA★]",
-     "url": "https://sports.donga.com/ent/article/all/20261111/135006478/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "토마토",
-   "traffic": "500+",
-   "when": "11월 11일 17:20",
-   "news": [
-    {
-     "title": "토마토에 치명적인 바이러스 발생…“접촉 자제”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8707342",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "농진청, 토마토갈색주름과실바이러스 확진 농가 공적 방제",
-     "url": "https://www.yna.co.kr/view/AKR20261110158900055",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "세무사 수석",
-   "traffic": "500+",
-   "when": "11월 11일 17:20",
-   "news": [
-    {
-     "title": "대기업 10년차·벼랑끝 자영업 거쳐 세무사시험 수석 합격한 한원석씨",
-     "url": "https://www.taxtimes.co.kr/news/article.html?no=277678",
-     "source": "한국세정신문"
-    },
-    {
-     "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
-     "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154",
-     "source": "Daily NTN"
     }
    ]
   }
