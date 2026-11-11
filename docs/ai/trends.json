@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-11 14:23",
+ "updated": "2026-11-11 14:58",
  "items": [
+  {
+   "kw": "굴착기",
+   "traffic": "200+",
+   "when": "11월 11일 13:40",
+   "news": [
+    {
+     "title": "“피땀 흘려 번 돈을 돌려줘” 중국 관공서 습격한 굴착기 [잇슈 SNS]",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8709444",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "中남성, 관공서에 굴착기 몰고 가 난동…철거 보상 불만 추정",
+     "url": "https://www.yna.co.kr/view/AKR20261110119700083",
+     "source": "연합뉴스"
+    }
+   ]
+  },
   {
    "kw": "총파업",
    "traffic": "2000+",
@@ -12,9 +29,9 @@
      "source": "조선일보"
     },
     {
-     "title": "철도노조 “내달 10일 오전 9시부터 무기한 총파업”",
-     "url": "https://www.donga.com/news/Society/article/all/20261111/135005419/2",
-     "source": "동아일보"
+     "title": "철도노조, 12월 10일 무기한 총파업 예고…코레일 \"열차 75.2% 운행 예상\"",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=354387",
+     "source": "녹색경제신문"
     }
    ]
   },
@@ -29,9 +46,9 @@
      "source": "OSEN"
     },
     {
-     "title": "브라운·조지의 '엇갈린 운명'...NBA 보스턴-필라델피아, 프로토 133회차 대상",
-     "url": "https://news.tf.co.kr/read/toto/2386901.htm",
-     "source": "더팩트"
+     "title": "보스턴 만나는 제일런 브라운…필라델피아-보스턴전, 프로토 승부식 133회차 발매",
+     "url": "https://sports.donga.com/sports/article/all/20261110/134998391/1",
+     "source": "스포츠동아"
     }
    ]
   },
@@ -39,18 +56,7 @@
    "kw": "스마일게이트",
    "traffic": "1000+",
    "when": "11월 11일 13:00",
-   "news": [
-    {
-     "title": "Smilegate to Showcase 'MIRESI' at Japan's Comic Market in December",
-     "url": "https://www.invenglobal.com/articles/28345/smilegate-to-showcase-miresi-at-japans-comic-market-in-december",
-     "source": "Inven Global"
-    },
-    {
-     "title": "MIRESI: Invisible Future Previews Continue to Impress",
-     "url": "https://www.denofgeek.com/games/miresi-invisible-future-previews-continue-to-impress/",
-     "source": "Den of Geek"
-    }
-   ]
+   "news": []
   },
   {
    "kw": "사슴",
@@ -75,14 +81,14 @@
    "when": "11월 11일 12:50",
    "news": [
     {
-     "title": "강진군, 공무원 AI활용 능력 근무성적평가 반영",
-     "url": "https://www.yna.co.kr/view/AKR20261111044000054",
+     "title": "보은군 공무원노조, 비방글 반복 게시한 민원인 고발",
+     "url": "https://www.yna.co.kr/view/AKR20261111081400064",
      "source": "연합뉴스"
     },
     {
-     "title": "\"AI 역량을 근무평정에 반영\"… 강진군, 디지털 행정 혁신 속도",
-     "url": "https://www.greened.kr/news/articleView.html?idxno=354349",
-     "source": "녹색경제신문"
+     "title": "보은군 공무원노조, 담당 공무원 비방 게시물 관련 민원인 고발",
+     "url": "https://www.newspim.com/news/view/20261111000317",
+     "source": "뉴스핌"
     }
    ]
   },
@@ -120,9 +126,9 @@
      "source": "머니투데이"
     },
     {
-     "title": "데이트 또 포착..이광수♥이선빈, 9년 차 커플의 '부부 바이브' [핫피플]",
-     "url": "https://www.koreadaily.com/article/20261110082002723",
-     "source": "미주중앙일보"
+     "title": "9년 만난 이광수♥이선빈, 손 꼭 잡고 쇼핑 데이트",
+     "url": "https://www.newsis.com/view/NISX20261111_0003863078",
+     "source": "뉴시스"
     }
    ]
   },
@@ -140,23 +146,6 @@
      "title": "‘삼성·현대차그룹 동맹’ 배터리 공급 넘어 설계까지 확장",
      "url": "https://www.munhwa.com/article/11630522",
      "source": "문화일보"
-    }
-   ]
-  },
-  {
-   "kw": "경기도지사",
-   "traffic": "500+",
-   "when": "11월 11일 12:00",
-   "news": [
-    {
-     "title": "경기도, 내년 예산안 법정 제출기한 넘겨 13일쯤 제출",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8709868",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "(경기도 대변인 서면 브리핑)민주당 경기도당과 함께 경기도민의 삶을 지키겠습니다",
-     "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=71960",
-     "source": "경기도뉴스포털"
     }
    ]
   }
