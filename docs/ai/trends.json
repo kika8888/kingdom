@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-12 00:23",
+ "updated": "2026-11-12 01:23",
  "items": [
+  {
+   "kw": "크러쉬 조이",
+   "traffic": "200+",
+   "when": "11월 12일 00:00",
+   "news": [
+    {
+     "title": "조이♥크러쉬, 늦은 밤 달달한 럽스타 투척…‘삐그덕’ 듀엣 깜짝 공개",
+     "url": "https://sports.khan.co.kr/article/202611112204003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "크러쉬, ♥조이에 허락받았나.. \"사랑노래, 아이유에 직접 듀엣 제안\"",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/GY4DMNLGGY4TAYZXGRTDQNZQGU/",
+     "source": "조선일보"
+    }
+   ]
+  },
   {
    "kw": "라라랜드",
    "traffic": "100+",
@@ -54,7 +71,7 @@
   },
   {
    "kw": "이종석",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 11일 20:30",
    "news": [
     {
@@ -71,7 +88,7 @@
   },
   {
    "kw": "외교관",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 11일 20:30",
    "news": [
     {
@@ -97,9 +114,9 @@
      "source": "Laodong.vn"
     },
     {
-     "title": "XSCT 11/11 - Kết quả xổ số Cần Thơ hôm nay ngày 11 tháng 11",
-     "url": "https://cafef.vn/xsct-11-11-ket-qua-xo-so-can-tho-hom-nay-ngay-11-thang-11-188261111163739876.chn",
-     "source": "CafeF"
+     "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
+     "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
+     "source": "homeup.vn"
     }
    ]
   },
@@ -143,31 +160,14 @@
    "when": "11월 11일 19:30",
    "news": [
     {
-     "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
-     "url": "https://www.newsis.com/view/NISX20261111_0003863717",
-     "source": "뉴시스"
+     "title": "서부발전, 대전산단 에너지 자립사업 참여…320억 규모",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374592",
+     "source": "전기신문"
     },
     {
-     "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
-     "url": "https://www.newspim.com/news/view/20261111001289",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "임신",
-   "traffic": "500+",
-   "when": "11월 11일 19:30",
-   "news": [
-    {
-     "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
-     "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "8개월 만삭에 뉴욕 마라톤 완주한 30대…\"임신하고 7번째예요\"",
-     "url": "https://www.news1.kr/world/usa-canada/6347861",
-     "source": "뉴스1"
+     "title": "한전KDN, 전력 정보통신 넘어 태양광 발전사업으로 영역 확대",
+     "url": "https://edata.ekn.kr/article/view/ekn202611110007",
+     "source": "기후에너지데이터뱅크"
     }
    ]
   }
