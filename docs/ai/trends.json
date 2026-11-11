@@ -1,6 +1,80 @@
 {
- "updated": "2026-11-11 14:58",
+ "updated": "2026-11-11 16:23",
  "items": [
+  {
+   "kw": "흡연",
+   "traffic": "500+",
+   "when": "11월 11일 15:10",
+   "news": [
+    {
+     "title": "수만 명의 비흡연자가 간접흡연으로 사망합니다.",
+     "url": "https://www.vietnam.vn/ko/hang-chuc-ngan-nguoi-khong-hut-thuoc-phai-chet-vi-khoi-thuoc",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "국가 감사원, 금연 근무 환경 조성 추진",
+     "url": "https://ko.laodong.vn/xa-hoi/kiem-toan-nha-nuoc-day-manh-xay-dung-moi-truong-lam-viec-khong-khoi-thuoc-1794107.ldo",
+     "source": "Laodong.vn"
+    }
+   ]
+  },
+  {
+   "kw": "오유진",
+   "traffic": "200+",
+   "when": "11월 11일 15:00",
+   "news": []
+  },
+  {
+   "kw": "남편",
+   "traffic": "2000+",
+   "when": "11월 11일 14:30",
+   "news": [
+    {
+     "title": "“밑져야 본전”..장나라, ♥6살 연하 남편에 대시 후 결혼 직감 “나 시집 가겠는데” (‘살롱드립’)",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/HFQTINJSGAZWCMTFGFQWGMZXGM/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "김혜윤, ‘스캐’ 예서가 로스쿨 갔다는 댓글에 “어떤 직업이든 잘됐네요” (‘살롱드립’)",
+     "url": "https://www.osen.co.kr/article/G1112908065",
+     "source": "OSEN"
+    }
+   ]
+  },
+  {
+   "kw": "담배",
+   "traffic": "5000+",
+   "when": "11월 11일 14:20",
+   "news": [
+    {
+     "title": "\"담뱃값 4500원→8500원으로\"…2015년 이후 11년 만에 인상 주장, 이유는?",
+     "url": "https://view.asiae.co.kr/article/2026111109323627428",
+     "source": "아시아경제"
+    },
+    {
+     "title": "담배 속 유해성분 검사 대상 확대",
+     "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12503000000&section_id=NCCD_POLICY&news_id=0f33944c-a1a4-4d51-a935-9af421afb8ae",
+     "source": "K-공감"
+    }
+   ]
+  },
+  {
+   "kw": "중국",
+   "traffic": "2000+",
+   "when": "11월 11일 13:50",
+   "news": [
+    {
+     "title": "구미시, 로봇·농식품 해외시장 개척 앞장",
+     "url": "https://www.newsis.com/view/NISX20261111_0003864060",
+     "source": "뉴시스"
+    },
+    {
+     "title": "춘천 푸드테크기업, 상하이서 100만 달러 감자맥주 수출 쾌거",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004121",
+     "source": "아시아투데이"
+    }
+   ]
+  },
   {
    "kw": "굴착기",
    "traffic": "200+",
@@ -19,19 +93,53 @@
    ]
   },
   {
-   "kw": "총파업",
-   "traffic": "2000+",
+   "kw": "포틀랜드 대 오클라호마시티",
+   "traffic": "1000+",
    "when": "11월 11일 13:10",
    "news": [
     {
-     "title": "[속보] 코레일 노조 \"12월 10일 오전 9시부터 무기한 총파업\"",
-     "url": "https://www.chosun.com/national/labor/2026/11/11/CLIGBGE3C5BOZBLVTVH4FLFFEI/",
+     "title": "[오클라호마시티 포틀랜드] 3점슛 넣는 아브디야",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748963",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "[오클라호마시티 포틀랜드] 파울 당하는 길저스-알렉산더",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3748917",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "총파업",
+   "traffic": "500+",
+   "when": "11월 11일 13:10",
+   "news": [
+    {
+     "title": "12월 10일 열차 멈추나…철도노조, 총파업 카드 꺼냈다",
+     "url": "https://news.jtbc.co.kr/article/NB12327526",
+     "source": "JTBC"
+    },
+    {
+     "title": "철도·지하철·학교 비정규직 등 공공부문 잇단 파업 예고",
+     "url": "https://www.khan.co.kr/article/202611111548001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "김정난",
+   "traffic": "200+",
+   "when": "11월 11일 13:10",
+   "news": [
+    {
+     "title": "김정난, 미모 믿고 데뷔했는데... \"고소영, 김혜수 만나 절망\"",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/09/GMYWCZDDMUZGIMJQMEZTMZJRMU/",
      "source": "조선일보"
     },
     {
-     "title": "철도노조, 12월 10일 무기한 총파업 예고…코레일 \"열차 75.2% 운행 예상\"",
-     "url": "https://www.greened.kr/news/articleView.html?idxno=354387",
-     "source": "녹색경제신문"
+     "title": "\"고소영·채시라·김혜수에 절망\"…김정난, '미모로 승부 포기' 고백('김정난')",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019035",
+     "source": "SPOTV NEWS"
     }
    ]
   },
@@ -41,111 +149,14 @@
    "when": "11월 11일 13:10",
    "news": [
     {
-     "title": "[토토 투데이] 브라운-조지, 이적 후 첫 친정팀 맞대결…필라델피아-보스턴 동부 선두 경쟁에 프로토 승부식 발매",
-     "url": "https://www.osen.co.kr/article/G1112907576",
-     "source": "OSEN"
-    },
-    {
-     "title": "보스턴 만나는 제일런 브라운…필라델피아-보스턴전, 프로토 승부식 133회차 발매",
-     "url": "https://sports.donga.com/sports/article/all/20261110/134998391/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "스마일게이트",
-   "traffic": "1000+",
-   "when": "11월 11일 13:00",
-   "news": []
-  },
-  {
-   "kw": "사슴",
-   "traffic": "200+",
-   "when": "11월 11일 13:00",
-   "news": [
-    {
-     "title": "\"사슴 주둥이에 웬 호박이\"…미국서 열흘간 추격 끝 구조",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110171404jdp",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "핼러윈 호박통에 입 끼어 열흘간 물도 못 마신 어린 사슴…강물 네 번 건너 구조 나서",
-     "url": "https://view.asiae.co.kr/article/2026111109000568590",
-     "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "공무원",
-   "traffic": "2000+",
-   "when": "11월 11일 12:50",
-   "news": [
-    {
-     "title": "보은군 공무원노조, 비방글 반복 게시한 민원인 고발",
-     "url": "https://www.yna.co.kr/view/AKR20261111081400064",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "보은군 공무원노조, 담당 공무원 비방 게시물 관련 민원인 고발",
-     "url": "https://www.newspim.com/news/view/20261111000317",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "이세계아이돌",
-   "traffic": "200+",
-   "when": "11월 11일 12:40",
-   "news": [
-    {
-     "title": "AGF 2026, 12일부터 일반 티켓 판매…역대 최대 106개사 참가",
-     "url": "https://biz.chosun.com/it-science/ict/2026/11/11/UUGAXIKN65ANNLON5NA7PT2NCE/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "이세돌·이브닛 총출동…SOOP, AGF에 버추얼 28명 띄운다",
-     "url": "https://www.etnews.com/20261110000265",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "양산시",
-   "traffic": "500+",
-   "when": "11월 11일 12:20",
-   "news": []
-  },
-  {
-   "kw": "이선빈",
-   "traffic": "100+",
-   "when": "11월 11일 12:20",
-   "news": [
-    {
-     "title": "\"27㎝ 키 차이 설렌다\"…이광수♥이선빈, 9년 차 커플 데이트 포착 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105361098673",
-     "source": "머니투데이"
-    },
-    {
-     "title": "9년 만난 이광수♥이선빈, 손 꼭 잡고 쇼핑 데이트",
-     "url": "https://www.newsis.com/view/NISX20261111_0003863078",
+     "title": "적으로 보스턴 마주한 브라운, 테이텀에 여전히 '냉랭'…경기선 필라델피아 완패",
+     "url": "https://www.newsis.com/view/NISX20261111_0003863934",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "전고체 전지",
-   "traffic": "200+",
-   "when": "11월 11일 12:10",
-   "news": [
-    {
-     "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
-     "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-samsung-one-team-future-advanced-industry",
-     "source": "Hyundai Motor Group"
     },
     {
-     "title": "‘삼성·현대차그룹 동맹’ 배터리 공급 넘어 설계까지 확장",
-     "url": "https://www.munhwa.com/article/11630522",
-     "source": "문화일보"
+     "title": "브라운, '전 동료' 테이텀에 여전한 앙금…필라델피아는 보스턴에 완패",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841236",
+     "source": "SBS 뉴스"
     }
    ]
   }
