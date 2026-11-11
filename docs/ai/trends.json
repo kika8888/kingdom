@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-11 09:23",
+ "updated": "2026-11-11 10:23",
  "items": [
   {
+   "kw": "솔비",
+   "traffic": "500+",
+   "when": "11월 11일 09:00",
+   "news": [
+    {
+     "title": "‘이규한♥’ 솔비, 내년 결혼 앞두고 열일…갤러리 개관전 초청",
+     "url": "https://sports.donga.com/ent/article/all/20261110/135002266/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "솔비, 이규한과 내년 4월 결혼 앞두고 '겹경사'..작가로 승승장구",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/MM2DAOLCMYZGKMRVGAZGKM3BGM/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "피클 ai",
+   "traffic": "100+",
+   "when": "11월 11일 09:00",
+   "news": [
+    {
+     "title": "‘1위 돌풍’ AI 피클…주문·약속 척척, 전화 상대는 끊었다 [팩플]",
+     "url": "https://www.koreadaily.com/article/20261110014040989",
+     "source": "미주중앙일보"
+    },
+    {
+     "title": "[백상논단] 경제의 판 바꾸는 AI 비서",
+     "url": "https://www.sedaily.com/article/20111524",
+     "source": "서울경제"
+    }
+   ]
+  },
+  {
+   "kw": "박신영 아나운서",
+   "traffic": "200+",
+   "when": "11월 11일 08:50",
+   "news": [
+    {
+     "title": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
+     "url": "https://www.newsis.com/view/NISX20261110_0003862283",
+     "source": "뉴시스"
+    },
+    {
+     "title": "박신영, 사망사고 5년 만에 입 열었다…\"평생 안 잊어\" 문신까지 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/11/2026111106141849374",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "트립닷컴 메가세일",
+   "traffic": "100+",
+   "when": "11월 11일 08:50",
+   "news": [
+    {
+     "title": "제주 왕복 1100원부터…트립닷컴, 11일 오전 11시 특가전",
+     "url": "https://www.news1.kr/industry/hotel-tourism/6347319",
+     "source": "뉴스1"
+    },
+    {
+     "title": "[유통레이더] 트립닷컴, 롯데월드, 놀유니버스, 번개장터, 삼양라운드스퀘어, 달바 外",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423013",
+     "source": "데일리한국"
+    }
+   ]
+  },
+  {
+   "kw": "시내버스",
+   "traffic": "100+",
+   "when": "11월 11일 08:50",
+   "news": [
+    {
+     "title": "[속보] 분당사거리서 시내버스가 차 10여대 추돌",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261111084505NpB",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "속보 소방 \"성남 연쇄 추돌 사고로 중상 9명·경상 48명\"",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611110952377598",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "빼난지원금",
+   "traffic": "200+",
+   "when": "11월 11일 08:30",
+   "news": [
+    {
+     "title": "빼빼로 못 받으면 ‘빼난지원금’?… 초등학생이 소개한 신조어 화제",
+     "url": "https://biz.chosun.com/topics/topics_social/2026/11/11/2XDK6KHU2ZHRVAUMONFNISI5SA/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "어느덧 빼빼로 데이…어른들은 모르는 ’빼난지원금’ 무슨 뜻?",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110173936oEF",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "대구교도소",
+   "traffic": "200+",
+   "when": "11월 11일 08:30",
+   "news": [
+    {
+     "title": "'3년 방치' 옛 교도소, 문화예술 공간으로 변신",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611110331000220",
+     "source": "YTN"
+    },
+    {
+     "title": "‘7년 표류’ 옛 대구교도소 터 개발 본격화",
+     "url": "https://www.segye.com/newsView/20261109514586",
+     "source": "세계일보"
+    }
+   ]
+  },
+  {
    "kw": "이효정",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 11일 08:20",
    "news": [
     {
@@ -20,7 +139,7 @@
   },
   {
    "kw": "광주시",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 11일 08:10",
    "news": [
     {
@@ -29,8 +148,8 @@
      "source": "YTN"
     },
     {
-     "title": "\"경기도교육감 개표 상황표 위조\"‥압수수색",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6864763_37012.html",
+     "title": "선관위 특검, '개표상황표 은닉·위조' 경기 광주시 선관위 압수수색",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6864505_36918.html",
      "source": "MBC 뉴스"
     }
    ]
@@ -41,133 +160,14 @@
    "when": "11월 11일 08:00",
    "news": [
     {
-     "title": "'이제는 끈끈한 원팀!'…모레노호, 도하서 첫 완전체 훈련",
-     "url": "https://www.yna.co.kr/view/IPT20261111000001365?section=gallery/index",
+     "title": "훈련장에서 쓰러졌던 콩파니 뮌헨 감독, 3주 만에 팀 복귀",
+     "url": "https://www.yna.co.kr/view/AKR20261111012200007",
      "source": "연합뉴스"
     },
     {
-     "title": "긴 대화 나눈 손흥민·황희찬…‘92-96’ 갈등 해소될까?",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709473",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "불",
-   "traffic": "200+",
-   "when": "11월 11일 08:00",
-   "news": [
-    {
-     "title": "새벽 구룡마을 또 화재…소방 진화 작업 중",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611110707133b3",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "서울 강남 구룡마을서 또 화재…인명 피해는 없어",
-     "url": "https://www.donga.com/news/Society/article/all/20261111/135003375/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "노이 바이 국제 공항",
-   "traffic": "100+",
-   "when": "11월 11일 08:00",
-   "news": [
-    {
-     "title": "베트남, 하노이 노이바이공항 ‘국제선 전노선’ 자빈공항 이전 추진…2029~2030년",
-     "url": "https://www.insidevina.com/news/articleView.html?idxno=44466",
-     "source": "인사이드비나"
-    },
-    {
-     "title": "지아빈 공항과 하노이 중심부를 연결하는 도시철도 건설 자금 지원에 우선순위를 두어야 합니다.",
-     "url": "https://www.vietnam.vn/ko/uu-tien-von-xay-duong-sat-do-thi-noi-san-bay-gia-binh-voi-trung-tam-ha-noi",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "신안산선",
-   "traffic": "200+",
-   "when": "11월 11일 07:50",
-   "news": [
-    {
-     "title": "평택 안중~여의도 70분 시대 열리나…신안산선 연장 타당성 검증한다",
-     "url": "https://www.munhwa.com/article/11630300",
-     "source": "문화일보"
-    },
-    {
-     "title": "평택시 ‘신안산선 안중 연장사업’ 타당성 검증 용역 착수",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040515",
-     "source": "기호일보"
-    }
-   ]
-  },
-  {
-   "kw": "수능날",
-   "traffic": "100+",
-   "when": "11월 11일 07:50",
-   "news": [
-    {
-     "title": "코레일, 수능 앞두고 수도권 철도 전력설비 점검",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374609",
-     "source": "전기신문"
-    },
-    {
-     "title": "수능 날 KTX·전철 단전 없도록…코레일 사장, 구로변전소 직접 점검",
-     "url": "https://view.asiae.co.kr/article/2026111018231935878",
-     "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "k리그",
-   "traffic": "500+",
-   "when": "11월 11일 07:40",
-   "news": [
-    {
-     "title": "[영상] 이겨도 ‘버럭’ 선수단 마음가짐 바꾼 ‘효버지’ 이정효",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8708757",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "“너무 들뜨지 않았으면 좋겠다”…이정효 감독, 수원삼성 승격행사도 생략 요청 “팬들도 더 높은 곳 바라봤으면” - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/11/202611102046770295O",
+     "title": "[공식발표] '충격의 실신→긴급 병원 이송' 콤파니 감독, 뇌·척수 둘러싼 수막에 이상 발견...11일 만에 전해진 복귀 소식 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/11/202611110747778970O",
      "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "부동산",
-   "traffic": "500+",
-   "when": "11월 11일 07:30",
-   "news": [
-    {
-     "title": "종부세 완화 꺼냈다가‥이틀 만에 '역풍'",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6864724_37012.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "이재명 대통령, 오늘 김민석·한병도와 만찬…부동산 등 현안 논의",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8709534",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "수능",
-   "traffic": "1000+",
-   "when": "11월 11일 07:20",
-   "news": [
-    {
-     "title": "'강의 중단→예능 출연' 이도, 결국 손절 엔딩?…17개 강좌 통삭제 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/10/2026111013464561502",
-     "source": "머니투데이"
-    },
-    {
-     "title": "건강 이유로 강의 중단하더니 방송 활동?",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6864728_37012.html",
-     "source": "MBC 뉴스"
     }
    ]
   }
