@@ -1,26 +1,77 @@
 {
- "updated": "2026-11-12 04:23",
+ "updated": "2026-11-12 06:21",
  "items": [
   {
+   "kw": "메이저 리그 사커",
+   "traffic": "2000+",
+   "when": "11월 12일 05:10",
+   "news": [
+    {
+     "title": "‘축구의 신’ 메시, MLS 최초 2년 연속 득점왕 등극",
+     "url": "https://www.chosun.com/international/international_general/2026/11/08/57D7FQO3I5ALZJMQEZDACEIYJE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "`메시, MLS에서 역사 썼다`…리그 최초 2시즌 연속 득점왕, 31경기 26골 17AS 폭발",
+     "url": "https://mydaily.co.kr/page/view/2026110918472925665",
+     "source": "마이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "편의점",
+   "traffic": "100+",
+   "when": "11월 12일 04:50",
+   "news": [
+    {
+     "title": "신호 기다리다 음주 차량에 '쾅'...면허 취소 수치",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611120011001955",
+     "source": "YTN"
+    },
+    {
+     "title": "추돌사고 당한 승용차가 편의점 덮쳐…8명 부상",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111073932L6J",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "무인 항공기",
+   "traffic": "100+",
+   "when": "11월 12일 04:20",
+   "news": [
+    {
+     "title": "육군 “김포서 훈련 중 소형무인기 추락…북한 관련 없는 지역”",
+     "url": "https://www.khan.co.kr/article/202611101125001",
+     "source": "경향신문"
+    },
+    {
+     "title": "김포 주택가 공원에 무인기 추락…군 “교육훈련 중 추락”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8708502",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
    "kw": "수사",
-   "traffic": "5000+",
+   "traffic": "500+",
    "when": "11월 12일 03:20",
    "news": [
     {
-     "title": "10대 살해한 50대…'아들 성범죄'에 '조건만남 절도'까지 복잡(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261111146451004",
-     "source": "연합뉴스"
+     "title": "아들의 성폭행 피해자 여중생 살해한 부친",
+     "url": "https://www.donga.com/news/Society/article/all/20261111/135010430/2",
+     "source": "동아일보"
     },
     {
-     "title": "아들은 성폭력, 아버지는 살해‥50대 남성 체포, '보복살인'?",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864939_37004.html",
-     "source": "MBC 뉴스"
+     "title": "성폭력 피해 10대 여성 피살…성평등장관 “공적체계서 지키지 못해”",
+     "url": "https://www.hani.co.kr/arti/society/rights/1286901.html",
+     "source": "한겨레"
     }
    ]
   },
   {
    "kw": "양홍원",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 12일 03:00",
    "news": [
     {
@@ -29,9 +80,26 @@
      "source": "머니투데이"
     },
     {
-     "title": "양홍원 딸 육아돕던 PD도 팔로우 끊었다…아내만 남아",
-     "url": "https://www.newsis.com/view/NISX20261111_0003863771",
-     "source": "뉴시스"
+     "title": "양홍원, 불륜 의혹 속 신보 ‘오보’ 발표…의미심장 가사",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261111/135007845/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "테일러 프리츠",
+   "traffic": "200+",
+   "when": "11월 12일 02:20",
+   "news": [
+    {
+     "title": "Fritz saves 2 set points, downs Norrie to reach Stockholm QFs",
+     "url": "https://www.atptour.com/en/news/stockholm-2026-wednesday-report",
+     "source": "ATP Tour"
+    },
+    {
+     "title": "Sports News, Transfers, Scores | Watch Live Sport",
+     "url": "https://www.skysports.com/tennis/watch/5412594896626087112/bybit-stockholm-open-2026",
+     "source": "Sky Sports"
     }
    ]
   },
@@ -54,7 +122,7 @@
   },
   {
    "kw": "구자욱",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 12일 02:00",
    "news": [
     {
@@ -100,74 +168,6 @@
      "title": "[이번 주 뭐 볼까] ‘두뇌 서바이벌’ 최강자 중의 최강자를 가려라",
      "url": "https://www.chosun.com/culture-life/culture_general/2026/11/10/7PTW24N2JVH4DEX5VHNTF47MH4/",
      "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "크러쉬 조이",
-   "traffic": "500+",
-   "when": "11월 12일 00:00",
-   "news": [
-    {
-     "title": "아이유는 이용당했네..'6년 열애' 크러쉬♥조이, 보란듯이 '커플 듀엣' 라이브 공개[핫피플]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/12/MYYDMYTCGBTDCYRXMY2WIMTDGY/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "조이♥크러쉬, 늦은 밤 달달한 럽스타 투척…‘삐그덕’ 듀엣 깜짝 공개",
-     "url": "https://sports.khan.co.kr/article/202611112204003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "이수혁",
-   "traffic": "100+",
-   "when": "11월 11일 23:50",
-   "news": [
-    {
-     "title": "[포토] 100일의 김유정",
-     "url": "https://m.imbc.com/enews/view/524341",
-     "source": "MBC"
-    },
-    {
-     "title": "[ET포토] 배윤영, '시원하게 드러낸 어깨라인'",
-     "url": "https://www.etnews.com/20261111000247",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "restaurants near me",
-   "traffic": "2000+",
-   "when": "11월 11일 23:20",
-   "news": [
-    {
-     "title": "Applebee’s® Honors Veterans & Active Duty Military with Free Meals on Veterans Day",
-     "url": "https://www.applebees.com/en/news/2026/veterans-day",
-     "source": "Applebee's"
-    },
-    {
-     "title": "Here are the businesses offering free food and discounts for veterans",
-     "url": "https://www.eastidahonews.com/2026/11/here-are-the-businesses-offering-free-food-and-discounts-for-veterans/",
-     "source": "East Idaho News"
-    }
-   ]
-  },
-  {
-   "kw": "채령",
-   "traffic": "100+",
-   "when": "11월 11일 23:10",
-   "news": [
-    {
-     "title": "있지 채령, '여기가 내 무대'",
-     "url": "https://www.newspim.com/news/view/20261110000899",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "[사진]아워벌스데이 신혜원, 순백의 여신 느낌",
-     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/GBSDCZRRHFQTQMZXGVRDIZDCGE/",
-     "source": "Chosunbiz"
     }
    ]
   }
