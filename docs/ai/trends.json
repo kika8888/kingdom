@@ -1,61 +1,78 @@
 {
- "updated": "2026-11-12 06:21",
+ "updated": "2026-11-12 07:23",
  "items": [
   {
-   "kw": "메이저 리그 사커",
-   "traffic": "2000+",
-   "when": "11월 12일 05:10",
+   "kw": "พยากรณ์อากาศ",
+   "traffic": "100+",
+   "when": "11월 12일 06:20",
    "news": [
     {
-     "title": "‘축구의 신’ 메시, MLS 최초 2년 연속 득점왕 등극",
-     "url": "https://www.chosun.com/international/international_general/2026/11/08/57D7FQO3I5ALZJMQEZDACEIYJE/",
-     "source": "조선일보"
+     "title": "‘กรมธรณี’ แจ้ง 11 จังหวัดภาคใต้เฝ้าระวังดินถล่ม ระหว่างวันที่ 11-13 พ.ย.นี้",
+     "url": "https://www.dailynews.co.th/news/6352136/",
+     "source": "เดลินิวส์"
     },
     {
-     "title": "`메시, MLS에서 역사 썼다`…리그 최초 2시즌 연속 득점왕, 31경기 26골 17AS 폭발",
-     "url": "https://mydaily.co.kr/page/view/2026110918472925665",
-     "source": "마이데일리"
+     "title": "ประจำวันที่ 11 พฤศจิกายน 2569 17.00 น.",
+     "url": "https://www.tmd.go.th/forecast/daily/111120261800",
+     "source": "กรมอุตุนิยมวิทยา"
     }
    ]
   },
   {
-   "kw": "편의점",
-   "traffic": "100+",
-   "when": "11월 12일 04:50",
+   "kw": "3루수",
+   "traffic": "1000+",
+   "when": "11월 12일 06:10",
    "news": [
     {
-     "title": "신호 기다리다 음주 차량에 '쾅'...면허 취소 수치",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611120011001955",
+     "title": "노시환과 메츠 워싱턴 코치의 한화 시절 인연, 미국 현지서 화제",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8709600",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "‘MLB 도전’ 노시환, 뉴욕 메츠 새 타격코치와의 인연도 ‘눈길’",
+     "url": "https://www.donga.com/news/Sports/article/all/20261111/135005364/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "버스",
+   "traffic": "1000+",
+   "when": "11월 12일 06:10",
+   "news": [
+    {
+     "title": "경기 성남시 분당서 출근길 버스 등 32대 연쇄 추돌...\"중상자 9명\"",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611111028493144_005.html",
      "source": "YTN"
     },
     {
-     "title": "추돌사고 당한 승용차가 편의점 덮쳐…8명 부상",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111073932L6J",
-     "source": "연합뉴스TV"
+     "title": "버스기사 \"브레이크 고장\"‥\"점검, 이상없음\"",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6865010_37012.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
   {
-   "kw": "무인 항공기",
-   "traffic": "100+",
-   "when": "11월 12일 04:20",
+   "kw": "전고체 전지",
+   "traffic": "200+",
+   "when": "11월 12일 06:00",
    "news": [
     {
-     "title": "육군 “김포서 훈련 중 소형무인기 추락…북한 관련 없는 지역”",
-     "url": "https://www.khan.co.kr/article/202611101125001",
-     "source": "경향신문"
+     "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
+     "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-samsung-one-team-future-advanced-industry",
+     "source": "Hyundai Motor Group"
     },
     {
-     "title": "김포 주택가 공원에 무인기 추락…군 “교육훈련 중 추락”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8708502",
-     "source": "KBS 뉴스"
+     "title": "삼성·현대차, 배터리 공급 넘어 설계까지 맞손…전고체 개발도",
+     "url": "https://www.yna.co.kr/view/AKR20261110163700003",
+     "source": "연합뉴스"
     }
    ]
   },
   {
-   "kw": "수사",
-   "traffic": "500+",
-   "when": "11월 12일 03:20",
+   "kw": "아들",
+   "traffic": "2000+",
+   "when": "11월 12일 05:50",
    "news": [
     {
      "title": "아들의 성폭행 피해자 여중생 살해한 부친",
@@ -63,111 +80,83 @@
      "source": "동아일보"
     },
     {
-     "title": "성폭력 피해 10대 여성 피살…성평등장관 “공적체계서 지키지 못해”",
-     "url": "https://www.hani.co.kr/arti/society/rights/1286901.html",
-     "source": "한겨레"
+     "title": "[단독] '아들 성범죄' 피해자 살해…'보복 범죄' 수사",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841962",
+     "source": "SBS 뉴스"
     }
    ]
   },
   {
-   "kw": "양홍원",
-   "traffic": "200+",
-   "when": "11월 12일 03:00",
+   "kw": "이재아",
+   "traffic": "1000+",
+   "when": "11월 12일 05:50",
    "news": [
     {
-     "title": "\"너가 모르는 여자가 옆에\"…양홍원, 불륜설 속 신곡 제목은 '오보' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111110193659323",
+     "title": "'이동국 딸' 재아, '테니스 아시아 랭킹 1위'인데 은퇴→골프 전향... \"지속적인 부상·수술\"(내새연2)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GMYTSMZWMZQWCMRYGU2TMOJXGA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "이동국 딸 재아 \"테니스 선수에서 골프 선수로 전향\"",
+     "url": "https://www.newsis.com/view/NISX20261112_0003864608",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "이지현",
+   "traffic": "10000+",
+   "when": "11월 12일 05:50",
+   "news": [
+    {
+     "title": "'싱글맘' 이지현, 미용실 그만뒀다…\"딸이 혼자 병원가 4바늘 꿰매\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105064185632",
      "source": "머니투데이"
     },
     {
-     "title": "양홍원, 불륜 의혹 속 신보 ‘오보’ 발표…의미심장 가사",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261111/135007845/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "테일러 프리츠",
-   "traffic": "200+",
-   "when": "11월 12일 02:20",
-   "news": [
-    {
-     "title": "Fritz saves 2 set points, downs Norrie to reach Stockholm QFs",
-     "url": "https://www.atptour.com/en/news/stockholm-2026-wednesday-report",
-     "source": "ATP Tour"
-    },
-    {
-     "title": "Sports News, Transfers, Scores | Watch Live Sport",
-     "url": "https://www.skysports.com/tennis/watch/5412594896626087112/bybit-stockholm-open-2026",
-     "source": "Sky Sports"
-    }
-   ]
-  },
-  {
-   "kw": "수능날",
-   "traffic": "100+",
-   "when": "11월 12일 02:10",
-   "news": [
-    {
-     "title": "광주신세계 \"수험생 위한 보온도시락·텀블러·디저트 준비하세요\"",
-     "url": "https://www.news1.kr/local/gwangju-jeonnam/6350261",
-     "source": "뉴스1"
-    },
-    {
-     "title": "“수능날 ‘따뜻한 집밥’을 선물하세요”…써모스, 보온도시락 최대 52%",
-     "url": "https://www.mk.co.kr/news/pick/12205218",
+     "title": "쥬얼리 이지현, 미용실 원장직 내려놓는다…두 자녀 위해 이직",
+     "url": "https://www.mk.co.kr/news/hot-issues/12205041",
      "source": "매일경제"
     }
    ]
   },
   {
-   "kw": "구자욱",
-   "traffic": "2000+",
-   "when": "11월 12일 02:00",
+   "kw": "전병우",
+   "traffic": "500+",
+   "when": "11월 12일 05:50",
+   "news": []
+  },
+  {
+   "kw": "공무원",
+   "traffic": "5000+",
+   "when": "11월 12일 05:50",
    "news": [
     {
-     "title": "삼성 우승에 대구 상권 ‘들썩’… 소상공인 할인 잔치, 계열사는 언제?",
-     "url": "https://www.yeongnam.com/web/view.php?key=20261110021569973",
-     "source": "영남일보"
+     "title": "재정난에 멈춘 경기도, 내년 본예산안 사상 첫 지각",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336604",
+     "source": "인천일보"
     },
     {
-     "title": "“우승만 하면 된다면서요”…다년 계약 불발 구자욱·원태인, FA로 붙잡으려면 얼마?",
-     "url": "https://www.khan.co.kr/article/202611101656001",
-     "source": "경향신문"
+     "title": "[지지대] 경기도 예산, 이제는 추미애 지사 아닌 정부 몫",
+     "url": "https://www.kyeonggi.com/article/20261111580282",
+     "source": "경기일보"
     }
    ]
   },
   {
-   "kw": "노무현",
+   "kw": "디에이치 반포124",
    "traffic": "100+",
-   "when": "11월 12일 00:50",
+   "when": "11월 12일 05:40",
    "news": [
     {
-     "title": "“제대로 받쳐드려” 친명 방위대 결집…그 뒤 ‘노무현 데자뷔’",
-     "url": "https://www.joongang.co.kr/article/25477178",
-     "source": "중앙일보"
+     "title": "디에이치반포124 분양공고에 ‘통행권’ 명시…입주 후 생길 분쟁 소지 없앤다 [집슐랭]",
+     "url": "https://www.sedaily.com/article/20112591",
+     "source": "서울경제"
     },
     {
-     "title": "“조작기소 특검 힘 모아야”",
-     "url": "https://www.segye.com/newsView/20261108509347",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "오현민",
-   "traffic": "100+",
-   "when": "11월 12일 00:10",
-   "news": [
-    {
-     "title": "데블스플랜3 장동민 “33개월 아들, 서바이벌 준비”…오현민 “32년 된 아들도”",
-     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004024",
-     "source": "아시아투데이"
-    },
-    {
-     "title": "[이번 주 뭐 볼까] ‘두뇌 서바이벌’ 최강자 중의 최강자를 가려라",
-     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/10/7PTW24N2JVH4DEX5VHNTF47MH4/",
-     "source": "조선일보"
+     "title": "대통령 지시에도 '30억 로또 잔치' 방관하는 국토부",
+     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/10/2026111002466.html",
+     "source": "땅집고"
     }
    ]
   }
