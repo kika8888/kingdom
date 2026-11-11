@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-12 02:23",
+ "updated": "2026-11-12 03:23",
  "items": [
+  {
+   "kw": "수능날",
+   "traffic": "100+",
+   "when": "11월 12일 02:10",
+   "news": [
+    {
+     "title": "광주신세계 \"수험생 위한 보온도시락·텀블러·디저트 준비하세요\"",
+     "url": "https://www.news1.kr/local/gwangju-jeonnam/6350261",
+     "source": "뉴스1"
+    },
+    {
+     "title": "“수능날 ‘따뜻한 집밥’을 선물하세요”…써모스, 보온도시락 최대 52%",
+     "url": "https://www.mk.co.kr/news/pick/12205218",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "구자욱",
+   "traffic": "1000+",
+   "when": "11월 12일 02:00",
+   "news": [
+    {
+     "title": "삼성 우승에 대구 상권 ‘들썩’… 소상공인 할인 잔치, 계열사는 언제?",
+     "url": "https://www.yeongnam.com/web/view.php?key=20261110021569973",
+     "source": "영남일보"
+    },
+    {
+     "title": "“우승만 하면 된다면서요”…다년 계약 불발 구자욱·원태인, FA로 붙잡으려면 얼마?",
+     "url": "https://www.khan.co.kr/article/202611101656001",
+     "source": "경향신문"
+    }
+   ]
+  },
   {
    "kw": "노무현",
    "traffic": "100+",
@@ -24,9 +58,9 @@
    "when": "11월 12일 00:10",
    "news": [
     {
-     "title": "장동민, ‘데블스 플랜3’ 첫방 앞두고 각오..“서바이벌은 준비된 자와 자만한 자로 나뉘어”",
-     "url": "https://www.osen.co.kr/article/G1112907691",
-     "source": "OSEN"
+     "title": "데블스플랜3 장동민 “33개월 아들, 서바이벌 준비”…오현민 “32년 된 아들도”",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004024",
+     "source": "아시아투데이"
     },
     {
      "title": "[이번 주 뭐 볼까] ‘두뇌 서바이벌’ 최강자 중의 최강자를 가려라",
@@ -42,8 +76,8 @@
    "news": [
     {
      "title": "아이유는 이용당했네..'6년 열애' 크러쉬♥조이, 보란듯이 '커플 듀엣' 라이브 공개[핫피플]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/MU3DEOLGHE2DKMRVGY3WGY3GGY/",
-     "source": "조선일보"
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/12/MYYDMYTCGBTDCYRXMY2WIMTDGY/",
+     "source": "Chosunbiz"
     },
     {
      "title": "조이♥크러쉬, 늦은 밤 달달한 럽스타 투척…‘삐그덕’ 듀엣 깜짝 공개",
@@ -58,31 +92,14 @@
    "when": "11월 11일 23:50",
    "news": [
     {
+     "title": "[포토] 100일의 김유정",
+     "url": "https://m.imbc.com/enews/view/524341",
+     "source": "MBC"
+    },
+    {
      "title": "[ET포토] 배윤영, '시원하게 드러낸 어깨라인'",
      "url": "https://www.etnews.com/20261111000247",
      "source": "전자신문"
-    },
-    {
-     "title": "28살 김유정, 가슴라인 드러낸 반전매력…눈 둘 곳 없는 파격 노출[Oh!쎈 이슈]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MNSTAM3EMRSTINJXMM3DCMDBMI/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "restaurants near me",
-   "traffic": "2000+",
-   "when": "11월 11일 23:20",
-   "news": [
-    {
-     "title": "SE Wisconsin Veterans Day events: Free meals, deals and ceremonies",
-     "url": "https://www.fox6now.com/news/se-wisconsin-veterans-day-2026-memorial-unveiling-meals-deals",
-     "source": "FOX6 News Milwaukee"
-    },
-    {
-     "title": "Milwaukee Restaurants Salute Service With Veterans Day Discounts",
-     "url": "https://urbanmilwaukee.com/2026/11/10/milwaukee-restaurants-salute-service-with-veterans-day-discounts/",
-     "source": "Urban Milwaukee"
     }
    ]
   },
@@ -100,6 +117,23 @@
      "title": "[사진]아워벌스데이 신혜원, 순백의 여신 느낌",
      "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/GBSDCZRRHFQTQMZXGVRDIZDCGE/",
      "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "빵",
+   "traffic": "10000+",
+   "when": "11월 11일 23:00",
+   "news": [
+    {
+     "title": "“어차피 버릴 빵, 떨이로 좀 팔지”…사장님들 기를 쓰고 할인 안하는 이유는",
+     "url": "https://www.mk.co.kr/news/economy/12205568",
+     "source": "매일경제"
+    },
+    {
+     "title": "“어차피 안 팔린 빵, 왜 기를 쓰고 버려요?”…사장님들이 ‘떨이’ 안 하는 이유는",
+     "url": "https://www.mk.co.kr/news/economy/12205384",
+     "source": "매일경제"
     }
    ]
   },
@@ -134,40 +168,6 @@
      "title": "'카제나' 시즌5 두 번째 이야기, 블레이즈벨 구출전 열린다",
      "url": "https://www.thisisgame.com/articles/432553?newsId=225",
      "source": "디스이즈게임"
-    }
-   ]
-  },
-  {
-   "kw": "더 스카이 184",
-   "traffic": "200+",
-   "when": "11월 11일 20:50",
-   "news": [
-    {
-     "title": "볼거리 더한 청라하늘대교, 이용료 부담 덜고 손님맞이",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336467",
-     "source": "인천일보"
-    },
-    {
-     "title": "인천관광공사, THE SKY184 겨울맞이 공연·체험 프로그램 강화",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721367",
-     "source": "뉴스타운"
-    }
-   ]
-  },
-  {
-   "kw": "고잔동",
-   "traffic": "500+",
-   "when": "11월 11일 20:40",
-   "news": [
-    {
-     "title": "인천 남동공단 도금공장서 염소가스 누출…5명 호흡곤란(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261111178851065",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "인천 남동국가산단 도금공장 유독가스 신고…남동구 “유독가스 아닌 것으로 판별”",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620",
-     "source": "인천일보"
     }
    ]
   }
