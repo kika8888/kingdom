@@ -1,20 +1,105 @@
 {
- "updated": "2026-11-12 01:23",
+ "updated": "2026-11-12 02:23",
  "items": [
+  {
+   "kw": "노무현",
+   "traffic": "100+",
+   "when": "11월 12일 00:50",
+   "news": [
+    {
+     "title": "“제대로 받쳐드려” 친명 방위대 결집…그 뒤 ‘노무현 데자뷔’",
+     "url": "https://www.joongang.co.kr/article/25477178",
+     "source": "중앙일보"
+    },
+    {
+     "title": "“조작기소 특검 힘 모아야”",
+     "url": "https://www.segye.com/newsView/20261108509347",
+     "source": "세계일보"
+    }
+   ]
+  },
+  {
+   "kw": "오현민",
+   "traffic": "100+",
+   "when": "11월 12일 00:10",
+   "news": [
+    {
+     "title": "장동민, ‘데블스 플랜3’ 첫방 앞두고 각오..“서바이벌은 준비된 자와 자만한 자로 나뉘어”",
+     "url": "https://www.osen.co.kr/article/G1112907691",
+     "source": "OSEN"
+    },
+    {
+     "title": "[이번 주 뭐 볼까] ‘두뇌 서바이벌’ 최강자 중의 최강자를 가려라",
+     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/10/7PTW24N2JVH4DEX5VHNTF47MH4/",
+     "source": "조선일보"
+    }
+   ]
+  },
   {
    "kw": "크러쉬 조이",
    "traffic": "200+",
    "when": "11월 12일 00:00",
    "news": [
     {
+     "title": "아이유는 이용당했네..'6년 열애' 크러쉬♥조이, 보란듯이 '커플 듀엣' 라이브 공개[핫피플]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/MU3DEOLGHE2DKMRVGY3WGY3GGY/",
+     "source": "조선일보"
+    },
+    {
      "title": "조이♥크러쉬, 늦은 밤 달달한 럽스타 투척…‘삐그덕’ 듀엣 깜짝 공개",
      "url": "https://sports.khan.co.kr/article/202611112204003",
      "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "이수혁",
+   "traffic": "100+",
+   "when": "11월 11일 23:50",
+   "news": [
+    {
+     "title": "[ET포토] 배윤영, '시원하게 드러낸 어깨라인'",
+     "url": "https://www.etnews.com/20261111000247",
+     "source": "전자신문"
     },
     {
-     "title": "크러쉬, ♥조이에 허락받았나.. \"사랑노래, 아이유에 직접 듀엣 제안\"",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/10/GY4DMNLGGY4TAYZXGRTDQNZQGU/",
-     "source": "조선일보"
+     "title": "28살 김유정, 가슴라인 드러낸 반전매력…눈 둘 곳 없는 파격 노출[Oh!쎈 이슈]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/MNSTAM3EMRSTINJXMM3DCMDBMI/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "restaurants near me",
+   "traffic": "2000+",
+   "when": "11월 11일 23:20",
+   "news": [
+    {
+     "title": "SE Wisconsin Veterans Day events: Free meals, deals and ceremonies",
+     "url": "https://www.fox6now.com/news/se-wisconsin-veterans-day-2026-memorial-unveiling-meals-deals",
+     "source": "FOX6 News Milwaukee"
+    },
+    {
+     "title": "Milwaukee Restaurants Salute Service With Veterans Day Discounts",
+     "url": "https://urbanmilwaukee.com/2026/11/10/milwaukee-restaurants-salute-service-with-veterans-day-discounts/",
+     "source": "Urban Milwaukee"
+    }
+   ]
+  },
+  {
+   "kw": "채령",
+   "traffic": "100+",
+   "when": "11월 11일 23:10",
+   "news": [
+    {
+     "title": "있지 채령, '여기가 내 무대'",
+     "url": "https://www.newspim.com/news/view/20261110000899",
+     "source": "뉴스핌"
+    },
+    {
+     "title": "[사진]아워벌스데이 신혜원, 순백의 여신 느낌",
+     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/GBSDCZRRHFQTQMZXGVRDIZDCGE/",
+     "source": "Chosunbiz"
     }
    ]
   },
@@ -24,14 +109,31 @@
    "when": "11월 11일 23:00",
    "news": [
     {
+     "title": "스크린으로 다시 만나는 ‘라라랜드’ ‘더 랍스터’ ‘원스’",
+     "url": "https://www.kmib.co.kr/article/20261111501973",
+     "source": "국민일보"
+    },
+    {
      "title": "‘재개봉·공연실황·실험작’… 극장가, 비수기를 飛수기로!",
      "url": "https://www.munhwa.com/article/11630108",
      "source": "문화일보"
+    }
+   ]
+  },
+  {
+   "kw": "블레이즈벨",
+   "traffic": "100+",
+   "when": "11월 11일 21:00",
+   "news": [
+    {
+     "title": "스마일게이트, '카오스 제로 나이트메어' 시즌5 2차 업데이트",
+     "url": "https://www.newspim.com/news/view/20261111001228",
+     "source": "뉴스핌"
     },
     {
-     "title": "빼빼로데이, 어떤 영화 볼까? ‘듄’·‘라라랜드’ 재개봉작 예매 강세",
-     "url": "https://www.econovill.com/news/articleView.html?idxno=756741",
-     "source": "ER 이코노믹리뷰"
+     "title": "'카제나' 시즌5 두 번째 이야기, 블레이즈벨 구출전 열린다",
+     "url": "https://www.thisisgame.com/articles/432553?newsId=225",
+     "source": "디스이즈게임"
     }
    ]
   },
@@ -58,116 +160,14 @@
    "when": "11월 11일 20:40",
    "news": [
     {
-     "title": "인천 고잔동 도금 공장서 가스 누출 신고…5명 연기 흡입",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
-     "source": "KBS 뉴스"
+     "title": "인천 남동공단 도금공장서 염소가스 누출…5명 호흡곤란(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261111178851065",
+     "source": "연합뉴스"
     },
     {
      "title": "인천 남동국가산단 도금공장 유독가스 신고…남동구 “유독가스 아닌 것으로 판별”",
      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620",
      "source": "인천일보"
-    }
-   ]
-  },
-  {
-   "kw": "이종석",
-   "traffic": "10000+",
-   "when": "11월 11일 20:30",
-   "news": [
-    {
-     "title": "‘황후’ 신민아·새로 변신하는 이종석이 낯설다고요? 세계 여성들은 왜 이 장르에 푹 빠졌을까 [이윤정 기자의 소소월드]",
-     "url": "https://www.khan.co.kr/article/202611111049001",
-     "source": "경향신문"
-    },
-    {
-     "title": "이세영 목걸이, 2000원짜리 테무템?…'재혼 황후' 의상 논란 해명 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111015592940705",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "외교관",
-   "traffic": "1000+",
-   "when": "11월 11일 20:30",
-   "news": [
-    {
-     "title": "탈북 외교관 \"김여정 스스로 공주라 생각…말도 안 섞어\"",
-     "url": "http://weekly.chosun.com/news/articleView.html?idxno=56986",
-     "source": "주간조선"
-    },
-    {
-     "title": "\"스스로 공주라 여긴 김여정, 말도 안 섞더라\"…탈북 외교관의 폭로",
-     "url": "https://www.fnnews.com/news/202611100000461558",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "xsmb",
-   "traffic": "500+",
-   "when": "11월 11일 20:20",
-   "news": [
-    {
-     "title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
-     "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1111-khanh-hoa-da-nang-1798739.ldo",
-     "source": "Laodong.vn"
-    },
-    {
-     "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
-     "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
-     "source": "homeup.vn"
-    }
-   ]
-  },
-  {
-   "kw": "멜론티켓",
-   "traffic": "2000+",
-   "when": "11월 11일 19:40",
-   "news": [
-    {
-     "title": "AGF 2026, 12일부터 일반 티켓 판매…역대 최대 106개사 참가",
-     "url": "https://biz.chosun.com/it-science/ict/2026/11/11/UUGAXIKN65ANNLON5NA7PT2NCE/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "이세돌·이브닛 총출동…SOOP, AGF에 버추얼 28명 띄운다",
-     "url": "https://www.etnews.com/20261110000265",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "일진전기",
-   "traffic": "5000+",
-   "when": "11월 11일 19:30",
-   "news": [
-    {
-     "title": "어제는 9% 오늘은 14% 급등…그래도 \"가장 저평가\"",
-     "url": "https://www.hankyung.com/article/202611110559i",
-     "source": "한국경제"
-    },
-    {
-     "title": "일진전기, 올 3Q 서프라이즈급 실적 달성...글로벌 호황에 수주고도 ‘탄탄’",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374644",
-     "source": "전기신문"
-    }
-   ]
-  },
-  {
-   "kw": "주차장",
-   "traffic": "500+",
-   "when": "11월 11일 19:30",
-   "news": [
-    {
-     "title": "서부발전, 대전산단 에너지 자립사업 참여…320억 규모",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374592",
-     "source": "전기신문"
-    },
-    {
-     "title": "한전KDN, 전력 정보통신 넘어 태양광 발전사업으로 영역 확대",
-     "url": "https://edata.ekn.kr/article/view/ekn202611110007",
-     "source": "기후에너지데이터뱅크"
     }
    ]
   }
