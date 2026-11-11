@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-12 03:23",
+ "updated": "2026-11-12 04:23",
  "items": [
+  {
+   "kw": "수사",
+   "traffic": "5000+",
+   "when": "11월 12일 03:20",
+   "news": [
+    {
+     "title": "10대 살해한 50대…'아들 성범죄'에 '조건만남 절도'까지 복잡(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261111146451004",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "아들은 성폭력, 아버지는 살해‥50대 남성 체포, '보복살인'?",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864939_37004.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "양홍원",
+   "traffic": "100+",
+   "when": "11월 12일 03:00",
+   "news": [
+    {
+     "title": "\"너가 모르는 여자가 옆에\"…양홍원, 불륜설 속 신곡 제목은 '오보' - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111110193659323",
+     "source": "머니투데이"
+    },
+    {
+     "title": "양홍원 딸 육아돕던 PD도 팔로우 끊었다…아내만 남아",
+     "url": "https://www.newsis.com/view/NISX20261111_0003863771",
+     "source": "뉴시스"
+    }
+   ]
+  },
   {
    "kw": "수능날",
    "traffic": "100+",
@@ -71,7 +105,7 @@
   },
   {
    "kw": "크러쉬 조이",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 12일 00:00",
    "news": [
     {
@@ -104,6 +138,23 @@
    ]
   },
   {
+   "kw": "restaurants near me",
+   "traffic": "2000+",
+   "when": "11월 11일 23:20",
+   "news": [
+    {
+     "title": "Applebee’s® Honors Veterans & Active Duty Military with Free Meals on Veterans Day",
+     "url": "https://www.applebees.com/en/news/2026/veterans-day",
+     "source": "Applebee's"
+    },
+    {
+     "title": "Here are the businesses offering free food and discounts for veterans",
+     "url": "https://www.eastidahonews.com/2026/11/here-are-the-businesses-offering-free-food-and-discounts-for-veterans/",
+     "source": "East Idaho News"
+    }
+   ]
+  },
+  {
    "kw": "채령",
    "traffic": "100+",
    "when": "11월 11일 23:10",
@@ -117,57 +168,6 @@
      "title": "[사진]아워벌스데이 신혜원, 순백의 여신 느낌",
      "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/10/GBSDCZRRHFQTQMZXGVRDIZDCGE/",
      "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "빵",
-   "traffic": "10000+",
-   "when": "11월 11일 23:00",
-   "news": [
-    {
-     "title": "“어차피 버릴 빵, 떨이로 좀 팔지”…사장님들 기를 쓰고 할인 안하는 이유는",
-     "url": "https://www.mk.co.kr/news/economy/12205568",
-     "source": "매일경제"
-    },
-    {
-     "title": "“어차피 안 팔린 빵, 왜 기를 쓰고 버려요?”…사장님들이 ‘떨이’ 안 하는 이유는",
-     "url": "https://www.mk.co.kr/news/economy/12205384",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "라라랜드",
-   "traffic": "100+",
-   "when": "11월 11일 23:00",
-   "news": [
-    {
-     "title": "스크린으로 다시 만나는 ‘라라랜드’ ‘더 랍스터’ ‘원스’",
-     "url": "https://www.kmib.co.kr/article/20261111501973",
-     "source": "국민일보"
-    },
-    {
-     "title": "‘재개봉·공연실황·실험작’… 극장가, 비수기를 飛수기로!",
-     "url": "https://www.munhwa.com/article/11630108",
-     "source": "문화일보"
-    }
-   ]
-  },
-  {
-   "kw": "블레이즈벨",
-   "traffic": "100+",
-   "when": "11월 11일 21:00",
-   "news": [
-    {
-     "title": "스마일게이트, '카오스 제로 나이트메어' 시즌5 2차 업데이트",
-     "url": "https://www.newspim.com/news/view/20261111001228",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "'카제나' 시즌5 두 번째 이야기, 블레이즈벨 구출전 열린다",
-     "url": "https://www.thisisgame.com/articles/432553?newsId=225",
-     "source": "디스이즈게임"
     }
    ]
   }
