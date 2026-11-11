@@ -1,26 +1,145 @@
 {
- "updated": "2026-11-11 17:23",
+ "updated": "2026-11-11 18:23",
  "items": [
   {
-   "kw": "김종국",
+   "kw": "남지현",
    "traffic": "200+",
-   "when": "11월 11일 16:10",
+   "when": "11월 11일 17:20",
    "news": [
     {
-     "title": "\"물도 못 마시고 이틀간 고통\"…김종국 투병 '전정신경염' 뭐길래 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111111204119040",
-     "source": "머니투데이"
+     "title": "아이브 리즈, 동화 속 공주 비주얼… 눈부신 미모 [N샷]",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6349463",
+     "source": "뉴스1"
     },
     {
-     "title": "김종국, 극비리 결혼 1년 막 지났는데..건강이상설 \"심한 어지럼증\" [핫피플]",
-     "url": "https://www.koreadaily.com/article/20261110161829887",
-     "source": "미주중앙일보"
+     "title": "김재원, '2026 KGMA' MC 활약…리즈와 호흡 맞추며 안정적 진행",
+     "url": "https://www.newspim.com/news/view/20261109000354",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "마운자로",
+   "traffic": "200+",
+   "when": "11월 11일 17:20",
+   "news": [
+    {
+     "title": "살 빼려다 시력 잃을 수도 있다···‘비만 치료제’ 위고비·마운자로, 시신경 손상 위험 ‘비상’",
+     "url": "https://www.khan.co.kr/article/202611111354001",
+     "source": "경향신문"
+    },
+    {
+     "title": "\"GLP-1 의약품, 시력 질환 가능성\"...식약처 서한 배포",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611111104057382",
+     "source": "YTN 사이언스"
+    }
+   ]
+  },
+  {
+   "kw": "세무사 수석",
+   "traffic": "100+",
+   "when": "11월 11일 17:20",
+   "news": [
+    {
+     "title": "대기업 10년차·벼랑끝 자영업 거쳐 세무사시험 수석 합격한 한원석씨",
+     "url": "https://www.taxtimes.co.kr/news/article.html?no=277678",
+     "source": "한국세정신문"
+    },
+    {
+     "title": "\"전 범위 공부.. 매일 새벽 4시 기상, 백지 복습\" [제63회 세무사시험-수석]",
+     "url": "https://m.joseilbo.com/news/view.htm?newsid=579361",
+     "source": "조세일보"
+    }
+   ]
+  },
+  {
+   "kw": "pakistan vs sri lanka",
+   "traffic": "100+",
+   "when": "11월 11일 17:20",
+   "news": [
+    {
+     "title": "De Silva, Kamindu fifties guide Sri Lanka to 221-4 in first Test",
+     "url": "https://www.afp.com/en/de-silva-kamindu-fifties-guide-sri-lanka-221-4-first-test",
+     "source": "AFP.com"
+    },
+    {
+     "title": "Shakeel nears century as Pakistan score 390-6 in first Test",
+     "url": "http://www.daily-sun.com/sports/908343/shakeel-nears-century-as-pakistan-score-390-6-in-first-test",
+     "source": "Daily Sun"
+    }
+   ]
+  },
+  {
+   "kw": "임영웅",
+   "traffic": "2000+",
+   "when": "11월 11일 17:10",
+   "news": [
+    {
+     "title": "임영웅 10주년 콘서트 실황 영화, IMAX로 본다…포스터 공개",
+     "url": "https://www.sedaily.com/article/20112528",
+     "source": "서울경제"
+    },
+    {
+     "title": "임영웅, 또 역대급 스케일…10주년 공연실황 '아임 히어로 2' IMAX 개봉 확정",
+     "url": "https://www.chosun.com/entertainments/music/2026/11/10/GMYDEOBUGU3GKM3EG4YDQYZXMM/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "쇠족제비",
+   "traffic": "200+",
+   "when": "11월 11일 16:30",
+   "news": [
+    {
+     "title": "충주시, 멸종위기 야생생물 Ⅰ급 무산쇠족제비 서식 확인",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721517",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "충주서 멸종위기 1급 '무산쇠족제비' 첫 발견",
+     "url": "https://www.yna.co.kr/view/AKR20261111032900064",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "ai안경",
+   "traffic": "2000+",
+   "when": "11월 11일 16:30",
+   "news": [
+    {
+     "title": "스마트안경 식별 연수",
+     "url": "https://mobile.newsis.com/photo/NISI20261111_0021529469",
+     "source": "뉴시스"
+    },
+    {
+     "title": "내신에서 ‘AI 안경’ 추가 적발…수능 D-10 ‘비상’",
+     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8708148",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "최민희",
+   "traffic": "200+",
+   "when": "11월 11일 16:30",
+   "news": [
+    {
+     "title": "사진기자들 겨냥해 \"하이에나 떼들\"‥최민희, 논란 커지자 사과",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6864817_36911.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "최민희, 기자들에 “하이에나 떼” 논란일자 “부적절, 사과” …사진기자협회 “법적대응 검토”",
+     "url": "https://news.jtbc.co.kr/article/NB12327556",
+     "source": "JTBC"
     }
    ]
   },
   {
    "kw": "조원태",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 11일 16:10",
    "news": [
     {
@@ -36,127 +155,19 @@
    ]
   },
   {
-   "kw": "ai 안경",
-   "traffic": "1000+",
-   "when": "11월 11일 16:00",
-   "news": [
-    {
-     "title": "\"AI 안경 쓰고 '신개념 컨닝'\"…수능 앞두고 '비상' 걸렸다 [정지은의 테크킥]",
-     "url": "https://www.hankyung.com/article/202611118708i",
-     "source": "한국경제"
-    },
-    {
-     "title": "’안경테·렌즈 꼼꼼히 확인’…’스마트안경 식별’ 특별 연수",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261111170232uqK",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "로제",
-   "traffic": "200+",
-   "when": "11월 11일 15:50",
-   "news": [
-    {
-     "title": "로제 ‘아파트’ 라이브에 “중학교 장기자랑” 혹평···해외반응 ‘시끌’",
-     "url": "https://sports.khan.co.kr/article/202611111009003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "로제 'APT.' 무대 어땠길래…해외선 혹평, 국내선 옹호",
-     "url": "https://www.newsis.com/view/NISX20261111_0003863734",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "지진",
-   "traffic": "1000+",
-   "when": "11월 11일 15:30",
-   "news": [
-    {
-     "title": "지진 발생 10분 만에 출근...일본 아나운서 '민낯 속보' 화제 [앵커리포트]",
-     "url": "https://www.ytn.co.kr/_ln/0104_202611101829186378",
-     "source": "YTN"
-    },
-    {
-     "title": "지진 10분 만에 맨얼굴에 안경 쓰고 속보…日 아나운서 화제",
-     "url": "https://www.koreadaily.com/article/20261108190038698",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "석유",
-   "traffic": "100+",
-   "when": "11월 11일 15:30",
-   "news": [
-    {
-     "title": "석유관리원, 제19회 한·중·일 석유기술회 개최",
-     "url": "https://www.dailian.co.kr/news/view/1713806/%EC%84%9D%EC%9C%A0%EA%B4%80%EB%A6%AC%EC%9B%90-%EC%A0%9C19%ED%9A%8C-%ED%95%9C%EC%A4%91%EC%9D%BC-%EC%84%9D%EC%9C%A0%EA%B8%B0%EC%88%A0%ED%9A%8C-2026",
-     "source": "데일리안"
-    },
-    {
-     "title": "석유관리원, 한중일 석유기술회 개최…친환경 연료 협력 논의",
-     "url": "https://www.fnnews.com/news/202611111556094195",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "흡연",
-   "traffic": "1000+",
-   "when": "11월 11일 15:10",
-   "news": [
-    {
-     "title": "[한 컷으로 보는 AI만평] 흡연은 부스에서, 연기는 시민에게",
-     "url": "https://m.joongdo.co.kr/view.php?key=20261111010003768",
-     "source": "중도일보"
-    },
-    {
-     "title": "[르포] 육교 아래 흡연부스…담배 연기 퍼지는 신탄진역 광장",
-     "url": "https://m.joongdo.co.kr/view.php?key=20261109010002971",
-     "source": "중도일보"
-    }
-   ]
-  },
-  {
-   "kw": "오유진",
+   "kw": "김종국",
    "traffic": "500+",
-   "when": "11월 11일 15:00",
-   "news": []
-  },
-  {
-   "kw": "남편",
-   "traffic": "5000+",
-   "when": "11월 11일 14:30",
+   "when": "11월 11일 16:10",
    "news": [
     {
-     "title": "“밑져야 본전”..장나라, ♥6살 연하 남편에 대시 후 결혼 직감 “나 시집 가겠는데” (‘살롱드립’)",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/HFQTINJSGAZWCMTFGFQWGMZXGM/",
-     "source": "Chosunbiz"
+     "title": "\"물도 못 마시고 이틀간 고통\"…김종국 투병 '전정신경염' 뭐길래 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111111204119040",
+     "source": "머니투데이"
     },
     {
-     "title": "김혜윤, ‘스캐’ 예서가 로스쿨 갔다는 댓글에 “어떤 직업이든 잘됐네요” (‘살롱드립’)",
-     "url": "https://www.osen.co.kr/article/G1112908065",
-     "source": "OSEN"
-    }
-   ]
-  },
-  {
-   "kw": "담배",
-   "traffic": "5000+",
-   "when": "11월 11일 14:20",
-   "news": [
-    {
-     "title": "\"담뱃값 4500원→8500원으로\"…2015년 이후 11년 만에 인상 주장, 이유는?",
-     "url": "https://view.asiae.co.kr/article/2026111109323627428",
-     "source": "아시아경제"
-    },
-    {
-     "title": "담배 속 유해성분 검사 대상 확대",
-     "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12503000000&section_id=NCCD_POLICY&news_id=0f33944c-a1a4-4d51-a935-9af421afb8ae",
-     "source": "K-공감"
+     "title": "김종국, 극비리 결혼 1년 막 지났는데..건강이상설 \"심한 어지럼증\" [핫피플]",
+     "url": "https://www.koreadaily.com/article/20261110161829887",
+     "source": "미주중앙일보"
     }
    ]
   }
