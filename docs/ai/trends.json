@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-12 17:23",
+ "updated": "2026-11-12 18:23",
  "items": [
   {
+   "kw": "035420",
+   "traffic": "100+",
+   "when": "11월 12일 17:20",
+   "news": [
+    {
+     "title": "Naver's Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
+     "url": "https://www.mt.co.kr/en/tech/2026/11/12/2026111215474393674",
+     "source": "머니투데이"
+    },
+    {
+     "title": "Naver Invests 1 Trillion Won in Logistics Subsidiary to Rival Coupang",
+     "url": "https://www.chosun.com/english/industry-en/2026/11/12/WOYGY5QMONELFDD6RVYNLIY34Y/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "pakistan vs sri lanka",
+   "traffic": "100+",
+   "when": "11월 12일 17:20",
+   "news": [
+    {
+     "title": "Saqib's 7-wicket total on debut holds Sri Lanka to a slender 1st-innings lead vs Pakistan",
+     "url": "https://www.foxsports.com/articles/soccer/saqibs-7wicket-total-on-debut-holds-sri-lanka-to-a-slender-1stinnings-lead-vs-pakistan",
+     "source": "FOX Sports"
+    },
+    {
+     "title": "De Silva, Kamindu fifties guide Sri Lanka to 221-4 in first Test",
+     "url": "https://www.afp.com/en/de-silva-kamindu-fifties-guide-sri-lanka-221-4-first-test",
+     "source": "AFP.com"
+    }
+   ]
+  },
+  {
+   "kw": "이부진",
+   "traffic": "200+",
+   "when": "11월 12일 16:40",
+   "news": [
+    {
+     "title": "이부진은 ‘3년 전 그 재킷’, 지수는 ‘레이디 디올’… 디올 패션도 화제",
+     "url": "https://biz.chosun.com/distribution/fashion-beauty/2026/11/12/JIUSC4EBL5CRHDZDBBHLYNCH7Y/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "이부진, 3년 전과 같은 ‘디올’ 재킷 입고…손하트 날렸다",
+     "url": "https://www.donga.com/news/Economy/article/all/20261112/135016357/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
    "kw": "남대문 스카프 아저씨!",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 12일 16:20",
    "news": [
     {
@@ -24,20 +75,20 @@
    "when": "11월 12일 16:20",
    "news": [
     {
+     "title": "배우 김승우 2200만원 절도 혐의로 고소당해...경찰 수사 중",
+     "url": "https://www.chosun.com/national/national_general/2026/11/12/J4R4ZLVOVFGRLLGUVLXBLJIHFA/",
+     "source": "조선일보"
+    },
+    {
      "title": "[단독] 술자리 중 지갑에서 쓱? 배우 김승우 ‘절도 혐의’ 피소",
      "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513574",
      "source": "일요신문"
-    },
-    {
-     "title": "'170억 삼성동 주택' 김승우, 절도 혐의 피소..\"장난, 다 변제했다\" [Oh!쎈 이슈]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/HA2TQOJTGJSTGMJTMRRGGMZYHA/",
-     "source": "조선일보"
     }
    ]
   },
   {
    "kw": "아르헨티나",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 12일 16:20",
    "news": [
     {
@@ -54,7 +105,7 @@
   },
   {
    "kw": "방화",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 12일 16:00",
    "news": [
     {
@@ -70,9 +121,9 @@
    ]
   },
   {
-   "kw": "근로장려금 신청",
-   "traffic": "500+",
-   "when": "11월 12일 15:50",
+   "kw": "근로장려금",
+   "traffic": "1000+",
+   "when": "11월 12일 15:30",
    "news": [
     {
      "title": "자녀장려금 놓쳤다면 12월 1일까지 기한 후 신청, 산정액 95% 지급",
@@ -104,70 +155,19 @@
    ]
   },
   {
-   "kw": "스마트글래스",
-   "traffic": "1000+",
-   "when": "11월 12일 14:50",
-   "news": [
-    {
-     "title": "야외서도 잘 보이는 AR 스마트글래스 나온다…렌즈는 얇게, 화면은 선명하게",
-     "url": "https://www.chosun.com/economy/science/2026/11/12/BPIOUGQSFFELRAKPYYKR2V74XM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "‘두께 1.5mm 렌즈’ AR안경 개발… 밝은 야외서 글자 선명",
-     "url": "https://www.donga.com/news/Economy/article/all/20261111/135009412/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "투자신탁",
-   "traffic": "100+",
-   "when": "11월 12일 14:50",
-   "news": [
-    {
-     "title": "토스뱅크, 펀드 서비스 출시…국내외 주식·채권 등 17종 구성",
-     "url": "https://stock.mk.co.kr/news/view/1196934",
-     "source": "매일경제 마켓"
-    },
-    {
-     "title": "토스뱅크, 통장 이자로 투자 가능한 ‘펀드 서비스’ 출시",
-     "url": "https://www.khan.co.kr/article/202611121657041",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "김현석",
+   "kw": "에버랜드",
    "traffic": "200+",
-   "when": "11월 12일 14:30",
+   "when": "11월 12일 15:30",
    "news": [
     {
-     "title": "K리그1 울산, 김현석 감독과 계약 연장 안 해‥시즌 끝으로 결별",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6865085_36946.html",
-     "source": "MBC 뉴스"
+     "title": "[속보] \"이재명 아들 군 면제\" 허위글 이수정, 2심도 피선거권 박탈형",
+     "url": "https://news.jtbc.co.kr/article/NB12327771",
+     "source": "JTBC"
     },
     {
-     "title": "K리그1 울산, 김현석 감독과 올 시즌 끝으로 결별",
-     "url": "https://www.yna.co.kr/view/AKR20261112040600007",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "혜리",
-   "traffic": "200+",
-   "when": "11월 12일 14:30",
-   "news": [
-    {
-     "title": "[주간! 대중문화] 혜리 첫 MC 도전…베스티 ‘역주행’",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709483",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "혜리 맞아? 하루 만에 딴 사람..아방가르드 패션→고혹적 시스루 '패알못' 불명예 탈출 [핫피플]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/GI2TAYZYG5SGCYZQGBRDONLDMU/",
-     "source": "Chosunbiz"
+     "title": "[단독]\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
+     "url": "https://www.news1.kr/industry/general-industry/6352149",
+     "source": "뉴스1"
     }
    ]
   }
