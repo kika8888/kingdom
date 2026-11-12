@@ -1,78 +1,129 @@
 {
- "updated": "2026-11-12 09:23",
+ "updated": "2026-11-12 10:23",
  "items": [
   {
-   "kw": "파운드리",
-   "traffic": "100+",
-   "when": "11월 12일 08:20",
+   "kw": "엔화",
+   "traffic": "200+",
+   "when": "11월 12일 09:20",
    "news": [
     {
-     "title": "TSMC, 오픈AI·앤트로픽에 10억달러 투자…AI 생태계 확대",
-     "url": "https://www.hankyung.com/article/202611110093i",
-     "source": "한국경제"
+     "title": "예금보다 낫네…日개인 투자자, 2% 금리에 국채 매수 열풍",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05438246645644736",
+     "source": "마켓인"
     },
     {
-     "title": "반도체 장기호황 확신?… TSMC 55조 베팅, 삼전닉스 미소 - 머니투데이",
-     "url": "https://www.mt.co.kr/industry/2026/11/12/2026111119515668397",
+     "title": "엔화, 미일 금리차 확대 전망에 1달러=159엔대 후반 하락 출발",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865073",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "장도연",
+   "traffic": "200+",
+   "when": "11월 12일 09:00",
+   "news": [
+    {
+     "title": "장도연, 허경환에 20년만에 고백 \"설렌 적 있다..내년 결혼 할 듯\" ('유행쇼')",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/GJRGIY3EMFQWCNTGHE3GENBYHE/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "장도연, 허경환에 심쿵한 적 있다? “20년 전 허경환, 얼마나 잘생겼었겠나”",
+     "url": "https://sports.khan.co.kr/article/202611120004003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "폭발",
+   "traffic": "500+",
+   "when": "11월 12일 08:50",
+   "news": [
+    {
+     "title": "대구 아파트 보일러실 추정 폭발… 놀란 80대 여성 병원 이송",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865042",
+     "source": "뉴시스"
+    },
+    {
+     "title": "대구 아파트서 보일러실 폭발⋯깨진 유리창에 차량 10여대 파손",
+     "url": "https://www.kmib.co.kr/article/20261112500142",
+     "source": "국민일보"
+    }
+   ]
+  },
+  {
+   "kw": "이재 아",
+   "traffic": "5000+",
+   "when": "11월 12일 08:30",
+   "news": [
+    {
+     "title": "'전희철 딸' 전지우, 연예인급 미모 \"이대 무용과 수석\"",
+     "url": "https://www.newsis.com/view/NISX20261111_0003864567",
+     "source": "뉴시스"
+    },
+    {
+     "title": "이동국 딸 재아, '아시아 1위' 테니스 관뒀다…\"골프 선수 전향\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111208245934442",
      "source": "머니투데이"
     }
    ]
   },
   {
-   "kw": "kimberly powell",
-   "traffic": "1000+",
-   "when": "11월 12일 07:50",
+   "kw": "서울지하철",
+   "traffic": "500+",
+   "when": "11월 12일 08:30",
    "news": [
     {
-     "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-     "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang",
-     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-     "source": "WSJ"
-    }
-   ]
-  },
-  {
-   "kw": "미세먼지",
-   "traffic": "100+",
-   "when": "11월 12일 07:50",
-   "news": [
-    {
-     "title": "[포토] 아침은 겨울 낮은 봄…널뛰는 기온",
-     "url": "https://www.incheonilbo.com/news/galleryView.html?idxno=1336619",
-     "source": "인천일보"
-    },
-    {
-     "title": "[날씨] 전국 흐리고 일교차 커...출근길 '짙은 안개' 주의",
-     "url": "https://www.ytn.co.kr/_ln/0108_202611120729441118",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "메르세데스-벤츠 v 클래스",
-   "traffic": "200+",
-   "when": "11월 12일 07:50",
-   "news": [
-    {
-     "title": "[포토뉴스]“골프도 편안하게” 벤츠, 새 V-클래스 출시",
-     "url": "https://www.khan.co.kr/article/20261111203100A/?cp",
+     "title": "철도·지하철·학교 비정규직 등 공공부문 잇단 파업 예고",
+     "url": "https://www.khan.co.kr/article/202611111548001",
      "source": "경향신문"
     },
     {
-     "title": "[B포토]박현경·김민별 프로, V-클래스로 완성한 감성 골프여행",
-     "url": "https://www.viva100.com/article/20261111500513",
-     "source": "브릿지경제"
+     "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+     "url": "https://www.yna.co.kr/view/AKR20261111111400011",
+     "source": "연합뉴스"
     }
    ]
   },
   {
-   "kw": "압구정 현대아파트",
+   "kw": "메랍",
    "traffic": "500+",
-   "when": "11월 12일 07:40",
+   "when": "11월 12일 08:30",
+   "news": [
+    {
+     "title": "UFC 전 챔프 메랍, ‘앙숙’ 우마르 형제에 폭행 당해",
+     "url": "https://www.heraldk.com/article/2026111116294419748",
+     "source": "헤럴드경제 미주판"
+    },
+    {
+     "title": "“UFC 전 챔프가 ‘집단 린치’ 당했다”...메랍, 호텔서 피투성이",
+     "url": "https://www.insight.co.kr/news/581701",
+     "source": "인사이트"
+    }
+   ]
+  },
+  {
+   "kw": "전현무계획",
+   "traffic": "200+",
+   "when": "11월 12일 08:30",
+   "news": [
+    {
+     "title": "조작 방송 전현무, 대국민 사과 “당분간 DM 안 보겠다”",
+     "url": "https://www.donga.com/news/Culture/article/all/20261112/135011588/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "전현무 “죄송합니다, 당분간 DM 안 보겠습니다” 선언 왜? (전현무계획4)",
+     "url": "https://sports.khan.co.kr/article/202611111548003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "산",
+   "traffic": "2000+",
+   "when": "11월 12일 08:20",
    "news": [
     {
      "title": "김동현이 100억에 산 압구정 H, \"150억 가치\" 기대 뒤 숨은 '20억 복병'",
@@ -81,82 +132,42 @@
     },
     {
      "title": "김동현이 산 압구정 현대아파트, 100억→88억 됐다..“코인도 작살났는데” (‘그리구라’)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/MVSDAYZQGI4TKYTBMRSGIOBRMQ/",
-     "source": "조선일보"
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/12/GBSGGN3DGRTDAMJZHA4DEZBXMQ/",
+     "source": "Chosunbiz"
     }
    ]
   },
   {
-   "kw": "미라 안드레예바",
-   "traffic": "500+",
-   "when": "11월 12일 07:40",
-   "news": [
-    {
-     "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
-     "url": "https://www.yna.co.kr/view/AKR20261110138000007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[WTA 파이널] 스비톨리나, 무호바에 2-1 역전승",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749517",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "노란봉투법",
-   "traffic": "100+",
-   "when": "11월 12일 07:40",
-   "news": []
-  },
-  {
-   "kw": "정의선",
+   "kw": "파운드리",
    "traffic": "200+",
-   "when": "11월 12일 07:40",
+   "when": "11월 12일 08:20",
    "news": [
     {
-     "title": "[단독] 현대차, 무뇨스 재신임…북미시장 공세 '고삐'",
-     "url": "https://www.mk.co.kr/news/business/12205668",
-     "source": "매일경제"
+     "title": "메모리 호황 뒤 기지개… 삼성 파운드리 `美 빅테크 수주 발판`",
+     "url": "https://www.ddaily.co.kr/page/view/2026111114364589942",
+     "source": "디지털데일리"
     },
     {
-     "title": "현대차, 북미 성과 바탕으로 무뇨스 대표 연임 가닥",
-     "url": "https://tradersunion.com/ko/news/companies/show/4195453-hyundai-munoz-ceo-north-america/",
-     "source": "Traders Union"
+     "title": "삼성전자 美 테일러 공장, 12월 시험가동 전망..2나노 수율·테슬라 AI칩 양산이 관건",
+     "url": "https://kpenews.com/View.aspx?No=4304823",
+     "source": "한국정경신문"
     }
    ]
   },
   {
-   "kw": "암호화폐",
-   "traffic": "200+",
-   "when": "11월 12일 07:40",
+   "kw": "하지원",
+   "traffic": "2000+",
+   "when": "11월 12일 08:10",
    "news": [
     {
-     "title": "[코인시황] 그램(舊 톤코인) 10.20% 상승, 베니스 토큰 11.11% 하락",
-     "url": "https://www.etoday.co.kr/news/view/2646695",
-     "source": "이투데이"
+     "title": "하지원, 유니세프 TV 캠페인 재능기부… 전 세계 어린이 생명 살리기 동참",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3447722",
+     "source": "천지일보"
     },
     {
-     "title": "그램(GRAM) 1.09달러 지지선 지킬까…거래량 급증에 10% 반등",
-     "url": "https://www.coinreaders.com/269230",
-     "source": "코인리더스"
-    }
-   ]
-  },
-  {
-   "kw": "죽도시장",
-   "traffic": "200+",
-   "when": "11월 12일 07:30",
-   "news": [
-    {
-     "title": "고랭지 배춧값 급락…출하 포기까지",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709021",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "“배추값 30% 넘게 내렸다”…이마트, 김장재료·용품 할인전",
-     "url": "https://www.etnews.com/20261112000011",
-     "source": "전자신문"
+     "title": "배우 하지원, 유니세프 재능기부… “무엇이라도 돕고파”",
+     "url": "https://sports.khan.co.kr/article/202611111309003",
+     "source": "스포츠경향"
     }
    ]
   }
