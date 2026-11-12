@@ -1,9 +1,111 @@
 {
- "updated": "2026-11-12 16:23",
+ "updated": "2026-11-12 17:23",
  "items": [
   {
-   "kw": "스마트글래스",
+   "kw": "남대문 스카프 아저씨!",
    "traffic": "500+",
+   "when": "11월 12일 16:20",
+   "news": [
+    {
+     "title": "경찰 출동에 경호원까지…‘남대문 임영웅’ 뭐길래, 유명 여배우도 찾아갔다",
+     "url": "https://www.mk.co.kr/news/hot-issues/12204120",
+     "source": "매일경제"
+    },
+    {
+     "title": "남대문 스카프 아저씨, 또 대박…온라인몰 열자마자 ‘품절 대란’",
+     "url": "https://news.jtbc.co.kr/article/NB12327749",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "김승우",
+   "traffic": "200+",
+   "when": "11월 12일 16:20",
+   "news": [
+    {
+     "title": "[단독] 술자리 중 지갑에서 쓱? 배우 김승우 ‘절도 혐의’ 피소",
+     "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513574",
+     "source": "일요신문"
+    },
+    {
+     "title": "'170억 삼성동 주택' 김승우, 절도 혐의 피소..\"장난, 다 변제했다\" [Oh!쎈 이슈]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/HA2TQOJTGJSTGMJTMRRGGMZYHA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "아르헨티나",
+   "traffic": "100+",
+   "when": "11월 12일 16:20",
+   "news": [
+    {
+     "title": "두 개의 아르헨티나: 유전 대박과 실직한 가장들[딥다이브]",
+     "url": "https://www.donga.com/news/Economy/article/all/20261111/135005560/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "모르간스탠리, 아르헨티나 국채 매도세는 과도하다… 2027년 대선 이후 전망의 명암 : 남미동아뉴스 ; Paraguay Times",
+     "url": "https://newsk.net/py/?idx=175597117&bmode=view",
+     "source": "뉴스케이"
+    }
+   ]
+  },
+  {
+   "kw": "방화",
+   "traffic": "500+",
+   "when": "11월 12일 16:00",
+   "news": [
+    {
+     "title": "'인천 송도 영어유치원 앞 방화' 60대, 구속심사 출석",
+     "url": "https://www.yna.co.kr/view/AKR20261112106200065",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "인천 송도 영어유치원 방화 60대 남성 영장심사…구속 갈림길",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112154618qE0",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "근로장려금 신청",
+   "traffic": "500+",
+   "when": "11월 12일 15:50",
+   "news": [
+    {
+     "title": "자녀장려금 놓쳤다면 12월 1일까지 기한 후 신청, 산정액 95% 지급",
+     "url": "https://www.ibabynews.com/contents/child-tax-credit-late-apply-dec1",
+     "source": "베이비뉴스"
+    },
+    {
+     "title": "5년간 ‘5조’ 드는 근로장려금 확대안…“최저소득층 외면·재정 부담” 경고",
+     "url": "https://www.sejungilbo.com/news/articleView.html?idxno=61024",
+     "source": "세정일보"
+    }
+   ]
+  },
+  {
+   "kw": "박희승",
+   "traffic": "200+",
+   "when": "11월 12일 15:30",
+   "news": [
+    {
+     "title": "‘조희대 탄핵’ 강성 지지층에…與박희승 “후진국에서나 하는 일”",
+     "url": "https://www.chosun.com/politics/assembly/2026/11/12/L7XCXFNZHBE6FA5LMBNJRPMHZE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "한덕수 석방 가능성에‥민주 \"좌시 않아\" 혁신당 \"즉각 탄핵\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865090_36911.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "스마트글래스",
+   "traffic": "1000+",
    "when": "11월 12일 14:50",
    "news": [
     {
@@ -24,14 +126,31 @@
    "when": "11월 12일 14:50",
    "news": [
     {
-     "title": "토스뱅크, 펀드 서비스 출시…“통장 이자로 펀드 모은다”",
-     "url": "https://www.donga.com/news/Economy/article/all/20261112/135014163/1",
-     "source": "동아일보"
+     "title": "토스뱅크, 펀드 서비스 출시…국내외 주식·채권 등 17종 구성",
+     "url": "https://stock.mk.co.kr/news/view/1196934",
+     "source": "매일경제 마켓"
     },
     {
-     "title": "통장 이자로 자동 투자…토스뱅크, ‘펀드 서비스’ 첫선",
-     "url": "https://www.ekn.kr/web/view.php?key=20261112023318953",
-     "source": "에너지경제신문"
+     "title": "토스뱅크, 통장 이자로 투자 가능한 ‘펀드 서비스’ 출시",
+     "url": "https://www.khan.co.kr/article/202611121657041",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "김현석",
+   "traffic": "200+",
+   "when": "11월 12일 14:30",
+   "news": [
+    {
+     "title": "K리그1 울산, 김현석 감독과 계약 연장 안 해‥시즌 끝으로 결별",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6865085_36946.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "K리그1 울산, 김현석 감독과 올 시즌 끝으로 결별",
+     "url": "https://www.yna.co.kr/view/AKR20261112040600007",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -49,125 +168,6 @@
      "title": "혜리 맞아? 하루 만에 딴 사람..아방가르드 패션→고혹적 시스루 '패알못' 불명예 탈출 [핫피플]",
      "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/GI2TAYZYG5SGCYZQGBRDONLDMU/",
      "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "김현석",
-   "traffic": "100+",
-   "when": "11월 12일 14:30",
-   "news": [
-    {
-     "title": "K리그1 울산, 김현석 감독과 계약 연장 안 해‥시즌 끝으로 결별",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6865085_36946.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "프로축구 울산, 김현석 감독과 한 시즌 만에 결별",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710829",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "천궁",
-   "traffic": "10000+",
-   "when": "11월 12일 14:00",
-   "news": [
-    {
-     "title": "“한국에 ‘천궁-Ⅱ 값’ 3조원 얼른 줘라”…이라크, 다급히 돈 마련한 이유 [밀리터리+]",
-     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261111601017",
-     "source": "나우뉴스"
-    },
-    {
-     "title": "이라크 천궁Ⅱ 수출 탄력..논란이던 대금지급 해결",
-     "url": "https://www.fnnews.com/news/202611111614111177",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "현대엔지니어링",
-   "traffic": "200+",
-   "when": "11월 12일 14:00",
-   "news": [
-    {
-     "title": "현대ENG 조경 특화 상품 2종, 디자인 어워드 잇단 수상",
-     "url": "https://www.newsis.com/view/NISX20261112_0003865313",
-     "source": "뉴시스"
-    },
-    {
-     "title": "오른디자인·더한크리에이티브·에코피스, 우수디자인 국내·외 '호평'",
-     "url": "https://www.etnews.com/20261111000199",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "sk쉴더스",
-   "traffic": "200+",
-   "when": "11월 12일 13:30",
-   "news": [
-    {
-     "title": "SK쉴더스, 희망퇴직 실시…조직·인력 재정비",
-     "url": "https://www.newsis.com/view/NISX20261111_0003864432",
-     "source": "뉴시스"
-    },
-    {
-     "title": "SK쉴더스 희망퇴직 실시…영업·출동·사이버보안 직군 제외",
-     "url": "https://www.ddaily.co.kr/page/view/2026111114433387778",
-     "source": "디지털데일리"
-    }
-   ]
-  },
-  {
-   "kw": "스타벅스",
-   "traffic": "500+",
-   "when": "11월 12일 13:30",
-   "news": [
-    {
-     "title": "스타벅스, 독립유공자 후손 50명에 장학금 1억원 지원",
-     "url": "https://www.yna.co.kr/view/AKR20261112053500030",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[똑똑한소비] 스타벅스, 다이닝브랜즈그룹, 파리바게뜨, 맥도날드, 교촌치킨, CJ푸드빌, 삼양식품, 연세유업, CJ프레시웨이",
-     "url": "https://m.ekn.kr/view.php?key=20261112021298851",
-     "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "rockets vs warriors",
-   "traffic": "100+",
-   "when": "11월 12일 13:20",
-   "news": [
-    {
-     "title": "Warriors vs. Rockets injury report: Will Richard upgraded to probable",
-     "url": "https://sports.yahoo.com/articles/warriors-vs-rockets-injury-report-003233673.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Houston Rockets Highlights vs. Golden State Warriors",
-     "url": "https://www.nba.com/rockets/videos/houston-rockets-highlights-vs-golden-state-warriors-6",
-     "source": "NBA.com"
-    }
-   ]
-  },
-  {
-   "kw": "장기 이식",
-   "traffic": "5000+",
-   "when": "11월 12일 13:10",
-   "news": [
-    {
-     "title": "폐 이식 기다리다 떠난 아내…남편은 장기기증후 아내 곁으로",
-     "url": "https://www.donga.com/news/Society/article/all/20261112/135012696/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "\"아내는 이식 기다리다 숨졌는데\"…남편은 3명에 새 생명 선물",
-     "url": "https://www.ikbc.co.kr/article/view/kbc202611120033",
-     "source": "KBC광주방송"
     }
    ]
   }
