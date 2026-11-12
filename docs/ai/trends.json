@@ -1,26 +1,77 @@
 {
- "updated": "2026-11-12 15:23",
+ "updated": "2026-11-12 16:23",
  "items": [
   {
-   "kw": "스테픈 커리",
-   "traffic": "100+",
-   "when": "11월 12일 14:10",
+   "kw": "스마트글래스",
+   "traffic": "500+",
+   "when": "11월 12일 14:50",
    "news": [
     {
-     "title": "'커리 부상 악재' NBA 골든스테이트, 휴스턴에 덜미…8연승 마감",
-     "url": "https://www.yna.co.kr/view/AKR20261112119000007",
-     "source": "연합뉴스"
+     "title": "야외서도 잘 보이는 AR 스마트글래스 나온다…렌즈는 얇게, 화면은 선명하게",
+     "url": "https://www.chosun.com/economy/science/2026/11/12/BPIOUGQSFFELRAKPYYKR2V74XM/",
+     "source": "조선일보"
     },
     {
-     "title": "커리, 복부 통증으로 이탈…골든스테이트, 연승 행진 8연승으로 마감",
-     "url": "https://www.nocutnews.co.kr/news/6605962",
-     "source": "노컷뉴스"
+     "title": "‘두께 1.5mm 렌즈’ AR안경 개발… 밝은 야외서 글자 선명",
+     "url": "https://www.donga.com/news/Economy/article/all/20261111/135009412/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "투자신탁",
+   "traffic": "100+",
+   "when": "11월 12일 14:50",
+   "news": [
+    {
+     "title": "토스뱅크, 펀드 서비스 출시…“통장 이자로 펀드 모은다”",
+     "url": "https://www.donga.com/news/Economy/article/all/20261112/135014163/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "통장 이자로 자동 투자…토스뱅크, ‘펀드 서비스’ 첫선",
+     "url": "https://www.ekn.kr/web/view.php?key=20261112023318953",
+     "source": "에너지경제신문"
+    }
+   ]
+  },
+  {
+   "kw": "혜리",
+   "traffic": "200+",
+   "when": "11월 12일 14:30",
+   "news": [
+    {
+     "title": "[주간! 대중문화] 혜리 첫 MC 도전…베스티 ‘역주행’",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709483",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "혜리 맞아? 하루 만에 딴 사람..아방가르드 패션→고혹적 시스루 '패알못' 불명예 탈출 [핫피플]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/11/GI2TAYZYG5SGCYZQGBRDONLDMU/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "김현석",
+   "traffic": "100+",
+   "when": "11월 12일 14:30",
+   "news": [
+    {
+     "title": "K리그1 울산, 김현석 감독과 계약 연장 안 해‥시즌 끝으로 결별",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6865085_36946.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "프로축구 울산, 김현석 감독과 한 시즌 만에 결별",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710829",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "kw": "천궁",
-   "traffic": "2000+",
+   "traffic": "10000+",
    "when": "11월 12일 14:00",
    "news": [
     {
@@ -29,9 +80,9 @@
      "source": "나우뉴스"
     },
     {
-     "title": "파기 위기 넘긴 천궁-2 계약…이라크 자금 지시로 정상 궤도",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611110618593400fbbec65dfb_1",
-     "source": "글로벌이코노믹"
+     "title": "이라크 천궁Ⅱ 수출 탄력..논란이던 대금지급 해결",
+     "url": "https://www.fnnews.com/news/202611111614111177",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
@@ -80,9 +131,9 @@
      "source": "연합뉴스"
     },
     {
-     "title": "스타벅스, 독립유공자 후손 대학생 50명에 장학금 총 1억원 전달",
-     "url": "https://www.etnews.com/20261112000154",
-     "source": "전자신문"
+     "title": "[똑똑한소비] 스타벅스, 다이닝브랜즈그룹, 파리바게뜨, 맥도날드, 교촌치킨, CJ푸드빌, 삼양식품, 연세유업, CJ프레시웨이",
+     "url": "https://m.ekn.kr/view.php?key=20261112021298851",
+     "source": "에너지경제신문"
     }
    ]
   },
@@ -92,82 +143,31 @@
    "when": "11월 12일 13:20",
    "news": [
     {
-     "title": "Rockets' Marcus Smart ejected for throwing punch at Warriors' Charles Bassey",
-     "url": "https://www.espn.com/nba/story/_/id/50459125/rockets-marcus-smart-ejected-punch-warriors-bassey",
-     "source": "ESPN"
+     "title": "Warriors vs. Rockets injury report: Will Richard upgraded to probable",
+     "url": "https://sports.yahoo.com/articles/warriors-vs-rockets-injury-report-003233673.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "Rockets guard Marcus Smart ejected for punching Warriors center Charles Bassey",
-     "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/marcus-smart-punch-charles-bassey/1979354/?partner=yahoo",
-     "source": "NBC Sports Bay Area & California"
+     "title": "Houston Rockets Highlights vs. Golden State Warriors",
+     "url": "https://www.nba.com/rockets/videos/houston-rockets-highlights-vs-golden-state-warriors-6",
+     "source": "NBA.com"
     }
    ]
   },
   {
    "kw": "장기 이식",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 12일 13:10",
    "news": [
-    {
-     "title": "\"아내는 이식 기다리다 숨졌는데\"…남편은 3명에 새 생명 선물",
-     "url": "https://www.ikbc.co.kr/article/view/kbc202611120033",
-     "source": "KBC광주방송"
-    },
     {
      "title": "폐 이식 기다리다 떠난 아내…남편은 장기기증후 아내 곁으로",
      "url": "https://www.donga.com/news/Society/article/all/20261112/135012696/2",
      "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "빙하",
-   "traffic": "200+",
-   "when": "11월 12일 13:00",
-   "news": [
-    {
-     "title": "모두 잠든 새벽 아기와 엄마가 휩쓸려갔다…“빙하홍수는 실존 공포”",
-     "url": "https://www.hani.co.kr/arti/society/environment/1286917.html",
-     "source": "한겨레"
     },
     {
-     "title": "“안데스가 위험해”…한국 외교관이 출동했다, 왜? [런치정치]",
-     "url": "https://ichannela.com/news/detail/000000558847.do",
-     "source": "채널A"
-    }
-   ]
-  },
-  {
-   "kw": "베트남 u-23 축구 국가대표팀",
-   "traffic": "100+",
-   "when": "11월 12일 13:00",
-   "news": [
-    {
-     "title": "송람응에안 선수가 태국 U23 대표팀과의 경기에서 인상적인 활약을 펼쳤습니다.",
-     "url": "https://www.vietnam.vn/ko/cau-thu-song-lam-nghe-an-ghi-dau-an-truoc-u23-thai-lan",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "U23 베트남 공격수, 태국전 멀티골 후 특별한 의미 공개",
-     "url": "https://ko.laodong.vn/the-thao/tien-dao-u23-viet-nam-tiet-lo-y-nghia-dac-biet-sau-cu-dup-vao-luoi-thai-lan-1798264.ldo",
-     "source": "Laodong.vn"
-    }
-   ]
-  },
-  {
-   "kw": "이건희",
-   "traffic": "500+",
-   "when": "11월 12일 12:30",
-   "news": [
-    {
-     "title": "[fn광장] 생각 좀 하며 세상을 보자",
-     "url": "https://www.fnnews.com/news/202611111824059783",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "반도체 호황에 들뜬 삼성에 내린 이건희의 죽비",
-     "url": "https://shindonga.donga.com/economy/article/all/13/6452368/1",
-     "source": "신동아"
+     "title": "\"아내는 이식 기다리다 숨졌는데\"…남편은 3명에 새 생명 선물",
+     "url": "https://www.ikbc.co.kr/article/view/kbc202611120033",
+     "source": "KBC광주방송"
     }
    ]
   }
