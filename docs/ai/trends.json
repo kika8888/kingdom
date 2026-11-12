@@ -1,9 +1,26 @@
 {
- "updated": "2026-11-13 03:50",
+ "updated": "2026-11-13 04:23",
  "items": [
   {
+   "kw": "공장",
+   "traffic": "200+",
+   "when": "11월 13일 03:00",
+   "news": [
+    {
+     "title": "재난문자",
+     "url": "https://d.kbs.co.kr/info/messageView?seq=206635&areaCd=10714",
+     "source": "KBS 재난포털"
+    },
+    {
+     "title": "경북 경산 골판지 제조업체 불‥대응 1단계 발령",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6865277_36918.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
    "kw": "이자",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 13일 02:40",
    "news": [
     {
@@ -88,12 +105,12 @@
   },
   {
    "kw": "안성현",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 13일 00:40",
    "news": [
     {
      "title": "‘코인 상장 청탁’ 프로골퍼 안성현, 대법서 무죄 확정",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710942",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710942",
      "source": "KBS 뉴스"
     },
     {
@@ -148,26 +165,9 @@
      "source": "WSJ"
     },
     {
-     "title": "It’s Official: Michael Saylor’s Strategy Is Out of the MSCI Indexes",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/official-michael-saylor-strategy-msci-155722098.html",
-     "source": "Yahoo Finance"
-    }
-   ]
-  },
-  {
-   "kw": "amd 주가",
-   "traffic": "200+",
-   "when": "11월 12일 23:10",
-   "news": [
-    {
-     "title": "TPU가 뭐야? 삼전닉스에 올 새로운 기회",
-     "url": "https://www.sedaily.com/vod/5997282",
-     "source": "서울경제"
-    },
-    {
-     "title": "엔비디아 ‘오너 리스크’ 틈탄 구글, AMD와 AI 생태계 확장",
-     "url": "https://www.khan.co.kr/article/202611102040025",
-     "source": "경향신문"
+     "title": "Index Provider MSCI Removes Strategy From Equity Benchmark",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark",
+     "source": "Bloomberg.com"
     }
    ]
   }
