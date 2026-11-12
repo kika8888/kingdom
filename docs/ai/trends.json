@@ -1,112 +1,95 @@
 {
- "updated": "2026-11-12 08:23",
+ "updated": "2026-11-12 09:23",
  "items": [
   {
-   "kw": "3 루수",
-   "traffic": "2000+",
-   "when": "11월 12일 07:20",
-   "news": [
-    {
-     "title": "노시환과 메츠 워싱턴 코치의 한화 시절 인연, 미국 현지서 화제",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8709600",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "‘MLB 도전’ 노시환, 뉴욕 메츠 새 타격코치와의 인연도 ‘눈길’",
-     "url": "https://www.donga.com/news/Sports/article/all/20261111/135005364/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "박동원",
-   "traffic": "1000+",
-   "when": "11월 12일 07:20",
-   "news": [
-    {
-     "title": "\"꼭 잡겠다\" 왜 얘기 못하나...분위기가 심상치 않다, FA 포수 대격변 일어날까",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/11/ME3GMMLBMU3GIYJXGUYTAZBYG4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "구자욱·원태인만 있나…최지훈·홍창기·박동원까지 'FA 대어' 즐비",
-     "url": "https://www.news1.kr/sports/baseball/6349521",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "vix",
-   "traffic": "200+",
-   "when": "11월 12일 07:20",
-   "news": [
-    {
-     "title": "India VIX jumps 68% in three weeks despite 7% rally in Sensex, Nifty",
-     "url": "https://m.economictimes.com/markets/stocks/news/india-vix-jumps-68-despite-7-rally-in-sensex-nifty/articleshow/135695931.cms",
-     "source": "The Economic Times"
-    },
-    {
-     "title": "India VIX Rises 1.21% to 17.71 as Nifty Jumps",
-     "url": "https://hdfcsky.com/news/india-vix-rises-1-21percent-as-us-inflation-concerns-offset-crude-oil-relief-november-11-2026",
-     "source": "HDFC Sky"
-    }
-   ]
-  },
-  {
-   "kw": "삼성자산운용",
+   "kw": "파운드리",
    "traffic": "100+",
-   "when": "11월 12일 07:20",
+   "when": "11월 12일 08:20",
    "news": [
     {
-     "title": "[부고] 김우석(삼성자산운용 대표)씨 모친상",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444267",
-     "source": "연합인포맥스"
-    },
-    {
-     "title": "[속보] 4%대 급등 코스닥, 매수 사이드카 발동",
-     "url": "https://stock.mk.co.kr/news/view/1196032",
-     "source": "매일경제 마켓"
-    }
-   ]
-  },
-  {
-   "kw": "지소연",
-   "traffic": "100+",
-   "when": "11월 12일 07:20",
-   "news": [
-    {
-     "title": "지소연에 ‘성희롱 발언’한 심판, 출전정지 3개월 징계",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710019",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "지소연 향해 '성희롱 발언' 심판, 3개월 출전정지‥재심 없이 징계 확정",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6864877_36946.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "차장",
-   "traffic": "100+",
-   "when": "11월 12일 07:10",
-   "news": [
-    {
-     "title": "'김 차장, 요즘 왜 저래?'…부장님만 '바글바글' 심상찮다",
-     "url": "https://www.hankyung.com/article/2026111110121",
+     "title": "TSMC, 오픈AI·앤트로픽에 10억달러 투자…AI 생태계 확대",
+     "url": "https://www.hankyung.com/article/202611110093i",
      "source": "한국경제"
     },
     {
-     "title": "대화 나누는 이진수 법무부 차관과 기우종 법원행정처 차장",
-     "url": "https://www.newsis.com/view/NISI20261111_0021528524",
-     "source": "뉴시스"
+     "title": "반도체 장기호황 확신?… TSMC 55조 베팅, 삼전닉스 미소 - 머니투데이",
+     "url": "https://www.mt.co.kr/industry/2026/11/12/2026111119515668397",
+     "source": "머니투데이"
     }
    ]
   },
   {
-   "kw": "엘리나 스비톨리나",
+   "kw": "kimberly powell",
+   "traffic": "1000+",
+   "when": "11월 12일 07:50",
+   "news": [
+    {
+     "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+     "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang",
+     "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+     "source": "WSJ"
+    }
+   ]
+  },
+  {
+   "kw": "미세먼지",
+   "traffic": "100+",
+   "when": "11월 12일 07:50",
+   "news": [
+    {
+     "title": "[포토] 아침은 겨울 낮은 봄…널뛰는 기온",
+     "url": "https://www.incheonilbo.com/news/galleryView.html?idxno=1336619",
+     "source": "인천일보"
+    },
+    {
+     "title": "[날씨] 전국 흐리고 일교차 커...출근길 '짙은 안개' 주의",
+     "url": "https://www.ytn.co.kr/_ln/0108_202611120729441118",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "메르세데스-벤츠 v 클래스",
    "traffic": "200+",
-   "when": "11월 12일 07:10",
+   "when": "11월 12일 07:50",
+   "news": [
+    {
+     "title": "[포토뉴스]“골프도 편안하게” 벤츠, 새 V-클래스 출시",
+     "url": "https://www.khan.co.kr/article/20261111203100A/?cp",
+     "source": "경향신문"
+    },
+    {
+     "title": "[B포토]박현경·김민별 프로, V-클래스로 완성한 감성 골프여행",
+     "url": "https://www.viva100.com/article/20261111500513",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "압구정 현대아파트",
+   "traffic": "500+",
+   "when": "11월 12일 07:40",
+   "news": [
+    {
+     "title": "김동현이 100억에 산 압구정 H, \"150억 가치\" 기대 뒤 숨은 '20억 복병'",
+     "url": "https://www.newsis.com/view/NISX20261111_0003864485",
+     "source": "뉴시스"
+    },
+    {
+     "title": "김동현이 산 압구정 현대아파트, 100억→88억 됐다..“코인도 작살났는데” (‘그리구라’)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/MVSDAYZQGI4TKYTBMRSGIOBRMQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "미라 안드레예바",
+   "traffic": "500+",
+   "when": "11월 12일 07:40",
    "news": [
     {
      "title": "리바키나 왕중왕전 불참…테니스선수협회 \"시즌 일정 너무 빡빡\"",
@@ -114,49 +97,66 @@
      "source": "연합뉴스"
     },
     {
-     "title": "'왕중왕전' 무호바에게 서브하는 사발렌카",
-     "url": "https://www.newsis.com/view/NISI20261110_0002288184",
-     "source": "뉴시스"
+     "title": "[WTA 파이널] 스비톨리나, 무호바에 2-1 역전승",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749517",
+     "source": "국제뉴스"
     }
    ]
   },
   {
-   "kw": "홈런",
-   "traffic": "2000+",
-   "when": "11월 12일 07:00",
-   "news": [
-    {
-     "title": "12홈런 친 3루수가 C등급이라고? 보상금 고작 1억3500...의외의 '초대박' 터지나",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/12/MQZDENLCMZRGMNTDMNRGCODFMY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'KS 65경기·우승 7회' 베테랑도 \"떨린다\", '코치' 박한이가 꿈꾸는 '여덟 번째 반지' [KS1]",
-     "url": "https://isplus.com/article/view/isp202611030293",
-     "source": "일간스포츠"
-    }
-   ]
-  },
-  {
-   "kw": "광공해",
+   "kw": "노란봉투법",
    "traffic": "100+",
-   "when": "11월 12일 07:00",
+   "when": "11월 12일 07:40",
    "news": []
   },
   {
-   "kw": "한국경제신문사",
-   "traffic": "100+",
-   "when": "11월 12일 07:00",
+   "kw": "정의선",
+   "traffic": "200+",
+   "when": "11월 12일 07:40",
    "news": [
     {
-     "title": "\"AI 시대에 주식 승자 되려면\"…거장은 '이 상품'에 돈 묻는다",
-     "url": "https://www.hankyung.com/article/202611107191i",
-     "source": "한국경제"
+     "title": "[단독] 현대차, 무뇨스 재신임…북미시장 공세 '고삐'",
+     "url": "https://www.mk.co.kr/news/business/12205668",
+     "source": "매일경제"
     },
     {
-     "title": "\"AI 기업 성장 여지 많다\"…기술 거품론 맞선 엔지니어 주장",
-     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714558",
-     "source": "디지털투데이"
+     "title": "현대차, 북미 성과 바탕으로 무뇨스 대표 연임 가닥",
+     "url": "https://tradersunion.com/ko/news/companies/show/4195453-hyundai-munoz-ceo-north-america/",
+     "source": "Traders Union"
+    }
+   ]
+  },
+  {
+   "kw": "암호화폐",
+   "traffic": "200+",
+   "when": "11월 12일 07:40",
+   "news": [
+    {
+     "title": "[코인시황] 그램(舊 톤코인) 10.20% 상승, 베니스 토큰 11.11% 하락",
+     "url": "https://www.etoday.co.kr/news/view/2646695",
+     "source": "이투데이"
+    },
+    {
+     "title": "그램(GRAM) 1.09달러 지지선 지킬까…거래량 급증에 10% 반등",
+     "url": "https://www.coinreaders.com/269230",
+     "source": "코인리더스"
+    }
+   ]
+  },
+  {
+   "kw": "죽도시장",
+   "traffic": "200+",
+   "when": "11월 12일 07:30",
+   "news": [
+    {
+     "title": "고랭지 배춧값 급락…출하 포기까지",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709021",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "“배추값 30% 넘게 내렸다”…이마트, 김장재료·용품 할인전",
+     "url": "https://www.etnews.com/20261112000011",
+     "source": "전자신문"
     }
    ]
   }
