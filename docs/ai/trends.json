@@ -1,27 +1,95 @@
 {
- "updated": "2026-11-12 21:23",
+ "updated": "2026-11-12 22:23",
  "items": [
   {
-   "kw": "천위페이",
-   "traffic": "1000+",
-   "when": "11월 12일 20:10",
+   "kw": "두산 베어스",
+   "traffic": "100+",
+   "when": "11월 12일 21:20",
    "news": [
     {
-     "title": "'안세영 천적이라고 하지 마세요' 세계 36위 상대 '진땀승'→간신히 8강 진출…中 천위페이, AN과 격차 점점 벌어진다",
-     "url": "https://www.xportsnews.com/article/2218686",
-     "source": "엑스포츠뉴스"
+     "title": "두산 신인 김지우, 이진영 코치도 칭찬…“파워·기술 겸비”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8711118",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O",
+     "title": "와 '얼굴 다친 것도 아닌데' 마스크 쓰고 타구에 돌진이라니... 코칭스태프는 \"의욕과 투지 느껴진다\" 기대감↑ - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/11/2026111109044572315",
      "source": "머니투데이"
     }
    ]
   },
   {
-   "kw": "지하철 파업",
+   "kw": "원태인",
+   "traffic": "2000+",
+   "when": "11월 12일 21:10",
+   "news": [
+    {
+     "title": "[단독]\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
+     "url": "https://www.news1.kr/industry/general-industry/6352149",
+     "source": "뉴스1"
+    },
+    {
+     "title": "에버랜드, 삼성라이온즈 우승 기념 팬 초청 행사…2000명과 'V9 데이트'",
+     "url": "https://www.etnews.com/20261112000325",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "신주아",
+   "traffic": "100+",
+   "when": "11월 12일 20:50",
+   "news": [
+    {
+     "title": "신주아, 남편 재벌설엔 선 그었는데…류화영 결혼식 참석 후 ‘사모님 화보’ [Oh!쎈 이슈]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GI2TAM3CG5QTKN3BGQZDSMLFMQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "신주아, 1년째 안 보이는 ♥태국재벌 남편..궁궐 같은 저택에 반려견뿐 [핫피플]",
+     "url": "https://www.koreadaily.com/article/20261110154628024",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "신안산선",
+   "traffic": "200+",
+   "when": "11월 12일 20:40",
+   "news": [
+    {
+     "title": "태백시, 철도망 국가계획 반영 총력…시민 설문 참여 요청",
+     "url": "https://www.yna.co.kr/view/AKR20261112171600062",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "이재준 수원시장 \"경기남부광역철도·신분당선 연장, 시민 참여 절실\" - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/policy/2026/11/12/2026111217132566374",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "항공사",
+   "traffic": "200+",
+   "when": "11월 12일 20:40",
+   "news": [
+    {
+     "title": "아시아나항공, 3분기 영업손실 1,790억원…적자 지속",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112180246PVF",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "아시아나항공, 3Q 환율 효과에 순이익 흑자 전환…고유가로 적자 지속",
+     "url": "https://m.ekn.kr/view.php?key=20261112027349018",
+     "source": "에너지경제신문"
+    }
+   ]
+  },
+  {
+   "kw": "공항철도 파업",
    "traffic": "1000+",
-   "when": "11월 12일 20:10",
+   "when": "11월 12일 20:40",
    "news": [
     {
      "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
@@ -36,8 +104,25 @@
    ]
   },
   {
+   "kw": "천위페이",
+   "traffic": "2000+",
+   "when": "11월 12일 20:10",
+   "news": [
+    {
+     "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'안세영 천적이라고 하지 마세요' 세계 36위 상대 '진땀승'→간신히 8강 진출…中 천위페이, AN과 격차 점점 벌어진다",
+     "url": "https://www.xportsnews.com/article/2218686",
+     "source": "엑스포츠뉴스"
+    }
+   ]
+  },
+  {
    "kw": "조희대",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 12일 20:00",
    "news": [
     {
@@ -46,15 +131,15 @@
      "source": "JTBC"
     },
     {
-     "title": "법원행정처장, ‘한덕수 석방시 조희대 탄핵’ 與 주장에 “부적절”",
-     "url": "https://www.donga.com/news/Society/article/all/20261112/135017324/1",
-     "source": "동아일보"
+     "title": "우원식, 한덕수 석방 관측에 “풀려난다면 국민들이 조희대 대법원의 책임 물을 것”",
+     "url": "https://www.khan.co.kr/article/202611120930001",
+     "source": "경향신문"
     }
    ]
   },
   {
    "kw": "원자력 잠수함",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 12일 20:00",
    "news": [
     {
@@ -83,91 +168,6 @@
      "title": "RTA, Al Etihad Payments sign strategic agreement to launch next generation of nol–Jaywan cards",
      "url": "https://www.wam.ae/en/article/c3347i1-rta-etihad-payments-sign-strategic-agreement",
      "source": "www.wam.ae"
-    }
-   ]
-  },
-  {
-   "kw": "백승호",
-   "traffic": "100+",
-   "when": "11월 12일 19:40",
-   "news": [
-    {
-     "title": "'韓 초대박 경사' 터질까, 한국인 16호 프리미어리거는 백승호? '1위 질주' 버밍엄 \"꿈의 무대 EPL 복귀 예상\"",
-     "url": "https://www.sportschosun.com/football/2026-11-11/202611110100078270007276",
-     "source": "스포츠조선"
-    },
-    {
-     "title": "모레노호 '호재'… 드디어 긴 부상 털고 복귀한 한국 선수",
-     "url": "https://www.wikitree.co.kr/articles/1172444",
-     "source": "위키트리"
-    }
-   ]
-  },
-  {
-   "kw": "부동산",
-   "traffic": "2000+",
-   "when": "11월 12일 19:20",
-   "news": [
-    {
-     "title": "[단독] 이 대통령, 당대표 경험 공유하며 김민석 격려",
-     "url": "https://www.khan.co.kr/article/202611121657011",
-     "source": "경향신문"
-    },
-    {
-     "title": "당청 ’한목소리’에도 종부세 이견…金·鄭 ’대화중재’도 파열음",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112205932itn",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "페드로 아빌라",
-   "traffic": "500+",
-   "when": "11월 12일 19:20",
-   "news": [
-    {
-     "title": "SSG, MLB 출신 강속구 투수 리차드슨 100만 달러에 영입",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8711079",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "[공식발표] 54억 화끈하게 질렀다! 폰세 능가 외인+ML 157km 유망주까지 품다…SSG 외국인투수 농사 끝",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/12/MU3DEYLDHA3DKZJYMU3TAZTGGI/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "정동영",
-   "traffic": "500+",
-   "when": "11월 12일 19:20",
-   "news": [
-    {
-     "title": "박충권, 정동영 향해 \"북동영\" 부르자 與 \"탈충권\" 맞불",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6865148_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "탈북단체 \"통일부 '북향민' 호칭, 탈북민 정체성 부정\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261112058551504",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "나경원",
-   "traffic": "100+",
-   "when": "11월 12일 19:10",
-   "news": [
-    {
-     "title": "나경원 \"당나라 군대냐\" 지적에 강신철 \"말씀 취소하라\" 반발",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6865059_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "나경원 \"당나라 군대냐\"…국방부 장관 \"취소해달라\" 발끈 [소셜픽]",
-     "url": "https://news.jtbc.co.kr/article/NB12327681",
-     "source": "JTBC"
     }
    ]
   }
