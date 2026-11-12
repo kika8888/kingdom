@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-12 12:23",
+ "updated": "2026-11-12 13:23",
  "items": [
   {
-   "kw": "류효승",
-   "traffic": "100+",
-   "when": "11월 12일 11:20",
+   "kw": "ssg 랜더스",
+   "traffic": "200+",
+   "when": "11월 12일 12:20",
    "news": [
     {
      "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
@@ -19,8 +19,82 @@
    ]
   },
   {
+   "kw": "담배값 인상",
+   "traffic": "100+",
+   "when": "11월 12일 12:20",
+   "news": []
+  },
+  {
+   "kw": "교장",
+   "traffic": "200+",
+   "when": "11월 12일 11:50",
+   "news": [
+    {
+     "title": "교장 신분으로 정책국장에 부교육감 대리까지…장연국 도의원 “법적 근거 뭐냐”",
+     "url": "https://www.jjan.kr/article/20261111500426",
+     "source": "전북일보 인터넷신문"
+    },
+    {
+     "title": "\"교장 신분 정책국장이 부교육감 직무대리?\"…전북교육청 질타",
+     "url": "https://www.yna.co.kr/view/AKR20261111131500055",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "김현지",
+   "traffic": "200+",
+   "when": "11월 12일 11:50",
+   "news": [
+    {
+     "title": "[단독]이용철, 대장동 아는 것 없다더니···2014년 김용에 “연구 진행하는 것 많아” 답변",
+     "url": "https://www.khan.co.kr/article/202611111808011",
+     "source": "경향신문"
+    },
+    {
+     "title": "정점식 \"법무장관 기준 1순위가 '탈옥 도우미 능력' 돼버려\"",
+     "url": "https://www.yna.co.kr/view/AKR20261112053800001",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "소방",
+   "traffic": "2000+",
+   "when": "11월 12일 11:40",
+   "news": [
+    {
+     "title": "창녕군-소방서 합동훈련 실시…40여 명 참여, 화재대응 실습",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749714",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "함평군 보건소, 함평소방서와 함께한 합동 소방 훈련 성료",
+     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=803063",
+     "source": "일간투데이"
+    }
+   ]
+  },
+  {
+   "kw": "apbc 중계",
+   "traffic": "1000+",
+   "when": "11월 12일 11:30",
+   "news": [
+    {
+     "title": "슈퍼스타 김도영, 도쿄돔을 휘저어라…12일 호주와 APBC 첫 경기",
+     "url": "https://www.yna.co.kr/view/AKR20261111095900007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "선발 전환하자마자 국제대회까지…韓 우승 길목에서 중책 맡았다 \"SSG 위상 높이려면 우리가 잘해야\" [오!쎈 도쿄] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/12/202611121111771013O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
    "kw": "sk그룹",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 12일 11:00",
    "news": [
     {
@@ -41,133 +115,48 @@
    "when": "11월 12일 11:00",
    "news": [
     {
-     "title": "[1보] 넥슨, 3분기 매출 1조2312억원·영업익 3718억원…전망치 상회 By EBN",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2169713",
-     "source": "Investing.com 한국어"
+     "title": "[단독] \"창립 이래 최대 위기\"…'게임 1위' 넥슨에 무슨 일이",
+     "url": "https://www.hankyung.com/article/2026111084471",
+     "source": "한국경제"
     },
     {
-     "title": "넥슨·크래프톤 1위 쟁탈전 격화…AI·신작 강화로 수익성 방어 총력",
-     "url": "https://view.asiae.co.kr/article/2026111109253701835",
-     "source": "아시아경제"
+     "title": "[속보] 넥슨, 3분기 영업익 3718억원…매출 1조2312억원 By EBN",
+     "url": "https://kr.investing.com/news/stock-market-news/article-2169714",
+     "source": "Investing.com 한국어"
     }
    ]
   },
   {
    "kw": "베이비몬스터",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 12일 11:00",
    "news": [
     {
-     "title": "지수·이날치·NCT·베몬, 내년 ‘코첼라’ 선다",
-     "url": "https://www.khan.co.kr/article/202611111901001",
-     "source": "경향신문"
+     "title": "블핑 지수·이날치·NCT·베이비몬스터, 내년 ‘코첼라’ 뜬다",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710037",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "내년 코첼라 NCT 무대 베일 벗었다…127·드림, 동반 출격·합동 무대",
-     "url": "https://www.newsis.com/view/NISX20261112_0003864880",
-     "source": "뉴시스"
+     "title": "마돈나와 함께… ‘범 내려온다’ 이날치, 내년 코첼라 무대 오른다",
+     "url": "https://www.munhwa.com/article/11630800",
+     "source": "문화일보"
     }
    ]
   },
   {
-   "kw": "천무 다연장로켓",
-   "traffic": "100+",
+   "kw": "이슬람 혁명 수비대",
+   "traffic": "500+",
    "when": "11월 12일 10:50",
    "news": [
     {
-     "title": "한화, 美해상서 ‘천무’ 쏜다… 방산·조선 동시 확장",
-     "url": "https://www.sedaily.com/article/20112039",
-     "source": "서울경제"
+     "title": "이란, ‘미사일 도시’ 공개…트럼프 “전쟁 곧 끝날 것”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710572",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "203조 투자 약속했지만 美 군함 발주는 아직…K-조선, 정책 분수령",
-     "url": "https://news.tf.co.kr/read/economy/2387591.htm",
-     "source": "더팩트"
-    }
-   ]
-  },
-  {
-   "kw": "땅집고",
-   "traffic": "2000+",
-   "when": "11월 12일 10:40",
-   "news": [
-    {
-     "title": "퇴직금 1억으로 카페 차린 50대, 4개월 만에 쫄딱 망한 이유는",
-     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/11/2026111102986.html",
-     "source": "땅집고"
-    },
-    {
-     "title": "[황승연의 타임캡슐] 퇴직은 했지만 은퇴는 못하는 나라",
-     "url": "https://www.ajunews.com/view/20261110144003409",
-     "source": "아주경제"
-    }
-   ]
-  },
-  {
-   "kw": "제주항공",
-   "traffic": "500+",
-   "when": "11월 12일 10:40",
-   "news": [
-    {
-     "title": "제주항공 주식 하락, 쪼그라든 제주도 자산? \"주식이 다가 아니다\"",
-     "url": "https://www.mediajeju.com/news/articleView.html?idxno=367301",
-     "source": "미디어제주"
-    },
-    {
-     "title": "제주도 '제주항공 주식' 평가액 319억 증발…지분율도 25→3% 뚝",
-     "url": "https://www.news1.kr/local/jeju/6350354",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "jyp",
-   "traffic": "100+",
-   "when": "11월 12일 10:40",
-   "news": [
-    {
-     "title": "Eugene Securities raises JYP Ent target as Stray Kids fuel Western gains",
-     "url": "https://biz.chosun.com/en/en-finance/2026/11/12/RSYHOSBQONFVNNXQJ2TGOCGSUE/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "JYP posts surprise earnings led by Stray Kids; rookie success is the next challenge",
-     "url": "https://en.fnnews.com/news/202611120722287101",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "신유빈",
-   "traffic": "500+",
-   "when": "11월 12일 10:30",
-   "news": [
-    {
-     "title": "신유빈, 일본에 공포였구나…'日 에이스' 하리모토 미와 \"제일 힘들어\"→\"다시 만나고 싶지 않다\" 깜짝 고백",
-     "url": "https://www.xportsnews.com/article/2218481",
-     "source": "엑스포츠뉴스"
-    },
-    {
-     "title": "아이찡보다 18년 먼저 온 ‘탁구판 비밀병기’ 톈민웨이",
-     "url": "https://www.segye.com/newsView/20261109515368",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "이더리움",
-   "traffic": "200+",
-   "when": "11월 12일 10:30",
-   "news": [
-    {
-     "title": "Bitmine, 암호화폐·현금 보유액 143억 달러 발표",
-     "url": "https://kr.investing.com/news/company-news/article-93CH-2166262",
-     "source": "Investing.com 한국어"
-    },
-    {
-     "title": "\"암호화폐 강세장은 이제 시작!\" 톰 리, 이더리움 약세에도 낙관론 고수",
-     "url": "https://www.coinreaders.com/269188",
-     "source": "코인리더스"
+     "title": "\"이란전 곧 끝날 것\"‥보란 듯 '미사일 기지' 과시",
+     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865136_36967.html",
+     "source": "MBC 뉴스"
     }
    ]
   }
