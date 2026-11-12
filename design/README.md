@@ -9,6 +9,10 @@
 | `profile_600_blue.png` | 관리 → 기본 설정 → 블로그 정보 → 프로필 이미지 (PC 네모, 모바일 동그라미) | 600×600 |
 | `menu_170x400_blue.png` | 위젯 직접등록 (코드는 HANDOFF.md 참고, 실제로는 `docs/blogmenu/mk_menu_blue.png` 를 씀) | 170×400 |
 
+## 생활·경제 블로그 "살림 경제 노트" (`blog_economy/`, 청록)
+같은 크기·같은 자리: `stage_1920x600_economy.png`(대문), `profile_600_economy.png`(프로필, 그래프+₩ 동전), `menu_170x400_economy.png`(메뉴 위젯: 생활 꿀팁·지원금·정책·재테크·금리·절약·할인).
+다시 만들기: `powershell -File make_economy.ps1` (문구·색은 그 파일 안에서 바꾸면 됨)
+
 ## 만드는 프로그램 (윈도 PowerShell, 따로 설치할 것 없음)
 - `make_stage.ps1` — 기존 연예 블로그(soduwk1209)와 같은 무대 스타일. 대문·메뉴 위젯·프로필을 한 번에.
   색 바꾸기 예: `powershell -File make_stage.ps1 -Name blue -Edge "#06122E" -Mid "#17408A" -T1 "#F4FAFF" -T2 "#9AD4FF" -Glow "#3FA9FF" -Acc "#7FD4FF" -Band "#0A1C40" -Soft "#D6E8FF" -Bokeh "#3FA9FF,#7B6CFF,#FFB86B,#5FE0FF"`
