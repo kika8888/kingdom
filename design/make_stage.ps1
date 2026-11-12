@@ -3,7 +3,11 @@
 param([string]$Title = "MK 연예계 뉴스", [string]$Name = "",
       [string]$Edge = "#1A0830", [string]$Mid = "#4A1A6E", [string]$T1 = "#FFF1F8", [string]$T2 = "#FF8FC8",
       [string]$Glow = "#FF5FB0", [string]$Acc = "#FF7FC0", [string]$Band = "#2A1440", [string]$Soft = "#E9D6FF",
-      [string]$Bokeh = "#FF6FB5,#9B5CFF,#FFB86B,#C77DFF")
+      [string]$Bokeh = "#FF6FB5,#9B5CFF,#FFB86B,#C77DFF",
+      # 문구: 대문 윗줄·부제(가운데 금색 부분)·메뉴(쉼표로), 위젯 제목 두 줄, 프로필 큰 글자·작은 글자·영문, 프로필 그림(mic|money)
+      [string]$Kicker = "ENTERTAINMENT NEWS", [string]$SubA = "오늘 가장 뜨거운 ", [string]$SubHi = "스타 소식", [string]$SubB = "을 한눈에",
+      [string]$Menus = "스타 근황,결혼 · 열애,방송,이슈", [string]$WTitle1 = "MK 연예계", [string]$WTitle2 = "뉴스", [string]$WKick = "ENTERTAINMENT",
+      [string]$PMain = "MK", [int]$PMainSize = 96, [string]$PSub = "연예계 뉴스", [string]$PKick = "ENTERTAINMENT", [string]$Icon = "mic")
 Add-Type -AssemblyName System.Drawing
 $out = Join-Path $PSScriptRoot "blog_home\stage"
 New-Item -ItemType Directory -Force $out | Out-Null
@@ -82,11 +86,11 @@ $bmp, $g = Canvas $W $H
 Stage $g $W $H 5
 Spot $g 200 330 260 960 $H; Spot $g 1590 1720 960 1660 $H
 foreach ($s in @(@(376,152,14), @(1553,126,13), @(1651,342,10), @(309,348,9), @(527,74,7), @(1767,194,7), @(205,220,5), @(1426,263,6))) { Star $g $s[0] $s[1] $s[2] $gold }
-Spaced $g "ENTERTAINMENT NEWS" 17 128 $W (& $C $Soft) 14
+Spaced $g $Kicker 17 128 $W (& $C $Soft) 14
 GlowText $g $Title 118 (New-Object Drawing.RectangleF 0, 150, $W, 150) $pinkTop $pinkBot (& $C $Glow) 4
 # 부제: '스타 소식' 만 금색
 $sf = New-Object Drawing.Font $font, 22, ([Drawing.FontStyle]::Bold)
-$parts = @(@("오늘 가장 뜨거운 ", (& $C $Soft)), @("스타 소식", $gold), @("을 한눈에", (& $C $Soft)))
+$parts = @(@($SubA, (& $C $Soft)), @($SubHi, $gold), @($SubB, (& $C $Soft)))
 $fmt = [Drawing.StringFormat]::GenericTypographic.Clone(); $fmt.FormatFlags = $fmt.FormatFlags -bor [Drawing.StringFormatFlags]::MeasureTrailingSpaces
 $tw = ($parts | ForEach-Object { $g.MeasureString($_[0], $sf, 2000, $fmt).Width } | Measure-Object -Sum).Sum
 $x = ($W - $tw) / 2
@@ -98,16 +102,16 @@ $g.FillRectangle($lb, 700, 465, 520, 2)
 # 아래 메뉴 띠
 $g.FillRectangle((New-Object Drawing.SolidBrush (& $A 150 (& $C $Band))), 0, 492, $W, 108)
 $g.FillRectangle((New-Object Drawing.SolidBrush (& $A 110 (& $C $Soft))), 0, 492, $W, 1)
-$menus = @("스타 근황", "결혼 · 열애", "방송", "이슈")
+$menuList = $Menus.Split(",")
 $mf = 34; $xs = @(); $mw = @()
 $tmp = New-Object Drawing.Drawing2D.GraphicsPath
-foreach ($m in $menus) { $pp = New-Object Drawing.Drawing2D.GraphicsPath; $pp.AddString($m, (New-Object Drawing.FontFamily $font), 1, $mf, (New-Object Drawing.PointF 0, 0), [Drawing.StringFormat]::GenericTypographic); $mw += $pp.GetBounds().Width }
-$gap = 110; $total = ($mw | Measure-Object -Sum).Sum + $gap * ($menus.Count - 1); $x = ($W - $total) / 2
-for ($i = 0; $i -lt $menus.Count; $i++) {
+foreach ($m in $menuList) { $pp = New-Object Drawing.Drawing2D.GraphicsPath; $pp.AddString($m, (New-Object Drawing.FontFamily $font), 1, $mf, (New-Object Drawing.PointF 0, 0), [Drawing.StringFormat]::GenericTypographic); $mw += $pp.GetBounds().Width }
+$gap = 110; $total = ($mw | Measure-Object -Sum).Sum + $gap * ($menuList.Count - 1); $x = ($W - $total) / 2
+for ($i = 0; $i -lt $menuList.Count; $i++) {
   $pp = New-Object Drawing.Drawing2D.GraphicsPath
-  $pp.AddString($menus[$i], (New-Object Drawing.FontFamily $font), 1, $mf, (New-Object Drawing.PointF $x, 527), [Drawing.StringFormat]::GenericTypographic)
+  $pp.AddString($menuList[$i], (New-Object Drawing.FontFamily $font), 1, $mf, (New-Object Drawing.PointF $x, 527), [Drawing.StringFormat]::GenericTypographic)
   $pen = New-Object Drawing.Pen ([Drawing.Color]::White), 2; $pen.LineJoin = 'Round'; $g.DrawPath($pen, $pp); $g.FillPath([Drawing.Brushes]::White, $pp)
-  if ($i -lt $menus.Count - 1) { Star $g ($x + $mw[$i] + $gap/2) 548 9 (& $C $Acc) }
+  if ($i -lt $menuList.Count - 1) { Star $g ($x + $mw[$i] + $gap/2) 548 9 (& $C $Acc) }
   $x += $mw[$i] + $gap
 }
 $bmp.Save((Join-Path $out "stage_1920x600$sfx.png"), [Drawing.Imaging.ImageFormat]::Png); $g.Dispose(); $bmp.Dispose()
@@ -117,11 +121,11 @@ $bmp, $g = Canvas 170 400
 Stage $g 170 400 9
 Spot $g 20 45 0 110 400; Spot $g 125 150 60 170 400
 Star $g 22 30 6 $gold; Star $g 150 64 5 $gold; Star $g 140 20 3 $gold
-Spaced $g "ENTERTAINMENT" 6 30 170 (& $C $Soft) 3
-GlowText $g "MK 연예계" 21 (New-Object Drawing.RectangleF 0, 38, 170, 30) $pinkTop $pinkBot (& $C $Glow) 1
-GlowText $g "뉴스" 21 (New-Object Drawing.RectangleF 0, 64, 170, 30) $pinkTop $pinkBot (& $C $Glow) 1
+Spaced $g $WKick 6 30 170 (& $C $Soft) 3
+GlowText $g $WTitle1 21 (New-Object Drawing.RectangleF 0, 38, 170, 30) $pinkTop $pinkBot (& $C $Glow) 1
+GlowText $g $WTitle2 21 (New-Object Drawing.RectangleF 0, 64, 170, 30) $pinkTop $pinkBot (& $C $Glow) 1
 $y = 110; $map = @()
-foreach ($m in @("스타 근황", "결혼·열애", "방송", "이슈")) {
+foreach ($m in ($Menus.Split(",") | ForEach-Object { $_ -replace ' · ', '·' })) {
   $rp = New-Object Drawing.Drawing2D.GraphicsPath
   $rp.AddArc(14, $y, 26, 26, 90, 180); $rp.AddArc(130, $y, 26, 26, 270, 180); $rp.CloseFigure()
   $rp2 = New-Object Drawing.Drawing2D.GraphicsPath; $rp2.AddArc(14, $y, 52, 52, 180, 90); $rp2.AddArc(104, $y, 52, 52, 270, 90); $rp2.AddArc(104, $y+12, 52, 52, 0, 90); $rp2.AddArc(14, $y+12, 52, 52, 90, 90); $rp2.CloseFigure()
@@ -141,6 +145,23 @@ Stage $g $S $S 21
 Spot $g 150 220 40 330 $S; Spot $g 380 450 270 560 $S
 # 원 테두리 빛
 foreach ($w in @(14, 8, 3)) { $g.DrawEllipse((New-Object Drawing.Pen (& $A ($(if ($w -eq 3) { 200 } else { 40 })) (& $C $T2)), $w), 36, 36, 528, 528) }
+if ($Icon -eq "money") {
+  # 오르는 막대그래프 3개 + 위로 꺾이는 금색 화살표 + ₩ 동전
+  $bars = @(@(212, 205, 44, 60), @(268, 170, 44, 95), @(324, 128, 44, 137))
+  foreach ($bv in $bars) {
+    $bp = New-Object Drawing.Drawing2D.GraphicsPath; $bp.AddArc($bv[0], $bv[1], 16, 16, 180, 90); $bp.AddArc($bv[0]+$bv[2]-16, $bv[1], 16, 16, 270, 90)
+    $bp.AddLine($bv[0]+$bv[2], $bv[1]+$bv[3], $bv[0], $bv[1]+$bv[3]); $bp.CloseFigure()
+    $g.FillPath((New-Object Drawing.Drawing2D.LinearGradientBrush (New-Object Drawing.RectangleF $bv[0], ($bv[1]-1), $bv[2], ($bv[3]+2)), $pinkTop, $pinkBot, 90.0), $bp)
+  }
+  $ap = New-Object Drawing.Pen $gold, 9; $ap.LineJoin = 'Round'; $ap.StartCap = 'Round'
+  $ap.CustomEndCap = New-Object Drawing.Drawing2D.AdjustableArrowCap 3, 3
+  $g.DrawLines($ap, @((New-Object Drawing.PointF 200, 190), (New-Object Drawing.PointF 262, 150), (New-Object Drawing.PointF 300, 168), (New-Object Drawing.PointF 382, 100)))
+  $cp = New-Object Drawing.Drawing2D.GraphicsPath; $cp.AddEllipse(372, 176, 74, 74)
+  $cb2 = New-Object Drawing.Drawing2D.PathGradientBrush $cp; $cb2.CenterPoint = (New-Object Drawing.PointF 395, 198)
+  $cb2.CenterColor = (& $C "#FFF3C4"); $cb2.SurroundColors = @((& $C "#E0A82E"))
+  $g.FillPath($cb2, $cp); $g.DrawEllipse((New-Object Drawing.Pen (& $C "#B8841C"), 3), 380, 184, 58, 58)
+  $g.DrawString("₩", (New-Object Drawing.Font $font, 26, ([Drawing.FontStyle]::Bold)), (New-Object Drawing.SolidBrush (& $C "#8A5F0E")), (New-Object Drawing.RectangleF 372, 176, 74, 76), $center)
+} else {
 # 마이크: 손잡이(기울인 막대) + 머리(은색 공 + 그물)
 $st = $g.Save()
 $g.TranslateTransform(315, 168); $g.RotateTransform(40)
@@ -158,9 +179,10 @@ for ($i = -52; $i -le 52; $i += 10) { $g.DrawLine($gp, $i, -52, $i, 52); $g.Draw
 $g.ResetClip()
 $g.DrawEllipse((New-Object Drawing.Pen (& $A 160 ([Drawing.Color]::White)), 2), -52, -52, 104, 104)
 $g.Restore($st)
+}
 Star $g 168 150 12 $gold; Star $g 438 128 9 $gold; Star $g 455 250 6 $gold; Star $g 150 268 5 $gold
-GlowText $g "MK" 96 (New-Object Drawing.RectangleF 0, 322, $S, 110) $pinkTop $pinkBot (& $C $Glow) 3
-GlowText $g "연예계 뉴스" 40 (New-Object Drawing.RectangleF 0, 420, $S, 56) $pinkTop $pinkBot (& $C $Glow) 1
-Spaced $g "ENTERTAINMENT" 12 498 $S (& $C $Soft) 7
+GlowText $g $PMain $PMainSize (New-Object Drawing.RectangleF 0, 322, $S, 110) $pinkTop $pinkBot (& $C $Glow) 3
+GlowText $g $PSub 40 (New-Object Drawing.RectangleF 0, 420, $S, 56) $pinkTop $pinkBot (& $C $Glow) 1
+Spaced $g $PKick 12 498 $S (& $C $Soft) 7
 $bmp.Save((Join-Path $out "profile_600$sfx.png"), [Drawing.Imaging.ImageFormat]::Png); $g.Dispose(); $bmp.Dispose()
 $map -join " | "
