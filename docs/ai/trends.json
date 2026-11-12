@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-12 22:23",
+ "updated": "2026-11-12 23:23",
  "items": [
   {
-   "kw": "두산 베어스",
+   "kw": "해변",
+   "traffic": "200+",
+   "when": "11월 12일 22:20",
+   "news": [
+    {
+     "title": "베트남 중북부 해변서 50kg 넘는 80년생 바다거북 사체 발견",
+     "url": "https://chaovietnam.co.kr/194199/",
+     "source": "씬짜오베트남"
+    },
+    {
+     "title": "무게가 50kg이 넘는 바다거북 사체가 해안으로 밀려온 채 발견됐다.",
+     "url": "https://www.vietnam.vn/ko/phat-hien-xac-rua-bien-nang-hon-50-kg-troi-dat-vao-bo",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "jyp 엔터테인먼트",
+   "traffic": "200+",
+   "when": "11월 12일 22:00",
+   "news": [
+    {
+     "title": "스트레이키즈가 다했네, JYP",
+     "url": "https://stock.mk.co.kr/news/view/1197127",
+     "source": "매일경제 마켓"
+    },
+    {
+     "title": "JYP Ent., 스트레이키즈 서구권 흥행에 실적 호조…장초반 급등 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/12/2026111209080964631",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "채령",
    "traffic": "100+",
+   "when": "11월 12일 21:50",
+   "news": [
+    {
+     "title": "박성웅, 남다른 ‘부자 애정’ 자랑…“17세 아들과 아직도 입에 뽀뽀해”",
+     "url": "https://www.sedaily.com/article/20112937",
+     "source": "서울경제"
+    },
+    {
+     "title": "박성웅, 채령 애교에 무장해제…“내가?” 하더니 춤 연습",
+     "url": "https://sports.donga.com/ent/article/all/20261112/135012068/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "kw": "김태규",
+   "traffic": "200+",
+   "when": "11월 12일 21:40",
+   "news": [
+    {
+     "title": "조정식, 조작기소 특검법 논란에 “법적문제 없다”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261112/135010387/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "[오늘 여의도] “법원도 공범될 것”",
+     "url": "https://www.kyeongin.com/article/1774642",
+     "source": "경인일보"
+    }
+   ]
+  },
+  {
+   "kw": "폭설",
+   "traffic": "100+",
+   "when": "11월 12일 21:40",
+   "news": [
+    {
+     "title": "[Y현장] '폭설' 김윤석·구교환 \"영화 최대 무기는 나약하지만 강한 인간의 모습\"",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611121657078534",
+     "source": "YTN"
+    },
+    {
+     "title": "패셔니스타는 달라 고경표,’찢어진 곳이 더 많은 청바지’ [O! STAR 숏폼]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/12/GQ3TEMLGMEZWGZRRGM3TONJUGQ/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "두산 베어스",
+   "traffic": "200+",
    "when": "11월 12일 21:20",
    "news": [
     {
@@ -36,8 +121,25 @@
    ]
   },
   {
+   "kw": "남대문시장",
+   "traffic": "2000+",
+   "when": "11월 12일 20:50",
+   "news": [
+    {
+     "title": "“어울리지도 않아. 선물이나 해”…‘남대문 임영웅’ 스카프 아저씨 인기몰이에 옆집 사장님도 웃었다｜TV 출연하자 시청률↑ [씬속뉴스]",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261111152858fT6",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "“과소비 절대 금지” 외쳐도, ‘스카프 아저씨’ 온라인몰 품절대란",
+     "url": "https://weekly.khan.co.kr/article/202611121906001",
+     "source": "주간경향"
+    }
+   ]
+  },
+  {
    "kw": "신주아",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 12일 20:50",
    "news": [
     {
@@ -53,121 +155,19 @@
    ]
   },
   {
-   "kw": "신안산선",
-   "traffic": "200+",
-   "when": "11월 12일 20:40",
-   "news": [
-    {
-     "title": "태백시, 철도망 국가계획 반영 총력…시민 설문 참여 요청",
-     "url": "https://www.yna.co.kr/view/AKR20261112171600062",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "이재준 수원시장 \"경기남부광역철도·신분당선 연장, 시민 참여 절실\" - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/policy/2026/11/12/2026111217132566374",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
    "kw": "항공사",
    "traffic": "200+",
    "when": "11월 12일 20:40",
    "news": [
     {
-     "title": "아시아나항공, 3분기 영업손실 1,790억원…적자 지속",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112180246PVF",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "아시아나항공, 3Q 환율 효과에 순이익 흑자 전환…고유가로 적자 지속",
-     "url": "https://m.ekn.kr/view.php?key=20261112027349018",
-     "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "공항철도 파업",
-   "traffic": "1000+",
-   "when": "11월 12일 20:40",
-   "news": [
-    {
-     "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
-     "url": "https://www.kmib.co.kr/article/20261112501567",
-     "source": "국민일보"
-    },
-    {
-     "title": "철도노조 “12월 10일부터 총파업”…인력 충원 등 요구",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8709898",
+     "title": "진에어-에어서울-에어부산 내년 3월 17일 통합 LCC 출범",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8711087",
      "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "천위페이",
-   "traffic": "2000+",
-   "when": "11월 12일 20:10",
-   "news": [
-    {
-     "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O",
-     "source": "머니투데이"
     },
     {
-     "title": "'안세영 천적이라고 하지 마세요' 세계 36위 상대 '진땀승'→간신히 8강 진출…中 천위페이, AN과 격차 점점 벌어진다",
-     "url": "https://www.xportsnews.com/article/2218686",
-     "source": "엑스포츠뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "조희대",
-   "traffic": "1000+",
-   "when": "11월 12일 20:00",
-   "news": [
-    {
-     "title": "[단독] \"한덕수 석방 땐 재판 차질 우려\"…이진관 재판부에 ‘의견서’",
-     "url": "https://news.jtbc.co.kr/article/NB12327837",
-     "source": "JTBC"
-    },
-    {
-     "title": "우원식, 한덕수 석방 관측에 “풀려난다면 국민들이 조희대 대법원의 책임 물을 것”",
-     "url": "https://www.khan.co.kr/article/202611120930001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "원자력 잠수함",
-   "traffic": "500+",
-   "when": "11월 12일 20:00",
-   "news": [
-    {
-     "title": "日, 안보 전략에 '핵추진잠수함 검토 가능' 명기 방안 부상(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261111130751073",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "일 ‘핵반입 금지 예외’ 검토에 피폭자들 반발…“비핵 원칙 훼손 말라”",
-     "url": "https://www.khan.co.kr/article/202611121556011",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "nol",
-   "traffic": "500+",
-   "when": "11월 12일 19:50",
-   "news": [
-    {
-     "title": "Dubai students can soon use Nol cards for online, in-store shopping across GCC",
-     "url": "https://www.khaleejtimes.com/uae/transport/dubai-nol-student-card-upgrades-50-percent-discount-online-in-store-payment",
-     "source": "Khaleej Times"
-    },
-    {
-     "title": "RTA, Al Etihad Payments sign strategic agreement to launch next generation of nol–Jaywan cards",
-     "url": "https://www.wam.ae/en/article/c3347i1-rta-etihad-payments-sign-strategic-agreement",
-     "source": "www.wam.ae"
+     "title": "통합LCC 본사 서울로… `부산 제2허브`는 헛구호",
+     "url": "https://www.busan.com/view/busan/view.php?code=2026111218340009695",
+     "source": "부산일보"
     }
    ]
   }
