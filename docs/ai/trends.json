@@ -1,6 +1,80 @@
 {
- "updated": "2026-11-12 19:55",
+ "updated": "2026-11-12 20:23",
  "items": [
+  {
+   "kw": "부동산",
+   "traffic": "1000+",
+   "when": "11월 12일 19:20",
+   "news": [
+    {
+     "title": "[단독] 이 대통령, 당대표 경험 공유하며 김민석 격려",
+     "url": "https://www.khan.co.kr/article/202611121657011",
+     "source": "경향신문"
+    },
+    {
+     "title": "여당, 종부세 유지 가닥…전월세 등 부동산 민심 악화에 고심",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287090.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "kw": "페드로 아빌라",
+   "traffic": "500+",
+   "when": "11월 12일 19:20",
+   "news": [
+    {
+     "title": "SSG, MLB 출신 강속구 투수 리차드슨 100만 달러에 영입",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8711079",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[공식발표] 54억 화끈하게 질렀다! 폰세 능가 외인+ML 157km 유망주까지 품다…SSG 외국인투수 농사 끝",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/12/MU3DEYLDHA3DKZJYMU3TAZTGGI/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "nepal premier league",
+   "traffic": "200+",
+   "when": "11월 12일 19:10",
+   "news": [
+    {
+     "title": "Sandeep Lamichhane bags six wickets; Pokhara Avengers fold for 132",
+     "url": "https://english.nepalnews.com/s/sports/sandeep-lamichhane-bags-six-wickets-pokhara-avengers-fold-for-132/",
+     "source": "Nepalnews.com"
+    },
+    {
+     "title": "Nepal Premier League Cricket: Two Crucial Matches Today",
+     "url": "https://english.ratopati.com/story/86296/biratnagar-and-karnali-want-to-return-to-winning-ways-pokhara-has-a-chance-to-maintain-the-momentum",
+     "source": "Ratopati"
+    }
+   ]
+  },
+  {
+   "kw": "대구 한국가스공사 대 고양 소노",
+   "traffic": "500+",
+   "when": "11월 12일 19:00",
+   "news": []
+  },
+  {
+   "kw": "캐릭",
+   "traffic": "200+",
+   "when": "11월 12일 19:00",
+   "news": [
+    {
+     "title": "맨유, 포체티노 감독과 '구두 합의'…캐릭 경질 초읽기",
+     "url": "https://www.yna.co.kr/view/AKR20261112012700007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'강등권 추락' 맨유, 사실상 포체티노 차기 사령탑 결정...美축구협회와 접촉",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02653526645645064&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
   {
    "kw": "김민식",
    "traffic": "100+",
@@ -20,13 +94,13 @@
   },
   {
    "kw": "박충권",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 12일 18:10",
    "news": [
     {
-     "title": "정동영에 “북동영” 했다가…“탈충권” 역공 당한 박충권 [이런뉴스]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711136",
-     "source": "KBS 뉴스"
+     "title": "박충권, 정동영 향해 \"북동영\" 부르자 與 \"탈충권\" 맞불",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865148_36911.html",
+     "source": "MBC 뉴스"
     },
     {
      "title": "탈북단체 \"통일부 '북향민' 호칭, 탈북민 정체성 부정\"(종합)",
@@ -37,7 +111,7 @@
   },
   {
    "kw": "한강 벨트",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 12일 17:50",
    "news": [
     {
@@ -54,7 +128,7 @@
   },
   {
    "kw": "성시경 콘서트",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 12일 17:40",
    "news": [
     {
@@ -83,86 +157,6 @@
      "title": "악화된 여론에 돌아선 광고주…방송사도 외면하는 축구 국가대표팀",
      "url": "https://www.newsis.com/view/NISX20261111_0003863106",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "인벤",
-   "traffic": "100+",
-   "when": "11월 12일 17:30",
-   "news": [
-    {
-     "title": "Lost Ark celebrates 8th anniversary with spooky event island",
-     "url": "https://www.gamemeca.com/en/view.php?gid=1782950",
-     "source": "게임메카"
-    }
-   ]
-  },
-  {
-   "kw": "035420",
-   "traffic": "200+",
-   "when": "11월 12일 17:20",
-   "news": [
-    {
-     "title": "Naver's Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
-     "url": "https://www.mt.co.kr/en/tech/2026/11/12/2026111215474393674",
-     "source": "머니투데이"
-    },
-    {
-     "title": "Naver Invests 1 Trillion Won in Logistics Subsidiary to Rival Coupang",
-     "url": "https://www.chosun.com/english/industry-en/2026/11/12/WOYGY5QMONELFDD6RVYNLIY34Y/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "pakistan vs sri lanka",
-   "traffic": "200+",
-   "when": "11월 12일 17:20",
-   "news": [
-    {
-     "title": "Saqib's 7-wicket total on debut holds Sri Lanka to a slender 1st-innings lead vs Pakistan",
-     "url": "https://www.foxsports.com/articles/soccer/saqibs-7wicket-total-on-debut-holds-sri-lanka-to-a-slender-1stinnings-lead-vs-pakistan",
-     "source": "FOX Sports"
-    },
-    {
-     "title": "De Silva, Kamindu fifties guide Sri Lanka to 221-4 in first Test",
-     "url": "https://www.afp.com/en/de-silva-kamindu-fifties-guide-sri-lanka-221-4-first-test",
-     "source": "AFP.com"
-    }
-   ]
-  },
-  {
-   "kw": "이부진",
-   "traffic": "500+",
-   "when": "11월 12일 16:40",
-   "news": [
-    {
-     "title": "루이뷔통 회장 딸 학위식에 정의선, 신동빈, 지수…이부진은 ‘손하트’",
-     "url": "https://www.donga.com/news/Economy/article/all/20261112/135014460/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "이부진은 ‘3년 전 그 재킷’, 지수는 ‘레이디 디올’… 디올 패션도 화제",
-     "url": "https://biz.chosun.com/distribution/fashion-beauty/2026/11/12/JIUSC4EBL5CRHDZDBBHLYNCH7Y/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "김승우",
-   "traffic": "2000+",
-   "when": "11월 12일 16:20",
-   "news": [
-    {
-     "title": "배우 김승우, 2200만 원 절도 혐의 피소…김승우 측 “장난이었고 이미 반환” 반박",
-     "url": "https://sports.khan.co.kr/article/202611121538003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "김승우, 지인 돈 2200만원 놓고 진실 공방…새 예능에도 불똥 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/12/2026111218193054820",
-     "source": "머니투데이"
     }
    ]
   }
