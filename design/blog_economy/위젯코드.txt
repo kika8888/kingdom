@@ -1,0 +1,7 @@
+<img src="https://kingdom.papalaqi.com/blogmenu/economy_menu.png" width="170" height="400" usemap="#ecomenu" border="0" alt="살림 경제 노트 메뉴">
+<map name="ecomenu">
+<area shape="rect" coords="14,110,156,174" href="https://blog.naver.com/PostSearchList.naver?blogId=새아이디&amp;orderType=sim&amp;searchText=%EA%BF%80%ED%8C%81" target="_top" alt="생활 꿀팁">
+<area shape="rect" coords="14,182,156,246" href="https://blog.naver.com/PostSearchList.naver?blogId=새아이디&amp;orderType=sim&amp;searchText=%EC%A7%80%EC%9B%90%EA%B8%88" target="_top" alt="지원금·정책">
+<area shape="rect" coords="14,254,156,318" href="https://blog.naver.com/PostSearchList.naver?blogId=새아이디&amp;orderType=sim&amp;searchText=%EA%B8%88%EB%A6%AC" target="_top" alt="재테크·금리">
+<area shape="rect" coords="14,326,156,390" href="https://blog.naver.com/PostSearchList.naver?blogId=새아이디&amp;orderType=sim&amp;searchText=%ED%95%A0%EC%9D%B8" target="_top" alt="절약·할인">
+</map>
