@@ -1,9 +1,89 @@
 {
- "updated": "2026-11-12 18:23",
+ "updated": "2026-11-12 19:23",
  "items": [
   {
-   "kw": "035420",
+   "kw": "박충권",
+   "traffic": "200+",
+   "when": "11월 12일 18:10",
+   "news": [
+    {
+     "title": "정동영에 “북동영” 했다가…“탈충권” 역공 당한 박충권 [이런뉴스]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711136",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "“북동영““탈충권“ 고성 충돌…’북향민’ 용어 대립",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112184212hsa",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "한강 벨트",
+   "traffic": "200+",
+   "when": "11월 12일 17:50",
+   "news": [
+    {
+     "title": "\"강남만 떨어지는 줄 알았는데\"…'이 동네'마저 집값 꺾였다",
+     "url": "https://www.hankyung.com/article/202611122916i",
+     "source": "한국경제"
+    },
+    {
+     "title": "강남발 집값 약세 한강벨트로…성동·강동 하락 전환",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112183935Q4k",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "성시경 콘서트",
    "traffic": "100+",
+   "when": "11월 12일 17:40",
+   "news": [
+    {
+     "title": "[단독] 성시경 막걸리, 세븐일레븐에 입점한다",
+     "url": "https://v.daum.net/v/8EZ9MejJcc",
+     "source": "Daum"
+    },
+    {
+     "title": "이번에도 '피켓팅'?! 성시경, 두근두근 연말 콘서트",
+     "url": "https://www.etnews.com/20261112000044",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "국제 a 매치",
+   "traffic": "1000+",
+   "when": "11월 12일 17:30",
+   "news": [
+    {
+     "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
+     "url": "https://www.khan.co.kr/article/202611112246001",
+     "source": "경향신문"
+    },
+    {
+     "title": "악화된 여론에 돌아선 광고주…방송사도 외면하는 축구 국가대표팀",
+     "url": "https://www.newsis.com/view/NISX20261111_0003863106",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "인벤",
+   "traffic": "100+",
+   "when": "11월 12일 17:30",
+   "news": [
+    {
+     "title": "Lost Ark celebrates 8th anniversary with spooky event island",
+     "url": "https://www.gamemeca.com/en/view.php?gid=1782950",
+     "source": "게임메카"
+    }
+   ]
+  },
+  {
+   "kw": "035420",
+   "traffic": "200+",
    "when": "11월 12일 17:20",
    "news": [
     {
@@ -37,7 +117,7 @@
   },
   {
    "kw": "이부진",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 12일 16:40",
    "news": [
     {
@@ -46,32 +126,15 @@
      "source": "Chosunbiz"
     },
     {
-     "title": "이부진, 3년 전과 같은 ‘디올’ 재킷 입고…손하트 날렸다",
-     "url": "https://www.donga.com/news/Economy/article/all/20261112/135016357/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "남대문 스카프 아저씨!",
-   "traffic": "1000+",
-   "when": "11월 12일 16:20",
-   "news": [
-    {
-     "title": "경찰 출동에 경호원까지…‘남대문 임영웅’ 뭐길래, 유명 여배우도 찾아갔다",
-     "url": "https://www.mk.co.kr/news/hot-issues/12204120",
-     "source": "매일경제"
-    },
-    {
-     "title": "남대문 스카프 아저씨, 또 대박…온라인몰 열자마자 ‘품절 대란’",
-     "url": "https://news.jtbc.co.kr/article/NB12327749",
-     "source": "JTBC"
+     "title": "이대 명예박사 된 디올 CEO…재계 인사 총출동",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112183333HxM",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "kw": "김승우",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 12일 16:20",
    "news": [
     {
@@ -80,9 +143,9 @@
      "source": "조선일보"
     },
     {
-     "title": "[단독] 술자리 중 지갑에서 쓱? 배우 김승우 ‘절도 혐의’ 피소",
-     "url": "https://www.ilyo.co.kr/?ac=article_view&entry_id=513574",
-     "source": "일요신문"
+     "title": "배우 김승우, 2200만원 절도 혐의 피소…“술자리 장난이었다”",
+     "url": "https://www.donga.com/news/Society/article/all/20261112/135016521/2",
+     "source": "동아일보"
     }
    ]
   },
@@ -100,74 +163,6 @@
      "title": "모르간스탠리, 아르헨티나 국채 매도세는 과도하다… 2027년 대선 이후 전망의 명암 : 남미동아뉴스 ; Paraguay Times",
      "url": "https://newsk.net/py/?idx=175597117&bmode=view",
      "source": "뉴스케이"
-    }
-   ]
-  },
-  {
-   "kw": "방화",
-   "traffic": "1000+",
-   "when": "11월 12일 16:00",
-   "news": [
-    {
-     "title": "'인천 송도 영어유치원 앞 방화' 60대, 구속심사 출석",
-     "url": "https://www.yna.co.kr/view/AKR20261112106200065",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "인천 송도 영어유치원 방화 60대 남성 영장심사…구속 갈림길",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112154618qE0",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "근로장려금",
-   "traffic": "1000+",
-   "when": "11월 12일 15:30",
-   "news": [
-    {
-     "title": "자녀장려금 놓쳤다면 12월 1일까지 기한 후 신청, 산정액 95% 지급",
-     "url": "https://www.ibabynews.com/contents/child-tax-credit-late-apply-dec1",
-     "source": "베이비뉴스"
-    },
-    {
-     "title": "5년간 ‘5조’ 드는 근로장려금 확대안…“최저소득층 외면·재정 부담” 경고",
-     "url": "https://www.sejungilbo.com/news/articleView.html?idxno=61024",
-     "source": "세정일보"
-    }
-   ]
-  },
-  {
-   "kw": "박희승",
-   "traffic": "200+",
-   "when": "11월 12일 15:30",
-   "news": [
-    {
-     "title": "‘조희대 탄핵’ 강성 지지층에…與박희승 “후진국에서나 하는 일”",
-     "url": "https://www.chosun.com/politics/assembly/2026/11/12/L7XCXFNZHBE6FA5LMBNJRPMHZE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "한덕수 석방 가능성에‥민주 \"좌시 않아\" 혁신당 \"즉각 탄핵\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6865090_36911.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "에버랜드",
-   "traffic": "200+",
-   "when": "11월 12일 15:30",
-   "news": [
-    {
-     "title": "[속보] \"이재명 아들 군 면제\" 허위글 이수정, 2심도 피선거권 박탈형",
-     "url": "https://news.jtbc.co.kr/article/NB12327771",
-     "source": "JTBC"
-    },
-    {
-     "title": "[단독]\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
-     "url": "https://www.news1.kr/industry/general-industry/6352149",
-     "source": "뉴스1"
     }
    ]
   }
