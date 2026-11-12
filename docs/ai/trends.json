@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-12 19:23",
+ "updated": "2026-11-12 19:55",
  "items": [
+  {
+   "kw": "김민식",
+   "traffic": "100+",
+   "when": "11월 12일 18:50",
+   "news": [
+    {
+     "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "프로야구 SSG랜더스, 선수 및 코칭스태프 추가 재정비…재계약 불가 통보",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040763",
+     "source": "기호일보"
+    }
+   ]
+  },
   {
    "kw": "박충권",
    "traffic": "200+",
@@ -12,9 +29,9 @@
      "source": "KBS 뉴스"
     },
     {
-     "title": "“북동영““탈충권“ 고성 충돌…’북향민’ 용어 대립",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112184212hsa",
-     "source": "연합뉴스TV"
+     "title": "탈북단체 \"통일부 '북향민' 호칭, 탈북민 정체성 부정\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261112058551504",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -24,20 +41,20 @@
    "when": "11월 12일 17:50",
    "news": [
     {
+     "title": "서울 아파트값 92주 연속 상승… 성동·강동구 하락 전환",
+     "url": "https://www.donga.com/news/Economy/article/all/20261112/135013768/1",
+     "source": "동아일보"
+    },
+    {
      "title": "\"강남만 떨어지는 줄 알았는데\"…'이 동네'마저 집값 꺾였다",
      "url": "https://www.hankyung.com/article/202611122916i",
      "source": "한국경제"
-    },
-    {
-     "title": "강남발 집값 약세 한강벨트로…성동·강동 하락 전환",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112183935Q4k",
-     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "kw": "성시경 콘서트",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 12일 17:40",
    "news": [
     {
@@ -100,7 +117,7 @@
   },
   {
    "kw": "pakistan vs sri lanka",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 12일 17:20",
    "news": [
     {
@@ -121,48 +138,31 @@
    "when": "11월 12일 16:40",
    "news": [
     {
+     "title": "루이뷔통 회장 딸 학위식에 정의선, 신동빈, 지수…이부진은 ‘손하트’",
+     "url": "https://www.donga.com/news/Economy/article/all/20261112/135014460/1",
+     "source": "동아일보"
+    },
+    {
      "title": "이부진은 ‘3년 전 그 재킷’, 지수는 ‘레이디 디올’… 디올 패션도 화제",
      "url": "https://biz.chosun.com/distribution/fashion-beauty/2026/11/12/JIUSC4EBL5CRHDZDBBHLYNCH7Y/",
      "source": "Chosunbiz"
-    },
-    {
-     "title": "이대 명예박사 된 디올 CEO…재계 인사 총출동",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112183333HxM",
-     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "kw": "김승우",
-   "traffic": "500+",
+   "traffic": "2000+",
    "when": "11월 12일 16:20",
    "news": [
     {
-     "title": "배우 김승우 2200만원 절도 혐의로 고소당해...경찰 수사 중",
-     "url": "https://www.chosun.com/national/national_general/2026/11/12/J4R4ZLVOVFGRLLGUVLXBLJIHFA/",
-     "source": "조선일보"
+     "title": "배우 김승우, 2200만 원 절도 혐의 피소…김승우 측 “장난이었고 이미 반환” 반박",
+     "url": "https://sports.khan.co.kr/article/202611121538003",
+     "source": "스포츠경향"
     },
     {
-     "title": "배우 김승우, 2200만원 절도 혐의 피소…“술자리 장난이었다”",
-     "url": "https://www.donga.com/news/Society/article/all/20261112/135016521/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "아르헨티나",
-   "traffic": "200+",
-   "when": "11월 12일 16:20",
-   "news": [
-    {
-     "title": "두 개의 아르헨티나: 유전 대박과 실직한 가장들[딥다이브]",
-     "url": "https://www.donga.com/news/Economy/article/all/20261111/135005560/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "모르간스탠리, 아르헨티나 국채 매도세는 과도하다… 2027년 대선 이후 전망의 명암 : 남미동아뉴스 ; Paraguay Times",
-     "url": "https://newsk.net/py/?idx=175597117&bmode=view",
-     "source": "뉴스케이"
+     "title": "김승우, 지인 돈 2200만원 놓고 진실 공방…새 예능에도 불똥 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/12/2026111218193054820",
+     "source": "머니투데이"
     }
    ]
   }
