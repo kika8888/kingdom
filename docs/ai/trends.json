@@ -1,37 +1,105 @@
 {
- "updated": "2026-11-12 23:23",
+ "updated": "2026-11-13 00:23",
  "items": [
   {
-   "kw": "해변",
+   "kw": "토스증권",
+   "traffic": "500+",
+   "when": "11월 12일 23:10",
+   "news": [
+    {
+     "title": "폭증하는 AI칩 전력·발열…반도체에 ‘물길’ 내 잡는다",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/11/OOITYHJNWVBULADP4K6TTQK5NU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "“AI 돈맥 어디로 흐르나”…5개국 발로 뛴 토스증권, 투자 지도 그렸다",
+     "url": "https://stock.mk.co.kr/news/view/1196929",
+     "source": "매일경제 마켓"
+    }
+   ]
+  },
+  {
+   "kw": "amd 주가",
    "traffic": "200+",
+   "when": "11월 12일 23:10",
+   "news": [
+    {
+     "title": "AMD, AI 데이터센터 투자 기대에 강세… 서버용 CPU 수요까지 주목",
+     "url": "http://www.jemin.com/news/articleView.html?idxno=847098",
+     "source": "제민일보"
+    },
+    {
+     "title": "얼라인테크놀로지 주가가 급등한 이유는?",
+     "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2171130",
+     "source": "Investing.com 한국어"
+    }
+   ]
+  },
+  {
+   "kw": "해변",
+   "traffic": "500+",
    "when": "11월 12일 22:20",
    "news": [
     {
-     "title": "베트남 중북부 해변서 50kg 넘는 80년생 바다거북 사체 발견",
-     "url": "https://chaovietnam.co.kr/194199/",
-     "source": "씬짜오베트남"
+     "title": "강화군, 당일치기 여행지에서 머무는 여행지로…'하룻밤 더' 체류형 관광 순항",
+     "url": "https://www.yna.co.kr/view/RPR20261112006200353",
+     "source": "연합뉴스"
     },
     {
-     "title": "무게가 50kg이 넘는 바다거북 사체가 해안으로 밀려온 채 발견됐다.",
-     "url": "https://www.vietnam.vn/ko/phat-hien-xac-rua-bien-nang-hon-50-kg-troi-dat-vao-bo",
-     "source": "Vietnam.vn"
+     "title": "'2026 강화 로컬 비즈니스 토크 콘서트' 1회차 개최…청년 창업자 50여 명 참석",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3750073",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "왕즈이",
+   "traffic": "5000+",
+   "when": "11월 12일 22:00",
+   "news": [
+    {
+     "title": "'안세영 천적이라고 하지 마세요' 세계 36위 상대 '진땀승'→간신히 8강 진출…中 천위페이, AN과 격차 점점 벌어진다",
+     "url": "https://www.xportsnews.com/article/2218686",
+     "source": "엑스포츠뉴스"
+    },
+    {
+     "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "jyp 엔터테인먼트",
-   "traffic": "200+",
+   "traffic": "100+",
    "when": "11월 12일 22:00",
    "news": [
     {
-     "title": "스트레이키즈가 다했네, JYP",
-     "url": "https://stock.mk.co.kr/news/view/1197127",
-     "source": "매일경제 마켓"
+     "title": "JYP 신인 보이그룹 '오브더블루', 내년 1월 11일 미니 1집으로 정식 데뷔 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/12/2026111217550540353",
+     "source": "머니투데이"
     },
     {
-     "title": "JYP Ent., 스트레이키즈 서구권 흥행에 실적 호조…장초반 급등 - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/12/2026111209080964631",
-     "source": "머니투데이"
+     "title": "오브더블루, 베일 벗은 JYP 신인..2027 데뷔 전 선공개곡 깜짝 발매",
+     "url": "https://www.osen.co.kr/article/G1112908113",
+     "source": "OSEN"
+    }
+   ]
+  },
+  {
+   "kw": "학대",
+   "traffic": "100+",
+   "when": "11월 12일 21:50",
+   "news": [
+    {
+     "title": "\"학대냐 아니냐\" 불붙은 논란‥'어둠의 오은영' 이제 못 보나",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865252_37004.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "아동학대 논란 휩싸인 민속촌 귀신…“웃는다고 괜찮은 건 아냐” 세계의 ‘공포 훈육’ 돌아보니 [이윤정 기자의 소소월드]",
+     "url": "https://www.khan.co.kr/article/202611121023001",
+     "source": "경향신문"
     }
    ]
   },
@@ -54,7 +122,7 @@
   },
   {
    "kw": "김태규",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 12일 21:40",
    "news": [
     {
@@ -81,8 +149,8 @@
     },
     {
      "title": "패셔니스타는 달라 고경표,’찢어진 곳이 더 많은 청바지’ [O! STAR 숏폼]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/12/GQ3TEMLGMEZWGZRRGM3TONJUGQ/",
-     "source": "Chosunbiz"
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/12/ME2GENBQMZRWEOBVGFSDINRTGQ/",
+     "source": "조선일보"
     }
    ]
   },
@@ -93,81 +161,13 @@
    "news": [
     {
      "title": "두산 신인 김지우, 이진영 코치도 칭찬…“파워·기술 겸비”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8711118",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711118",
      "source": "KBS 뉴스"
     },
     {
      "title": "와 '얼굴 다친 것도 아닌데' 마스크 쓰고 타구에 돌진이라니... 코칭스태프는 \"의욕과 투지 느껴진다\" 기대감↑ - 머니투데이",
      "url": "https://www.mt.co.kr/sports/2026/11/11/2026111109044572315",
      "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "원태인",
-   "traffic": "2000+",
-   "when": "11월 12일 21:10",
-   "news": [
-    {
-     "title": "[단독]\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
-     "url": "https://www.news1.kr/industry/general-industry/6352149",
-     "source": "뉴스1"
-    },
-    {
-     "title": "에버랜드, 삼성라이온즈 우승 기념 팬 초청 행사…2000명과 'V9 데이트'",
-     "url": "https://www.etnews.com/20261112000325",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "남대문시장",
-   "traffic": "2000+",
-   "when": "11월 12일 20:50",
-   "news": [
-    {
-     "title": "“어울리지도 않아. 선물이나 해”…‘남대문 임영웅’ 스카프 아저씨 인기몰이에 옆집 사장님도 웃었다｜TV 출연하자 시청률↑ [씬속뉴스]",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261111152858fT6",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "“과소비 절대 금지” 외쳐도, ‘스카프 아저씨’ 온라인몰 품절대란",
-     "url": "https://weekly.khan.co.kr/article/202611121906001",
-     "source": "주간경향"
-    }
-   ]
-  },
-  {
-   "kw": "신주아",
-   "traffic": "200+",
-   "when": "11월 12일 20:50",
-   "news": [
-    {
-     "title": "신주아, 남편 재벌설엔 선 그었는데…류화영 결혼식 참석 후 ‘사모님 화보’ [Oh!쎈 이슈]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/11/GI2TAM3CG5QTKN3BGQZDSMLFMQ/",
-     "source": "조선일보"
-    },
-    {
-     "title": "신주아, 1년째 안 보이는 ♥태국재벌 남편..궁궐 같은 저택에 반려견뿐 [핫피플]",
-     "url": "https://www.koreadaily.com/article/20261110154628024",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "항공사",
-   "traffic": "200+",
-   "when": "11월 12일 20:40",
-   "news": [
-    {
-     "title": "진에어-에어서울-에어부산 내년 3월 17일 통합 LCC 출범",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8711087",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "통합LCC 본사 서울로… `부산 제2허브`는 헛구호",
-     "url": "https://www.busan.com/view/busan/view.php?code=2026111218340009695",
-     "source": "부산일보"
     }
    ]
   }
