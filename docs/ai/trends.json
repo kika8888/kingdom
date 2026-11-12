@@ -1,9 +1,111 @@
 {
- "updated": "2026-11-12 20:23",
+ "updated": "2026-11-12 21:23",
  "items": [
   {
-   "kw": "부동산",
+   "kw": "천위페이",
    "traffic": "1000+",
+   "when": "11월 12일 20:10",
+   "news": [
+    {
+     "title": "'안세영 천적이라고 하지 마세요' 세계 36위 상대 '진땀승'→간신히 8강 진출…中 천위페이, AN과 격차 점점 벌어진다",
+     "url": "https://www.xportsnews.com/article/2218686",
+     "source": "엑스포츠뉴스"
+    },
+    {
+     "title": "'71승 1패' 안세영 유일한 패배 안긴 선수인데...中 왕즈이, 이래서 '8개월 무관' 끊겠나? 세계 25위 상대 진땀승→8강 진출 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/12/202611121734779265O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "지하철 파업",
+   "traffic": "1000+",
+   "when": "11월 12일 20:10",
+   "news": [
+    {
+     "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
+     "url": "https://www.kmib.co.kr/article/20261112501567",
+     "source": "국민일보"
+    },
+    {
+     "title": "철도노조 “12월 10일부터 총파업”…인력 충원 등 요구",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8709898",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "조희대",
+   "traffic": "500+",
+   "when": "11월 12일 20:00",
+   "news": [
+    {
+     "title": "[단독] \"한덕수 석방 땐 재판 차질 우려\"…이진관 재판부에 ‘의견서’",
+     "url": "https://news.jtbc.co.kr/article/NB12327837",
+     "source": "JTBC"
+    },
+    {
+     "title": "법원행정처장, ‘한덕수 석방시 조희대 탄핵’ 與 주장에 “부적절”",
+     "url": "https://www.donga.com/news/Society/article/all/20261112/135017324/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "원자력 잠수함",
+   "traffic": "200+",
+   "when": "11월 12일 20:00",
+   "news": [
+    {
+     "title": "日, 안보 전략에 '핵추진잠수함 검토 가능' 명기 방안 부상(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261111130751073",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "일 ‘핵반입 금지 예외’ 검토에 피폭자들 반발…“비핵 원칙 훼손 말라”",
+     "url": "https://www.khan.co.kr/article/202611121556011",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "nol",
+   "traffic": "500+",
+   "when": "11월 12일 19:50",
+   "news": [
+    {
+     "title": "Dubai students can soon use Nol cards for online, in-store shopping across GCC",
+     "url": "https://www.khaleejtimes.com/uae/transport/dubai-nol-student-card-upgrades-50-percent-discount-online-in-store-payment",
+     "source": "Khaleej Times"
+    },
+    {
+     "title": "RTA, Al Etihad Payments sign strategic agreement to launch next generation of nol–Jaywan cards",
+     "url": "https://www.wam.ae/en/article/c3347i1-rta-etihad-payments-sign-strategic-agreement",
+     "source": "www.wam.ae"
+    }
+   ]
+  },
+  {
+   "kw": "백승호",
+   "traffic": "100+",
+   "when": "11월 12일 19:40",
+   "news": [
+    {
+     "title": "'韓 초대박 경사' 터질까, 한국인 16호 프리미어리거는 백승호? '1위 질주' 버밍엄 \"꿈의 무대 EPL 복귀 예상\"",
+     "url": "https://www.sportschosun.com/football/2026-11-11/202611110100078270007276",
+     "source": "스포츠조선"
+    },
+    {
+     "title": "모레노호 '호재'… 드디어 긴 부상 털고 복귀한 한국 선수",
+     "url": "https://www.wikitree.co.kr/articles/1172444",
+     "source": "위키트리"
+    }
+   ]
+  },
+  {
+   "kw": "부동산",
+   "traffic": "2000+",
    "when": "11월 12일 19:20",
    "news": [
     {
@@ -12,9 +114,9 @@
      "source": "경향신문"
     },
     {
-     "title": "여당, 종부세 유지 가닥…전월세 등 부동산 민심 악화에 고심",
-     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287090.html",
-     "source": "한겨레"
+     "title": "당청 ’한목소리’에도 종부세 이견…金·鄭 ’대화중재’도 파열음",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261112205932itn",
+     "source": "연합뉴스TV"
     }
    ]
   },
@@ -36,66 +138,9 @@
    ]
   },
   {
-   "kw": "nepal premier league",
-   "traffic": "200+",
-   "when": "11월 12일 19:10",
-   "news": [
-    {
-     "title": "Sandeep Lamichhane bags six wickets; Pokhara Avengers fold for 132",
-     "url": "https://english.nepalnews.com/s/sports/sandeep-lamichhane-bags-six-wickets-pokhara-avengers-fold-for-132/",
-     "source": "Nepalnews.com"
-    },
-    {
-     "title": "Nepal Premier League Cricket: Two Crucial Matches Today",
-     "url": "https://english.ratopati.com/story/86296/biratnagar-and-karnali-want-to-return-to-winning-ways-pokhara-has-a-chance-to-maintain-the-momentum",
-     "source": "Ratopati"
-    }
-   ]
-  },
-  {
-   "kw": "대구 한국가스공사 대 고양 소노",
+   "kw": "정동영",
    "traffic": "500+",
-   "when": "11월 12일 19:00",
-   "news": []
-  },
-  {
-   "kw": "캐릭",
-   "traffic": "200+",
-   "when": "11월 12일 19:00",
-   "news": [
-    {
-     "title": "맨유, 포체티노 감독과 '구두 합의'…캐릭 경질 초읽기",
-     "url": "https://www.yna.co.kr/view/AKR20261112012700007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'강등권 추락' 맨유, 사실상 포체티노 차기 사령탑 결정...美축구협회와 접촉",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=02653526645645064&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "김민식",
-   "traffic": "100+",
-   "when": "11월 12일 18:50",
-   "news": [
-    {
-     "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "프로야구 SSG랜더스, 선수 및 코칭스태프 추가 재정비…재계약 불가 통보",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040763",
-     "source": "기호일보"
-    }
-   ]
-  },
-  {
-   "kw": "박충권",
-   "traffic": "500+",
-   "when": "11월 12일 18:10",
+   "when": "11월 12일 19:20",
    "news": [
     {
      "title": "박충권, 정동영 향해 \"북동영\" 부르자 與 \"탈충권\" 맞불",
@@ -110,53 +155,19 @@
    ]
   },
   {
-   "kw": "한강 벨트",
-   "traffic": "500+",
-   "when": "11월 12일 17:50",
+   "kw": "나경원",
+   "traffic": "100+",
+   "when": "11월 12일 19:10",
    "news": [
     {
-     "title": "서울 아파트값 92주 연속 상승… 성동·강동구 하락 전환",
-     "url": "https://www.donga.com/news/Economy/article/all/20261112/135013768/1",
-     "source": "동아일보"
+     "title": "나경원 \"당나라 군대냐\" 지적에 강신철 \"말씀 취소하라\" 반발",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865059_36911.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "\"강남만 떨어지는 줄 알았는데\"…'이 동네'마저 집값 꺾였다",
-     "url": "https://www.hankyung.com/article/202611122916i",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "성시경 콘서트",
-   "traffic": "500+",
-   "when": "11월 12일 17:40",
-   "news": [
-    {
-     "title": "[단독] 성시경 막걸리, 세븐일레븐에 입점한다",
-     "url": "https://v.daum.net/v/8EZ9MejJcc",
-     "source": "Daum"
-    },
-    {
-     "title": "이번에도 '피켓팅'?! 성시경, 두근두근 연말 콘서트",
-     "url": "https://www.etnews.com/20261112000044",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "국제 a 매치",
-   "traffic": "1000+",
-   "when": "11월 12일 17:30",
-   "news": [
-    {
-     "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
-     "url": "https://www.khan.co.kr/article/202611112246001",
-     "source": "경향신문"
-    },
-    {
-     "title": "악화된 여론에 돌아선 광고주…방송사도 외면하는 축구 국가대표팀",
-     "url": "https://www.newsis.com/view/NISX20261111_0003863106",
-     "source": "뉴시스"
+     "title": "나경원 \"당나라 군대냐\"…국방부 장관 \"취소해달라\" 발끈 [소셜픽]",
+     "url": "https://news.jtbc.co.kr/article/NB12327681",
+     "source": "JTBC"
     }
    ]
   }
