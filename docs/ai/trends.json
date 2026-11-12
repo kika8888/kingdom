@@ -1,26 +1,111 @@
 {
- "updated": "2026-11-12 14:23",
+ "updated": "2026-11-12 15:23",
  "items": [
+  {
+   "kw": "스테픈 커리",
+   "traffic": "100+",
+   "when": "11월 12일 14:10",
+   "news": [
+    {
+     "title": "'커리 부상 악재' NBA 골든스테이트, 휴스턴에 덜미…8연승 마감",
+     "url": "https://www.yna.co.kr/view/AKR20261112119000007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "커리, 복부 통증으로 이탈…골든스테이트, 연승 행진 8연승으로 마감",
+     "url": "https://www.nocutnews.co.kr/news/6605962",
+     "source": "노컷뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "천궁",
+   "traffic": "2000+",
+   "when": "11월 12일 14:00",
+   "news": [
+    {
+     "title": "“한국에 ‘천궁-Ⅱ 값’ 3조원 얼른 줘라”…이라크, 다급히 돈 마련한 이유 [밀리터리+]",
+     "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20261111601017",
+     "source": "나우뉴스"
+    },
+    {
+     "title": "파기 위기 넘긴 천궁-2 계약…이라크 자금 지시로 정상 궤도",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611110618593400fbbec65dfb_1",
+     "source": "글로벌이코노믹"
+    }
+   ]
+  },
+  {
+   "kw": "현대엔지니어링",
+   "traffic": "200+",
+   "when": "11월 12일 14:00",
+   "news": [
+    {
+     "title": "현대ENG 조경 특화 상품 2종, 디자인 어워드 잇단 수상",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865313",
+     "source": "뉴시스"
+    },
+    {
+     "title": "오른디자인·더한크리에이티브·에코피스, 우수디자인 국내·외 '호평'",
+     "url": "https://www.etnews.com/20261111000199",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "sk쉴더스",
+   "traffic": "200+",
+   "when": "11월 12일 13:30",
+   "news": [
+    {
+     "title": "SK쉴더스, 희망퇴직 실시…조직·인력 재정비",
+     "url": "https://www.newsis.com/view/NISX20261111_0003864432",
+     "source": "뉴시스"
+    },
+    {
+     "title": "SK쉴더스 희망퇴직 실시…영업·출동·사이버보안 직군 제외",
+     "url": "https://www.ddaily.co.kr/page/view/2026111114433387778",
+     "source": "디지털데일리"
+    }
+   ]
+  },
+  {
+   "kw": "스타벅스",
+   "traffic": "500+",
+   "when": "11월 12일 13:30",
+   "news": [
+    {
+     "title": "스타벅스, 독립유공자 후손 50명에 장학금 1억원 지원",
+     "url": "https://www.yna.co.kr/view/AKR20261112053500030",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "스타벅스, 독립유공자 후손 대학생 50명에 장학금 총 1억원 전달",
+     "url": "https://www.etnews.com/20261112000154",
+     "source": "전자신문"
+    }
+   ]
+  },
   {
    "kw": "rockets vs warriors",
    "traffic": "100+",
    "when": "11월 12일 13:20",
    "news": [
     {
-     "title": "Stephen Curry exits vs. Rockets, ruled out with abdominal soreness",
-     "url": "https://www.espn.com/nba/story/_/id/50458218/curry-exits-vs-rockets-ruled-abdominal-soreness",
+     "title": "Rockets' Marcus Smart ejected for throwing punch at Warriors' Charles Bassey",
+     "url": "https://www.espn.com/nba/story/_/id/50459125/rockets-marcus-smart-ejected-punch-warriors-bassey",
      "source": "ESPN"
     },
     {
-     "title": "Steph Curry injury update: What we know as Warriors star heads to locker room",
-     "url": "https://sports.yahoo.com/articles/steph-curry-injury-know-warriors-030353082.html",
-     "source": "Yahoo Sports"
+     "title": "Rockets guard Marcus Smart ejected for punching Warriors center Charles Bassey",
+     "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/marcus-smart-punch-charles-bassey/1979354/?partner=yahoo",
+     "source": "NBC Sports Bay Area & California"
     }
    ]
   },
   {
    "kw": "장기 이식",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 12일 13:10",
    "news": [
     {
@@ -29,15 +114,15 @@
      "source": "KBC광주방송"
     },
     {
-     "title": "아내는 끝내 못 받은 이식…남편은 3명 살리고 아내 곁으로 [아살세]",
-     "url": "https://www.kmib.co.kr/article/20261112500603",
-     "source": "국민일보"
+     "title": "폐 이식 기다리다 떠난 아내…남편은 장기기증후 아내 곁으로",
+     "url": "https://www.donga.com/news/Society/article/all/20261112/135012696/2",
+     "source": "동아일보"
     }
    ]
   },
   {
    "kw": "빙하",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 12일 13:00",
    "news": [
     {
@@ -70,25 +155,8 @@
    ]
   },
   {
-   "kw": "장례",
-   "traffic": "2000+",
-   "when": "11월 12일 12:30",
-   "news": [
-    {
-     "title": "죽어서도 자식 부담 주기 싫다…연 5000건 몰린 '이 장례'",
-     "url": "https://www.hankyung.com/article/2026110956691",
-     "source": "한국경제"
-    },
-    {
-     "title": "“무덤 아닌 자연으로” 산분장 3배로 급증… 생전 장례·임종 체험도 확산[Who, What, Why]",
-     "url": "https://www.munhwa.com/article/11630433",
-     "source": "문화일보"
-    }
-   ]
-  },
-  {
    "kw": "이건희",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 12일 12:30",
    "news": [
     {
@@ -100,63 +168,6 @@
      "title": "반도체 호황에 들뜬 삼성에 내린 이건희의 죽비",
      "url": "https://shindonga.donga.com/economy/article/all/13/6452368/1",
      "source": "신동아"
-    }
-   ]
-  },
-  {
-   "kw": "포틀랜드 대 오클라호마시티",
-   "traffic": "200+",
-   "when": "11월 12일 12:30",
-   "news": [
-    {
-     "title": "[오클라호마시티 포틀랜드] 코트 떠나는 길저스-알렉산더",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749104",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "릴라드 25점…포틀랜드, 오클라호마시티 20점 차 완파·4연승 저지",
-     "url": "https://www.etoday.co.kr/news/view/2647239?trc=main_list_news",
-     "source": "이투데이"
-    }
-   ]
-  },
-  {
-   "kw": "200만달러",
-   "traffic": "200+",
-   "when": "11월 12일 12:30",
-   "news": [
-    {
-     "title": "LG 오스틴 딘, 200만 달러에 2027시즌 재계약...외국인 타자 역대 최고액",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/12/3CYCKO276ZDUBPAVZ2BOPYM2VU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "프로야구 LG, 오스틴 딘과 재계약‥역대 외국인 타자 최고 연봉",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6865096_36946.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "담배값 인상",
-   "traffic": "100+",
-   "when": "11월 12일 12:20",
-   "news": []
-  },
-  {
-   "kw": "교장",
-   "traffic": "500+",
-   "when": "11월 12일 11:50",
-   "news": [
-    {
-     "title": "교장 신분으로 정책국장에 부교육감 대리까지…장연국 도의원 “법적 근거 뭐냐”",
-     "url": "https://www.jjan.kr/article/20261111500426",
-     "source": "전북일보 인터넷신문"
-    },
-    {
-     "title": "\"교장 신분 정책국장이 부교육감 직무대리?\"…전북교육청 질타",
-     "url": "https://www.yna.co.kr/view/AKR20261111131500055",
-     "source": "연합뉴스"
     }
    ]
   }
