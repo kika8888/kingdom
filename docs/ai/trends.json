@@ -1,20 +1,54 @@
 {
- "updated": "2026-11-13 02:23",
+ "updated": "2026-11-13 03:23",
  "items": [
+  {
+   "kw": "김승원",
+   "traffic": "100+",
+   "when": "11월 13일 01:30",
+   "news": [
+    {
+     "title": "‘김승원 신약 청탁 의혹’ 브로커 양모씨에 징역 4년 구형",
+     "url": "https://www.chosun.com/national/national_general/2026/11/12/X3EACDFYJNF43MGVF67SH52VCA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "공판 출석하는 '코로나19 신약 임상시험 승인 청탁 의혹' 양수진",
+     "url": "https://www.newsis.com/view/NISI20261112_0021530948",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "정선희",
+   "traffic": "100+",
+   "when": "11월 13일 01:30",
+   "news": [
+    {
+     "title": "자기연민 고백한 정선희, 몰라보게 야윈 근황…김영철 '깜짝' - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111215551129077",
+     "source": "머니투데이"
+    },
+    {
+     "title": "정선희 \"강호동, 녹화하면 48시간…괴수였다\"",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865201",
+     "source": "뉴시스"
+    }
+   ]
+  },
   {
    "kw": "네이션스리그",
    "traffic": "100+",
    "when": "11월 13일 01:10",
    "news": [
     {
+     "title": "네이션스 리그 세르비아 대 독일 축구 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-serbia-vs-duc-tai-nations-league-1799219.ldo",
+     "source": "Laodong.vn"
+    },
+    {
      "title": "UEFA 네이션스리그: 몸값을 높이는 뛰어난 선수들",
      "url": "https://sbotopkr.tistory.com/2670",
      "source": "티스토리"
-    },
-    {
-     "title": "지단의 프랑스냐⋯ 만치니 이태리냐",
-     "url": "https://www.kmib.co.kr/article/20261111502064",
-     "source": "국민일보"
     }
    ]
   },
@@ -41,14 +75,31 @@
    "when": "11월 13일 00:00",
    "news": [
     {
+     "title": "[지지대] 13일의 금요일, 인류 멸망의 날",
+     "url": "https://www.kyeonggi.com/article/20261112580217",
+     "source": "경기일보"
+    },
+    {
      "title": "빗나간 66년 전 ‘인구종말론’…AI 종말론은 다를까?",
      "url": "https://www.hani.co.kr/arti/science/science_general/1286931.html",
      "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "kw": "amd stock",
+   "traffic": "100+",
+   "when": "11월 12일 23:40",
+   "news": [
+    {
+     "title": "This AMD Analyst Turns Bullish; Here Are Top 5 Upgrades For Thursday",
+     "url": "https://www.benzinga.com/analyst-stock-ratings/upgrades/26/11/63185579/this-amd-analyst-turns-bullish-here-are-top-5-upgrades-for-thursday-2",
+     "source": "Benzinga"
     },
     {
-     "title": "세계가 11월 13일에 종말을 맞이할 것이라는 소문이 사실인가요?",
-     "url": "https://www.vietnam.vn/ko/thuc-hu-tin-don-the-gioi-sap-buoc-sang-ngay-tan-the-13-11",
-     "source": "Vietnam.vn"
+     "title": "AMD's AI Sales Set to Overtake Server CPUs, William Blair Says",
+     "url": "https://finance.yahoo.com/technology/ai/articles/amds-ai-sales-set-overtake-111834124.html",
+     "source": "Yahoo Finance"
     }
    ]
   },
@@ -80,26 +131,9 @@
      "source": "WSJ"
     },
     {
-     "title": "Strategy Sinks As MSCI Axes Bitcoin Whale; Is Nasdaq 100 Next?",
-     "url": "https://www.investors.com/news/mstr-stock-bitcoin-price-msci-index-exclusion-nasdaq-100/",
-     "source": "Investor's Business Daily"
-    }
-   ]
-  },
-  {
-   "kw": "amd 주가",
-   "traffic": "200+",
-   "when": "11월 12일 23:10",
-   "news": [
-    {
-     "title": "젠슨 황 해임으로 누가 이득보나…브로드컴·AMD 주가 급등",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444516",
-     "source": "연합인포맥스"
-    },
-    {
-     "title": "월가, AMD ‘매수’ 의견…엔비디아 일부 대체 기대[월가 업&다운]",
-     "url": "https://www.hankyung.com/article/202611123926i",
-     "source": "한국경제"
+     "title": "Index Provider MSCI Removes Strategy From Equity Benchmark",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-11/index-provider-msci-removes-strategy-from-equity-benchmark",
+     "source": "Bloomberg.com"
     }
    ]
   },
@@ -122,7 +156,7 @@
   },
   {
    "kw": "해변",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 12일 22:20",
    "news": [
     {
@@ -134,40 +168,6 @@
      "title": "북가주 해변서 한인 여성 실종",
      "url": "https://www.koreadaily.com/article/20261109202254302",
      "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "jyp 엔터테인먼트",
-   "traffic": "200+",
-   "when": "11월 12일 22:00",
-   "news": [
-    {
-     "title": "역대급 실적 낸 JYP, 주가 17% 급등한 이유는?",
-     "url": "https://story.pay.naver.com/content/3952_3_C1",
-     "source": "네이버페이 머니스토리"
-    },
-    {
-     "title": "스트레이키즈가 다했네, JYP",
-     "url": "https://stock.mk.co.kr/news/view/1197127",
-     "source": "매일경제 마켓"
-    }
-   ]
-  },
-  {
-   "kw": "학대",
-   "traffic": "100+",
-   "when": "11월 12일 21:50",
-   "news": [
-    {
-     "title": "\"학대냐 아니냐\" 불붙은 논란‥'어둠의 오은영' 이제 못 보나",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865252_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "아동학대 논란 휩싸인 민속촌 귀신…“웃는다고 괜찮은 건 아냐” 세계의 ‘공포 훈육’ 돌아보니 [이윤정 기자의 소소월드]",
-     "url": "https://www.khan.co.kr/article/202611121023001",
-     "source": "경향신문"
     }
    ]
   }
