@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-12 10:23",
+ "updated": "2026-11-12 11:23",
  "items": [
+  {
+   "kw": "물류신문",
+   "traffic": "200+",
+   "when": "11월 12일 10:00",
+   "news": [
+    {
+     "title": "네이버 3분기 매출 3조4천724억원 '역대 최대'…영업익 20.9%↓(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261112025451527",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "쿠팡 로켓배송에 맞불…네이버, 子회사 세워 물류 직접 뛰어든다",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865181",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "교사",
+   "traffic": "1000+",
+   "when": "11월 12일 09:50",
+   "news": [
+    {
+     "title": "부산교육청 '유치원 수업혁신사례 연구대회' 시상식 열려",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749756",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "부산 유치원 교사 14명, 유아·놀이 중심 수업혁신대회 입상",
+     "url": "https://www.fnnews.com/news/202611120926304052",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
   {
    "kw": "엔화",
    "traffic": "200+",
@@ -19,8 +53,25 @@
    ]
   },
   {
+   "kw": "일타강사",
+   "traffic": "100+",
+   "when": "11월 12일 09:10",
+   "news": [
+    {
+     "title": "강의까지 중단하고 출연했는데?…넷플릭스 나간 일타강사, ‘데블스 플랜3’ 첫 탈락",
+     "url": "https://biz.heraldcorp.com/article/10934198",
+     "source": "헤럴드경제"
+    },
+    {
+     "title": "이도, 수능 3주 앞두고 강의 중단 사과 \"무책임했다…방송 활동 중단\"",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6349379",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
    "kw": "장도연",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 12일 09:00",
    "news": [
     {
@@ -29,9 +80,9 @@
      "source": "Chosunbiz"
     },
     {
-     "title": "장도연, 허경환에 심쿵한 적 있다? “20년 전 허경환, 얼마나 잘생겼었겠나”",
-     "url": "https://sports.khan.co.kr/article/202611120004003",
-     "source": "스포츠경향"
+     "title": "허경환 “개그맨 하기엔 부족함 느껴…시간 벌 건 유행어밖에” (‘유행쇼’)",
+     "url": "https://www.mk.co.kr/news/hot-issues/12206015",
+     "source": "매일경제"
     }
    ]
   },
@@ -41,9 +92,9 @@
    "when": "11월 12일 08:50",
    "news": [
     {
-     "title": "대구 아파트 보일러실 추정 폭발… 놀란 80대 여성 병원 이송",
-     "url": "https://www.newsis.com/view/NISX20261112_0003865042",
-     "source": "뉴시스"
+     "title": "대구 아파트 보일러실서 폭발…원인 조사",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710802",
+     "source": "KBS 뉴스"
     },
     {
      "title": "대구 아파트서 보일러실 폭발⋯깨진 유리창에 차량 10여대 파손",
@@ -53,19 +104,36 @@
    ]
   },
   {
+   "kw": "우스만",
+   "traffic": "200+",
+   "when": "11월 12일 08:50",
+   "news": [
+    {
+     "title": "프로배구 한전, 외국인 용병 위력 ‘반색’… 우스만 활약에 웃음만 나와",
+     "url": "https://www.kyeongin.com/article/1774604",
+     "source": "경인일보"
+    },
+    {
+     "title": "득점 환호하는 한국전력 선수들",
+     "url": "https://www.yna.co.kr/view/PYH20261110192900013",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
    "kw": "이재 아",
    "traffic": "5000+",
    "when": "11월 12일 08:30",
    "news": [
     {
+     "title": "“은퇴 원치 않았다”…‘이동국 딸’ 이재아, 테니스 접고 골프 택한 이유",
+     "url": "https://www.mk.co.kr/news/hot-issues/12206026",
+     "source": "매일경제"
+    },
+    {
      "title": "'전희철 딸' 전지우, 연예인급 미모 \"이대 무용과 수석\"",
      "url": "https://www.newsis.com/view/NISX20261111_0003864567",
      "source": "뉴시스"
-    },
-    {
-     "title": "이동국 딸 재아, '아시아 1위' 테니스 관뒀다…\"골프 선수 전향\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111208245934442",
-     "source": "머니투데이"
     }
    ]
   },
@@ -93,81 +161,13 @@
    "news": [
     {
      "title": "UFC 전 챔프 메랍, ‘앙숙’ 우마르 형제에 폭행 당해",
-     "url": "https://www.heraldk.com/article/2026111116294419748",
-     "source": "헤럴드경제 미주판"
+     "url": "https://biz.heraldcorp.com/article/10934624",
+     "source": "헤럴드경제"
     },
     {
-     "title": "“UFC 전 챔프가 ‘집단 린치’ 당했다”...메랍, 호텔서 피투성이",
-     "url": "https://www.insight.co.kr/news/581701",
-     "source": "인사이트"
-    }
-   ]
-  },
-  {
-   "kw": "전현무계획",
-   "traffic": "200+",
-   "when": "11월 12일 08:30",
-   "news": [
-    {
-     "title": "조작 방송 전현무, 대국민 사과 “당분간 DM 안 보겠다”",
-     "url": "https://www.donga.com/news/Culture/article/all/20261112/135011588/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "전현무 “죄송합니다, 당분간 DM 안 보겠습니다” 선언 왜? (전현무계획4)",
-     "url": "https://sports.khan.co.kr/article/202611111548003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "산",
-   "traffic": "2000+",
-   "when": "11월 12일 08:20",
-   "news": [
-    {
-     "title": "김동현이 100억에 산 압구정 H, \"150억 가치\" 기대 뒤 숨은 '20억 복병'",
-     "url": "https://www.newsis.com/view/NISX20261111_0003864485",
-     "source": "뉴시스"
-    },
-    {
-     "title": "김동현이 산 압구정 현대아파트, 100억→88억 됐다..“코인도 작살났는데” (‘그리구라’)",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/12/GBSGGN3DGRTDAMJZHA4DEZBXMQ/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "파운드리",
-   "traffic": "200+",
-   "when": "11월 12일 08:20",
-   "news": [
-    {
-     "title": "메모리 호황 뒤 기지개… 삼성 파운드리 `美 빅테크 수주 발판`",
-     "url": "https://www.ddaily.co.kr/page/view/2026111114364589942",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "삼성전자 美 테일러 공장, 12월 시험가동 전망..2나노 수율·테슬라 AI칩 양산이 관건",
-     "url": "https://kpenews.com/View.aspx?No=4304823",
-     "source": "한국정경신문"
-    }
-   ]
-  },
-  {
-   "kw": "하지원",
-   "traffic": "2000+",
-   "when": "11월 12일 08:10",
-   "news": [
-    {
-     "title": "하지원, 유니세프 TV 캠페인 재능기부… 전 세계 어린이 생명 살리기 동참",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3447722",
-     "source": "천지일보"
-    },
-    {
-     "title": "배우 하지원, 유니세프 재능기부… “무엇이라도 돕고파”",
-     "url": "https://sports.khan.co.kr/article/202611111309003",
-     "source": "스포츠경향"
+     "title": "얼굴에 피 흘린 전 UFC 챔프 메랍, 호텔 로비서 집단폭행 당했다",
+     "url": "https://www.ajunews.com/view/20261112104416530",
+     "source": "아주경제"
     }
    ]
   }
