@@ -1,162 +1,173 @@
 {
- "updated": "2026-11-14 05:23",
+ "updated": "2026-11-14 06:23",
  "items": [
+  {
+   "kw": "고속철도",
+   "traffic": "100+",
+   "when": "11월 14일 05:20",
+   "news": [
+    {
+     "title": "5차 철도망 계획 12월 말 고시…지자체 “우리 노선 담아달라” 한목소리",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374731",
+     "source": "전기신문"
+    },
+    {
+     "title": "“CTX 서대전역 연장”·“세종 도심에 KTX” 현안 건의",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712373",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "도지코인",
+   "traffic": "500+",
+   "when": "11월 14일 05:20",
+   "news": [
+    {
+     "title": "도지코인 밈코인 꼬리표 뗀다…디파이·예측시장 영토 확장",
+     "url": "https://www.g-enews.com/article/Securities/2026/11/202611130310511461e7e8286d56_1",
+     "source": "글로벌이코노믹"
+    },
+    {
+     "title": "도지코인 랩스 창업자 \"도지코인(DOGE), 머스크 트윗에 흔들리던 시절은 갔다\"",
+     "url": "https://www.coinreaders.com/269920",
+     "source": "코인리더스"
+    }
+   ]
+  },
+  {
+   "kw": "김부선",
+   "traffic": "1000+",
+   "when": "11월 14일 05:10",
+   "news": [
+    {
+     "title": "2억 보낸 고인과 \"각별한 사이\" 인정받은 김부선...유족 분통",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02072966645645392&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "\"고인과 각별한 사이\" 김부선, 2억 대여금 소송서 일부 승소...유족 분통",
+     "url": "https://www.fnnews.com/news/202611130822348655",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "배추",
+   "traffic": "500+",
+   "when": "11월 14일 05:10",
+   "news": [
+    {
+     "title": "“김장 도와주실 이웃 구해요”…요즘 당근에 몰리는 이색 알바",
+     "url": "https://www.kmib.co.kr/article/20261113500265",
+     "source": "국민일보"
+    },
+    {
+     "title": "“배추 버무리고 설거지 해주실 분” 구인공고 급증…겨울철 뜨는 ‘이 알바’ 시급은?",
+     "url": "https://www.sedaily.com/article/20114247",
+     "source": "서울경제"
+    }
+   ]
+  },
+  {
+   "kw": "노동조합",
+   "traffic": "100+",
+   "when": "11월 14일 05:10",
+   "news": [
+    {
+     "title": "삼성전자 제7노조 설립 추진…이달만 두번째 신규 노조",
+     "url": "https://www.yna.co.kr/view/AKR20261113090100003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "성과급 갈등에, 삼성 노조 7개로 쪼개졌다",
+     "url": "https://www.chosun.com/national/labor/2026/11/13/6PKRBTLHDJAMHEE5CZG32ODIKQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "김소현",
+   "traffic": "100+",
+   "when": "11월 14일 05:00",
+   "news": [
+    {
+     "title": "“손준호가 두 명?”…♥김소현 14살 子, 아빠 붕어빵 비주얼 [DA★]",
+     "url": "https://sports.donga.com/ent/article/all/20261112/135016925/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "“누가 손준호야?” 김소현♥손준호 子 주안, 아빠 쏙 빼닮은 ‘폭풍 성장’ 근황",
+     "url": "https://sports.khan.co.kr/article/202611121717003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "이란",
+   "traffic": "1000+",
+   "when": "11월 14일 04:50",
+   "news": [
+    {
+     "title": "이란 외무부 \"뱁새가 황새 따라가다 가랑이‥\" 청해부대 겨냥",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865457_36911.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "\"뱁새가 황새 따라가다…\" 이란 외무부 대변인 ‘한국 속담’으로 경고",
+     "url": "https://news.jtbc.co.kr/article/NB12327965",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "서인영",
+   "traffic": "500+",
+   "when": "11월 14일 04:50",
+   "news": [
+    {
+     "title": "'최지훈과 재혼' 서인영, 극심한 불안 \"8년 자고 땅굴\"..\"10년 제정신 아냐\" [핫피플]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GJSGEYJZMI2DMZLCME2WEN3GMY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "‘12월 결혼’ 서인영 “예비 신랑 덕분에 우울증 이겨내고 활동”",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261112/135017716/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "항공 엔진",
+   "traffic": "100+",
+   "when": "11월 14일 04:00",
+   "news": [
+    {
+     "title": "한화, 국내 첫 1만파운드급 항공엔진 개발한다…1천773억 규모",
+     "url": "https://www.yna.co.kr/view/AKR20261113133400003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "한화에어로, 국과연과 ‘1만 파운드급’ 항공 엔진 개발 나선다",
+     "url": "https://biz.chosun.com/industry/company/2026/11/13/Z43BE5HBMRDLHCTNNDCIRCHFS4/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
   {
    "kw": "탄핵",
    "traffic": "200+",
    "when": "11월 14일 01:50",
    "news": [
     {
-     "title": "최민희, 비공개 간담회서 \"윤석열 선거법 재판, 이 대통령 재판과 똑같다\"",
-     "url": "https://news.jtbc.co.kr/article/NB12327940",
+     "title": "최민희 48분 육성 녹취엔…\"윤석열 탄핵에 이 대통령 반대했다. 하야시키고 가자 했다\"",
+     "url": "https://news.jtbc.co.kr/article/NB12327963",
      "source": "JTBC"
     },
     {
      "title": "[사설] 이재명 정권, 넘쳐나는 권력 감당 안 돼 자기들끼리 싸우나",
      "url": "https://www.chosun.com/opinion/editorial/2026/11/14/ESUUCOCQBREZBD3OPQ3V4YEGE4/",
      "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "젠지 blg",
-   "traffic": "200+",
-   "when": "11월 14일 01:40",
-   "news": [
-    {
-     "title": "[롤드컵]쵸비·기인·듀로의 첫 우승 꿈…룰러·캐니언과 이룰까",
-     "url": "https://www.newsis.com/view/NISX20261112_0003864630",
-     "source": "뉴시스"
-    },
-    {
-     "title": "[e모션] 韓中 최강 격돌…젠지, LCK의 `롤드컵` 왕좌 지킬까",
-     "url": "https://www.ddaily.co.kr/page/view/2026111316090144636",
-     "source": "디지털데일리"
-    }
-   ]
-  },
-  {
-   "kw": "정몽구",
-   "traffic": "500+",
-   "when": "11월 14일 01:40",
-   "news": [
-    {
-     "title": "정무성 현대차 정몽구재단 이사장 별세…향년 68세",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113170434RTC",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "정무선 현대차 정몽구 재단 이사장 별세",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001035",
-     "source": "IT조선"
-    }
-   ]
-  },
-  {
-   "kw": "오세훈",
-   "traffic": "100+",
-   "when": "11월 14일 01:20",
-   "news": [
-    {
-     "title": "[단독] \"배현진 1년\"·\"제명\"‥장동혁 측 외부 인사가 징계 수위 전달",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6865535_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "\"한동훈 제명은 조작\"...진실공방 '내홍' [앵커리포트]",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611131621150460_005.html",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "인벤",
-   "traffic": "200+",
-   "when": "11월 14일 00:40",
-   "news": []
-  },
-  {
-   "kw": "박지현",
-   "traffic": "200+",
-   "when": "11월 14일 00:40",
-   "news": [
-    {
-     "title": "나 혼자 산다",
-     "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100000&type=Prevod",
-     "source": "MBC"
-    },
-    {
-     "title": "박지현, 코드쿤스트에 감동…‘대학가요제’서 깜짝 만남",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023608/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "구성환",
-   "traffic": "200+",
-   "when": "11월 13일 23:50",
-   "news": [
-    {
-     "title": "\"초콜릿에 러브레터 많이 받아\" 구성환, 4대 천왕 비주얼 공개 ('나혼산')",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MU3DAZJUMIZGCM3CMIYWMNZYGI/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "구성환, 첫사랑과 재회 “50일 사귀고 1년 더 좋아해” (나혼산)",
-     "url": "https://sports.donga.com/ent/article/all/20261113/135023281/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "김수현",
-   "traffic": "1000+",
-   "when": "11월 13일 23:40",
-   "news": [
-    {
-     "title": "“이미지 실추로 손해, 모델료 반환해야”···법원, 배우 김수현 측 11억여원 반환 판결",
-     "url": "https://www.khan.co.kr/article/202611131959001",
-     "source": "경향신문"
-    },
-    {
-     "title": "‘누명 벗은 김수현’에 법원 “김수현, 광고 중단 기간 모델료 반환해야”",
-     "url": "https://www.kyeonggi.com/article/20261113580438",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "축구중계",
-   "traffic": "1000+",
-   "when": "11월 13일 23:20",
-   "news": [
-    {
-     "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
-     "url": "https://www.khan.co.kr/article/202611112246001",
-     "source": "경향신문"
-    },
-    {
-     "title": "'무엇이든 해줄지니 비서진' 축구 한국 사우디 축구 중계로 결방",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751617",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "대한민국",
-   "traffic": "500+",
-   "when": "11월 13일 23:20",
-   "news": [
-    {
-     "title": "대한민국 초격차로의 첫 삽 - 영상 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975621&pWise=main&pWiseMain=A8",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "[게시판] 농식품부, 15일까지 '2026 대한민국 우리술 대축제'",
-     "url": "https://www.yna.co.kr/view/AKR20261113129300030",
-     "source": "연합뉴스"
     }
    ]
   }
