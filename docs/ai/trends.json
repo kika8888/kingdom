@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-13 17:22",
+ "updated": "2026-11-13 18:23",
  "items": [
+  {
+   "kw": "김현태",
+   "traffic": "200+",
+   "when": "11월 13일 17:20",
+   "news": [
+    {
+     "title": "법원, ‘국회 봉쇄’ 김현태 전 707 단장 구속취소 요청 기각",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712031",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "‘국회 봉쇄’ 김현태 전 단장, 구속 상태로 재판… 법원, 구속취소 기각",
+     "url": "https://www.seoul.co.kr/news/society/law/2026/11/13/20261113500102",
+     "source": "서울신문"
+    }
+   ]
+  },
+  {
+   "kw": "공인중개사",
+   "traffic": "200+",
+   "when": "11월 13일 17:00",
+   "news": [
+    {
+     "title": "등기부 열람료 700원→1100원… 공인 중개사들 국회서 “철회하라”",
+     "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/13/73ITORNBEVDAXPOPULZKAL64CA/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "등기 열람 수수료 700원 →1100원… 공인중개사들 반발",
+     "url": "https://www.donga.com/news/Society/article/all/20261113/135017604/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "문화누리카드",
+   "traffic": "100+",
+   "when": "11월 13일 17:00",
+   "news": []
+  },
+  {
+   "kw": "탁재훈",
+   "traffic": "100+",
+   "when": "11월 13일 17:00",
+   "news": [
+    {
+     "title": "장서희, 탁재훈과 ‘베드신’ 찍나…“시키는 대로 하겠다”",
+     "url": "https://www.twig24.com/news/entertainments/celebrity/2026/11/12/20261112500312",
+     "source": "TWIG"
+    },
+    {
+     "title": "장서희, 日 AV 배우 오구라 유나 작품 찾아봤다…\"안 귀엽더라\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111317585223286",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "035420",
+   "traffic": "200+",
+   "when": "11월 13일 16:50",
+   "news": [
+    {
+     "title": "Naver's Q3 operating profit falls 21% as it bets on 2 trillion won deal, AI agent app and logistics subsidiary",
+     "url": "https://www.mt.co.kr/en/tech/2026/11/12/2026111215474393674",
+     "source": "머니투데이"
+    },
+    {
+     "title": "Naver Establishes Logistics Subsidiary to Challenge Coupang's Rocket Delivery",
+     "url": "https://www.chosun.com/english/industry-en/2026/11/13/NIY2CTCHFFCZHLNWVLTNUGBS74/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "주간조선",
+   "traffic": "500+",
+   "when": "11월 13일 16:30",
+   "news": [
+    {
+     "title": "2934 목차",
+     "url": "https://weekly.chosun.com/bbs/view.html?idxno=284",
+     "source": "주간조선"
+    },
+    {
+     "title": "반도체 물 ‘속도전’의 숙제…가뭄 검증도, 농민 설득도, 기업 절수도 ‘아직’",
+     "url": "https://www.khan.co.kr/article/202611130600011",
+     "source": "경향신문"
+    }
+   ]
+  },
   {
    "kw": "로보택시",
    "traffic": "100+",
@@ -41,133 +132,31 @@
    "when": "11월 13일 15:30",
    "news": [
     {
-     "title": "한국가스공사, LNG선 화물창 결함에 2684억원 배상… 2심서 800억원 늘어",
-     "url": "https://biz.chosun.com/topics/law_firm/2026/11/13/LTVT7C2Q6JFWXIKKZS3M7FUA7Y/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "[단독] “가스공사, 2200억원 물어줘라”…‘한국형 LNG 화물창’ 초유의 소송전 SK해운 웃었다 [세상&]",
-     "url": "https://biz.heraldcorp.com/article/10935820",
-     "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "kw": "광교 신도시",
-   "traffic": "1000+",
-   "when": "11월 13일 15:10",
-   "news": [
-    {
-     "title": "GH, '국내 1호' 광교 지분적립형 분양주택 240가구 모집에 2만946건 몰려",
-     "url": "https://www.yna.co.kr/view/RPR20261112007600353",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "집값의 30%로 내 집 마련, '이익공유형Ⅱ' 공공분양 도입 추진 - 카드/한컷 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975273",
-     "source": "대한민국 정책브리핑"
-    }
-   ]
-  },
-  {
-   "kw": "익산",
-   "traffic": "200+",
-   "when": "11월 13일 15:10",
-   "news": [
-    {
-     "title": "현대백화점그룹, 익산시 '발달장애인 특화사업장' 1억원 후원",
-     "url": "https://www.yna.co.kr/view/AKR20261113107800030",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "스마트팜 돕고 백화점 판로연다…현대백화점그룹, 익산 발달장애인 사업장 후원",
-     "url": "https://www.donga.com/news/Economy/article/all/20261113/135021231/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "구본현",
-   "traffic": "500+",
-   "when": "11월 13일 14:50",
-   "news": [
-    {
-     "title": "범LG家 3세 구본현, 해외 도피 8년 만에 캄보디아에서 검거",
-     "url": "https://www.chosun.com/national/national_general/2026/11/13/P4FORY5VSFCMHFGCH4FZESVYNI/",
+     "title": "국산 LNG선 결함, 가스公 2685억 배상 판결…2심서 800억 늘어",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/13/MGW2ELZPSVG6DFFWJELTEZSFKI/",
      "source": "조선일보"
     },
     {
-     "title": "’주가조작’ 범LG가 3세 구본현 검거…해외도피 8년 만",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113142509Zjm",
-     "source": "연합뉴스TV"
+     "title": "가스공사 LNG 화물창 설계 결함 책임, SK해운에 2204억 배상 판결 나와",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451990",
+     "source": "비즈니스포스트"
     }
    ]
   },
   {
-   "kw": "리트 만점자 ai 안경",
-   "traffic": "200+",
-   "when": "11월 13일 14:50",
-   "news": [
-    {
-     "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
-     "url": "https://www.khan.co.kr/article/202611131019001",
-     "source": "경향신문"
-    },
-    {
-     "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
-     "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000154",
-     "source": "Daily NTN"
-    }
-   ]
-  },
-  {
-   "kw": "국기",
+   "kw": "이혼숙려캠프",
    "traffic": "100+",
-   "when": "11월 13일 14:50",
+   "when": "11월 13일 15:20",
    "news": [
     {
-     "title": "北, 헌법 개정해 인공기 비율 변경…1948년 건국 이후 처음(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261113030351504",
-     "source": "연합뉴스"
+     "title": "\"내 출산 장면 모자이크 없이 공개\"…'교육용'이라는 아내 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/13/2026111306213374210",
+     "source": "머니투데이"
     },
     {
-     "title": "北, 78년 만에 국기 비율 변경…김정은 시대 차별화 포석",
-     "url": "https://www.koreadaily.com/article/20261112193925025",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "블랙웰",
-   "traffic": "1000+",
-   "when": "11월 13일 14:40",
-   "news": [
-    {
-     "title": "[차이나워치] 젠슨황 후폭풍…美 AI칩 통제 강화에 中 확보전",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113164645EQk",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "“오픈AI, 美 의회 中 AI칩 수출 제한 법안 지지”",
-     "url": "https://biz.chosun.com/it-science/ict/2026/11/13/W3GSV2HRNVCW5HMKBABFHSBOEA/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "대학수학능력시험",
-   "traffic": "200+",
-   "when": "11월 13일 14:30",
-   "news": [
-    {
-     "title": "행정안전부, 2027학년도 수능 대비 지진 대응태세 철저히 점검한다",
-     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789140&pWise=main&pWiseMain=L1",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "남양주시, 수능 당일 수험생 무료수송 택시 44대 투입",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721867",
-     "source": "뉴스타운"
+     "title": "이호선 “헛소리 마요” 경고… 숙소 발칵 뒤집혀 (이혼숙려캠프)",
+     "url": "https://sports.donga.com/ent/article/all/20261113/135020414/1",
+     "source": "스포츠동아"
     }
    ]
   }
