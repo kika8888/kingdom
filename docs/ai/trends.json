@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-13 14:23",
+ "updated": "2026-11-13 15:23",
  "items": [
   {
-   "kw": "광교신도시",
+   "kw": "수도권제1순환고속도로",
    "traffic": "200+",
+   "when": "11월 13일 14:20",
+   "news": [
+    {
+     "title": "[속보] 수도권제1순환고속도로 고양(67.5K)(4차로)화물차관련 사고처리중",
+     "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=484541",
+     "source": "스페셜타임스"
+    },
+    {
+     "title": "[속보] 수도권제1순환고속도로 화물차 관련 사고 처리중",
+     "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=483505",
+     "source": "스페셜타임스"
+    }
+   ]
+  },
+  {
+   "kw": "정부",
+   "traffic": "100+",
+   "when": "11월 13일 14:20",
+   "news": [
+    {
+     "title": "구글 지도 국외반출 조건 이행 확인…좌표 노출 막고 보안 강화",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374724",
+     "source": "전기신문"
+    },
+    {
+     "title": "구글맵, 한국 서비스 강화된다···네이버·카카오 등 ‘긴장’",
+     "url": "https://www.khan.co.kr/article/202611131444011",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "이혜훈",
+   "traffic": "100+",
+   "when": "11월 13일 14:20",
+   "news": [
+    {
+     "title": "경찰, ‘로또 청약’ 이혜훈 前 의원 사기 혐의로 공소청 송치",
+     "url": "https://www.chosun.com/national/national_general/2026/11/13/CSW7KKE6VRCOVPUKBYMCDLP4TQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "‘40억 로또 아파트’ 날아가나…이혜훈, 부정청약 의혹 송치",
+     "url": "https://news.jtbc.co.kr/article/NB12327942",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "고용노동부",
+   "traffic": "100+",
+   "when": "11월 13일 14:00",
+   "news": [
+    {
+     "title": "경비원·간병인도 개인사업자로…고령층 위장고용 확산 우려",
+     "url": "https://www.khan.co.kr/article/202611081637001",
+     "source": "경향신문"
+    },
+    {
+     "title": "노동부, '가짜 사업소득 계약'·'사업장 쪼개기' 기획 감독",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6865406_36918.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "한국보훈복지의료공단",
+   "traffic": "500+",
+   "when": "11월 13일 13:40",
+   "news": [
+    {
+     "title": "보훈공단-심평원, 국가유공자 적정진료·심사 협력 강화",
+     "url": "https://stock.mk.co.kr/news/view/1196274",
+     "source": "매일경제 마켓"
+    },
+    {
+     "title": "준보훈병원 12월 출범…보훈 진료비 심사체계 강화",
+     "url": "https://www.newsis.com/view/NISX20261111_0003864275",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "이재룡",
+   "traffic": "1000+",
+   "when": "11월 13일 13:30",
+   "news": [
+    {
+     "title": "배우 이재룡측, 법정서 '술타기' 부인…\"측정 방해목적 없었다\"",
+     "url": "https://www.yna.co.kr/view/AKR20261113083900004",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "배우 이재룡측, 첫 재판서 ‘술타기’ 부인",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261113010005208",
+     "source": "아시아투데이"
+    }
+   ]
+  },
+  {
+   "kw": "국민의힘",
+   "traffic": "500+",
+   "when": "11월 13일 13:30",
+   "news": [
+    {
+     "title": "윤리위원 측 \"韓 징계에 외부인사 관여… 張 통화 녹음·메신저 대화 갖고 있다\"",
+     "url": "https://www.chosun.com/politics/assembly/2026/11/13/DTKNY4U6AFCZVBQT635VTJ5DZE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "윤상현 “조작징계 의혹, 당이 밝혀야”…장동혁에 독립 조사위 요구",
+     "url": "https://www.mk.co.kr/news/politics/12208030",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "광교신도시",
+   "traffic": "500+",
    "when": "11월 13일 13:20",
    "news": [
     {
@@ -20,24 +139,24 @@
   },
   {
    "kw": "개",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 13일 13:10",
    "news": [
     {
-     "title": "'화면 여백' 지적받은 아이폰 듀오…최적화 앱 10만개 넘었다",
-     "url": "https://stock.mk.co.kr/news/view/1198195",
-     "source": "매일경제 마켓"
+     "title": "대구시 수성구청, 우리마을 교육나눔 성과교류회 개최...8개 마을 성과 공유",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751323",
+     "source": "국제뉴스"
     },
     {
-     "title": "애플 “아이폰 듀오 최적화 앱 10만 개 돌파…매일 수 천개 추가”",
-     "url": "https://www.donga.com/news/It/article/all/20261113/135020284/1",
-     "source": "동아일보"
+     "title": "[동정] 최재훈 달성군수",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3216975&type=&mobile=",
+     "source": "아시아뉴스통신"
     }
    ]
   },
   {
    "kw": "오산시",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 13일 13:10",
    "news": [
     {
@@ -46,128 +165,9 @@
      "source": "경인일보"
     },
     {
-     "title": "조용호 오산시장, 청년 학업·성장 기회 확대에 온힘…“경제적 걸림돌 학업 방해되지 않도록 노력”",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336651",
-     "source": "인천일보"
-    }
-   ]
-  },
-  {
-   "kw": "한국가스",
-   "traffic": "100+",
-   "when": "11월 13일 13:10",
-   "news": [
-    {
-     "title": "가스공사, 전국 쪽방촌에 혹한기 물품 4520박스 지원",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374719",
-     "source": "전기신문"
-    },
-    {
-     "title": "송미령 \"4인 가족 김장비용 9% 줄어…김장 더 담가달라\"",
-     "url": "https://www.newsis.com/view/NISX20261113_0003867114",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "박신영",
-   "traffic": "1000+",
-   "when": "11월 13일 13:00",
-   "news": [
-    {
-     "title": "‘사망 사고’ 낸 박신영 “구조 않고 차에 숨었다? 사실 아냐”…틱톡커로 등장한 이유 있었다",
-     "url": "https://biz.heraldcorp.com/article/10933678",
-     "source": "헤럴드경제"
-    },
-    {
-     "title": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
-     "url": "https://www.fnnews.com/news/202611110001377383",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "카카오워크",
-   "traffic": "200+",
-   "when": "11월 13일 12:50",
-   "news": [
-    {
-     "title": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색",
-     "url": "https://www.boannews.com/news/articleView.html?idxno=147242",
-     "source": "보안뉴스"
-    },
-    {
-     "title": "카카오 업무용 메신저 해킹…이름·연락처 유출",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611131353425BK",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "비서",
-   "traffic": "1000+",
-   "when": "11월 13일 12:40",
-   "news": [
-    {
-     "title": "고1때 회계 빠져 열공, 로펌 비서하다 오기… ‘士’자 꿈 이뤘다[‘17세의 기술’ 대한민국을 만든다]",
-     "url": "https://www.munhwa.com/article/11631046",
-     "source": "문화일보"
-    },
-    {
-     "title": "‘AI 비서’가 민원 전화까지?⋯공무원들 “답해야 하나”",
-     "url": "https://www.kmib.co.kr/article/20261112502069",
-     "source": "국민일보"
-    }
-   ]
-  },
-  {
-   "kw": "이더 리움",
-   "traffic": "200+",
-   "when": "11월 13일 12:30",
-   "news": [
-    {
-     "title": "채굴업계 거물 춘왕, 이더리움 5246개 재매수…하락장서 물량 확보",
-     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715275",
-     "source": "디지털투데이"
-    },
-    {
-     "title": "F2풀 공동설립자, 이틀새 이더리움 5250여개 매수…1080만弗 규모",
-     "url": "https://bloomingbit.io/feed/news/124281",
-     "source": "블루밍비트"
-    }
-   ]
-  },
-  {
-   "kw": "우기",
-   "traffic": "200+",
-   "when": "11월 13일 12:30",
-   "news": [
-    {
-     "title": "대형 행사 잇따라 앞둔 시진핑, 대만 문제 유화 발언…“평화통일·대화 원해”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8711074",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "시진핑, APEC·대만지방선거 앞두고 '평화통일·대화' 유화 발언",
-     "url": "https://www.yna.co.kr/view/AKR20261112116900083",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "lpga",
-   "traffic": "200+",
-   "when": "11월 13일 12:30",
-   "news": [
-    {
-     "title": "Choi Hye-jin Grabs First-Round Lead with 9-Under at LPGA The Annika, Renewing Quest for Maiden Title",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844282",
-     "source": "news.sbs.co.kr"
-    },
-    {
-     "title": "Korda Trails Katsu and Choi by Two on Day One at The ANNIKA",
-     "url": "https://www.lpga.com/news/2026/korda-trails-katsu-and-choi-by-two-on-day-one-at-the-annika",
-     "source": "LPGA"
+     "title": "조용호 시장, “청년이 경제적 어려움으로 배움 끊기는 일 없도록 뒷받침하겠다”",
+     "url": "https://www.seoul.co.kr/news/publicnews/2026/11/13/20261113500059",
+     "source": "서울신문"
     }
    ]
   }
