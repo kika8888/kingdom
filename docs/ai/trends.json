@@ -1,9 +1,145 @@
 {
- "updated": "2026-11-13 09:11",
+ "updated": "2026-11-13 10:23",
  "items": [
   {
-   "kw": "정명훈",
+   "kw": "메르세데스-벤츠",
+   "traffic": "500+",
+   "when": "11월 13일 09:20",
+   "news": [
+    {
+     "title": "벤츠도 독일 공장 폐쇄 검토…\"국내 투자 중단\"",
+     "url": "https://www.yna.co.kr/view/AKR20261113005800082",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "벤츠마저 독일 공장 투자 중단…폐쇄 카드까지 꺼냈다",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02814246645645392",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "gemini 4 hydrogen",
+   "traffic": "100+",
+   "when": "11월 13일 09:10",
+   "news": [
+    {
+     "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+     "source": "blog.google"
+    },
+    {
+     "title": "Gemini 4 Carbon in GitHub Copilot",
+     "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/",
+     "source": "The GitHub Blog"
+    }
+   ]
+  },
+  {
+   "kw": "m365",
+   "traffic": "200+",
+   "when": "11월 13일 08:50",
+   "news": [
+    {
+     "title": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses",
+     "url": "https://www.crn.com/news/ai/2026/microsoft-starts-limiting-copilot-chat-usage-for-users-without-paid-licenses",
+     "source": "CRN"
+    },
+    {
+     "title": "Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise users",
+     "url": "https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html",
+     "source": "Computerworld"
+    }
+   ]
+  },
+  {
+   "kw": "양승조",
+   "traffic": "200+",
+   "when": "11월 13일 08:50",
+   "news": [
+    {
+     "title": "한국수자원공사 신임 사장에 양승조 전 충남지사",
+     "url": "https://www.yna.co.kr/view/AKR20261112179200063",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "수자원공사 17대 사장에 양승조 전 충남지사…13일 업무 시작",
+     "url": "https://www.news1.kr/local/daejeon-chungnam/6352895",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "김영훈",
+   "traffic": "200+",
+   "when": "11월 13일 08:40",
+   "news": [
+    {
+     "title": "노동장관, 반도체 기업 간담회…초광역특구 사회적 대화에 참고",
+     "url": "https://www.yna.co.kr/view/AKR20261112178500530",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "김영훈, 삼성·SK 만나 반도체 근로시간 유연화 논의…메가특구 사회적대화 연계",
+     "url": "https://biz.heraldcorp.com/article/10935546",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
+  {
+   "kw": "헤그세스",
+   "traffic": "100+",
+   "when": "11월 13일 08:40",
+   "news": [
+    {
+     "title": "헤그세스, 자기 꾸짖은 병사에 훈장 수여… \"잘했다, 상병\"",
+     "url": "https://www.chosun.com/international/us/2026/11/13/NXMEZQGXVZED5NNRARRJ42TEQ4/",
+     "source": "조선일보"
+    },
+    {
+     "title": "창피 뒤 반전 시도?…국립묘지서 떠든 미 국방, 꾸짖은 병사에 훈장",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113083333TBx",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "맨체스터 유나이티드 fc",
    "traffic": "1000+",
+   "when": "11월 13일 08:40",
+   "news": [
+    {
+     "title": "맨유 새 감독에 포체티노 유력",
+     "url": "https://www.khan.co.kr/article/202611122023005",
+     "source": "경향신문"
+    },
+    {
+     "title": "[오피셜]'40년만의 강등권' 맨유, 6개월만에 캐릭 '전격 경질'...훈련 중 포체티노 합의→'레전드' 향한 황당 대우에 \"역겹다\", \"소송감\" 비난 쇄도 중",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/13/MQ3TCMJSGQ3GIMBVME2TKNDFMU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "두산에너빌리티",
+   "traffic": "2000+",
+   "when": "11월 13일 08:10",
+   "news": [
+    {
+     "title": "'DL이앤씨·두산 협력사' 엑스에너지 미국 SMR 건설 승인, \"실제 착공 여부는 미지수\"",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451730",
+     "source": "비즈니스포스트"
+    },
+    {
+     "title": "두산에너빌리티, NuScale 원자로 계약 체결: 034020, 상승세 이어갈까?",
+     "url": "https://tradersunion.com/ko/news/stocks/show/4206554-doosan-enerbility-slides-0-21percent-today/",
+     "source": "Traders Union"
+    }
+   ]
+  },
+  {
+   "kw": "정명훈",
+   "traffic": "2000+",
    "when": "11월 13일 08:00",
    "news": [
     {
@@ -19,144 +155,19 @@
    ]
   },
   {
-   "kw": "england national football team vs croatia national football team standings",
-   "traffic": "100+",
-   "when": "11월 13일 08:00",
-   "news": [
-    {
-     "title": "Kane Scores Winner in Record-Breaking England Appearance...\"Next Goal is 100th International Goal\"",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844203",
-     "source": "news.sbs.co.kr"
-    },
-    {
-     "title": "England vs Croatia player ratings: Harry Kane scores winner as Lewis Hall impresses",
-     "url": "https://www.bbc.com/sport/football/articles/c64gnd7vd912o",
-     "source": "BBC"
-    }
-   ]
-  },
-  {
    "kw": "czech republic national football team vs spain national football team standings",
    "traffic": "500+",
    "when": "11월 13일 07:50",
    "news": [
     {
-     "title": "Czech Republic vs Spain: UEFA Nations League stats & head-to-head",
+     "title": "Czech Republic 0-2 Spain: Comfortable win extends unbeaten run to 43 games",
      "url": "https://www.bbc.com/sport/football/live/cwg5jrzyqzdnt",
      "source": "BBC"
     },
     {
-     "title": "Czechia 0-2 Spain (Nov 12, 2026) Game Analysis",
-     "url": "https://www.espn.com/soccer/report/_/gameId/401861148",
-     "source": "ESPN"
-    }
-   ]
-  },
-  {
-   "kw": "미세먼지",
-   "traffic": "100+",
-   "when": "11월 13일 07:50",
-   "news": [
-    {
-     "title": "올가을 첫 스모그 유입...수능 앞두고 기온 '뚝'",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611121106023296",
-     "source": "YTN 사이언스"
-    },
-    {
-     "title": "[포토뉴스]초미세먼지에 갇힌 한강",
-     "url": "https://www.khan.co.kr/article/202611122106005",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "이상순",
-   "traffic": "200+",
-   "when": "11월 13일 07:40",
-   "news": []
-  },
-  {
-   "kw": "영화",
-   "traffic": "200+",
-   "when": "11월 13일 07:30",
-   "news": [
-    {
-     "title": "[카드뉴스] 휴대폰 속 판도라의 상자?... 영화 ‘완벽한 타인’",
-     "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249477",
-     "source": "시선뉴스"
-    },
-    {
-     "title": "[Y현장] '폭설' 김윤석·구교환 \"영화 최대 무기는 나약하지만 강한 인간의 모습\"",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611121657078534",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "이승엽",
-   "traffic": "200+",
-   "when": "11월 13일 07:30",
-   "news": [
-    {
-     "title": "잠실에서 시작해 잠실에서 끝, 국민타자 이승엽의 특급 귀환",
-     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8711535",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "김도영 日서 난리라면서요? 이승엽 전 감독 직접 인증했다! \"韓레벨 아냐…모르는 스태프 없다\" [SS시선집중]",
-     "url": "https://m.news.nate.com/view/20261111n21038",
-     "source": "네이트"
-    }
-   ]
-  },
-  {
-   "kw": "s&p 500",
-   "traffic": "500+",
-   "when": "11월 13일 07:30",
-   "news": [
-    {
-     "title": "Stock futures inch higher after market dips amid Nvidia woes: Live updates",
-     "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-     "source": "CNBC"
-    },
-    {
-     "title": "U.S. stocks fall as Nvidia’s Huang resigns and oil prices surge",
-     "url": "https://biz.chosun.com/en/en-international/2026/11/13/EBVH636GXRHFZDZ5H45HPUYGBU/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "skhy",
-   "traffic": "500+",
-   "when": "11월 13일 07:30",
-   "news": [
-    {
-     "title": "SK Hynix Options Spot-On: On November 11th, 111.36K Contracts Were Traded, With 1.3 Million Open Interest",
-     "url": "https://news.futunn.com/en/post/1004219296/sk-hynix-options-spot-on-on-november-11th-111-36k",
-     "source": "富途牛牛"
-    },
-    {
-     "title": "SK hynix (NASDAQ:SKHY) Shares Climb 9.7% - Still a Buy?",
-     "url": "https://www.marketbeat.com/instant-alerts/price-sk-hynix-nasdaq-skhy-shares-climb-97-still-a-buy-2026-11-11/",
-     "source": "MarketBeat"
-    }
-   ]
-  },
-  {
-   "kw": "스페인",
-   "traffic": "100+",
-   "when": "11월 13일 07:30",
-   "news": [
-    {
-     "title": "“월급 99%가 월세” 분노한 스페인 노동자 400만명 총파업",
-     "url": "https://www.donga.com/news/Inter/article/all/20261112/135017578/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "경찰의 최루탄 발사 지켜보는 노숙인",
-     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261112_0002289586&pID=1&cID=&sID=1&type=Main&idx=4",
-     "source": "뉴시스"
+     "title": "Balde, Puig Lead Spain to 2-0 Victory",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/13/RGAKJQYST5EGHFSN6ZTTKW5TV4/",
+     "source": "조선일보"
     }
    ]
   }
