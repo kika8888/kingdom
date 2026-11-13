@@ -1,43 +1,128 @@
 {
- "updated": "2026-11-13 20:23",
+ "updated": "2026-11-13 21:23",
  "items": [
   {
-   "kw": "김진욱",
-   "traffic": "500+",
-   "when": "11월 13일 19:20",
+   "kw": "농민",
+   "traffic": "100+",
+   "when": "11월 13일 20:20",
    "news": [
     {
-     "title": "[사진]역투하는 한국 선발 투수 김진욱",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/13/G44TGMDGMM2TQZRTMI2DENZTMM/",
-     "source": "조선일보"
+     "title": "농지조사 가장 궁금했던 '4가지 질문'에 답하다 - 영상 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975700&pWise=sub&pWiseSub=C3",
+     "source": "대한민국 정책브리핑"
     },
     {
-     "title": "[사진]일본 선발 투수 타케마루",
-     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/13/MQZGKMDDMU4TAMDGGBRGEMBWMY/",
-     "source": "Chosunbiz"
+     "title": "농사 짓기 힘든데, 땅은 안 팔리고... 80대 농민이 처한 기막힌 현실",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284764",
+     "source": "OhmyNews"
     }
    ]
   },
   {
-   "kw": "뉴욕",
-   "traffic": "100+",
-   "when": "11월 13일 19:20",
+   "kw": "사우디아라비아 대 한국",
+   "traffic": "2000+",
+   "when": "11월 13일 20:20",
    "news": [
     {
-     "title": "옆 부지 땅 파던 중 3층 건물 ‘와르르’…뉴욕서 8명 사망",
-     "url": "https://www.chosun.com/economy/int_economy/2026/11/13/GVWEC56YAZBN5BIK6QH7XUEVUM/",
+     "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
+     "url": "https://www.khan.co.kr/article/202611112246001",
+     "source": "경향신문"
+    },
+    {
+     "title": "'무엇이든 해줄지니 비서진' 축구 한국 사우디 축구 중계로 결방",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751617",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "내일날씨",
+   "traffic": "100+",
+   "when": "11월 13일 20:20",
+   "news": [
+    {
+     "title": "토요일 전국에 가을비...주말동안 기온은 포근",
+     "url": "https://www.chosun.com/national/transport-environment/2026/11/13/VDVP5NHN4VHUPCTLX3QFFGXQXQ/",
      "source": "조선일보"
     },
     {
-     "title": "뉴욕서 대낮에 3층 건물이 털썩…8명 사망·소방관 3명 포함 17명 부상",
-     "url": "https://news.jtbc.co.kr/article/NB12327931",
-     "source": "JTBC"
+     "title": "밤사이 전국으로 비 확대…내일 밤 대부분 그쳐",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8712315",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "nepal premier league",
+   "traffic": "100+",
+   "when": "11월 13일 19:40",
+   "news": [
+    {
+     "title": "Kathmandu Gorkhas vs Sudurpaschim Royals Preview & Prediction | 2026 Nepal Premier League | League Stage",
+     "url": "https://www.thestatszone.com/kathmandu-gorkhas-vs-sudurpaschim-royals-preview-prediction-2026-nepal-premier-league-league-stage-238238",
+     "source": "The Stats Zone"
+    },
+    {
+     "title": "Two NPL matches taking place today",
+     "url": "https://ekantipur.com/sports/2026/11/13/en/two-matches-are-being-played-in-the-npl-today-56-23.html",
+     "source": "Ekantipur"
+    }
+   ]
+  },
+  {
+   "kw": "직장인대호",
+   "traffic": "2000+",
+   "when": "11월 13일 19:30",
+   "news": [
+    {
+     "title": "김대호, 14년 다닌 MBC 떠났는데…또 회사원 됐다",
+     "url": "https://sports.donga.com/ent/article/all/20261113/135020519/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "김대호, MBC 퇴사 1년 반 만에 삼성행…TV조선 '직장인대호' 출격",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524726",
+     "source": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "kw": "박수홍 패소",
+   "traffic": "1000+",
+   "when": "11월 13일 19:30",
+   "news": [
+    {
+     "title": "박수홍, 친형 부부 상대 98억원대 민사소송 1심서 패소",
+     "url": "https://www.yna.co.kr/view/AKR20261113113300004",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "친형 부부 횡령 유죄인데…박수홍, 5년 싸운 ‘98억 손배소’ 1심 패소",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/MIYTCNLBMU2TKOLBMRSGIZTEGA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "김진욱",
+   "traffic": "1000+",
+   "when": "11월 13일 19:20",
+   "news": [
+    {
+     "title": "4번타자 드디어 터졌다! '국대 캡틴' 한동희, 日 11승 좌완 신인 상대 선제 솔로포 대폭발 [오!쎈 도쿄]",
+     "url": "https://biz.chosun.com/sports/baseball/2026/11/13/GZRDENRWMNRGEZJTGMZWGNRRGQ/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "[사진]야마구치에 인사하는 김진욱",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/13/MYYGEMBSME2WEMRXMY4TCN3DGA/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "kw": "정무성",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 13일 19:20",
    "news": [
     {
@@ -53,112 +138,27 @@
    ]
   },
   {
-   "kw": "claude",
-   "traffic": "500+",
-   "when": "11월 13일 19:10",
+   "kw": "뉴욕",
+   "traffic": "200+",
+   "when": "11월 13일 19:20",
    "news": [
     {
-     "title": "Anthropic Claude down: Why it said it was unable to authenticate code",
-     "url": "https://mashable.com/tech/anthropic-claude-down-unable-to-authenticate-code",
-     "source": "Mashable"
+     "title": "옆 부지 땅 파던 중 3층 건물 ‘와르르’…뉴욕서 8명 사망",
+     "url": "https://www.chosun.com/economy/int_economy/2026/11/13/GVWEC56YAZBN5BIK6QH7XUEVUM/",
+     "source": "조선일보"
     },
     {
-     "title": "Claude down: Users report login issues and service disruptions affecting Claude.ai and Claude Code",
-     "url": "https://www.moneycontrol.com/technology/claude-down-users-report-login-issues-and-service-disruptions-affecting-claude-ai-and-claude-code-article-14079689.html",
-     "source": "Moneycontrol.com"
+     "title": "뉴욕서 대낮에 3층 건물이 털썩…8명 사망·소방관 3명 포함 17명 부상",
+     "url": "https://news.jtbc.co.kr/article/NB12327931",
+     "source": "JTBC"
     }
    ]
   },
   {
    "kw": "원주 db 대 수원 kt",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 13일 18:50",
    "news": []
-  },
-  {
-   "kw": "김대호",
-   "traffic": "500+",
-   "when": "11월 13일 18:50",
-   "news": [
-    {
-     "title": "김대호, 14년 다닌 MBC 떠났는데…또 회사원 됐다",
-     "url": "https://sports.donga.com/ent/article/all/20261113/135020519/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "김대호, MBC 퇴사 1년 반 만에 삼성행…TV조선 '직장인대호' 출격",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524726",
-     "source": "iMBC 연예"
-    }
-   ]
-  },
-  {
-   "kw": "apbc 중계",
-   "traffic": "500+",
-   "when": "11월 13일 18:40",
-   "news": [
-    {
-     "title": "한일전 12연속 무승, 삼성 김지찬 우승 기운 전파하겠다!",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710671",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "[사진]애국가 제창하는 팀 코리아",
-     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/13/GI4TCMTDMM4DINJTGQZTQMJXMU/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "임예진",
-   "traffic": "2000+",
-   "when": "11월 13일 18:30",
-   "news": [
-    {
-     "title": "임예진, 기획부동산 피해자였다 \"5천만원 매입 제주땅 주인만 178명\"",
-     "url": "https://www.newsis.com/view/NISX20261113_0003867248",
-     "source": "뉴시스"
-    },
-    {
-     "title": "임예진, 5000만원 주고 산 제주 땅 15년 만에 확인…“지분 가치 약 82만원”",
-     "url": "https://www.donga.com/news/Culture/article/all/20261113/135021854/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "단타",
-   "traffic": "2000+",
-   "when": "11월 13일 18:20",
-   "news": [
-    {
-     "title": "\"하루 600만원도 벌었다\"…주식 올인한 '단타' 여성, 현재 계좌는",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=03785126645645392&mediaCodeNo=257",
-     "source": "이데일리"
-    },
-    {
-     "title": "\"60대 아내가 단타매매 중독\"…보험 해약해 '물타기'까지, 결과는 '처참'",
-     "url": "https://www.fnnews.com/news/202611130740570175",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "미스 베트남",
-   "traffic": "1000+",
-   "when": "11월 13일 18:10",
-   "news": [
-    {
-     "title": "\"준우승자가 더 예쁜데\"…외모 지적받은 미스 베트남 우승자의 대답 - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/13/2026111305251656792",
-     "source": "머니투데이"
-    },
-    {
-     "title": "“준우승자가 더 예쁘다”…‘외모 논란’에 미인대회 우승자의 첫마디",
-     "url": "https://www.mk.co.kr/news/world/12206444",
-     "source": "매일경제"
-    }
-   ]
   }
  ]
 }
