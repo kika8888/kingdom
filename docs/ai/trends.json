@@ -1,27 +1,27 @@
 {
- "updated": "2026-11-14 04:23",
+ "updated": "2026-11-14 05:23",
  "items": [
   {
    "kw": "탄핵",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 14일 01:50",
    "news": [
     {
-     "title": "최민희 48분 육성 녹취엔…\"윤석열 탄핵에 이 대통령 반대했다. 하야시키고 가자 했다\"",
-     "url": "https://news.jtbc.co.kr/article/NB12327963",
+     "title": "최민희, 비공개 간담회서 \"윤석열 선거법 재판, 이 대통령 재판과 똑같다\"",
+     "url": "https://news.jtbc.co.kr/article/NB12327940",
      "source": "JTBC"
     },
     {
-     "title": "국회 영상기자단, 최민희 '하이에나' 발언 규탄‥\"분노 넘어 자괴감\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6865481_36911.html",
-     "source": "MBC 뉴스"
+     "title": "[사설] 이재명 정권, 넘쳐나는 권력 감당 안 돼 자기들끼리 싸우나",
+     "url": "https://www.chosun.com/opinion/editorial/2026/11/14/ESUUCOCQBREZBD3OPQ3V4YEGE4/",
+     "source": "조선일보"
     }
    ]
   },
   {
-   "kw": "월즈 결승",
+   "kw": "젠지 blg",
    "traffic": "200+",
-   "when": "11월 14일 01:50",
+   "when": "11월 14일 01:40",
    "news": [
     {
      "title": "[롤드컵]쵸비·기인·듀로의 첫 우승 꿈…룰러·캐니언과 이룰까",
@@ -36,6 +36,23 @@
    ]
   },
   {
+   "kw": "정몽구",
+   "traffic": "500+",
+   "when": "11월 14일 01:40",
+   "news": [
+    {
+     "title": "정무성 현대차 정몽구재단 이사장 별세…향년 68세",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113170434RTC",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "정무선 현대차 정몽구 재단 이사장 별세",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001035",
+     "source": "IT조선"
+    }
+   ]
+  },
+  {
    "kw": "오세훈",
    "traffic": "100+",
    "when": "11월 14일 01:20",
@@ -46,9 +63,9 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "친한계 “조작 징계는 무효, 진상조사해야”… 국힘 지도부 “정말 나쁜 저급한 정치공작”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261113/135023164/2",
-     "source": "동아일보"
+     "title": "\"한동훈 제명은 조작\"...진실공방 '내홍' [앵커리포트]",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611131621150460_005.html",
+     "source": "YTN"
     }
    ]
   },
@@ -86,9 +103,9 @@
      "source": "Chosunbiz"
     },
     {
-     "title": "\"조승우·손예진의 '클래식'이었다\"…구성환, 30년전 50일 사귄 동창 재회",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6353497",
-     "source": "뉴스1"
+     "title": "구성환, 첫사랑과 재회 “50일 사귀고 1년 더 좋아해” (나혼산)",
+     "url": "https://sports.donga.com/ent/article/all/20261113/135023281/1",
+     "source": "스포츠동아"
     }
    ]
   },
@@ -103,9 +120,26 @@
      "source": "경향신문"
     },
     {
-     "title": "법원, 김수현 측에 '광고 중단' 모델료 11억여원 반환 판결",
-     "url": "https://www.yna.co.kr/view/AKR20261113171700061",
-     "source": "연합뉴스"
+     "title": "‘누명 벗은 김수현’에 법원 “김수현, 광고 중단 기간 모델료 반환해야”",
+     "url": "https://www.kyeonggi.com/article/20261113580438",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "축구중계",
+   "traffic": "1000+",
+   "when": "11월 13일 23:20",
+   "news": [
+    {
+     "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
+     "url": "https://www.khan.co.kr/article/202611112246001",
+     "source": "경향신문"
+    },
+    {
+     "title": "'무엇이든 해줄지니 비서진' 축구 한국 사우디 축구 중계로 결방",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751617",
+     "source": "국제뉴스"
     }
    ]
   },
@@ -115,37 +149,14 @@
    "when": "11월 13일 23:20",
    "news": [
     {
+     "title": "대한민국 초격차로의 첫 삽 - 영상 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148975621&pWise=main&pWiseMain=A8",
+     "source": "대한민국 정책브리핑"
+    },
+    {
      "title": "[게시판] 농식품부, 15일까지 '2026 대한민국 우리술 대축제'",
      "url": "https://www.yna.co.kr/view/AKR20261113129300030",
      "source": "연합뉴스"
-    },
-    {
-     "title": "막걸리부터 증류주까지…전통 양조장에서 빚어낸 우리 술의 매력 [이슈픽]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711215",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "쿠플",
-   "traffic": "500+",
-   "when": "11월 13일 23:20",
-   "news": []
-  },
-  {
-   "kw": "포수",
-   "traffic": "100+",
-   "when": "11월 13일 23:20",
-   "news": [
-    {
-     "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712285",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879",
-     "source": "기호일보"
     }
    ]
   }
