@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-14 03:23",
+ "updated": "2026-11-14 04:23",
  "items": [
+  {
+   "kw": "탄핵",
+   "traffic": "100+",
+   "when": "11월 14일 01:50",
+   "news": [
+    {
+     "title": "최민희 48분 육성 녹취엔…\"윤석열 탄핵에 이 대통령 반대했다. 하야시키고 가자 했다\"",
+     "url": "https://news.jtbc.co.kr/article/NB12327963",
+     "source": "JTBC"
+    },
+    {
+     "title": "국회 영상기자단, 최민희 '하이에나' 발언 규탄‥\"분노 넘어 자괴감\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865481_36911.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
   {
    "kw": "월즈 결승",
    "traffic": "200+",
@@ -69,9 +86,9 @@
      "source": "Chosunbiz"
     },
     {
-     "title": "구성환 “학창 시절 4대 천왕…초콜릿·편지 많이 받았다”",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023588/1",
-     "source": "동아일보"
+     "title": "\"조승우·손예진의 '클래식'이었다\"…구성환, 30년전 50일 사귄 동창 재회",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6353497",
+     "source": "뉴스1"
     }
    ]
   },
@@ -122,30 +139,13 @@
    "news": [
     {
      "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712285",
      "source": "KBS 뉴스"
     },
     {
      "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
      "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879",
      "source": "기호일보"
-    }
-   ]
-  },
-  {
-   "kw": "광천동주택재개발",
-   "traffic": "100+",
-   "when": "11월 13일 23:10",
-   "news": [
-    {
-     "title": "광천동 재개발 철거 착수…교통망 확충은 ‘난항’",
-     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082235",
-     "source": "진일보 | 전남일보"
-    },
-    {
-     "title": "광주 최대 규모 ‘광천동 재개발 사업’ 철거 본격화",
-     "url": "https://www.seoul.co.kr/news/society/2026/11/12/20261112500370",
-     "source": "서울신문"
     }
    ]
   }
