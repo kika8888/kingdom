@@ -1,20 +1,88 @@
 {
- "updated": "2026-11-13 11:23",
+ "updated": "2026-11-13 12:23",
  "items": [
   {
-   "kw": "공군사관학교",
-   "traffic": "100+",
-   "when": "11월 13일 10:10",
+   "kw": "김창평",
+   "traffic": "500+",
+   "when": "11월 13일 11:20",
    "news": [
     {
-     "title": "강신철 \"안규백 항의전화 받은 적 없어…지지하는 말 해줘\"",
-     "url": "https://www.yna.co.kr/view/AKR20261112172900001",
+     "title": "SSG, 베테랑 포수 김민식과 결별…선수단 추가 정비",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710823",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "\"선수가 먼저…\" 최정, 박병호도 감탄한 한국판 애런 저지, 왜 은퇴를 결심했나",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/13/GZRGMZRUMQYGGY3CMQYTSMJRGE/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "최혜진",
+   "traffic": "100+",
+   "when": "11월 13일 11:20",
+   "news": [
+    {
+     "title": "최혜진, LPGA 투어 디안니카 1R 9언더파 선두…첫 우승 재도전",
+     "url": "https://www.yna.co.kr/view/AKR20261113026200007",
      "source": "연합뉴스"
     },
     {
-     "title": "국방부 \"국군사관학교 기본계획 수정, 정책 수용도·완성도 높이는 과정\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6865131_36911.html",
-     "source": "MBC 뉴스"
+     "title": "‘시즌 3승 도전’ 유해란, 명예의 전당 앞둔 코르다와 최종전 앞두고 격돌",
+     "url": "https://www.donga.com/news/Sports/article/all/20261112/135011271/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "종합격투기",
+   "traffic": "100+",
+   "when": "11월 13일 11:10",
+   "news": [
+    {
+     "title": "[공식발표] \"가까스로 목숨 건졌지만...\" 日 격투기 충격 사고, 뒤통수부터 떨어져 의식 불명 \"두 차례 수술에도 위중한 상태\"",
+     "url": "https://www.chosun.com/sports/sports_general/2026/11/13/G4YGCY3DMI4TAMRTGQ3WINDDMQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "뇌출혈 전력 日 파이터, 또 뇌출혈로 생명 위독",
+     "url": "https://biz.heraldcorp.com/article/10935935",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
+  {
+   "kw": "도지코인",
+   "traffic": "200+",
+   "when": "11월 13일 10:50",
+   "news": [
+    {
+     "title": "도지코인 밈코인 꼬리표 뗀다…디파이·예측시장 영토 확장",
+     "url": "https://www.g-enews.com/article/Securities/2026/11/202611130310511461e7e8286d56_1",
+     "source": "글로벌이코노믹"
+    },
+    {
+     "title": "도지코인 랩스 창업자 \"도지코인(DOGE), 머스크 트윗에 흔들리던 시절은 갔다\"",
+     "url": "https://www.coinreaders.com/269920",
+     "source": "코인리더스"
+    }
+   ]
+  },
+  {
+   "kw": "스마트 글래스",
+   "traffic": "2000+",
+   "when": "11월 13일 10:50",
+   "news": [
+    {
+     "title": "삼성전자, 구글·젠틀몬스터·워비파커와 협업한 인텔리전트 아이웨어 전격 공개 - 삼성전자 뉴스룸",
+     "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B5%AC%EA%B8%80%C2%B7%EC%A0%A0%ED%8B%80%EB%AA%AC%EC%8A%A4%ED%84%B0%C2%B7%EC%9B%8C%EB%B9%84%ED%8C%8C%EC%BB%A4%EC%99%80-%ED%98%91%EC%97%85%ED%95%9C-%EC%9D%B8",
+     "source": "samsung.com"
+    },
+    {
+     "title": "삼성 첫 스마트안경 예약판매 시작…제미나이 장착, 가격 65만~75만원",
+     "url": "https://www.khan.co.kr/article/202611122300001",
+     "source": "경향신문"
     }
    ]
   },
@@ -29,21 +97,38 @@
      "source": "로이슈"
     },
     {
-     "title": "‘AI가 서류 심사’ 안내받는 경우 지원자는 경력 부풀려 쓰는 경향",
-     "url": "https://dbr.donga.com/article/view/1904/article_no/12325",
-     "source": "동아비즈니스리뷰"
+     "title": "\"연습 상대 OK, 실제론 글쎄\"…Z세대 구직자가 본 `AI 면접관`은",
+     "url": "https://www.ddaily.co.kr/page/view/2026111310440733410",
+     "source": "디지털데일리"
+    }
+   ]
+  },
+  {
+   "kw": "공군사관학교",
+   "traffic": "100+",
+   "when": "11월 13일 10:10",
+   "news": [
+    {
+     "title": "국방부, 사관학교 생도 대상 설문조사 실시‥\"국군사관학교 보완 의견 수렴\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865402_36911.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "국방부, 육해공 사관생도 2천350명 대상 국군사관학교 설문 착수",
+     "url": "https://www.yna.co.kr/view/AKR20261113081000504",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "kw": "평가",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 13일 09:40",
    "news": [
     {
-     "title": "ESG 성적 'A+' 자랑한 KB·신한금융…옥에 티는 'LTV 담합'",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444583",
-     "source": "연합인포맥스"
+     "title": "삼성바이오로직스, 한국ESG기준원 평가서 '통합 A+' 획득",
+     "url": "https://pharm.edaily.co.kr/News/Read?newsId=03129126645645392",
+     "source": "팜이데일리"
     },
     {
      "title": "영진약품, 한국ESG기준원 ESG 평가 통합 'A' 등급 획득",
@@ -63,9 +148,9 @@
      "source": "동아일보"
     },
     {
-     "title": "‘호주전 7-8 충격패→결승 탈락 위기’ 한국, 日 11승 대형 좌완신인 만난다 “한국 좋은 타자 많아”",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/13/MQYDKOJTGMYDMNZYHFTDEOJWG4/",
-     "source": "조선일보"
+     "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076",
+     "source": "머니투데이"
     }
    ]
   },
@@ -83,91 +168,6 @@
      "title": "[이슈&인사이트] 연준의 결정을 기다리지 않는 통화정책",
      "url": "https://m.ekn.kr/view.php?key=20261110022330363",
      "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "메르세데스-벤츠",
-   "traffic": "1000+",
-   "when": "11월 13일 09:20",
-   "news": [
-    {
-     "title": "벤츠도 독일 공장 폐쇄 검토…\"국내 투자 중단\"",
-     "url": "https://www.yna.co.kr/view/AKR20261113005800082",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "메르세데스-벤츠, 독일 공장 폐쇄 검토…“국내 투자 중단”",
-     "url": "https://www.etnews.com/20261113000122",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "gemini 4 hydrogen",
-   "traffic": "200+",
-   "when": "11월 13일 09:10",
-   "news": [
-    {
-     "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-     "source": "blog.google"
-    },
-    {
-     "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-     "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-     "source": "Ars Technica"
-    }
-   ]
-  },
-  {
-   "kw": "양승조",
-   "traffic": "500+",
-   "when": "11월 13일 08:50",
-   "news": [
-    {
-     "title": "한국수자원공사 신임 사장에 양승조 전 충남지사",
-     "url": "https://www.yna.co.kr/view/AKR20261112179200063",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "수자원공사 신임 사장에 양승조 임명, 충남지사 지내",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451928",
-     "source": "비즈니스포스트"
-    }
-   ]
-  },
-  {
-   "kw": "m365",
-   "traffic": "500+",
-   "when": "11월 13일 08:50",
-   "news": [
-    {
-     "title": "Microsoft Starts Limiting Copilot Chat Usage For Users Without Paid Licenses",
-     "url": "https://www.crn.com/news/ai/2026/microsoft-starts-limiting-copilot-chat-usage-for-users-without-paid-licenses",
-     "source": "CRN"
-    },
-    {
-     "title": "Microsoft extends undisclosed usage restrictions on Copilot Chat for enterprise users",
-     "url": "https://www.computerworld.com/article/4245658/microsoft-extends-undisclosed-usage-restrictions-on-copilot-chat-for-enterprise-users.html",
-     "source": "Computerworld"
-    }
-   ]
-  },
-  {
-   "kw": "김영훈",
-   "traffic": "200+",
-   "when": "11월 13일 08:40",
-   "news": [
-    {
-     "title": "노동장관, 반도체 기업 간담회…초광역특구 사회적 대화에 참고",
-     "url": "https://www.yna.co.kr/view/AKR20261112178500530",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "반도체 업계 만난 노동장관…“지속적 혁신·좋은 일자리, 두 과제에 역량 집중해야”",
-     "url": "https://biz.chosun.com/topics/topics_social/2026/11/13/OET4E3NDM5FAZONDZFIWDVGGAI/",
-     "source": "Chosunbiz"
     }
    ]
   }
