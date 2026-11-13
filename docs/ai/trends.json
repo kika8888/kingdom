@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-13 10:23",
+ "updated": "2026-11-13 11:23",
  "items": [
   {
-   "kw": "메르세데스-벤츠",
+   "kw": "공군사관학교",
+   "traffic": "100+",
+   "when": "11월 13일 10:10",
+   "news": [
+    {
+     "title": "강신철 \"안규백 항의전화 받은 적 없어…지지하는 말 해줘\"",
+     "url": "https://www.yna.co.kr/view/AKR20261112172900001",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "국방부 \"국군사관학교 기본계획 수정, 정책 수용도·완성도 높이는 과정\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865131_36911.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "진학사",
    "traffic": "500+",
+   "when": "11월 13일 10:10",
+   "news": [
+    {
+     "title": "진학사 캐치 조사서 취준생 70% AI 면접 연습 의향…실전은 대면 선호",
+     "url": "https://www.lawissue.co.kr/view.php?ud=20261113085015441204ead0791_12",
+     "source": "로이슈"
+    },
+    {
+     "title": "‘AI가 서류 심사’ 안내받는 경우 지원자는 경력 부풀려 쓰는 경향",
+     "url": "https://dbr.donga.com/article/view/1904/article_no/12325",
+     "source": "동아비즈니스리뷰"
+    }
+   ]
+  },
+  {
+   "kw": "평가",
+   "traffic": "1000+",
+   "when": "11월 13일 09:40",
+   "news": [
+    {
+     "title": "ESG 성적 'A+' 자랑한 KB·신한금융…옥에 티는 'LTV 담합'",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444583",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "영진약품, 한국ESG기준원 ESG 평가 통합 'A' 등급 획득",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721800",
+     "source": "뉴스타운"
+    }
+   ]
+  },
+  {
+   "kw": "아시아 프로야구 챔피언십",
+   "traffic": "2000+",
+   "when": "11월 13일 09:30",
+   "news": [
+    {
+     "title": "호주에도 지는 한국야구",
+     "url": "https://www.donga.com/news/Sports/article/all/20261113/135017424/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "‘호주전 7-8 충격패→결승 탈락 위기’ 한국, 日 11승 대형 좌완신인 만난다 “한국 좋은 타자 많아”",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/13/MQYDKOJTGMYDMNZYHFTDEOJWG4/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "금융통화위원회",
+   "traffic": "100+",
+   "when": "11월 13일 09:30",
+   "news": [
+    {
+     "title": "11월엔 올린다지만 그다음은…금통위가 주목한 소비의 온도",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444388",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "[이슈&인사이트] 연준의 결정을 기다리지 않는 통화정책",
+     "url": "https://m.ekn.kr/view.php?key=20261110022330363",
+     "source": "에너지경제신문"
+    }
+   ]
+  },
+  {
+   "kw": "메르세데스-벤츠",
+   "traffic": "1000+",
    "when": "11월 13일 09:20",
    "news": [
     {
@@ -12,15 +97,15 @@
      "source": "연합뉴스"
     },
     {
-     "title": "벤츠마저 독일 공장 투자 중단…폐쇄 카드까지 꺼냈다",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02814246645645392",
-     "source": "마켓인"
+     "title": "메르세데스-벤츠, 독일 공장 폐쇄 검토…“국내 투자 중단”",
+     "url": "https://www.etnews.com/20261113000122",
+     "source": "전자신문"
     }
    ]
   },
   {
    "kw": "gemini 4 hydrogen",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 13일 09:10",
    "news": [
     {
@@ -29,15 +114,32 @@
      "source": "blog.google"
     },
     {
-     "title": "Gemini 4 Carbon in GitHub Copilot",
-     "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot/",
-     "source": "The GitHub Blog"
+     "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+     "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+     "source": "Ars Technica"
+    }
+   ]
+  },
+  {
+   "kw": "양승조",
+   "traffic": "500+",
+   "when": "11월 13일 08:50",
+   "news": [
+    {
+     "title": "한국수자원공사 신임 사장에 양승조 전 충남지사",
+     "url": "https://www.yna.co.kr/view/AKR20261112179200063",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "수자원공사 신임 사장에 양승조 임명, 충남지사 지내",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451928",
+     "source": "비즈니스포스트"
     }
    ]
   },
   {
    "kw": "m365",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 13일 08:50",
    "news": [
     {
@@ -53,23 +155,6 @@
    ]
   },
   {
-   "kw": "양승조",
-   "traffic": "200+",
-   "when": "11월 13일 08:50",
-   "news": [
-    {
-     "title": "한국수자원공사 신임 사장에 양승조 전 충남지사",
-     "url": "https://www.yna.co.kr/view/AKR20261112179200063",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "수자원공사 17대 사장에 양승조 전 충남지사…13일 업무 시작",
-     "url": "https://www.news1.kr/local/daejeon-chungnam/6352895",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
    "kw": "김영훈",
    "traffic": "200+",
    "when": "11월 13일 08:40",
@@ -80,94 +165,9 @@
      "source": "연합뉴스"
     },
     {
-     "title": "김영훈, 삼성·SK 만나 반도체 근로시간 유연화 논의…메가특구 사회적대화 연계",
-     "url": "https://biz.heraldcorp.com/article/10935546",
-     "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "kw": "헤그세스",
-   "traffic": "100+",
-   "when": "11월 13일 08:40",
-   "news": [
-    {
-     "title": "헤그세스, 자기 꾸짖은 병사에 훈장 수여… \"잘했다, 상병\"",
-     "url": "https://www.chosun.com/international/us/2026/11/13/NXMEZQGXVZED5NNRARRJ42TEQ4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "창피 뒤 반전 시도?…국립묘지서 떠든 미 국방, 꾸짖은 병사에 훈장",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261113083333TBx",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "맨체스터 유나이티드 fc",
-   "traffic": "1000+",
-   "when": "11월 13일 08:40",
-   "news": [
-    {
-     "title": "맨유 새 감독에 포체티노 유력",
-     "url": "https://www.khan.co.kr/article/202611122023005",
-     "source": "경향신문"
-    },
-    {
-     "title": "[오피셜]'40년만의 강등권' 맨유, 6개월만에 캐릭 '전격 경질'...훈련 중 포체티노 합의→'레전드' 향한 황당 대우에 \"역겹다\", \"소송감\" 비난 쇄도 중",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/13/MQ3TCMJSGQ3GIMBVME2TKNDFMU/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "두산에너빌리티",
-   "traffic": "2000+",
-   "when": "11월 13일 08:10",
-   "news": [
-    {
-     "title": "'DL이앤씨·두산 협력사' 엑스에너지 미국 SMR 건설 승인, \"실제 착공 여부는 미지수\"",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451730",
-     "source": "비즈니스포스트"
-    },
-    {
-     "title": "두산에너빌리티, NuScale 원자로 계약 체결: 034020, 상승세 이어갈까?",
-     "url": "https://tradersunion.com/ko/news/stocks/show/4206554-doosan-enerbility-slides-0-21percent-today/",
-     "source": "Traders Union"
-    }
-   ]
-  },
-  {
-   "kw": "정명훈",
-   "traffic": "2000+",
-   "when": "11월 13일 08:00",
-   "news": [
-    {
-     "title": "“정명훈 공연만 날린 게 아니다” 부산이 100억과 바꾼 것",
-     "url": "https://www.joongang.co.kr/article/25477943",
-     "source": "중앙일보"
-    },
-    {
-     "title": "함신익과 심포니송, 내년 베토벤 200주기 기념 공연",
-     "url": "https://www.yna.co.kr/view/AKR20261112136700005",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "czech republic national football team vs spain national football team standings",
-   "traffic": "500+",
-   "when": "11월 13일 07:50",
-   "news": [
-    {
-     "title": "Czech Republic 0-2 Spain: Comfortable win extends unbeaten run to 43 games",
-     "url": "https://www.bbc.com/sport/football/live/cwg5jrzyqzdnt",
-     "source": "BBC"
-    },
-    {
-     "title": "Balde, Puig Lead Spain to 2-0 Victory",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/13/RGAKJQYST5EGHFSN6ZTTKW5TV4/",
-     "source": "조선일보"
+     "title": "반도체 업계 만난 노동장관…“지속적 혁신·좋은 일자리, 두 과제에 역량 집중해야”",
+     "url": "https://biz.chosun.com/topics/topics_social/2026/11/13/OET4E3NDM5FAZONDZFIWDVGGAI/",
+     "source": "Chosunbiz"
     }
    ]
   }
