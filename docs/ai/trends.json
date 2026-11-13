@@ -1,9 +1,66 @@
 {
- "updated": "2026-11-13 23:23",
+ "updated": "2026-11-14 00:23",
  "items": [
   {
-   "kw": "민희진",
+   "kw": "축구중계",
+   "traffic": "2000+",
+   "when": "11월 13일 23:20",
+   "news": [
+    {
+     "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
+     "url": "https://www.khan.co.kr/article/202611112246001",
+     "source": "경향신문"
+    },
+    {
+     "title": "‘흥행 보증수표’의 몰락…외면 받는 한국 축구 A매치",
+     "url": "https://www.sportsworldi.com/newsView/20261112514439",
+     "source": "스포츠월드"
+    }
+   ]
+  },
+  {
+   "kw": "쿠플",
    "traffic": "200+",
+   "when": "11월 13일 23:20",
+   "news": []
+  },
+  {
+   "kw": "대한민국",
+   "traffic": "200+",
+   "when": "11월 13일 23:20",
+   "news": [
+    {
+     "title": "[게시판] 농식품부, 15일까지 '2026 대한민국 우리술 대축제'",
+     "url": "https://www.yna.co.kr/view/AKR20261113129300030",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "막걸리부터 증류주까지…전통 양조장에서 빚어낸 우리 술의 매력 [이슈픽]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711215",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "포수",
+   "traffic": "100+",
+   "when": "11월 13일 23:20",
+   "news": [
+    {
+     "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8712285",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "와~60위 됐으면 어쩔뻔, 연봉 61위 C등급 깜짝 호재...하늘이 돕는 FA 김호령, 실수령 1억5천 고우석이 왜 도우미로 거론되나",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/14/GQ4DSYTDGAYDINJRGY2GEOLFGM/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "민희진",
+   "traffic": "500+",
    "when": "11월 13일 22:20",
    "news": [
     {
@@ -12,26 +69,26 @@
      "source": "경향신문"
     },
     {
-     "title": "빌리프랩·쏘스뮤직, 민희진에 20억 손배소 1심 패소",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611132301137ET",
-     "source": "연합뉴스TV"
+     "title": "빌리프랩·쏘스뮤직, 민희진 상대 손배소 1심서 패소(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261113166651004",
+     "source": "연합뉴스"
     }
    ]
   },
   {
-   "kw": "김영우",
-   "traffic": "5000+",
-   "when": "11월 13일 22:00",
+   "kw": "대한민국 기후에너지환경부",
+   "traffic": "100+",
+   "when": "11월 13일 22:20",
    "news": [
     {
-     "title": "한국 야구, APBC 일본전 패배…한일전 13경기 연속 무승",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8712683",
-     "source": "KBS 뉴스"
+     "title": "“기후행동 실천하면 포인트·금리우대”…민관 금융협력 체계 구축",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374702",
+     "source": "전기신문"
     },
     {
-     "title": "'국가대표 新 해결사' 김휘집이 또 해냈다! 5-5 동점 스리런 폭발, 한일전 대반전 노린다 [오!쎈 도쿄] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/13/202611132201770502O",
-     "source": "머니투데이"
+     "title": "은행 앱으로 '기후시민' 등록하면 은행 포인트도 준다… 기후부, KB·IBK와 협약",
+     "url": "https://www.fnnews.com/news/202611121400203488",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
@@ -58,20 +115,20 @@
    "when": "11월 13일 21:40",
    "news": [
     {
-     "title": "Breaking: U.S. Producer Prices Surge 6.5%, 4-Year High",
+     "title": "U.S. Producer Prices Hit 4-Year High, Stoking Fed Rate Hike Speculation",
      "url": "https://www.chosun.com/english/market-money-en/2026/11/13/3YNIHXNJYZAJTB4OP3ACIJVIZM/",
      "source": "조선일보"
     },
     {
-     "title": "PPI report moments away: Hot wholesale inflation could raise odds of a bigger Fed rate hike — live updates",
-     "url": "https://www.marketwatch.com/livecoverage/ppi-report-today-october-inflation-fed-rates-live-updates",
-     "source": "MarketWatch"
+     "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+     "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+     "source": "CNBC"
     }
    ]
   },
   {
    "kw": "한국 야구",
-   "traffic": "500+",
+   "traffic": "200+",
    "when": "11월 13일 21:30",
    "news": [
     {
@@ -100,74 +157,6 @@
      "title": "“진짜 좋아해요, 팬이에요”… 이세돌, ‘코리안 좀비’ 정찬성 만나 팬심 고백",
      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/G5SDOYRVHA4DIMLFMMZTOOLGGI/",
      "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "대한민국 중소벤처기업부",
-   "traffic": "200+",
-   "when": "11월 13일 21:20",
-   "news": [
-    {
-     "title": "전국이 함께한 소비축제 '코그페' - 전체 | 카드/한컷 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975632&pWise=sub&pWiseSub=R3",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "장보기부터 가전제품까지, 코리아그랜드페스티벌 할인 총정리",
-     "url": "https://story.pay.naver.com/content/3911",
-     "source": "네이버페이 머니스토리"
-    }
-   ]
-  },
-  {
-   "kw": "박시원",
-   "traffic": "500+",
-   "when": "11월 13일 21:20",
-   "news": [
-    {
-     "title": "[사진]인사하는 이구치 감독",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/13/MRRDQNLEGE2DMNZYHA2TOMJWMQ/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[APBC] 日, 한국전 '특급 신인' 다케마루 선발 등판 예고",
-     "url": "https://www.newspim.com/news/view/20261113000801",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "유빈",
-   "traffic": "200+",
-   "when": "11월 13일 21:10",
-   "news": [
-    {
-     "title": "오마이걸 유빈, 검정 슈트 차림 근황…비밀 요원 전략가 예고",
-     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275023",
-     "source": "톱스타뉴스"
-    },
-    {
-     "title": "선미·유빈·영탁, 도심 속 우정샷…음악으로 이어진 특별한 순간",
-     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082541",
-     "source": "진일보 | 전남일보"
-    }
-   ]
-  },
-  {
-   "kw": "전준표",
-   "traffic": "500+",
-   "when": "11월 13일 21:00",
-   "news": [
-    {
-     "title": "[사진]홈런 맞고 주저앉은 전준표",
-     "url": "https://biz.chosun.com/sports/sports_photo/2026/11/13/MQYWIMBVGAYGEOJQMRTDMMRZMY/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "“(안)우진이 형이랑 얘기 많이 했는데…준비 더 잘해야 한다” 영웅들 2027 희망, 태극마크 달고 감격의 도쿄행",
-     "url": "https://mydaily.co.kr/page/view/2026111114040681541",
-     "source": "마이데일리"
     }
    ]
   }
