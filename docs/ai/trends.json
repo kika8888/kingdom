@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14 07:23",
+ "updated": "2026-11-14 07:31",
  "items": [
   {
    "kw": "天気",
@@ -70,23 +70,6 @@
    ]
   },
   {
-   "kw": "디에고 시메오네",
-   "traffic": "200+",
-   "when": "11월 14일 05:40",
-   "news": [
-    {
-     "title": "아틀레티코 날벼락! 이강인 애지중지하는 시메오네 감독 떠나나…“여전히 구단으로부터 어떠한 제안도 받지 못했다”",
-     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698372",
-     "source": "인터풋볼"
-    },
-    {
-     "title": "'이강인 포함 18명 이탈' ATM 또 대형악재! '훈련 정상진행 불가' 긴급 수혈…시메오네 한숨 깊어진다",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/10/GM2WIMBUMFRGCZTEGBTDGNDFHA/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
    "kw": "은행나무",
    "traffic": "200+",
    "when": "11월 14일 05:40",
@@ -104,10 +87,21 @@
    ]
   },
   {
-   "kw": "군수산업",
-   "traffic": "100+",
+   "kw": "디에고 시메오네",
+   "traffic": "500+",
    "when": "11월 14일 05:40",
-   "news": []
+   "news": [
+    {
+     "title": "'이강인은 60분 만에 뺐으면서...' 시메오네 감독의 단호한 한마디 \"알바레스는 교체하지 않을 거야\"... 스페인 현지서도 논란 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/11/2026111108070646917",
+     "source": "머니투데이"
+    },
+    {
+     "title": "\"이강인이 공만 잡으면 축구가 달라진다\"…바르샤전 패배에도 스페인 언론이 감탄한 이유",
+     "url": "https://star.fnnews.com/article/202611091910232899",
+     "source": "fn스타"
+    }
+   ]
   },
   {
    "kw": "이재영",
@@ -115,9 +109,9 @@
    "when": "11월 14일 05:40",
    "news": [
     {
-     "title": "이재영-이다영 뛴 투란, 챔피언스리그 본선행 확정…이재영 경기 MVP 선정",
-     "url": "https://mydaily.co.kr/page/view/2026111110032629481",
-     "source": "마이데일리"
+     "title": "이다영-이재영 선발 맹활약 미쳤다! 챔스리그 본선행 확정…투란 3-0 완승→이다영은 라인업 포스터 모델까지 [오피셜]",
+     "url": "https://m.news.nate.com/view/20261111n00732",
+     "source": "네이트"
     },
     {
      "title": "[오피셜] 이재영, 유럽 챔피언스리그 MVP 선정…구단 역사상 첫 본선 진출 이끈 후 \"행복하고 만족한다\"",
@@ -125,6 +119,12 @@
      "source": "www.xportsnews.com"
     }
    ]
+  },
+  {
+   "kw": "군수산업",
+   "traffic": "100+",
+   "when": "11월 14일 05:40",
+   "news": []
   },
   {
    "kw": "헌법",
@@ -137,9 +137,9 @@
      "source": "KBS 뉴스"
     },
     {
-     "title": "北, 78년 만에 인공기 비율 변경…\"김정은식 국가성 강화\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113181944dP5",
-     "source": "연합뉴스TV"
+     "title": "북한 국기 디자인 1948년 이후 처음 변경",
+     "url": "https://www.donga.com/news/Inter/article/all/20261114/135023727/1",
+     "source": "동아일보"
     }
    ]
   },
