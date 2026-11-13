@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-13 22:23",
+ "updated": "2026-11-13 23:23",
  "items": [
   {
-   "kw": "박시원",
+   "kw": "민희진",
    "traffic": "200+",
+   "when": "11월 13일 22:20",
+   "news": [
+    {
+     "title": "“아일릿이 뉴진스 카피” 민희진에 20억 손배소송한 빌리프랩 패소",
+     "url": "https://www.khan.co.kr/article/202611131850001",
+     "source": "경향신문"
+    },
+    {
+     "title": "빌리프랩·쏘스뮤직, 민희진에 20억 손배소 1심 패소",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611132301137ET",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "김영우",
+   "traffic": "5000+",
+   "when": "11월 13일 22:00",
+   "news": [
+    {
+     "title": "한국 야구, APBC 일본전 패배…한일전 13경기 연속 무승",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8712683",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "'국가대표 新 해결사' 김휘집이 또 해냈다! 5-5 동점 스리런 폭발, 한일전 대반전 노린다 [오!쎈 도쿄] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/13/202611132201770502O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "明天的天氣",
+   "traffic": "100+",
+   "when": "11월 13일 21:50",
+   "news": [
+    {
+     "title": "氣溫漸升東偶雨週六短波槽掠過",
+     "url": "http://www.metapp.org.tw/pages/post-cda502448ac8e0252fb8.html",
+     "source": "氣象應用推廣基金會"
+    },
+    {
+     "title": "要變天了！週六「華南雲雨區」東移　全台降雨機率高",
+     "url": "https://www.mnews.tw/story/20261113sot1951001",
+     "source": "鏡新聞"
+    }
+   ]
+  },
+  {
+   "kw": "ppi",
+   "traffic": "200+",
+   "when": "11월 13일 21:40",
+   "news": [
+    {
+     "title": "Breaking: U.S. Producer Prices Surge 6.5%, 4-Year High",
+     "url": "https://www.chosun.com/english/market-money-en/2026/11/13/3YNIHXNJYZAJTB4OP3ACIJVIZM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "PPI report moments away: Hot wholesale inflation could raise odds of a bigger Fed rate hike — live updates",
+     "url": "https://www.marketwatch.com/livecoverage/ppi-report-today-october-inflation-fed-rates-live-updates",
+     "source": "MarketWatch"
+    }
+   ]
+  },
+  {
+   "kw": "한국 야구",
+   "traffic": "500+",
+   "when": "11월 13일 21:30",
+   "news": [
+    {
+     "title": "호주에도 지는 한국야구",
+     "url": "https://www.donga.com/news/Sports/article/all/20261113/135017424/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "'와' 이러니 MLB가 주목하지... '홈런+2루타 장타폭발' 김주원, \"포스팅시 많은 팀이 원할 것\" 이유 증명 [APBC] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/13/2026111219552258076",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "이세돌",
+   "traffic": "200+",
+   "when": "11월 13일 21:30",
+   "news": [
+    {
+     "title": "[4회 선공개] 몸을 풀었을 뿐인데 최애의 표정이 굳었습니다 | KBS 방송",
+     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_LS-20260930224325-01-000_20261113_SC001&program_code=T2026-0530&program_id=LS-20260930224325-01-000&section_code=04&broadcast_complete_yn=N&section_id=28580",
+     "source": "대한민국 대표 공영미디어 KBS"
+    },
+    {
+     "title": "“진짜 좋아해요, 팬이에요”… 이세돌, ‘코리안 좀비’ 정찬성 만나 팬심 고백",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/G5SDOYRVHA4DIMLFMMZTOOLGGI/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "대한민국 중소벤처기업부",
+   "traffic": "200+",
+   "when": "11월 13일 21:20",
+   "news": [
+    {
+     "title": "전국이 함께한 소비축제 '코그페' - 전체 | 카드/한컷 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975632&pWise=sub&pWiseSub=R3",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "장보기부터 가전제품까지, 코리아그랜드페스티벌 할인 총정리",
+     "url": "https://story.pay.naver.com/content/3911",
+     "source": "네이버페이 머니스토리"
+    }
+   ]
+  },
+  {
+   "kw": "박시원",
+   "traffic": "500+",
    "when": "11월 13일 21:20",
    "news": [
     {
@@ -19,25 +138,19 @@
    ]
   },
   {
-   "kw": "대한민국 중소벤처기업부",
+   "kw": "유빈",
    "traffic": "200+",
-   "when": "11월 13일 21:20",
-   "news": []
-  },
-  {
-   "kw": "대한민국 사우디",
-   "traffic": "2000+",
    "when": "11월 13일 21:10",
    "news": [
     {
-     "title": "“에이~ 매치” 되어버린 A매치···축구대표팀 인기 추락하는 소리",
-     "url": "https://www.khan.co.kr/article/202611112246001",
-     "source": "경향신문"
+     "title": "오마이걸 유빈, 검정 슈트 차림 근황…비밀 요원 전략가 예고",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16275023",
+     "source": "톱스타뉴스"
     },
     {
-     "title": "'무엇이든 해줄지니 비서진' 축구 한국 사우디 축구 중계로 결방",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751617",
-     "source": "국제뉴스"
+     "title": "선미·유빈·영탁, 도심 속 우정샷…음악으로 이어진 특별한 순간",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082541",
+     "source": "진일보 | 전남일보"
     }
    ]
   },
@@ -55,108 +168,6 @@
      "title": "“(안)우진이 형이랑 얘기 많이 했는데…준비 더 잘해야 한다” 영웅들 2027 희망, 태극마크 달고 감격의 도쿄행",
      "url": "https://mydaily.co.kr/page/view/2026111114040681541",
      "source": "마이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "피클",
-   "traffic": "500+",
-   "when": "11월 13일 20:50",
-   "news": [
-    {
-     "title": "[단독]AI 에이전트 ‘피클’ 코레일 접근 안 된다···미국선 항공사도 AI 차단",
-     "url": "https://www.khan.co.kr/article/202611121711011",
-     "source": "경향신문"
-    },
-    {
-     "title": "美 유나이티드항공 AI 예약 차단 예고…국내 항공업계 \"보안 측면 검토 중\"",
-     "url": "https://www.greened.kr/news/articleView.html?idxno=354613",
-     "source": "녹색경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "내일 날씨",
-   "traffic": "200000+",
-   "when": "11월 13일 20:40",
-   "news": [
-    {
-     "title": "토요일 전국 흐리고 비…제주 최대 60㎜ [내일 날씨]",
-     "url": "https://www.hankyung.com/article/202611134717i",
-     "source": "한국경제"
-    },
-    {
-     "title": "토요일 전국에 ‘가을비’… 일요일 오전부터 맑아져",
-     "url": "https://biz.chosun.com/topics/topics_social/2026/11/13/DFMNWVLQ2FAALI5BHSA2C7SSP4/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "thời tiết ngày mai",
-   "traffic": "2000+",
-   "when": "11월 13일 20:40",
-   "news": [
-    {
-     "title": "Dự báo thời tiết TPHCM và Nam Bộ ngày 14.11",
-     "url": "https://laodong.vn/ldt/moi-truong/du-bao-thoi-tiet-tphcm-va-nam-bo-ngay-1411-1799937.ldo",
-     "source": "Laodong.vn"
-    },
-    {
-     "title": "[Video] Dự báo thời tiết đêm nay và ngày mai 14/11/2026: Mưa thu hẹp trên cả Bắc Bộ lẫn Trung Bộ",
-     "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-14112026-mua-thu-hep-tren-ca-bac-bo-lan-trung-bo-post1002469.html",
-     "source": "Báo Nhân Dân điện tử"
-    }
-   ]
-  },
-  {
-   "kw": "cuaca besok",
-   "traffic": "500+",
-   "when": "11월 13일 20:40",
-   "news": [
-    {
-     "title": "BMKG Ungkap Daftar 30 Wilayah Indonesia Berpotensi Hujan Hari Ini",
-     "url": "https://www.cnnindonesia.com/teknologi/20261112180000-641-1426531/bmkg-ungkap-daftar-30-wilayah-indonesia-berpotensi-hujan-hari-ini",
-     "source": "CNN Indonesia"
-    },
-    {
-     "title": "BMKG Ungkap Cuaca Sepekan ke Depan: Penguatan Monsun Asia hingga Bibit Siklon 92B Picu Hujan Lebat",
-     "url": "https://www.kompas.tv/info-publik/701347/bmkg-ungkap-cuaca-sepekan-ke-depan-penguatan-monsun-asia-hingga-bibit-siklon-92b-picu-hujan-lebat",
-     "source": "Kompas.tv"
-    }
-   ]
-  },
-  {
-   "kw": "아던트뉴스",
-   "traffic": "200+",
-   "when": "11월 13일 20:40",
-   "news": [
-    {
-     "title": "\"축구장 3만 7천 개 넓이를 바다 위로 달린다니\"... 세계 최장 바닷길 따라가는 섬 드라이브 코스",
-     "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21521",
-     "source": "아던트뉴스"
-    },
-    {
-     "title": "\"숙박이 5만 원대인데 바다가 이렇게 가깝다니\"... 해안탐방로에 산행 코스까지 품은 섬 휴양림",
-     "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21363",
-     "source": "아던트뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "weather tomorrow",
-   "traffic": "5000+",
-   "when": "11월 13일 20:30",
-   "news": [
-    {
-     "title": "FORECAST: Drizzle ending overnight",
-     "url": "https://www.wdrbwave.com/2026/11/12/forecast-pockets-light-rain-small-hail/",
-     "source": "WDRB"
-    },
-    {
-     "title": "Winter-like temperatures are upon us",
-     "url": "https://www.wbko.com/2026/11/13/winter-like-temperatures-are-upon-us/",
-     "source": "WBKO"
     }
    ]
   }
