@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-14 22:22",
+ "updated": "2026-11-14 23:23",
  "items": [
+  {
+   "kw": "천천히 강렬하게",
+   "traffic": "1000+",
+   "when": "11월 14일 21:50",
+   "news": [
+    {
+     "title": "송혜교, 20대 시절 후회하는 이유..\"노는 것 좋아했다\" ('핑계고')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GFRDCNZUHE3DAOBQMVSWIYRTMI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "송혜교 실제 성격, 남모를 속앓이...\"술 마시고 솔직해졌다가 이불킥\"",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-14/202611140100094300008856",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "kw": "데블스 플랜",
+   "traffic": "200+",
+   "when": "11월 14일 21:40",
+   "news": []
+  },
+  {
+   "kw": "딜라이브",
+   "traffic": "200+",
+   "when": "11월 14일 21:40",
+   "news": [
+    {
+     "title": "LG헬로 시청자 투니버스 못 보게 된다?… 시청자는 무슨 죄",
+     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338414",
+     "source": "미디어오늘"
+    },
+    {
+     "title": "합의제 기구 방미통위, 합의만 기다릴 것인가 [강소현의 방송통신문]",
+     "url": "https://www.ddaily.co.kr/page/view/2026111316500450204",
+     "source": "디지털데일리"
+    }
+   ]
+  },
   {
    "kw": "갈비뼈",
    "traffic": "500+",
@@ -36,23 +76,6 @@
    ]
   },
   {
-   "kw": "로또1250",
-   "traffic": "500+",
-   "when": "11월 14일 21:00",
-   "news": [
-    {
-     "title": "제1250회 로또 1등 9명···당첨금 31억원",
-     "url": "https://www.khan.co.kr/article/202611142052001",
-     "source": "경향신문"
-    },
-    {
-     "title": "[속보]로또 1250회 당첨번호 '1·5·18·23·27·28'…보너스 '8'",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=02794566645645720&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
    "kw": "버거킹",
    "traffic": "500+",
    "when": "11월 14일 21:00",
@@ -70,14 +93,42 @@
    ]
   },
   {
+   "kw": "로또1250",
+   "traffic": "500+",
+   "when": "11월 14일 21:00",
+   "news": [
+    {
+     "title": "제1250회 로또 1등 9명···당첨금 31억원",
+     "url": "https://www.khan.co.kr/article/202611142052001",
+     "source": "경향신문"
+    },
+    {
+     "title": "[속보]로또 1250회 당첨번호 '1·5·18·23·27·28'…보너스 '8'",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02794566645645720&mediaCodeNo=257",
+     "source": "edaily.co.kr"
+    }
+   ]
+  },
+  {
    "kw": "nhật bản đấu với brasil",
    "traffic": "100+",
    "when": "11월 14일 20:30",
-   "news": []
+   "news": [
+    {
+     "title": "Stars set Singapore alight as Japan exact revenge on Brazil with dramatic late win",
+     "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win",
+     "source": "ESPN"
+    },
+    {
+     "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
+     "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
+     "source": "The Guardian"
+    }
+   ]
   },
   {
    "kw": "문무",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 14일 20:20",
    "news": [
     {
@@ -106,57 +157,6 @@
      "title": "[사진]리센느 원이-미나미 '시상식도 접수'",
      "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/14/MQZDEZLDGJRTKZLDMJQWMZJXMY/",
      "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "군산 불꽃 축제",
-   "traffic": "100+",
-   "when": "11월 14일 20:10",
-   "news": [
-    {
-     "title": "\"철새도래지서 폭죽이라니\"…군산 불꽃축제에 환경단체 반발",
-     "url": "https://www.yna.co.kr/view/AKR20261113070300055",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "김재준 군산시장, 국회서 2027년 국가예산 증액 건의…새만금·현대차 연계사업 요청",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751917",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "박근혜",
-   "traffic": "200+",
-   "when": "11월 14일 20:00",
-   "news": [
-    {
-     "title": "박근혜, 구미 박정희 탄신 행사서 “분열되지 않고 하나로 뭉쳐야”",
-     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287328.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "박근혜 전 대통령 “정치는 국민의 먹고사는 문제 해결 위한 것…걱정 덜어드려야”",
-     "url": "https://www.kyeonggi.com/article/20261114580079",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "미미미누",
-   "traffic": "200+",
-   "when": "11월 14일 20:00",
-   "news": [
-    {
-     "title": "'놀라운 토요일' 규현·궤도·미미미누 출격… 이과 vs 문과 자존심 건 암기력 대결",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752115",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "“고대는 경쟁 상대도 아냐”… 궤도vs미미미누 연고전 제대로 붙었다 (‘놀토’)",
-     "url": "https://www.mk.co.kr/news/broadcasting-service/12209021",
-     "source": "매일경제"
     }
    ]
   }
