@@ -1,61 +1,78 @@
 {
- "updated": "2026-11-15 07:23",
+ "updated": "2026-11-15 08:23",
  "items": [
   {
-   "kw": "복권",
-   "traffic": "5000+",
-   "when": "11월 15일 06:00",
+   "kw": "함덕주",
+   "traffic": "200+",
+   "when": "11월 15일 07:10",
    "news": [
     {
-     "title": "1250회 로또 1등번호 당첨자 14명...20억씩 배당",
-     "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602149",
-     "source": "헤드라인제주"
-    },
-    {
-     "title": "제1250회 로또 1등 9명···당첨금 31억원",
-     "url": "https://www.khan.co.kr/article/202611142052001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "이승기",
-   "traffic": "500+",
-   "when": "11월 15일 06:00",
-   "news": [
-    {
-     "title": "'105억 전세 피해' 이승기 \"부동산에 악마들이 득실거려\"",
-     "url": "https://www.newsis.com/view/NISX20261114_0003868186",
+     "title": "함덕주, 옵트아웃 행사…시장 나와 새 둥지 찾는다",
+     "url": "https://www.newsis.com/view/NISX20261114_0003868178",
      "source": "뉴시스"
     },
     {
-     "title": "‘105억 전세금 분쟁’ 이승기, “부동산에 악마 가득해, 안 당하면 모른다” 뼈있는 경고",
-     "url": "https://sports.khan.co.kr/article/202611141748013",
-     "source": "스포츠경향"
+     "title": "'후반기 실종→옵트아웃' 함덕주 결국 LG 떠난다, 염경엽 감독의 \"노 코멘트\" 그 말이 힌트였나",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019868",
+     "source": "SPOTV NEWS"
     }
    ]
   },
   {
-   "kw": "김하성",
+   "kw": "육군사관학교",
    "traffic": "500+",
-   "when": "11월 15일 05:30",
+   "when": "11월 15일 07:10",
    "news": [
     {
-     "title": "\"2000만 달러 받고 타율 .116 충격\" 김하성, 몸값 폭락이 오히려 기회? 美 매체 \"최고의 알짜 영입 될 수도\"",
-     "url": "https://www.chosun.com/sports/world-baseball/2026/11/14/GI3TEOJTGIZGKOBZMY4GIOBVG4/",
-     "source": "조선일보"
+     "title": "[보도정정] 국군사관학교 창설 기본계획 수정안은 확정된 바 없으며 각군 총장을 비롯하여 다양한 계층의 의견을 수렴하고 있습니다.",
+     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975649",
+     "source": "대한민국 정책브리핑"
     },
     {
-     "title": "초대형 희소식! 김하성, 난생처음 인기팀 관심! → 키움 컴백 이유 사라졌다",
-     "url": "https://www.sportschosun.com/baseball/2026-11-14/202611140100094330008858",
-     "source": "스포츠조선"
+     "title": "빈총 경계·北지뢰 무대응 논란 속... 후반기 장성 인사도 ‘육사’ 배제?",
+     "url": "https://www.chosun.com/politics/2026/11/15/H4UB4LI7IFHKPGIUQILRP3QA5A/",
+     "source": "조선일보"
     }
    ]
   },
   {
-   "kw": "미라 안드레예바",
-   "traffic": "200+",
-   "when": "11월 15일 05:30",
+   "kw": "sk하이닉스",
+   "traffic": "10000+",
+   "when": "11월 15일 06:50",
+   "news": [
+    {
+     "title": "국내·외 증권사 목표가 ‘들쭉날쭉’…길 잃은 ‘삼전닉스’ 개미들",
+     "url": "https://www.segye.com/newsView/20261113514396",
+     "source": "세계일보"
+    },
+    {
+     "title": "“48만→40만전자”…실적 좋은데 목표가 낮춘 이유",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02371446645645064&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "100일의 거짓말",
+   "traffic": "1000+",
+   "when": "11월 15일 06:50",
+   "news": [
+    {
+     "title": "[오수경의 TVIEW]",
+     "url": "https://cine21.com/news/view/?mag_id=111267",
+     "source": "씨네21"
+    },
+    {
+     "title": "'100일의 거짓말' 김유정, 박진영에게 다시 정체 발각 위기 [N컷]",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6353973",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "엘리나 스비톨리나",
+   "traffic": "500+",
+   "when": "11월 15일 06:50",
    "news": [
     {
      "title": "무려 '735억' 잭팟→\"돈 더 달라\"→'파격 시스루 논란' 세계 1위 허무한 굴욕... '또' 분노 조절 실패 '도대체 왜' - 머니투데이",
@@ -70,104 +87,87 @@
    ]
   },
   {
-   "kw": "아버지",
+   "kw": "메이저 리그 베이스볼",
    "traffic": "200+",
-   "when": "11월 15일 05:00",
+   "when": "11월 15일 06:50",
    "news": [
     {
-     "title": "하리수 \"중학생 때부터 父와 대화 단절…몰래 성전환 수술\"",
-     "url": "https://www.newsis.com/view/NISX20261115_0003868296",
-     "source": "뉴시스"
+     "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712231",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "\"8㎝ 뇌종양, 두개골 제거\"…빽가, 부모에 진단 숨기다 '눈물' - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/12/2026111209361465715",
-     "source": "머니투데이"
+     "title": "'한국시리즈 MVP' 구자욱‥메이저리그 도전 선언",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865543_37004.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
   {
-   "kw": "portugal vs denmark",
-   "traffic": "1000+",
-   "when": "11월 15일 04:50",
-   "news": [
-    {
-     "title": "Licensable picture: UEFA Nations League 2026/27 League Phase Matchday 5 match between Portugal and Denmark",
-     "url": "https://www.reutersconnect.com/item/uefa-nations-league-202627-league-phase-matchday-5-match-between-portugal-and-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZREEzTkg",
-     "source": "Reuters Connect"
-    },
-    {
-     "title": "Portugal vs Denmark: Match Preview, Kickoff Time, Lineups and Team News",
-     "url": "https://www.365scores.com/news/portugal-vs-denmark-preview",
-     "source": "365Scores"
-    }
-   ]
-  },
-  {
-   "kw": "이세계아이돌",
+   "kw": "성리",
    "traffic": "500+",
-   "when": "11월 15일 04:30",
+   "when": "11월 15일 06:40",
    "news": [
     {
-     "title": "이세계아이돌, 지상파 '음악중심' 출격…실제 몸 없는 6인조 걸그룹, 멜론 7위 이어 무대까지",
-     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276419",
-     "source": "톱스타뉴스"
+     "title": "임영웅 뒤쫓는 성리, K-브랜드지수 2위…‘성리학자’ 팬덤의 힘",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082592",
+     "source": "진일보 | 전남일보"
     },
     {
-     "title": "지니뮤직, 버추얼걸그룹 이세계아이돌 마케팅 '시동'",
-     "url": "https://www.fnnews.com/news/202611100905129167",
-     "source": "파이낸셜뉴스"
+     "title": "임영웅, ASEA 10월 트로트 투표 1위 차지… 글로벌 팬덤의 저력 재확인",
+     "url": "http://www.jemin.com/news/articleView.html?idxno=847219",
+     "source": "제민일보"
     }
    ]
   },
   {
-   "kw": "빈",
-   "traffic": "200+",
-   "when": "11월 15일 04:20",
-   "news": [
-    {
-     "title": "이준석 “내가 노무현 대통령 추천서 어떻게 받나”…전한길 추가 고소 예고",
-     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287327.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "10년 전 공개한 졸업장 또 소환…전한길의 ‘하버드 2차 공세’에 이준석 폭발",
-     "url": "https://www.seoul.co.kr/news/politics/congress/2026/11/14/20261114500025",
-     "source": "서울신문"
-    }
-   ]
-  },
-  {
-   "kw": "포르투갈 대 덴마크",
-   "traffic": "2000+",
-   "when": "11월 15일 04:00",
-   "news": [
-    {
-     "title": "네이션스 리그 포르투갈 대 덴마크 경기 예측",
-     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-bo-dao-nha-vs-dan-mach-tai-nations-league-1799982.ldo",
-     "source": "Laodong.vn"
-    },
-    {
-     "title": "[UNL REVIEW] '은퇴' 호날두의 저주?...포르투갈, 덴마크에 충격 1-4 대패! 호일룬 멀티골에 무너져",
-     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698482",
-     "source": "인터풋볼"
-    }
-   ]
-  },
-  {
-   "kw": "lol",
+   "kw": "홍현희",
    "traffic": "100+",
-   "when": "11월 15일 04:00",
+   "when": "11월 15일 06:40",
    "news": [
     {
-     "title": "League of Legends: New Dawn revealed with modernized client, updated Summoner's Rift, and more",
-     "url": "https://www.sheepesports.com/en/articles/league-of-legends-new-dawn-revealed-with-modernized-client-updated-summoner-s-rift-and-more/en",
-     "source": "Sheep Esports"
+     "title": "홍현희, 시모 사랑 듬뿍..“子 제이쓴, 왜 아깝다고 하는지 이해 안가” (홍쓴TV)",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MQ3GGMJWMVRTKMBVHA4WKMBXMU/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "LoL Esports 2027 and Beyond",
-     "url": "https://lolesports.com/news/lol-esports-2027-and-beyond",
-     "source": "LoL Esports"
+     "title": "“아버님 영상 보지 마세요” 홍현희, 시母 ‘졸혼’ 고백에 당황",
+     "url": "https://sports.donga.com/ent/article/all/20261114/135023868/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "kw": "잠실주공5단지 아파트",
+   "traffic": "500+",
+   "when": "11월 15일 06:30",
+   "news": [
+    {
+     "title": "[단독]잠실주공5단지, 분양신청 저조에 조합장 해임 기로…재건축 ‘삐걱’",
+     "url": "https://news.mtn.co.kr/article/2026111415191575156",
+     "source": "MTN 머니투데이방송"
+    },
+    {
+     "title": "\"9개월 전 37억 찍었는데…\" 잠실엘스, 29억대 매물 등장",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645645392&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "bồ đào nha đấu với đan mạch",
+   "traffic": "100+",
+   "when": "11월 15일 06:30",
+   "news": [
+    {
+     "title": "Video bóng đá Bồ Đào Nha - Đan Mạch: Thảm bại kinh hoàng & nỗi nhớ Ronaldo (Nations League)",
+     "url": "https://www.24h.com.vn/bong-da/video-bong-da-bo-dao-nha-dan-mach-tham-bai-kinh-hoang-noi-nho-ronaldo-nations-league-c48a1811200.html",
+     "source": "Tin tức 24h"
+    },
+    {
+     "title": "Các cầu thủ Bồ Đào Nha sẽ mặc áo số 7 tri ân Ronaldo",
+     "url": "https://vnexpress.net/cac-cau-thu-bo-dao-nha-se-mac-ao-so-7-tri-an-ronaldo-5144581.html",
+     "source": "VnExpress"
     }
    ]
   }
