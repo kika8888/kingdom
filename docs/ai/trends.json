@@ -1,9 +1,83 @@
 {
- "updated": "2026-11-14 21:23",
+ "updated": "2026-11-14 22:22",
  "items": [
   {
-   "kw": "문무",
+   "kw": "갈비뼈",
    "traffic": "500+",
+   "when": "11월 14일 21:20",
+   "news": [
+    {
+     "title": "멀쩡한 갈비뼈 6개 부러뜨린 30대 여성...이유는?",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114141351tED",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "호리병 몸매가 뭐라고…멀쩡한 갈비뼈 6개 부러뜨린 30대女",
+     "url": "https://www.koreadaily.com/article/20261113203409480",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "맥도날드 세종dt점",
+   "traffic": "200+",
+   "when": "11월 14일 21:20",
+   "news": [
+    {
+     "title": "새벽 2시부터 줄 섰다…‘인구 40만’ 세종시 첫 맥도날드, 오픈런에 경찰까지 출동",
+     "url": "https://www.segye.com/newsView/20261114502699",
+     "source": "세계일보"
+    },
+    {
+     "title": "\"맥도날드 먹으러 원정까지\"…인구 40만 도시에 무슨 일이",
+     "url": "https://www.hankyung.com/article/2026111359347",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "로또1250",
+   "traffic": "500+",
+   "when": "11월 14일 21:00",
+   "news": [
+    {
+     "title": "제1250회 로또 1등 9명···당첨금 31억원",
+     "url": "https://www.khan.co.kr/article/202611142052001",
+     "source": "경향신문"
+    },
+    {
+     "title": "[속보]로또 1250회 당첨번호 '1·5·18·23·27·28'…보너스 '8'",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02794566645645720&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "버거킹",
+   "traffic": "500+",
+   "when": "11월 14일 21:00",
+   "news": [
+    {
+     "title": "욕심껏 ‘꽉꽉’ 채운 내 버거가 신메뉴로?…버거킹 플레임 랩 가보니 [현장]",
+     "url": "https://www.mk.co.kr/news/economy/12205410",
+     "source": "매일경제"
+    },
+    {
+     "title": "“두툼한 패티 2장에 치즈 3장, 나만의 버거”…버거킹 연구소에선 다 된다 [르포]",
+     "url": "https://biz.heraldcorp.com/article/10934528",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
+  {
+   "kw": "nhật bản đấu với brasil",
+   "traffic": "100+",
+   "when": "11월 14일 20:30",
+   "news": []
+  },
+  {
+   "kw": "문무",
+   "traffic": "1000+",
    "when": "11월 14일 20:20",
    "news": [
     {
@@ -15,6 +89,23 @@
      "title": "인사말하는 최예빈",
      "url": "https://www.yna.co.kr/view/PYH20261112155500013",
      "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "아이오아이",
+   "traffic": "200+",
+   "when": "11월 14일 20:10",
+   "news": [
+    {
+     "title": "[ET포토] 라이즈, '여심 헌터들'",
+     "url": "https://www.etnews.com/20261114000050",
+     "source": "전자신문"
+    },
+    {
+     "title": "[사진]리센느 원이-미나미 '시상식도 접수'",
+     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/14/MQZDEZLDGJRTKZLDMJQWMZJXMY/",
+     "source": "조선일보"
     }
    ]
   },
@@ -46,9 +137,9 @@
      "source": "한겨레"
     },
     {
-     "title": "박정희 전 대통령 탄신 109돌 행사 참석한 박근혜 전 대통령",
-     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261114_0021532501&pID=1&cID=&sID=1&type=photoMain&idx=6",
-     "source": "뉴시스"
+     "title": "박근혜 전 대통령 “정치는 국민의 먹고사는 문제 해결 위한 것…걱정 덜어드려야”",
+     "url": "https://www.kyeonggi.com/article/20261114580079",
+     "source": "경기일보"
     }
    ]
   },
@@ -63,111 +154,9 @@
      "source": "국제뉴스"
     },
     {
-     "title": "궤도, '연대 선배' 한강 노벨상 자랑…미미미누 \"본인이 받았냐\" 질투 (놀토)",
-     "url": "https://www.xportsnews.com/article/2219600",
-     "source": "www.xportsnews.com"
-    }
-   ]
-  },
-  {
-   "kw": "김휘집",
-   "traffic": "200+",
-   "when": "11월 14일 19:50",
-   "news": [
-    {
-     "title": "'악!' 오른손 맞은 한동희, 결국 경기 빠졌다…\"뼈에는 이상 無, 송구 불편해 보호 차원 교체\" [오!쎈 도쿄]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/14/GAZGIYJTGU4GINRSHA2DQOJQMU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[APBC] 오른손 맞은 한동희, 대만전 도중 교체…\"뼈 이상은 없어\"",
-     "url": "https://www.newspim.com/news/view/20261114000087",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "jepang vs brasil",
-   "traffic": "200+",
-   "when": "11월 14일 19:40",
-   "news": [
-    {
-     "title": "Brasil Hadapi 2 Laga yang Tak Mudah di Singapura",
-     "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8747467/brasil-hadapi-2-laga-yang-tak-mudah-di-singapura",
-     "source": "detikSport"
-    },
-    {
-     "title": "Japan vs Brazil Hari Ini: Kubo dan Nakamura Bawa Jepang Unggul, Vinicius Junior Balas di Singapura",
-     "url": "https://aktualita.co/olahraga/japan-vs-brazil-14-november-2026-kubo-nakamura-vinicius",
-     "source": "Aktualita.co"
-    }
-   ]
-  },
-  {
-   "kw": "오은영",
-   "traffic": "100+",
-   "when": "11월 14일 19:40",
-   "news": [
-    {
-     "title": "오은영, 헤어스타일 바꿨다... \"10년 어려보여 소녀 같아\"",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MU2WKYLFGBRDEYZTMRTGIMRVG4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "오은영, 61세에 ‘사자머리’ 대신 빗으로 넘겼을 뿐인데…김형석 “10년은 젊어지신 것 같다”",
-     "url": "https://www.mk.co.kr/news/entertain/12208792",
+     "title": "“고대는 경쟁 상대도 아냐”… 궤도vs미미미누 연고전 제대로 붙었다 (‘놀토’)",
+     "url": "https://www.mk.co.kr/news/broadcasting-service/12209021",
      "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "멜론뮤직어워드",
-   "traffic": "200+",
-   "when": "11월 14일 19:40",
-   "news": [
-    {
-     "title": "[ET포토] 라이즈, '여심 헌터들'",
-     "url": "https://www.etnews.com/20261114000050",
-     "source": "전자신문"
-    },
-    {
-     "title": "[사진]리센느 원이-미나미 '시상식도 접수'",
-     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/14/MQZDEZLDGJRTKZLDMJQWMZJXMY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "홍라희",
-   "traffic": "200+",
-   "when": "11월 14일 19:30",
-   "news": [
-    {
-     "title": "홍라희에 '삼전 1115만주' 받은 이재용…증여세는 얼마?",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02791286645645720",
-     "source": "마켓인"
-    },
-    {
-     "title": "이재용 회장, 삼전 지분 1.58→1.75% 확대…홍라희 여사 증여",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444719",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "kw": "강의",
-   "traffic": "200+",
-   "when": "11월 14일 19:30",
-   "news": [
-    {
-     "title": "\"아파서 수능 강의 쉰다\"더니…넷플 예능 간 강사의 결말",
-     "url": "https://www.hankyung.com/article/2026111463557",
-     "source": "한국경제"
-    },
-    {
-     "title": "수능 3주 앞 강의 중단, 예능 출연한 이도 결국 이투스서 퇴출…\"다 폐강\"",
-     "url": "https://www.news1.kr/society/general-society/6353492",
-     "source": "뉴스1"
     }
    ]
   }
