@@ -285,7 +285,8 @@
    "https://blog.naver.com/soduwk1209/224474624673",
    "https://blog.naver.com/soduwk1209/224432211023",
    "https://blog.naver.com/soduwk1209/224432202914",
-   "https://blog.naver.com/soduwk1209/224432190525"
+   "https://blog.naver.com/soduwk1209/224432190525",
+   "https://blog.naver.com/soduwk1209/224432177554"
   ],
   "started": true,
   "v": 2,
@@ -706,7 +707,6 @@
    "https://blog.naver.com/soduwk1209/224474624673"
   ],
   "backlog": [
-   "https://blog.naver.com/soduwk1209/224432177554",
    "https://blog.naver.com/soduwk1209/224432154750",
    "https://blog.naver.com/soduwk1209/224432115761",
    "https://blog.naver.com/soduwk1209/224432105644",
@@ -834,8 +834,8 @@
    "https://blog.naver.com/soduwk1209/224395130362",
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
-  "last_old": 1794643376.3489692,
-  "tone": "짧게",
+  "last_old": 1794654183.058889,
+  "tone": "질문",
   "hooks": [
    "와 임영웅 이런 일이 있었네",
    "화제의 소식",
