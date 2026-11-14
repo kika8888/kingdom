@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-15 05:23",
+ "updated": "2026-11-15 06:23",
  "items": [
+  {
+   "kw": "아버지",
+   "traffic": "100+",
+   "when": "11월 15일 05:00",
+   "news": [
+    {
+     "title": "치매 부모가 생전에 물려준 재산…되돌릴 수 있을까 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/12/2026111210123451419",
+     "source": "머니투데이"
+    },
+    {
+     "title": "“전 재산을 OO에게” 치매 아버지 유언장 본 남매 충격",
+     "url": "https://www.wikitree.co.kr/articles/1173180",
+     "source": "위키트리"
+    }
+   ]
+  },
+  {
+   "kw": "portugal vs denmark",
+   "traffic": "500+",
+   "when": "11월 15일 04:50",
+   "news": [
+    {
+     "title": "Licensable picture: UEFA Nations League - Group A4 - Portugal v Denmark",
+     "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a4-portugal-v-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxTExZOVg",
+     "source": "Reuters Connect"
+    },
+    {
+     "title": "Portugal vs Denmark: Match Preview, Kickoff Time, Lineups and Team News",
+     "url": "https://www.365scores.com/news/portugal-vs-denmark-preview",
+     "source": "365Scores"
+    }
+   ]
+  },
+  {
+   "kw": "이세계아이돌",
+   "traffic": "200+",
+   "when": "11월 15일 04:30",
+   "news": [
+    {
+     "title": "이세계아이돌, 지상파 '음악중심' 출격…실제 몸 없는 6인조 걸그룹, 멜론 7위 이어 무대까지",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276419",
+     "source": "톱스타뉴스"
+    },
+    {
+     "title": "지니뮤직, 버추얼걸그룹 이세계아이돌 마케팅 '시동'",
+     "url": "https://www.fnnews.com/news/202611100905129167",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
   {
    "kw": "빈",
    "traffic": "200+",
@@ -20,7 +71,7 @@
   },
   {
    "kw": "포르투갈 대 덴마크",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 15일 04:00",
    "news": [
     {
@@ -46,15 +97,32 @@
      "source": "LoL Esports"
     },
     {
-     "title": "2027 LoL Worlds — First Ever Korea-Japan Co-Hosting with Seoul Arena Finale",
-     "url": "https://en.koreadaily.com/2027-lol-worlds-korea-japan-co-hosting/",
-     "source": "The Korea Daily"
+     "title": "Next Year's Worlds Final to Be Held in Seoul... Showdown at 'Seoul Arena'",
+     "url": "https://www.asiae.co.kr/en/article/2026111400394915464",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  {
+   "kw": "룰러",
+   "traffic": "5000+",
+   "when": "11월 15일 03:50",
+   "news": [
+    {
+     "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
+     "url": "https://www.yna.co.kr/view/AKR20261114020600017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[롤드컵]젠지, BLG 상대로 1세트 승리…기선 제압",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868290",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "kw": "아프리카",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 15일 03:50",
    "news": [
     {
@@ -87,23 +155,6 @@
    ]
   },
   {
-   "kw": "바이퍼",
-   "traffic": "2000+",
-   "when": "11월 15일 03:30",
-   "news": [
-    {
-     "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
-     "url": "https://www.yna.co.kr/view/AKR20261114020600017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[롤드컵]쵸비 \"젠지의 해로\"…기인·캐니언 \"3대1로 우승 예상\"",
-     "url": "https://www.newsis.com/view/NISX20261114_0003867963",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
    "kw": "숲",
    "traffic": "2000+",
    "when": "11월 15일 03:30",
@@ -117,57 +168,6 @@
      "title": "‘함께해서 좋아’",
      "url": "https://www.sedaily.com/article/20114313",
      "source": "서울경제"
-    }
-   ]
-  },
-  {
-   "kw": "blg",
-   "traffic": "500+",
-   "when": "11월 15일 03:30",
-   "news": [
-    {
-     "title": "Worlds 2026: BLG Knight vs Gen.G Chovy",
-     "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
-     "source": "Sheep Esports"
-    },
-    {
-     "title": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
-     "url": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
-     "source": "CelebrityAccess"
-    }
-   ]
-  },
-  {
-   "kw": "lck",
-   "traffic": "200+",
-   "when": "11월 15일 03:30",
-   "news": [
-    {
-     "title": "Sources: Noah set to join BNK FEARX ahead of 2027 LCK Season",
-     "url": "https://www.sheepesports.com/en/articles/sources-noah-set-to-join-bnk-fearx-ahead-of-2027-lck-season/en",
-     "source": "Sheep Esports"
-    },
-    {
-     "title": "Former Fnatic ADC Noah Returns to Korea to Join BNK FEARX for 2027 Season",
-     "url": "https://egamersworld.com/lol/news/38410/noah-reaches-verbal-agreement-with-bnk-fearx-for-l-F95S69FM-",
-     "source": "EGamersWorld"
-    }
-   ]
-  },
-  {
-   "kw": "치지직",
-   "traffic": "10000+",
-   "when": "11월 15일 03:20",
-   "news": [
-    {
-     "title": "네이버, 스트리머·팬 소통 특화 '크리에이터 카페' 내달 출시",
-     "url": "https://www.etnews.com/20261113000071",
-     "source": "전자신문"
-    },
-    {
-     "title": "네이버, 방송·팬덤 결합한 크리에이터 카페 출시",
-     "url": "https://www.i-boss.co.kr/ab-2877-18474",
-     "source": "아이보스"
     }
    ]
   }
