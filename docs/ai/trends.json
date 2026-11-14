@@ -1,162 +1,173 @@
 {
- "updated": "2026-11-14 20:23",
+ "updated": "2026-11-14 21:23",
  "items": [
   {
-   "kw": "하나",
+   "kw": "문무",
+   "traffic": "500+",
+   "when": "11월 14일 20:20",
+   "news": [
+    {
+     "title": "[#문무] KBS 2TV 대하드라마 문무 제작발표회 | KBS 방송 [문무] | KBS 방송",
+     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_LS-20260831112938-01-000_20261113_PLAT001&program_code=T2025-0499&program_id=LS-20260831112938-01-000&section_code=03&broadcast_complete_yn=N&section_id=28257",
+     "source": "대한민국 대표 공영미디어 KBS"
+    },
+    {
+     "title": "인사말하는 최예빈",
+     "url": "https://www.yna.co.kr/view/PYH20261112155500013",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "군산 불꽃 축제",
+   "traffic": "100+",
+   "when": "11월 14일 20:10",
+   "news": [
+    {
+     "title": "\"철새도래지서 폭죽이라니\"…군산 불꽃축제에 환경단체 반발",
+     "url": "https://www.yna.co.kr/view/AKR20261113070300055",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "김재준 군산시장, 국회서 2027년 국가예산 증액 건의…새만금·현대차 연계사업 요청",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751917",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "박근혜",
    "traffic": "200+",
-   "when": "11월 14일 19:20",
+   "when": "11월 14일 20:00",
    "news": [
     {
-     "title": "'3점 슛 13개' 여자농구 신한은행, 하나은행 꺾고 공동 선두(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261114038751007",
-     "source": "연합뉴스"
+     "title": "박근혜, 구미 박정희 탄신 행사서 “분열되지 않고 하나로 뭉쳐야”",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287328.html",
+     "source": "한겨레"
     },
     {
-     "title": "금메달 이어 우승컵 노리는 이해란… 삼성생명 비상 견인",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113232752Qo6",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "유영우",
-   "traffic": "100+",
-   "when": "11월 14일 19:10",
-   "news": [
-    {
-     "title": "리센느 미나미, 곽범·이선민 사이에 끼어 ‘고통’…무슨 일?",
-     "url": "https://sports.donga.com/ent/article/all/20261114/135023881/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "'놀뭐?' 유영우, 이소라→거미도 놀란 당찬 무대…유재석 \"깡 대단해\"",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524718",
-     "source": "iMBC 연예"
-    }
-   ]
-  },
-  {
-   "kw": "japan vs brazil",
-   "traffic": "1000+",
-   "when": "11월 14일 19:00",
-   "news": [
-    {
-     "title": "Japan leads Brazil 2-0 after Kubo and Nakamura score in first 20 minutes",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/14/MWU6YD3S5ZADZIQ5FWWMHMO3WQ/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "Kubo Takefusa gives Japan 1-0 lead over Brazil in friendly",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/14/TCFZK3R67FFMXBNU3R4AF52ONA/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "wavve",
-   "traffic": "100+",
-   "when": "11월 14일 18:50",
-   "news": [
-    {
-     "title": "[Photo] Park Si-woo 'Clear Beauty'",
-     "url": "https://biz.chosun.com/en/en-photo-ent/2026/11/14/RJT2CHBBTZFKLFK4IMILY3B5I4/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "[Photo] TWS's Dohoon Perfectly Pulls Off a Leather Jacket",
-     "url": "https://www.mk.co.kr/en/photos/12208979",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "멜론뮤직어워드 2026",
-   "traffic": "100+",
-   "when": "11월 14일 18:30",
-   "news": []
-  },
-  {
-   "kw": "동복댐",
-   "traffic": "100+",
-   "when": "11월 14일 18:30",
-   "news": [
-    {
-     "title": "김성환 기후장관 “호남 반도체 위해 다른 지역 변압기 전용 안 해”",
-     "url": "https://www.segye.com/newsView/20261111515893",
-     "source": "세계일보"
-    },
-    {
-     "title": "[무등의 아침] 전남광주 반도체 전력·용수 공급 계획 속속 구체화…동복댐 증축 수몰 예상 280가구 이주안 제시",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710945",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "일본 대 브라질",
-   "traffic": "20000+",
-   "when": "11월 14일 18:20",
-   "news": [
-    {
-     "title": "'구보-나카무라 연속골 폭발' 일본, 브라질 상대로 20분 만에 2-0 리드...수준이 다르다 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/14/202611141938772704O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "'일본 미쳤다!' 브라질과 맞대결서 '구보 선제골' 폭발...1-0 리드 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/14/202611141934772159O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "호나우지뉴",
-   "traffic": "100+",
-   "when": "11월 14일 18:20",
-   "news": [
-    {
-     "title": "46세 호나우지뉴, 11년 만에 공식전 선발 출격…300호골 정조준",
-     "url": "https://www.yna.co.kr/view/AKR20261114024100007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "브라질 축구 전설 호나우지뉴, 15일 공식 경기 출장",
-     "url": "https://www.ytn.co.kr/_ln/0107_202611141117186115",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "주진모",
-   "traffic": "100+",
-   "when": "11월 14일 18:20",
-   "news": [
-    {
-     "title": "주진모·민혜연 부부, 결혼 7년 만에 부모 된다…\"임신 초기\"",
-     "url": "https://www.yna.co.kr/view/AKR20261114036000005",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'52세' 주진모, 아빠 된다…11세 연하 아내 민혜연 임신",
-     "url": "https://www.newsis.com/view/NISX20261114_0003868088",
+     "title": "박정희 전 대통령 탄신 109돌 행사 참석한 박근혜 전 대통령",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261114_0021532501&pID=1&cID=&sID=1&type=photoMain&idx=6",
      "source": "뉴시스"
     }
    ]
   },
   {
-   "kw": "기아",
-   "traffic": "2000+",
-   "when": "11월 14일 18:10",
+   "kw": "미미미누",
+   "traffic": "200+",
+   "when": "11월 14일 20:00",
    "news": [
     {
-     "title": "기아 카렌스 EV 12월 인도 시작, 현지 부품비율 80% 달성",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026111411184721922bd56fbc3c_1",
-     "source": "글로벌이코노믹"
+     "title": "'놀라운 토요일' 규현·궤도·미미미누 출격… 이과 vs 문과 자존심 건 암기력 대결",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752115",
+     "source": "국제뉴스"
     },
     {
-     "title": "현대차, 中 브랜드에 밀린 인도네시아서 반격…딜러점 100곳↑ 확대 목표",
-     "url": "https://theguru.co.kr/news/article.html?no=109667",
-     "source": "더구루"
+     "title": "궤도, '연대 선배' 한강 노벨상 자랑…미미미누 \"본인이 받았냐\" 질투 (놀토)",
+     "url": "https://www.xportsnews.com/article/2219600",
+     "source": "www.xportsnews.com"
+    }
+   ]
+  },
+  {
+   "kw": "김휘집",
+   "traffic": "200+",
+   "when": "11월 14일 19:50",
+   "news": [
+    {
+     "title": "'악!' 오른손 맞은 한동희, 결국 경기 빠졌다…\"뼈에는 이상 無, 송구 불편해 보호 차원 교체\" [오!쎈 도쿄]",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/14/GAZGIYJTGU4GINRSHA2DQOJQMU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[APBC] 오른손 맞은 한동희, 대만전 도중 교체…\"뼈 이상은 없어\"",
+     "url": "https://www.newspim.com/news/view/20261114000087",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "jepang vs brasil",
+   "traffic": "200+",
+   "when": "11월 14일 19:40",
+   "news": [
+    {
+     "title": "Brasil Hadapi 2 Laga yang Tak Mudah di Singapura",
+     "url": "https://sport.detik.com/sepakbola/bola-dunia/d-8747467/brasil-hadapi-2-laga-yang-tak-mudah-di-singapura",
+     "source": "detikSport"
+    },
+    {
+     "title": "Japan vs Brazil Hari Ini: Kubo dan Nakamura Bawa Jepang Unggul, Vinicius Junior Balas di Singapura",
+     "url": "https://aktualita.co/olahraga/japan-vs-brazil-14-november-2026-kubo-nakamura-vinicius",
+     "source": "Aktualita.co"
+    }
+   ]
+  },
+  {
+   "kw": "오은영",
+   "traffic": "100+",
+   "when": "11월 14일 19:40",
+   "news": [
+    {
+     "title": "오은영, 헤어스타일 바꿨다... \"10년 어려보여 소녀 같아\"",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MU2WKYLFGBRDEYZTMRTGIMRVG4/",
+     "source": "조선일보"
+    },
+    {
+     "title": "오은영, 61세에 ‘사자머리’ 대신 빗으로 넘겼을 뿐인데…김형석 “10년은 젊어지신 것 같다”",
+     "url": "https://www.mk.co.kr/news/entertain/12208792",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "멜론뮤직어워드",
+   "traffic": "200+",
+   "when": "11월 14일 19:40",
+   "news": [
+    {
+     "title": "[ET포토] 라이즈, '여심 헌터들'",
+     "url": "https://www.etnews.com/20261114000050",
+     "source": "전자신문"
+    },
+    {
+     "title": "[사진]리센느 원이-미나미 '시상식도 접수'",
+     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/14/MQZDEZLDGJRTKZLDMJQWMZJXMY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "홍라희",
+   "traffic": "200+",
+   "when": "11월 14일 19:30",
+   "news": [
+    {
+     "title": "홍라희에 '삼전 1115만주' 받은 이재용…증여세는 얼마?",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02791286645645720",
+     "source": "마켓인"
+    },
+    {
+     "title": "이재용 회장, 삼전 지분 1.58→1.75% 확대…홍라희 여사 증여",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444719",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "kw": "강의",
+   "traffic": "200+",
+   "when": "11월 14일 19:30",
+   "news": [
+    {
+     "title": "\"아파서 수능 강의 쉰다\"더니…넷플 예능 간 강사의 결말",
+     "url": "https://www.hankyung.com/article/2026111463557",
+     "source": "한국경제"
+    },
+    {
+     "title": "수능 3주 앞 강의 중단, 예능 출연한 이도 결국 이투스서 퇴출…\"다 폐강\"",
+     "url": "https://www.news1.kr/society/general-society/6353492",
+     "source": "뉴스1"
     }
    ]
   }
