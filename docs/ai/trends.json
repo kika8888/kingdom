@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-14 14:23",
+ "updated": "2026-11-14 15:22",
  "items": [
+  {
+   "kw": "이현중",
+   "traffic": "100+",
+   "when": "11월 14일 14:10",
+   "news": [
+    {
+     "title": "이현중, NBA G리그 개막전 선발 출전해 3점·6리바운드",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8709599",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "‘이현중 드디어 제대로 터졌다!’ G리그 진출 후 최다 21점 대폭발…NBA 가능성 증명했다",
+     "url": "https://www.chosun.com/sports/basketball/2026/11/14/GY3DANLFGNTGEMBVGNTDKYRSHA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "부산 kcc 대 서울 sk",
+   "traffic": "1000+",
+   "when": "11월 14일 13:40",
+   "news": [
+    {
+     "title": "[사진] 전희철 감독, 이번 게임도 승리 간다",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MYZWGMRQGQ4GIZJUGU2GCMRTMI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[사진] 워니, 손 치워",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GAZDMOJRMM4GGYTDGRTGKZTEGQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "울음",
+   "traffic": "500+",
+   "when": "11월 14일 13:40",
+   "news": [
+    {
+     "title": "\"아기 울음소리가 불편할 리 있나요?\"…떡 돌린 엄마 울린 이웃의 손편지 [살맛나는 세상]",
+     "url": "https://news.ikbc.co.kr/article/view/kbc202611120077",
+     "source": "KBC광주방송"
+    },
+    {
+     "title": "생후 50일 아기 울음에 이웃 항의…신생아 부모의 난감한 사연",
+     "url": "http://www.snakorea.com/news/articleView.html?idxno=1062063",
+     "source": "서울뉴스통신"
+    }
+   ]
+  },
+  {
+   "kw": "해병대 제1사단",
+   "traffic": "500+",
+   "when": "11월 14일 13:30",
+   "news": [
+    {
+     "title": "포항국제불빛축제 일주일 앞…\"한번도 경험 못한 축제될 것\"",
+     "url": "https://www.news1.kr/local/daegu-gyeongbuk/6353403",
+     "source": "뉴스1"
+    },
+    {
+     "title": "포항시설관리공단, 포항국제불빛축제 앞두고 영일대 주차장 안전점검 강화",
+     "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/12/2026111200401.html",
+     "source": "뉴데일리 대구경북"
+    }
+   ]
+  },
   {
    "kw": "수입",
    "traffic": "1000+",
@@ -19,25 +87,42 @@
    ]
   },
   {
+   "kw": "카페",
+   "traffic": "200+",
+   "when": "11월 14일 13:20",
+   "news": [
+    {
+     "title": "“내 얼굴이 곧 신용카드입니다”…양손에 음료 들고도 결제 가능하다는데 [현장]",
+     "url": "https://stock.mk.co.kr/news/view/1198937",
+     "source": "매일경제 마켓"
+    },
+    {
+     "title": "바리스타 손맛 대신 '푸드테크'…진화하는 커피 산업 '제25회 서울카페쇼'",
+     "url": "https://news.mtn.co.kr/video/2026111316175560177",
+     "source": "MTN 머니투데이방송"
+    }
+   ]
+  },
+  {
    "kw": "la 클리퍼스 대 오클라호마시티",
    "traffic": "500+",
    "when": "11월 14일 12:50",
    "news": [
     {
-     "title": "Thunder’s Isaiah Hartenstein, Nikola Topic connect for textbook alley-oop dunk vs. Clippers",
-     "url": "https://clutchpoints.com/nba/oklahoma-city-thunder/thunder-news-isaiah-hartenstein-nikola-topic-alley-oop-dunk-clippers",
-     "source": "ClutchPoints"
+     "title": "How to Watch Thunder vs Clippers for Free: TV Channels, Live Stream Options",
+     "url": "https://sports.yahoo.com/articles/watch-thunder-vs-clippers-free-023000092.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "Thunder vs. Clippers: Live updates, highlights for Friday's game",
-     "url": "https://sports.yahoo.com/articles/thunder-vs-clippers-live-updates-023020425.html",
-     "source": "Yahoo Sports"
+     "title": "Aday Mara starts, blocks three shots vs. Clippers",
+     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-14/aday-mara-starts-blocks-three-shots-vs-clippers",
+     "source": "NBC Sports"
     }
    ]
   },
   {
    "kw": "경찰차",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 14일 12:40",
    "news": [
     {
@@ -54,7 +139,7 @@
   },
   {
    "kw": "경비원",
-   "traffic": "5000+",
+   "traffic": "500+",
    "when": "11월 14일 12:30",
    "news": [
     {
@@ -70,82 +155,19 @@
    ]
   },
   {
-   "kw": "대전광역시",
-   "traffic": "100+",
-   "when": "11월 14일 12:30",
-   "news": []
-  },
-  {
-   "kw": "잠실 더 라스트 이닝",
+   "kw": "spurs vs warriors",
    "traffic": "200+",
-   "when": "11월 14일 12:20",
-   "news": []
-  },
-  {
-   "kw": "한화 이글스",
-   "traffic": "2000+",
-   "when": "11월 14일 12:10",
+   "when": "11월 14일 12:30",
    "news": [
     {
-     "title": "“선수가 슈퍼 갑”… 올겨울 FA 시장 ‘쩐의 전쟁’",
-     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57076",
-     "source": "주간조선"
+     "title": "That 18-0 Spurs run is the longest unanswered allowed …",
+     "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/13/that-18-0-spurs-run-is-the-longest-unanswered-allowed/92773943007/",
+     "source": "HoopsHype"
     },
     {
-     "title": "이럴 수가, KIA 김호령이 C등급 받았다…아슬아슬하게 사라져버린 보상선수, 이적 문이 더 열렸다",
-     "url": "https://sports.khan.co.kr/article/202611131627013",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "이륙",
-   "traffic": "2000+",
-   "when": "11월 14일 12:00",
-   "news": [
-    {
-     "title": "미 전역 항공기 운항 중단‥2만 5천여편 지연·결항",
-     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865633_36967.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "미 전역 항공편 4시간 반 '올스톱'…후폭풍 계속",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845909",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "표고",
-   "traffic": "500+",
-   "when": "11월 14일 12:00",
-   "news": [
-    {
-     "title": "중국서 다 키워놓고선 국내산?…표고버섯 속여 판 업체 적발",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712299",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "농관원, 중국산 표고버섯 563t 국내산 속여 판 5개 업체 적발",
-     "url": "https://www.yna.co.kr/view/AKR20261113098500054",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "로보택시",
-   "traffic": "500+",
-   "when": "11월 14일 11:50",
-   "news": [
-    {
-     "title": "로보택시 다음은 오토바이…中 자율주행 기업, 8000만대 시장 노린다",
-     "url": "https://www.hankyung.com/article/202610053827i",
-     "source": "한국경제"
-    },
-    {
-     "title": "[EICMA 2026] 중국 TARNS에서 왔다! 알루미늄 단조 휠 공개: 주조 제품 대비 강도 30% 향상 및 무게 1/3 이상 경량화 주장",
-     "url": "https://japan.webike.net/moto_news/ko/eicma-2026-from-tarns-china-aluminum-forged-wheels-unveiled-claimed-to-be-30-stronger-and-over-1-3-lighter-than-cast-products/",
-     "source": "Webike Japan"
+     "title": "Stephon Castle goes off for season-high 32 points",
+     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-14/stephon-castle-goes-off-for-season-high-32-points",
+     "source": "NBC Sports"
     }
    ]
   }
