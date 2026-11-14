@@ -1,6 +1,142 @@
 {
- "updated": "2026-11-14 11:23",
+ "updated": "2026-11-14 12:05",
  "items": [
+  {
+   "kw": "윤여정",
+   "traffic": "1000+",
+   "when": "11월 14일 11:00",
+   "news": [
+    {
+     "title": "연상호·변우석· CJ CGV·넷플릭스까지…서울독립영화제 빛내는 영화계 연대",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008844468",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "2023년 정부 예산 삭감 '서울독립영화제'...연상호→변우석, 영화계 연대의 '힘'",
+     "url": "https://www.nc.press/news/articleView.html?idxno=630882",
+     "source": "뉴스컬처"
+    }
+   ]
+  },
+  {
+   "kw": "샌안토니오 대 골든 스테이트",
+   "traffic": "2000+",
+   "when": "11월 14일 10:50",
+   "news": [
+    {
+     "title": "Steph Curry Headlines 10-Player Injury Report for Warriors vs Spurs",
+     "url": "https://sports.yahoo.com/articles/steph-curry-headlines-10-player-151824578.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Is the Spurs-Warriors game still happening amid nationwide FAA ground stop?",
+     "url": "https://www.kens5.com/article/sports/nba/spurs/spurs-warriors-game-nationwide-faa-ground-stop-wembanyama-curry-san-antonio-golden-state/273-ff9ec6e9-b162-47d5-8845-910f1d90b544",
+     "source": "kens5.com"
+    }
+   ]
+  },
+  {
+   "kw": "ufc 335",
+   "traffic": "200+",
+   "when": "11월 14일 10:50",
+   "news": [
+    {
+     "title": "Video: Carlos Prates and Michael Morales have intense first faceoff at UFC 335 and UFC 336 press conference",
+     "url": "https://sports.yahoo.com/articles/video-carlos-prates-michael-morales-222233181.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Video: UFC 335 & UFC 336 press conference live stream",
+     "url": "https://www.centraloregondaily.com/sports/video-ufc-335-ufc-336-press-conference-live-stream/article_27a40e61-3b2f-5b47-a30c-26ce06dc6d43.html",
+     "source": "Central Oregon Daily"
+    }
+   ]
+  },
+  {
+   "kw": "제물포구",
+   "traffic": "200+",
+   "when": "11월 14일 10:50",
+   "news": [
+    {
+     "title": "제물포구, 방치·위험 간판 무상 철거 신청 접수",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721860",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "하남시옥외광고협회, 겨울철 간판 안전점검…시민 안전 지킨다",
+     "url": "https://www.kyeonggi.com/article/20261112580244",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "김지원",
+   "traffic": "2000+",
+   "when": "11월 14일 10:30",
+   "news": [
+    {
+     "title": "전국환, 아동 성폭력 과거…김우석 피해자였다 ’충격’ (닥터X)",
+     "url": "https://sports.donga.com/ent/article/all/20261113/135023492/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "닥터X : 하얀 마피아의 시대 : [최종회 예고] “용케 살아서 여기까지 왔네” 김지원, 환자 수술 도중 중단 선언♨ (ft. 폐원)",
+     "url": "https://programs.sbs.co.kr/drama/doctorx/clip/88586/OC483132189",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "그랜드 테프트 오토",
+   "traffic": "100+",
+   "when": "11월 14일 10:20",
+   "news": [
+    {
+     "title": "Travis Scott Shows Off What Appears to Be a Copy of ‘GTA 6’ Before Its Release: ‘Bring Ya Own Controller’",
+     "url": "https://www.yahoo.com/entertainment/music/articles/travis-scott-shows-off-appears-205224176.html",
+     "source": "Yahoo"
+    },
+    {
+     "title": "GTA VI Is Putting on a Music Festival",
+     "url": "https://pitchfork.com/story/gta-vi-is-putting-on-a-music-festival/",
+     "source": "Pitchfork"
+    }
+   ]
+  },
+  {
+   "kw": "광진구",
+   "traffic": "100+",
+   "when": "11월 14일 10:10",
+   "news": [
+    {
+     "title": "광진구, 음식물 소형감량기 부산물 배출기준 완화…수분 25% 미만 종량제봉투 허용",
+     "url": "https://biz.heraldcorp.com/article/10935627",
+     "source": "헤럴드경제"
+    },
+    {
+     "title": "광진구, 가정용 소형감량기 부산물 일반 종량제봉투에 버리세요",
+     "url": "http://www.koreasisailbo.com/2466449",
+     "source": "시사일보"
+    }
+   ]
+  },
+  {
+   "kw": "기내식",
+   "traffic": "100+",
+   "when": "11월 14일 10:10",
+   "news": [
+    {
+     "title": "[데스크시각] 한앤코가 남긴 아이스크림",
+     "url": "https://v.daum.net/v/1vqWwIGhQg",
+     "source": "Daum"
+    },
+    {
+     "title": "[단독] 대한항공 ‘알짜’ 기내식 사업 결국 복수체제로...‘30년 계약’에 발묶여",
+     "url": "https://www.mk.co.kr/news/business/12206273",
+     "source": "매일경제"
+    }
+   ]
+  },
   {
    "kw": "고용노동부",
    "traffic": "200+",
@@ -29,145 +165,9 @@
      "source": "의약뉴스"
     },
     {
-     "title": "'53억 승부수' 삼천당제약, 日 약가 등재 … 셀트리온과 맞대결",
-     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200274.html",
-     "source": "뉴데일리"
-    }
-   ]
-  },
-  {
-   "kw": "항공기",
-   "traffic": "1000+",
-   "when": "11월 14일 09:30",
-   "news": [
-    {
-     "title": "미 전역 항공기 운항 중단, 8천 건 이상 지연‥3만 대 이륙 불투명",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6865622_36925.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "美전역 항공기 이륙 ‘올스톱’... 통신 장애로 1만1000편 지연·결항",
-     "url": "https://www.chosun.com/international/us/2026/11/14/JINR2EN5QRAOJJF3Z7RLIBFGZA/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "법학적성시험",
-   "traffic": "500+",
-   "when": "11월 14일 09:30",
-   "news": [
-    {
-     "title": "평균 30점 과목서 100점…‘이례적 고득점’에 AI안경 의혹",
-     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8712502",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "세무사 수석합격자 “왜 해명해야 하는지 모르겠다···찍는 것도 기술”",
-     "url": "https://weekly.khan.co.kr/article/202611141002001",
-     "source": "주간경향"
-    }
-   ]
-  },
-  {
-   "kw": "대탈출",
-   "traffic": "200+",
-   "when": "11월 14일 09:20",
-   "news": [
-    {
-     "title": "‘대탈출 : 도시괴담’ 얼마나 리얼했으면 “비명에 목소리 쉴 정도”",
-     "url": "https://sports.donga.com/ent/article/all/20261112/135012391/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "'대탈출' 강호동 빠지고 김종민·신동 수혈…다시 가능성 증명할 때 [N이슈]",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6351431",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "argentina đấu với uruguay",
-   "traffic": "100+",
-   "when": "11월 14일 09:20",
-   "news": [
-    {
-     "title": "Không Messi, Argentina thua đau Uruguay trên sân nhà",
-     "url": "https://znews.vn/khong-messi-argentina-thua-dau-uruguay-tren-san-nha-post1696306.html",
-     "source": "Znews"
-    },
-    {
-     "title": "HLV Lionel Scaloni gia hạn hợp đồng, dẫn dắt Argentina hướng tới World Cup 2030",
-     "url": "https://baoquangninh.vn/hlv-lionel-scaloni-gia-han-hop-dong-dan-dat-argentina-huong-toi-world-cup-2030-post3426996.html",
-     "source": "Báo Quảng Ninh"
-    }
-   ]
-  },
-  {
-   "kw": "고경표",
-   "traffic": "10000+",
-   "when": "11월 14일 09:10",
-   "news": [
-    {
-     "title": "[단독] 배우 고경표 음주사고…면허취소 만취상태",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114090256cw8",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "[속보] 배우 고경표, 술 취해 새벽에 청소차 추돌",
-     "url": "https://www.kyeonggi.com/article/20261114580037",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "한화오션",
-   "traffic": "500+",
-   "when": "11월 14일 09:10",
-   "news": [
-    {
-     "title": "한화오션, 노사 'RSU 공방' 내년 1월로…합의 당사자 심문 새 국면",
-     "url": "https://v.daum.net/v/U5YUtmyOL4",
-     "source": "Daum"
-    },
-    {
-     "title": "한화오션 ‘미지급 RSU’ 공방…당시 합의 당사자 심문 예정",
-     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625117",
-     "source": "메디컬투데이"
-    }
-   ]
-  },
-  {
-   "kw": "올림픽공원",
-   "traffic": "100+",
-   "when": "11월 14일 09:00",
-   "news": [
-    {
-     "title": "물러나지 않는 '올공' 시위대‥올림픽공원 자진철거 기간 재차 연장",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6865501_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "‘올공 시위’ 자진 철거 시한 넘기고 계속…정상화는 언제?",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711739",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "장영란",
-   "traffic": "100+",
-   "when": "11월 14일 08:50",
-   "news": [
-    {
-     "title": "장영란 사주 봤더니 지금 전성기…\"9년 간 팔자 늘어져\"",
-     "url": "https://www.newsis.com/view/NISX20261113_0003867869",
-     "source": "뉴시스"
-    },
-    {
-     "title": "[TVis] ‘48세’ 장영란, 고정출연 늘더니 전성기였네 “사주상 인생 후반전 시작” (‘언니만 따라와’)",
-     "url": "https://isplus.com/article/view/isp202611130121",
-     "source": "일간스포츠"
+     "title": "삼천당제약 R&D 3배 폭증에도 실적 '무풍'…80% 자산화의 명암",
+     "url": "https://www.biobookmedia.com/articles/9680",
+     "source": "바이오북미디어"
     }
    ]
   }
