@@ -1,26 +1,60 @@
 {
- "updated": "2026-11-15 01:23",
+ "updated": "2026-11-15 01:59",
  "items": [
+  {
+   "kw": "저축",
+   "traffic": "1000+",
+   "when": "11월 15일 00:30",
+   "news": [
+    {
+     "title": "같은 900만 원 넣어도 세금 29만원 차이? 청년 IRP 공제율 15% 핵심 정리",
+     "url": "https://story.pay.naver.com/content/3939",
+     "source": "네이버페이 머니스토리"
+    },
+    {
+     "title": "\"마트 세일에 국가 쿠폰 겹쳤다\"…하락장 속 '연금저축·IRP' 절세 전략",
+     "url": "https://www.newsis.com/view/NISX20261112_0003864767",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "비트코인",
+   "traffic": "200+",
+   "when": "11월 15일 00:30",
+   "news": [
+    {
+     "title": "\"비트코인 하락, 앤트로픽 IPO 전 투자자금 이동 때문\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645645720",
+     "source": "마켓인"
+    },
+    {
+     "title": "비트코인 하루 새 7% 급락‥2조 원 규모 강제청산",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6865461_36932.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
   {
    "kw": "nepal premier league",
    "traffic": "200+",
    "when": "11월 15일 00:00",
    "news": [
     {
-     "title": "Lumbini Lions become first team to reach NPL playoffs",
-     "url": "https://english.nepalnews.com/s/sports/lumbini-lions-become-first-team-to-reach-npl-playoffs/",
+     "title": "Lumbini Lions edge Biratnagar Kings by 4 wickets to seal NPL playoff spot",
+     "url": "https://english.nepalnews.com/s/sports/lumbini-lions-edge-biratnagar-kings-by-4-wickets-to-seal-npl-playoff-spot/",
      "source": "Nepalnews.com"
     },
     {
-     "title": "Lumbini Lions Secure Playoff Spot in Nepal Premier League",
-     "url": "https://english.ratopati.com/story/86670/npl-playoff-equation-complete-with-lumbinis-thrilling-win",
+     "title": "Biratnagar Kings Captain Charith Asalanka Blames Poor Bowling in Final Overs for Loss",
+     "url": "https://english.ratopati.com/story/86672/we-didnt-do-well-in-the-last-over-humidity-and-fielding-also-affected-us-aslanka",
      "source": "Ratopati"
     }
    ]
   },
   {
    "kw": "bangladesh vs pakistan",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 14일 23:30",
    "news": [
     {
@@ -123,40 +157,6 @@
      "title": "합의제 기구 방미통위, 합의만 기다릴 것인가 [강소현의 방송통신문]",
      "url": "https://www.ddaily.co.kr/page/view/2026111316500450204",
      "source": "디지털데일리"
-    }
-   ]
-  },
-  {
-   "kw": "맥도날드 세종dt점",
-   "traffic": "500+",
-   "when": "11월 14일 21:20",
-   "news": [
-    {
-     "title": "새벽 2시부터 줄 섰다…‘인구 40만’ 세종시 첫 맥도날드, 오픈런에 경찰까지 출동",
-     "url": "https://www.segye.com/newsView/20261114502699",
-     "source": "세계일보"
-    },
-    {
-     "title": "\"맥도날드 먹으러 원정까지\"…인구 40만 도시에 무슨 일이",
-     "url": "https://www.hankyung.com/article/2026111359347",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "갈비뼈",
-   "traffic": "500+",
-   "when": "11월 14일 21:20",
-   "news": [
-    {
-     "title": "멀쩡한 갈비뼈 6개 부러뜨린 30대 여성...이유는?",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114141351tED",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "호리병 몸매가 뭐라고…멀쩡한 갈비뼈 6개 부러뜨린 30대女",
-     "url": "https://www.koreadaily.com/article/20261113203409480",
-     "source": "미주중앙일보"
     }
    ]
   }
