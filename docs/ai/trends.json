@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-14 10:23",
+ "updated": "2026-11-14 11:23",
  "items": [
+  {
+   "kw": "고용노동부",
+   "traffic": "200+",
+   "when": "11월 14일 10:10",
+   "news": [
+    {
+     "title": "'가짜 3.3 계약'·'사업장 쪼개기' 잡는다…탈법 기획감독 착수",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975686&pWise=sub&pWiseSub=C1",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "경비원·간병인도 개인사업자로…고령층 위장고용 확산 우려",
+     "url": "https://www.khan.co.kr/article/202611081637001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "삼천당제약",
+   "traffic": "500+",
+   "when": "11월 14일 10:00",
+   "news": [
+    {
+     "title": "삼천당제약 R&D 투자 3배 확대, 경구용 치료제 승부수",
+     "url": "https://www.newsmp.com/news/articleView.html?idxno=259301",
+     "source": "의약뉴스"
+    },
+    {
+     "title": "'53억 승부수' 삼천당제약, 日 약가 등재 … 셀트리온과 맞대결",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200274.html",
+     "source": "뉴데일리"
+    }
+   ]
+  },
+  {
+   "kw": "항공기",
+   "traffic": "1000+",
+   "when": "11월 14일 09:30",
+   "news": [
+    {
+     "title": "미 전역 항공기 운항 중단, 8천 건 이상 지연‥3만 대 이륙 불투명",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6865622_36925.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "美전역 항공기 이륙 ‘올스톱’... 통신 장애로 1만1000편 지연·결항",
+     "url": "https://www.chosun.com/international/us/2026/11/14/JINR2EN5QRAOJJF3Z7RLIBFGZA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "법학적성시험",
+   "traffic": "500+",
+   "when": "11월 14일 09:30",
+   "news": [
+    {
+     "title": "평균 30점 과목서 100점…‘이례적 고득점’에 AI안경 의혹",
+     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8712502",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "세무사 수석합격자 “왜 해명해야 하는지 모르겠다···찍는 것도 기술”",
+     "url": "https://weekly.khan.co.kr/article/202611141002001",
+     "source": "주간경향"
+    }
+   ]
+  },
   {
    "kw": "대탈출",
    "traffic": "200+",
@@ -24,20 +92,20 @@
    "when": "11월 14일 09:20",
    "news": [
     {
-     "title": "Nhận định bóng đá Argentina vs Uruguay, 06h00 ngày 14/11: Nhẹ nhàng điệu Tango",
-     "url": "https://bongdaplus.vn/giao-huu-bong-da/nhan-dinh-bong-da-argentina-vs-uruguay-06h00-ngay-14-11-nhe-nhang-dieu-tango-5287432611.html",
-     "source": "Tạp chí Bóng đá"
+     "title": "Không Messi, Argentina thua đau Uruguay trên sân nhà",
+     "url": "https://znews.vn/khong-messi-argentina-thua-dau-uruguay-tren-san-nha-post1696306.html",
+     "source": "Znews"
     },
     {
-     "title": "Mac Allister: 'Sẽ không còn ai giống Messi'",
-     "url": "https://vnexpress.net/mac-allister-se-khong-con-ai-giong-messi-5143428.html",
-     "source": "VnExpress"
+     "title": "HLV Lionel Scaloni gia hạn hợp đồng, dẫn dắt Argentina hướng tới World Cup 2030",
+     "url": "https://baoquangninh.vn/hlv-lionel-scaloni-gia-han-hop-dong-dan-dat-argentina-huong-toi-world-cup-2030-post3426996.html",
+     "source": "Báo Quảng Ninh"
     }
    ]
   },
   {
    "kw": "고경표",
-   "traffic": "2000+",
+   "traffic": "10000+",
    "when": "11월 14일 09:10",
    "news": [
     {
@@ -46,15 +114,15 @@
      "source": "연합뉴스TV"
     },
     {
-     "title": "[속보] 고경표, 만취 음주운전 교통사고 적발…면허 취소 수준",
-     "url": "https://sports.khan.co.kr/article/202611140933003",
-     "source": "스포츠경향"
+     "title": "[속보] 배우 고경표, 술 취해 새벽에 청소차 추돌",
+     "url": "https://www.kyeonggi.com/article/20261114580037",
+     "source": "경기일보"
     }
    ]
   },
   {
    "kw": "한화오션",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 14일 09:10",
    "news": [
     {
@@ -87,87 +155,19 @@
    ]
   },
   {
-   "kw": "여수세계박람회장",
+   "kw": "장영란",
    "traffic": "100+",
    "when": "11월 14일 08:50",
    "news": [
     {
-     "title": "[COP31 현장에서] 그레타 툰베리 “지구는 죽어가는 것이 아니라 살해당하고 있다”",
-     "url": "https://www.khan.co.kr/article/202611131001001",
-     "source": "경향신문"
+     "title": "장영란 사주 봤더니 지금 전성기…\"9년 간 팔자 늘어져\"",
+     "url": "https://www.newsis.com/view/NISX20261113_0003867869",
+     "source": "뉴시스"
     },
     {
-     "title": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설",
-     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=456677",
-     "source": "서울Pn"
-    }
-   ]
-  },
-  {
-   "kw": "보험계약",
-   "traffic": "100+",
-   "when": "11월 14일 08:40",
-   "news": [
-    {
-     "title": "‘대체 누구야? 개인이 보장금액 4270억원짜리 생명보험 가입’…기네스 오른 세계 최고액 생명보험[아하 홍콩]",
-     "url": "https://www.munhwa.com/article/11630683",
-     "source": "문화일보"
-    },
-    {
-     "title": "뉴스후] 홍콩서 보도된 ‘생명보험 한 건 4,270억’의 의미와 파장",
-     "url": "https://dailyan.com/news/article.html?no=784157",
-     "source": "데일리연합"
-    }
-   ]
-  },
-  {
-   "kw": "매일경제신문",
-   "traffic": "2000+",
-   "when": "11월 14일 08:30",
-   "news": [
-    {
-     "title": "낮에 싸게 팔아도 … 기업들 전기 안쓰는 이유는",
-     "url": "https://stock.mk.co.kr/news/view/1197131",
-     "source": "매일경제 마켓"
-    },
-    {
-     "title": "전기밥솥, 취사보다 ‘이것’에 전기 더 쓴다?…돈 아끼는 가전 습관",
-     "url": "https://www.nongmin.com/article/20261110500035",
-     "source": "농민신문"
-    }
-   ]
-  },
-  {
-   "kw": "lg 트윈스",
-   "traffic": "2000+",
-   "when": "11월 14일 08:20",
-   "news": [
-    {
-     "title": "구자욱 어렵다면 스톱갭이라도 필요한 롯데 → 이택근 단장 기본 방침 \"그룹도 설득하겠다",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/14/HAYDAODCMQ3TQYZVMY2TEMBYMU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "kt 위즈, 외야수 김민혁·배정대 FA 시장 나온다",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040879",
-     "source": "기호일보"
-    }
-   ]
-  },
-  {
-   "kw": "윤아",
-   "traffic": "100+",
-   "when": "11월 14일 08:20",
-   "news": [
-    {
-     "title": "윤아, 크롭 민소매 입고 뽐낸 한 줌 허리…비결은 공복 ‘이 운동’",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023540/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "드파운드, 임윤아 겨울 캠페인 이후 점퍼 판매 급증 - 머니투데이",
-     "url": "https://www.mt.co.kr/living/2026/11/13/2026111308220930807",
-     "source": "머니투데이"
+     "title": "[TVis] ‘48세’ 장영란, 고정출연 늘더니 전성기였네 “사주상 인생 후반전 시작” (‘언니만 따라와’)",
+     "url": "https://isplus.com/article/view/isp202611130121",
+     "source": "일간스포츠"
     }
    ]
   }
