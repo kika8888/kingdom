@@ -1,20 +1,100 @@
 {
- "updated": "2026-11-14 13:23",
+ "updated": "2026-11-14 14:23",
  "items": [
+  {
+   "kw": "수입",
+   "traffic": "1000+",
+   "when": "11월 14일 13:20",
+   "news": [
+    {
+     "title": "한국, 반도체 앞세워 중국 수입시장서 6개월째 1위",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6865615_36932.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "11월 초 수출 2배 뛰었다...수출 1조 달러 달성 눈앞",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611121103336370",
+     "source": "YTN 사이언스"
+    }
+   ]
+  },
+  {
+   "kw": "la 클리퍼스 대 오클라호마시티",
+   "traffic": "500+",
+   "when": "11월 14일 12:50",
+   "news": [
+    {
+     "title": "Thunder’s Isaiah Hartenstein, Nikola Topic connect for textbook alley-oop dunk vs. Clippers",
+     "url": "https://clutchpoints.com/nba/oklahoma-city-thunder/thunder-news-isaiah-hartenstein-nikola-topic-alley-oop-dunk-clippers",
+     "source": "ClutchPoints"
+    },
+    {
+     "title": "Thunder vs. Clippers: Live updates, highlights for Friday's game",
+     "url": "https://sports.yahoo.com/articles/thunder-vs-clippers-live-updates-023020425.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "kw": "경찰차",
+   "traffic": "500+",
+   "when": "11월 14일 12:40",
+   "news": [
+    {
+     "title": "경찰차 추월 시도, 주차 딱지 붙이고 주행, 일방 통행로 역주행까지…이상한 이 택시의 정체는?",
+     "url": "https://www.khan.co.kr/article/202611140700031",
+     "source": "경향신문"
+    },
+    {
+     "title": "[김흥식 칼럼] 핸들도 운전자도 없는 '완전 자율주행차' 처벌 방법 있나",
+     "url": "https://auto.danawa.com/news/?Work=detail&no=6081087&NewsGroup=M",
+     "source": "다나와 자동차"
+    }
+   ]
+  },
+  {
+   "kw": "경비원",
+   "traffic": "5000+",
+   "when": "11월 14일 12:30",
+   "news": [
+    {
+     "title": "술 취해 옷에 라이터로 불 붙여···아파트에 불 내 14명 다치게 한 40대 구속영장 신청",
+     "url": "https://www.khan.co.kr/article/202611131931001",
+     "source": "경향신문"
+    },
+    {
+     "title": "방화에 주민 대피 도운 70대 경비원, 병원 치료 중 숨져",
+     "url": "https://www.yna.co.kr/view/AKR20261114031000054",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "대전광역시",
+   "traffic": "100+",
+   "when": "11월 14일 12:30",
+   "news": []
+  },
+  {
+   "kw": "잠실 더 라스트 이닝",
+   "traffic": "200+",
+   "when": "11월 14일 12:20",
+   "news": []
+  },
   {
    "kw": "한화 이글스",
    "traffic": "2000+",
    "when": "11월 14일 12:10",
    "news": [
     {
-     "title": "'744억' 쓰고 떠난 손혁 단장, '큰 손' 한화 FA 중견수 사올까…김호령 최지훈 홍창기 배정대 등 매물은 많다",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/14/GYYDMMTBMQ2TOYRYMFTGEOJZG4/",
-     "source": "조선일보"
+     "title": "“선수가 슈퍼 갑”… 올겨울 FA 시장 ‘쩐의 전쟁’",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57076",
+     "source": "주간조선"
     },
     {
-     "title": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712285",
-     "source": "KBS 뉴스"
+     "title": "이럴 수가, KIA 김호령이 C등급 받았다…아슬아슬하게 사라져버린 보상선수, 이적 문이 더 열렸다",
+     "url": "https://sports.khan.co.kr/article/202611131627013",
+     "source": "스포츠경향"
     }
    ]
   },
@@ -29,15 +109,15 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "美 항공기 이륙 중단 해제…대한항공·아시아나 운항 재개(종합)",
-     "url": "https://biz.chosun.com/industry/company/2026/11/14/P6VPNNRS2FCORI3362FOSW6WUU/",
-     "source": "Chosunbiz"
+     "title": "미 전역 항공편 4시간 반 '올스톱'…후폭풍 계속",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845909",
+     "source": "SBS 뉴스"
     }
    ]
   },
   {
    "kw": "표고",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 14일 12:00",
    "news": [
     {
@@ -54,7 +134,7 @@
   },
   {
    "kw": "로보택시",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 14일 11:50",
    "news": [
     {
@@ -66,108 +146,6 @@
      "title": "[EICMA 2026] 중국 TARNS에서 왔다! 알루미늄 단조 휠 공개: 주조 제품 대비 강도 30% 향상 및 무게 1/3 이상 경량화 주장",
      "url": "https://japan.webike.net/moto_news/ko/eicma-2026-from-tarns-china-aluminum-forged-wheels-unveiled-claimed-to-be-30-stronger-and-over-1-3-lighter-than-cast-products/",
      "source": "Webike Japan"
-    }
-   ]
-  },
-  {
-   "kw": "강민호",
-   "traffic": "200+",
-   "when": "11월 14일 11:50",
-   "news": [
-    {
-     "title": "삼성 강민호는 한국시리즈에서 왜 번트를 대야했을까",
-     "url": "https://www.chosun.com/sports/sports_general/2026/11/14/DH3XBSRUZ5G3LKAHVWD74JPUGE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "23년 차에 '낭만 우승' 이룬 강민호, '한우궁사' 클럽 다음 탈출자는?",
-     "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003283959",
-     "source": "오마이스타"
-    }
-   ]
-  },
-  {
-   "kw": "디에고 포를란",
-   "traffic": "100+",
-   "when": "11월 14일 11:40",
-   "news": [
-    {
-     "title": "모레노호 4-1로 침몰시키더니 흐름 제대로 탔다… 메시 은퇴한 아르헨티나 2-1로 격파한 우루과이, 3연승 질주",
-     "url": "https://www.besteleven.com/news/articleView.html?idxno=314049",
-     "source": "베스트일레븐"
-    },
-    {
-     "title": "전 맨체스터 유나이티드 공격수 포를란이 우루과이 대표팀을 이끌며 눈부신 활약을 펼치고 있다.",
-     "url": "https://www.vietnam.vn/ko/cuu-tien-dao-man-united-forlan-toa-sang-khi-dan-dat-uruguay",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "전소미",
-   "traffic": "200+",
-   "when": "11월 14일 11:30",
-   "news": [
-    {
-     "title": "\"넘어뜨리고 발로 밟아\" 전소미, 학교폭력 피해 고백",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/HFRGKMTBGZTDENTCGY3TQMLBGU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "“6학년 하굣길에 남학생이 나를”…‘학폭 피해’ 고백한 전소미, 눈물",
-     "url": "https://www.mk.co.kr/news/culture/12208757",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "이루",
-   "traffic": "100+",
-   "when": "11월 14일 11:30",
-   "news": [
-    {
-     "title": "'태진아 아들' 이루, 독감 격리 중에도 치매 '옥경이' 모친 간호 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/12/2026111208111987334",
-     "source": "머니투데이"
-    },
-    {
-     "title": "“서럽고 우울”…‘음주운전 자숙’ 이루, 수액 맞으며 격리 생활 왜?",
-     "url": "https://www.mk.co.kr/news/culture/12206267",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "이마트",
-   "traffic": "200+",
-   "when": "11월 14일 11:20",
-   "news": [
-    {
-     "title": "[리포트 브리핑]이마트, '놀라운 본업(지속적), 충격의 스타벅스(일시적)' 목표가 100,000원 - IBK투자증권",
-     "url": "https://www.newspim.com/news/view/20261113000175",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "오프라인 부활 '신호탄'…대형마트도 '깜짝 반등'",
-     "url": "https://view.asiae.co.kr/article/2026111123235571518",
-     "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "lig 디펜스&에어로스페이스",
-   "traffic": "500+",
-   "when": "11월 14일 11:10",
-   "news": [
-    {
-     "title": "[K-방산 보릿고개] ①“하반기는 잘 안풀리네”…영업익 증발ㆍ곳간 축소",
-     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121231481010784",
-     "source": "대한경제"
-    },
-    {
-     "title": "LIG 입찰제한 일주일 앞… KF-21 사업 ‘빨간불’",
-     "url": "https://www.munhwa.com/article/11631129",
-     "source": "문화일보"
     }
    ]
   }
