@@ -1,44 +1,95 @@
 {
- "updated": "2026-11-15 04:23",
+ "updated": "2026-11-15 05:23",
  "items": [
   {
-   "kw": "치지직",
-   "traffic": "5000+",
-   "when": "11월 15일 03:20",
+   "kw": "빈",
+   "traffic": "200+",
+   "when": "11월 15일 04:20",
    "news": [
     {
-     "title": "네이버, 스트리머·팬 소통 특화 '크리에이터 카페' 내달 출시",
-     "url": "https://www.etnews.com/20261113000071",
-     "source": "전자신문"
+     "title": "이준석 “내가 노무현 대통령 추천서 어떻게 받나”…전한길 추가 고소 예고",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287327.html",
+     "source": "한겨레"
     },
     {
-     "title": "네이버, 방송·팬덤 결합한 크리에이터 카페 출시",
-     "url": "https://www.i-boss.co.kr/ab-2877-18474",
-     "source": "아이보스"
+     "title": "10년 전 공개한 졸업장 또 소환…전한길의 ‘하버드 2차 공세’에 이준석 폭발",
+     "url": "https://www.seoul.co.kr/news/politics/congress/2026/11/14/20261114500025",
+     "source": "서울신문"
     }
    ]
   },
   {
-   "kw": "norway vs wales",
-   "traffic": "100+",
-   "when": "11월 15일 03:10",
-   "news": [
-    {
-     "title": "Norway vs Wales LIVE! Nations League Group A4 score updates, commentary, news and line-ups",
-     "url": "https://www.skysports.com/football/live-blog/13612159/norway-vs-wales-live-nations-league-group-a4-score-updates-commentary-news-and-line-ups",
-     "source": "Sky Sports"
-    },
-    {
-     "title": "Defending Haaland 'is a collective responsibility', says Wales boss Bellamy",
-     "url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/defending-haaland-is-a-collective-responsibility-says-wales-boss-bellamy-2026-11-13",
-     "source": "beIN SPORTS"
-    }
-   ]
-  },
-  {
-   "kw": "젠지",
+   "kw": "포르투갈 대 덴마크",
    "traffic": "500+",
-   "when": "11월 15일 02:30",
+   "when": "11월 15일 04:00",
+   "news": [
+    {
+     "title": "네이션스 리그 포르투갈 대 덴마크 경기 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-bo-dao-nha-vs-dan-mach-tai-nations-league-1799982.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "경기 프리뷰: 포르투갈 vs 덴마크, 11월 15일 오전 2시 45분: 조 1위 자리를 놓고 경쟁.",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-bo-dao-nha-vs-dan-mach-2h45-ngay-15-11-can-dich-ngoi-dau",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "lol",
+   "traffic": "100+",
+   "when": "11월 15일 04:00",
+   "news": [
+    {
+     "title": "LoL Esports 2027 and Beyond",
+     "url": "https://lolesports.com/news/lol-esports-2027-and-beyond",
+     "source": "LoL Esports"
+    },
+    {
+     "title": "2027 LoL Worlds — First Ever Korea-Japan Co-Hosting with Seoul Arena Finale",
+     "url": "https://en.koreadaily.com/2027-lol-worlds-korea-japan-co-hosting/",
+     "source": "The Korea Daily"
+    }
+   ]
+  },
+  {
+   "kw": "아프리카",
+   "traffic": "200+",
+   "when": "11월 15일 03:50",
+   "news": [
+    {
+     "title": "매출 1년 새 15배 성장… 스킨서울랩, 정주영 창업경진대회 글로벌 부문 최우수상",
+     "url": "https://www.seoultopnews.kr/news/articleView.html?idxno=100353",
+     "source": "톱뉴스"
+    },
+    {
+     "title": "한·아프리카재단, ‘2026 글로벌 액셀러레이팅 in Africa’ 기후테크 성과공유회 개최",
+     "url": "https://wowtale.net/2026/11/14/268054/",
+     "source": "와우테일"
+    }
+   ]
+  },
+  {
+   "kw": "twitch",
+   "traffic": "200+",
+   "when": "11월 15일 03:50",
+   "news": [
+    {
+     "title": "Free copies of Grand Theft Auto VI for Californians? What to know about Kick sweepstakes",
+     "url": "https://ktla.com/entertainment/free-copies-of-grand-theft-auto-vi-for-californians-what-to-know-about-kick-sweepstakes/",
+     "source": "KTLA"
+    },
+    {
+     "title": "Deal | 10K+ free GTA 6 Ultimate Edition game codes coming in livestream Twitch drops",
+     "url": "https://www.notebookcheck.net/10K-free-GTA-6-Ultimate-Edition-game-codes-coming-in-livestream-Twitch-drops.1449873.0.html",
+     "source": "Notebookcheck"
+    }
+   ]
+  },
+  {
+   "kw": "바이퍼",
+   "traffic": "2000+",
+   "when": "11월 15일 03:30",
    "news": [
     {
      "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
@@ -53,121 +104,70 @@
    ]
   },
   {
-   "kw": "천준호",
-   "traffic": "100+",
-   "when": "11월 15일 02:30",
-   "news": [
-    {
-     "title": "이 대통령 \"가장 힘든 건 등 뒤에서 날아오는 화살\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6865696_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "이 대통령, 천준호에 “고생 많았다···등 뒤에서 날아오는 화살 가장 힘들어”",
-     "url": "https://www.khan.co.kr/article/202611142106001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "음식 배달",
-   "traffic": "100+",
-   "when": "11월 15일 02:10",
-   "news": [
-    {
-     "title": "전배모 \"배달 라이더 84%, 수익감소 우려…수수료 규제 반대\" - 머니투데이",
-     "url": "https://www.mt.co.kr/industry/2026/11/13/2026111314260557793",
-     "source": "머니투데이"
-    },
-    {
-     "title": "배달앱 수수료 15% 상한제 입법추진...음식점측 “빨리 도입” vs 라이더 “최저 배달비 보장”",
-     "url": "https://contents.premium.naver.com/backbriefing/news/contents/261114134414874tv",
-     "source": "네이버 프리미엄콘텐츠"
-    }
-   ]
-  },
-  {
-   "kw": "raf",
-   "traffic": "100+",
-   "when": "11월 15일 01:40",
-   "news": [
-    {
-     "title": "Six from Team Nurmagomedov, eight in all get prison time over Dvalishvili brawl",
-     "url": "https://www.espn.com/mma/story/_/id/50471378/8-people-get-prison-nurmagomedov-dvalishvili-brawl",
-     "source": "ESPN"
-    },
-    {
-     "title": "UFC star and 21-year-old friend reportedly cleared to wrestle at RAF days after fending off hotel lobby ambush",
-     "url": "https://www.foxnews.com/outkick-sports/ufc-star-21-year-old-friend-reportedly-cleared-wrestle-raf-days-after-fending-off-hotel-lobby-ambush",
-     "source": "Fox News"
-    }
-   ]
-  },
-  {
-   "kw": "강신철",
-   "traffic": "10000+",
-   "when": "11월 15일 01:20",
-   "news": [
-    {
-     "title": "미 전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6865577_36925.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "브룩스 前사령관, ‘전작권 당장 전환 가능’ 강신철에 “매우 실망”",
-     "url": "https://www.chosun.com/international/us/2026/11/14/UNVTC33XERFVLDHL3IAUAS74YQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "저축",
+   "kw": "숲",
    "traffic": "2000+",
-   "when": "11월 15일 00:30",
+   "when": "11월 15일 03:30",
    "news": [
     {
-     "title": "같은 900만 원 넣어도 세금 29만원 차이? 청년 IRP 공제율 15% 핵심 정리",
-     "url": "https://story.pay.naver.com/content/3939",
-     "source": "네이버페이 머니스토리"
+     "title": "\"궁궐 정원을 그대로 옮겨놨네\"… 한옥 정자와 연못 아름다운 축구장 90개 크기 수목원 명소",
+     "url": "https://www.balpumnews.com/travel/sejong-national-arboretum-4",
+     "source": "발품뉴스"
     },
     {
-     "title": "\"마트 세일에 국가 쿠폰 겹쳤다\"…하락장 속 '연금저축·IRP' 절세 전략",
-     "url": "https://www.newsis.com/view/NISX20261112_0003864767",
-     "source": "뉴시스"
+     "title": "‘함께해서 좋아’",
+     "url": "https://www.sedaily.com/article/20114313",
+     "source": "서울경제"
     }
    ]
   },
   {
-   "kw": "비트코인",
+   "kw": "blg",
    "traffic": "500+",
-   "when": "11월 15일 00:30",
+   "when": "11월 15일 03:30",
    "news": [
     {
-     "title": "\"비트코인 하락, 앤트로픽 IPO 전 투자자금 이동 때문\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645645720",
-     "source": "마켓인"
+     "title": "Worlds 2026: BLG Knight vs Gen.G Chovy",
+     "url": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
+     "source": "Sheep Esports"
     },
     {
-     "title": "비트코인 하루 새 7% 급락‥2조 원 규모 강제청산",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6865461_36932.html",
-     "source": "MBC 뉴스"
+     "title": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
+     "url": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
+     "source": "CelebrityAccess"
     }
    ]
   },
   {
-   "kw": "nepal premier league",
+   "kw": "lck",
    "traffic": "200+",
-   "when": "11월 15일 00:00",
+   "when": "11월 15일 03:30",
    "news": [
     {
-     "title": "Lumbini Lions edge Biratnagar Kings by 4 wickets to seal NPL playoff spot",
-     "url": "https://english.nepalnews.com/s/sports/lumbini-lions-edge-biratnagar-kings-by-4-wickets-to-seal-npl-playoff-spot/",
-     "source": "Nepalnews.com"
+     "title": "Sources: Noah set to join BNK FEARX ahead of 2027 LCK Season",
+     "url": "https://www.sheepesports.com/en/articles/sources-noah-set-to-join-bnk-fearx-ahead-of-2027-lck-season/en",
+     "source": "Sheep Esports"
     },
     {
-     "title": "Biratnagar Kings Captain Charith Asalanka Blames Poor Bowling in Final Overs for Loss",
-     "url": "https://english.ratopati.com/story/86672/we-didnt-do-well-in-the-last-over-humidity-and-fielding-also-affected-us-aslanka",
-     "source": "Ratopati"
+     "title": "Former Fnatic ADC Noah Returns to Korea to Join BNK FEARX for 2027 Season",
+     "url": "https://egamersworld.com/lol/news/38410/noah-reaches-verbal-agreement-with-bnk-fearx-for-l-F95S69FM-",
+     "source": "EGamersWorld"
+    }
+   ]
+  },
+  {
+   "kw": "치지직",
+   "traffic": "10000+",
+   "when": "11월 15일 03:20",
+   "news": [
+    {
+     "title": "네이버, 스트리머·팬 소통 특화 '크리에이터 카페' 내달 출시",
+     "url": "https://www.etnews.com/20261113000071",
+     "source": "전자신문"
+    },
+    {
+     "title": "네이버, 방송·팬덤 결합한 크리에이터 카페 출시",
+     "url": "https://www.i-boss.co.kr/ab-2877-18474",
+     "source": "아이보스"
     }
    ]
   }
