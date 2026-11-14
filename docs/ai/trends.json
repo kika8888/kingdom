@@ -1,9 +1,151 @@
 {
- "updated": "2026-11-14 19:15",
+ "updated": "2026-11-14 20:23",
  "items": [
   {
-   "kw": "기아",
+   "kw": "하나",
+   "traffic": "200+",
+   "when": "11월 14일 19:20",
+   "news": [
+    {
+     "title": "'3점 슛 13개' 여자농구 신한은행, 하나은행 꺾고 공동 선두(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261114038751007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "금메달 이어 우승컵 노리는 이해란… 삼성생명 비상 견인",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261113232752Qo6",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "유영우",
+   "traffic": "100+",
+   "when": "11월 14일 19:10",
+   "news": [
+    {
+     "title": "리센느 미나미, 곽범·이선민 사이에 끼어 ‘고통’…무슨 일?",
+     "url": "https://sports.donga.com/ent/article/all/20261114/135023881/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "'놀뭐?' 유영우, 이소라→거미도 놀란 당찬 무대…유재석 \"깡 대단해\"",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524718",
+     "source": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "kw": "japan vs brazil",
    "traffic": "1000+",
+   "when": "11월 14일 19:00",
+   "news": [
+    {
+     "title": "Japan leads Brazil 2-0 after Kubo and Nakamura score in first 20 minutes",
+     "url": "https://biz.chosun.com/en/en-sports/2026/11/14/MWU6YD3S5ZADZIQ5FWWMHMO3WQ/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "Kubo Takefusa gives Japan 1-0 lead over Brazil in friendly",
+     "url": "https://biz.chosun.com/en/en-sports/2026/11/14/TCFZK3R67FFMXBNU3R4AF52ONA/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "wavve",
+   "traffic": "100+",
+   "when": "11월 14일 18:50",
+   "news": [
+    {
+     "title": "[Photo] Park Si-woo 'Clear Beauty'",
+     "url": "https://biz.chosun.com/en/en-photo-ent/2026/11/14/RJT2CHBBTZFKLFK4IMILY3B5I4/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "[Photo] TWS's Dohoon Perfectly Pulls Off a Leather Jacket",
+     "url": "https://www.mk.co.kr/en/photos/12208979",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "멜론뮤직어워드 2026",
+   "traffic": "100+",
+   "when": "11월 14일 18:30",
+   "news": []
+  },
+  {
+   "kw": "동복댐",
+   "traffic": "100+",
+   "when": "11월 14일 18:30",
+   "news": [
+    {
+     "title": "김성환 기후장관 “호남 반도체 위해 다른 지역 변압기 전용 안 해”",
+     "url": "https://www.segye.com/newsView/20261111515893",
+     "source": "세계일보"
+    },
+    {
+     "title": "[무등의 아침] 전남광주 반도체 전력·용수 공급 계획 속속 구체화…동복댐 증축 수몰 예상 280가구 이주안 제시",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710945",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "일본 대 브라질",
+   "traffic": "20000+",
+   "when": "11월 14일 18:20",
+   "news": [
+    {
+     "title": "'구보-나카무라 연속골 폭발' 일본, 브라질 상대로 20분 만에 2-0 리드...수준이 다르다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/14/202611141938772704O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'일본 미쳤다!' 브라질과 맞대결서 '구보 선제골' 폭발...1-0 리드 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/14/202611141934772159O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "호나우지뉴",
+   "traffic": "100+",
+   "when": "11월 14일 18:20",
+   "news": [
+    {
+     "title": "46세 호나우지뉴, 11년 만에 공식전 선발 출격…300호골 정조준",
+     "url": "https://www.yna.co.kr/view/AKR20261114024100007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "브라질 축구 전설 호나우지뉴, 15일 공식 경기 출장",
+     "url": "https://www.ytn.co.kr/_ln/0107_202611141117186115",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "주진모",
+   "traffic": "100+",
+   "when": "11월 14일 18:20",
+   "news": [
+    {
+     "title": "주진모·민혜연 부부, 결혼 7년 만에 부모 된다…\"임신 초기\"",
+     "url": "https://www.yna.co.kr/view/AKR20261114036000005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'52세' 주진모, 아빠 된다…11세 연하 아내 민혜연 임신",
+     "url": "https://www.newsis.com/view/NISX20261114_0003868088",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "기아",
+   "traffic": "2000+",
    "when": "11월 14일 18:10",
    "news": [
     {
@@ -15,159 +157,6 @@
      "title": "현대차, 中 브랜드에 밀린 인도네시아서 반격…딜러점 100곳↑ 확대 목표",
      "url": "https://theguru.co.kr/news/article.html?no=109667",
      "source": "더구루"
-    }
-   ]
-  },
-  {
-   "kw": "일본 브라질",
-   "traffic": "100+",
-   "when": "11월 14일 18:10",
-   "news": [
-    {
-     "title": "日 축구 이 정도였나! 세계 55위→17위 ‘38계단 폭등’…독일·브라질·잉글랜드 꺾은 명감독 효과→ESPN \"트로피가 전부 아냐\" 모리야스 8년 재조명",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019556",
-     "source": "SPOTV NEWS"
-    },
-    {
-     "title": "`만나면 접전` 브라질 수비수 마갈량이스 일본 경계 \"무실점 경기가 목표\"",
-     "url": "https://mydaily.co.kr/page/view/2026111214195889875",
-     "source": "마이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "전소영",
-   "traffic": "100+",
-   "when": "11월 14일 18:10",
-   "news": [
-    {
-     "title": "[영상] “눈이 녹으면 진실이 드러난다”…김윤석·구교환의 미스터리 ‘폭설’",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712237",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "‘폭설’, 김윤석·구교환이 펼치는 옥신각신 쫄깃한 심리 스릴러",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261113/135021363/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "박지현",
-   "traffic": "200+",
-   "when": "11월 14일 18:10",
-   "news": [
-    {
-     "title": "나 혼자 산다",
-     "url": "https://m.imbc.com/VOD/VodView?progCode=1002831100000100000&broadcastID=1002831101572100005&type=Clip",
-     "source": "MBC"
-    },
-    {
-     "title": "박지현, 코드쿤스트에 감동…‘대학가요제’서 깜짝 만남",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023608/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "웨이브",
-   "traffic": "500+",
-   "when": "11월 14일 17:20",
-   "news": [
-    {
-     "title": "[OTT리뷰]",
-     "url": "https://cine21.com/news/view/?mag_id=111266",
-     "source": "씨네21"
-    },
-    {
-     "title": "‘옆자리, 프란체스카’ 김현진 “행복했던 작품, 더 성장했다”",
-     "url": "https://www.kmib.co.kr/article/20261113500582",
-     "source": "국민일보"
-    }
-   ]
-  },
-  {
-   "kw": "구성환",
-   "traffic": "500+",
-   "when": "11월 14일 17:20",
-   "news": [
-    {
-     "title": "\"반지 선물하고, 5㎞ 업고...\" 구성환, 첫사랑과 30년만 재회 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/14/2026111407075647670",
-     "source": "머니투데이"
-    },
-    {
-     "title": "구성환, '결혼 약속' 여자친구 공개했다",
-     "url": "https://www.newsis.com/view/NISX20261114_0003867961",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "이로운",
-   "traffic": "1000+",
-   "when": "11월 14일 17:00",
-   "news": [
-    {
-     "title": "일본이 도와준 한국 야구... 오늘 밤 대만 꺾으면 APBC 결승행",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/14/HKCTERPHKJCZFMPW7GAQO77NMQ/",
-     "source": "조선일보"
-    },
-    {
-     "title": "김진욱 어떻게 한 거야? 일본, 3회까지 호주 15-0 대폭격…한국, 이대로면 대만 잡기만 해도 결승 진출 [오!쎈 도쿄] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/14/202611141317779758O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "대한민국 국군",
-   "traffic": "100+",
-   "when": "11월 14일 16:50",
-   "news": [
-    {
-     "title": "국방홍보원, 국방일보 창간 62주년 맞이 보도 사진전 개최",
-     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6353308",
-     "source": "뉴스1"
-    },
-    {
-     "title": "국방홍보원 '국방일보 보도사진전' 개최 \"대한민국 국군의 어제와 오늘 조명\"",
-     "url": "https://www.fnnews.com/news/202611130903127570",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "수수료",
-   "traffic": "500+",
-   "when": "11월 14일 16:20",
-   "news": [
-    {
-     "title": "등기부 열람료 700원→1100원… 공인 중개사들 국회서 “철회하라”",
-     "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/13/73ITORNBEVDAXPOPULZKAL64CA/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "등기 열람 수수료 700원 →1100원… 공인중개사들 반발",
-     "url": "https://www.donga.com/news/Society/article/all/20261113/135017604/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "무인 항공기",
-   "traffic": "2000+",
-   "when": "11월 14일 16:10",
-   "news": [
-    {
-     "title": "무인항공기 국제표준, 서울에서 논의한다… ISO/TC 20/SC 16 총회, 미·중 이어 세 번째 개최",
-     "url": "https://www.etnews.com/20261113000215",
-     "source": "전자신문"
-    },
-    {
-     "title": "무인항공기 국제표준 총회, 서울서 개최…수소 추진·AI·보안 등 논의",
-     "url": "https://www.chosun.com/economy/economy_general/2026/11/13/5LYYALA3YJHUJETWJVA7GOTOVE/",
-     "source": "조선일보"
     }
    ]
   }
