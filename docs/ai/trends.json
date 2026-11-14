@@ -1,6 +1,91 @@
 {
- "updated": "2026-11-15 03:23",
+ "updated": "2026-11-15 04:23",
  "items": [
+  {
+   "kw": "치지직",
+   "traffic": "5000+",
+   "when": "11월 15일 03:20",
+   "news": [
+    {
+     "title": "네이버, 스트리머·팬 소통 특화 '크리에이터 카페' 내달 출시",
+     "url": "https://www.etnews.com/20261113000071",
+     "source": "전자신문"
+    },
+    {
+     "title": "네이버, 방송·팬덤 결합한 크리에이터 카페 출시",
+     "url": "https://www.i-boss.co.kr/ab-2877-18474",
+     "source": "아이보스"
+    }
+   ]
+  },
+  {
+   "kw": "norway vs wales",
+   "traffic": "100+",
+   "when": "11월 15일 03:10",
+   "news": [
+    {
+     "title": "Norway vs Wales LIVE! Nations League Group A4 score updates, commentary, news and line-ups",
+     "url": "https://www.skysports.com/football/live-blog/13612159/norway-vs-wales-live-nations-league-group-a4-score-updates-commentary-news-and-line-ups",
+     "source": "Sky Sports"
+    },
+    {
+     "title": "Defending Haaland 'is a collective responsibility', says Wales boss Bellamy",
+     "url": "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/defending-haaland-is-a-collective-responsibility-says-wales-boss-bellamy-2026-11-13",
+     "source": "beIN SPORTS"
+    }
+   ]
+  },
+  {
+   "kw": "젠지",
+   "traffic": "500+",
+   "when": "11월 15일 02:30",
+   "news": [
+    {
+     "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
+     "url": "https://www.yna.co.kr/view/AKR20261114020600017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[롤드컵]쵸비 \"젠지의 해로\"…기인·캐니언 \"3대1로 우승 예상\"",
+     "url": "https://www.newsis.com/view/NISX20261114_0003867963",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "천준호",
+   "traffic": "100+",
+   "when": "11월 15일 02:30",
+   "news": [
+    {
+     "title": "이 대통령 \"가장 힘든 건 등 뒤에서 날아오는 화살\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865696_36911.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "이 대통령, 천준호에 “고생 많았다···등 뒤에서 날아오는 화살 가장 힘들어”",
+     "url": "https://www.khan.co.kr/article/202611142106001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "음식 배달",
+   "traffic": "100+",
+   "when": "11월 15일 02:10",
+   "news": [
+    {
+     "title": "전배모 \"배달 라이더 84%, 수익감소 우려…수수료 규제 반대\" - 머니투데이",
+     "url": "https://www.mt.co.kr/industry/2026/11/13/2026111314260557793",
+     "source": "머니투데이"
+    },
+    {
+     "title": "배달앱 수수료 15% 상한제 입법추진...음식점측 “빨리 도입” vs 라이더 “최저 배달비 보장”",
+     "url": "https://contents.premium.naver.com/backbriefing/news/contents/261114134414874tv",
+     "source": "네이버 프리미엄콘텐츠"
+    }
+   ]
+  },
   {
    "kw": "raf",
    "traffic": "100+",
@@ -19,19 +104,19 @@
    ]
   },
   {
-   "kw": "쵸비",
-   "traffic": "100+",
-   "when": "11월 15일 01:30",
+   "kw": "강신철",
+   "traffic": "10000+",
+   "when": "11월 15일 01:20",
    "news": [
     {
-     "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
-     "url": "https://www.yna.co.kr/view/AKR20261114020600017",
-     "source": "연합뉴스"
+     "title": "미 전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6865577_36925.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "[롤드컵]쵸비 \"젠지의 해로\"…기인·캐니언 \"3대1로 우승 예상\"",
-     "url": "https://www.newsis.com/view/NISX20261114_0003867963",
-     "source": "뉴시스"
+     "title": "브룩스 前사령관, ‘전작권 당장 전환 가능’ 강신철에 “매우 실망”",
+     "url": "https://www.chosun.com/international/us/2026/11/14/UNVTC33XERFVLDHL3IAUAS74YQ/",
+     "source": "조선일보"
     }
    ]
   },
@@ -54,7 +139,7 @@
   },
   {
    "kw": "비트코인",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 15일 00:30",
    "news": [
     {
@@ -83,91 +168,6 @@
      "title": "Biratnagar Kings Captain Charith Asalanka Blames Poor Bowling in Final Overs for Loss",
      "url": "https://english.ratopati.com/story/86672/we-didnt-do-well-in-the-last-over-humidity-and-fielding-also-affected-us-aslanka",
      "source": "Ratopati"
-    }
-   ]
-  },
-  {
-   "kw": "bangladesh vs pakistan",
-   "traffic": "500+",
-   "when": "11월 14일 23:30",
-   "news": [
-    {
-     "title": "Bangladesh vs Pakistan LIVE streaming info: When, where to watch BAN v PAK SAFF Championship 2026 semifinal?",
-     "url": "https://sportstar.thehindu.com/football/bangladesh-vs-pakistan-live-streaming-info-where-to-watch-saff-championship-semifinal-tv-channel-ban-v-pak/article71701360.ece",
-     "source": "Sportstar"
-    },
-    {
-     "title": "For the fans, football is worth the wait and expense",
-     "url": "https://www.thedailystar.net/sports/football/news/the-fans-football-worth-the-wait-and-expense-4323711",
-     "source": "The Daily Star"
-    }
-   ]
-  },
-  {
-   "kw": "나의 이방인",
-   "traffic": "500+",
-   "when": "11월 14일 23:10",
-   "news": [
-    {
-     "title": "'그것이 알고 싶다'(그알) 14일 결방 이유는?",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752131",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "[다시보기] 나의 이방인 1회",
-     "url": "https://programs.sbs.co.kr/culture/dearstranger/vod/90792/22000639770",
-     "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "1250 회 로또",
-   "traffic": "1000+",
-   "when": "11월 14일 22:40",
-   "news": [
-    {
-     "title": "제1250회 로또 1등 9명···당첨금 31억원",
-     "url": "https://www.khan.co.kr/article/202611142052001",
-     "source": "경향신문"
-    },
-    {
-     "title": "1250회 로또판매·추첨시간, 1249회 1등당첨지역 공개",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751761",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "채령",
-   "traffic": "200+",
-   "when": "11월 14일 22:40",
-   "news": [
-    {
-     "title": "“혼자 빨리 준비해서 좋다” 솔로 데뷔 채령, 멤버들 없는 단점에 ‘침묵’ 폭소 (‘살림남’)",
-     "url": "https://www.mk.co.kr/news/broadcasting-service/12209046",
-     "source": "매일경제"
-    },
-    {
-     "title": "박진영 프로듀서가 먼저 스포한 채령의 솔로 데뷔 앨범 'Lovesick' 안무 비하인드? [웬디의 영스트리트]",
-     "url": "https://programs.sbs.co.kr/radio/wendy0s/clip/69682/22000639796?div=live_end",
-     "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "천천히 강렬하게",
-   "traffic": "2000+",
-   "when": "11월 14일 21:50",
-   "news": [
-    {
-     "title": "송혜교, 20대 시절 후회하는 이유..\"노는 것 좋아했다\" ('핑계고')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GFRDCNZUHE3DAOBQMVSWIYRTMI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "송혜교, 미국서 와인 사려다 거절 \"18살인 줄 알고 못 판다고\"",
-     "url": "https://www.newsis.com/view/NISX20261114_0003868197",
-     "source": "뉴시스"
     }
    ]
   }
