@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-14 16:22",
+ "updated": "2026-11-14 17:22",
  "items": [
   {
-   "kw": "광교신도시",
+   "kw": "수수료",
+   "traffic": "200+",
+   "when": "11월 14일 16:20",
+   "news": [
+    {
+     "title": "배민發 수수료 개편, 쿠팡이츠로 확산되나",
+     "url": "https://zdnet.co.kr/view/?no=20261113165818",
+     "source": "지디넷코리아"
+    },
+    {
+     "title": "\"할인한 배달비엔 수수료 안 내요\"…배민 결정에 소상공인단체들 '환영' - 머니투데이",
+     "url": "https://www.mt.co.kr/living/2026/11/12/2026111217290610867",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "무인 항공기",
+   "traffic": "1000+",
+   "when": "11월 14일 16:10",
+   "news": [
+    {
+     "title": "무인항공기 국제표준, 서울에서 논의한다… ISO/TC 20/SC 16 총회, 미·중 이어 세 번째 개최",
+     "url": "https://www.etnews.com/20261113000215",
+     "source": "전자신문"
+    },
+    {
+     "title": "무인항공기 국제표준 총회, 서울서 개최…수소 추진·AI·보안 등 논의",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/13/5LYYALA3YJHUJETWJVA7GOTOVE/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "인수 합병",
    "traffic": "100+",
+   "when": "11월 14일 16:00",
+   "news": [
+    {
+     "title": "자본시장 정책 간담회 - 사진 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74256",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "국힘, 李 주식 발언 맹공…“오르면 치적, 폭락하면 개미 팔자냐”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261114/135024322/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "박병호",
+   "traffic": "200+",
+   "when": "11월 14일 15:50",
+   "news": [
+    {
+     "title": "레전드들이 빛낸 잠실구장 마지막 경기, 서군 5-2 승리…'3안타 2타점' 김태균, 결승타+홈런더비 우승 만점 활약",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/14/MJTDMZBTMU3WMYJTGQ4TKN3FMI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[포토] 홈런더비 우승 차지한 김태균",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MMYTONLFME2DQZRSGI2WMOJVGA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "문지애",
+   "traffic": "200+",
+   "when": "11월 14일 15:40",
+   "news": [
+    {
+     "title": "문지애♥전종환 “아들, 수학 시험 27점에 온 집안 비상…결국 3등 들어”",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261114/135023894/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "문지애♥전종환 \"사내 연애 힘들었다..이별 꿈에 고통\"→\"子수학 27점\" 극복",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/GNSTQNZXMIYDGYRVGBRTCNBVGQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "북대서양 조약 기구",
+   "traffic": "200+",
+   "when": "11월 14일 15:30",
+   "news": [
+    {
+     "title": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+     "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Russian Demands of NATO Pullback Are Non-Starter, Finland Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-13/russian-demands-of-nato-pullback-are-non-starter-finland-says",
+     "source": "Bloomberg.com"
+    }
+   ]
+  },
+  {
+   "kw": "mma 2026",
+   "traffic": "1000+",
+   "when": "11월 14일 14:50",
+   "news": [
+    {
+     "title": "Cain Velasquez compares Josh Hokit to Conor McGregor, predicts UFC 334 main event",
+     "url": "https://www.mmafighting.com/ufc/520482/cain-velasquez-compares-josh-hokit-to-conor-mcgregor-predicts-ufc-334-main-event",
+     "source": "MMA Fighting"
+    },
+    {
+     "title": "Polymarket Invite Code SBWIRE | Get $25 Bonus for UFC 334 Gane vs Hokit at MSG",
+     "url": "https://mmajunkie.usatoday.com/story/sports/2026/11/13/polymarket-invite-code-sbwire-ufc-334/91240606007/",
+     "source": "MMA Junkie"
+    }
+   ]
+  },
+  {
+   "kw": "광교신도시",
+   "traffic": "200+",
    "when": "11월 14일 14:50",
    "news": [
     {
@@ -12,9 +131,9 @@
      "source": "글로벌이코노믹"
     },
     {
-     "title": "\"집값 25%만 내고 입주\"…광교 지분적립형에 2만 명 몰려",
-     "url": "https://www.hankyung.com/article/202611123258i",
-     "source": "한국경제"
+     "title": "분양가 25%만 내고 입주…내달 고양창릉 지분적립형 284가구 공급",
+     "url": "https://www.news1.kr/realestate/general/6353065",
+     "source": "뉴스1"
     }
    ]
   },
@@ -24,20 +143,20 @@
    "when": "11월 14일 14:50",
    "news": [
     {
-     "title": "지구 14바퀴 ‘코끼리코’ 돌고 ‘젓가락 잡기’ 2단 회수…머스크의 ‘무한도전’",
-     "url": "https://www.hani.co.kr/arti/science/technology/1287313.html",
-     "source": "한겨레"
-    },
-    {
      "title": "[영상]‘스타십’ 1단 로켓 지상 회수 불발…바다에 착수",
      "url": "https://www.khan.co.kr/article/202611140848001",
      "source": "경향신문"
+    },
+    {
+     "title": "지구 14바퀴 ‘코끼리코’ 돌고 ‘젓가락 잡기’ 2단 회수…머스크의 ‘무한도전’",
+     "url": "https://www.hani.co.kr/arti/science/technology/1287313.html",
+     "source": "한겨레"
     }
    ]
   },
   {
    "kw": "화장품",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 14일 14:40",
    "news": [
     {
@@ -49,125 +168,6 @@
      "title": "필러는 누가 놓고, 부작용은 누가 책임지나…영국 의회가 짚은 미용산업의 빈틈",
      "url": "https://www.hkn24.com/news/articleView.html?idxno=351578",
      "source": "헬스코리아뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "장동윤",
-   "traffic": "100+",
-   "when": "11월 14일 14:40",
-   "news": [
-    {
-     "title": "'김승윤과 결혼' 장동윤, 새신랑됐는데..인도 미용실서 혼절 직전? 곽튜브는 비명 ('지구마불4')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/14/MU3DGMRYMMZTMZBUGU3GMZTFMM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "장동윤, 인도 마사지에 혼절 직전…곽튜브는 비명 (지구마불4)",
-     "url": "https://sports.donga.com/ent/article/all/20261114/135024272/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "피트 헤그세스",
-   "traffic": "200+",
-   "when": "11월 14일 14:30",
-   "news": [
-    {
-     "title": "국립묘지서 웃고 떠들다 경비병에 ‘정숙하라’ 경고받은 미 국방장관 일행",
-     "url": "https://www.khan.co.kr/article/202611121113001",
-     "source": "경향신문"
-    },
-    {
-     "title": "헤그세스, “조용히 하라” 자신 지적한 병사에 훈장",
-     "url": "https://www.donga.com/news/People/article/all/20261113/135023074/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "감스트",
-   "traffic": "500+",
-   "when": "11월 14일 14:20",
-   "news": [
-    {
-     "title": "세무사 시험 수석 합격자 \"AI 안경으로 문제 다 맞힐 수 있다면 공부 왜 하겠나\"",
-     "url": "https://www.chosun.com/national/labor/2026/11/14/F4LAS3IYH5AAVHWEV6HHKOOONY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "세무사 수석 'AI 안경' 의혹에 국회 청원 등장…\"관련 제도 정비해야\" - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/14/2026111415503735020",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "이유진",
-   "traffic": "500+",
-   "when": "11월 14일 14:20",
-   "news": [
-    {
-     "title": "이유진♥차경은, 오늘 결혼…임신 겹경사",
-     "url": "https://www.newsis.com/view/NISX20261114_0003867991",
-     "source": "뉴시스"
-    },
-    {
-     "title": "\"집안에 배우만 6명\"…이효정 아들 이유진, 장동윤과 동서된다 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105460011738",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "elle",
-   "traffic": "100+",
-   "when": "11월 14일 14:20",
-   "news": [
-    {
-     "title": "Ancienne prof de fitness, elle réalise son rêve en ouvrant \"Écrin privé\", une boutique de luxe à Narbonne",
-     "url": "https://www.lindependant.fr/2026/11/14/ancienne-prof-de-fitness-elle-realise-son-reve-en-ouvrant-ecrin-prive-une-boutique-de-luxe-a-narbonne-13646906.php",
-     "source": "L'Indépendant"
-    },
-    {
-     "title": "« Un bon avocat », sur Netflix : Laurent Lafitte excelle en gloire du barreau déchue",
-     "url": "https://www.lemonde.fr/culture/article/2026/11/10/un-bon-avocat-sur-netflix-laurent-lafitte-excelle-en-gloire-du-barreau-dechue_6808874_3246.html",
-     "source": "Le Monde.fr"
-    }
-   ]
-  },
-  {
-   "kw": "이현중",
-   "traffic": "100+",
-   "when": "11월 14일 14:10",
-   "news": [
-    {
-     "title": "‘NBA 도전’ 이현중, G리그서 개인 최다 21점 폭발…3점포 4방",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712896",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "이현중, G리그 개인 최다 득점…3점슛 4방 포함 21득점",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261114154306umT",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "부산 kcc 대 서울 sk",
-   "traffic": "1000+",
-   "when": "11월 14일 13:40",
-   "news": [
-    {
-     "title": "[사진] 허훈, 우리 잘 하고 있어",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MMYGIMBRGAYDINJYGUZDKODGMU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[사진] 킹, 눈을 막아도 소용없어",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/MMYTENDEMQZTEOJXMFRTSNRUGM/",
-     "source": "조선일보"
     }
    ]
   }
