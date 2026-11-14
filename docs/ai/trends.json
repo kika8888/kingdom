@@ -1,31 +1,99 @@
 {
- "updated": "2026-11-15 06:23",
+ "updated": "2026-11-15 07:23",
  "items": [
   {
-   "kw": "아버지",
-   "traffic": "100+",
-   "when": "11월 15일 05:00",
+   "kw": "복권",
+   "traffic": "5000+",
+   "when": "11월 15일 06:00",
    "news": [
     {
-     "title": "치매 부모가 생전에 물려준 재산…되돌릴 수 있을까 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/12/2026111210123451419",
+     "title": "1250회 로또 1등번호 당첨자 14명...20억씩 배당",
+     "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602149",
+     "source": "헤드라인제주"
+    },
+    {
+     "title": "제1250회 로또 1등 9명···당첨금 31억원",
+     "url": "https://www.khan.co.kr/article/202611142052001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "이승기",
+   "traffic": "500+",
+   "when": "11월 15일 06:00",
+   "news": [
+    {
+     "title": "'105억 전세 피해' 이승기 \"부동산에 악마들이 득실거려\"",
+     "url": "https://www.newsis.com/view/NISX20261114_0003868186",
+     "source": "뉴시스"
+    },
+    {
+     "title": "‘105억 전세금 분쟁’ 이승기, “부동산에 악마 가득해, 안 당하면 모른다” 뼈있는 경고",
+     "url": "https://sports.khan.co.kr/article/202611141748013",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "김하성",
+   "traffic": "500+",
+   "when": "11월 15일 05:30",
+   "news": [
+    {
+     "title": "\"2000만 달러 받고 타율 .116 충격\" 김하성, 몸값 폭락이 오히려 기회? 美 매체 \"최고의 알짜 영입 될 수도\"",
+     "url": "https://www.chosun.com/sports/world-baseball/2026/11/14/GI3TEOJTGIZGKOBZMY4GIOBVG4/",
+     "source": "조선일보"
+    },
+    {
+     "title": "초대형 희소식! 김하성, 난생처음 인기팀 관심! → 키움 컴백 이유 사라졌다",
+     "url": "https://www.sportschosun.com/baseball/2026-11-14/202611140100094330008858",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "kw": "미라 안드레예바",
+   "traffic": "200+",
+   "when": "11월 15일 05:30",
+   "news": [
+    {
+     "title": "무려 '735억' 잭팟→\"돈 더 달라\"→'파격 시스루 논란' 세계 1위 허무한 굴욕... '또' 분노 조절 실패 '도대체 왜' - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/15/2026111416335893727",
      "source": "머니투데이"
     },
     {
-     "title": "“전 재산을 OO에게” 치매 아버지 유언장 본 남매 충격",
-     "url": "https://www.wikitree.co.kr/articles/1173180",
-     "source": "위키트리"
+     "title": "사발렌카 꺾고 기뻐하는 안드레예바",
+     "url": "https://mobile.newsis.com/photo/NISI20261112_0002290552",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "아버지",
+   "traffic": "200+",
+   "when": "11월 15일 05:00",
+   "news": [
+    {
+     "title": "하리수 \"중학생 때부터 父와 대화 단절…몰래 성전환 수술\"",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868296",
+     "source": "뉴시스"
+    },
+    {
+     "title": "\"8㎝ 뇌종양, 두개골 제거\"…빽가, 부모에 진단 숨기다 '눈물' - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/entertainment/2026/11/12/2026111209361465715",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "portugal vs denmark",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 15일 04:50",
    "news": [
     {
-     "title": "Licensable picture: UEFA Nations League - Group A4 - Portugal v Denmark",
-     "url": "https://www.reutersconnect.com/item/uefa-nations-league-group-a4-portugal-v-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxTExZOVg",
+     "title": "Licensable picture: UEFA Nations League 2026/27 League Phase Matchday 5 match between Portugal and Denmark",
+     "url": "https://www.reutersconnect.com/item/uefa-nations-league-202627-league-phase-matchday-5-match-between-portugal-and-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZREEzTkg",
      "source": "Reuters Connect"
     },
     {
@@ -37,7 +105,7 @@
   },
   {
    "kw": "이세계아이돌",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 15일 04:30",
    "news": [
     {
@@ -71,7 +139,7 @@
   },
   {
    "kw": "포르투갈 대 덴마크",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 15일 04:00",
    "news": [
     {
@@ -80,9 +148,9 @@
      "source": "Laodong.vn"
     },
     {
-     "title": "경기 프리뷰: 포르투갈 vs 덴마크, 11월 15일 오전 2시 45분: 조 1위 자리를 놓고 경쟁.",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-bo-dao-nha-vs-dan-mach-2h45-ngay-15-11-can-dich-ngoi-dau",
-     "source": "Vietnam.vn"
+     "title": "[UNL REVIEW] '은퇴' 호날두의 저주?...포르투갈, 덴마크에 충격 1-4 대패! 호일룬 멀티골에 무너져",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698482",
+     "source": "인터풋볼"
     }
    ]
   },
@@ -92,82 +160,14 @@
    "when": "11월 15일 04:00",
    "news": [
     {
+     "title": "League of Legends: New Dawn revealed with modernized client, updated Summoner's Rift, and more",
+     "url": "https://www.sheepesports.com/en/articles/league-of-legends-new-dawn-revealed-with-modernized-client-updated-summoner-s-rift-and-more/en",
+     "source": "Sheep Esports"
+    },
+    {
      "title": "LoL Esports 2027 and Beyond",
      "url": "https://lolesports.com/news/lol-esports-2027-and-beyond",
      "source": "LoL Esports"
-    },
-    {
-     "title": "Next Year's Worlds Final to Be Held in Seoul... Showdown at 'Seoul Arena'",
-     "url": "https://www.asiae.co.kr/en/article/2026111400394915464",
-     "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "룰러",
-   "traffic": "5000+",
-   "when": "11월 15일 03:50",
-   "news": [
-    {
-     "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
-     "url": "https://www.yna.co.kr/view/AKR20261114020600017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[롤드컵]젠지, BLG 상대로 1세트 승리…기선 제압",
-     "url": "https://www.newsis.com/view/NISX20261115_0003868290",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "아프리카",
-   "traffic": "500+",
-   "when": "11월 15일 03:50",
-   "news": [
-    {
-     "title": "매출 1년 새 15배 성장… 스킨서울랩, 정주영 창업경진대회 글로벌 부문 최우수상",
-     "url": "https://www.seoultopnews.kr/news/articleView.html?idxno=100353",
-     "source": "톱뉴스"
-    },
-    {
-     "title": "한·아프리카재단, ‘2026 글로벌 액셀러레이팅 in Africa’ 기후테크 성과공유회 개최",
-     "url": "https://wowtale.net/2026/11/14/268054/",
-     "source": "와우테일"
-    }
-   ]
-  },
-  {
-   "kw": "twitch",
-   "traffic": "200+",
-   "when": "11월 15일 03:50",
-   "news": [
-    {
-     "title": "Free copies of Grand Theft Auto VI for Californians? What to know about Kick sweepstakes",
-     "url": "https://ktla.com/entertainment/free-copies-of-grand-theft-auto-vi-for-californians-what-to-know-about-kick-sweepstakes/",
-     "source": "KTLA"
-    },
-    {
-     "title": "Deal | 10K+ free GTA 6 Ultimate Edition game codes coming in livestream Twitch drops",
-     "url": "https://www.notebookcheck.net/10K-free-GTA-6-Ultimate-Edition-game-codes-coming-in-livestream-Twitch-drops.1449873.0.html",
-     "source": "Notebookcheck"
-    }
-   ]
-  },
-  {
-   "kw": "숲",
-   "traffic": "2000+",
-   "when": "11월 15일 03:30",
-   "news": [
-    {
-     "title": "\"궁궐 정원을 그대로 옮겨놨네\"… 한옥 정자와 연못 아름다운 축구장 90개 크기 수목원 명소",
-     "url": "https://www.balpumnews.com/travel/sejong-national-arboretum-4",
-     "source": "발품뉴스"
-    },
-    {
-     "title": "‘함께해서 좋아’",
-     "url": "https://www.sedaily.com/article/20114313",
-     "source": "서울경제"
     }
    ]
   }
