@@ -1,6 +1,108 @@
 {
- "updated": "2026-11-15 23:23",
+ "updated": "2026-11-16 00:23",
  "items": [
+  {
+   "kw": "입양",
+   "traffic": "200+",
+   "when": "11월 15일 22:40",
+   "news": [
+    {
+     "title": "\"여기가 미감 종착지\"…김나영, ♥마이큐 작업실서 허리 감싸 안으며 '사랑꾼 면모' 과시",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/HE3TSNRSGAYTANZTGI2TEMDGMU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"누가 여기에 갖다 놓은 거야?\"...김나영, 주방 서랍 열어보고 '깜짝' 놀란 사연 ('노필터티비')",
+     "url": "https://www.koreadaily.com/article/20261115040636923",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "퇴직금",
+   "traffic": "200+",
+   "when": "11월 15일 22:40",
+   "news": [
+    {
+     "title": "퇴직연금 대수술, 뭐가 달라질까?",
+     "url": "https://story.pay.naver.com/content/3912",
+     "source": "네이버페이 머니스토리"
+    },
+    {
+     "title": "NH농협금융, 기금형 퇴직연금 대비 그룹 TF 가동",
+     "url": "https://www.yna.co.kr/view/AKR20261113118100002",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "알렉산더 즈베레프",
+   "traffic": "1000+",
+   "when": "11월 15일 22:30",
+   "news": [
+    {
+     "title": "즈베레프, 험난한 조 편성 속 호다르와 첫판… 알카라스는 '비교적 수월'",
+     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54294",
+     "source": "테니스코리아"
+    },
+    {
+     "title": "즈베레프와 알카라즈는 ATP 파이널에서 각 조 1위를 차지할 예정이다.",
+     "url": "https://www.vietnam.vn/ko/zverev-va-alcaraz-se-dan-dau-2-bang-dau-tai-atp-finals",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "미미미누",
+   "traffic": "500+",
+   "when": "11월 15일 22:30",
+   "news": [
+    {
+     "title": "힐링 아일릿",
+     "url": "https://www.newsis.com/view/NISI20261115_0021533394",
+     "source": "뉴시스"
+    },
+    {
+     "title": "[사진]미미미누, 2026 멜론뮤직어워드 사회 맡았어요",
+     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GMZGKMBZGJRGEMRTHBRDMYJVMY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "부고",
+   "traffic": "200+",
+   "when": "11월 15일 22:30",
+   "news": [
+    {
+     "title": "[부음] 권형택(기술보증기금 이사장)씨 장인상",
+     "url": "https://www.etnews.com/20261115000175",
+     "source": "전자신문"
+    },
+    {
+     "title": "오늘의 부고 종합",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01823686645646048&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "박현주",
+   "traffic": "200+",
+   "when": "11월 15일 22:30",
+   "news": [
+    {
+     "title": "\"겸손은 연기, 반대하면 폭언\"… 젠슨 황 전기 작가의 폭로",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/15/K627F2S2CNFL5NG7Z3VUZCPXLM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[씨줄날줄] 차등의결권",
+     "url": "https://www.seoul.co.kr/news/editOpinion/weft-column/2026/11/16/20261116027006",
+     "source": "서울신문"
+    }
+   ]
+  },
   {
    "kw": "수상함",
    "traffic": "200+",
@@ -12,26 +114,26 @@
      "source": "조선일보"
     },
     {
-     "title": "HD현대, 미 무인함정 시장 공략 발판",
-     "url": "https://www.khan.co.kr/article/202611152031025",
-     "source": "경향신문"
+     "title": "HD현대, 美기업과 ‘바다의 드론’ 진수",
+     "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/16/20261116032006",
+     "source": "서울신문"
     }
    ]
   },
   {
    "kw": "재건축",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 15일 21:30",
    "news": [
     {
-     "title": "요즘 잘나가는 재건축 단지 작명 비밀은…‘지역명’ ‘단지 번호’",
-     "url": "https://www.donga.com/news/Economy/article/all/20261115/135026944/1",
-     "source": "동아일보"
+     "title": "강남 집값 내리는데 경기 규제지역은 상승…연말 토허제 ‘딜레마’",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01889286645646048",
+     "source": "마켓인"
     },
     {
-     "title": "현대·삼성 '최대 실적'…건설사 도시정비 수주 신기록 세우나",
-     "url": "https://www.nocutnews.co.kr/news/6606784",
-     "source": "노컷뉴스"
+     "title": "\"집 팔고 나가라는 거냐\"…은마 '4.6억 청구서'에 부글부글 [이슬기의 새집다오]",
+     "url": "https://www.hankyung.com/article/2026111348856",
+     "source": "한국경제"
     }
    ]
   },
@@ -58,116 +160,14 @@
    "when": "11월 15일 21:10",
    "news": [
     {
-     "title": "이란, 두 달여 만에 중동 미군 기지 타격 이어가",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6865772_36925.html",
-     "source": "MBC 뉴스"
-    },
-    {
      "title": "이란, 두달 만에 미군 기지 공습…미국 ‘봉쇄 강화’ 기조에 강경 대응",
      "url": "https://www.hani.co.kr/arti/international/arabafrica/1287428.html",
      "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "한국 야구",
-   "traffic": "200+",
-   "when": "11월 15일 21:00",
-   "news": [
-    {
-     "title": "침묵하던 김도영이 ‘쾅’... 대만 꺾고 日과 우승 다툰다",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/14/MTLH675YURA6XD3ICXSKJ2KTWQ/",
-     "source": "조선일보"
     },
     {
-     "title": "깨어난 김도영‥'한일전 12연패, 오늘 끊어낼까'",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865820_37004.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "샤인머스캣",
-   "traffic": "5000+",
-   "when": "11월 15일 20:50",
-   "news": [
-    {
-     "title": "샤인머스캣 인기 시들하더니…새로 등장한 '귀족 과일'",
-     "url": "https://www.hankyung.com/article/2026111574921",
-     "source": "한국경제"
-    },
-    {
-     "title": "'하나에 4만원'…여성 VIP들 즐긴다는 '귀족 과일' 뭐길래 [프라이스&]",
-     "url": "https://www.hankyung.com/article/202611094307i",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "최원호",
-   "traffic": "1000+",
-   "when": "11월 15일 20:40",
-   "news": [
-    {
-     "title": "[사진]'맞을만 했다' 자책하는 김건우",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/15/MFRDOZJWMVTDKNLBMMYWCNRSGU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[사진]박정민,'맞춰 잡는 투구로 8회말 순삭'",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/15/MYZDQYJYGI4DAZRYG4YTINBSGM/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "김유재",
-   "traffic": "200+",
-   "when": "11월 15일 19:50",
-   "news": [
-    {
-     "title": "피겨 김유재, 시니어 GP 4차 대회 쇼트 3위…트리플 악셀 성공",
-     "url": "https://www.yna.co.kr/view/AKR20261115018700007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'시니어 무대 첫 메달 보인다' 기대주 김유재, 그랑프리 4차 쇼트프로그램 3위 랭크…'2위와 0.32점 차이'",
-     "url": "https://www.chosun.com/sports/sports_general/2026/11/15/MVTDONTBGVTDENLEMNRDOZTBME/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "화물기",
-   "traffic": "200+",
-   "when": "11월 15일 19:30",
-   "news": [
-    {
-     "title": "테러 아니었네…역대급 美 항공대란, 이것 교체하다 터졌다",
-     "url": "https://www.koreadaily.com/article/20261114203812294",
-     "source": "미주중앙일보"
-    },
-    {
-     "title": "미국 활주로 이동중 여객기 날개와 화물기 부딪혀",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8713141",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "백신",
-   "traffic": "500+",
-   "when": "11월 15일 19:20",
-   "news": [
-    {
-     "title": "생후 6개월 영아에 하루 지난 백신 투여한 의사…대법 “면허정지는 과도해”",
-     "url": "https://www.khan.co.kr/article/202611151323001",
-     "source": "경향신문"
-    },
-    {
-     "title": "영아에 기한 하루 지난 백신 접종…대법 “의사면허 취소 과도”",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713124",
-     "source": "KBS 뉴스"
+     "title": "이란 혁명수비대, 바레인 미군 레이더 기지 공격",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444825",
+     "source": "연합인포맥스"
     }
    ]
   }
