@@ -307,7 +307,8 @@
    "https://blog.naver.com/soduwk1209/224478184078",
    "https://blog.naver.com/soduwk1209/224476464304",
    "https://blog.naver.com/soduwk1209/224431899184",
-   "https://blog.naver.com/soduwk1209/224478520234"
+   "https://blog.naver.com/soduwk1209/224478520234",
+   "https://blog.naver.com/soduwk1209/224476494209"
   ],
   "started": true,
   "v": 2,
@@ -738,7 +739,8 @@
    "https://blog.naver.com/soduwk1209/224478184078",
    "https://blog.naver.com/soduwk1209/224476464304",
    "https://blog.naver.com/soduwk1209/224478520234",
-   "https://blog.naver.com/soduwk1209/224476494209"
+   "https://blog.naver.com/soduwk1209/224476494209",
+   "https://blog.naver.com/soduwk1209/224476749083"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224430937044",
@@ -860,7 +862,7 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1794762178.5867476,
-  "tone": "감탄",
+  "tone": "존댓말",
   "hooks": [
    "와 임영웅 이런 일이 있었네",
    "화제의 소식",
@@ -879,7 +881,7 @@
    "조세호 이야기"
   ],
   "queue": [
-   "https://blog.naver.com/soduwk1209/224476494209"
+   "https://blog.naver.com/soduwk1209/224476749083"
   ],
   "reply_ok": true
  },
@@ -1171,7 +1173,8 @@
    "https://blog.naver.com/dkdk521/224419150321",
    "https://blog.naver.com/dkdk521/224477284320",
    "https://blog.naver.com/dkdk521/224417763343",
-   "https://blog.naver.com/dkdk521/224478519404"
+   "https://blog.naver.com/dkdk521/224478519404",
+   "https://blog.naver.com/dkdk521/224477292710"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1766,7 +1769,8 @@
    "https://blog.naver.com/dkdk521/224478233842",
    "https://blog.naver.com/dkdk521/224477284320",
    "https://blog.naver.com/dkdk521/224478519404",
-   "https://blog.naver.com/dkdk521/224477292710"
+   "https://blog.naver.com/dkdk521/224477292710",
+   "https://blog.naver.com/dkdk521/224477339281"
   ],
   "backlog": [
    "https://blog.naver.com/dkdk521/224417755954",
@@ -2075,7 +2079,7 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1794765597.3951442,
-  "tone": "친구",
+  "tone": "질문",
   "hooks": [
    "화제가 된 이유를 정리했어요",
    "다들 이거 아셨어요?",
@@ -2094,7 +2098,7 @@
    "손흥민 이야기 듣고 깜짝"
   ],
   "queue": [
-   "https://blog.naver.com/dkdk521/224477292710"
+   "https://blog.naver.com/dkdk521/224477339281"
   ],
   "reply_ok": true
  }
