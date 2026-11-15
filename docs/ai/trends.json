@@ -1,20 +1,60 @@
 {
- "updated": "2026-11-15 17:25",
+ "updated": "2026-11-15 18:13",
  "items": [
   {
-   "kw": "박태환",
-   "traffic": "100+",
-   "when": "11월 15일 16:20",
+   "kw": "개혁",
+   "traffic": "200+",
+   "when": "11월 15일 17:10",
    "news": [
     {
-     "title": "박태환 맞아? 확 달라진 얼굴에 깜짝… 살 쏙 빠지고 배우 비주얼",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GI4GMZJWGBTGKYJRMZQTOZRQMY/",
-     "source": "조선일보"
+     "title": "이 대통령 \"개혁의 이름 빌려 개혁 방해하는 건 용납 어려워\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865766_36911.html",
+     "source": "MBC 뉴스"
     },
+    {
+     "title": "“등 뒤 화살” 이어 “개혁 방해”…이 대통령, 민주 강경파에 ‘경고장’",
+     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1287382.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "kw": "창원 lg 대 수원 kt",
+   "traffic": "500+",
+   "when": "11월 15일 16:30",
+   "news": []
+  },
+  {
+   "kw": "kb5132061",
+   "traffic": "100+",
+   "when": "11월 15일 16:30",
+   "news": [
+    {
+     "title": "Windows 11’s big redesign has started shipping, and the first thing it kills is the Windows 8-era pop-up that asks what to do every time you plug in your phone",
+     "url": "https://www.windowslatest.com/2026/11/15/windows-11s-big-redesign-has-started-shipping-and-the-first-thing-it-kills-is-the-windows-8-era-pop-up-that-asks-what-to-do-every-time-you-plug-in-your-phone/",
+     "source": "Windows Latest"
+    },
+    {
+     "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
+     "url": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059",
+     "source": "The Register"
+    }
+   ]
+  },
+  {
+   "kw": "박태환",
+   "traffic": "200+",
+   "when": "11월 15일 16:20",
+   "news": [
     {
      "title": "박태환, 살 뺐나…또렷해진 이목구비",
      "url": "https://www.donga.com/news/Culture/article/all/20261115/135026893/1",
      "source": "동아일보"
+    },
+    {
+     "title": "박태환 맞아? 볼살 실종에 확 달라진 얼굴…무슨 일 있었나",
+     "url": "https://www.mk.co.kr/news/entertain/12209035",
+     "source": "매일경제"
     }
    ]
   },
@@ -22,7 +62,13 @@
    "kw": "부산 kcc 대 대구 한국가스공사",
    "traffic": "1000+",
    "when": "11월 15일 16:10",
-   "news": []
+   "news": [
+    {
+     "title": "[포토] 소노, 한국가스공사에 88-87로 승리",
+     "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065619927051376",
+     "source": "점프볼"
+    }
+   ]
   },
   {
    "kw": "구자욱",
@@ -43,7 +89,7 @@
   },
   {
    "kw": "금오산",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 15일 16:10",
    "news": [
     {
@@ -77,41 +123,24 @@
   },
   {
    "kw": "의료",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 15일 15:50",
    "news": [
     {
-     "title": "[전남광주소식]재난응급의료 종합훈련대회 최우수상 등",
-     "url": "https://www.newsis.com/view/NISX20261113_0003867877",
-     "source": "뉴시스"
+     "title": "‘부산의료산업대상’ 대상에 이샘병원 이성근 병원장",
+     "url": "https://mobile.busan.com/view/busan/view.php?code=2026111509463124239",
+     "source": "부산일보"
     },
     {
-     "title": "대전시, 재난응급의료 종합훈련대회 전국 3위…장관상 수상",
-     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1110980",
-     "source": "충청매일"
-    }
-   ]
-  },
-  {
-   "kw": "레버리지",
-   "traffic": "500+",
-   "when": "11월 15일 15:30",
-   "news": [
-    {
-     "title": "증시 폭락 후 초고수는 \"반등에 베팅\"…'레버리지·급락주' 담았다",
-     "url": "https://www.hankyung.com/article/202611157013i",
-     "source": "한국경제"
-    },
-    {
-     "title": "[심양섭의 정론직격] 고위험 고수익 레버리지의 저주",
-     "url": "https://www.pennmike.com/news/articleView.html?idxno=131722",
-     "source": "펜앤마이크"
+     "title": "대구광역시, 시안 의료·교육기관과 협약 추진...공동사업 발굴",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752326",
+     "source": "국제뉴스"
     }
    ]
   },
   {
    "kw": "젠틀몬스터",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 15일 15:30",
    "news": [
     {
@@ -123,40 +152,6 @@
      "title": "예쁜 뿔테 안경인 줄 알았는데, AI 안경입니다",
      "url": "https://www.elle.co.kr/article/1913095",
      "source": "엘르 코리아 │ ELLE KOREA"
-    }
-   ]
-  },
-  {
-   "kw": "서버",
-   "traffic": "200+",
-   "when": "11월 15일 15:10",
-   "news": [
-    {
-     "title": "\"북한 라자루스, 국내 서버 30곳 노렸다\"",
-     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6865762_36967.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-     "url": "https://www.yna.co.kr/view/AKR20261115016000011",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "다니엘",
-   "traffic": "500+",
-   "when": "11월 15일 15:00",
-   "news": [
-    {
-     "title": "\"착취\"라는 NYT, \"선투자\"라는 韓… 뉴진스가 쏘아올린 K-팝 딜레마 [박지현의 아트월드]",
-     "url": "https://www.fnnews.com/news/202611140300483483",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "뉴진스 계약서가 말하지 않은 것…K-팝 '인큐베이팅'의 맥락",
-     "url": "https://www.newsis.com/view/NISX20261110_0003862019",
-     "source": "뉴시스"
     }
    ]
   }
