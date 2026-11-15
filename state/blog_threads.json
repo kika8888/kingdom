@@ -303,7 +303,8 @@
    "https://blog.naver.com/soduwk1209/224478097795",
    "https://blog.naver.com/soduwk1209/224431922680",
    "https://blog.naver.com/soduwk1209/224478163219",
-   "https://blog.naver.com/soduwk1209/224478118630"
+   "https://blog.naver.com/soduwk1209/224478118630",
+   "https://blog.naver.com/soduwk1209/224478184078"
   ],
   "started": true,
   "v": 2,
@@ -854,7 +855,7 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1794744180.4563997,
-  "tone": "질문",
+  "tone": "짧게",
   "hooks": [
    "와 임영웅 이런 일이 있었네",
    "화제의 소식",
@@ -872,9 +873,7 @@
    "송지효 무슨 일이야?",
    "조세호 이야기"
   ],
-  "queue": [
-   "https://blog.naver.com/soduwk1209/224478184078"
-  ],
+  "queue": [],
   "reply_ok": true
  },
  "dkdk521": {
@@ -1161,7 +1160,8 @@
    "https://blog.naver.com/dkdk521/224478160234",
    "https://blog.naver.com/dkdk521/224478172070",
    "https://blog.naver.com/dkdk521/224478186378",
-   "https://blog.naver.com/dkdk521/224478233842"
+   "https://blog.naver.com/dkdk521/224478233842",
+   "https://blog.naver.com/dkdk521/224419150321"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1756,7 +1756,6 @@
    "https://blog.naver.com/dkdk521/224478233842"
   ],
   "backlog": [
-   "https://blog.naver.com/dkdk521/224419150321",
    "https://blog.naver.com/dkdk521/224417763343",
    "https://blog.naver.com/dkdk521/224417755954",
    "https://blog.naver.com/dkdk521/224417742927",
@@ -2063,8 +2062,8 @@
    "https://blog.naver.com/dkdk521/223183698757",
    "https://blog.naver.com/dkdk521/223021978335"
   ],
-  "last_old": 1794736980.5275743,
-  "tone": "짧게",
+  "last_old": 1794754974.7098515,
+  "tone": "친구",
   "hooks": [
    "화제가 된 이유를 정리했어요",
    "다들 이거 아셨어요?",
