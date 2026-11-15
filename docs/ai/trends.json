@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-16 00:23",
+ "updated": "2026-11-16 01:23",
  "items": [
+  {
+   "kw": "스포츠조선",
+   "traffic": "100+",
+   "when": "11월 15일 23:40",
+   "news": [
+    {
+     "title": "김민하 착시현상 뭐길래? 살구빛 '누드톤' 의상으로 존재감 과시",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GU3TQNJVMQYWIM3DMUYDEOJUGA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'정형화 거부' 김민하, 밀착 의상 입고 파격 변신",
+     "url": "https://www.newsis.com/view/NISX20261115_0003868658",
+     "source": "뉴시스"
+    }
+   ]
+  },
   {
    "kw": "입양",
    "traffic": "200+",
@@ -36,23 +53,6 @@
    ]
   },
   {
-   "kw": "알렉산더 즈베레프",
-   "traffic": "1000+",
-   "when": "11월 15일 22:30",
-   "news": [
-    {
-     "title": "즈베레프, 험난한 조 편성 속 호다르와 첫판… 알카라스는 '비교적 수월'",
-     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54294",
-     "source": "테니스코리아"
-    },
-    {
-     "title": "즈베레프와 알카라즈는 ATP 파이널에서 각 조 1위를 차지할 예정이다.",
-     "url": "https://www.vietnam.vn/ko/zverev-va-alcaraz-se-dan-dau-2-bang-dau-tai-atp-finals",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
    "kw": "미미미누",
    "traffic": "500+",
    "when": "11월 15일 22:30",
@@ -70,8 +70,25 @@
    ]
   },
   {
+   "kw": "알렉산더 즈베레프",
+   "traffic": "1000+",
+   "when": "11월 15일 22:30",
+   "news": [
+    {
+     "title": "즈베레프, 험난한 조 편성 속 호다르와 첫판… 알카라스는 '비교적 수월'",
+     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54294",
+     "source": "테니스코리아"
+    },
+    {
+     "title": "ATP 파이널 2026 예측: 알카라스 1위 후보",
+     "url": "https://ko.laodong.vn/tennis/nhan-dinh-atp-finals-2026-alcaraz-ung-vien-so-1-1800096.ldo",
+     "source": "Laodong.vn"
+    }
+   ]
+  },
+  {
    "kw": "부고",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 15일 22:30",
    "news": [
     {
@@ -92,31 +109,31 @@
    "when": "11월 15일 22:30",
    "news": [
     {
-     "title": "\"겸손은 연기, 반대하면 폭언\"… 젠슨 황 전기 작가의 폭로",
-     "url": "https://www.chosun.com/economy/tech_it/2026/11/15/K627F2S2CNFL5NG7Z3VUZCPXLM/",
-     "source": "조선일보"
+     "title": "“젠슨 황 복귀해야” 14만명 청원…머스크도 가세",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713204",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "[씨줄날줄] 차등의결권",
-     "url": "https://www.seoul.co.kr/news/editOpinion/weft-column/2026/11/16/20261116027006",
-     "source": "서울신문"
+     "title": "Bessent, Nvidia의 대대적인 경영진 교체 필요하다고 밝혀",
+     "url": "https://kr.investing.com/news/stock-market-news/article-2176287",
+     "source": "Investing.com 한국어"
     }
    ]
   },
   {
    "kw": "수상함",
-   "traffic": "200+",
+   "traffic": "100+",
    "when": "11월 15일 22:20",
    "news": [
     {
-     "title": "HD현대, 美 안두릴과 600t급 무인 군함 건조… 내년 美 해군 수주 도전",
-     "url": "https://www.chosun.com/economy/industry-company/2026/11/15/VWBYOVIHRJCPHMJ2TI4KVG5NJI/",
-     "source": "조선일보"
+     "title": "HD현대, 미 무인함정 시장 공략 발판",
+     "url": "https://www.khan.co.kr/article/202611152031025",
+     "source": "경향신문"
     },
     {
-     "title": "HD현대, 美기업과 ‘바다의 드론’ 진수",
-     "url": "https://www.seoul.co.kr/news/economy/industry/2026/11/16/20261116032006",
-     "source": "서울신문"
+     "title": "승조원 없이 AI가 움직이는 600t 군함⋯ HD현대가 띄운 미래 전력",
+     "url": "https://www.kmib.co.kr/article/20261115501400",
+     "source": "국민일보"
     }
    ]
   },
@@ -126,14 +143,14 @@
    "when": "11월 15일 21:30",
    "news": [
     {
-     "title": "강남 집값 내리는데 경기 규제지역은 상승…연말 토허제 ‘딜레마’",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01889286645646048",
-     "source": "마켓인"
+     "title": "\"서울도 아닌데\"…1년 새 3.6억 뛰더니 '20억 클럽' 입성 [이송렬의 부동산한입]",
+     "url": "https://www.hankyung.com/article/2026111218726",
+     "source": "한국경제"
     },
     {
-     "title": "\"집 팔고 나가라는 거냐\"…은마 '4.6억 청구서'에 부글부글 [이슬기의 새집다오]",
-     "url": "https://www.hankyung.com/article/2026111348856",
-     "source": "한국경제"
+     "title": "경기도내 전세품귀… 광교·광명도 ‘국민평형’ 10억 시대",
+     "url": "https://www.kyeongin.com/article/1774769",
+     "source": "경인일보"
     }
    ]
   },
@@ -151,23 +168,6 @@
      "title": "[사진]와타라이 도루를 여유입게 잡는 김휘집 - 머니투데이",
      "url": "https://www.mt.co.kr/sports/2026/11/15/202611151948771072O",
      "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "공습",
-   "traffic": "200+",
-   "when": "11월 15일 21:10",
-   "news": [
-    {
-     "title": "이란, 두달 만에 미군 기지 공습…미국 ‘봉쇄 강화’ 기조에 강경 대응",
-     "url": "https://www.hani.co.kr/arti/international/arabafrica/1287428.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "이란 혁명수비대, 바레인 미군 레이더 기지 공격",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444825",
-     "source": "연합인포맥스"
     }
    ]
   }
