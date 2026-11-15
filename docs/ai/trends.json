@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-15 09:23",
+ "updated": "2026-11-15 10:23",
  "items": [
   {
+   "kw": "주영훈",
+   "traffic": "100+",
+   "when": "11월 15일 09:20",
+   "news": [
+    {
+     "title": "주영훈, 전 연인과 학부모로 재회 \"내 딸과 그 집 아들 짝으로 만나\"",
+     "url": "https://www.newsis.com/view/NISX20261114_0003868195",
+     "source": "뉴시스"
+    },
+    {
+     "title": "주영훈, 윤정수 과거 폭로 \"두 달마다 짝사랑 女연예인 바뀌어\"",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/MUYTSYTDGVSTAYJXGQ4DEOJSMY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "술",
+   "traffic": "1000+",
+   "when": "11월 15일 09:10",
+   "news": [
+    {
+     "title": "비틀거리다 청소 차에 ‘쾅’…만취 운전자는 배우 고경표",
+     "url": "https://news.jtbc.co.kr/article/NB12328108",
+     "source": "JTBC"
+    },
+    {
+     "title": "고경표, 경찰 다가오자 외투안에 '쏙'...\"뭐 숨겼나\" CCTV에 찍힌 행동 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/15/2026111507363582568",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "신인감독 김연경",
+   "traffic": "1000+",
+   "when": "11월 15일 09:00",
+   "news": [
+    {
+     "title": "김연경 따끔한 지적에 윤영인 왈칵 눈물…반전 주인공 될까 (신인감독 김연경2)",
+     "url": "https://m.imbc.com/enews/view/524823",
+     "source": "MBC"
+    },
+    {
+     "title": "필승 원더독스vs포항시체육회, 불꽃튀는 맞대결 현장 최초 공개(‘신인감독2’)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/MRSTCM3EME4DKNBYMFQTMNLFMM/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "아시아 프로 야구 챔피언십",
+   "traffic": "5000+",
+   "when": "11월 15일 08:50",
+   "news": [
+    {
+     "title": "김도영, APBC 첫 홈런 ‘쾅’…한국, 대만 꺾고 오늘 일본과 결승",
+     "url": "https://www.hani.co.kr/arti/international/international_general/1287342.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "KIA 19홈런 재간둥이, 도쿄돔마저 넘겼다…결승전도 기대하시라 \"오늘보다 더 할 수도 있다\" [오!쎈 도쿄] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/15/202611150842771600O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "하리수",
+   "traffic": "1000+",
+   "when": "11월 15일 08:20",
+   "news": [
+    {
+     "title": "\"여장으로 '풍기문란죄' 걸려\" 하리수, 모욕 겪은 母에 불효 고백",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GJQTGNJQGY2GKMBYG5SGMNBZGI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "하리수, 깜짝 고백 \"김지선, 男 때부터 알고 지내\" ('동치미')",
+     "url": "https://www.koreadaily.com/article/20261114063427177",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
    "kw": "고현정",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 15일 08:20",
    "news": [
     {
@@ -12,15 +97,15 @@
      "source": "Chosunbiz"
     },
     {
-     "title": "'55세' 고현정, 나이 잊은 동안 비주얼…방부제 미모 [N샷]",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6354137",
+     "title": "고현정, 트리 앞에서 소녀같은 미모…나이 거꾸로 먹는 근황 [N샷]",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6354210",
      "source": "뉴스1"
     }
    ]
   },
   {
    "kw": "삼양식품",
-   "traffic": "200+",
+   "traffic": "100+",
    "when": "11월 15일 08:20",
    "news": [
     {
@@ -37,7 +122,7 @@
   },
   {
    "kw": "진중권",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 15일 08:10",
    "news": [
     {
@@ -70,93 +155,19 @@
    ]
   },
   {
-   "kw": "볼로디미르 젤렌스키",
-   "traffic": "1000+",
-   "when": "11월 15일 07:20",
+   "kw": "계엄",
+   "traffic": "100+",
+   "when": "11월 15일 08:00",
    "news": [
     {
-     "title": "젤렌스키 \"美, '우크라 나토 가입 대가' 돈바스 양도안 질의\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261114045251109",
+     "title": "'계엄표결 방해' 추경호 수요일 1심 선고…특검, 징역 20년 구형",
+     "url": "https://www.yna.co.kr/view/AKR20261113175000004",
      "source": "연합뉴스"
     },
     {
-     "title": "젤렌스키, “미국, 우크라이나에 나토 가입 대가로 돈바스 양도안 제안”",
-     "url": "https://www.voakorea.com/a/8223723.html",
-     "source": "VOA 한국어 홈페이지"
-    }
-   ]
-  },
-  {
-   "kw": "육군사관학교",
-   "traffic": "1000+",
-   "when": "11월 15일 07:10",
-   "news": [
-    {
-     "title": "[보도정정] 국군사관학교 창설 기본계획 수정안은 확정된 바 없으며 각군 총장을 비롯하여 다양한 계층의 의견을 수렴하고 있습니다.",
-     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975649",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "빈총 경계·北지뢰 무대응 논란 속... 후반기 장성 인사도 ‘육사’ 배제?",
-     "url": "https://www.chosun.com/politics/2026/11/15/H4UB4LI7IFHKPGIUQILRP3QA5A/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "함덕주",
-   "traffic": "500+",
-   "when": "11월 15일 07:10",
-   "news": [
-    {
-     "title": "함덕주, 옵트아웃 행사…시장 나와 새 둥지 찾는다",
-     "url": "https://www.newsis.com/view/NISX20261114_0003868178",
-     "source": "뉴시스"
-    },
-    {
-     "title": "'후반기 실종→옵트아웃' 함덕주 결국 LG 떠난다, 염경엽 감독의 \"노 코멘트\" 그 말이 힌트였나",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019868",
-     "source": "SPOTV NEWS"
-    }
-   ]
-  },
-  {
-   "kw": "마우리시오 포체티노",
-   "traffic": "100+",
-   "when": "11월 15일 07:00",
-   "news": [
-    {
-     "title": "눈물 흘린 포체티노 “맨유 같은 기회 거절하기 어려워”",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712851",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "'맨유를 4-1로 박살 낸 그 선수, 이제 맨유가 데려간다?' 브루노 페르난데스 후계자로 니코 파스 낙점...레알 마드리드 바이백 1200억 변수",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/15/MI4GMOBVMVSDIZLFMY4TMM3DMQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "fm",
-   "traffic": "100+",
-   "when": "11월 15일 07:00",
-   "news": []
-  },
-  {
-   "kw": "sk하이닉스",
-   "traffic": "20000+",
-   "when": "11월 15일 06:50",
-   "news": [
-    {
-     "title": "SK하이닉스: 100조 원 벌고, 100조 원 주주환원해요",
-     "url": "https://story.pay.naver.com/content/3844",
-     "source": "네이버페이 머니스토리"
-    },
-    {
-     "title": "[쏙쏙뉴스] 하이닉스 영업이익률 80%? 알고 보면 아찔한 상황",
-     "url": "https://m.ohmynews.com/NWS_Web/Mobile/mov_pg.aspx?CNTN_CD=ME000116644",
-     "source": "OhmyNews"
+     "title": "'무죄면 시정 동력, 유죄 땐 대구 전체 또 흔들'…추경호 선고 앞두고 '초긴장'",
+     "url": "https://www.news1.kr/local/daegu-gyeongbuk/6350673",
+     "source": "뉴스1"
     }
    ]
   }
