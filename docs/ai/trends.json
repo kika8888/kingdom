@@ -1,26 +1,94 @@
 {
- "updated": "2026-11-15 08:23",
+ "updated": "2026-11-15 09:23",
  "items": [
   {
-   "kw": "함덕주",
+   "kw": "고현정",
    "traffic": "200+",
-   "when": "11월 15일 07:10",
+   "when": "11월 15일 08:20",
    "news": [
     {
-     "title": "함덕주, 옵트아웃 행사…시장 나와 새 둥지 찾는다",
-     "url": "https://www.newsis.com/view/NISX20261114_0003868178",
-     "source": "뉴시스"
+     "title": "고현정, 공항에서 이렇게까지 예쁠 수가…뼈말라 늘씬 자태 뽐내며 \"제주 1일\"",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/HBSDGMTBHE2DAZJWGVRGGYRQGU/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "'후반기 실종→옵트아웃' 함덕주 결국 LG 떠난다, 염경엽 감독의 \"노 코멘트\" 그 말이 힌트였나",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019868",
-     "source": "SPOTV NEWS"
+     "title": "'55세' 고현정, 나이 잊은 동안 비주얼…방부제 미모 [N샷]",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6354137",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "삼양식품",
+   "traffic": "200+",
+   "when": "11월 15일 08:20",
+   "news": [
+    {
+     "title": "\"새 공장서 쭉쭉 잘 뽑아낼테니 주가 190만원 거뜬\"…단순 유행 넘어섰다는 이 회사[주末머니]",
+     "url": "https://core.asiae.co.kr/article/2026111310555774285",
+     "source": "아시아경제"
+    },
+    {
+     "title": "해외 매출 '8할' 넘긴 불닭…삼양식품, 韓·中·베트남 생산벨트 구축",
+     "url": "https://www.news1.kr/industry/distribution/6352296",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "진중권",
+   "traffic": "100+",
+   "when": "11월 15일 08:10",
+   "news": [
+    {
+     "title": "국힘, 부산역서 ‘이재명 탈옥법’ 규탄…“죽은 법에 근거한 특검”",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287341.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "국힘, 부산서 조작기소 특검 규탄 집회...\"거부권 행사해야\"",
+     "url": "https://www.ytn.co.kr/_ln/0101_202611150838011540",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "롤 인벤",
+   "traffic": "200+",
+   "when": "11월 15일 08:00",
+   "news": [
+    {
+     "title": "대격변급 업데이트, 리그 오브 레전드 '뉴 던' 예고",
+     "url": "https://www.gamemeca.com/view.php?gid=1783515",
+     "source": "게임메카"
+    },
+    {
+     "title": "LoL 신규 클라이언트 ‘아리’ 미쳤네",
+     "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=113098",
+     "source": "게임톡"
+    }
+   ]
+  },
+  {
+   "kw": "볼로디미르 젤렌스키",
+   "traffic": "1000+",
+   "when": "11월 15일 07:20",
+   "news": [
+    {
+     "title": "젤렌스키 \"美, '우크라 나토 가입 대가' 돈바스 양도안 질의\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261114045251109",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "젤렌스키, “미국, 우크라이나에 나토 가입 대가로 돈바스 양도안 제안”",
+     "url": "https://www.voakorea.com/a/8223723.html",
+     "source": "VOA 한국어 홈페이지"
     }
    ]
   },
   {
    "kw": "육군사관학교",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 15일 07:10",
    "news": [
     {
@@ -36,138 +104,59 @@
    ]
   },
   {
-   "kw": "sk하이닉스",
-   "traffic": "10000+",
-   "when": "11월 15일 06:50",
-   "news": [
-    {
-     "title": "국내·외 증권사 목표가 ‘들쭉날쭉’…길 잃은 ‘삼전닉스’ 개미들",
-     "url": "https://www.segye.com/newsView/20261113514396",
-     "source": "세계일보"
-    },
-    {
-     "title": "“48만→40만전자”…실적 좋은데 목표가 낮춘 이유",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=02371446645645064&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "100일의 거짓말",
-   "traffic": "1000+",
-   "when": "11월 15일 06:50",
-   "news": [
-    {
-     "title": "[오수경의 TVIEW]",
-     "url": "https://cine21.com/news/view/?mag_id=111267",
-     "source": "씨네21"
-    },
-    {
-     "title": "'100일의 거짓말' 김유정, 박진영에게 다시 정체 발각 위기 [N컷]",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6353973",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "엘리나 스비톨리나",
+   "kw": "함덕주",
    "traffic": "500+",
-   "when": "11월 15일 06:50",
+   "when": "11월 15일 07:10",
    "news": [
     {
-     "title": "무려 '735억' 잭팟→\"돈 더 달라\"→'파격 시스루 논란' 세계 1위 허무한 굴욕... '또' 분노 조절 실패 '도대체 왜' - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/15/2026111416335893727",
-     "source": "머니투데이"
+     "title": "함덕주, 옵트아웃 행사…시장 나와 새 둥지 찾는다",
+     "url": "https://www.newsis.com/view/NISX20261114_0003868178",
+     "source": "뉴시스"
     },
     {
-     "title": "사발렌카 꺾고 기뻐하는 안드레예바",
-     "url": "https://mobile.newsis.com/photo/NISI20261112_0002290552",
-     "source": "뉴시스"
+     "title": "'후반기 실종→옵트아웃' 함덕주 결국 LG 떠난다, 염경엽 감독의 \"노 코멘트\" 그 말이 힌트였나",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019868",
+     "source": "SPOTV NEWS"
     }
    ]
   },
   {
-   "kw": "메이저 리그 베이스볼",
-   "traffic": "200+",
-   "when": "11월 15일 06:50",
+   "kw": "마우리시오 포체티노",
+   "traffic": "100+",
+   "when": "11월 15일 07:00",
    "news": [
     {
-     "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712231",
+     "title": "눈물 흘린 포체티노 “맨유 같은 기회 거절하기 어려워”",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712851",
      "source": "KBS 뉴스"
     },
     {
-     "title": "'한국시리즈 MVP' 구자욱‥메이저리그 도전 선언",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6865543_37004.html",
-     "source": "MBC 뉴스"
+     "title": "'맨유를 4-1로 박살 낸 그 선수, 이제 맨유가 데려간다?' 브루노 페르난데스 후계자로 니코 파스 낙점...레알 마드리드 바이백 1200억 변수",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/15/MI4GMOBVMVSDIZLFMY4TMM3DMQ/",
+     "source": "조선일보"
     }
    ]
   },
   {
-   "kw": "성리",
-   "traffic": "500+",
-   "when": "11월 15일 06:40",
-   "news": [
-    {
-     "title": "임영웅 뒤쫓는 성리, K-브랜드지수 2위…‘성리학자’ 팬덤의 힘",
-     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082592",
-     "source": "진일보 | 전남일보"
-    },
-    {
-     "title": "임영웅, ASEA 10월 트로트 투표 1위 차지… 글로벌 팬덤의 저력 재확인",
-     "url": "http://www.jemin.com/news/articleView.html?idxno=847219",
-     "source": "제민일보"
-    }
-   ]
-  },
-  {
-   "kw": "홍현희",
+   "kw": "fm",
    "traffic": "100+",
-   "when": "11월 15일 06:40",
-   "news": [
-    {
-     "title": "홍현희, 시모 사랑 듬뿍..“子 제이쓴, 왜 아깝다고 하는지 이해 안가” (홍쓴TV)",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/MQ3GGMJWMVRTKMBVHA4WKMBXMU/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "“아버님 영상 보지 마세요” 홍현희, 시母 ‘졸혼’ 고백에 당황",
-     "url": "https://sports.donga.com/ent/article/all/20261114/135023868/1",
-     "source": "스포츠동아"
-    }
-   ]
+   "when": "11월 15일 07:00",
+   "news": []
   },
   {
-   "kw": "잠실주공5단지 아파트",
-   "traffic": "500+",
-   "when": "11월 15일 06:30",
+   "kw": "sk하이닉스",
+   "traffic": "20000+",
+   "when": "11월 15일 06:50",
    "news": [
     {
-     "title": "[단독]잠실주공5단지, 분양신청 저조에 조합장 해임 기로…재건축 ‘삐걱’",
-     "url": "https://news.mtn.co.kr/article/2026111415191575156",
-     "source": "MTN 머니투데이방송"
+     "title": "SK하이닉스: 100조 원 벌고, 100조 원 주주환원해요",
+     "url": "https://story.pay.naver.com/content/3844",
+     "source": "네이버페이 머니스토리"
     },
     {
-     "title": "\"9개월 전 37억 찍었는데…\" 잠실엘스, 29억대 매물 등장",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01082406645645392&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "bồ đào nha đấu với đan mạch",
-   "traffic": "100+",
-   "when": "11월 15일 06:30",
-   "news": [
-    {
-     "title": "Video bóng đá Bồ Đào Nha - Đan Mạch: Thảm bại kinh hoàng & nỗi nhớ Ronaldo (Nations League)",
-     "url": "https://www.24h.com.vn/bong-da/video-bong-da-bo-dao-nha-dan-mach-tham-bai-kinh-hoang-noi-nho-ronaldo-nations-league-c48a1811200.html",
-     "source": "Tin tức 24h"
-    },
-    {
-     "title": "Các cầu thủ Bồ Đào Nha sẽ mặc áo số 7 tri ân Ronaldo",
-     "url": "https://vnexpress.net/cac-cau-thu-bo-dao-nha-se-mac-ao-so-7-tri-an-ronaldo-5144581.html",
-     "source": "VnExpress"
+     "title": "[쏙쏙뉴스] 하이닉스 영업이익률 80%? 알고 보면 아찔한 상황",
+     "url": "https://m.ohmynews.com/NWS_Web/Mobile/mov_pg.aspx?CNTN_CD=ME000116644",
+     "source": "OhmyNews"
     }
    ]
   }
