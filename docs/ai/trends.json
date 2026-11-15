@@ -1,6 +1,125 @@
 {
- "updated": "2026-11-15 12:23",
+ "updated": "2026-11-15 13:23",
  "items": [
+  {
+   "kw": "uroš medić",
+   "traffic": "100+",
+   "when": "11월 15일 12:20",
+   "news": [
+    {
+     "title": "Uroš Medić targets Kevin Holland’s striking mistakes ahead of UFC 334",
+     "url": "https://twaslnews1.twaslnews.com/7702817/",
+     "source": "شبكة تواصل الإخبارية"
+    },
+    {
+     "title": "Holland and Medic Ends In Majority Draw After Confusing Scorecard Read",
+     "url": "https://boxingnews.com/news/holland-medic-majority-draw-ufc-334",
+     "source": "boxingnews.com"
+    }
+   ]
+  },
+  {
+   "kw": "한동희",
+   "traffic": "1000+",
+   "when": "11월 15일 12:20",
+   "news": [
+    {
+     "title": "'악!' 오른손 맞은 한동희, 결국 경기 빠졌다…\"뼈에는 이상 無, 송구 불편해 보호 차원 교체\" [오!쎈 도쿄]",
+     "url": "https://biz.chosun.com/sports/baseball/2026/11/14/ME4TCMJRMJSDQOBQGY4TMOLGMI/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "[사진]김휘집,'오늘도 타점 올렸어' - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/14/202611142009776418O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "축제",
+   "traffic": "100+",
+   "when": "11월 15일 12:10",
+   "news": [
+    {
+     "title": "제천 빨간 오뎅 축제, 내년엔 도심서 열린다…1월 22일 개막",
+     "url": "https://m.joongdo.co.kr/view.php?key=20261115010004850",
+     "source": "중도일보"
+    },
+    {
+     "title": "제천시, ‘제3회 제천빨간오뎅축제’ 내년 1월 22일 개막",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193142",
+     "source": "금강일보"
+    }
+   ]
+  },
+  {
+   "kw": "김성한",
+   "traffic": "2000+",
+   "when": "11월 15일 11:50",
+   "news": [
+    {
+     "title": "잠실구장 2032년엔 꼭 만나자…백발 노장과 전설들, 빗속의 작별",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1287334.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "프로야구 레전드와 함께하는 ’마지막 잠실’…한화 레전드 김태균, 멀티히트",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115110002izR",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "김지찬",
+   "traffic": "1000+",
+   "when": "11월 15일 11:30",
+   "news": [
+    {
+     "title": "한일전 12연속 무승, 삼성 김지찬 우승 기운 전파하겠다!",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8710671",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "중전 안타로 진루하는 김민석",
+     "url": "https://www.newsis.com/view/NISI20261113_0002291780",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "ufc 중계",
+   "traffic": "500+",
+   "when": "11월 15일 11:20",
+   "news": [
+    {
+     "title": "'첫 헤비급 방어전' 시릴 간, 호킷과 맞대결 \"마음가짐 늘 똑같아... 반드시 승리할 것\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/14/2026111410412252637",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘돌아온 전설 vs 올림픽 2관왕’ 누네스-해리슨, UFC 여자 밴텀급 왕좌 격돌",
+     "url": "https://www.sportsworldi.com/newsView/20261114504702",
+     "source": "스포츠월드"
+    }
+   ]
+  },
+  {
+   "kw": "jamaica vs mexico",
+   "traffic": "100+",
+   "when": "11월 15일 11:20",
+   "news": [
+    {
+     "title": "Gilberto Mora y Julián Quiñones maquillan derrota de México ante Jamaica",
+     "url": "https://espndeportes.espn.com/futbol/selecciones/nota/_/id/17517802/jamaica-vs-mexico-gil-mora-quinones-maquillan-derrota",
+     "source": "ESPN Deportes"
+    },
+    {
+     "title": "Jamaica vs. México EN VIVO: Horario y canales para ver la Nations League",
+     "url": "https://es-us.noticias.yahoo.com/jamaica-vs-m%C3%A9xico-vivo-horario-170150018.html",
+     "source": "Yahoo"
+    }
+   ]
+  },
   {
    "kw": "박지현",
    "traffic": "200+",
@@ -12,15 +131,15 @@
      "source": "MBC"
     },
     {
-     "title": "박지현, 모텔 생활 전전…“혼밥도 어려워” (나혼산)",
-     "url": "https://sports.donga.com/ent/article/all/20261114/135024541/1",
-     "source": "스포츠동아"
+     "title": "\"일주일 이상 집 못 들어가기도\" 박지현, 행사철마다 모텔 전전",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/15/GM4TSZBZHBTGEYJSGZRWEZBSGY/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "kw": "india vs new zealand",
-   "traffic": "200+",
+   "traffic": "1000+",
    "when": "11월 15일 11:10",
    "news": [
     {
@@ -49,125 +168,6 @@
      "title": "단기 투자자 평단가 밑돈 비트코인 시세에 거래소 입금량 급증",
      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310289",
      "source": "경향게임스"
-    }
-   ]
-  },
-  {
-   "kw": "투자",
-   "traffic": "5000+",
-   "when": "11월 15일 10:50",
-   "news": [
-    {
-     "title": "美연준, AI발 금융위험 경고…자산가치 고평가·부채급증 우려",
-     "url": "https://www.yna.co.kr/view/AKR20261115011000072",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "美연준, AI발 금융 위험 경고…\"AI 열풍에 주식 고평가\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115112311PyP",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "골프",
-   "traffic": "2000+",
-   "when": "11월 15일 10:30",
-   "news": [
-    {
-     "title": "유메노 마사다, 이토엔 레이디스 2라운드 6번 홀 티샷",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752333",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "신지애, 일본 이토엔 대회 첫날 7위…전미정은 4위 [JLPGA]",
-     "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022633",
-     "source": "골프한국"
-    }
-   ]
-  },
-  {
-   "kw": "임예진",
-   "traffic": "500+",
-   "when": "11월 15일 10:30",
-   "news": [
-    {
-     "title": "15년 전 5천만원 주고 산 제주땅이 고작 82만원…충격 받은 임예진, 무슨 사연",
-     "url": "https://www.mk.co.kr/news/culture/12208840",
-     "source": "매일경제"
-    },
-    {
-     "title": "임예진, 5000만원 주고 산 제주 땅 15년 만에 확인…“지분 가치 약 82만원”",
-     "url": "https://www.donga.com/news/Culture/article/all/20261113/135021854/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "항공모함",
-   "traffic": "2000+",
-   "when": "11월 15일 10:20",
-   "news": [
-    {
-     "title": "한국 해군, F-35B 항모 접고 무인기 20대 탑재 270m 대형 모함 택했다",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611150721222083fbbec65dfb_1",
-     "source": "글로벌이코노믹"
-    },
-    {
-     "title": "증기식 캐터펄트 전환 검토에 USS 도리스 밀러 인도 지연 우려",
-     "url": "https://meta-defense.fr/ko/2026/11/14/doris-miller-refonte-catapulte-vapeur/",
-     "source": "Meta-Defense"
-    }
-   ]
-  },
-  {
-   "kw": "진양곤",
-   "traffic": "200+",
-   "when": "11월 15일 10:10",
-   "news": [
-    {
-     "title": "HLB제약, 3분기 영업이익 8억5천만원…전년 대비 급증",
-     "url": "https://www.yna.co.kr/view/AKR20261113027500017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "HLB제약, 향남 신공장으로 체급 키운다…‘1조 기업’ 도약 승부수",
-     "url": "https://m.ekn.kr/view.php?key=20261113020358946",
-     "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "카리나",
-   "traffic": "2000+",
-   "when": "11월 15일 10:00",
-   "news": [
-    {
-     "title": "에스파, ‘MMA 대상’ 후 여신 드레스 자태 공개 “감사합니다”",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261115/135025035/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "빅히트 뮤직 김현정 부대표, ‘MMA2026’ 베스트 프로듀서 수상 “방탄소년단에 감사”",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/15/MEYWMNBRMM2TAMRVMMYTINDFMY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "서초구",
-   "traffic": "1000+",
-   "when": "11월 15일 09:50",
-   "news": [
-    {
-     "title": "서초구, 겨울 앞두고 공중·민간 개방화장실 139곳 점검",
-     "url": "https://www.newsis.com/view/NISX20261115_0003868457",
-     "source": "뉴시스"
-    },
-    {
-     "title": "서초구, 동절기 앞두고 공중화장실 139곳 현장순찰 강화",
-     "url": "https://biz.heraldcorp.com/article/10937269",
-     "source": "헤럴드경제"
     }
    ]
   }
