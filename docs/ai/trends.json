@@ -1,9 +1,83 @@
 {
- "updated": "2026-11-15 10:23",
+ "updated": "2026-11-15 10:47",
  "items": [
   {
-   "kw": "주영훈",
+   "kw": "세무사 시험 ai 안경",
+   "traffic": "200+",
+   "when": "11월 15일 09:40",
+   "news": [
+    {
+     "title": "[속보] 세무사 시험 수석 합격자 \"부정행위 했다\" 실토",
+     "url": "https://www.chosun.com/national/labor/2026/11/15/J2BRRAJ4RFGFHBZU4537ENJX3I/",
+     "source": "조선일보"
+    },
+    {
+     "title": "세무사 수석합격자, AI 부정행위 시인…경찰에 자수",
+     "url": "https://www.yna.co.kr/view/AKR20261115016200530",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "케일라 해리슨",
    "traffic": "100+",
+   "when": "11월 15일 09:40",
+   "news": [
+    {
+     "title": "'첫 헤비급 방어전' 시릴 간, 호킷과 맞대결 \"마음가짐 늘 똑같아... 반드시 승리할 것\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/14/2026111410412252637",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘돌아온 전설 vs 올림픽 2관왕’ 누네스-해리슨, UFC 여자 밴텀급 왕좌 격돌",
+     "url": "https://www.sportsworldi.com/newsView/20261114504702",
+     "source": "스포츠월드"
+    }
+   ]
+  },
+  {
+   "kw": "ufc",
+   "traffic": "2000+",
+   "when": "11월 15일 09:30",
+   "news": [
+    {
+     "title": "Live Now! UFC 334 ‘Gane vs. Hokit’ play-by-play, results & round scoring",
+     "url": "https://www.sherdog.com/news/news/UFC-334-Gane-vs-Hokit-playbyplay-results-round-scoring-203625",
+     "source": "Sherdog"
+    },
+    {
+     "title": "DraftKings promo code: Get $200 in bonus bets and free NBA League Pass for UFC 334: Gane vs. Hokit on Saturday",
+     "url": "https://www.cbssports.com/betting/news/draftkings-promo-code-get-200-in-bonus-bets-free-nba-league-pass-ufc-334-gane-vs-hokit-on-saturday/",
+     "source": "CBS Sports"
+    }
+   ]
+  },
+  {
+   "kw": "로스앤젤레스 fc",
+   "traffic": "1000+",
+   "when": "11월 15일 09:30",
+   "news": [
+    {
+     "title": "'충격 또 충격' 손흥민, MLS MVP 후보 5인에도 들지 못했다...메시 MVP 3연패 유력",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/14/GBSDMMJXHEYTQOLEGUYWKNJVMM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "손흥민, MLS MVP 후보 제외…메시, 최초의 3연속 수상 도전",
+     "url": "https://www.news1.kr/sports/overseas-soccer/6353883",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "주간한국",
+   "traffic": "100+",
+   "when": "11월 15일 09:30",
+   "news": []
+  },
+  {
+   "kw": "주영훈",
+   "traffic": "200+",
    "when": "11월 15일 09:20",
    "news": [
     {
@@ -20,7 +94,7 @@
   },
   {
    "kw": "술",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 15일 09:10",
    "news": [
     {
@@ -37,7 +111,7 @@
   },
   {
    "kw": "신인감독 김연경",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 15일 09:00",
    "news": [
     {
@@ -58,20 +132,20 @@
    "when": "11월 15일 08:50",
    "news": [
     {
-     "title": "김도영, APBC 첫 홈런 ‘쾅’…한국, 대만 꺾고 오늘 일본과 결승",
-     "url": "https://www.hani.co.kr/arti/international/international_general/1287342.html",
-     "source": "한겨레"
+     "title": "침묵하던 김도영이 ‘쾅’... 대만 꺾고 日과 우승 다툰다",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/14/MTLH675YURA6XD3ICXSKJ2KTWQ/",
+     "source": "조선일보"
     },
     {
-     "title": "KIA 19홈런 재간둥이, 도쿄돔마저 넘겼다…결승전도 기대하시라 \"오늘보다 더 할 수도 있다\" [오!쎈 도쿄] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/15/202611150842771600O",
-     "source": "머니투데이"
+     "title": "난타전 끝에 대만 격파…APBC 결승전, 일본과 리턴 매치",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115091250tXR",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "kw": "하리수",
-   "traffic": "1000+",
+   "traffic": "500+",
    "when": "11월 15일 08:20",
    "news": [
     {
@@ -83,91 +157,6 @@
      "title": "하리수, 깜짝 고백 \"김지선, 男 때부터 알고 지내\" ('동치미')",
      "url": "https://www.koreadaily.com/article/20261114063427177",
      "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "고현정",
-   "traffic": "500+",
-   "when": "11월 15일 08:20",
-   "news": [
-    {
-     "title": "고현정, 공항에서 이렇게까지 예쁠 수가…뼈말라 늘씬 자태 뽐내며 \"제주 1일\"",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/14/HBSDGMTBHE2DAZJWGVRGGYRQGU/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "고현정, 트리 앞에서 소녀같은 미모…나이 거꾸로 먹는 근황 [N샷]",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6354210",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "삼양식품",
-   "traffic": "100+",
-   "when": "11월 15일 08:20",
-   "news": [
-    {
-     "title": "\"새 공장서 쭉쭉 잘 뽑아낼테니 주가 190만원 거뜬\"…단순 유행 넘어섰다는 이 회사[주末머니]",
-     "url": "https://core.asiae.co.kr/article/2026111310555774285",
-     "source": "아시아경제"
-    },
-    {
-     "title": "해외 매출 '8할' 넘긴 불닭…삼양식품, 韓·中·베트남 생산벨트 구축",
-     "url": "https://www.news1.kr/industry/distribution/6352296",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "진중권",
-   "traffic": "200+",
-   "when": "11월 15일 08:10",
-   "news": [
-    {
-     "title": "국힘, 부산역서 ‘이재명 탈옥법’ 규탄…“죽은 법에 근거한 특검”",
-     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287341.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "국힘, 부산서 조작기소 특검 규탄 집회...\"거부권 행사해야\"",
-     "url": "https://www.ytn.co.kr/_ln/0101_202611150838011540",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "롤 인벤",
-   "traffic": "200+",
-   "when": "11월 15일 08:00",
-   "news": [
-    {
-     "title": "대격변급 업데이트, 리그 오브 레전드 '뉴 던' 예고",
-     "url": "https://www.gamemeca.com/view.php?gid=1783515",
-     "source": "게임메카"
-    },
-    {
-     "title": "LoL 신규 클라이언트 ‘아리’ 미쳤네",
-     "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=113098",
-     "source": "게임톡"
-    }
-   ]
-  },
-  {
-   "kw": "계엄",
-   "traffic": "100+",
-   "when": "11월 15일 08:00",
-   "news": [
-    {
-     "title": "'계엄표결 방해' 추경호 수요일 1심 선고…특검, 징역 20년 구형",
-     "url": "https://www.yna.co.kr/view/AKR20261113175000004",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'무죄면 시정 동력, 유죄 땐 대구 전체 또 흔들'…추경호 선고 앞두고 '초긴장'",
-     "url": "https://www.news1.kr/local/daegu-gyeongbuk/6350673",
-     "source": "뉴스1"
     }
    ]
   }
