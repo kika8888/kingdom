@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-17 05:20",
+ "updated": "2026-11-17 06:23",
  "items": [
   {
-   "kw": "독일 대 네덜란드",
+   "kw": "리친청",
+   "traffic": "500+",
+   "when": "11월 17일 05:20",
+   "news": [
+    {
+     "title": "'속기파' 리친청, 구쯔하오 꺾고 삼성화재배 결승 선착",
+     "url": "https://www.yna.co.kr/view/AKR20261116158800007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
+     "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950",
+     "source": "사이버오로"
+    }
+   ]
+  },
+  {
+   "kw": "연금",
+   "traffic": "5000+",
+   "when": "11월 17일 05:10",
+   "news": [
+    {
+     "title": "연금공단, ICT센터에 화재징후 실시간 감지 AI 솔루션 도입",
+     "url": "https://www.yna.co.kr/view/AKR20261116054700530",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "국민연금, AI로 화재감시 솔루션 도입… 3중 감시체계 구축",
+     "url": "https://www.viva100.com/article/20261116500626",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "윤이나",
    "traffic": "200+",
+   "when": "11월 17일 05:00",
+   "news": [
+    {
+     "title": "최혜진, 통한의 보기 2개…10번째 준우승",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714312",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "최혜진, 준우승만 10번째 또 ‘뒷심 부족’… 땅을 쳤다",
+     "url": "https://www.donga.com/news/Sports/article/all/20261117/135035563/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "우리은행",
+   "traffic": "200+",
+   "when": "11월 17일 05:00",
+   "news": [
+    {
+     "title": "김단비, 오세근 ‘나이는 숫자’ 우리 울고, SK 웃고",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714317",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "여자농구 하나은행, 우리은행 1점 차로 잡고 마침내 시즌 첫 승",
+     "url": "https://www.yna.co.kr/view/AKR20261116176900007",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "민희진",
+   "traffic": "200+",
+   "when": "11월 17일 04:50",
+   "news": [
+    {
+     "title": "민희진, 뉴진스 계약해지 관여 '업무상배임' 혐의로 송치(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261116147651004",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "경찰, '뉴진스 계약 해지' 민희진 업무상 배임 송치",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6866041_36918.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "음주 운전",
+   "traffic": "200+",
+   "when": "11월 17일 04:40",
+   "news": [
+    {
+     "title": "고경표 “하지 말라던 음주운전 내가 했다…주머니에 넣은 건 차 키”",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1287489.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "경찰, 음주운전으로 청소차 들이받은 고경표 소환조사 방침",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "북한",
+   "traffic": "200+",
+   "when": "11월 17일 04:30",
+   "news": [
+    {
+     "title": "푸틴, ’김정은 최측근’ 조용원 만나…“군사적 형제애로 연결“",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117053946v6h",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "독일 대 네덜란드",
+   "traffic": "500+",
    "when": "11월 17일 04:10",
    "news": [
     {
@@ -19,8 +138,14 @@
    ]
   },
   {
+   "kw": "이혜영",
+   "traffic": "100+",
+   "when": "11월 17일 03:50",
+   "news": []
+  },
+  {
    "kw": "임예진",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 17일 03:40",
    "news": [
     {
@@ -32,137 +157,6 @@
      "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
      "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058",
      "source": "서울신문"
-    }
-   ]
-  },
-  {
-   "kw": "장항준",
-   "traffic": "100+",
-   "when": "11월 17일 03:10",
-   "news": [
-    {
-     "title": "“계약에도 없던 돈”…장항준, ‘왕사남’ 배우·스태프에 26억 쐈다",
-     "url": "https://www.joongang.co.kr/article/25479103",
-     "source": "중앙일보"
-    },
-    {
-     "title": "장항준, '왕사남' 흥행 수익 26억 스태프들과 나눴다",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611161700574516",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "경비원",
-   "traffic": "200+",
-   "when": "11월 17일 02:40",
-   "news": [
-    {
-     "title": "“아버지라면 당연히 그랬을 것”…이웃 구하고 떠난 70대 경비원",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713933",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "불난 아파트 19층부터 문두드려 대피 돕던 경비원 숨져",
-     "url": "https://www.donga.com/news/Society/article/all/20261116/135029032/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "robert pattinson",
-   "traffic": "500+",
-   "when": "11월 17일 00:40",
-   "news": [
-    {
-     "title": "Robert Pattinson Is James Bond",
-     "url": "https://www.007.com/robert-pattinson-is-the-new-james-bond",
-     "source": "www.007.com"
-    },
-    {
-     "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
-     "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
-     "source": "Variety"
-    }
-   ]
-  },
-  {
-   "kw": "다시보기",
-   "traffic": "100+",
-   "when": "11월 17일 00:20",
-   "news": [
-    {
-     "title": "[다시보기] 11월 16일 (월) 오후 사이언스 투데이",
-     "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611161604549260&s_hcd=0023",
-     "source": "YTN 사이언스"
-    }
-   ]
-  },
-  {
-   "kw": "로버트 패틴슨",
-   "traffic": "1000+",
-   "when": "11월 17일 00:10",
-   "news": [
-    {
-     "title": "로버트 패틴슨, 7대 제임스 본드 된다…'007시리즈' 주인공 낙점",
-     "url": "https://www.yna.co.kr/view/AKR20261117002400075",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "로버트 패틴슨, 다니엘 크레이그 이어 차기 제임스 본드로 선정",
-     "url": "https://www.hankookilbo.com/news/article/A2026111700500000146",
-     "source": "한국일보"
-    }
-   ]
-  },
-  {
-   "kw": "추미애",
-   "traffic": "200+",
-   "when": "11월 17일 00:10",
-   "news": [
-    {
-     "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "MBC의 편파 왜곡 방송, 무단 침입에 대해 법적 책임을 묻겠습니다",
-     "url": "https://gnews.gg.go.kr/news/news_detail_m.do?number=202611161447356798C117&s_code=C500&page=1&SchYear=&SchMonth=",
-     "source": "경기도뉴스포털"
-    }
-   ]
-  },
-  {
-   "kw": "최우제",
-   "traffic": "100+",
-   "when": "11월 17일 00:00",
-   "news": [
-    {
-     "title": "[뉴스워커_스포츠] 롤 인벤·롤갤 뒤집은 제우스 복귀설... 정작 티원은 침묵 중",
-     "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513543",
-     "source": "뉴스워커"
-    },
-    {
-     "title": "LCK 스토브리그 일정은?⋯코치 영입 15일ㆍ선수 FA 17일",
-     "url": "https://www.etoday.co.kr/news/view/2647803",
-     "source": "이투데이"
-    }
-   ]
-  },
-  {
-   "kw": "김주혁",
-   "traffic": "500+",
-   "when": "11월 16일 23:40",
-   "news": [
-    {
-     "title": "“오빠 생각이 나서” 문근영, 故 김주혁과의 추억이 담긴 노래에 뭉클한 마음",
-     "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483613514?div=live_end",
-     "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "주우재, 전여친 생각하며 들었나..'플리’ 공개에 미련 뚝뚝 “누굴 기다리냐”(우발라2)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GQ3GMMZTGY2WIMZUGU4TQMBRHE/",
-     "source": "조선일보"
     }
    ]
   }
