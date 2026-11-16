@@ -1,26 +1,100 @@
 {
- "updated": "2026-11-16 11:23",
+ "updated": "2026-11-16 12:23",
  "items": [
   {
-   "kw": "무역",
+   "kw": "예멘",
+   "traffic": "100+",
+   "when": "11월 16일 11:10",
+   "news": [
+    {
+     "title": "“후티 공세에 예멘 정부군, 바브엘만데브 해협서 사실상 철수”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8713291",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "홍해 길목서 후퇴한 친사우디군…이란은 바레인에 드론 공격",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01302166645646376",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "청주시",
+   "traffic": "100+",
+   "when": "11월 16일 11:10",
+   "news": []
+  },
+  {
+   "kw": "조선민주주의인민공화국",
    "traffic": "200+",
+   "when": "11월 16일 11:10",
+   "news": [
+    {
+     "title": "[특별기고] 태권도 문화유산 북한 등재가 남긴 교훈",
+     "url": "https://biz.heraldcorp.com/article/10938413",
+     "source": "헤럴드경제"
+    },
+    {
+     "title": "태권도 5개 기관·KOREA 유네스코 추진단, 공동 입장문 발표… “태권도 남북 공동등재 반드시 추진해야”",
+     "url": "https://www.gtntv.co.kr/news/articleView.html?idxno=64319",
+     "source": "https://www.gtntv.co.kr/"
+    }
+   ]
+  },
+  {
+   "kw": "이재명",
+   "traffic": "500+",
+   "when": "11월 16일 10:50",
+   "news": [
+    {
+     "title": "[일요진단 라이브] 조작기소 특검…첫 법무장관의 우려",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8713077",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "국힘, 특검법 '거부권' 행사 촉구‥\"오늘이 법치주의 마지막\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865928_36911.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "우주",
+   "traffic": "200+",
+   "when": "11월 16일 10:50",
+   "news": [
+    {
+     "title": "‘우주의 새벽’은 어떻게 열렸나…슈퍼컴이 재현한 빅뱅 후 20억년",
+     "url": "https://www.hani.co.kr/arti/science/science_general/1287480.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "초기 우주에 대한 가장 상세한 모델이 공개되었습니다.",
+     "url": "https://www.vietnam.vn/ko/cong-bo-mo-hinh-chi-tiet-nhat-tu-truoc-den-nay-ve-vu-tru-so-khai",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "무역",
+   "traffic": "500+",
    "when": "11월 16일 10:20",
    "news": [
     {
-     "title": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일",
-     "url": "https://www.hankyung.com/article/2026111575161",
-     "source": "한국경제"
+     "title": "[백서인의 중국 과학기술 굴기] 사다리 걷어차기 시작한 중국의 과학기술 굴기",
+     "url": "https://www.joongang.co.kr/article/25478848",
+     "source": "중앙일보"
     },
     {
-     "title": "10월 수출 1154억달러, 전년比 93.9%↑… 반도체 호황에 역대 최대",
-     "url": "https://biz.chosun.com/policy/policy_sub/2026/11/16/K2UHXRSNGVE6TFXN6MKQHB3RSI/",
-     "source": "Chosunbiz"
+     "title": "\"美 상무장관, AI칩 규제 대상 축소 추진…가족 회사 고객도 영향권\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444910",
+     "source": "연합인포맥스"
     }
    ]
   },
   {
    "kw": "즉석밥",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 16일 10:10",
    "news": [
     {
@@ -29,15 +103,15 @@
      "source": "CJ 뉴스룸"
     },
     {
-     "title": "CJ제일제당, 현미·귀리 등 30가지 잡곡 담은 '햇반 30곡밥'",
-     "url": "https://www.newsis.com/view/NISX20261116_0003869193",
-     "source": "뉴시스"
+     "title": "현미·귀리 등 30가지 곡물 배합…햇반 30주년 한정판 ‘햇반 30곡밥’ 출시",
+     "url": "https://www.donga.com/news/Economy/article/all/20261116/135030711/1",
+     "source": "동아일보"
     }
    ]
   },
   {
    "kw": "이현중",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 16일 10:00",
    "news": [
     {
@@ -63,9 +137,9 @@
      "source": "머니투데이"
     },
     {
-     "title": "삼성바이오로직스, 2조7천억 자금조달 마무리…\"주주 신뢰 확인\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444853",
-     "source": "연합인포맥스"
+     "title": "삼성바이오로직스, 유상증자에 11.4조 몰렸다… M&A 자금 확보",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001082",
+     "source": "IT조선"
     }
    ]
   },
@@ -83,91 +157,6 @@
      "title": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
      "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422",
      "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "kw": "초고층",
-   "traffic": "500+",
-   "when": "11월 16일 09:40",
-   "news": [
-    {
-     "title": "월 2만원 내던 아파트 수선비, 초고층은 20만원…그래도 사실 건가요?[올앳부동산]",
-     "url": "https://www.khan.co.kr/article/202611160600061",
-     "source": "경향신문"
-    },
-    {
-     "title": "\"고층 아파트, 10년 뒤 흉물 된다\"…건축 전문가의 섬뜩한 경고",
-     "url": "https://www.newsis.com/view/NISX20261113_0003867279",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "공직",
-   "traffic": "200+",
-   "when": "11월 16일 09:30",
-   "news": [
-    {
-     "title": "[행감 인물] 경기도의회 안전행정위원회 국힘 박영선",
-     "url": "https://www.kyeongin.com/article/1774790",
-     "source": "경인일보"
-    },
-    {
-     "title": "박영선, 경기도 공무원 의원면직 44% 지적…근무환경 개선 주문",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752643",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "청년미래적금",
-   "traffic": "200+",
-   "when": "11월 16일 09:30",
-   "news": [
-    {
-     "title": "최대 금리 8%? 청년미래적금도 빈익빈부익부",
-     "url": "http://weekly.chosun.com/news/articleView.html?idxno=56918",
-     "source": "주간조선"
-    },
-    {
-     "title": "청년미래적금 2차 계좌 개설 시작…27일까지",
-     "url": "https://focustimes.co.kr/View.aspx?No=4313700",
-     "source": "포커스타임즈"
-    }
-   ]
-  },
-  {
-   "kw": "카우보이스 대 포티나이너스",
-   "traffic": "100+",
-   "when": "11월 16일 09:20",
-   "news": [
-    {
-     "title": "Burrow dials up Chase on 27-yard sideline strike to get into Steelers' territory",
-     "url": "https://www.nfl.com/videos/burrow-dials-up-chase-on-27-yard-sideline-strike-to-get-into-steelers-territory",
-     "source": "NFL.com"
-    },
-    {
-     "title": "Principal Owner & Chair Sheila Hamp on Lions' presence in Munich: 'Our fans are the best'",
-     "url": "https://www.detroitlions.com/news/sheila-hamp-on-lions-presence-in-munich-our-fans-are-the-best",
-     "source": "Detroit Lions"
-    }
-   ]
-  },
-  {
-   "kw": "커버드 콜",
-   "traffic": "500+",
-   "when": "11월 16일 09:10",
-   "news": [
-    {
-     "title": "[단독] 과세관청, 서학개미 이의제기 첫 인정…美 커버드콜 분배금 환급 잇따르나",
-     "url": "https://www.hankyung.com/article/202611167754i",
-     "source": "한국경제"
-    },
-    {
-     "title": "[자산관리와 절세] \"ETF는 안 됩니다\" 배당 분리과세의 숨은 한 줄",
-     "url": "https://theviewers.co.kr/View.aspx?No=4312474",
-     "source": "뷰어스"
     }
    ]
   }
