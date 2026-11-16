@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-17 01:23",
+ "updated": "2026-11-17 02:23",
  "items": [
+  {
+   "kw": "robert pattinson",
+   "traffic": "500+",
+   "when": "11월 17일 00:40",
+   "news": [
+    {
+     "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
+     "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
+     "source": "Variety"
+    },
+    {
+     "title": "Robert Pattinson Is the Smart but Safe Choice to Play James Bond",
+     "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-james-bond-1236756211/",
+     "source": "The Hollywood Reporter"
+    }
+   ]
+  },
   {
    "kw": "다시보기",
    "traffic": "100+",
@@ -29,21 +46,21 @@
      "source": "Hypebeast.KR"
     },
     {
-     "title": "\"뱀파이어에서 제임스 본드까지…\" 차기 007 유력한 로버트 패틴슨, 이유는?",
-     "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100098520009172",
-     "source": "스포츠조선"
+     "title": "로버트 패틴슨, 다니엘 크레이그 이어 차기 제임스 본드로 선정",
+     "url": "https://www.hankookilbo.com/news/article/A2026111700500000146",
+     "source": "한국일보"
     }
    ]
   },
   {
    "kw": "추미애",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 17일 00:10",
    "news": [
     {
-     "title": "경기도, 내년 국비 8841억원 추가 확보 추진…부지사 국회에 상주",
-     "url": "https://www.etnews.com/20261116000545",
-     "source": "전자신문"
+     "title": "추미애 “경기도 가용재원 2조원 줄어···정부·국회 세제 개편 응답해달라”",
+     "url": "https://www.khan.co.kr/article/202611161131021",
+     "source": "경향신문"
     },
     {
      "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
@@ -109,20 +126,20 @@
    "when": "11월 16일 23:00",
    "news": [
     {
-     "title": "İnegöl'de TOKİ Heyecanı: 123 Konutun Kurası Yarın Çekiliyor",
-     "url": "https://www.e-inegol.com/haber/inegol-de-toki-heyecani-123-konutun-kurasi-yarin-cekiliyor-288342",
-     "source": "İnegöl'de"
+     "title": "TOKİ'den 405 konutluk dev proje!",
+     "url": "https://www.antalyaekspres.com.tr/tokiden-405-konutluk-dev-proje",
+     "source": "Antalya Ekspres"
     },
     {
-     "title": "Isparta TOKİ kura çekimi ne zaman? Aksu ve Keçiborlu TOKİ kura tarihleri açıklandı",
-     "url": "https://www.demokrat32.com/isparta-toki-kura-cekimi-ne-zaman-aksu-ve-keciborlu-toki-kura-tarihleri-aciklandi",
+     "title": "Isparta'daki 274 TOKİ Konutu Ne Zaman Teslim Edilecek? İşte Yeni Tarih",
+     "url": "https://www.demokrat32.com/ispartadaki-274-toki-konutu-ne-zaman-teslim-edilecek-iste-yeni-tarih",
      "source": "Demokrat32.com"
     }
    ]
   },
   {
    "kw": "한국고속철도",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 16일 22:20",
    "news": [
     {
@@ -151,23 +168,6 @@
      "title": "트럼프의 '코리아 패싱', 또 드리워지는 '불길한 그림자'",
      "url": "https://www.newdaily.co.kr/site/data/html/2026/11/16/2026111650286.html",
      "source": "뉴데일리"
-    }
-   ]
-  },
-  {
-   "kw": "사업",
-   "traffic": "200+",
-   "when": "11월 16일 22:00",
-   "news": [
-    {
-     "title": "동국생명과학, 수익성 낮은 진단장비 사업 정리…사명 변경",
-     "url": "https://biz.chosun.com/science-chosun/bio/2026/11/16/X5CKQN2M6BGEDN4FIG2RAXIOUY/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "동국생명과학, 'DK 루오닉스'로 사명 변경…사업구조 재편 본격화 - 머니투데이",
-     "url": "https://www.mt.co.kr/thebio/2026/11/16/2026111616470797474",
-     "source": "머니투데이"
     }
    ]
   }
