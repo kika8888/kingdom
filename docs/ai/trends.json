@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-16 10:23",
+ "updated": "2026-11-16 10:54",
  "items": [
+  {
+   "kw": "박혜연",
+   "traffic": "5000+",
+   "when": "11월 16일 09:40",
+   "news": [
+    {
+     "title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
+     "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268?div=live_end",
+     "source": "programs.sbs.co.kr"
+    },
+    {
+     "title": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "kw": "초고층",
+   "traffic": "500+",
+   "when": "11월 16일 09:40",
+   "news": [
+    {
+     "title": "월 2만원 내던 아파트 수선비, 초고층은 20만원…그래도 사실 건가요?[올앳부동산]",
+     "url": "https://www.khan.co.kr/article/202611160600061",
+     "source": "경향신문"
+    },
+    {
+     "title": "\"고층 아파트, 10년 뒤 흉물 된다\"…건축 전문가의 섬뜩한 경고",
+     "url": "https://www.newsis.com/view/NISX20261113_0003867279",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "공직",
+   "traffic": "200+",
+   "when": "11월 16일 09:30",
+   "news": [
+    {
+     "title": "[단독]‘與-경기·성남 라인’ 102명, 李정부서 공직·공기업 임명됐다",
+     "url": "https://www.donga.com/news/Politics/article/all/20261115/135027258/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "[강준만 시론] 왜 그는 고위 공직을 비워둘까?",
+     "url": "https://www.sisajournal.com/news/articleView.html?idxno=393741",
+     "source": "시사저널"
+    }
+   ]
+  },
+  {
+   "kw": "청년미래적금",
+   "traffic": "200+",
+   "when": "11월 16일 09:30",
+   "news": [
+    {
+     "title": "최대 금리 8%? 청년미래적금도 빈익빈부익부",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=56918",
+     "source": "주간조선"
+    },
+    {
+     "title": "청년미래적금 2차 계좌 개설 시작…27일까지",
+     "url": "https://focustimes.co.kr/View.aspx?No=4313700",
+     "source": "포커스타임즈"
+    }
+   ]
+  },
   {
    "kw": "카우보이스 대 포티나이너스",
    "traffic": "100+",
@@ -8,19 +76,19 @@
    "news": [
     {
      "title": "49ers 46-40 Cowboys (Nov 15, 2026) Game Recap",
-     "url": "https://www.espn.com/nfl/recap?gameId=401873063",
+     "url": "https://www.espn.com/nfl/recap/_/gameId/401873063",
      "source": "ESPN"
     },
     {
-     "title": "Brock Purdy Connects With Christian McCaffrey For 74-Yard TD To Retake the Lead Over Cowboys | NFL Highlights",
-     "url": "https://www.foxsports.com/watch-vertical/fmc-4zf1oojq7j31z23f",
-     "source": "FOX Sports"
+     "title": "Game Recap: Explosive plays doom Dallas, 46-40",
+     "url": "https://www.dallascowboys.com/news/game-recap-explosive-plays-doom-dallas-46-40",
+     "source": "Dallas Cowboys | Official Site of the Dallas Cowboys"
     }
    ]
   },
   {
    "kw": "커버드 콜",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 16일 09:10",
    "news": [
     {
@@ -37,7 +105,7 @@
   },
   {
    "kw": "테니스 선수",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 16일 08:50",
    "news": [
     {
@@ -46,15 +114,15 @@
      "source": "뉴시스"
     },
     {
-     "title": "\"호베르투 카를로스 같은 허벅지!\"…日 미녀 테니스 선수 게시물 한 장에 '팬 14만명' 환호→\"힘이 넘쳐보이는 허벅지\"",
-     "url": "https://www.xportsnews.com/article/2219651",
-     "source": "엑스포츠뉴스"
+     "title": "테니스 선수 소노다 아야노 새 운동복 공개에 팬 호평",
+     "url": "https://www.christiandaily.co.kr/news/167374",
+     "source": "기독일보"
     }
    ]
   },
   {
    "kw": "윤석열",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 16일 08:50",
    "news": [
     {
@@ -70,104 +138,36 @@
    ]
   },
   {
-   "kw": "한국은행",
-   "traffic": "10000+",
-   "when": "11월 16일 08:50",
-   "news": [
-    {
-     "title": "한국은행, 금 투자 늘렸는데… 시세 하락에 평가액 수백억원 줄어",
-     "url": "https://biz.chosun.com/policy/policy_sub/2026/11/15/MKJ7VHDJRNAEDM7IP7QP2SXIUQ/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "한국은행, 3분기 금 ETF 1억달러어치 더 샀다",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01984406645646048",
-     "source": "마켓인"
-    }
-   ]
-  },
-  {
    "kw": "젠슨황 복귀",
+   "traffic": "500+",
+   "when": "11월 16일 08:50",
+   "news": [
+    {
+     "title": "‘전시 상황실’ 꾸린 젠슨 황…사임 나흘 만에 복귀 움직임",
+     "url": "https://news.jtbc.co.kr/article/NB12328191",
+     "source": "JTBC"
+    },
+    {
+     "title": "\"젠슨 황 퇴진, 엔비디아 넘어 AI 투자 전반에 충격 가능성\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444913",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "kw": "한국은행",
    "traffic": "200+",
    "when": "11월 16일 08:50",
    "news": [
     {
-     "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중‥백악관 설득 시도\"",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6865863_36925.html",
-     "source": "MBC 뉴스"
+     "title": "[이번주 한국은행 및 금융위·금감원 일정]",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444834",
+     "source": "연합인포맥스"
     },
     {
-     "title": "젠슨 황 창업 구상 식당, ‘엔비디아 명판’ 뗐다가 원상복구",
-     "url": "https://www.chosun.com/economy/tech_it/2026/11/16/VAVI4C6PKZAF3BTPQWXFWKFLDE/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "에어로케이",
-   "traffic": "500+",
-   "when": "11월 16일 08:40",
-   "news": [
-    {
-     "title": "[속보] \"최대 98% 항공권 할인\"...에어로케이 블프 특가로 홈페이지 접속 마비",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752868",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "에어로케이·후지드림항공 ‘일본 여행 위해 뭉쳤다’",
-     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1111184",
-     "source": "충청매일"
-    }
-   ]
-  },
-  {
-   "kw": "변상일",
-   "traffic": "200+",
-   "when": "11월 16일 08:30",
-   "news": [
-    {
-     "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8712926",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
-     "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950",
-     "source": "사이버오로"
-    }
-   ]
-  },
-  {
-   "kw": "김승수",
-   "traffic": "500+",
-   "when": "11월 16일 08:20",
-   "news": [
-    {
-     "title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
-     "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268",
-     "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
-     "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422",
-     "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "kw": "고속도로 건설",
-   "traffic": "200+",
-   "when": "11월 16일 08:20",
-   "news": [
-    {
-     "title": "경기 여주~충북 제천 잇는 ‘44㎞ 고속도로’ 건설 추진",
-     "url": "https://www.kyeonggi.com/article/20261115580186",
-     "source": "경기일보"
-    },
-    {
-     "title": "1시간 거리를 20분으로…울산 동서 잇는 새 길 열린다",
-     "url": "https://m.go.seoul.co.kr/news/2026/11/15/20261115500050",
-     "source": "서울Pn"
+     "title": "다음주 금융당국 일정",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01364486645645720",
+     "source": "마켓인"
     }
    ]
   }
