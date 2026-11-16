@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-16 10:54",
+ "updated": "2026-11-16 11:23",
  "items": [
+  {
+   "kw": "무역",
+   "traffic": "200+",
+   "when": "11월 16일 10:20",
+   "news": [
+    {
+     "title": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일",
+     "url": "https://www.hankyung.com/article/2026111575161",
+     "source": "한국경제"
+    },
+    {
+     "title": "10월 수출 1154억달러, 전년比 93.9%↑… 반도체 호황에 역대 최대",
+     "url": "https://biz.chosun.com/policy/policy_sub/2026/11/16/K2UHXRSNGVE6TFXN6MKQHB3RSI/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "즉석밥",
+   "traffic": "200+",
+   "when": "11월 16일 10:10",
+   "news": [
+    {
+     "title": "CJ제일제당, 햇반 30주년 기념 한정판 신제품 ‘햇반 30곡밥’ 출시 – CJ 뉴스룸",
+     "url": "https://cjnews.cj.net/cj%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%8B%B9-%ED%96%87%EB%B0%98-30%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-%ED%95%9C%EC%A0%95%ED%8C%90-%EC%8B%A0%EC%A0%9C%ED%92%88-%ED%96%87%EB%B0%98-30%EA%B3%A1/",
+     "source": "CJ 뉴스룸"
+    },
+    {
+     "title": "CJ제일제당, 현미·귀리 등 30가지 잡곡 담은 '햇반 30곡밥'",
+     "url": "https://www.newsis.com/view/NISX20261116_0003869193",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "이현중",
+   "traffic": "200+",
+   "when": "11월 16일 10:00",
+   "news": [
+    {
+     "title": "이현중, G리그서 커리어 하이 폭발…NBA 향한 ‘무력시위’",
+     "url": "https://www.kyeonggi.com/article/20261115580211",
+     "source": "경기일보"
+    },
+    {
+     "title": "'3점슛 성공률 57.1％' 국가대표 이현중, '21점' G리그 진출 뒤 최다 득점 폭발",
+     "url": "https://www.chosun.com/sports/basketball/2026/11/15/GA2GMZJWHFRTKYRQHE3GMNJUMU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "공모",
+   "traffic": "100+",
+   "when": "11월 16일 10:00",
+   "news": [
+    {
+     "title": "삼성바이오, 2.7조원 유증 성공…청약증거금 11.4조 '역대 최대규모' - 머니투데이",
+     "url": "https://www.mt.co.kr/thebio/2026/11/16/2026111608263796946",
+     "source": "머니투데이"
+    },
+    {
+     "title": "삼성바이오로직스, 2조7천억 자금조달 마무리…\"주주 신뢰 확인\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444853",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
   {
    "kw": "박혜연",
    "traffic": "5000+",
@@ -41,14 +109,14 @@
    "when": "11월 16일 09:30",
    "news": [
     {
-     "title": "[단독]‘與-경기·성남 라인’ 102명, 李정부서 공직·공기업 임명됐다",
-     "url": "https://www.donga.com/news/Politics/article/all/20261115/135027258/1",
-     "source": "동아일보"
+     "title": "[행감 인물] 경기도의회 안전행정위원회 국힘 박영선",
+     "url": "https://www.kyeongin.com/article/1774790",
+     "source": "경인일보"
     },
     {
-     "title": "[강준만 시론] 왜 그는 고위 공직을 비워둘까?",
-     "url": "https://www.sisajournal.com/news/articleView.html?idxno=393741",
-     "source": "시사저널"
+     "title": "박영선, 경기도 공무원 의원면직 44% 지적…근무환경 개선 주문",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752643",
+     "source": "국제뉴스"
     }
    ]
   },
@@ -75,14 +143,14 @@
    "when": "11월 16일 09:20",
    "news": [
     {
-     "title": "49ers 46-40 Cowboys (Nov 15, 2026) Game Recap",
-     "url": "https://www.espn.com/nfl/recap/_/gameId/401873063",
-     "source": "ESPN"
+     "title": "Burrow dials up Chase on 27-yard sideline strike to get into Steelers' territory",
+     "url": "https://www.nfl.com/videos/burrow-dials-up-chase-on-27-yard-sideline-strike-to-get-into-steelers-territory",
+     "source": "NFL.com"
     },
     {
-     "title": "Game Recap: Explosive plays doom Dallas, 46-40",
-     "url": "https://www.dallascowboys.com/news/game-recap-explosive-plays-doom-dallas-46-40",
-     "source": "Dallas Cowboys | Official Site of the Dallas Cowboys"
+     "title": "Principal Owner & Chair Sheila Hamp on Lions' presence in Munich: 'Our fans are the best'",
+     "url": "https://www.detroitlions.com/news/sheila-hamp-on-lions-presence-in-munich-our-fans-are-the-best",
+     "source": "Detroit Lions"
     }
    ]
   },
@@ -100,74 +168,6 @@
      "title": "[자산관리와 절세] \"ETF는 안 됩니다\" 배당 분리과세의 숨은 한 줄",
      "url": "https://theviewers.co.kr/View.aspx?No=4312474",
      "source": "뷰어스"
-    }
-   ]
-  },
-  {
-   "kw": "테니스 선수",
-   "traffic": "1000+",
-   "when": "11월 16일 08:50",
-   "news": [
-    {
-     "title": "\"허벅지가 호베르투 카를로스 같다\"…日 테니스 선수 미니스커트에 팬들 '환호'",
-     "url": "https://www.newsis.com/view/NISX20261115_0003868557",
-     "source": "뉴시스"
-    },
-    {
-     "title": "테니스 선수 소노다 아야노 새 운동복 공개에 팬 호평",
-     "url": "https://www.christiandaily.co.kr/news/167374",
-     "source": "기독일보"
-    }
-   ]
-  },
-  {
-   "kw": "윤석열",
-   "traffic": "1000+",
-   "when": "11월 16일 08:50",
-   "news": [
-    {
-     "title": "“국회 봉쇄는 상상”이라는 윤석열…항소심 마지막까지 사과도, 반성도 없었다",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1287471.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "尹 “계엄 해제됐는데 무슨 존속?”…내란 종료 시점 두고 설전",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8712327",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "젠슨황 복귀",
-   "traffic": "500+",
-   "when": "11월 16일 08:50",
-   "news": [
-    {
-     "title": "‘전시 상황실’ 꾸린 젠슨 황…사임 나흘 만에 복귀 움직임",
-     "url": "https://news.jtbc.co.kr/article/NB12328191",
-     "source": "JTBC"
-    },
-    {
-     "title": "\"젠슨 황 퇴진, 엔비디아 넘어 AI 투자 전반에 충격 가능성\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444913",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "kw": "한국은행",
-   "traffic": "200+",
-   "when": "11월 16일 08:50",
-   "news": [
-    {
-     "title": "[이번주 한국은행 및 금융위·금감원 일정]",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444834",
-     "source": "연합인포맥스"
-    },
-    {
-     "title": "다음주 금융당국 일정",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01364486645645720",
-     "source": "마켓인"
     }
    ]
   }
