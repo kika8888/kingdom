@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-16 21:23",
+ "updated": "2026-11-16 22:23",
  "items": [
   {
+   "kw": "성장주",
+   "traffic": "200+",
+   "when": "11월 16일 21:20",
+   "news": [
+    {
+     "title": "외국인이 먼저 담았다…차세대 '성장·가치주'는?",
+     "url": "https://www.hankyung.com/article/202611169375i",
+     "source": "한국경제"
+    },
+    {
+     "title": "11/12(목), 오늘의 투자전략",
+     "url": "https://contents.premium.naver.com/finlit/wfpm/contents/261112080630532fx",
+     "source": "네이버 프리미엄콘텐츠"
+    }
+   ]
+  },
+  {
+   "kw": "cuaca besok",
+   "traffic": "200+",
+   "when": "11월 16일 20:50",
+   "news": [
+    {
+     "title": "BMKG Ungkap 34 Wilayah Berpotensi Diguyur Hujan Hari Ini",
+     "url": "https://www.cnnindonesia.com/teknologi/20261115154303-641-1427389/bmkg-ungkap-34-wilayah-berpotensi-diguyur-hujan-hari-ini",
+     "source": "CNN Indonesia"
+    },
+    {
+     "title": "Monsun Asia Dominasi Cuaca, Hujan Lebat Berpotensi Meluas di Indonesia",
+     "url": "https://www.kbknews.id/monsun-asia-dominasi-cuaca-hujan-lebat-berpotensi-meluas-di-indonesia/",
+     "source": "Kantor Berita Kemanusiaan"
+    }
+   ]
+  },
+  {
+   "kw": "김건희",
+   "traffic": "2000+",
+   "when": "11월 16일 20:10",
+   "news": [
+    {
+     "title": "법원행정처장 \"한덕수 판결문 대략 완성‥법리 따라 판단\"",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6865985_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "대법, 한덕수 구속만료 하루전 막판 선고…\"여론 의식\" 비판도",
+     "url": "https://www.yna.co.kr/view/AKR20261116160600004",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
    "kw": "간호",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 16일 20:00",
    "news": [
     {
@@ -37,7 +88,7 @@
   },
   {
    "kw": "인사청문회",
-   "traffic": "500+",
+   "traffic": "200+",
    "when": "11월 16일 19:50",
    "news": [
     {
@@ -54,7 +105,7 @@
   },
   {
    "kw": "보안",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 16일 19:40",
    "news": [
     {
@@ -71,7 +122,7 @@
   },
   {
    "kw": "나솔",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 16일 19:40",
    "news": [
     {
@@ -97,9 +148,9 @@
      "source": "전자신문"
     },
     {
-     "title": "웹젠, 지스타 2026 출품작 코스프레 화보 공개",
-     "url": "https://zdnet.co.kr/view/?no=20261116151509",
-     "source": "지디넷코리아"
+     "title": "‘지스타 2026’, 개막 전야 온라인 쇼케이스 ‘지스타 프리미어’ 및 공식 미디어 파트너 ‘치지직’ 발표",
+     "url": "https://sports.khan.co.kr/article/202611162129003",
+     "source": "스포츠경향"
     }
    ]
   },
@@ -117,57 +168,6 @@
      "title": "김강우, 육아 위해 1년 연기 중단 \"일 안 들어온다고 했다\"",
      "url": "https://www.newsis.com/view/NISX20261116_0003869242",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "서울 sk 대 울산 현대모비스",
-   "traffic": "1000+",
-   "when": "11월 16일 18:50",
-   "news": [
-    {
-     "title": "워니＋안영준 46점 합작…프로농구 SK, 모비스 잡고 2연패 탈출",
-     "url": "https://www.yna.co.kr/view/AKR20261116176200007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[사진]박무빈, 회심의 뱅크슛",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/16/GE4TCYJTME2DOOBYGMYWEMBSGQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "결승전",
-   "traffic": "200+",
-   "when": "11월 16일 18:50",
-   "news": [
-    {
-     "title": "스마일게이트 '에픽세븐', E7WC 2026 결승전 티켓 예매 시작",
-     "url": "https://zdnet.co.kr/view/?no=20261116180636",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "스마일게이트, `에픽세븐` 월드 챔피언십 결승전 예매 시작",
-     "url": "https://www.ddaily.co.kr/page/view/2026111617383582222",
-     "source": "디지털데일리"
-    }
-   ]
-  },
-  {
-   "kw": "빙부상",
-   "traffic": "1000+",
-   "when": "11월 16일 18:50",
-   "news": [
-    {
-     "title": "‘한동훈 장인’ 진형구 별세…생전 “검찰이 파업 유도” 폭탄발언도",
-     "url": "https://www.hani.co.kr/arti/politics/politics_general/1287380.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "[여적] ‘최초 특검’ 피의자의 별세",
-     "url": "https://www.khan.co.kr/article/202611161903011",
-     "source": "경향신문"
     }
    ]
   }
