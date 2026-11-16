@@ -1,15 +1,66 @@
 {
- "updated": "2026-11-17 04:23",
+ "updated": "2026-11-17 05:20",
  "items": [
   {
-   "kw": "경비원",
+   "kw": "독일 대 네덜란드",
+   "traffic": "200+",
+   "when": "11월 17일 04:10",
+   "news": [
+    {
+     "title": "오렌지군단 7골 폭발…전차군단도 화력쇼",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115105804QnZ",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "클롭의 독일, 세르비아 3-1 제압…사비의 네덜란드는 7-0 대승",
+     "url": "https://www.yna.co.kr/view/AKR20261114016200007",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "임예진",
+   "traffic": "200+",
+   "when": "11월 17일 03:40",
+   "news": [
+    {
+     "title": "\"5000만원 주고 샀는데 82만원 됐다\"…배우 임예진, 15년 전 산 제주 땅, 무슨 일",
+     "url": "https://www.fnnews.com/news/202611150830151414",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "임예진, 5천만원에 산 제주 땅 “현재 지분 가치 82만원”",
+     "url": "https://m.seoul.co.kr/news/2026/11/15/20261115500058",
+     "source": "서울신문"
+    }
+   ]
+  },
+  {
+   "kw": "장항준",
    "traffic": "100+",
+   "when": "11월 17일 03:10",
+   "news": [
+    {
+     "title": "“계약에도 없던 돈”…장항준, ‘왕사남’ 배우·스태프에 26억 쐈다",
+     "url": "https://www.joongang.co.kr/article/25479103",
+     "source": "중앙일보"
+    },
+    {
+     "title": "장항준, '왕사남' 흥행 수익 26억 스태프들과 나눴다",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611161700574516",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "경비원",
+   "traffic": "200+",
    "when": "11월 17일 02:40",
    "news": [
     {
-     "title": "화재 속 주민 구한 70대 경비원…'의사자' 추진",
-     "url": "https://www.yna.co.kr/view/MYH20261115001300038",
-     "source": "연합뉴스"
+     "title": "“아버지라면 당연히 그랬을 것”…이웃 구하고 떠난 70대 경비원",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713933",
+     "source": "KBS 뉴스"
     },
     {
      "title": "불난 아파트 19층부터 문두드려 대피 돕던 경비원 숨져",
@@ -24,14 +75,14 @@
    "when": "11월 17일 00:40",
    "news": [
     {
-     "title": "Robert Pattinson Named as the Next James Bond",
-     "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
-     "source": "The New York Times"
+     "title": "Robert Pattinson Is James Bond",
+     "url": "https://www.007.com/robert-pattinson-is-the-new-james-bond",
+     "source": "www.007.com"
     },
     {
-     "title": "FAA Ground Stop, New James Bond | The Post",
-     "url": "https://www.fox4news.com/video/fmc-ax2asmdwypilkj7c",
-     "source": "FOX 4 News Dallas-Fort Worth"
+     "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
+     "url": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
+     "source": "Variety"
     }
    ]
   },
@@ -75,9 +126,9 @@
      "source": "국제뉴스"
     },
     {
-     "title": "경기도, 본예산 수치로 드러난 재정난…국비 매칭과 복지 예산 ‘절반’ 육박",
-     "url": "https://www.kyeonggi.com/article/20261116580547",
-     "source": "경기일보"
+     "title": "MBC의 편파 왜곡 방송, 무단 침입에 대해 법적 책임을 묻겠습니다",
+     "url": "https://gnews.gg.go.kr/news/news_detail_m.do?number=202611161447356798C117&s_code=C500&page=1&SchYear=&SchMonth=",
+     "source": "경기도뉴스포털"
     }
    ]
   },
@@ -105,64 +156,13 @@
    "news": [
     {
      "title": "“오빠 생각이 나서” 문근영, 故 김주혁과의 추억이 담긴 노래에 뭉클한 마음",
-     "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483613514",
+     "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483613514?div=live_end",
      "source": "programs.sbs.co.kr"
     },
     {
-     "title": "우리들의 발라드 2 : 임바다×허채민, 짙은 호소력으로 탑백귀에게 감동 선사한 무대",
-     "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483614081",
-     "source": "programs.sbs.co.kr"
-    }
-   ]
-  },
-  {
-   "kw": "드라마",
-   "traffic": "10000+",
-   "when": "11월 16일 23:30",
-   "news": [
-    {
-     "title": "스푼랩스 ‘비글루’, AI 숏드라마 2차 공모전 연다",
-     "url": "https://zdnet.co.kr/view/?no=20261116165905",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "\"클링 AI로 만드는 숏드라마\"…비글루, 새 IP 찾는다",
-     "url": "https://www.ddaily.co.kr/page/view/2026111618282434761",
-     "source": "디지털데일리"
-    }
-   ]
-  },
-  {
-   "kw": "toki",
-   "traffic": "100+",
-   "when": "11월 16일 23:00",
-   "news": [
-    {
-     "title": "İnegöl'de TOKİ Heyecanı: 123 Konutun Kurası Yarın Çekiliyor",
-     "url": "https://www.e-inegol.com/haber/inegol-de-toki-heyecani-123-konutun-kurasi-yarin-cekiliyor-288342",
-     "source": "İnegöl'de"
-    },
-    {
-     "title": "Isparta TOKİ kura çekimi ne zaman? Aksu ve Keçiborlu TOKİ kura tarihleri açıklandı",
-     "url": "https://www.demokrat32.com/isparta-toki-kura-cekimi-ne-zaman-aksu-ve-keciborlu-toki-kura-tarihleri-aciklandi",
-     "source": "Demokrat32.com"
-    }
-   ]
-  },
-  {
-   "kw": "한국고속철도",
-   "traffic": "500+",
-   "when": "11월 16일 22:20",
-   "news": [
-    {
-     "title": "퇴역 앞둔 KTX, 고속 화물열차로 변신하나…코레일 사업화 검토",
-     "url": "https://www.news1.kr/realestate/general/6353729",
-     "source": "뉴스1"
-    },
-    {
-     "title": "퇴역 앞둔 KTX, 고속 화물열차 변신 검토",
-     "url": "https://news.jtbc.co.kr/article/NB12328254",
-     "source": "JTBC"
+     "title": "주우재, 전여친 생각하며 들었나..'플리’ 공개에 미련 뚝뚝 “누굴 기다리냐”(우발라2)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GQ3GMMZTGY2WIMZUGU4TQMBRHE/",
+     "source": "조선일보"
     }
    ]
   }
