@@ -1,20 +1,122 @@
 {
- "updated": "2026-11-17 00:23",
+ "updated": "2026-11-17 01:23",
  "items": [
+  {
+   "kw": "다시보기",
+   "traffic": "100+",
+   "when": "11월 17일 00:20",
+   "news": [
+    {
+     "title": "[다시보기] 11월 16일 (월) 오후 사이언스 투데이",
+     "url": "https://science.ytn.co.kr/program/program_view.php?s_mcd=0082&key=202611161604549260&s_hcd=0023",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "[이시각헤드라인] 11월 16일 뉴스투나잇",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611162143582zB",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "로버트 패틴슨",
+   "traffic": "1000+",
+   "when": "11월 17일 00:10",
+   "news": [
+    {
+     "title": "로버트 패틴슨, 차기 제임스 본드 공식 확정",
+     "url": "https://hypebeast.kr/2026/11/robert-pattinson-officially-next-james-bond-announcement",
+     "source": "Hypebeast.KR"
+    },
+    {
+     "title": "\"뱀파이어에서 제임스 본드까지…\" 차기 007 유력한 로버트 패틴슨, 이유는?",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-15/202611150100098520009172",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "kw": "추미애",
+   "traffic": "100+",
+   "when": "11월 17일 00:10",
+   "news": [
+    {
+     "title": "경기도, 내년 국비 8841억원 추가 확보 추진…부지사 국회에 상주",
+     "url": "https://www.etnews.com/20261116000545",
+     "source": "전자신문"
+    },
+    {
+     "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "최우제",
+   "traffic": "100+",
+   "when": "11월 17일 00:00",
+   "news": [
+    {
+     "title": "[뉴스워커_스포츠] 롤 인벤·롤갤 뒤집은 제우스 복귀설... 정작 티원은 침묵 중",
+     "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513543",
+     "source": "뉴스워커"
+    },
+    {
+     "title": "LCK 스토브리그 일정은?⋯코치 영입 15일ㆍ선수 FA 17일",
+     "url": "https://www.etoday.co.kr/news/view/2647803",
+     "source": "이투데이"
+    }
+   ]
+  },
+  {
+   "kw": "김주혁",
+   "traffic": "500+",
+   "when": "11월 16일 23:40",
+   "news": [
+    {
+     "title": "“오빠 생각이 나서” 문근영, 故 김주혁과의 추억이 담긴 노래에 뭉클한 마음",
+     "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483613514",
+     "source": "programs.sbs.co.kr"
+    },
+    {
+     "title": "우리들의 발라드 2 : 임바다×허채민, 짙은 호소력으로 탑백귀에게 감동 선사한 무대",
+     "url": "https://programs.sbs.co.kr/enter/theballad2/clip/89099/OC483614081",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "드라마",
+   "traffic": "10000+",
+   "when": "11월 16일 23:30",
+   "news": [
+    {
+     "title": "고수, '나인투식스'로 15년 만의 로맨스 복귀…\"이번 작품서 내 비주얼 살짝 아쉬워\"",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848354",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "[드라마 속 음악②] \"마지막 장면이 가장 중요\"…OST 제작의 숨은 공식",
+     "url": "https://news.tf.co.kr/read/entertain/2389544.htm",
+     "source": "더팩트"
+    }
+   ]
+  },
   {
    "kw": "toki",
    "traffic": "100+",
    "when": "11월 16일 23:00",
    "news": [
     {
-     "title": "TOKİ Düzce'de konut belirleme kurası tamamlandı",
-     "url": "https://www.emlakpencerem.com.tr/toki-duzcede-konut-belirleme-kurasi-tamamlandi/117173",
-     "source": "Emlak Pencerem"
+     "title": "İnegöl'de TOKİ Heyecanı: 123 Konutun Kurası Yarın Çekiliyor",
+     "url": "https://www.e-inegol.com/haber/inegol-de-toki-heyecani-123-konutun-kurasi-yarin-cekiliyor-288342",
+     "source": "İnegöl'de"
     },
     {
-     "title": "Hendek TOKİ de kura heyecanı",
-     "url": "https://www.hendekhaber.com.tr/hendek-toki-de-kura-heyecani",
-     "source": "HENDEK HABER"
+     "title": "Isparta TOKİ kura çekimi ne zaman? Aksu ve Keçiborlu TOKİ kura tarihleri açıklandı",
+     "url": "https://www.demokrat32.com/isparta-toki-kura-cekimi-ne-zaman-aksu-ve-keciborlu-toki-kura-tarihleri-aciklandi",
+     "source": "Demokrat32.com"
     }
    ]
   },
@@ -46,9 +148,9 @@
      "source": "중앙일보"
     },
     {
-     "title": "[朝鮮칼럼] 북·중·러 위협 속 한미동맹의 새로운 전략",
-     "url": "https://www.chosun.com/opinion/chosun_column/2026/11/16/F2NGGNEI25GJDIVVJCSNPBMLGE/",
-     "source": "조선일보"
+     "title": "트럼프의 '코리아 패싱', 또 드리워지는 '불길한 그림자'",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/16/2026111650286.html",
+     "source": "뉴데일리"
     }
    ]
   },
@@ -66,108 +168,6 @@
      "title": "동국생명과학, 'DK 루오닉스'로 사명 변경…사업구조 재편 본격화 - 머니투데이",
      "url": "https://www.mt.co.kr/thebio/2026/11/16/2026111616470797474",
      "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "성장주",
-   "traffic": "1000+",
-   "when": "11월 16일 21:20",
-   "news": [
-    {
-     "title": "\"지금 팔면 후회?\"…삼전닉스 반등 확률 90% 분석 나왔다 [투자톡]",
-     "url": "https://www.hankyung.com/article/2026111353166",
-     "source": "한국경제"
-    },
-    {
-     "title": "‘반도체 공포’에 하락장 베팅한 개미들…인버스 대량 매수 [주식고수]",
-     "url": "https://www.segye.com/newsView/20261116507395",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "cuaca besok",
-   "traffic": "200+",
-   "when": "11월 16일 20:50",
-   "news": [
-    {
-     "title": "Peringatan Cuaca BMKG: Hujan Lebat Disertai Petir Mengancam Kabupaten Maros Malam Ini, Mulai Pukul 19.30 WIB",
-     "url": "https://databoks.katadata.co.id/demografi/statistik/c3a8d97bdb5ee53/peringatan-cuaca-bmkg-hujan-lebat-disertai-petir-mengancam-kabupaten-maros-malam-ini-mulai-pukul-19-30-wib",
-     "source": "Databoks"
-    },
-    {
-     "title": "Prakiraan Cuaca Makassar Besok 17 November 2026: Siang-Sore Hujan, Suhu 19-35 Derajat Celsius",
-     "url": "https://www.detik.com/sulsel/makassar/d-8755618/prakiraan-cuaca-makassar-besok-17-november-2026-siang-sore-hujan-suhu-19-35-derajat-celsius",
-     "source": "detikcom"
-    }
-   ]
-  },
-  {
-   "kw": "김건희",
-   "traffic": "2000+",
-   "when": "11월 16일 20:10",
-   "news": [
-    {
-     "title": "쫓기듯 선고일 지정‥스스로 불신 키운 대법원",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866075_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "[사설]한덕수 사건 대법원 전합 선고에 쏠린 시선과 질문들",
-     "url": "https://www.donga.com/news/Opinion/article/all/20261116/135035655/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "간호",
-   "traffic": "2000+",
-   "when": "11월 16일 20:00",
-   "news": [
-    {
-     "title": "작은 산부인과에서 AI 첨단병원까지, 70년 역사의 병원이 미래 의료를 여는 법",
-     "url": "https://science.ytn.co.kr/program/view.php?mcd=1753&key=202611160918175563",
-     "source": "YTN 사이언스"
-    },
-    {
-     "title": "을지국제간호학술대회 서울서 개최…간호 실무 미래 방향 논의",
-     "url": "https://www.donga.com/news/Society/article/all/20261116/135034691/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "두두",
-   "traffic": "200+",
-   "when": "11월 16일 20:00",
-   "news": [
-    {
-     "title": "[오피셜] '두두' 이동주, DN 수퍼스와 28년까지 동행… \"보답하고 싶다\"",
-     "url": "https://www.dailyesports.com/view.php?ud=20261116201733393074bcc1e038_27",
-     "source": "데일리e스포츠"
-    },
-    {
-     "title": "DN 수퍼스, 2027 LCK 시즌 앞두고 '두두'와 재계약",
-     "url": "https://www.sheepesports.com/kr/articles/sources-dn-soopers-re-sign-dudu-for-the-2027-lck-season/kr",
-     "source": "Sheep Esports"
-    }
-   ]
-  },
-  {
-   "kw": "인사청문회",
-   "traffic": "200+",
-   "when": "11월 16일 19:50",
-   "news": [
-    {
-     "title": "[속보] 이 대통령, 이용철 법무부장관 후보자 인사청문요청안 재가",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611161644231255_005.html",
-     "source": "YTN"
-    },
-    {
-     "title": "이용철 법무장관 후보자 청문회 열린다…이 대통령, 요청안 재가",
-     "url": "https://news.jtbc.co.kr/article/NB12328300",
-     "source": "JTBC"
     }
    ]
   }
