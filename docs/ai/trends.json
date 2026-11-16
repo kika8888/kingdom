@@ -1,6 +1,91 @@
 {
- "updated": "2026-11-16 20:22",
+ "updated": "2026-11-16 21:23",
  "items": [
+  {
+   "kw": "간호",
+   "traffic": "500+",
+   "when": "11월 16일 20:00",
+   "news": [
+    {
+     "title": "작은 산부인과에서 AI 첨단병원까지, 70년 역사의 병원이 미래 의료를 여는 법",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=1753&key=202611160918175563",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "을지국제간호학술대회 서울서 개최…간호 실무 미래 방향 논의",
+     "url": "https://www.donga.com/news/Society/article/all/20261116/135034691/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "두두",
+   "traffic": "200+",
+   "when": "11월 16일 20:00",
+   "news": [
+    {
+     "title": "[오피셜] '두두' 이동주, DN 수퍼스와 28년까지 동행… \"보답하고 싶다\"",
+     "url": "https://www.dailyesports.com/view.php?ud=20261116201733393074bcc1e038_27",
+     "source": "데일리e스포츠"
+    },
+    {
+     "title": "DN 수퍼스, 2027 LCK 시즌 앞두고 '두두'와 재계약",
+     "url": "https://www.sheepesports.com/kr/articles/sources-dn-soopers-re-sign-dudu-for-the-2027-lck-season/kr",
+     "source": "Sheep Esports"
+    }
+   ]
+  },
+  {
+   "kw": "인사청문회",
+   "traffic": "500+",
+   "when": "11월 16일 19:50",
+   "news": [
+    {
+     "title": "이 대통령, 법무장관·국세청장 후보자 인사청문요청안 재가",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611161657584232_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "이용철 법무장관 후보자 청문회 열린다…이 대통령, 요청안 재가",
+     "url": "https://news.jtbc.co.kr/article/NB12328300",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "보안",
+   "traffic": "500+",
+   "when": "11월 16일 19:40",
+   "news": [
+    {
+     "title": "금보원, 해킹 공격 246개 IP 주소 차단 완료... ‘유동 IP 접속 허용’ 원인 지목",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147263",
+     "source": "보안뉴스"
+    },
+    {
+     "title": "금융위, '침해' 금융보안원에 쇄신 요구…인력·조직 강화 예상(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261116047251002",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "나솔",
+   "traffic": "200+",
+   "when": "11월 16일 19:40",
+   "news": [
+    {
+     "title": "'나솔' 31기 옥순 \"'취집' 오해 억울\"…영호와 재결합설 일축 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/15/2026111519355822809",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘나는 솔로’ 31기 영호, 옥순과 결별 공식 인정…“재회 생각 없다”",
+     "url": "https://www.mk.co.kr/news/broadcasting-service/12209089",
+     "source": "매일경제"
+    }
+   ]
+  },
   {
    "kw": "구글플레이",
    "traffic": "100+",
@@ -20,7 +105,7 @@
   },
   {
    "kw": "김강우",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 16일 19:00",
    "news": [
     {
@@ -37,13 +122,13 @@
   },
   {
    "kw": "서울 sk 대 울산 현대모비스",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 16일 18:50",
    "news": [
     {
-     "title": "'예기치 못한 악재' 국가대표 슈터마저 쓰러졌다, 양동근 감독 \"선수 생활만 20년을 해봤는데...\" [잠실 현장] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/16/2026111617434984515",
-     "source": "머니투데이"
+     "title": "워니＋안영준 46점 합작…프로농구 SK, 모비스 잡고 2연패 탈출",
+     "url": "https://www.yna.co.kr/view/AKR20261116176200007",
+     "source": "연합뉴스"
     },
     {
      "title": "[사진]박무빈, 회심의 뱅크슛",
@@ -83,80 +168,6 @@
      "title": "[여적] ‘최초 특검’ 피의자의 별세",
      "url": "https://www.khan.co.kr/article/202611161903011",
      "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "노경필",
-   "traffic": "500+",
-   "when": "11월 16일 18:40",
-   "news": [
-    {
-     "title": "법사위 전체회의 참석한 노경필-이진수",
-     "url": "https://www.newsis.com/view/NISI20261116_0021534164",
-     "source": "뉴시스"
-    },
-    {
-     "title": "[포토] 김호철 감사원장, 질의에 답변",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3449074",
-     "source": "천지일보"
-    }
-   ]
-  },
-  {
-   "kw": "sk하이닉스 채용",
-   "traffic": "200+",
-   "when": "11월 16일 18:40",
-   "news": []
-  },
-  {
-   "kw": "공무원",
-   "traffic": "10000+",
-   "when": "11월 16일 18:30",
-   "news": [
-    {
-     "title": "평택시와 마쓰야마시 공무원 교류, 스포츠로 잇고 행정으로 넓힌다",
-     "url": "https://www.yna.co.kr/view/RPR20261116003800353",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "“축구공 하나로 가까워진 두 도시”… 우정 깊어지는 평택·마쓰야마",
-     "url": "https://www.kyeonggi.com/article/20261116580361",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "성과급",
-   "traffic": "2000+",
-   "when": "11월 16일 18:30",
-   "news": [
-    {
-     "title": "금융권 ‘성과급 잔치’ 제동…'누가, 왜, 얼마나 받았나' 밝혀야",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01826966645646048",
-     "source": "마켓인"
-    },
-    {
-     "title": "[광화문]인사권 없는 금융지주 회장? - 머니투데이",
-     "url": "https://www.mt.co.kr/opinion/2026/11/16/2026111409251267957",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "ตรวจหวย",
-   "traffic": "2000+",
-   "when": "11월 16일 17:40",
-   "news": [
-    {
-     "title": "ตรวจหวย 16 พฤศจิกายน 2569 ผลสลากกินแบ่งรัฐบาล หวย 16/11/69",
-     "url": "https://www.sanook.com/news/9912055/",
-     "source": "Sanook"
-    },
-    {
-     "title": "โค้งสุดท้ายหวย \"เลขเด็ดงวดนี้\" 16/11/69 ลุ้นโชคได้ที่ไทยรัฐทีวี-ไทยรัฐออนไลน์",
-     "url": "https://www.thairath.co.th/lottery/news/2972681",
-     "source": "thairath.co.th"
     }
    ]
   }
