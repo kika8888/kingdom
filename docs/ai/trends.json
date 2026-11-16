@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17 02:23",
+ "updated": "2026-11-17 03:23",
  "items": [
   {
    "kw": "robert pattinson",
@@ -12,9 +12,9 @@
      "source": "Variety"
     },
     {
-     "title": "Robert Pattinson Is the Smart but Safe Choice to Play James Bond",
-     "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-james-bond-1236756211/",
-     "source": "The Hollywood Reporter"
+     "title": "New James Bond is officially announced: ‘The honor of a lifetime’",
+     "url": "https://www.yahoo.com/entertainment/movies/articles/james-bond-officially-announced-honor-174757676.html",
+     "source": "Yahoo"
     }
    ]
   },
@@ -29,8 +29,8 @@
      "source": "YTN 사이언스"
     },
     {
-     "title": "[이시각헤드라인] 11월 16일 뉴스투나잇",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611162143582zB",
+     "title": "[이시각헤드라인] 11월 16일 뉴스현장",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116132324DuC",
      "source": "연합뉴스TV"
     }
    ]
@@ -41,9 +41,9 @@
    "when": "11월 17일 00:10",
    "news": [
     {
-     "title": "로버트 패틴슨, 차기 제임스 본드 공식 확정",
-     "url": "https://hypebeast.kr/2026/11/robert-pattinson-officially-next-james-bond-announcement",
-     "source": "Hypebeast.KR"
+     "title": "로버트 패틴슨, 7대 제임스 본드 된다…'007시리즈' 주인공 낙점",
+     "url": "https://www.yna.co.kr/view/AKR20261117002400075",
+     "source": "연합뉴스"
     },
     {
      "title": "로버트 패틴슨, 다니엘 크레이그 이어 차기 제임스 본드로 선정",
@@ -109,14 +109,14 @@
    "when": "11월 16일 23:30",
    "news": [
     {
-     "title": "고수, '나인투식스'로 15년 만의 로맨스 복귀…\"이번 작품서 내 비주얼 살짝 아쉬워\"",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848354",
-     "source": "SBS 뉴스"
+     "title": "스푼랩스 ‘비글루’, AI 숏드라마 2차 공모전 연다",
+     "url": "https://zdnet.co.kr/view/?no=20261116165905",
+     "source": "지디넷코리아"
     },
     {
-     "title": "[드라마 속 음악②] \"마지막 장면이 가장 중요\"…OST 제작의 숨은 공식",
-     "url": "https://news.tf.co.kr/read/entertain/2389544.htm",
-     "source": "더팩트"
+     "title": "\"클링 AI로 만드는 숏드라마\"…비글루, 새 IP 찾는다",
+     "url": "https://www.ddaily.co.kr/page/view/2026111618282434761",
+     "source": "디지털데일리"
     }
    ]
   },
@@ -126,14 +126,14 @@
    "when": "11월 16일 23:00",
    "news": [
     {
-     "title": "TOKİ'den 405 konutluk dev proje!",
-     "url": "https://www.antalyaekspres.com.tr/tokiden-405-konutluk-dev-proje",
-     "source": "Antalya Ekspres"
-    },
-    {
      "title": "Isparta'daki 274 TOKİ Konutu Ne Zaman Teslim Edilecek? İşte Yeni Tarih",
      "url": "https://www.demokrat32.com/ispartadaki-274-toki-konutu-ne-zaman-teslim-edilecek-iste-yeni-tarih",
      "source": "Demokrat32.com"
+    },
+    {
+     "title": "TOKİ'den 405 konutluk dev proje!",
+     "url": "https://www.antalyaekspres.com.tr/tokiden-405-konutluk-dev-proje",
+     "source": "Antalya Ekspres"
     }
    ]
   },
