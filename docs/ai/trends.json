@@ -1,9 +1,145 @@
 {
- "updated": "2026-11-16 16:23",
+ "updated": "2026-11-16 17:23",
  "items": [
   {
-   "kw": "신유열",
+   "kw": "박지윤",
    "traffic": "200+",
+   "when": "11월 16일 16:20",
+   "news": [
+    {
+     "title": "'박지윤 남사친'에 상간 소송...최동석, 1심 뒤집고 일부 승소 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/16/2026111615464396280",
+     "source": "머니투데이"
+    },
+    {
+     "title": "최동석, 박지윤 지인 상대 상간 소송 항소심 일부 승소",
+     "url": "https://www.hankyung.com/article/2026111695337",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "(주)명륜당",
+   "traffic": "100+",
+   "when": "11월 16일 16:20",
+   "news": [
+    {
+     "title": "서울중수청, 명륜당 본사 압수수색…대부업체 부당 지원 의혹",
+     "url": "https://news.jtbc.co.kr/article/NB12328220",
+     "source": "JTBC"
+    },
+    {
+     "title": "[속보]서울중수청, ‘대부업체 부당지원 의혹’ 명륜진사갈비 압수수색",
+     "url": "https://www.khan.co.kr/article/202611161016001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "tvn",
+   "traffic": "100+",
+   "when": "11월 16일 16:10",
+   "news": [
+    {
+     "title": "Ponad 765 tys. reklam w TVN24 i TVN24 BiS. Kaufland, Lidl i PKO BP w czołówce",
+     "url": "https://www.wirtualnemedia.pl/ponad-765-tys-reklam-w-tvn24-i-tvn24-bis-kaufland-lidl-i-pko-bp-w-czolowce,7350229472552992a",
+     "source": "wirtualnemedia.pl"
+    },
+    {
+     "title": "Szokujące liczby. Tyle reklam zalewa stacje TVN",
+     "url": "https://telewizja.jastrzabpost.pl/zalew-reklam-w-tvn-az-765-tysiecy-spotow-wiemy-kto-wydal-fortune,7351559258302496a",
+     "source": "Jastrząb Post"
+    }
+   ]
+  },
+  {
+   "kw": "뉴스",
+   "traffic": "5000+",
+   "when": "11월 16일 16:00",
+   "news": [
+    {
+     "title": "[뉴스포커스] 11월1６일 다시보기",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116141042CpO",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "뉴스투데이│2026년 11월 16일 (월)",
+     "url": "https://jejumbc.com/NewsArticle/873426",
+     "source": "제주MBC"
+    }
+   ]
+  },
+  {
+   "kw": "검사",
+   "traffic": "500+",
+   "when": "11월 16일 16:00",
+   "news": [
+    {
+     "title": "선관위특검, 검사 1명 추가 파견받아…정원에는 여전히 못 미쳐",
+     "url": "https://www.yna.co.kr/view/AKR20261116102100004",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "선관위 특검에 검사 1명 추가 합류…파견검사 총 19명",
+     "url": "https://www.newsis.com/view/NISX20261116_0003870216",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "야구 코치",
+   "traffic": "500+",
+   "when": "11월 16일 16:00",
+   "news": [
+    {
+     "title": "22년 전 자신의 길 걷는 김민성 수비 코치…이동욱 롯데 감독이 말하는 존중과 조언 사이 [SD 미야자키 리포트]",
+     "url": "https://sports.donga.com/sports/article/all/20261115/135027297/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "[SW인터뷰] 5년 만에 복귀, 그 이상의 의미…허문회 코치 “하늘이 준 기회”",
+     "url": "https://www.sportsworldi.com/newsView/20261116506062",
+     "source": "스포츠월드"
+    }
+   ]
+  },
+  {
+   "kw": "전국삼성전자노동조합",
+   "traffic": "200+",
+   "when": "11월 16일 15:50",
+   "news": [
+    {
+     "title": "[단독] 삼성전자 노조, 조합원 대상 테슬라 등 억대 경품 이벤트",
+     "url": "https://www.chosun.com/national/labor/2026/11/16/Y4ZJLFQORRAX5N7MH7RUL53GNI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "성과급 격차 부른 勞勞 갈등…‘삼성 노조공화국’ 오명",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611142234106940064",
+     "source": "대한경제"
+    }
+   ]
+  },
+  {
+   "kw": "당구",
+   "traffic": "1000+",
+   "when": "11월 16일 15:30",
+   "news": [
+    {
+     "title": "조건휘, 시즌 3승 도전…프로당구 PBA-LPBA 6차 투어 열린다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02187766645646376&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "PBA 시즌 후반부 돌입…21일부터 휴온스 챔피언십 개최",
+     "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435552",
+     "source": "데일리스포츠한국"
+    }
+   ]
+  },
+  {
+   "kw": "신유열",
+   "traffic": "500+",
    "when": "11월 16일 15:20",
    "news": [
     {
@@ -12,15 +148,15 @@
      "source": "조선일보"
     },
     {
-     "title": "신유열 롯데지주 사장 승진…경영전략실 총괄",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444995",
-     "source": "연합인포맥스"
+     "title": "사장 발탁 승진에, 체제 전환…롯데, 그룹 모태 식품사업 살리기 전력",
+     "url": "https://www.newsis.com/view/NISX20261116_0003870281",
+     "source": "뉴시스"
     }
    ]
   },
   {
    "kw": "카카오뱅크 애플페이",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 16일 15:10",
    "news": [
     {
@@ -29,129 +165,9 @@
      "source": "전자신문"
     },
     {
-     "title": "카카오뱅크도 애플페이 뚫었다…체크·mini카드로 결제 가능 - 머니투데이",
-     "url": "https://www.mt.co.kr/finance/2026/11/16/2026111614423465991",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "위메이드",
-   "traffic": "200+",
-   "when": "11월 16일 15:10",
-   "news": [
-    {
-     "title": "[기자수첩] 위메이드 창업주의 무책임한 침묵",
-     "url": "https://dealsite.co.kr/articles/172677",
-     "source": "딜사이트"
-    },
-    {
-     "title": "박관호(최대주주), 위메이드 보유주식 계약 변경",
-     "url": "http://www.dailyinvest.kr/news/articleView.html?idxno=72552",
-     "source": "데일리인베스트"
-    }
-   ]
-  },
-  {
-   "kw": "hiv",
-   "traffic": "100+",
-   "when": "11월 16일 15:10",
-   "news": [
-    {
-     "title": "Zimbabwe’s HIV gains face a test among young people",
-     "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people",
-     "source": "Al Jazeera"
-    },
-    {
-     "title": "Zimbabwe’s HIV Gains Face Test as Youth Infections Hit 4,400",
-     "url": "https://journalarta.com/en/2026/11/15/zimbabwes-hiv-gains-face-test-young-people/",
-     "source": "JournalArta"
-    }
-   ]
-  },
-  {
-   "kw": "낙상",
-   "traffic": "200+",
-   "when": "11월 16일 15:00",
-   "news": [
-    {
-     "title": "\"낙상 위험 미리 포착해 약사가 예방\"…새로운 약료 모델 '눈길'",
-     "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549019",
-     "source": "약사공론"
-    },
-    {
-     "title": "노인 낙상·섬망 위험 예측하는 약물 평가도구 개발…75만명 의료정보 분석",
-     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=623526",
-     "source": "메디컬투데이"
-    }
-   ]
-  },
-  {
-   "kw": "서영교",
-   "traffic": "200+",
-   "when": "11월 16일 15:00",
-   "news": [
-    {
-     "title": "서영교 “의원 150석 이상이면 탄핵…다음 사람이 대법원장하면 돼” [정치시그널]",
-     "url": "https://ichannela.com/news/detail/000000560122.do",
-     "source": "채널A"
-    },
-    {
-     "title": "민주당 박희승 의원 나리, 권력에 취한 겐가 [아침햇발]",
-     "url": "https://www.hani.co.kr/arti/opinion/column/1287400.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "임현주",
-   "traffic": "1000+",
-   "when": "11월 16일 14:50",
-   "news": [
-    {
-     "title": "임현주, MBC 퇴사 \"13년 8개월 재직…회사 밖 탐험할 것\"",
-     "url": "https://www.hankyung.com/article/202611169179H",
-     "source": "한국경제"
-    },
-    {
-     "title": "임현주 아나운서, MBC 떠난다 \"이제 회사 밖 세계 탐험\"",
-     "url": "https://www.newsis.com/view/NISX20261116_0003869250",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "논쟁",
-   "traffic": "1000+",
-   "when": "11월 16일 14:50",
-   "news": [
-    {
-     "title": "파키스탄 실종 여객기 PK404편, 위성 영상 공개로 37년 만의 재조사 논쟁",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/20261116031224791720990b2dc5_1",
-     "source": "글로벌이코노믹"
-    }
-   ]
-  },
-  {
-   "kw": "신세계",
-   "traffic": "200+",
-   "when": "11월 16일 14:50",
-   "news": []
-  },
-  {
-   "kw": "전대영",
-   "traffic": "1000+",
-   "when": "11월 16일 14:30",
-   "news": [
-    {
-     "title": "전대영 전 한화 이글스 2군 감독, 암 투병 끝에 별세",
-     "url": "https://www.yna.co.kr/view/AKR20261116055800007",
+     "title": "카카오뱅크까지 품은 애플페이…삼성페이와 경쟁 본격화하나",
+     "url": "https://www.yna.co.kr/view/AKR20261116147900017",
      "source": "연합뉴스"
-    },
-    {
-     "title": "[부고] 선동열 상대 홈런 2개 터뜨린 빙그레 출신 전대영 전 대덕대 감독, 암 투병 끝 별세 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/16/202611160930774170O",
-     "source": "머니투데이"
     }
    ]
   }
