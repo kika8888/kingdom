@@ -1,20 +1,54 @@
 {
- "updated": "2026-11-16 22:23",
+ "updated": "2026-11-16 23:23",
  "items": [
   {
+   "kw": "한국고속철도",
+   "traffic": "100+",
+   "when": "11월 16일 22:20",
+   "news": [
+    {
+     "title": "KTX-SRT 통합 두달, 전남광주 이용객 9% 증가",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713247",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "KTX-SRT 통합 두 달 동안 전남광주 철도 이용객 9.2% 늘어 - 머니투데이",
+     "url": "https://www.mt.co.kr/policy/2026/11/16/2026111609363678869",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "코리아 패싱",
+   "traffic": "100+",
+   "when": "11월 16일 22:10",
+   "news": [
+    {
+     "title": "[이하경 칼럼] 한·미 동맹은 저주가 아니다",
+     "url": "https://www.joongang.co.kr/article/25478852",
+     "source": "중앙일보"
+    },
+    {
+     "title": "트럼프의 '코리아 패싱', 또 드리워지는 '불길한 그림자'",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/16/2026111650286.html",
+     "source": "뉴데일리"
+    }
+   ]
+  },
+  {
    "kw": "성장주",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 16일 21:20",
    "news": [
     {
-     "title": "외국인이 먼저 담았다…차세대 '성장·가치주'는?",
-     "url": "https://www.hankyung.com/article/202611169375i",
+     "title": "\"지금 팔면 후회?\"…삼전닉스 반등 확률 90% 분석 나왔다 [투자톡]",
+     "url": "https://www.hankyung.com/article/2026111353166",
      "source": "한국경제"
     },
     {
-     "title": "11/12(목), 오늘의 투자전략",
-     "url": "https://contents.premium.naver.com/finlit/wfpm/contents/261112080630532fx",
-     "source": "네이버 프리미엄콘텐츠"
+     "title": "‘반도체 공포’에 하락장 베팅한 개미들…인버스 대량 매수 [주식고수]",
+     "url": "https://www.segye.com/newsView/20261116507395",
+     "source": "세계일보"
     }
    ]
   },
@@ -36,25 +70,8 @@
    ]
   },
   {
-   "kw": "김건희",
-   "traffic": "2000+",
-   "when": "11월 16일 20:10",
-   "news": [
-    {
-     "title": "법원행정처장 \"한덕수 판결문 대략 완성‥법리 따라 판단\"",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6865985_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "대법, 한덕수 구속만료 하루전 막판 선고…\"여론 의식\" 비판도",
-     "url": "https://www.yna.co.kr/view/AKR20261116160600004",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
    "kw": "간호",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 16일 20:00",
    "news": [
     {
@@ -109,14 +126,14 @@
    "when": "11월 16일 19:40",
    "news": [
     {
-     "title": "금보원, 해킹 공격 246개 IP 주소 차단 완료... ‘유동 IP 접속 허용’ 원인 지목",
-     "url": "https://www.boannews.com/news/articleView.html?idxno=147263",
+     "title": "“AI 사이버 위협 공동대응”... 청와대, 민·관·군 IT 자산 관리 체계 점검",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147274",
      "source": "보안뉴스"
     },
     {
-     "title": "금융위, '침해' 금융보안원에 쇄신 요구…인력·조직 강화 예상(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261116047251002",
-     "source": "연합뉴스"
+     "title": "“AI로 다 뚫는다”…AI 해킹, AI로 막을 순 없을까? [경제한방]",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8712838",
+     "source": "KBS 뉴스"
     }
    ]
   },
@@ -151,23 +168,6 @@
      "title": "‘지스타 2026’, 개막 전야 온라인 쇼케이스 ‘지스타 프리미어’ 및 공식 미디어 파트너 ‘치지직’ 발표",
      "url": "https://sports.khan.co.kr/article/202611162129003",
      "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "김강우",
-   "traffic": "200+",
-   "when": "11월 16일 19:00",
-   "news": [
-    {
-     "title": "김강우, 아내 몰래 1년간 활동 중단…\"일 안 들어온다고 거짓말\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111609332944832",
-     "source": "머니투데이"
-    },
-    {
-     "title": "김강우, 육아 위해 1년 연기 중단 \"일 안 들어온다고 했다\"",
-     "url": "https://www.newsis.com/view/NISX20261116_0003869242",
-     "source": "뉴시스"
     }
    ]
   }
