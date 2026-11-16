@@ -1,26 +1,43 @@
 {
- "updated": "2026-11-16 18:30",
+ "updated": "2026-11-16 19:22",
  "items": [
+  {
+   "kw": "ตรวจหวย",
+   "traffic": "2000+",
+   "when": "11월 16일 17:40",
+   "news": [
+    {
+     "title": "ตรวจหวย 16 พ.ย. 2569 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 16/11/69",
+     "url": "https://www.thairath.co.th/lottery/latest-result/2972690",
+     "source": "thairath.co.th"
+    },
+    {
+     "title": "เปิดสถิติหวยงวด 16 พ.ย. ย้อนหลัง 10 ปี พบเลขท้าย 2 ตัว เคยออกเบิ้ล 44",
+     "url": "https://www.matichon.co.th/economy/news_5976450",
+     "source": "Matichon Online"
+    }
+   ]
+  },
   {
    "kw": "bangladesh vs south africa",
    "traffic": "200+",
    "when": "11월 16일 17:10",
    "news": [
     {
+     "title": "Hridoy ton as Bangladesh reaches 327-6 on 1st day of 1st cricket test vs South Africa, Rabada 5-51",
+     "url": "https://sports.yahoo.com/articles/bangladesh-wins-toss-opts-bat-082837655.html",
+     "source": "Yahoo Sports"
+    },
+    {
      "title": "Rabada: 'We need to be more ruthless'",
      "url": "https://www.cricinfo.com/story/sa-vs-ban-1st-test-kagiso-rabada-we-need-to-be-more-ruthless-1562805",
      "source": "Cricinfo"
-    },
-    {
-     "title": "Tanzid Tamim rues 'unlucky' last-ball dismissal for Towhid Hridoy",
-     "url": "https://www.cricbuzz.com/cricket-news/140923/tanzid-tamim-rues-unlucky-last-ball-dismissal-for-towhid-hridoy-cricbuzzcom",
-     "source": "Cricbuzz"
     }
    ]
   },
   {
    "kw": "южная корея",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 16일 16:50",
    "news": [
     {
@@ -37,7 +54,7 @@
   },
   {
    "kw": "김지수",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 16일 16:40",
    "news": [
     {
@@ -71,7 +88,7 @@
   },
   {
    "kw": "캄보디아",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 16일 16:40",
    "news": [
     {
@@ -97,15 +114,15 @@
      "source": "Yahoo Finance"
     },
     {
-     "title": "Hanwha Investment recommends buying Samsung Electronics in stages from 178,000 won",
-     "url": "https://mbiz.heraldcorp.com/article/10929187",
-     "source": "헤럴드경제"
+     "title": "Samsung Electronics (KOSE:A005930) Stock Dropped, So What Is Driving Attention Today?",
+     "url": "https://simplywall.st/stocks/kr/tech/kose-a005930/samsung-electronics-shares/news/samsung-electronics-kosea005930-stock-dropped-so-what-is-dri",
+     "source": "Simply Wall St"
     }
    ]
   },
   {
    "kw": "검찰",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 16일 16:30",
    "news": [
     {
@@ -117,6 +134,23 @@
      "title": "‘대형 기업수사’ 연내 처분…중수청에 안넘긴다",
      "url": "https://www.sedaily.com/article/20114551",
      "source": "서울경제"
+    }
+   ]
+  },
+  {
+   "kw": "(주)명륜당",
+   "traffic": "200+",
+   "when": "11월 16일 16:20",
+   "news": [
+    {
+     "title": "[속보]서울중수청, ‘대부업체 부당지원 의혹’ 명륜진사갈비 압수수색",
+     "url": "https://www.khan.co.kr/article/202611161016001",
+     "source": "경향신문"
+    },
+    {
+     "title": "[단독] 중수청 1호 기업 수사… ‘이자 장사 의혹’ 명륜당 압수수색",
+     "url": "https://m.go.seoul.co.kr/news/society/2026/11/17/20261117010001",
+     "source": "서울Pn"
     }
    ]
   },
@@ -134,40 +168,6 @@
      "title": "최동석, 박지윤 지인 상대 상간 소송 항소심 일부 승소",
      "url": "https://www.hankyung.com/article/2026111695337",
      "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "(주)명륜당",
-   "traffic": "200+",
-   "when": "11월 16일 16:20",
-   "news": [
-    {
-     "title": "[속보]서울중수청, ‘대부업체 부당지원 의혹’ 명륜진사갈비 압수수색",
-     "url": "https://www.khan.co.kr/article/202611161016001",
-     "source": "경향신문"
-    },
-    {
-     "title": "중수청, '내부거래 의혹' 명륜당 본사 압수수색",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6865933_36918.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "tvn",
-   "traffic": "100+",
-   "when": "11월 16일 16:10",
-   "news": [
-    {
-     "title": "Magda Adamowicz przekazała radosną wiadomość za pośrednictwem mediów społecznościowych. Prezenterka TVN24 właśnie została mamą — na świat przyszła dziewczynka. Link w komentarzu",
-     "url": "https://www.facebook.com/plejadapl/posts/magda-adamowicz-przekaza%C5%82a-radosn%C4%85-wiadomo%C5%9B%C4%87-za-po%C5%9Brednictwem-medi%C3%B3w-spo%C5%82eczno%C5%9Bc/1586136566875133/",
-     "source": "Facebook"
-    },
-    {
-     "title": "Pogodynka TVN podzieliła się swoim szczęściem. „Jest już z nami”. Gratulacje płyną z całej Polski",
-     "url": "https://www.rmf.fm/rozrywka/news,n1026244,pogodynka-tvn-podzielila-sie-swoim-szczesciem-jest-juz-z-nami-gratulacje-plyna-z-calej-polski.html",
-     "source": "RMF FM"
     }
    ]
   }
