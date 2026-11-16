@@ -1,9 +1,145 @@
 {
- "updated": "2026-11-17 07:23",
+ "updated": "2026-11-17 08:23",
  "items": [
   {
-   "kw": "thời tiết",
+   "kw": "nvda",
+   "traffic": "500+",
+   "when": "11월 17일 07:20",
+   "news": [
+    {
+     "title": "Retail investors scoop up Nvidia shares, betting 427.1 billion won after Jensen Huang's exit",
+     "url": "https://www.mt.co.kr/en/stock/2026/11/16/2026111611365557170",
+     "source": "머니투데이"
+    },
+    {
+     "title": "As Nvidia's stock price fell to a new 52-week low due to the sudden resignation of Nvidia CEO Jensen..",
+     "url": "https://www.mk.co.kr/en/stock/12210183",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "앤트로픽 상장일",
+   "traffic": "200+",
+   "when": "11월 17일 07:20",
+   "news": [
+    {
+     "title": "121조 노리는 앤트로픽 IPO...중국·홍콩 기관투자자 청약 배제",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611161600490528",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "美 로펌 앤트로픽 지분 받아 ‘잭팟’… “돈 대신 주식 달라” 국내도 확산",
+     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229146",
+     "source": "법률신문"
+    }
+   ]
+  },
+  {
+   "kw": "스마트글래스",
+   "traffic": "100+",
+   "when": "11월 17일 07:10",
+   "news": [
+    {
+     "title": "삼성전자, 구글·젠틀몬스터·워비파커와 협업한 인텔리전트 아이웨어 전격 공개 - 삼성전자 뉴스룸",
+     "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B5%AC%EA%B8%80%C2%B7%EC%A0%A0%ED%8B%80%EB%AA%AC%EC%8A%A4%ED%84%B0%C2%B7%EC%9B%8C%EB%B9%84%ED%8C%8C%EC%BB%A4%EC%99%80-%ED%98%91%EC%97%85%ED%95%9C-%EC%9D%B8",
+     "source": "samsung.com"
+    },
+    {
+     "title": "'일반 안경처럼 만들었더니'…패션계, AI 안경 논란에 전전긍긍",
+     "url": "https://www.yna.co.kr/view/AKR20261116167400030",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "환승",
    "traffic": "1000+",
+   "when": "11월 17일 07:00",
+   "news": [
+    {
+     "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "추미애 경기지사, 42조1946억원 본예산안 설명…정부·국회에 재정대책 촉구",
+     "url": "https://www.etnews.com/20261117000004",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "날씨",
+   "traffic": "200000+",
+   "when": "11월 17일 06:40",
+   "news": [
+    {
+     "title": "“출근길 우산 챙기세요”····전국 대체로 흐리고 비",
+     "url": "https://www.khan.co.kr/article/202611170742001",
+     "source": "경향신문"
+    },
+    {
+     "title": "강원, 대체로 흐리고 비…낮 최고 16도",
+     "url": "https://www.yna.co.kr/view/AKR20261117009000062",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "부산날씨",
+   "traffic": "100+",
+   "when": "11월 17일 06:40",
+   "news": [
+    {
+     "title": "부산·울산·경남 흐리고 아침까지 비…밤부터 가끔 비",
+     "url": "https://www.yna.co.kr/view/AKR20261117008900052",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[오늘의 날씨] 2026년 11월 17일",
+     "url": "https://www.chosun.com/national/national_general/2026/11/17/B2O5CFOV3JEZDKXM6O4ZWGXV7I/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "weather",
+   "traffic": "5000+",
+   "when": "11월 17일 06:30",
+   "news": [
+    {
+     "title": "Sunny & Warm Weather This Week",
+     "url": "https://www.wlfi.com/2026/11/16/sunny-warm-weather-this-week/",
+     "source": "WLFI"
+    },
+    {
+     "title": "Sunday Night Forecast 11/15/2026",
+     "url": "https://krcgtv.com/weather/video/sunday-night-forecast-11152026?teaserSource=trending",
+     "source": "KRCG"
+    }
+   ]
+  },
+  {
+   "kw": "황보라",
+   "traffic": "500+",
+   "when": "11월 17일 06:30",
+   "news": [
+    {
+     "title": "황보라 子, 놀이공원서 바지 탈의 후 활보 \"이건 안 돼\"(보라이어티)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MUZDQMZXGJQTKNJSGZQTSMLBGU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "황보라, 2살 아들 롯데월드서 바지 훌렁…“이건 안 돼” 당황",
+     "url": "https://sports.donga.com/ent/article/all/20261117/135036009/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "kw": "thời tiết",
+   "traffic": "2000+",
    "when": "11월 17일 06:20",
    "news": [
     {
@@ -20,7 +156,7 @@
   },
   {
    "kw": "погода",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 17일 06:20",
    "news": [
     {
@@ -32,142 +168,6 @@
      "title": "Снег на подходе: погода в Москве и Подмосковье 16-22 ноября",
      "url": "https://rtvi.com/news/sneg-na-podhode-pogoda-v-moskve-i-podmoskove-16-22-noyabrya/",
      "source": "RTVI"
-    }
-   ]
-  },
-  {
-   "kw": "germany vs netherlands",
-   "traffic": "200+",
-   "when": "11월 17일 06:20",
-   "news": [
-    {
-     "title": "Preview: Germany vs Netherlands - prediction, team news, lineups",
-     "url": "https://www.sportsmole.co.uk/football/germany/uefa-nations-league/preview/germany-vs-netherlands-prediction-team-news-lineups_609122.html",
-     "source": "Sports Mole"
-    },
-    {
-     "title": "Licensable picture: Germany vs Netherlands, UEFA Nations League, League A, Group 2, 16 November 2026",
-     "url": "https://www.reutersconnect.com/item/germany-vs-netherlands-uefa-nations-league-league-a-group-2-16-november-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZUlBXSUM",
-     "source": "Reuters Connect"
-    }
-   ]
-  },
-  {
-   "kw": "天气",
-   "traffic": "500+",
-   "when": "11월 17일 06:20",
-   "news": [
-    {
-     "title": "布宜诺斯艾利斯天气：多云，最高气温25°C，今晚因冷锋有75%的降雨概率，日期为11月16日。",
-     "url": "https://noticiasambientales.com/environment-zh/%E5%B8%83%E5%AE%9C%E8%AF%BA%E6%96%AF%E8%89%BE%E5%88%A9%E6%96%AF%E5%A4%A9%E6%B0%94%EF%BC%9A%E5%A4%9A%E4%BA%91%EF%BC%8C%E6%9C%80%E9%AB%98%E6%B0%94%E6%B8%A925c%EF%BC%8C%E4%BB%8A%E6%99%9A%E5%9B%A0/",
-     "source": "Noticias Ambientales"
-    },
-    {
-     "title": "AMBA高温高湿：本周不稳定，周一起有降雨，气温接近30°C",
-     "url": "https://noticiasambientales.com/environment-zh/amba%E9%AB%98%E6%B8%A9%E9%AB%98%E6%B9%BF%EF%BC%9A%E6%9C%AC%E5%91%A8%E4%B8%8D%E7%A8%B3%E5%AE%9A%EF%BC%8C%E5%91%A8%E4%B8%80%E8%B5%B7%E6%9C%89%E9%99%8D%E9%9B%A8%EF%BC%8C%E6%B0%94%E6%B8%A9%E6%8E%A5/",
-     "source": "Noticias Ambientales"
-    }
-   ]
-  },
-  {
-   "kw": "สภาพอากาศ",
-   "traffic": "2000+",
-   "when": "11월 17일 06:10",
-   "news": [
-    {
-     "title": "สภาพอากาศวันนี้ -22 พ.ย.ไทยตอนบนอุณหภูมิลด ใต้ฝนเพิ่ม ฝนหนักบางแห่ง",
-     "url": "https://www.thansettakij.com/general-news/673912",
-     "source": "Thansettakij"
-    },
-    {
-     "title": "ประจำวันที่ 16 พฤศจิกายน 2569 23.00 น.",
-     "url": "https://www.tmd.go.th/forecast/daily/171120260000",
-     "source": "กรมอุตุนิยมวิทยา"
-    }
-   ]
-  },
-  {
-   "kw": "범죄",
-   "traffic": "1000+",
-   "when": "11월 17일 06:10",
-   "news": [
-    {
-     "title": "이재명 대통령, 아세안 및 APEC 정상회의 참석(11.16.~11.19.) - 전체 | 카드/한컷 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975751&pWise=sub&pWiseSub=R6",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "\"아세안 교역 3천억 불 시대로\"‥오늘 한일회담",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866142_37012.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "아리바이오",
-   "traffic": "100+",
-   "when": "11월 17일 06:00",
-   "news": [
-    {
-     "title": "[속보] 아리바이오 AR1001, AD 3상 전체 환자선 '부족'…단독투여군서 1차 지표 '충족'",
-     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80835",
-     "source": "히트뉴스"
-    },
-    {
-     "title": "[속보] 아리바이오 먹는 치매약, 임상 3상 단독투여군서 1차 목표 달성",
-     "url": "https://biz.chosun.com/science-chosun/bio/2026/11/17/ZTCAEWWBWVGF7KGM2ATNWGT2QY/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "코트",
-   "traffic": "500+",
-   "when": "11월 17일 05:50",
-   "news": [
-    {
-     "title": "겨울에 '이것' 없으면 코트 잘못 입는 거예요",
-     "url": "https://www.elle.co.kr/article/1912922",
-     "source": "엘르 코리아 │ ELLE KOREA"
-    },
-    {
-     "title": "'싹둑' 잘랐더니 인기 폭발…여성 아이돌 푹 빠진 패션 뭐길래 [박수림의 트렌딧(Trend:it)]",
-     "url": "https://www.hankyung.com/article/202611169751g",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "항공모함",
-   "traffic": "200+",
-   "when": "11월 17일 05:50",
-   "news": [
-    {
-     "title": "루스벨트함도 중동 도착…이란 주변에 미 항모 3척 집결",
-     "url": "https://www.yna.co.kr/view/AKR20261116162100009",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "종전협상 교착에 중동 다시 격랑···이란, 바레인 미군기지 공격·미군 핵추진 항모 중동으로",
-     "url": "https://www.khan.co.kr/article/202611161542001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "일기예보",
-   "traffic": "100+",
-   "when": "11월 17일 05:40",
-   "news": [
-    {
-     "title": "[기고]더 잦아지는 위험기상, 울산기상지청이 필요하다",
-     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072676",
-     "source": "경상일보"
-    },
-    {
-     "title": "작업장 온열질환 비율, 울산 62.3% 전국최고",
-     "url": "http://www.ulsanilbo.co.kr/news/articleView.html?idxno=121637",
-     "source": "울산일보"
     }
    ]
   }
