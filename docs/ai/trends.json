@@ -1,9 +1,134 @@
 {
- "updated": "2026-11-16 12:23",
+ "updated": "2026-11-16 13:22",
  "items": [
   {
-   "kw": "예멘",
+   "kw": "개헌",
    "traffic": "100+",
+   "when": "11월 16일 12:10",
+   "news": [
+    {
+     "title": "\"내년이 개헌 적기\" 조정식, ‘김형오·정세균’ 자문위 띄웠다",
+     "url": "https://news.jtbc.co.kr/article/NB12328233",
+     "source": "JTBC"
+    },
+    {
+     "title": "장동혁 \"조정식, 개헌까지 '李 탈옥' 도구로…뭘 내놓든 안 속아\" - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/16/2026111611433520064",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "kb증권",
+   "traffic": "100+",
+   "when": "11월 16일 12:10",
+   "news": [
+    {
+     "title": "KB증권 \"삼성전자, 脫엔비디아 시대 최대 수혜주\"",
+     "url": "https://www.chosun.com/economy/money/2026/11/16/UVQKUCAVFBAG3BMHNWSCJ34BGI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "82% 올라야 본전인데...\"반등하면 바로 판다\" 코스피 발목 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/16/2026111610260966180",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "굿네이버스",
+   "traffic": "500+",
+   "when": "11월 16일 12:00",
+   "news": [
+    {
+     "title": "“사랑 밖에는 답이 없다”…이호선 교수, 모친상 조의금 1억원 기부",
+     "url": "https://www.mk.co.kr/news/hot-issues/12209690",
+     "source": "매일경제"
+    },
+    {
+     "title": "이호선 교수, 모친상 조의금 1억90만원 굿네이버스에 기부",
+     "url": "https://www.yna.co.kr/view/AKR20261116048700371",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "이무생",
+   "traffic": "1000+",
+   "when": "11월 16일 11:50",
+   "news": []
+  },
+  {
+   "kw": "한소희",
+   "traffic": "200+",
+   "when": "11월 16일 11:50",
+   "news": [
+    {
+     "title": "한소희 3종 커버, 콘트리트 위에 피어난 꽃처럼",
+     "url": "https://www.elle.co.kr/article/1913112",
+     "source": "엘르 코리아 │ ELLE KOREA"
+    },
+    {
+     "title": "한소희 “내가 짊어진 무게 알아…매 작품마다 조금씩 레벨업” [화보]",
+     "url": "https://sports.donga.com/ent/article/all/20261116/135029829/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "kw": "담합",
+   "traffic": "2000+",
+   "when": "11월 16일 11:40",
+   "news": [
+    {
+     "title": "D램 담합소송, 미국 법원이 삼성·SK하이닉스의 기각 요청을 받아들이지 않았다",
+     "url": "https://contents.premium.naver.com/kny486kjh/kny486/contents/261115232143218lq",
+     "source": "네이버 프리미엄콘텐츠"
+    },
+    {
+     "title": "삼성·SK하이닉스·마이크론, D램 700% 폭등 담합 소송서 \"AI 수요 탓\" 정면 반박",
+     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611141956134528fbbec65dfb_1",
+     "source": "글로벌이코노믹"
+    }
+   ]
+  },
+  {
+   "kw": "한화그룹",
+   "traffic": "500+",
+   "when": "11월 16일 11:40",
+   "news": [
+    {
+     "title": "삼성·SK·네이버가 샀지만…한화 100억대 초호화 레지던스 절반 미분양",
+     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/13/2026111301362.html",
+     "source": "땅집고"
+    },
+    {
+     "title": "[단독]한화 김동관의 200억대 레지던스 분양률 40%, 누가 샀나",
+     "url": "https://namdi.co.kr/?p=30117",
+     "source": "남다른디테일"
+    }
+   ]
+  },
+  {
+   "kw": "주가조작",
+   "traffic": "2000+",
+   "when": "11월 16일 11:30",
+   "news": [
+    {
+     "title": "[속보] 대법, 한덕수 ‘내란 혐의’ 19일 선고…구속 만료 하루 전 결론",
+     "url": "https://www.khan.co.kr/article/202611161012021",
+     "source": "경향신문"
+    },
+    {
+     "title": "與, 한덕수 선고기일 지정에 \"만시지탄\"…정청래는 \"조희대 탄핵\" - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/16/2026111611402671364",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "예멘",
+   "traffic": "200+",
    "when": "11월 16일 11:10",
    "news": [
     {
@@ -20,143 +145,18 @@
   },
   {
    "kw": "청주시",
-   "traffic": "100+",
-   "when": "11월 16일 11:10",
-   "news": []
-  },
-  {
-   "kw": "조선민주주의인민공화국",
    "traffic": "200+",
    "when": "11월 16일 11:10",
    "news": [
     {
-     "title": "[특별기고] 태권도 문화유산 북한 등재가 남긴 교훈",
-     "url": "https://biz.heraldcorp.com/article/10938413",
-     "source": "헤럴드경제"
+     "title": "청주시 하수처리시설 '에너지·물 생산 시설'로 진화 중",
+     "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/16/2026111650021.html",
+     "source": "뉴데일리 충청세종"
     },
     {
-     "title": "태권도 5개 기관·KOREA 유네스코 추진단, 공동 입장문 발표… “태권도 남북 공동등재 반드시 추진해야”",
-     "url": "https://www.gtntv.co.kr/news/articleView.html?idxno=64319",
-     "source": "https://www.gtntv.co.kr/"
-    }
-   ]
-  },
-  {
-   "kw": "이재명",
-   "traffic": "500+",
-   "when": "11월 16일 10:50",
-   "news": [
-    {
-     "title": "[일요진단 라이브] 조작기소 특검…첫 법무장관의 우려",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8713077",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "국힘, 특검법 '거부권' 행사 촉구‥\"오늘이 법치주의 마지막\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6865928_36911.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "우주",
-   "traffic": "200+",
-   "when": "11월 16일 10:50",
-   "news": [
-    {
-     "title": "‘우주의 새벽’은 어떻게 열렸나…슈퍼컴이 재현한 빅뱅 후 20억년",
-     "url": "https://www.hani.co.kr/arti/science/science_general/1287480.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "초기 우주에 대한 가장 상세한 모델이 공개되었습니다.",
-     "url": "https://www.vietnam.vn/ko/cong-bo-mo-hinh-chi-tiet-nhat-tu-truoc-den-nay-ve-vu-tru-so-khai",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "무역",
-   "traffic": "500+",
-   "when": "11월 16일 10:20",
-   "news": [
-    {
-     "title": "[백서인의 중국 과학기술 굴기] 사다리 걷어차기 시작한 중국의 과학기술 굴기",
-     "url": "https://www.joongang.co.kr/article/25478848",
-     "source": "중앙일보"
-    },
-    {
-     "title": "\"美 상무장관, AI칩 규제 대상 축소 추진…가족 회사 고객도 영향권\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444910",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "kw": "즉석밥",
-   "traffic": "500+",
-   "when": "11월 16일 10:10",
-   "news": [
-    {
-     "title": "CJ제일제당, 햇반 30주년 기념 한정판 신제품 ‘햇반 30곡밥’ 출시 – CJ 뉴스룸",
-     "url": "https://cjnews.cj.net/cj%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%8B%B9-%ED%96%87%EB%B0%98-30%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90-%ED%95%9C%EC%A0%95%ED%8C%90-%EC%8B%A0%EC%A0%9C%ED%92%88-%ED%96%87%EB%B0%98-30%EA%B3%A1/",
-     "source": "CJ 뉴스룸"
-    },
-    {
-     "title": "현미·귀리 등 30가지 곡물 배합…햇반 30주년 한정판 ‘햇반 30곡밥’ 출시",
-     "url": "https://www.donga.com/news/Economy/article/all/20261116/135030711/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "이현중",
-   "traffic": "500+",
-   "when": "11월 16일 10:00",
-   "news": [
-    {
-     "title": "이현중, G리그서 커리어 하이 폭발…NBA 향한 ‘무력시위’",
-     "url": "https://www.kyeonggi.com/article/20261115580211",
-     "source": "경기일보"
-    },
-    {
-     "title": "'3점슛 성공률 57.1％' 국가대표 이현중, '21점' G리그 진출 뒤 최다 득점 폭발",
-     "url": "https://www.chosun.com/sports/basketball/2026/11/15/GA2GMZJWHFRTKYRQHE3GMNJUMU/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "공모",
-   "traffic": "100+",
-   "when": "11월 16일 10:00",
-   "news": [
-    {
-     "title": "삼성바이오, 2.7조원 유증 성공…청약증거금 11.4조 '역대 최대규모' - 머니투데이",
-     "url": "https://www.mt.co.kr/thebio/2026/11/16/2026111608263796946",
-     "source": "머니투데이"
-    },
-    {
-     "title": "삼성바이오로직스, 유상증자에 11.4조 몰렸다… M&A 자금 확보",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001082",
-     "source": "IT조선"
-    }
-   ]
-  },
-  {
-   "kw": "박혜연",
-   "traffic": "5000+",
-   "when": "11월 16일 09:40",
-   "news": [
-    {
-     "title": "미운 우리 새끼 : [11월 22일 예고] “전 안 돼요?” 김승수, 박혜연에게 진심 담아 조심스럽게 전한 고백",
-     "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483386268?div=live_end",
-     "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "배우♥아나운서 커플 탄생하나..김승수, 박혜연에 고백 \"전 안 돼요?\"",
-     "url": "https://www.sportschosun.com/entertainment/2026-11-16/202611160100101980009422",
-     "source": "스포츠조선"
+     "title": "생활 하수가 버스 연료로…청주에 문 연 현대차그룹 '동네 충전소' [K수소, 녹색성장의 판을 바꾸다]",
+     "url": "https://www.newsis.com/view/NISX20261112_0003865785",
+     "source": "뉴시스"
     }
    ]
   }
