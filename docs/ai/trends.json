@@ -1,26 +1,94 @@
 {
- "updated": "2026-11-17 15:23",
+ "updated": "2026-11-17 16:23",
  "items": [
   {
-   "kw": "소프트웨어",
+   "kw": "한국은행 기준금리",
+   "traffic": "100+",
+   "when": "11월 17일 15:20",
+   "news": [
+    {
+     "title": "씨티 \"한은, 11월 만장일치 25bp 인상 전망…내년 성장률 3.3%\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445173",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "한은, 이달 기준금리 0.25%p 인상 가능성 커져",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1287650.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "kw": "압구정동",
+   "traffic": "2000+",
+   "when": "11월 17일 15:10",
+   "news": [
+    {
+     "title": "\"너무 싸서 못 믿겠다\"…60억 넘던 압구정 아파트에 무슨 일이 [시장톡]",
+     "url": "https://www.hankyung.com/article/2026111351626",
+     "source": "한국경제"
+    },
+    {
+     "title": "압구정동 현대8차 71억5천만원·현대5차 54억원·현대14차 52억6천만원… 강남구 아파트 고가 거래 [MAI부동산]",
+     "url": "https://www.mk.co.kr/news/realestate/12209622",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "와퍼",
+   "traffic": "200+",
+   "when": "11월 17일 15:00",
+   "news": [
+    {
+     "title": "\"8년 전 만우절 콘텐츠가 현실로\"…버거킹, '초콜릿 와퍼' 출시",
+     "url": "https://www.yna.co.kr/view/AKR20261117028800030",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "패티는 브라우니, 피클은 초콜릿…버거킹 '초콜릿 와퍼' 성수서 첫선",
+     "url": "https://www.newsis.com/view/NISX20261117_0003870829",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "구축함",
    "traffic": "500+",
+   "when": "11월 17일 14:30",
+   "news": [
+    {
+     "title": "\"北 신형 구축함, 핵·재래무기 동시 탑재…속도 등 한계\"",
+     "url": "https://www.yna.co.kr/view/AKR20261111084300009",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[위성+] 5000톤급 구축함 ‘강건호’ 마양도 배치, ‘최현호’ 남포항 계류",
+     "url": "https://www.dailynk.com/20261117-2/",
+     "source": "데일리NK"
+    }
+   ]
+  },
+  {
+   "kw": "소프트웨어",
+   "traffic": "1000+",
    "when": "11월 17일 14:20",
    "news": [
     {
-     "title": "Banking users report trouble accessing online services for Chase, Bank of America, Wells Fargo, others",
-     "url": "https://www.foxbusiness.com/money/banking-users-report-trouble-accessing-online-services-chase-bank-america-wells-fargo-others",
-     "source": "Fox Business"
+     "title": "KMS테크놀로지, 테너블·비욘드트러스트와 19일 OT 보안 웨비나",
+     "url": "https://www.ddaily.co.kr/page/view/2026111610152690942",
+     "source": "디지털데일리"
     },
     {
-     "title": "US bank outage: What caused Chase problems and Zelle payment delays?",
-     "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays",
-     "source": "Al Jazeera"
+     "title": "앤앤에스피, 'CPS 시큐어 AX 서밋 2026' 개최",
+     "url": "https://www.etnews.com/20261113000267",
+     "source": "전자신문"
     }
    ]
   },
   {
    "kw": "전두환",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 17일 14:20",
    "news": [
     {
@@ -37,41 +105,41 @@
   },
   {
    "kw": "sri lanka vs pakistan",
-   "traffic": "200+",
+   "traffic": "1000+",
    "when": "11월 17일 14:10",
    "news": [
     {
-     "title": "PAK vs SL, 2nd Test Day 1 LIVE updates: Latest scores, ball-by-ball commentary",
-     "url": "https://sportstar.thehindu.com/cricket/pakistan-vs-sri-lanka-2nd-test-day-1-live-updates-commentary-scores/article71710372.ece",
-     "source": "Sportstar"
+     "title": "Ball by Ball Commentary & Live Score - PAK vs SL, 2nd Test",
+     "url": "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-2nd-test-1550712/ball-by-ball-commentary",
+     "source": "Cricinfo"
     },
     {
-     "title": "Pakistan’s gritty Shakeel again misses out on a century in drawn test against Sri Lanka",
-     "url": "https://apnews.com/article/cricket-pakistan-srilanka-wtc-cb5b1fa2559ee037da211b7e06020a09",
-     "source": "AP News"
+     "title": "Sri Lanka Latest Breaking News and Headlines - Print Edition Sri Lanka and Pakistan draw Test",
+     "url": "https://www.dailymirror.lk/print/sports/Sri-Lanka-and-Pakistan-draw-Test/323-354893",
+     "source": "Daily Mirror - Sri Lanka"
     }
    ]
   },
   {
    "kw": "전남광주통합특별시교육청",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 17일 14:00",
    "news": [
     {
-     "title": "전남광주 교사들 수업 노하우 한자리에…수업나눔페스타 개최",
-     "url": "https://www.yna.co.kr/view/AKR20261117080300054",
-     "source": "연합뉴스"
+     "title": "수능 감독 교사는 수당 17만원인데···전남광주교육청 간부는 최대 330만원 챙겼다",
+     "url": "https://www.khan.co.kr/article/202611171217001",
+     "source": "경향신문"
     },
     {
-     "title": "전남·광주 교실이 하나로…첫 ‘K-교육 수업축제’ 열린다",
-     "url": "https://www.viva100.com/article/20261117500405",
-     "source": "브릿지경제"
+     "title": "수능 감독교사는 수당 17만원 받는데…교육감은 330만원 챙겼다",
+     "url": "https://www.mk.co.kr/news/society/12211185",
+     "source": "매일경제"
     }
    ]
   },
   {
    "kw": "고지용",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 17일 14:00",
    "news": [
     {
@@ -87,87 +155,19 @@
    ]
   },
   {
-   "kw": "조작기소 특검법",
+   "kw": "더플레이",
    "traffic": "500+",
-   "when": "11월 17일 13:40",
+   "when": "11월 17일 13:50",
    "news": [
     {
-     "title": "정부, 총리 주재 국무회의에서 '조작기소 특검법' 의결",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6866240_36911.html",
-     "source": "MBC 뉴스"
+     "title": "'너구리' 장하권, 더플레이와 에이전시 계약 [공식]",
+     "url": "https://www.etoday.co.kr/news/view/2649352",
+     "source": "이투데이"
     },
     {
-     "title": "李 대통령 사건 수사한 전직 검사장 4명 “조작기소 특검법 위헌”…법적 대응 예고",
-     "url": "https://biz.chosun.com/topics/law_firm/2026/11/17/NSLARADBHZCNJBIU4DVGOLY2XA/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "시그니엘 서울",
-   "traffic": "200+",
-   "when": "11월 17일 13:20",
-   "news": [
-    {
-     "title": "84억에 산 메가커피 법인 소유 시그니엘… 오너 일가 주소지로 등재",
-     "url": "https://biz.chosun.com/distribution/food/2026/11/17/UFQAXVG5JRBEXMXPWPSPJNFCUY/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "창업부터 투자·산업까지…시그니엘 서울서 ‘2026 넥스트젠 스타트업 세미나·경제포럼’ 개최",
-     "url": "https://www.ttlnews.com/news/articleView.html?idxno=3163072",
-     "source": "퍼블릭뉴스통신"
-    }
-   ]
-  },
-  {
-   "kw": "실종자",
-   "traffic": "2000+",
-   "when": "11월 17일 13:10",
-   "news": [
-    {
-     "title": "부안 갯벌서 남성 시신 발견…실종자와 신원 대조",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712895",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "갯벌서 발견된 남성 변사체…해경 수사 중",
-     "url": "https://www.nocutnews.co.kr/news/6606902",
-     "source": "노컷뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "잠실 래미안 아이파크",
-   "traffic": "200+",
-   "when": "11월 17일 13:10",
-   "news": [
-    {
-     "title": "잠실 래미안아이파크 3가구 재공급…시세 차익 최대 24억",
-     "url": "https://www.news1.kr/realestate/general/6356521",
-     "source": "뉴스1"
-    },
-    {
-     "title": "잠실서 '20억 로또' 나온다…'잠실래미안아이파크' 3가구 줍줍",
-     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/17/2026111700960.html",
-     "source": "땅집고"
-    }
-   ]
-  },
-  {
-   "kw": "파업",
-   "traffic": "100+",
-   "when": "11월 17일 13:10",
-   "news": [
-    {
-     "title": "'25일 서울 지하철 총파업' 예고한 노조 \"인력감축 철회·임금 인상\"",
-     "url": "https://www.yna.co.kr/view/AKR20261117078100004",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "철도노조, 서울 도심서 결의대회…다음 달 총파업 예고",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712905",
-     "source": "KBS 뉴스"
+     "title": "[단독] '너구리' 장하권, 4년 만의 현역 복귀 타진",
+     "url": "https://www.inven.co.kr/webzine/news/?news=323467",
+     "source": "인벤"
     }
    ]
   }
