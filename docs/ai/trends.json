@@ -1,6 +1,142 @@
 {
- "updated": "2026-11-17 13:23",
+ "updated": "2026-11-17 14:23",
  "items": [
+  {
+   "kw": "실종자",
+   "traffic": "2000+",
+   "when": "11월 17일 13:10",
+   "news": [
+    {
+     "title": "부안 갯벌서 남성 시신 발견…실종자와 신원 대조",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712895",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "“해안가 갯벌에 남성 시신이 있다”…전날 실종자 추정, 수사 나선 해경",
+     "url": "https://www.mk.co.kr/news/society/12208862",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "잠실 래미안 아이파크",
+   "traffic": "200+",
+   "when": "11월 17일 13:10",
+   "news": [
+    {
+     "title": "잠실 래미안아이파크 3가구 재공급…시세 차익 최대 24억",
+     "url": "https://www.news1.kr/realestate/general/6356521",
+     "source": "뉴스1"
+    },
+    {
+     "title": "잠실서 '20억 로또' 나온다…'잠실래미안아이파크' 3가구 줍줍",
+     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/17/2026111700960.html",
+     "source": "땅집고"
+    }
+   ]
+  },
+  {
+   "kw": "파업",
+   "traffic": "100+",
+   "when": "11월 17일 13:10",
+   "news": [
+    {
+     "title": "삼성바이오로직스 노사, 다시 협상 테이블로…17일 교섭 재개",
+     "url": "https://m.ekn.kr/view.php?key=20261116026209845",
+     "source": "에너지경제신문"
+    },
+    {
+     "title": "삼성바이오 노조, 파업 강행에 조합원 200명 이탈…내부 불신 확산",
+     "url": "https://www.news1.kr/bio/pharmaceutical-bio/6356679",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "삼양식품",
+   "traffic": "200+",
+   "when": "11월 17일 13:00",
+   "news": [
+    {
+     "title": "급락장에도 홀로 불기둥…'통 큰 베팅'에 증권가도 주목",
+     "url": "https://www.hankyung.com/article/202611169651i",
+     "source": "한국경제"
+    },
+    {
+     "title": "\"이빨이 아파\" 불닭 미국·유럽 확장…삼양식품 장 초반 5% 강세[핫종목]",
+     "url": "https://www.news1.kr/finance/market-exr/6354875",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "메디게이트뉴스",
+   "traffic": "100+",
+   "when": "11월 17일 13:00",
+   "news": [
+    {
+     "title": "무면허 음주운전으로 면허 잃은 의사, 1심 패소…법원, 위헌 제청 신청도 기각",
+     "url": "https://www.medigatenews.com/news/1491780453",
+     "source": "MEDI:GATE NEWS"
+    },
+    {
+     "title": "[판결] 법원, “음주·무면허운전으로 징역 확정 의사 면허취소는 정당”",
+     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229520",
+     "source": "법률신문"
+    }
+   ]
+  },
+  {
+   "kw": "농구",
+   "traffic": "100+",
+   "when": "11월 17일 13:00",
+   "news": [
+    {
+     "title": "“승부보다 뜨거운 농구 열정”…김포 농구 동호인 900여 명 한자리에",
+     "url": "http://www.joongboo.com/news/articleView.html?idxno=363742724",
+     "source": "중부일보"
+    },
+    {
+     "title": "김포시,제21회 김포시장기 금쌀사랑 종별 생활체육 농구대회 성황리 개최",
+     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=804146",
+     "source": "일간투데이"
+    }
+   ]
+  },
+  {
+   "kw": "김기인",
+   "traffic": "500+",
+   "when": "11월 17일 12:50",
+   "news": [
+    {
+     "title": "젠지, '기인' 김기인ㆍ'캐니언' 김건부 계약 종료 [공식]",
+     "url": "https://www.etoday.co.kr/news/view/2649030",
+     "source": "이투데이"
+    },
+    {
+     "title": "'BLG 우승' 롤드컵 막 내렸다… 폭풍전야 LCK 스토브리그, 탑과 정글로 쏠리는 눈",
+     "url": "https://www.standingout.kr/news/articleView.html?idxno=1907",
+     "source": "https://www.standingout.kr/"
+    }
+   ]
+  },
+  {
+   "kw": "면세점",
+   "traffic": "200+",
+   "when": "11월 17일 12:00",
+   "news": [
+    {
+     "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 단독 출시",
+     "url": "https://www.etnews.com/20261117000220",
+     "source": "전자신문"
+    },
+    {
+     "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 면세점 최초 출시",
+     "url": "https://stock.mk.co.kr/news/view/1200339",
+     "source": "매일경제 마켓"
+    }
+   ]
+  },
   {
    "kw": "담보 대출",
    "traffic": "200+",
@@ -20,7 +156,7 @@
   },
   {
    "kw": "마이클 버리",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 17일 12:00",
    "news": [
     {
@@ -29,145 +165,9 @@
      "source": "연합인포맥스"
     },
     {
-     "title": "‘빅 쇼트’ 버리 “엔비디아 '숏 베팅' 확대…젠슨 황 퇴임 승자는 AMD·브로드컴”",
-     "url": "https://www.g-enews.com/article/Securities/2026/11/202611151346317386e250e8e188_1",
-     "source": "글로벌이코노믹"
-    }
-   ]
-  },
-  {
-   "kw": "면세점",
-   "traffic": "100+",
-   "when": "11월 17일 12:00",
-   "news": [
-    {
-     "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 단독 출시",
-     "url": "https://www.etnews.com/20261117000220",
-     "source": "전자신문"
-    },
-    {
-     "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 면세점 최초 출시",
-     "url": "https://stock.mk.co.kr/news/view/1200339",
-     "source": "매일경제 마켓"
-    }
-   ]
-  },
-  {
-   "kw": "자오창펑",
-   "traffic": "100+",
-   "when": "11월 17일 11:50",
-   "news": [
-    {
-     "title": "자오창펑 바이낸스 CEO \"우린 비트코인 안 팔았다\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03581766645646376",
-     "source": "마켓인"
-    },
-    {
-     "title": "비트코인 추가 폭락 가능성? 지금 시장에서 벌어지는 수상한 움직임",
-     "url": "https://contents.premium.naver.com/net/go/contents/261116154239161xy",
-     "source": "네이버 프리미엄콘텐츠"
-    }
-   ]
-  },
-  {
-   "kw": "김준호",
-   "traffic": "100+",
-   "when": "11월 17일 11:50",
-   "news": [
-    {
-     "title": "'만삭' 김지민, 장롱면허 김준호 대신해 운전대 잡았다",
-     "url": "https://www.newsis.com/view/NISX20261116_0003868998",
-     "source": "뉴시스"
-    },
-    {
-     "title": "'만삭' 김지민이 운전하고 김준호는 조수석에 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111607243073022",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "김선태",
-   "traffic": "2000+",
-   "when": "11월 17일 11:40",
-   "news": [
-    {
-     "title": "AI 안경 쓰고 공무원 시험 본 '충주맨', 25점 받은 이유가",
-     "url": "https://www.hankyung.com/article/2026111708667",
-     "source": "한국경제"
-    },
-    {
-     "title": "김선태, 이번엔 ‘충주냥이’…“공무원 국어 시험 라이브로 풀겠다”",
-     "url": "https://www.koreadaily.com/article/20261116060854028",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "장동혁",
-   "traffic": "1000+",
-   "when": "11월 17일 11:30",
-   "news": [
-    {
-     "title": "장동혁, 한동훈 장인상 조문… 7분간 머물러",
-     "url": "https://www.chosun.com/politics/assembly/2026/11/17/FKM4AA2WCFCCFPYATWVGRER5PI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[여적] ‘최초 특검’ 피의자의 별세",
-     "url": "https://www.khan.co.kr/article/202611161903011",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "장민기",
-   "traffic": "500+",
-   "when": "11월 17일 11:10",
-   "news": [
-    {
-     "title": "'9위 추락' KIA 마운드의 희망이었는데…방출 칼바람에 야구공 놓는다 \"인생에서 가장 빛나는 추억\"",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019982",
-     "source": "SPOTV NEWS"
-    },
-    {
-     "title": "[오피셜] \"타이거즈라는 멋진 팀에서 야구를 할 수 있어 언제나 행복했습니다\" 국대 마무리 조병현보다 먼저 뽑혔던 2001년생 좌완 유망주 장민기, 은퇴 선언",
-     "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553702539",
-     "source": "스포탈코리아"
-    }
-   ]
-  },
-  {
-   "kw": "embassy",
-   "traffic": "100+",
-   "when": "11월 17일 11:10",
-   "news": [
-    {
-     "title": "(LEAD) S. Korea seeks to reconstruct aging embassy in U.S. amid uncertainty over funding",
-     "url": "https://en.yna.co.kr/view/AEN20261116007951315",
-     "source": "Yonhap News Agency"
-    },
-    {
-     "title": "South Korea to rebuild Washington embassy for first time in 70 years at estimated cost of W300b",
-     "url": "https://mbiz.heraldcorp.com/article/10938808",
-     "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "kw": "예비소집일",
-   "traffic": "100+",
-   "when": "11월 17일 11:00",
-   "news": [
-    {
-     "title": "수능 수험생 여러분! 전자기기 가져오지 마세요! - 카드/한컷 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148975450",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "[지지대] 흔들리지 말고 당당하게",
-     "url": "https://www.kyeonggi.com/article/20261116580050",
-     "source": "경기일보"
+     "title": "\"엔비디아, 어떤 가격에도 안 산다\"…빅쇼트 마이클 버리, 추가 악재 경고",
+     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715988",
+     "source": "디지털투데이"
     }
    ]
   }
