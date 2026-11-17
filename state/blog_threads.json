@@ -329,7 +329,8 @@
    "https://blog.naver.com/soduwk1209/224430438694",
    "https://blog.naver.com/soduwk1209/224430428211",
    "https://blog.naver.com/soduwk1209/224430095001",
-   "https://blog.naver.com/soduwk1209/224430088760"
+   "https://blog.naver.com/soduwk1209/224430088760",
+   "https://blog.naver.com/soduwk1209/224430081992"
   ],
   "started": true,
   "v": 2,
@@ -773,7 +774,6 @@
    "https://blog.naver.com/soduwk1209/224476775113"
   ],
   "backlog": [
-   "https://blog.naver.com/soduwk1209/224430081992",
    "https://blog.naver.com/soduwk1209/224430073443",
    "https://blog.naver.com/soduwk1209/224430068730",
    "https://blog.naver.com/soduwk1209/224430060183",
@@ -880,8 +880,8 @@
    "https://blog.naver.com/soduwk1209/224395130362",
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
-  "last_old": 1794906176.4206142,
-  "tone": "친구",
+  "last_old": 1794916977.8595614,
+  "tone": "질문",
   "hooks": [
    "와 임영웅 이런 일이 있었네",
    "화제의 소식",
@@ -1216,7 +1216,8 @@
    "https://blog.naver.com/dkdk521/224479962050",
    "https://blog.naver.com/dkdk521/224479980599",
    "https://blog.naver.com/dkdk521/224479985175",
-   "https://blog.naver.com/dkdk521/224414436891"
+   "https://blog.naver.com/dkdk521/224414436891",
+   "https://blog.naver.com/dkdk521/224479377182"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1826,7 +1827,9 @@
    "https://blog.naver.com/dkdk521/224480495914",
    "https://blog.naver.com/dkdk521/224479962050",
    "https://blog.naver.com/dkdk521/224479980599",
-   "https://blog.naver.com/dkdk521/224479985175"
+   "https://blog.naver.com/dkdk521/224479985175",
+   "https://blog.naver.com/dkdk521/224479377182",
+   "https://blog.naver.com/dkdk521/224479993807"
   ],
   "backlog": [
    "https://blog.naver.com/dkdk521/224414330666",
@@ -2125,7 +2128,7 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1794909777.8429596,
-  "tone": "존댓말",
+  "tone": "짧게",
   "hooks": [
    "화제가 된 이유를 정리했어요",
    "다들 이거 아셨어요?",
@@ -2143,7 +2146,9 @@
    "동메달 근황 정리해봄",
    "손흥민 이야기 듣고 깜짝"
   ],
-  "queue": [],
+  "queue": [
+   "https://blog.naver.com/dkdk521/224479993807"
+  ],
   "reply_ok": true
  }
 }
