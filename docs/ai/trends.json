@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-18 02:23",
+ "updated": "2026-11-18 03:23",
  "items": [
+  {
+   "kw": "데블스플랜",
+   "traffic": "100+",
+   "when": "11월 18일 02:10",
+   "news": [
+    {
+     "title": "정현규, 비난 여론 딛고 '데블스플랜' 새 시즌 합류하더니 공황으로 중도 하차",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020407",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "정현규, 공황 증상으로 '데블스 플랜3' 하차 \"극복했다 생각\"",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525195",
+     "source": "iMBC 연예"
+    }
+   ]
+  },
   {
    "kw": "데블스플랜3",
    "traffic": "1000+",
@@ -20,7 +37,7 @@
   },
   {
    "kw": "탄도 미사일",
-   "traffic": "100+",
+   "traffic": "500+",
    "when": "11월 18일 00:50",
    "news": [
     {
@@ -53,23 +70,6 @@
    ]
   },
   {
-   "kw": "mbk파트너스",
-   "traffic": "100+",
-   "when": "11월 18일 00:30",
-   "news": [
-    {
-     "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
-     "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704",
-     "source": "마켓인"
-    },
-    {
-     "title": "MBK파트너스, 2026 연차총회 개최…내년 해외투자 적극 확대",
-     "url": "https://www.yna.co.kr/view/AKR20261117056600008",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
    "kw": "헝거게임",
    "traffic": "100+",
    "when": "11월 18일 00:00",
@@ -83,23 +83,6 @@
      "title": "연말 극장가 8천억원 블록버스터 전쟁",
      "url": "https://www.mk.co.kr/news/culture/12211334",
      "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "한국",
-   "traffic": "100+",
-   "when": "11월 17일 23:50",
-   "news": [
-    {
-     "title": "트럼프 “한국 투자 덕에 알래스카 LNG 파이프라인 사업 승인”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8715573",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "트럼프 \"한국 투자 덕에 알래스카 LNG 사업 승인\" - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/18/2026111800590440197",
-     "source": "머니투데이"
     }
    ]
   },
@@ -131,9 +114,9 @@
      "source": "한국경제"
     },
     {
-     "title": "장인화 “기술력이 성과 원동력”…‘트리플코어’ 역량 강화 주문",
-     "url": "https://www.newstomato.com/readnews.aspx?no=1320059",
-     "source": "뉴스토마토"
+     "title": "장인화의 '선택과 집중' 통했다 … 2.2조 실탄 확보하고 리튬은 8년만에 흑자 전환",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100053.html",
+     "source": "뉴데일리 경제"
     }
    ]
   },
@@ -160,14 +143,31 @@
    "when": "11월 17일 23:00",
    "news": [
     {
-     "title": "[속보] 경북 상주시 북서쪽 22km 지역서 규모 3.7 지진 발생",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755162",
-     "source": "국제뉴스"
+     "title": "경북 상주 규모 3.6 지진…유감 신고 16건",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8715579",
+     "source": "KBS 뉴스"
     },
     {
      "title": "원안위 \"상주 인근 규모 3.6 지진, 원자로 안전에 영향 없어\"",
      "url": "https://www.yna.co.kr/view/AKR20261118002600017",
      "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "mbc",
+   "traffic": "200+",
+   "when": "11월 17일 23:00",
+   "news": [
+    {
+     "title": "بدء عرض الموسم الجديد من توب شيف مطلع ديسمبر المقبل باشتراك نجوم الوطن العربي",
+     "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=15112026&id=1c40ef7d-5f0d-4f0b-bf2a-5e9715d9f868",
+     "source": "بوابة الشروق"
+    },
+    {
+     "title": "موعد عرض توب شيف الموسم العاشر 2026.. انطلاق Top Chef VIP بمشاركة نجوم الفن",
+     "url": "https://roayahnews.com/%D9%85%D9%88%D8%B9%D8%AF-%D8%B9%D8%B1%D8%B6-%D8%AA%D9%88%D8%A8-%D8%B4%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D8%B1-2026-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82/",
+     "source": "شبكة رؤية الإخبارية"
     }
    ]
   }
