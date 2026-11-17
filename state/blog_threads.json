@@ -1217,7 +1217,8 @@
    "https://blog.naver.com/dkdk521/224479980599",
    "https://blog.naver.com/dkdk521/224479985175",
    "https://blog.naver.com/dkdk521/224414436891",
-   "https://blog.naver.com/dkdk521/224479377182"
+   "https://blog.naver.com/dkdk521/224479377182",
+   "https://blog.naver.com/dkdk521/224479993807"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -2128,7 +2129,7 @@
    "https://blog.naver.com/dkdk521/223021978335"
   ],
   "last_old": 1794909777.8429596,
-  "tone": "짧게",
+  "tone": "질문",
   "hooks": [
    "화제가 된 이유를 정리했어요",
    "다들 이거 아셨어요?",
@@ -2146,9 +2147,7 @@
    "동메달 근황 정리해봄",
    "손흥민 이야기 듣고 깜짝"
   ],
-  "queue": [
-   "https://blog.naver.com/dkdk521/224479993807"
-  ],
+  "queue": [],
   "reply_ok": true
  }
 }
