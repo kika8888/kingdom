@@ -1,26 +1,123 @@
 {
- "updated": "2026-11-17 19:23",
+ "updated": "2026-11-17 20:23",
  "items": [
   {
-   "kw": "singapore vs brazil",
+   "kw": "심우정",
+   "traffic": "1000+",
+   "when": "11월 17일 19:20",
+   "news": [
+    {
+     "title": "노만석 \"尹 구속 취소, 법원 결정에 불만 있어도 석방하자는 게 검찰 다수 의견\"",
+     "url": "https://www.chosun.com/national/court_law/2026/11/17/GXOJ6QZHIZELZACVJNNH3NKK7Q/",
+     "source": "조선일보"
+    },
+    {
+     "title": "노만석 “참모들, 尹 구속취소 법원 결정 따르자는 의견 다수”",
+     "url": "https://www.seoul.co.kr/news/society/2026/11/17/20261117500364",
+     "source": "서울신문"
+    }
+   ]
+  },
+  {
+   "kw": "권순우",
    "traffic": "500+",
+   "when": "11월 17일 19:10",
+   "news": []
+  },
+  {
+   "kw": "로베르트 모레노",
+   "traffic": "1000+",
+   "when": "11월 17일 19:10",
+   "news": [
+    {
+     "title": "모레노 축구대표팀 임시 감독, 카타르전 이후 스페인 귀국",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6866318_36946.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "“임시 사령탑 한계” 선수단도 불안한데… 축협, 모레노 ‘연장 딜레마’",
+     "url": "https://sports.khan.co.kr/article/202611171606003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "미스터트롯3",
+   "traffic": "500+",
+   "when": "11월 17일 19:00",
+   "news": [
+    {
+     "title": "‘미스터트롯3’ TOP7, 서울서 투어 피날레…“끝 아닌 새로운 시작”",
+     "url": "https://www.mk.co.kr/news/musics/12211506",
+     "source": "매일경제"
+    },
+    {
+     "title": "김용빈·손빈아·천록담 등 '미스터트롯3' 전국투어 대구..신곡 '살아보니' 떼창→3시간 압도 성료",
+     "url": "https://www.starnewskorea.com/music/2026/11/10/2026111008265428947",
+     "source": "스타뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "원주 db 대 안양 정관장",
+   "traffic": "500+",
+   "when": "11월 17일 18:50",
+   "news": []
+  },
+  {
+   "kw": "농협은행",
+   "traffic": "200+",
+   "when": "11월 17일 18:50",
+   "news": [
+    {
+     "title": "NH농협은행, 올원뱅크에 시니어 메뉴 '올원더풀' 오픈 - 머니투데이",
+     "url": "https://www.mt.co.kr/finance/2026/11/17/2026111708391285471",
+     "source": "머니투데이"
+    },
+    {
+     "title": "농협은행, 시니어 금융·생활 서비스 한곳에",
+     "url": "https://www.fnnews.com/news/202611170916139937",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "심정지",
+   "traffic": "500+",
+   "when": "11월 17일 18:40",
+   "news": [
+    {
+     "title": "심정지 6개월 아기, 아빠 심폐소생술과 구급대가 함께 살렸다",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611171130221P4",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "분유먹고 심정지 생후 6개월 아기…구급대 응급처치로 회복",
+     "url": "https://www.yna.co.kr/view/AKR20261117064500051",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "singapore vs brazil",
+   "traffic": "1000+",
    "when": "11월 17일 18:20",
    "news": [
     {
-     "title": "Preview: Singapore vs Brazil - prediction, team news, lineups",
-     "url": "https://www.sportsmole.co.uk/football/singapore/preview/singapore-vs-brazil-prediction-team-news-lineups_609180.html",
-     "source": "Sports Mole"
+     "title": "How to Watch Singapore vs. Brazil on TV, Live Stream",
+     "url": "https://www.si.com/soccer/how-to-watch-singapore-vs-brazil-tv-live-stream-11-17-26",
+     "source": "Sports Illustrated"
     },
     {
-     "title": "Lions’ man for big moments Shawal Anuar eyeing ‘dream come true’ run-out against Brazil",
-     "url": "https://www.straitstimes.com/sport/football/lions-man-for-big-moments-shawal-anuar-eyeing-dream-come-true-run-out-against-brazil",
-     "source": "The Straits Times"
+     "title": "Vini Jr nets hat-trick in 20 minutes as Brazil head for big win",
+     "url": "https://sports.yahoo.com/articles/vini-jr-nets-hat-trick-102800288.html",
+     "source": "Yahoo Sports"
     }
    ]
   },
   {
    "kw": "싱가포르 대 브라질",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 17일 18:10",
    "news": [
     {
@@ -36,25 +133,8 @@
    ]
   },
   {
-   "kw": "축구 감독",
-   "traffic": "200+",
-   "when": "11월 17일 18:10",
-   "news": [
-    {
-     "title": "모레노 축구대표팀 임시 감독, 카타르전 이후 스페인 귀국",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6866318_36946.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "모레노 감독, 카타르전 마친 뒤 고향 스페인으로 귀국",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261117153919gK3",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
    "kw": "파운드리",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 17일 18:00",
    "news": [
     {
@@ -63,100 +143,9 @@
      "source": "경향신문"
     },
     {
-     "title": "[중국증시-마감] 美 AI 반도체 규제 여파 속 하락",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445206",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "kw": "พีท พีระ",
-   "traffic": "200+",
-   "when": "11월 17일 18:00",
-   "news": []
-  },
-  {
-   "kw": "박선주",
-   "traffic": "2000+",
-   "when": "11월 17일 17:50",
-   "news": [
-    {
-     "title": "박선주, 강레오와 7년 별거...\"남친 생겼다\" 정체에 폭소 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111709154313897",
-     "source": "머니투데이"
-    },
-    {
-     "title": "'결혼 16년 차' 박선주, 2년 된 남사친 고백…\"사춘기 딸 고민도 나눠\" (탐비)",
-     "url": "https://biz.chosun.com/entertainment/tv/2026/11/16/G5SWMNZWGAZDINTFG4YDSZRUGQ/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "bangladesh vs south africa",
-   "traffic": "100+",
-   "when": "11월 17일 17:40",
-   "news": [
-    {
-     "title": "Ball by Ball Commentary & Live Score - SA vs BAN, 1st Test",
-     "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-1st-test-1525662/ball-by-ball-commentary",
-     "source": "Cricinfo"
-    },
-    {
-     "title": "A tale of two centuries, a near miss, and two dads",
-     "url": "https://www.cricbuzz.com/cricket-news/140932/a-tale-of-two-centuries-a-near-miss-and-two-dads-cricbuzzcom",
-     "source": "Cricbuzz"
-    }
-   ]
-  },
-  {
-   "kw": "경제성장",
-   "traffic": "100+",
-   "when": "11월 17일 17:30",
-   "news": [
-    {
-     "title": "IMF, 올해 우리나라 성장률 3.9% 전망…내년엔 3.3%",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975912&pWise=sub&pWiseSub=C1",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "기자 질문 받는 코린 들레샤 단장",
-     "url": "https://www.newsis.com/view/NISI20261117_0021535578",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "최지훈",
-   "traffic": "200+",
-   "when": "11월 17일 17:20",
-   "news": [
-    {
-     "title": "'미쳤다' 구자욱 FA 200억 현실로? 영입 절실한 감독 등장! \"모든 분들이 타선 보강 원해, 구단도 최선 다하겠다고…\" [오!쎈 미야자키]",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/17/MMYTCN3FMQYTEMLFGNSTSODDMY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "“두산서 은퇴하고 싶었다” 39살 양의지, 2년 최대 55억 FA 계약",
-     "url": "https://www.hani.co.kr/arti/sports/baseball/1287664.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "이재명 수능",
-   "traffic": "200+",
-   "when": "11월 17일 17:20",
-   "news": [
-    {
-     "title": "이 대통령, 필리핀 현지서 ‘수능시험 비상 점검회의’ 주재",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8715067",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "[현장연결] 이 대통령, 아세안서 日 다카이치와 정상회담",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261117190932z6I",
-     "source": "연합뉴스TV"
+     "title": "Nvidia, 중국 기업에 절반 이상 임대하는 데이터센터에 칩 판매 중단",
+     "url": "https://kr.investing.com/news/stock-market-news/article-2179025",
+     "source": "Investing.com 한국어"
     }
    ]
   }
