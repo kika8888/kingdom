@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-17 21:23",
+ "updated": "2026-11-17 22:10",
  "items": [
+  {
+   "kw": "비니시우스 주니오르",
+   "traffic": "100+",
+   "when": "11월 17일 21:00",
+   "news": [
+    {
+     "title": "'충격 고백' 비니시우스 \"부진 이유? 휴가 즐기느라 훈련 덜 했다\"... 레알 주급 2위인데, 팬들은 '부글부글' - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/17/2026111717485771629",
+     "source": "머니투데이"
+    },
+    {
+     "title": "브라질 비니시우스가 밝힌 부진 이유…\"월드컵 탈락 충격\"",
+     "url": "https://www.newsis.com/view/NISX20261117_0003872197",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "gta6 출시일",
+   "traffic": "200+",
+   "when": "11월 17일 20:50",
+   "news": [
+    {
+     "title": "출시 이틀 앞둔 ‘GTA6’, 사전예약 1500만장 육박…매출 2조원 달해",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/17/Y2MS2PYBSVAT7KRSMUY6X7BCSI/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "“이게 게임이라고?”…실사 같은 'GTA 6' 영상",
+     "url": "https://www.etnews.com/20261113000179",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "미스터트롯",
+   "traffic": "1000+",
+   "when": "11월 17일 20:40",
+   "news": [
+    {
+     "title": "‘미스터트롯3’ TOP7, 서울서 투어 피날레…“끝 아닌 새로운 시작”",
+     "url": "https://www.mk.co.kr/news/musics/12211506",
+     "source": "매일경제"
+    },
+    {
+     "title": "‘미스터트롯3’ TOP7, 서울 콘서트 마무리… 투어 마무리 소감은?",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193818",
+     "source": "금강일보"
+    }
+   ]
+  },
   {
    "kw": "mbk 파트너스",
    "traffic": "100+",
@@ -36,14 +87,14 @@
     },
     {
      "title": "‘사업가♥’ 최희, 사후 장기기증 서약했다..“슬프고 무섭지만 용기내”",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/17/ME3DGMRRG42DMNJWMZQWEYZWMM/",
-     "source": "Chosunbiz"
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/MM4GINJRHAYDQYJXMQ3TGOBQGA/",
+     "source": "조선일보"
     }
    ]
   },
   {
    "kw": "박정훈",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 17일 19:40",
    "news": [
     {
@@ -64,8 +115,8 @@
    "when": "11월 17일 19:40",
    "news": [
     {
-     "title": "Trực tiếp bóng đá Singapore - Brazil: Bàn đá phản của chủ nhà (Hết giờ)",
-     "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-singapore-brazil-vu-cong-samba-pho-dien-suc-manh-c48a1811740.html",
+     "title": "Video bóng đá Singapore - Brazil: Màn \"hủy diệt\" nhanh gọn",
+     "url": "https://www.24h.com.vn/bong-da/video-bong-da-singapore-brazil-man-huy-diet-nhanh-gon-c48a1811874.html",
      "source": "Tin tức 24h"
     },
     {
@@ -93,61 +144,21 @@
    ]
   },
   {
-   "kw": "권순우",
-   "traffic": "1000+",
-   "when": "11월 17일 19:10",
-   "news": [
-    {
-     "title": "조코비치 꺾었던 정현, 태극마크 달고 또 이변 꿈꾼다... \"팬들이 기억하는 모습 다시\" [데이비스컵 현장] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/17/2026111716075189369",
-     "source": "머니투데이"
-    },
-    {
-     "title": "8년 전처럼…정현, 데이비스컵 파이널8에서도 ‘신데렐라의 기적’ 도전",
-     "url": "https://www.donga.com/news/Sports/article/all/20261117/135039042/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
    "kw": "로베르트 모레노",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 17일 19:10",
    "news": [
     {
-     "title": "‘임시 소방수’ 모레노 감독, 카타르전 끝나면 스페인 귀국…거취는 안갯속",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715028",
-     "source": "KBS 뉴스"
+     "title": "모레노 감독, 카타르전 끝으로 스페인행…한국 대표팀 복귀 불투명",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=04660886645646704&mediaCodeNo=257",
+     "source": "이데일리"
     },
     {
-     "title": "모레노 축구대표팀 임시 감독, 카타르전 이후 스페인 귀국",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6866318_36946.html",
-     "source": "MBC 뉴스"
+     "title": "눈물 글썽이던 韓 중원의 핵심 황인범, 또 한번 '작심 발언'…\"임시 감독 체제, 대표팀에 긍정적이지 않다\"",
+     "url": "https://www.chosun.com/sports/football/2026/11/17/G5QTGOJXGYYTKNZVMNQTQNTGHA/",
+     "source": "조선일보"
     }
    ]
-  },
-  {
-   "kw": "미스터트롯3",
-   "traffic": "1000+",
-   "when": "11월 17일 19:00",
-   "news": [
-    {
-     "title": "‘미스터트롯3’ TOP7, 서울서 투어 피날레…“끝 아닌 새로운 시작”",
-     "url": "https://www.mk.co.kr/news/musics/12211506",
-     "source": "매일경제"
-    },
-    {
-     "title": "‘미스터트롯3’ TOP7, 서울 콘서트 마무리… 투어 마무리 소감은?",
-     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193818",
-     "source": "금강일보"
-    }
-   ]
-  },
-  {
-   "kw": "원주 db 대 안양 정관장",
-   "traffic": "1000+",
-   "when": "11월 17일 18:50",
-   "news": []
   }
  ]
 }
