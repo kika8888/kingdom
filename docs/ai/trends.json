@@ -1,6 +1,108 @@
 {
- "updated": "2026-11-18 05:23",
+ "updated": "2026-11-18 06:23",
  "items": [
+  {
+   "kw": "알렉산더 즈베레프",
+   "traffic": "200+",
+   "when": "11월 18일 05:10",
+   "news": [
+    {
+     "title": "'세계 랭킹 1위' 트로피에 입 맞추는 즈베레프",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261117_0002293855&pID=1&cID=&sID=1&type=photoMain&idx=7",
+     "source": "뉴시스"
+    },
+    {
+     "title": "2027 호주오픈, 시너가 있고 없고의 차이",
+     "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19848",
+     "source": "테니스피플"
+    }
+   ]
+  },
+  {
+   "kw": "wales vs portugal",
+   "traffic": "500+",
+   "when": "11월 18일 05:00",
+   "news": [
+    {
+     "title": "Bruno Fernandes and David Brooks score goals in Wales v Portugal",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cmn80yjw6v2wo",
+     "source": "BBC"
+    },
+    {
+     "title": "Bruno Fernandes stunner lights up Wales v Portugal amid fresh twist in Man Utd future",
+     "url": "https://football360.com.au/wales-vs-portugal-bruno-fernandes-goal-man-utd-transfer-news/",
+     "source": "football360.com.au"
+    }
+   ]
+  },
+  {
+   "kw": "김장",
+   "traffic": "500+",
+   "when": "11월 18일 05:00",
+   "news": [
+    {
+     "title": "충북농협, 7400㎏ 김장 행사…취약계층·복지시설에 전달",
+     "url": "https://www.news1.kr/local/sejong-chungbuk/6356875",
+     "source": "뉴스1"
+    },
+    {
+     "title": "충북농협, 김장김치 7.4t 나눔…충청대엔 1000원 점심 지원",
+     "url": "https://www.newspim.com/news/view/20261117000791",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "아이폰",
+   "traffic": "100+",
+   "when": "11월 18일 04:50",
+   "news": [
+    {
+     "title": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback",
+     "source": "Bloomberg.com"
+    },
+    {
+     "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+     "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+     "source": "The Verge"
+    }
+   ]
+  },
+  {
+   "kw": "부고",
+   "traffic": "100+",
+   "when": "11월 18일 04:50",
+   "news": [
+    {
+     "title": "오늘의 부고-김정순 충북 남부출장소 행정지원과장 모친상 외",
+     "url": "https://www.khan.co.kr/article/202611171548021",
+     "source": "경향신문"
+    },
+    {
+     "title": "[부음] 조재완(뉴시스 기자)씨 조모상",
+     "url": "https://www.etnews.com/20261117000245",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "백신",
+   "traffic": "200+",
+   "when": "11월 18일 04:40",
+   "news": [
+    {
+     "title": "예방접종 피해 국가보상, 대리인도 신청 가능",
+     "url": "https://www.yna.co.kr/view/AKR20261117059800530",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "「감염병예방법 시행령 및 시행규칙」 일부개정령안 공포·시행(11.17.화)",
+     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=457313",
+     "source": "서울Pn"
+    }
+   ]
+  },
   {
    "kw": "경찰",
    "traffic": "10000+",
@@ -41,14 +143,14 @@
    "when": "11월 18일 03:20",
    "news": [
     {
-     "title": "The Game Awards Nominations 2026: ‘GTA 6’ Lands Game of the Year Nom Ahead of Thursday Release",
-     "url": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480/",
-     "source": "Variety"
+     "title": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+     "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
+     "source": "XBOX Wire"
     },
     {
-     "title": "Here Are The Nominees For The Game Awards 2026",
-     "url": "https://gameinformer.com/2026/11/17/here-are-the-nominees-for-the-game-awards-2026",
-     "source": "Game Informer"
+     "title": "When will 'GTA 6' be available on Xbox Game Pass and Cloud Gaming?",
+     "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-xbox-game-pass-cloud-gaming",
+     "source": "Mashable"
     }
    ]
   },
@@ -58,116 +160,14 @@
    "when": "11월 18일 02:30",
    "news": [
     {
-     "title": "[단독]카카오뱅크, 애플페이 서비스 시작",
-     "url": "https://www.etnews.com/20261116000304",
-     "source": "전자신문"
+     "title": "아이폰 듀오, 전면 카메라로 얼굴 인식 잠금 해제한다",
+     "url": "https://zdnet.co.kr/view/?no=20261117081332",
+     "source": "지디넷코리아"
     },
     {
-     "title": "카드업권, 애플페이 인뱅 진출에도 머뭇…삼성페이 '눈치'",
-     "url": "https://www.yna.co.kr/view/AKR20261117137300002",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "데블스플랜",
-   "traffic": "1000+",
-   "when": "11월 18일 02:10",
-   "news": [
-    {
-     "title": "‘데블스 플랜3’ 5회 만에 7명 탈락...판 뒤집을 유배지 등장",
-     "url": "https://www.mk.co.kr/news/hot-issues/12210932",
-     "source": "매일경제"
-    },
-    {
-     "title": "[TF초점] '데블스 플랜3', 5회 만에 빠져든 두뇌 싸움…역시 근본 조합",
-     "url": "https://news.tf.co.kr/read/entertain/2389546.htm",
-     "source": "더팩트"
-    }
-   ]
-  },
-  {
-   "kw": "탄도 미사일",
-   "traffic": "200+",
-   "when": "11월 18일 00:50",
-   "news": [
-    {
-     "title": "젤렌스키 \"러, 北 미사일 의존…우크라도 동맹 지원 필요\"",
-     "url": "https://www.yna.co.kr/view/AKR20261118008000109",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "“매달 수십 발씩 러시아에 공급”…우크라전 겪으며 진화하는 北 미사일의 공포 [밀리터리노트]",
-     "url": "https://m.go.seoul.co.kr/news/international/europe/2026/11/17/20261117500289",
-     "source": "서울Pn"
-    }
-   ]
-  },
-  {
-   "kw": "mbk파트너스",
-   "traffic": "100+",
-   "when": "11월 18일 00:30",
-   "news": [
-    {
-     "title": "회수부터 투자까지…MBK SS, 신규 펀드레이징 배경은",
-     "url": "https://marketin.edaily.co.kr/News/Read?newsId=04149206645646704",
-     "source": "마켓인"
-    },
-    {
-     "title": "MBK파트너스, 2026 연차총회 개최…내년 해외투자 적극 확대",
-     "url": "https://www.yna.co.kr/view/AKR20261117056600008",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "정우영",
-   "traffic": "100+",
-   "when": "11월 18일 00:30",
-   "news": [
-    {
-     "title": "정우영 2년 7개월 만에 복귀…카타르전 대거 로테이션 : 스포츠",
-     "url": "https://news.jkn.co.kr/post/1102804",
-     "source": "재경일보"
-    },
-    {
-     "title": "모레노 감독이 원하는 높은 '에너지 레벨'에 딱! 분데스서도 '최상위급 고강도' 정우영, 측면 경쟁에 '새바람'",
-     "url": "https://www.chosun.com/sports/football/2026/11/13/MVSWIMRRHBSDAMBVGU4DSNBTMQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "서울경제",
-   "traffic": "200+",
-   "when": "11월 18일 00:00",
-   "news": [
-    {
-     "title": "일본 경유하려다 ‘날벼락’ 맞을 수도…“이것 없인 비행기 못 탄다” 대체 무슨 제도길래",
-     "url": "https://www.sedaily.com/article/20114910",
-     "source": "서울경제"
-    },
-    {
-     "title": "日, 2028년부터 일부 환승객도 전자여행허가 추진…인천공항과 허브 경쟁 변수",
-     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625420",
-     "source": "메디컬투데이"
-    }
-   ]
-  },
-  {
-   "kw": "헝거게임",
-   "traffic": "100+",
-   "when": "11월 18일 00:00",
-   "news": [
-    {
-     "title": "잔인한 생존 게임, 판을 뒤집어라…'헝거게임 50번째 추첨의 날'",
-     "url": "https://www.yna.co.kr/view/AKR20261114033700005",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "연말 극장가 8천억원 블록버스터 전쟁",
-     "url": "https://www.mk.co.kr/news/culture/12211334",
-     "source": "매일경제"
+     "title": "애플 '아이폰 듀오' 최적화 앱 20만개 돌파…지원 생태계 확대 - 머니투데이",
+     "url": "https://www.mt.co.kr/tech/2026/11/16/2026111617122821068",
+     "source": "머니투데이"
     }
    ]
   }
