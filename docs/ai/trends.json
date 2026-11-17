@@ -1,9 +1,43 @@
 {
- "updated": "2026-11-17 12:23",
+ "updated": "2026-11-17 12:43",
  "items": [
   {
+   "kw": "김선태",
+   "traffic": "1000+",
+   "when": "11월 17일 11:40",
+   "news": [
+    {
+     "title": "AI 안경 쓰고 공무원 시험 본 '충주맨', 25점 받은 이유가",
+     "url": "https://www.hankyung.com/article/2026111708667",
+     "source": "한국경제"
+    },
+    {
+     "title": "김선태, 이번엔 ‘충주냥이’…“공무원 국어 시험 라이브로 풀겠다”",
+     "url": "https://www.koreadaily.com/article/20261116060854028",
+     "source": "미주중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "장동혁",
+   "traffic": "1000+",
+   "when": "11월 17일 11:30",
+   "news": [
+    {
+     "title": "장동혁, 한동훈 장인상 조문…한 “대표님 잠깐” 짧은 대화도",
+     "url": "https://www.khan.co.kr/article/202611171042001",
+     "source": "경향신문"
+    },
+    {
+     "title": "장동혁, 한동훈 빙부상 조문…7분여 머물러",
+     "url": "https://www.donga.com/news/Politics/article/all/20261117/135036688/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
    "kw": "장민기",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 17일 11:10",
    "news": [
     {
@@ -15,6 +49,23 @@
      "title": "[오피셜] \"타이거즈라는 멋진 팀에서 야구를 할 수 있어 언제나 행복했습니다\" 국대 마무리 조병현보다 먼저 뽑혔던 2001년생 좌완 유망주 장민기, 은퇴 선언",
      "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553702539",
      "source": "스포탈코리아"
+    }
+   ]
+  },
+  {
+   "kw": "embassy",
+   "traffic": "100+",
+   "when": "11월 17일 11:10",
+   "news": [
+    {
+     "title": "(LEAD) S. Korea seeks to reconstruct aging embassy in U.S. amid uncertainty over funding",
+     "url": "https://en.yna.co.kr/view/AEN20261116007951315",
+     "source": "Yonhap News Agency"
+    },
+    {
+     "title": "South Korea to rebuild Washington embassy for first time in 70 years at estimated cost of W300b",
+     "url": "https://mbiz.heraldcorp.com/article/10938808",
+     "source": "헤럴드경제"
     }
    ]
   },
@@ -37,18 +88,18 @@
   },
   {
    "kw": "피의자",
-   "traffic": "10000+",
+   "traffic": "1000+",
    "when": "11월 17일 10:50",
    "news": [
     {
-     "title": "[속보] 한 총리 \"수능서 스마트기기 원천 차단‥안경·시계 전수검사\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6866227_36911.html",
+     "title": "성범죄자 질주극에 실탄 발사‥경찰관 6명 부상",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866148_37012.html",
      "source": "MBC 뉴스"
     },
     {
-     "title": "AI 커닝 장비 구매처까지 SNS 확산…정부, 유통 방지 나선다(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261116170051017",
-     "source": "연합뉴스"
+     "title": "제 발 저려 시작된 추격전...6명 다치고 실탄까지 쏴",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611170224472820_005.html",
+     "source": "YTN"
     }
    ]
   },
@@ -63,9 +114,9 @@
      "source": "한국경제"
     },
     {
-     "title": "앤트로픽, 주요지수 편입 늦어질 듯…\"패시브 자금 25조 유입 추산\" - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/17/2026111709444891073",
-     "source": "머니투데이"
+     "title": "AI칩 투자 줄이고 앤스로픽에 50억달러 청약…거스너 “젠슨 황 복귀 서두르지 말라”",
+     "url": "https://www.mk.co.kr/news/it/12210622",
+     "source": "매일경제"
     }
    ]
   },
@@ -88,7 +139,7 @@
   },
   {
    "kw": "2027",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 17일 10:40",
    "news": [
     {
@@ -117,57 +168,6 @@
      "title": "‘미스터트롯4’, 현역 vs 비현역 제대로 붙는다…12월 17일 첫 방송",
      "url": "https://sports.donga.com/ent/article/all/20261117/135036727/1",
      "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "서울고등법원",
-   "traffic": "500+",
-   "when": "11월 17일 10:30",
-   "news": [
-    {
-     "title": "'면허정지 수준' 음주운전 서울고법 판사에 감봉 1개월 징계",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6866211_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "현직 판사가 500m 음주운전…대법원, 감봉 1개월 징계",
-     "url": "https://www.newsis.com/view/NISX20261117_0003870687",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "풍자",
-   "traffic": "500+",
-   "when": "11월 17일 10:30",
-   "news": [
-    {
-     "title": "풍자 맞아? 37kg 감량 효과 미쳤다…비주얼 난리 [DA★]",
-     "url": "https://sports.donga.com/ent/article/all/20261116/135035720/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "\"소리지르고 삼단봉으로 때리려고 해\" 신기루, 中 입국하다 공안에 붙잡혀",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/17/GZTDGODDMIYDGZDGGBQTKMZXGI/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "유학생",
-   "traffic": "200+",
-   "when": "11월 17일 10:20",
-   "news": [
-    {
-     "title": "[단독] 트럼프 ‘유학생 체류 4년 제한’ 결국 무효…미 법원 “법률 취지에 어긋나”",
-     "url": "https://www.hani.co.kr/arti/international/america/1287644.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "美대학 외국인 신입 유학생 올해도 15%↓…'트럼프 반이민' 여파",
-     "url": "https://www.yna.co.kr/view/AKR20261117079300009",
-     "source": "연합뉴스"
     }
    ]
   }
