@@ -1,20 +1,139 @@
 {
- "updated": "2026-11-17 08:23",
+ "updated": "2026-11-17 09:23",
  "items": [
+  {
+   "kw": "수원 fc",
+   "traffic": "200+",
+   "when": "11월 17일 08:20",
+   "news": [
+    {
+     "title": "시민구단 아닌 ‘시장님 구단’… 치적 쌓으려 추경까지 받아 돈 댔다",
+     "url": "https://www.chosun.com/national/national_general/2026/11/17/UDECO7N2KVHUVADPGTSE6IMSHY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "축구단 주요 보직을 선거 전리품으로… 일부 지자체장, 측근들 꽂아넣어",
+     "url": "https://www.chosun.com/national/national_general/2026/11/17/UG6BLDLWSJCSNMMZPZQE7S6EUI/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "축구",
+   "traffic": "2000+",
+   "when": "11월 17일 08:00",
+   "news": [
+    {
+     "title": "손흥민·이강인 반등 실패…’무색무취’ 모레노, 끝이 보인다",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116212054JzE",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "황인범의 소신…\"임시 감독 체제, 대표팀에 긍정적이지 않다\"",
+     "url": "https://www.yna.co.kr/view/AKR20261117002000007",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "germany national football team vs netherlands national football team standings",
+   "traffic": "500+",
+   "when": "11월 17일 08:00",
+   "news": [
+    {
+     "title": "Klopp's Germany Routs Netherlands to Reach Nations League Quarterfinals",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008849001",
+     "source": "news.sbs.co.kr"
+    },
+    {
+     "title": "Germany 5-0 Netherlands: Florian Wirtz scores twice in Nations League",
+     "url": "https://www.bbc.com/sport/football/live/cmly7wxld228t",
+     "source": "BBC"
+    }
+   ]
+  },
+  {
+   "kw": "어벤져스",
+   "traffic": "500+",
+   "when": "11월 17일 07:50",
+   "news": [
+    {
+     "title": "'어벤져스: 둠스데이', 압도적인 스케일 기대…서로 다른 세계의 히어로들 총집결",
+     "url": "https://www.chosun.com/entertainments/movie/2026/11/16/G4ZDQNRSMQ3DGM3GGJTDQYTCMI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'토르' 헴스워스, 무서워서 못 와? 외국인 눈에 비친 '휴전' 한국 [영화있슈] - 머니투데이",
+     "url": "https://www.mt.co.kr/culture/2026/11/17/2026111614230524371",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "쇼트트랙",
+   "traffic": "200+",
+   "when": "11월 17일 07:50",
+   "news": [
+    {
+     "title": "금메달 4개 전이경 \"2년 간 암투병…반평생 최고 고비\"",
+     "url": "https://www.newsis.com/view/NISX20261116_0003870226",
+     "source": "뉴시스"
+    },
+    {
+     "title": "'스피드퀸' 이유리, 선수들 곁 든든한 '엄마 매니저' 변신",
+     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/524922",
+     "source": "iMBC 연예"
+    }
+   ]
+  },
+  {
+   "kw": "엘리베이터",
+   "traffic": "100+",
+   "when": "11월 17일 07:40",
+   "news": [
+    {
+     "title": "스마트 엘리베이터 및 에스컬레이터 시장의 15개 기업",
+     "url": "https://www.sphericalinsights.com/ko/blogs/top-15-companies-in-global-smart-elevators-and-escalators-market-2026-2035-expert-view-by-spherical-insights",
+     "source": "Spherical Insights"
+    },
+    {
+     "title": "도시화와 현대화가 이끄는 엘리베이터 및 부속품 시장 2035년 전망",
+     "url": "https://www.indexbox.io/ko/blog/elevators-and-accessories-market-forecast-to-2035-driven-by-urbanization-and-modernization/",
+     "source": "IndexBox"
+    }
+   ]
+  },
+  {
+   "kw": "mu",
+   "traffic": "200+",
+   "when": "11월 17일 07:30",
+   "news": [
+    {
+     "title": "Micron Stock: Why Strong Memory Prices May Count for Nothing",
+     "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-429adf7e",
+     "source": "Barron's"
+    },
+    {
+     "title": "$Micron Tech(MU.US)Micron pulled back toward the $761–$778…",
+     "url": "https://longbridge.com/topics/100000000989400",
+     "source": "Longbridge"
+    }
+   ]
+  },
   {
    "kw": "nvda",
    "traffic": "500+",
    "when": "11월 17일 07:20",
    "news": [
     {
-     "title": "Retail investors scoop up Nvidia shares, betting 427.1 billion won after Jensen Huang's exit",
-     "url": "https://www.mt.co.kr/en/stock/2026/11/16/2026111611365557170",
-     "source": "머니투데이"
+     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+     "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+     "source": "Financial Times"
     },
     {
-     "title": "As Nvidia's stock price fell to a new 52-week low due to the sudden resignation of Nvidia CEO Jensen..",
-     "url": "https://www.mk.co.kr/en/stock/12210183",
-     "source": "매일경제"
+     "title": "Nvidia dismisses campaign to bring back Jensen Huang as Trump backs effort",
+     "url": "https://www.bbc.com/news/articles/cry49plv8v3go",
+     "source": "BBC"
     }
    ]
   },
@@ -24,150 +143,31 @@
    "when": "11월 17일 07:20",
    "news": [
     {
+     "title": "\"이 신호 뜨면 주식 팔아라?\"…앤트로픽 상장 앞두고 나온 경고 [분석+]",
+     "url": "https://www.hankyung.com/article/2026111695036",
+     "source": "한국경제"
+    },
+    {
      "title": "121조 노리는 앤트로픽 IPO...중국·홍콩 기관투자자 청약 배제",
      "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611161600490528",
      "source": "YTN 사이언스"
-    },
-    {
-     "title": "美 로펌 앤트로픽 지분 받아 ‘잭팟’… “돈 대신 주식 달라” 국내도 확산",
-     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229146",
-     "source": "법률신문"
-    }
-   ]
-  },
-  {
-   "kw": "스마트글래스",
-   "traffic": "100+",
-   "when": "11월 17일 07:10",
-   "news": [
-    {
-     "title": "삼성전자, 구글·젠틀몬스터·워비파커와 협업한 인텔리전트 아이웨어 전격 공개 - 삼성전자 뉴스룸",
-     "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B5%AC%EA%B8%80%C2%B7%EC%A0%A0%ED%8B%80%EB%AA%AC%EC%8A%A4%ED%84%B0%C2%B7%EC%9B%8C%EB%B9%84%ED%8C%8C%EC%BB%A4%EC%99%80-%ED%98%91%EC%97%85%ED%95%9C-%EC%9D%B8",
-     "source": "samsung.com"
-    },
-    {
-     "title": "'일반 안경처럼 만들었더니'…패션계, AI 안경 논란에 전전긍긍",
-     "url": "https://www.yna.co.kr/view/AKR20261116167400030",
-     "source": "연합뉴스"
     }
    ]
   },
   {
    "kw": "환승",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 17일 07:00",
    "news": [
     {
-     "title": "경기 버스 환승할인 내년 8월 폐지…추미애, 재정 쥐어짜 민생예산만 편성",
+     "title": "경기 버스 환승할인비 내년 8개월치만 담아…추미애, 재정 쥐어짜 민생예산 편성",
      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753979",
      "source": "국제뉴스"
     },
     {
-     "title": "추미애 경기지사, 42조1946억원 본예산안 설명…정부·국회에 재정대책 촉구",
-     "url": "https://www.etnews.com/20261117000004",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "날씨",
-   "traffic": "200000+",
-   "when": "11월 17일 06:40",
-   "news": [
-    {
-     "title": "“출근길 우산 챙기세요”····전국 대체로 흐리고 비",
-     "url": "https://www.khan.co.kr/article/202611170742001",
-     "source": "경향신문"
-    },
-    {
-     "title": "강원, 대체로 흐리고 비…낮 최고 16도",
-     "url": "https://www.yna.co.kr/view/AKR20261117009000062",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "부산날씨",
-   "traffic": "100+",
-   "when": "11월 17일 06:40",
-   "news": [
-    {
-     "title": "부산·울산·경남 흐리고 아침까지 비…밤부터 가끔 비",
-     "url": "https://www.yna.co.kr/view/AKR20261117008900052",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[오늘의 날씨] 2026년 11월 17일",
-     "url": "https://www.chosun.com/national/national_general/2026/11/17/B2O5CFOV3JEZDKXM6O4ZWGXV7I/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "weather",
-   "traffic": "5000+",
-   "when": "11월 17일 06:30",
-   "news": [
-    {
-     "title": "Sunny & Warm Weather This Week",
-     "url": "https://www.wlfi.com/2026/11/16/sunny-warm-weather-this-week/",
-     "source": "WLFI"
-    },
-    {
-     "title": "Sunday Night Forecast 11/15/2026",
-     "url": "https://krcgtv.com/weather/video/sunday-night-forecast-11152026?teaserSource=trending",
-     "source": "KRCG"
-    }
-   ]
-  },
-  {
-   "kw": "황보라",
-   "traffic": "500+",
-   "when": "11월 17일 06:30",
-   "news": [
-    {
-     "title": "황보라 子, 놀이공원서 바지 탈의 후 활보 \"이건 안 돼\"(보라이어티)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/MUZDQMZXGJQTKNJSGZQTSMLBGU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "황보라, 2살 아들 롯데월드서 바지 훌렁…“이건 안 돼” 당황",
-     "url": "https://sports.donga.com/ent/article/all/20261117/135036009/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "thời tiết",
-   "traffic": "2000+",
-   "when": "11월 17일 06:20",
-   "news": [
-    {
-     "title": "Xuất hiện không khí lạnh gây rét Bắc Bộ và Bắc Trung Bộ từ ngày 18/11",
-     "url": "https://baobacninhtv.vn/xuat-hien-khong-khi-lanh-gay-ret-bac-bo-va-bac-trung-bo-tu-ngay-18-11-postid458462.bbg",
-     "source": "Báo Bắc Ninh"
-    },
-    {
-     "title": "Bắc Bộ sắp chuyển rét, Trung Bộ đề phòng mưa lớn, lũ quét và sạt lở đất",
-     "url": "https://thethaovanhoa.vn/bac-bo-sap-chuyen-ret-trung-bo-de-phong-mua-lon-lu-quet-va-sat-lo-dat-20261116221323986.htm",
-     "source": "thethaovanhoa.vn"
-    }
-   ]
-  },
-  {
-   "kw": "погода",
-   "traffic": "2000+",
-   "when": "11월 17일 06:20",
-   "news": [
-    {
-     "title": "Пора доставать подштанники? Какая погода будет в Москве на этой неделе",
-     "url": "https://t-j.ru/weather-msc-16-22nov/",
-     "source": "Т—Ж"
-    },
-    {
-     "title": "Снег на подходе: погода в Москве и Подмосковье 16-22 ноября",
-     "url": "https://rtvi.com/news/sneg-na-podhode-pogoda-v-moskve-i-podmoskove-16-22-noyabrya/",
-     "source": "RTVI"
+     "title": "경기도, MBC 예산 보도 반박…조정 신청·고발 예고",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722180",
+     "source": "뉴스타운"
     }
    ]
   }
