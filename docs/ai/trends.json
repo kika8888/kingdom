@@ -1,37 +1,54 @@
 {
- "updated": "2026-11-18 04:23",
+ "updated": "2026-11-18 05:23",
  "items": [
+  {
+   "kw": "경찰",
+   "traffic": "10000+",
+   "when": "11월 18일 04:20",
+   "news": [
+    {
+     "title": "\"이렇게까지 한다고?\" 웃음보인 장관‥\"믿음 깨져\" 냉소 속출",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866389_37004.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "당정, '수능 AI 부정행위' 대책 협의회…입법 과제 등 논의",
+     "url": "https://www.yna.co.kr/view/AKR20261117175800001",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "국제 통화 기금",
+   "traffic": "200+",
+   "when": "11월 18일 04:20",
+   "news": [
+    {
+     "title": "IMF, 올해 우리나라 성장률 3.9% 전망…내년엔 3.3%",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975912",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "IMF, 올해 경제 성장률 3.9%로 상향…’통화 긴축’ 주문",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118044902M56",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
   {
    "kw": "gta6",
    "traffic": "200+",
    "when": "11월 18일 03:20",
    "news": [
     {
-     "title": "Lucía Caminos is the first Latina ‘Grand Theft Auto’ lead – these video game characters paved the way",
-     "url": "https://theconversation.com/lucia-caminos-is-the-first-latina-grand-theft-auto-lead-these-video-game-characters-paved-the-way-290289",
-     "source": "The Conversation"
+     "title": "The Game Awards Nominations 2026: ‘GTA 6’ Lands Game of the Year Nom Ahead of Thursday Release",
+     "url": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480/",
+     "source": "Variety"
     },
     {
-     "title": "GTA VI’s voice actor for Lucia was revealed by… The Game Awards.",
-     "url": "https://www.theverge.com/games/1035602/gta-vis-voice-actor-for-lucia-was-revealed-by-the-game-awards",
-     "source": "The Verge"
-    }
-   ]
-  },
-  {
-   "kw": "둠스데이",
-   "traffic": "1000+",
-   "when": "11월 18일 03:00",
-   "news": [
-    {
-     "title": "\"MCU 새 판도를 뒤흔든다\"…'어벤져스: 둠스데이' 로버트 다우니 주니어, 강력한 빌런으로 컴백",
-     "url": "https://www.chosun.com/entertainments/movie/2026/11/17/GFRTIMJRGMYWEYJTG5SWEY3BGM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'토르' 헴스워스, 무서워서 못 와? 외국인 눈에 비친 '휴전' 한국 [영화있슈] - 머니투데이",
-     "url": "https://www.mt.co.kr/culture/2026/11/17/2026111614230524371",
-     "source": "머니투데이"
+     "title": "Here Are The Nominees For The Game Awards 2026",
+     "url": "https://gameinformer.com/2026/11/17/here-are-the-nominees-for-the-game-awards-2026",
+     "source": "Game Informer"
     }
    ]
   },
@@ -46,9 +63,9 @@
      "source": "전자신문"
     },
     {
-     "title": "카뱅 이어 토스뱅크도 연내 애플페이 출시…카드사 진입 포문 열리나",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445087",
-     "source": "연합인포맥스"
+     "title": "카드업권, 애플페이 인뱅 진출에도 머뭇…삼성페이 '눈치'",
+     "url": "https://www.yna.co.kr/view/AKR20261117137300002",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -66,6 +83,23 @@
      "title": "[TF초점] '데블스 플랜3', 5회 만에 빠져든 두뇌 싸움…역시 근본 조합",
      "url": "https://news.tf.co.kr/read/entertain/2389546.htm",
      "source": "더팩트"
+    }
+   ]
+  },
+  {
+   "kw": "탄도 미사일",
+   "traffic": "200+",
+   "when": "11월 18일 00:50",
+   "news": [
+    {
+     "title": "젤렌스키 \"러, 北 미사일 의존…우크라도 동맹 지원 필요\"",
+     "url": "https://www.yna.co.kr/view/AKR20261118008000109",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "“매달 수십 발씩 러시아에 공급”…우크라전 겪으며 진화하는 北 미사일의 공포 [밀리터리노트]",
+     "url": "https://m.go.seoul.co.kr/news/international/europe/2026/11/17/20261117500289",
+     "source": "서울Pn"
     }
    ]
   },
@@ -104,6 +138,23 @@
    ]
   },
   {
+   "kw": "서울경제",
+   "traffic": "200+",
+   "when": "11월 18일 00:00",
+   "news": [
+    {
+     "title": "일본 경유하려다 ‘날벼락’ 맞을 수도…“이것 없인 비행기 못 탄다” 대체 무슨 제도길래",
+     "url": "https://www.sedaily.com/article/20114910",
+     "source": "서울경제"
+    },
+    {
+     "title": "日, 2028년부터 일부 환승객도 전자여행허가 추진…인천공항과 허브 경쟁 변수",
+     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625420",
+     "source": "메디컬투데이"
+    }
+   ]
+  },
+  {
    "kw": "헝거게임",
    "traffic": "100+",
    "when": "11월 18일 00:00",
@@ -117,57 +168,6 @@
      "title": "연말 극장가 8천억원 블록버스터 전쟁",
      "url": "https://www.mk.co.kr/news/culture/12211334",
      "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "친선경기",
-   "traffic": "1000+",
-   "when": "11월 17일 23:40",
-   "news": [
-    {
-     "title": "콜롬비아, 칠레와 친선 경기…수아레스, 마리판·울로아와 공 다툼",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752319",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "칠레 vs 콜롬비아 친선 경기 예측 - 국제 친선 경기",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-chile-vs-colombia-giao-huu-dtqg-friendlies",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "김다현",
-   "traffic": "200+",
-   "when": "11월 17일 23:20",
-   "news": [
-    {
-     "title": "'가요무대' 김다현·빈예서 듀엣부터 배아현·신유·신승태까지 총출동",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753917",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "‘가요무대’ 미스김 ‘황홀무대’",
-     "url": "https://sports.khan.co.kr/article/202611171459003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "포스코홀딩스",
-   "traffic": "200+",
-   "when": "11월 17일 23:20",
-   "news": [
-    {
-     "title": "포스코인터내셔널, 거대 분지에서 끌어올린 '천연가스 잭팟'…파이프라인서 2000억 쏟아졌다",
-     "url": "https://www.hankyung.com/article/2026111710841",
-     "source": "한국경제"
-    },
-    {
-     "title": "장인화의 '선택과 집중' 통했다 … 2.2조 실탄 확보하고 리튬은 8년만에 흑자 전환",
-     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100053.html",
-     "source": "뉴데일리 경제"
     }
    ]
   }
