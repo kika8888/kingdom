@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-17 12:43",
+ "updated": "2026-11-17 13:23",
  "items": [
   {
+   "kw": "담보 대출",
+   "traffic": "200+",
+   "when": "11월 17일 12:00",
+   "news": [
+    {
+     "title": "내일부터 5대은행 주담대 변동금리 또 올라···최고 연 6.51%",
+     "url": "https://www.khan.co.kr/article/202611161646001",
+     "source": "경향신문"
+    },
+    {
+     "title": "코픽스마저 또 올랐다…짙어지는 ‘고금리의 그늘’",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03276726645646376",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "마이클 버리",
+   "traffic": "100+",
+   "when": "11월 17일 12:00",
+   "news": [
+    {
+     "title": "'빅쇼트' 버리 \"나스닥 약세 베팅 확대…내년 반도체주 하락 전망\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444844",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "‘빅 쇼트’ 버리 “엔비디아 '숏 베팅' 확대…젠슨 황 퇴임 승자는 AMD·브로드컴”",
+     "url": "https://www.g-enews.com/article/Securities/2026/11/202611151346317386e250e8e188_1",
+     "source": "글로벌이코노믹"
+    }
+   ]
+  },
+  {
+   "kw": "면세점",
+   "traffic": "100+",
+   "when": "11월 17일 12:00",
+   "news": [
+    {
+     "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 단독 출시",
+     "url": "https://www.etnews.com/20261117000220",
+     "source": "전자신문"
+    },
+    {
+     "title": "신라면세점, 프리미엄 버번 위스키 '블랑톤' 면세점 최초 출시",
+     "url": "https://stock.mk.co.kr/news/view/1200339",
+     "source": "매일경제 마켓"
+    }
+   ]
+  },
+  {
+   "kw": "자오창펑",
+   "traffic": "100+",
+   "when": "11월 17일 11:50",
+   "news": [
+    {
+     "title": "자오창펑 바이낸스 CEO \"우린 비트코인 안 팔았다\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03581766645646376",
+     "source": "마켓인"
+    },
+    {
+     "title": "비트코인 추가 폭락 가능성? 지금 시장에서 벌어지는 수상한 움직임",
+     "url": "https://contents.premium.naver.com/net/go/contents/261116154239161xy",
+     "source": "네이버 프리미엄콘텐츠"
+    }
+   ]
+  },
+  {
+   "kw": "김준호",
+   "traffic": "100+",
+   "when": "11월 17일 11:50",
+   "news": [
+    {
+     "title": "'만삭' 김지민, 장롱면허 김준호 대신해 운전대 잡았다",
+     "url": "https://www.newsis.com/view/NISX20261116_0003868998",
+     "source": "뉴시스"
+    },
+    {
+     "title": "'만삭' 김지민이 운전하고 김준호는 조수석에 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111607243073022",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
    "kw": "김선태",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 17일 11:40",
    "news": [
     {
@@ -24,14 +109,14 @@
    "when": "11월 17일 11:30",
    "news": [
     {
-     "title": "장동혁, 한동훈 장인상 조문…한 “대표님 잠깐” 짧은 대화도",
-     "url": "https://www.khan.co.kr/article/202611171042001",
-     "source": "경향신문"
+     "title": "장동혁, 한동훈 장인상 조문… 7분간 머물러",
+     "url": "https://www.chosun.com/politics/assembly/2026/11/17/FKM4AA2WCFCCFPYATWVGRER5PI/",
+     "source": "조선일보"
     },
     {
-     "title": "장동혁, 한동훈 빙부상 조문…7분여 머물러",
-     "url": "https://www.donga.com/news/Politics/article/all/20261117/135036688/1",
-     "source": "동아일보"
+     "title": "[여적] ‘최초 특검’ 피의자의 별세",
+     "url": "https://www.khan.co.kr/article/202611161903011",
+     "source": "경향신문"
     }
    ]
   },
@@ -83,91 +168,6 @@
      "title": "[지지대] 흔들리지 말고 당당하게",
      "url": "https://www.kyeonggi.com/article/20261116580050",
      "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "피의자",
-   "traffic": "1000+",
-   "when": "11월 17일 10:50",
-   "news": [
-    {
-     "title": "성범죄자 질주극에 실탄 발사‥경찰관 6명 부상",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6866148_37012.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "제 발 저려 시작된 추격전...6명 다치고 실탄까지 쏴",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611170224472820_005.html",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "상장",
-   "traffic": "200+",
-   "when": "11월 17일 10:50",
-   "news": [
-    {
-     "title": "\"이 신호 뜨면 주식 팔아라?\"…앤트로픽 상장 앞두고 나온 경고 [분석+]",
-     "url": "https://www.hankyung.com/article/2026111695036",
-     "source": "한국경제"
-    },
-    {
-     "title": "AI칩 투자 줄이고 앤스로픽에 50억달러 청약…거스너 “젠슨 황 복귀 서두르지 말라”",
-     "url": "https://www.mk.co.kr/news/it/12210622",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "너구리",
-   "traffic": "1000+",
-   "when": "11월 17일 10:40",
-   "news": [
-    {
-     "title": "농심, '볶음너구리' 정식 판매 전환…신제품 '매콤마요'도 출시",
-     "url": "https://www.yna.co.kr/view/AKR20261117045300030",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "너구리 변신 계속된다…농심, '매콤마요 볶음너구리' 등 라인업 확대",
-     "url": "https://www.newsis.com/view/NISX20261117_0003870880",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "2027",
-   "traffic": "200+",
-   "when": "11월 17일 10:40",
-   "news": [
-    {
-     "title": "Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field",
-     "url": "https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "Women lead Grammy nominations as Noah Kahan gets snubbed",
-     "url": "https://www.washingtonpost.com/entertainment/music/2026/11/16/young-women-lead-grammy-nominations-noah-kahan-snubbed/",
-     "source": "The Washington Post"
-    }
-   ]
-  },
-  {
-   "kw": "미스터트롯4",
-   "traffic": "2000+",
-   "when": "11월 17일 10:30",
-   "news": [
-    {
-     "title": "‘미스터트롯4′ 12월 17일 첫 방송...김중연, 양지원, 박지후, 남궁진 등 티저로 베일 벗어",
-     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/17/GUGJEOEOZBCWTLDHBJGLBBRFAI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "‘미스터트롯4’, 현역 vs 비현역 제대로 붙는다…12월 17일 첫 방송",
-     "url": "https://sports.donga.com/ent/article/all/20261117/135036727/1",
-     "source": "스포츠동아"
     }
    ]
   }
