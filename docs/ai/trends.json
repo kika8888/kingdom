@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-17 23:23",
+ "updated": "2026-11-18 00:23",
  "items": [
   {
-   "kw": "lg그룹",
+   "kw": "포스코홀딩스",
    "traffic": "200+",
+   "when": "11월 17일 23:20",
+   "news": [
+    {
+     "title": "[한국의 CISO-권력지도] 포스코, '이사회 보고체계' 취약…포스코홀딩스 최하점",
+     "url": "https://v.daum.net/v/2rTUAMb0dG",
+     "source": "Daum"
+    },
+    {
+     "title": "포스코인터내셔널, 거대 분지에서 끌어올린 '천연가스 잭팟'…파이프라인서 2000억 쏟아졌다",
+     "url": "https://www.hankyung.com/article/2026111710841",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "김다현",
+   "traffic": "100+",
+   "when": "11월 17일 23:20",
+   "news": [
+    {
+     "title": "'가요무대' 김다현·빈예서 듀엣부터 배아현·신유·신승태까지 총출동",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753917",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "‘가요무대’ 미스김 ‘황홀무대’",
+     "url": "https://sports.khan.co.kr/article/202611171459003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "포항 지진",
+   "traffic": "10000+",
+   "when": "11월 17일 23:10",
+   "news": [
+    {
+     "title": "\"우리 노력은 11만 원짜리?\" 6개월 전부터 경고했는데‥'뒷북 대응'에 분노",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866391_37004.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "'AI부정행위' 세무사 수석합격자 13시간 경찰조사 후 귀가(종합2보)",
+     "url": "https://www.yna.co.kr/view/AKR20261117042652004",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "지진",
+   "traffic": "20000+",
+   "when": "11월 17일 23:00",
+   "news": [
+    {
+     "title": "[속보] 기상청 \"경북 상주 북서쪽서 규모 3.7 지진 발생\"",
+     "url": "https://www.hankyung.com/article/2026111731047",
+     "source": "한국경제"
+    },
+    {
+     "title": "[속보] 경북 상주시 북서쪽 22km 지역서 규모 3.7 지진 발생",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755162",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "mbc",
+   "traffic": "200+",
+   "when": "11월 17일 23:00",
+   "news": [
+    {
+     "title": "بدء عرض الموسم الجديد من توب شيف مطلع ديسمبر المقبل باشتراك نجوم الوطن العربي",
+     "url": "https://www.shorouknews.com/mobile/news/view.aspx?cdate=15112026&id=1c40ef7d-5f0d-4f0b-bf2a-5e9715d9f868",
+     "source": "بوابة الشروق"
+    },
+    {
+     "title": "بمشاركة نجوم الوطن العربي.. MBC تعلن موعد عرض الموسم الجديد من «توب شيف»",
+     "url": "https://www.almasryalyoum.com/news/details/4412587",
+     "source": "المصري اليوم"
+    }
+   ]
+  },
+  {
+   "kw": "일본 파라과이",
+   "traffic": "500+",
+   "when": "11월 17일 22:40",
+   "news": [
+    {
+     "title": "[광화문에서/정윤철]길어진 축구 수장 공백… 침묵 깨고 해법 찾아야",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261117/135042607/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "\"이제 한일전은 무의미하다\"… 日 브라질전 설욕에 엇갈린 한·일 반응",
+     "url": "https://www.chosun.com/sports/football/2026/11/15/QADTHZ6QXZARFCXRTIRW3LYDS4/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "권고",
+   "traffic": "1000+",
+   "when": "11월 17일 22:30",
+   "news": [
+    {
+     "title": "PHP 이어 '자바'서도 치명적 취약점…공공·기업 보안 비상",
+     "url": "https://www.yna.co.kr/view/AKR20261117174400017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "방화벽이 침투 통로로... 이스라엘 기관, 체크포인트 장비 뚫려 서버 파일까지 삭제",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147277",
+     "source": "보안뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "lg그룹",
+   "traffic": "500+",
    "when": "11월 17일 22:10",
    "news": [
     {
@@ -15,6 +134,23 @@
      "title": "[단독] LGU+, 기술 조직 ‘고강도 쇄신’…AI·데이터 임원 교체",
      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006562",
      "source": "아시아투데이"
+    }
+   ]
+  },
+  {
+   "kw": "npl",
+   "traffic": "200+",
+   "when": "11월 17일 22:10",
+   "news": [
+    {
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "url": "https://m.cricbuzz.com/player-match-performance/match/177813/player/12140/batting?inningsId=2",
+     "source": "Cricbuzz"
+    },
+    {
+     "title": "Lumbini Lions vs Sudurpaschim Royals, NPL 2026 Qualifier 1 – Match prediction, playing XI and form guide",
+     "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-29th-match-qualifier-1-lumbini-lions-vs-sudurpaschim-royals-17th-november/114379.htm",
+     "source": "Cricket World"
     }
    ]
   },
@@ -32,142 +168,6 @@
      "title": "Afghanistan vs Zimbabwe 2nd Test Day 5 live streaming, scores and match updates",
      "url": "https://www.cricketworld.com/afghanistan-vs-zimbabwe-2nd-test-day-5-live-streaming-scores-and-match-updates/114381.htm",
      "source": "Cricket World"
-    }
-   ]
-  },
-  {
-   "kw": "npl",
-   "traffic": "200+",
-   "when": "11월 17일 22:10",
-   "news": [
-    {
-     "title": "Sudurpashchim sets 106-run target for Lumbini in NPL qualifier",
-     "url": "https://english.nepalnews.com/s/sports/sudurpashchim-sets-106-run-target-for-lumbini-in-npl-qualifier/",
-     "source": "Nepalnews.com"
-    },
-    {
-     "title": "Lumbini Lions vs Sudurpaschim Royals, NPL 2026 Qualifier 1 – Match prediction, playing XI and form guide",
-     "url": "https://www.cricketworld.com/match-predictions-nepal-premier-league-2026-29th-match-qualifier-1-lumbini-lions-vs-sudurpaschim-royals-17th-november/114379.htm",
-     "source": "Cricket World"
-    }
-   ]
-  },
-  {
-   "kw": "t1",
-   "traffic": "2000+",
-   "when": "11월 17일 22:00",
-   "news": [
-    {
-     "title": "TenZ returns: T1 bring the VALORANT legend back for 2027",
-     "url": "https://www.redbull.com/bg-bg/tenz-joins-t1-valorant-2027",
-     "source": "Red Bull"
-    },
-    {
-     "title": "Sacy on joining T1: “I’m basically here because of my dad”",
-     "url": "https://pley.gg/valorant/sacy-on-joining-t1-im-basically-here-because-of-my-dad/",
-     "source": "Pley.gg"
-    }
-   ]
-  },
-  {
-   "kw": "미사일",
-   "traffic": "500+",
-   "when": "11월 17일 22:00",
-   "news": [
-    {
-     "title": "젤렌스키 \"더 많은 北미사일 러에 공급‥韓주변에 도전 과제\"",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6866144_36925.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "“매달 수십 발씩 러시아에 공급”…우크라전 겪으며 진화하는 北 미사일의 공포 [밀리터리노트]",
-     "url": "https://m.go.seoul.co.kr/news/international/europe/2026/11/17/20261117500289",
-     "source": "서울Pn"
-    }
-   ]
-  },
-  {
-   "kw": "배정혜",
-   "traffic": "200+",
-   "when": "11월 17일 21:50",
-   "news": [
-    {
-     "title": "원로 무용가 배정혜 리틀엔젤스예술단 명예예술감독 별세",
-     "url": "https://www.donga.com/news/People/article/all/20261117/135040268/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "“나는 지금도 무대 막이 열릴 때 죽을 것처럼 떨려요” ‘한국 창작춤의 선구자’ 배정혜 무용가 별세",
-     "url": "https://www.segye.com/newsView/20261117509155",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "가덕도신공항",
-   "traffic": "200+",
-   "when": "11월 17일 21:40",
-   "news": [
-    {
-     "title": "국힘 부산시당, 내일 가덕도신공항 공사비 현실화 간담회",
-     "url": "https://www.yna.co.kr/view/AKR20261116121000051",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "국힘, 가덕 공사비 현실화 특별법 개정 동참",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261118.22005005299",
-     "source": "국제신문"
-    }
-   ]
-  },
-  {
-   "kw": "최저임금",
-   "traffic": "200+",
-   "when": "11월 17일 21:20",
-   "news": [
-    {
-     "title": "간호조무사 임금 \"수가 체계와 연동해야\"",
-     "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=200078",
-     "source": "의협신문"
-    },
-    {
-     "title": "간무협, 국회 입법박람회서 정책 부스 운영",
-     "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044369",
-     "source": "청년의사"
-    }
-   ]
-  },
-  {
-   "kw": "디지털 자산",
-   "traffic": "200+",
-   "when": "11월 17일 21:10",
-   "news": [
-    {
-     "title": "빗썸 매출 99.99%가 수수료 수입…두나무와 격차 확대",
-     "url": "https://www.yna.co.kr/view/AKR20261117085400002",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "두나무, 3분기 영업손실 35억원⋯코인거래 위축에 적자 전환",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611161655198Qh",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "비니시우스 주니오르",
-   "traffic": "100+",
-   "when": "11월 17일 21:00",
-   "news": [
-    {
-     "title": "'레알서 12경기 1골 극도의 부진' 비니시우스 또 핑계 댄다 \"아스날 이적설 때문에 부담감 컸다\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/17/202611171835775620O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "브라질 비니시우스가 밝힌 부진 이유…\"월드컵 탈락 충격\"",
-     "url": "https://www.newsis.com/view/NISX20261117_0003872197",
-     "source": "뉴시스"
     }
    ]
   }
