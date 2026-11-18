@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-19 02:23",
+ "updated": "2026-11-19 03:23",
  "items": [
+  {
+   "kw": "한화",
+   "traffic": "100+",
+   "when": "11월 19일 02:00",
+   "news": [
+    {
+     "title": "한화시스템, 드론 잡는 'AI 레이다' 美 첫 수출",
+     "url": "https://www.hankyung.com/article/202611184776i",
+     "source": "한국경제"
+    },
+    {
+     "title": "한화시스템, 단거리 AESA 레이다 미국 시장 첫 진출",
+     "url": "https://www.khan.co.kr/article/202611181028011",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "기인",
+   "traffic": "1000+",
+   "when": "11월 19일 01:50",
+   "news": [
+    {
+     "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
+     "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224",
+     "source": "중부매일"
+    },
+    {
+     "title": "롤드컵 끝나자 LCK 스토브리그…한화 ‘모글리’, DK 해체설 진화",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083816",
+     "source": "진일보 | 전남일보"
+    }
+   ]
+  },
+  {
+   "kw": "한화생명 e스포츠",
+   "traffic": "100+",
+   "when": "11월 19일 01:50",
+   "news": [
+    {
+     "title": "[오피셜] '옴므' 떠난 한화생명, '모글리' 이재하 감독 승격",
+     "url": "https://www.koreadaily.com/article/20261117145658079",
+     "source": "미주중앙일보"
+    },
+    {
+     "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
+     "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677",
+     "source": "STN SPORTS"
+    }
+   ]
+  },
   {
    "kw": "신세계",
    "traffic": "200+",
@@ -19,6 +70,23 @@
    ]
   },
   {
+   "kw": "ps5 pro",
+   "traffic": "200+",
+   "when": "11월 18일 23:50",
+   "news": [
+    {
+     "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
+     "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
+     "source": "Wccftech"
+    },
+    {
+     "title": "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best?",
+     "url": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best",
+     "source": "Digital Foundry"
+    }
+   ]
+  },
+  {
    "kw": "수능 재난문자 시간",
    "traffic": "10000+",
    "when": "11월 18일 23:40",
@@ -29,8 +97,8 @@
      "source": "대한민국 정책브리핑"
     },
     {
-     "title": "막판까지 고위당정...\"10년 응시 제한\" vs \"총체적 무능\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611190047057911_005.html",
+     "title": "\"딱 한 문제 틀렸다?\"...세무사 의혹 파고든 누리꾼들",
+     "url": "https://www.ytn.co.kr/_ln/0106_202611190229218044",
      "source": "YTN"
     }
    ]
@@ -89,74 +157,6 @@
      "title": "佛 대선 유력주자 르펜 \"정년 60세로 낮추겠다\"",
      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02679766645647032",
      "source": "마켓인"
-    }
-   ]
-  },
-  {
-   "kw": "누리호",
-   "traffic": "200+",
-   "when": "11월 18일 21:30",
-   "news": [
-    {
-     "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
-     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8716239",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "누리호가 가리키는 7대 시드의 길[기고/배경훈]",
-     "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050513/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "강형욱",
-   "traffic": "2000+",
-   "when": "11월 18일 21:20",
-   "news": [
-    {
-     "title": "강형욱, 분노 터졌다 “이런 개는 죽어도 돼”…보호자만 16번 물어",
-     "url": "http://www.atstar1.com/news/articleView.html?idxno=6040900",
-     "source": "앳스타일"
-    },
-    {
-     "title": "[오늘의 채널A] 가족 물어대는 두살 몰티즈, 공존 해결책은",
-     "url": "https://www.donga.com/news/article/all/20261117/135042032/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "앙투안 그리즈만",
-   "traffic": "200+",
-   "when": "11월 18일 21:20",
-   "news": [
-    {
-     "title": "35세 그리에즈만, MLS 4월 뛰고 신인왕…14골 8도움 폭발",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611181347499bG",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "[공식발표] 손흥민도 놓쳤던 그 상, '35살' 그리즈만이 받았다! 18경기 14골 8도움→MLS 올해의 영입생 등극 \"올랜도 역사상 최초\"",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/18/MZSGGYZTGVSWEMRUGFQTENZQGQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "kamil mishara",
-   "traffic": "1000+",
-   "when": "11월 18일 21:20",
-   "news": [
-    {
-     "title": "Sudurpaschim Royals vs Chitwan Rhinos Preview & Prediction | 2026 Nepal Premier League | Qualifier 2",
-     "url": "https://www.thestatszone.com/sudurpaschim-royals-vs-chitwan-rhinos-preview-prediction-2026-nepal-premier-league-qualifier-2-240092",
-     "source": "The Stats Zone"
-    },
-    {
-     "title": "Kamil Mishra Prioritizes Team Victory Over Personal Records",
-     "url": "https://english.ratopati.com/story/87194/it-doesnt-really-matter-who-the-opponent-is-in-the-qualifiers-kamil-mishra",
-     "source": "Ratopati"
     }
    ]
   }
