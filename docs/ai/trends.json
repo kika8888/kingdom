@@ -1,173 +1,162 @@
 {
- "updated": "2026-11-18 12:23",
+ "updated": "2026-11-18 13:10",
  "items": [
   {
-   "kw": "양주시",
-   "traffic": "100+",
-   "when": "11월 18일 11:20",
+   "kw": "영화",
+   "traffic": "1000+",
+   "when": "11월 18일 12:00",
    "news": [
     {
-     "title": "양주시, 버스노선 체계 개선 설문… 30일까지 시민 의견 수렴",
-     "url": "https://www.munhwa.com/article/11632083",
+     "title": "CGV, 11월 기술 특별관 라인업 공개…공연 실황·애니메이션·스릴러 등 6편 – CJ 뉴스룸",
+     "url": "https://cjnews.cj.net/cgv-11%EC%9B%94-%EA%B8%B0%EC%88%A0-%ED%8A%B9%EB%B3%84%EA%B4%80-%EB%9D%BC%EC%9D%B8%EC%97%85-%EA%B3%B5%EA%B0%9C%EA%B3%B5%EC%97%B0-%EC%8B%A4%ED%99%A9%C2%B7%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4/",
+     "source": "CJ 뉴스룸"
+    },
+    {
+     "title": "임영웅 고양 콘서트, 스크린으로 만난다",
+     "url": "https://www.seoul.co.kr/news/life/pop-culture/2026/11/18/20261118500068",
+     "source": "서울신문"
+    }
+   ]
+  },
+  {
+   "kw": "대한민국 해군",
+   "traffic": "500+",
+   "when": "11월 18일 12:00",
+   "news": [
+    {
+     "title": "무신사 “해군과 컬래버”… ‘네이비 짐’ 컬렉션 선봬[금주의 핫딜]",
+     "url": "https://www.munhwa.com/article/11632133",
      "source": "문화일보"
     },
     {
-     "title": "[양주 소식]버스노선 체계 개선 설문조사 등",
-     "url": "https://www.pressian.com/pages/articles/2026111717361407420",
-     "source": "프레시안"
+     "title": "젊은 여자도 입고 다니네…예상밖 인기에 '군대 콜라보' 티셔츠 나온다",
+     "url": "https://www.hankyung.com/article/202611106360g",
+     "source": "한국경제"
     }
    ]
   },
   {
-   "kw": "혈당",
-   "traffic": "5000+",
-   "when": "11월 18일 11:00",
+   "kw": "윤혜진",
+   "traffic": "200+",
+   "when": "11월 18일 12:00",
    "news": [
     {
-     "title": "대전성모병원, 당뇨 환자들 위한 '제15회 당뇨인의 날' 행사",
-     "url": "https://www.newsis.com/view/NISX20261117_0003871418",
+     "title": "‘엄태웅♥’ 윤혜진, 몸 상태 어떻길래..발레 금지령 “골반 물 차고 연골 상해”(왓씨티비)",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/HAYGKNBWGM4WMNBSGUZDCNJXGM/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "`엄태웅♥` 윤혜진, 평생 함께 한 발레 이제 못 해…\"골반에 물이 차 재활 중\" [마데핫리뷰]",
+     "url": "https://mydaily.co.kr/page/view/2026111311284776741",
+     "source": "마이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "중도일보",
+   "traffic": "100+",
+   "when": "11월 18일 12:00",
+   "news": []
+  },
+  {
+   "kw": "apec",
+   "traffic": "100+",
+   "when": "11월 18일 12:00",
+   "news": [
+    {
+     "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+     "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+     "source": "CNBC"
+    },
+    {
+     "title": "China's Xi calls for free and open trade at APEC summit",
+     "url": "https://www.reuters.com/world/chinas-xi-calls-free-open-trade-apec-summit-2026-11-18/",
+     "source": "Reuters"
+    }
+   ]
+  },
+  {
+   "kw": "잠실래미안아이파크",
+   "traffic": "1000+",
+   "when": "11월 18일 11:50",
+   "news": [
+    {
+     "title": "\"당첨되면 20억\"…잠실 아파트 '줍줍' 3가구 나온다",
+     "url": "https://www.newsis.com/view/NISX20261117_0003872071",
      "source": "뉴시스"
     },
     {
-     "title": "가톨릭대 대전성모병원, 제15회 당뇨인의 날 행사 성료",
-     "url": "https://m.joongdo.co.kr/view.php?key=20261117010005983",
-     "source": "중도일보"
+     "title": "잠실서 또 '로또 청약'…래미안아이파크 3가구 무순위 공급",
+     "url": "https://www.newspim.com/news/view/20261117001303",
+     "source": "뉴스핌"
     }
    ]
   },
   {
-   "kw": "선수",
-   "traffic": "1000+",
-   "when": "11월 18일 11:00",
-   "news": [
-    {
-     "title": "러시아 피겨 선수 7명, 핀란드 입국 금지로 그랑프리 출전 무산",
-     "url": "https://www.yna.co.kr/view/AKR20261118082900007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "캐나다 세계 주니어 선수권대회에서 러시아가 배제된 뒤 해킹 보도…IIHF 웹사이트 접속 불가",
-     "url": "https://mezha.net/ko/news/mezha-ee3b03f57aa84a08d430dc88_iihf-website-offline-after-reported-hack/",
-     "source": "Mezha.net"
-    }
-   ]
-  },
-  {
-   "kw": "10억",
-   "traffic": "1000+",
-   "when": "11월 18일 11:00",
-   "news": [
-    {
-     "title": "'아빠, 이 집 나 줄 거지?'…10억 있는 3040 부모들 '뜻밖의 대답'",
-     "url": "https://www.hankyung.com/article/2026111727421",
-     "source": "한국경제"
-    },
-    {
-     "title": "\"자녀 성인 되기 전에 물려주겠다\"…유자녀 3040 자산가 40%, '조기 증여' 원해",
-     "url": "https://www.fnnews.com/news/202611180851556738",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "수능 샤프심",
-   "traffic": "2000+",
-   "when": "11월 18일 11:00",
-   "news": [
-    {
-     "title": "수능 시험장에 흑색 연필만 허용…수정테이프, 지우개는 교육청이 배부",
-     "url": "https://www.hani.co.kr/arti/society/schooling/1287880.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "수능 하루 전 또 바뀐 규정…\"필기구는 흑색 연필만 지참 가능\"",
-     "url": "https://www.chosun.com/national/education/2026/11/18/BSG5DBTQMFCWXAKDZW5OVXAPNY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "lpga",
+   "kw": "삼성바이오로직스",
    "traffic": "500+",
-   "when": "11월 18일 11:00",
+   "when": "11월 18일 11:50",
    "news": [
     {
-     "title": "LPGA Tour season ends with $4 million prize and PGA Tour season ends with 100 players earning cards",
-     "url": "https://www.mdjonline.com/sports/wire/lpga-tour-season-ends-with-4-million-prize-and-pga-tour-season-ends-with-100/article_09a22a02-8aa0-5686-bdd3-a3fcf720223d.html",
-     "source": "Marietta Daily Journal"
+     "title": "삼성바이오 노조, 한국노총 가입…노사 교섭 갈등 ‘평행선’",
+     "url": "https://www.newstomato.com/ReadNews.aspx?no=1320885",
+     "source": "뉴스토마토"
     },
     {
-     "title": "Golf Glance: PGA, LPGA return to U.S.; DP, Champions set for finales",
-     "url": "https://www.thesportsleader.com/2026/11/11/golf-glance-pga-lpga-return-to-u-s-dp-champions-set-for-finales/",
-     "source": "KNBR"
+     "title": "삼성바이오로직스 노사 교섭 재개…사측, 임금 6.2% 선적용 카드 꺼내",
+     "url": "https://pharm.edaily.co.kr/news/read?newsId=04851126645646704",
+     "source": "팜이데일리"
     }
    ]
   },
   {
-   "kw": "삼전닉스",
-   "traffic": "10000+",
-   "when": "11월 18일 10:50",
+   "kw": "추경호",
+   "traffic": "100+",
+   "when": "11월 18일 11:50",
    "news": [
     {
-     "title": "엔비디아 훈풍에…코스피 5,000선 탈환",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118102206Qaf",
+     "title": "’계엄해제 표결 방해’ 추경호 1심 선고…징역 20년 구형",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH2026111809360700G",
      "source": "연합뉴스TV"
     },
     {
-     "title": "[특징주] 두산, 최근 급락 딛고 14%대 반등⋯계열사도 동반 강세",
-     "url": "https://www.viva100.com/article/20261118500393",
-     "source": "브릿지경제"
+     "title": "국민의힘 지도부, 추경호 1심 앞두고 법원 항의 방문",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8715583",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
-   "kw": "한화 이글스",
-   "traffic": "5000+",
-   "when": "11월 18일 10:50",
+   "kw": "고발",
+   "traffic": "1000+",
+   "when": "11월 18일 11:40",
    "news": [
     {
-     "title": "한화 역사에 남을 트레이드 성공작인데…하필 FA 앞두고 부상→1할7푼 시련, 그런데 실망은 아직 이르다",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020415",
-     "source": "SPOTV NEWS"
-    },
-    {
-     "title": "류지현 감독의 생각을 깬 한화 선수가 있다! → 도대체 누구야 \"솔직히 열정적으로 하는 선수로 보이지는 않았다\"",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/18/GU2DGZLFGRTGIYJSMY2TGNRYMM/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "혼인",
-   "traffic": "200+",
-   "when": "11월 18일 10:50",
-   "news": [
-    {
-     "title": "‘새로운 순천’ 신청사 시대 연다…23일 개청식",
-     "url": "https://www.namdonews.com/news/articleView.html?idxno=929637",
-     "source": "남도일보"
-    },
-    {
-     "title": "혼인신고하고 기념사진도 '찰칵'…김해시, 행복민원실에 포토존 설치",
-     "url": "http://www.gimhaenews.co.kr/news/articleView.html?idxno=54471",
-     "source": "김해뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "정치",
-   "traffic": "200+",
-   "when": "11월 18일 10:40",
-   "news": [
-    {
-     "title": "[속보] '체포 지시 부인' 조태용 전 국정원장 징역 2년 6개월 확정",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6866573_36918.html",
+     "title": "[단독] 리트 만점자 \"AI 안 썼지만 확률 희박은 인정\"",
+     "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6866434_36989.html",
      "source": "MBC 뉴스"
     },
     {
-     "title": "“정치인 체포 지시 없었다” 허위 발언…조태용 전 국정원장, 징역 2년6개월 확정",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1287893.html",
-     "source": "한겨레"
+     "title": "[단독] ‘리트 만점자’ 이진우 결국 ‘공무집행방해’ 혐의 형사고발 수순",
+     "url": "https://news.jtbc.co.kr/article/NB12328614",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "기예르모 에레디아",
+   "traffic": "500+",
+   "when": "11월 18일 11:40",
+   "news": [
+    {
+     "title": "[단독] SSG, 에레디아와 결별…‘트리플A 24홈런·21도루’ 리스 하인즈 영입한다",
+     "url": "http://www.spochoo.com/news/articleView.html?idxno=132194",
+     "source": "더게이트"
+    },
+    {
+     "title": "'MLB 계약까지 합의했는데 한국이 더 낫다고?' 2R 출신 100홈런 슬러거, 돌연 KBO행...어디로 갈까? - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/18/202611180814778671O",
+     "source": "머니투데이"
     }
    ]
   }
