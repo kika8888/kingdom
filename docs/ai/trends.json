@@ -1,49 +1,151 @@
 {
- "updated": "2026-11-19 05:22",
+ "updated": "2026-11-19 06:23",
  "items": [
   {
-   "kw": "삼전 닉스",
-   "traffic": "2000+",
-   "when": "11월 19일 04:10",
+   "kw": "택시",
+   "traffic": "500+",
+   "when": "11월 19일 05:10",
    "news": [
     {
-     "title": "엔비디아, 또 다시 호실적 기록…복귀 의사 밝힌 젠슨 황에는 “재선임 계획 없어”",
-     "url": "https://www.khan.co.kr/article/202611181549001",
+     "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
+     "source": "주간조선"
+    },
+    {
+     "title": "택시비 더 낸 승객 찾아 차액 돌려준 기사…치킨 선물도 사양",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101721Uy2",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "김건희",
+   "traffic": "100+",
+   "when": "11월 19일 05:10",
+   "news": [
+    {
+     "title": "한덕수 대법 선고 D-1···“12·3은 내란” 여부 첫 판단 나온다",
+     "url": "https://www.khan.co.kr/article/202611181655001",
      "source": "경향신문"
     },
     {
-     "title": "구심점 사라진 AI 생태계…앤트로픽·삼전닉스가 구해낼까 [최재원의 마켓워치]",
-     "url": "https://stock.mk.co.kr/news/view/1201870",
-     "source": "매일경제 마켓"
+     "title": "’한덕수 내란·김건희 3대 의혹’…오늘 나란히 대법 선고",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119044431Z5i",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "김상식",
+   "traffic": "1000+",
+   "when": "11월 19일 05:10",
+   "news": [
+    {
+     "title": "'4명 두 자릿수 득점' 프로농구 삼성, 단독 1위로 휴식기 맞이",
+     "url": "https://www.yna.co.kr/view/AKR20261118185700007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[현장인터뷰]'국가대표 배출' 김상식 감독 \"지도자로서 뿌듯\" vs '부상 병동' 조상현 감독 \"마레이 치골 염증, 경기 양상 봐야한다\"",
+     "url": "https://www.chosun.com/sports/basketball/2026/11/18/GQ2DEYRQMVTGKZBUHBQWKNZZMM/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "한화 이글스",
+   "traffic": "10000+",
+   "when": "11월 19일 05:00",
+   "news": [
+    {
+     "title": "한화 역사에 남을 트레이드 성공작인데…하필 FA 앞두고 부상→1할7푼 시련, 그런데 실망은 아직 이르다",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020415",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "한화 전방위 투자, FA만 하는 게 아니다… 이렇게 팍팍 밀어주는데 성적 나야 한다",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020374",
+     "source": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "kw": "이재명",
+   "traffic": "100+",
+   "when": "11월 19일 05:00",
+   "news": [
+    {
+     "title": "1년 대기가 기본, 신청 못하는 지원금... 다문화 혜택의 실상",
+     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285398",
+     "source": "OhmyNews"
+    },
+    {
+     "title": "‘보수 의제’ 사회·문화로 확장하는 이 대통령…독될까 약될까",
+     "url": "https://weekly.khan.co.kr/article/202611170600001",
+     "source": "주간경향"
+    }
+   ]
+  },
+  {
+   "kw": "김해국제공항",
+   "traffic": "100+",
+   "when": "11월 19일 04:40",
+   "news": [
+    {
+     "title": "새 쫓으랬더니 ‘낮잠·유튜브’…김해공항 무더기 징계 뒤 또 해임",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716264",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "엽총탄 소지에 공포탄 발사까지…기강 해이 심각",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716345",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "삼전 닉스",
+   "traffic": "20000+",
+   "when": "11월 19일 04:10",
+   "news": [
+    {
+     "title": "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
+     "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261118175325946ih",
+     "source": "네이버 프리미엄콘텐츠"
+    },
+    {
+     "title": "오천피 이끈 기관… 삼전닉스는 숨돌리기 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "한화오션",
-   "traffic": "500+",
+   "traffic": "2000+",
    "when": "11월 19일 03:30",
    "news": [
     {
-     "title": "거제 바다숲 조성, 민·관 업무협약…4년간 1.59㎢ 규모",
-     "url": "https://www.newsis.com/view/NISX20261118_0003873559",
-     "source": "뉴시스"
+     "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
+     "url": "https://www.yna.co.kr/view/AKR20261118170400704",
+     "source": "연합뉴스"
     },
     {
-     "title": "해수부·한화오션, 거제 해역에 바다숲 조성 추진",
-     "url": "https://www.yna.co.kr/view/AKR20261117033200030",
-     "source": "연합뉴스"
+     "title": "3,600톤급 호위함 ’평택함’ 진수…내년 해군 인도 예정",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119051543jAe",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "kw": "자영업",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 19일 03:00",
    "news": [
     {
-     "title": "울산 남구, 골목상권 소통·상생의 날… 민생경제 활력 모색",
-     "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591419687808",
-     "source": "울산종합일보"
+     "title": "지역 문제에 기술 입힌 대학생들…관광부터 자영업까지",
+     "url": "https://www.gjdream.com/news/articleView.html?idxno=674475",
+     "source": "광주드림"
     },
     {
      "title": "골목상인 10명 중 6명 \"작년보다 매출 감소\"",
@@ -54,120 +156,18 @@
   },
   {
    "kw": "김정은",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 19일 02:50",
    "news": [
     {
-     "title": "APEC 담판, 전쟁 끝낼까...\"해법 쉽지 않을 것\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611182303205047_005.html",
-     "source": "YTN"
+     "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
+     "url": "https://www.yna.co.kr/view/AKR20261118159000083",
+     "source": "연합뉴스"
     },
     {
-     "title": "시진핑, 직접 공항 나가 트럼프 ‘포옹 영접’",
-     "url": "https://www.donga.com/news/Inter/article/all/20261119/135050902/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "승리",
-   "traffic": "100+",
-   "when": "11월 19일 02:10",
-   "news": [
-    {
-     "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
-     "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html",
-     "source": "TV조선뉴스"
-    },
-    {
-     "title": "승리, 만삭 20대 아내와 공항 포착…\"여기까지 찍어라\" 제지 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111823451756876",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "한화생명",
-   "traffic": "100+",
-   "when": "11월 19일 02:10",
-   "news": [
-    {
-     "title": "'350조 운용' KIC 차기 CIO에 신민식…다음주 초 인사 발표",
-     "url": "https://marketin.edaily.co.kr/News/Read?newsId=03178326645647032",
-     "source": "마켓인"
-    },
-    {
-     "title": "350조 굴릴 한국투자공사 새 CIO에 한화생명 출신 신민식",
-     "url": "https://view.asiae.co.kr/article/2026111818335608440",
-     "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "한화",
-   "traffic": "100+",
-   "when": "11월 19일 02:00",
-   "news": [
-    {
-     "title": "한화비전, 한화세미텍 매각설 일축…\"검토한 바 없다\"",
-     "url": "https://v.daum.net/v/1WNhADiPof",
-     "source": "Daum"
-    },
-    {
-     "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
-     "url": "https://dealsite.co.kr/articles/172804",
-     "source": "딜사이트"
-    }
-   ]
-  },
-  {
-   "kw": "기인",
-   "traffic": "1000+",
-   "when": "11월 19일 01:50",
-   "news": [
-    {
-     "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
-     "url": "https://www.kmib.co.kr/article/20261119500020",
-     "source": "국민일보"
-    },
-    {
-     "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
-     "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224",
-     "source": "중부매일"
-    }
-   ]
-  },
-  {
-   "kw": "한화생명 e스포츠",
-   "traffic": "100+",
-   "when": "11월 19일 01:50",
-   "news": [
-    {
-     "title": "[오피셜] '옴므' 떠난 한화생명, '모글리' 이재하 감독 승격",
-     "url": "https://www.koreadaily.com/article/20261117145658079",
-     "source": "미주중앙일보"
-    },
-    {
-     "title": "한화생명 창단 첫 MSI 우승 감독 '옴므' 윤성영 떠난다",
-     "url": "https://www.dailyesports.com/view.php?ud=20261117105922509374bcc1e038_27",
-     "source": "데일리e스포츠"
-    }
-   ]
-  },
-  {
-   "kw": "흰수마자",
-   "traffic": "100+",
-   "when": "11월 19일 00:50",
-   "news": [
-    {
-     "title": "경기 문산천에 멸종위기 1급 '흰수마자' 서식",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337070",
-     "source": "인천일보"
-    },
-    {
-     "title": "경기도, 파주 문산천에 멸종위기야생생물 ‘흰수마자’ 서식",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041247",
-     "source": "기호일보"
+     "title": "트럼프와 김정은의 친분 과시…협상은 ’가시밭길’",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119054543Uvj",
+     "source": "연합뉴스TV"
     }
    ]
   }
