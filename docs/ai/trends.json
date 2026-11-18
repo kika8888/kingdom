@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-19 00:23",
+ "updated": "2026-11-19 01:23",
  "items": [
   {
-   "kw": "김간지",
+   "kw": "신세계",
+   "traffic": "200+",
+   "when": "11월 18일 23:50",
+   "news": [
+    {
+     "title": "신세계 3분기 실적, 어디 하나 빠진 곳이 없네",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445071",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "[리포트 브리핑]신세계, '3Q26 Re: 탄탄한 실적, 백화점 성장률이 관건' 목표가 365,000원 - 하나증권",
+     "url": "https://www.newspim.com/news/view/20261111000117",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "gta6 스팀",
    "traffic": "100+",
+   "when": "11월 18일 23:50",
+   "news": [
+    {
+     "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
+     "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
+     "source": "PC Gamer"
+    },
+    {
+     "title": "Steam Makes Popular World War II Strategy Game Free to Play This Weekend",
+     "url": "https://www.polygon.com/company-of-heroes-3-free-steam-weekend-sale-november-2026/",
+     "source": "Polygon.com"
+    }
+   ]
+  },
+  {
+   "kw": "수능 재난문자 시간",
+   "traffic": "10000+",
+   "when": "11월 18일 23:40",
+   "news": [
+    {
+     "title": "이 대통령 \"수능 문제지 AI 업로드 전수조사…부정행위 철저히 엄단\"",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975944",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "수정테이프엔 카메라, '쌀집 계산기'엔 키보드",
+     "url": "https://imnews.imbc.com/replay/2026/nw2500/article/6866750_36989.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "김간지",
+   "traffic": "200+",
    "when": "11월 18일 23:10",
    "news": []
   },
@@ -43,7 +94,7 @@
   },
   {
    "kw": "마린 르펜",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 18일 21:30",
    "news": [
     {
@@ -52,9 +103,9 @@
      "source": "한국경제"
     },
     {
-     "title": "佛 대선 유력주자 르펜 \"정년 60세로 낮추겠다\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02679766645647032",
-     "source": "마켓인"
+     "title": "佛 대선 1·2위 후보 \"정년 60세로 낮출 것\"… 마크롱 연금 개혁에 반기",
+     "url": "https://www.chosun.com/international/international_general/2026/11/19/CP4WA5FVJBGB5MSHW57VAVTM3E/",
+     "source": "조선일보"
     }
    ]
   },
@@ -64,14 +115,14 @@
    "when": "11월 18일 21:30",
    "news": [
     {
+     "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
+     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8716239",
+     "source": "KBS 뉴스"
+    },
+    {
      "title": "누리호가 가리키는 7대 시드의 길[기고/배경훈]",
      "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050513/2",
      "source": "동아일보"
-    },
-    {
-     "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716239",
-     "source": "KBS 뉴스"
     }
    ]
   },
@@ -93,23 +144,6 @@
    ]
   },
   {
-   "kw": "kamil mishara",
-   "traffic": "500+",
-   "when": "11월 18일 21:20",
-   "news": [
-    {
-     "title": "Chitwan Rhinos Defeat Kathmandu Gurkhas by 61 Runs to Advance in NPL",
-     "url": "https://english.ratopati.com/story/87190/chitwan-advances-to-second-qualifier-after-defeating-kathmandu-by-61-runs",
-     "source": "Ratopati"
-    },
-    {
-     "title": "Sri Lankan Batter Kamil Mishara Sets New Record in Nepal Premier League",
-     "url": "https://english.ratopati.com/story/87187/kamil-breaks-mark-watts-record-in-npl",
-     "source": "Ratopati"
-    }
-   ]
-  },
-  {
    "kw": "앙투안 그리즈만",
    "traffic": "200+",
    "when": "11월 18일 21:20",
@@ -123,40 +157,6 @@
      "title": "[공식발표] 손흥민도 놓쳤던 그 상, '35살' 그리즈만이 받았다! 18경기 14골 8도움→MLS 올해의 영입생 등극 \"올랜도 역사상 최초\"",
      "url": "https://www.chosun.com/sports/world-football/2026/11/18/MZSGGYZTGVSWEMRUGFQTENZQGQ/",
      "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "교통 사고",
-   "traffic": "1000+",
-   "when": "11월 18일 21:10",
-   "news": [
-    {
-     "title": "김포 선진버스, ‘교통사고 50% 줄이기’ 과제 조기 달성",
-     "url": "https://www.newswire.co.kr/newsRead.php?no=1047435",
-     "source": "뉴스와이어"
-    },
-    {
-     "title": "선진버스, 교통사고 감축 목표 조기 달성…안전관리 강화",
-     "url": "https://www.cvinfo.com/news/articleView.html?idxno=32047",
-     "source": "상용차매거진"
-    }
-   ]
-  },
-  {
-   "kw": "시계",
-   "traffic": "200+",
-   "when": "11월 18일 21:10",
-   "news": [
-    {
-     "title": "전 세계 시계 전문가들이 선정한, 2026 올해의 스포츠 워치",
-     "url": "https://www.gqkorea.co.kr/2026/11/18/%EC%A0%84-%EC%84%B8%EA%B3%84-%EC%8B%9C%EA%B3%84-%EC%A0%84%EB%AC%B8%EA%B0%80%EB%93%A4%EC%9D%B4-%EC%84%A0%EC%A0%95%ED%95%9C-2026-%EC%98%AC%ED%95%B4%EC%9D%98-%EC%8A%A4%ED%8F%AC%EC%B8%A0-%EC%9B%8C/",
-     "source": "GQ Korea"
-    },
-    {
-     "title": "공식 발표된 올해 최고의 시계, 의외로 독립 브랜드의 것",
-     "url": "https://www.gqkorea.co.kr/2026/11/17/%EA%B3%B5%EC%8B%9D-%EB%B0%9C%ED%91%9C%EB%90%9C-%EC%98%AC%ED%95%B4-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%8B%9C%EA%B3%84-%EC%9D%98%EC%99%B8%EB%A1%9C-%EB%8F%85%EB%A6%BD-%EB%B8%8C%EB%9E%9C%EB%93%9C%EC%9D%98/",
-     "source": "GQ Korea"
     }
    ]
   }
