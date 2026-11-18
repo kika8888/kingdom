@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-19 06:23",
+ "updated": "2026-11-19 06:50",
  "items": [
   {
+   "kw": "롯데 자이언츠",
+   "traffic": "2000+",
+   "when": "11월 19일 05:30",
+   "news": [
+    {
+     "title": "롯데 한동희, 중수골 골절…\"회복까지 6주 소요\"",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118232110Z1r",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "롯데 캠프에 충격 비보…'리틀 이대호' 4번타자 골절 날벼락, '4일 150구' 국대 필승조 듀오 괜찮을까 [오!쎈 미야자키]",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/18/GA4TKMJWGVSGGMJSGU4WEMJVMU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "미사일",
+   "traffic": "200+",
+   "when": "11월 19일 05:30",
+   "news": [
+    {
+     "title": "젤렌스키 “러, 북한 미사일 의존…우크라이나에 무기·기술 지원 정당”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8715628",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "\"북한, 한 달 수십 발씩 러시아에 탄도미사일 제공…미사일 성능 갈고 닦아\"",
+     "url": "https://www.chosun.com/international/international_general/2026/11/17/ZN7KQ3MVTRBQDFLCF4JHHPYDJY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "채무",
+   "traffic": "100+",
+   "when": "11월 19일 05:30",
+   "news": [
+    {
+     "title": "중앙일보, 1370억원 공모채 채무조정안 모두 가결… 매각 작업 탄력",
+     "url": "https://biz.chosun.com/stock/stock_general/2026/11/17/TAU5FXBYMZHIDLLFDWUUW6HBK4/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "인지디스플레, 계열사 넥스플러스에 132억원 채무보증 결정",
+     "url": "https://www.datatooza.com/article/20261117151927849652ef3f6da6_80",
+     "source": "데이터투자"
+    }
+   ]
+  },
+  {
    "kw": "택시",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 19일 05:10",
    "news": [
     {
@@ -46,9 +97,9 @@
      "source": "연합뉴스"
     },
     {
-     "title": "[현장인터뷰]'국가대표 배출' 김상식 감독 \"지도자로서 뿌듯\" vs '부상 병동' 조상현 감독 \"마레이 치골 염증, 경기 양상 봐야한다\"",
-     "url": "https://www.chosun.com/sports/basketball/2026/11/18/GQ2DEYRQMVTGKZBUHBQWKNZZMM/",
-     "source": "조선일보"
+     "title": "'삼성은 선두 굳히고, 신한은행은 3초의 기적 썼다' LG 94-88 제압, KB스타즈 62-61 역전승 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/202611190009777279O",
+     "source": "머니투데이"
     }
    ]
   },
@@ -80,9 +131,9 @@
      "source": "OhmyNews"
     },
     {
-     "title": "‘보수 의제’ 사회·문화로 확장하는 이 대통령…독될까 약될까",
-     "url": "https://weekly.khan.co.kr/article/202611170600001",
-     "source": "주간경향"
+     "title": "'내국인 역차별'의 의제화, 이재명 대통령의 의도는?[숫자로 본 대한민국]",
+     "url": "https://www.hankookilbo.com/news/article/A2026111812590002443",
+     "source": "한국일보"
     }
    ]
   },
@@ -104,70 +155,19 @@
    ]
   },
   {
-   "kw": "삼전 닉스",
-   "traffic": "20000+",
-   "when": "11월 19일 04:10",
-   "news": [
-    {
-     "title": "[마감시황] 11/18 엔비디아 호실적에 코스피 +1.99% 반등",
-     "url": "https://contents.premium.naver.com/ontimebrief/sihwangontime/contents/261118175325946ih",
-     "source": "네이버 프리미엄콘텐츠"
-    },
-    {
-     "title": "오천피 이끈 기관… 삼전닉스는 숨돌리기 - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/19/2026111819575381013",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "한화오션",
-   "traffic": "2000+",
-   "when": "11월 19일 03:30",
-   "news": [
-    {
-     "title": "[영상] 어느덧 5번함…3천600t급 최신예 호위함 '평택함' 진수",
-     "url": "https://www.yna.co.kr/view/AKR20261118170400704",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "3,600톤급 호위함 ’평택함’ 진수…내년 해군 인도 예정",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119051543jAe",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "자영업",
+   "kw": "레인보우로보틱스",
    "traffic": "200+",
-   "when": "11월 19일 03:00",
+   "when": "11월 19일 04:40",
    "news": [
     {
-     "title": "지역 문제에 기술 입힌 대학생들…관광부터 자영업까지",
-     "url": "https://www.gjdream.com/news/articleView.html?idxno=674475",
-     "source": "광주드림"
+     "title": "아틀라스 이어 또 CES 주인공?…급등한 로봇주, 더 오를까",
+     "url": "https://www.hankyung.com/article/202611185064i",
+     "source": "한국경제"
     },
     {
-     "title": "골목상인 10명 중 6명 \"작년보다 매출 감소\"",
-     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072977",
-     "source": "경상일보"
-    }
-   ]
-  },
-  {
-   "kw": "김정은",
-   "traffic": "1000+",
-   "when": "11월 19일 02:50",
-   "news": [
-    {
-     "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
-     "url": "https://www.yna.co.kr/view/AKR20261118159000083",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "트럼프와 김정은의 친분 과시…협상은 ’가시밭길’",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119054543Uvj",
-     "source": "연합뉴스TV"
+     "title": "[종목상담 주식민원처리반] 삼성전자와 휴머노이드 공동개발 모멘텀 '레인보우로보틱스' - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/18/2026111818287034428",
+     "source": "머니투데이"
     }
    ]
   }
