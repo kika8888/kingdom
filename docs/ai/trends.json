@@ -1,14 +1,133 @@
 {
- "updated": "2026-11-19 06:50",
+ "updated": "2026-11-19 07:23",
  "items": [
+  {
+   "kw": "옥주현",
+   "traffic": "2000+",
+   "when": "11월 19일 06:20",
+   "news": [
+    {
+     "title": "핑클, 21년 만의 완전체 컴백 초읽기…새 프로필 공개",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873940",
+     "source": "뉴시스"
+    },
+    {
+     "title": "'핑클 완전체' 이효리, 요가원장은 잠시 안녕…가죽바지·하이힐 '꾸꾸꾸' 귀환",
+     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/18/HEZTOMRRMJRDQOJQGUZTONZYMU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "영화",
+   "traffic": "200+",
+   "when": "11월 19일 06:20",
+   "news": [
+    {
+     "title": "임영웅 공연을 스크린에서…CGV '개봉 D-DAY'",
+     "url": "https://www.etnews.com/20261118000012",
+     "source": "전자신문"
+    },
+    {
+     "title": "드론쇼까지…임영웅, 공연 실황 영화 오늘(18일) 개봉 관람 포인트 셋",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/GNRTINRXGFRWEMLCGI3DGOLFHA/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "이민정",
+   "traffic": "2000+",
+   "when": "11월 19일 06:00",
+   "news": [
+    {
+     "title": "이민정, 미국 저택 주방 공개…대형 가스레인지부터 고급스러운 인테리어까지",
+     "url": "https://www.segye.com/newsView/20261118502794",
+     "source": "세계일보"
+    },
+    {
+     "title": "이병헌·이민정 LA 저택 공개…주방만 봐도 좋아 보인다",
+     "url": "https://www.newsis.com/view/NISX20261117_0003872161",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "kbo 리그",
+   "traffic": "2000+",
+   "when": "11월 19일 06:00",
+   "news": [
+    {
+     "title": "'韓 최초 역사 쓴 외인' 에레디아, 결국 SSG 떠난다 \"작별인사 전한다, 진심으로 감사해\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/18/2026111819465096590",
+     "source": "머니투데이"
+    },
+    {
+     "title": "마이너 100홈런 26살 거포, 한국행 위해 볼티모어에서 방출…SSG 합류할까 \"충분히 임팩트 있는 타자\"",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/18/MJRGCZRSGAZTONLGGRRDMMJZMU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "3기신도시 남양주 왕숙지구",
+   "traffic": "100+",
+   "when": "11월 19일 06:00",
+   "news": [
+    {
+     "title": "남양주 왕숙 A-17블록 ‘왕숙 한신더휴 센텀’ 이달 분양…전용 59㎡ 379가구",
+     "url": "https://www.donga.com/news/Economy/article/all/20261118/135044016/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "3기 신도시 입주 지연에 ‘광교·일산’ 신규 분양 대안으로",
+     "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/18/72R5ILH57FHQRMA735YJZPNWBM/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "오현규",
+   "traffic": "200+",
+   "when": "11월 19일 05:50",
+   "news": [
+    {
+     "title": "[사커토픽] 손흥민 유럽 복귀·김민재 EPL행·오현규 나폴리 트레이드설…A매치 기간에도 뜨거운 코리안 스타 이적시장",
+     "url": "https://sports.donga.com/sports/article/all/20261117/135037364/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "‘韓 국대’ 오현규, 220억 ‘프리미어리그 입성’ 토트넘 이적으로 성사될까 “1월 이적시장 영입 검토 중”",
+     "url": "https://sports.khan.co.kr/article/202611182033003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "안세영",
+   "traffic": "1000+",
+   "when": "11월 19일 05:50",
+   "news": [
+    {
+     "title": "[오늘의 영상] 언제나 어디서나 월드 클래스!",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8714321",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[스포츠 영상] '12승 신기록 도전' 안세영 '오늘은 팬들과 함께!'",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6866097_37004.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
   {
    "kw": "롯데 자이언츠",
    "traffic": "2000+",
    "when": "11월 19일 05:30",
    "news": [
     {
-     "title": "롯데 한동희, 중수골 골절…\"회복까지 6주 소요\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261118232110Z1r",
+     "title": "롯데 한동희, 타박상 아닌 ’손등 골절’…“회복에 6주 소요“",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118170036Whc",
      "source": "연합뉴스TV"
     },
     {
@@ -49,125 +168,6 @@
      "title": "인지디스플레, 계열사 넥스플러스에 132억원 채무보증 결정",
      "url": "https://www.datatooza.com/article/20261117151927849652ef3f6da6_80",
      "source": "데이터투자"
-    }
-   ]
-  },
-  {
-   "kw": "택시",
-   "traffic": "1000+",
-   "when": "11월 19일 05:10",
-   "news": [
-    {
-     "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
-     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
-     "source": "주간조선"
-    },
-    {
-     "title": "택시비 더 낸 승객 찾아 차액 돌려준 기사…치킨 선물도 사양",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118101721Uy2",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "김건희",
-   "traffic": "100+",
-   "when": "11월 19일 05:10",
-   "news": [
-    {
-     "title": "한덕수 대법 선고 D-1···“12·3은 내란” 여부 첫 판단 나온다",
-     "url": "https://www.khan.co.kr/article/202611181655001",
-     "source": "경향신문"
-    },
-    {
-     "title": "’한덕수 내란·김건희 3대 의혹’…오늘 나란히 대법 선고",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119044431Z5i",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "김상식",
-   "traffic": "1000+",
-   "when": "11월 19일 05:10",
-   "news": [
-    {
-     "title": "'4명 두 자릿수 득점' 프로농구 삼성, 단독 1위로 휴식기 맞이",
-     "url": "https://www.yna.co.kr/view/AKR20261118185700007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'삼성은 선두 굳히고, 신한은행은 3초의 기적 썼다' LG 94-88 제압, KB스타즈 62-61 역전승 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/19/202611190009777279O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "한화 이글스",
-   "traffic": "10000+",
-   "when": "11월 19일 05:00",
-   "news": [
-    {
-     "title": "한화 역사에 남을 트레이드 성공작인데…하필 FA 앞두고 부상→1할7푼 시련, 그런데 실망은 아직 이르다",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020415",
-     "source": "SPOTV NEWS"
-    },
-    {
-     "title": "한화 전방위 투자, FA만 하는 게 아니다… 이렇게 팍팍 밀어주는데 성적 나야 한다",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020374",
-     "source": "SPOTV NEWS"
-    }
-   ]
-  },
-  {
-   "kw": "이재명",
-   "traffic": "100+",
-   "when": "11월 19일 05:00",
-   "news": [
-    {
-     "title": "1년 대기가 기본, 신청 못하는 지원금... 다문화 혜택의 실상",
-     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285398",
-     "source": "OhmyNews"
-    },
-    {
-     "title": "'내국인 역차별'의 의제화, 이재명 대통령의 의도는?[숫자로 본 대한민국]",
-     "url": "https://www.hankookilbo.com/news/article/A2026111812590002443",
-     "source": "한국일보"
-    }
-   ]
-  },
-  {
-   "kw": "김해국제공항",
-   "traffic": "100+",
-   "when": "11월 19일 04:40",
-   "news": [
-    {
-     "title": "새 쫓으랬더니 ‘낮잠·유튜브’…김해공항 무더기 징계 뒤 또 해임",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716264",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "엽총탄 소지에 공포탄 발사까지…기강 해이 심각",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716345",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "레인보우로보틱스",
-   "traffic": "200+",
-   "when": "11월 19일 04:40",
-   "news": [
-    {
-     "title": "아틀라스 이어 또 CES 주인공?…급등한 로봇주, 더 오를까",
-     "url": "https://www.hankyung.com/article/202611185064i",
-     "source": "한국경제"
-    },
-    {
-     "title": "[종목상담 주식민원처리반] 삼성전자와 휴머노이드 공동개발 모멘텀 '레인보우로보틱스' - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/18/2026111818287034428",
-     "source": "머니투데이"
     }
    ]
   }
