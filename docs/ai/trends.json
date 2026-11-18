@@ -1,20 +1,54 @@
 {
- "updated": "2026-11-19 03:23",
+ "updated": "2026-11-19 04:23",
  "items": [
+  {
+   "kw": "김정은",
+   "traffic": "500+",
+   "when": "11월 19일 02:50",
+   "news": [
+    {
+     "title": "시진핑, 공항서 트럼프 포옹... 美中러 담판 전날 ‘파격 예우’",
+     "url": "https://www.chosun.com/international/international_general/2026/11/18/HB7CW2IV6BG3FJCBMRDVBHFA4E/",
+     "source": "조선일보"
+    },
+    {
+     "title": "미중러 정상회담일, 유럽은 ’의지의 연합’ 정상회의",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "승리",
+   "traffic": "100+",
+   "when": "11월 19일 02:10",
+   "news": [
+    {
+     "title": "승리 '임신한 부인과 함께 귀국'",
+     "url": "https://www.mt.co.kr/photo/202611182305239152",
+     "source": "머니투데이"
+    },
+    {
+     "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
+     "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html",
+     "source": "TV조선뉴스"
+    }
+   ]
+  },
   {
    "kw": "한화",
    "traffic": "100+",
    "when": "11월 19일 02:00",
    "news": [
     {
-     "title": "한화시스템, 드론 잡는 'AI 레이다' 美 첫 수출",
-     "url": "https://www.hankyung.com/article/202611184776i",
-     "source": "한국경제"
+     "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032",
+     "source": "마켓인"
     },
     {
-     "title": "한화시스템, 단거리 AESA 레이다 미국 시장 첫 진출",
-     "url": "https://www.khan.co.kr/article/202611181028011",
-     "source": "경향신문"
+     "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
+     "url": "https://dealsite.co.kr/articles/172804",
+     "source": "딜사이트"
     }
    ]
   },
@@ -53,6 +87,23 @@
    ]
   },
   {
+   "kw": "흰수마자",
+   "traffic": "100+",
+   "when": "11월 19일 00:50",
+   "news": [
+    {
+     "title": "경기 문산천에 멸종위기 1급 '흰수마자' 서식",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337070",
+     "source": "인천일보"
+    },
+    {
+     "title": "경기도, 파주 문산천에 멸종위기야생생물 ‘흰수마자’ 서식",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041247",
+     "source": "기호일보"
+    }
+   ]
+  },
+  {
    "kw": "신세계",
    "traffic": "200+",
    "when": "11월 18일 23:50",
@@ -75,20 +126,20 @@
    "when": "11월 18일 23:50",
    "news": [
     {
+     "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
+     "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979",
+     "source": "Kotaku"
+    },
+    {
      "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
      "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
      "source": "Wccftech"
-    },
-    {
-     "title": "GTA 6: PS5 vs PS5 Pro, Xbox Series X and Series S: Which Console Plays Best?",
-     "url": "https://www.digitalfoundry.net/features/gta-6-ps5-vs-ps5-pro-xbox-series-x-and-series-s-which-console-plays-best",
-     "source": "Digital Foundry"
     }
    ]
   },
   {
    "kw": "수능 재난문자 시간",
-   "traffic": "10000+",
+   "traffic": "5000+",
    "when": "11월 18일 23:40",
    "news": [
     {
@@ -108,57 +159,6 @@
    "traffic": "200+",
    "when": "11월 18일 23:10",
    "news": []
-  },
-  {
-   "kw": "김소희",
-   "traffic": "200+",
-   "when": "11월 18일 22:20",
-   "news": [
-    {
-     "title": "[전문] 김소희 루머 가해자 징역형 “타인 삶 짓밟는 행위, 책임 뒤따라”",
-     "url": "https://sports.donga.com/ent/article/all/20261117/135039372/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "\"술집서 일하다 남편 만나\"…앨리스 소희, 소문 유포자 징역 1년 6개월 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/17/2026111714403611889",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "김명민",
-   "traffic": "500+",
-   "when": "11월 18일 22:00",
-   "news": [
-    {
-     "title": "김명민 “스키복 팔다 경찰서까지”…20대 시절 회상",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261118/135051018/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "‘데뷔 30년만 첫 예능’ 김명민, 오늘‘유 퀴즈’ 출격…알고보니 유재석 대학 동기",
-     "url": "https://www.viva100.com/article/20261118500603",
-     "source": "브릿지경제"
-    }
-   ]
-  },
-  {
-   "kw": "마린 르펜",
-   "traffic": "10000+",
-   "when": "11월 18일 21:30",
-   "news": [
-    {
-     "title": "나라 곳간 빨간불인데…\"60세부터 연금 수령\" 파격 승부수",
-     "url": "https://www.hankyung.com/article/2026111855181",
-     "source": "한국경제"
-    },
-    {
-     "title": "佛 대선 유력주자 르펜 \"정년 60세로 낮추겠다\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02679766645647032",
-     "source": "마켓인"
-    }
-   ]
   }
  ]
 }
