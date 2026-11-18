@@ -1,26 +1,60 @@
 {
- "updated": "2026-11-18 22:23",
+ "updated": "2026-11-18 22:50",
  "items": [
+  {
+   "kw": "마린 르펜",
+   "traffic": "2000+",
+   "when": "11월 18일 21:30",
+   "news": [
+    {
+     "title": "나라 곳간 빨간불인데…\"60세부터 연금 수령\" 파격 승부수",
+     "url": "https://www.hankyung.com/article/2026111855181",
+     "source": "한국경제"
+    },
+    {
+     "title": "佛 대선 유력주자 르펜 \"정년 60세로 낮추겠다\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02679766645647032",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "누리호",
+   "traffic": "200+",
+   "when": "11월 18일 21:30",
+   "news": [
+    {
+     "title": "누리호 5차 발사 성공 최종 확인…“목표궤도 진입 정상 수행”",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716239",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "누리호 5차 발사 성공 최종 확인…위성 1기 미사출 원인은 미궁",
+     "url": "https://www.yna.co.kr/view/AKR20261118110600017",
+     "source": "연합뉴스"
+    }
+   ]
+  },
   {
    "kw": "kamil mishara",
    "traffic": "500+",
    "when": "11월 18일 21:20",
    "news": [
     {
+     "title": "Chitwan Rhinos set 205-run target for Kathmandu Gorkhas",
+     "url": "https://english.nepalnews.com/s/sports/chitwan-rhinos-set-205-run-target-for-kathmandu-gorkhas/",
+     "source": "Nepalnews.com"
+    },
+    {
      "title": "Sri Lankan Batter Kamil Mishara Sets New Record in Nepal Premier League",
      "url": "https://english.ratopati.com/story/87187/kamil-breaks-mark-watts-record-in-npl",
      "source": "Ratopati"
-    },
-    {
-     "title": "Kathmandu Gorkhas vs Chitwan Rhinos, Eliminator, Nepal Premier League 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-     "url": "https://www.cricbuzz.com/live-cricket-scores/177821/kag-vs-chr-eliminator-nepal-premier-league-2026",
-     "source": "Cricbuzz"
     }
    ]
   },
   {
    "kw": "앙투안 그리즈만",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 18일 21:20",
    "news": [
     {
@@ -37,18 +71,35 @@
   },
   {
    "kw": "교통 사고",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 18일 21:10",
    "news": [
     {
-     "title": "한국도로교통공단 강원지부, 교통사고 줄이기 한마음대회",
-     "url": "https://www.yna.co.kr/view/AKR20261117155800062",
-     "source": "연합뉴스"
+     "title": "김포 선진버스, ‘교통사고 50% 줄이기’ 과제 조기 달성",
+     "url": "https://www.newswire.co.kr/newsRead.php?no=1047435",
+     "source": "뉴스와이어"
     },
     {
-     "title": "한국도로교통공단 인천지부 ‘2026 교통사고 줄이기 한마음대회’ 성료",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337140",
-     "source": "인천일보"
+     "title": "선진버스, 교통사고 감축 목표 조기 달성…안전관리 강화",
+     "url": "https://www.cvinfo.com/news/articleView.html?idxno=32047",
+     "source": "상용차매거진"
+    }
+   ]
+  },
+  {
+   "kw": "gta6 메타",
+   "traffic": "200+",
+   "when": "11월 18일 20:40",
+   "news": [
+    {
+     "title": "펄어비스 ‘붉은사막’, 더게임어워드 1개 부문 후보 올라",
+     "url": "https://www.khan.co.kr/article/202611180744001",
+     "source": "경향신문"
+    },
+    {
+     "title": "‘GTA6’ 출시도 전에 TGA 올해의 게임 후보로",
+     "url": "https://zdnet.co.kr/view/?no=20261118090703",
+     "source": "지디넷코리아"
     }
    ]
   },
@@ -70,6 +121,40 @@
    ]
   },
   {
+   "kw": "ps5",
+   "traffic": "200+",
+   "when": "11월 18일 20:20",
+   "news": [
+    {
+     "title": "All PS5 users forced out of accounts as GTA 6 executes strictest measures yet",
+     "url": "https://www.gamingbible.com/news/platform/playstation/ps5-users-forced-accounts-gta-6-executes-strictest-measures-708069-20261118",
+     "source": "GAMINGbible"
+    },
+    {
+     "title": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6",
+     "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6",
+     "source": "Eurogamer.net"
+    }
+   ]
+  },
+  {
+   "kw": "kick",
+   "traffic": "100+",
+   "when": "11월 18일 20:20",
+   "news": [
+    {
+     "title": "Black Friday and Cyber Monday 2026: a first look at Amazon’s best deals",
+     "url": "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026",
+     "source": "About Amazon"
+    },
+    {
+     "title": "Black Friday 2026 is Nov. 27: what forecasters expect shoppers to spend, and where the discounts are",
+     "url": "https://mlq.ai/news/black-friday-2026-is-nov-27-what-forecasters-expect-shoppers-to-spend-and-where-the-discounts-are/",
+     "source": "MLQ.ai"
+    }
+   ]
+  },
+  {
    "kw": "twitch",
    "traffic": "200+",
    "when": "11월 18일 20:20",
@@ -83,91 +168,6 @@
      "title": "OpenAI booth draws criticism at TwitchCon over AI’s role in creative work",
      "url": "https://mezha.net/eng/news/mezha-1faf375a815f4ed495df72e9_openai_booth_draws/",
      "source": "Mezha.net"
-    }
-   ]
-  },
-  {
-   "kw": "sxmb",
-   "traffic": "200+",
-   "when": "11월 18일 20:20",
-   "news": [
-    {
-     "title": "Phân tích thống kê XSMB Thứ 5 Ngày 19/11/2026 - Chốt Số Vàng May Mắn",
-     "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-19112026-chot-so-vang-may-man-p7421",
-     "source": "homeup.vn"
-    },
-    {
-     "title": "Xổ số miền Nam ngày 18 tháng 11: Tìm người trúng số độc đắc đài Đồng Nai",
-     "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-11-tim-nguoi-trung-so-doc-dac-dai-dong-nai-185261118082051114.htm",
-     "source": "Thanh Niên"
-    }
-   ]
-  },
-  {
-   "kw": "gta6 메타 크리틱",
-   "traffic": "1000+",
-   "when": "11월 18일 20:10",
-   "news": [
-    {
-     "title": "‘GTA 6’ 예약판매량 1500만장…콘솔게임 시장 살리나",
-     "url": "https://www.khan.co.kr/article/202611182036015",
-     "source": "경향신문"
-    },
-    {
-     "title": "[리뷰] 드디어 나온 'GTA 6' 락스타는 게임이 아닌 세계를 빚어냈다",
-     "url": "https://www.thisisgame.com/articles/432817",
-     "source": "디스이즈게임"
-    }
-   ]
-  },
-  {
-   "kw": "삼양식품",
-   "traffic": "200+",
-   "when": "11월 18일 20:10",
-   "news": [
-    {
-     "title": "“100일 만에 1000만개 판매”…삼양식품 '짜르르', 코스트코 전국 입점",
-     "url": "https://www.etnews.com/20261118000405",
-     "source": "전자신문"
-    },
-    {
-     "title": "삼양식품, 우지 짜장라면 ‘짜르르’ 코스트코 전국 매장서 선봬",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3449887",
-     "source": "천지일보"
-    }
-   ]
-  },
-  {
-   "kw": "gta5",
-   "traffic": "500+",
-   "when": "11월 18일 20:00",
-   "news": [
-    {
-     "title": "GTA 5 Last Ride Community Event Leads to Emotional Goodbyes From Fans After 13 Years of Mayhem",
-     "url": "https://www.ign.com/articles/gta-5-fans-make-one-last-emotional-ride-through-los-santos-before-heading-to-vice-city",
-     "source": "IGN"
-    },
-    {
-     "title": "Grand Theft Auto fan is organizing an in-game ‘Last Ride’ event in GTA Online ahead of GTA 6’s release",
-     "url": "https://massivelyop.com/2026/11/16/grand-theft-auto-fan-is-organizing-an-in-game-last-ride-event-in-gta-online-ahead-of-gta-6s-release/",
-     "source": "Massively Overpowered"
-    }
-   ]
-  },
-  {
-   "kw": "국제신문",
-   "traffic": "200+",
-   "when": "11월 18일 20:00",
-   "news": [
-    {
-     "title": "소각장 멈추면 쓰레기 대신 처리…부산·김해시 손 잡았다",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261118.22006005238",
-     "source": "국제신문"
-    },
-    {
-     "title": "부산시*경남 김해시 폐기물 교차 소각 추진",
-     "url": "https://news.knn.co.kr/news/article/194487",
-     "source": "부산경남대표방송 KNN 뉴스"
     }
    ]
   }
