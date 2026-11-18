@@ -1,9 +1,117 @@
 {
- "updated": "2026-11-18 18:23",
+ "updated": "2026-11-18 19:23",
  "items": [
   {
-   "kw": "백금",
+   "kw": "축산신문",
    "traffic": "200+",
+   "when": "11월 18일 18:20",
+   "news": []
+  },
+  {
+   "kw": "공습",
+   "traffic": "200+",
+   "when": "11월 18일 18:10",
+   "news": [
+    {
+     "title": "이란, 미·중·러 정상회담 전날 쿠웨이트 미군기지 타격",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6866602_36925.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "에너지 시황 - 다시 주고받은 공방",
+     "url": "https://kr.investing.com/analysis/article-200459942",
+     "source": "Investing.com 한국어"
+    }
+   ]
+  },
+  {
+   "kw": "새만금",
+   "traffic": "100+",
+   "when": "11월 18일 18:10",
+   "news": [
+    {
+     "title": "서울고법 \"새만금 공항 계획 취소해야\"…2심도 제동",
+     "url": "https://www.chosun.com/national/court_law/2026/11/18/YZFAVLINIFHOLEJLLZWYF4UMQI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "1심 이어 2심 판결도 \"새만금국제공항 취소\"...백지화 위기",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611181841440934",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "호랑이",
+   "traffic": "2000+",
+   "when": "11월 18일 17:50",
+   "news": [
+    {
+     "title": "[영상] 파키스탄서 틱톡촬영 중 맹수 공격…10대 숨지자 '개 물림' 위장",
+     "url": "https://www.yna.co.kr/view/AKR20261117147400704",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "300만 인플루언서 촬영 돕던 19세男, 호랑이 습격에 사망…\"개에 물렸다\" 은폐 시도까지",
+     "url": "https://www.fnnews.com/news/202611172037149735",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "김효진",
+   "traffic": "1000+",
+   "when": "11월 18일 17:50",
+   "news": [
+    {
+     "title": "김효진, 남편 사업 실패에 이혼 위기…\"분노 대상은 나였다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111811001451386",
+     "source": "머니투데이"
+    },
+    {
+     "title": "김효진, ♥목사 남편과 쓴 혼인서약서 부메랑…17년만 후회 \"쓸데없는 행동\"",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-18/202611180100118510010863",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "kw": "bangladesh vs south africa",
+   "traffic": "200+",
+   "when": "11월 18일 17:40",
+   "news": [
+    {
+     "title": "Rickelton lays out South Africa's plan: 'Bat long, get a lead, put ball in their court'",
+     "url": "https://www.cricinfo.com/story/sa-vs-ban-ryan-rickelton-lays-out-south-africa-s-plan-bat-long-get-a-lead-put-ball-in-their-court-1563004",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Riders of the storm will control Wanderers Test",
+     "url": "https://www.cricbuzz.com/cricket-news/140950/riders-of-the-storm-will-control-wanderers-test-cricbuzzcom",
+     "source": "Cricbuzz"
+    }
+   ]
+  },
+  {
+   "kw": "여자 기성전",
+   "traffic": "100+",
+   "when": "11월 18일 17:30",
+   "news": [
+    {
+     "title": "오유진, 김은지 꺾고 결승 진출…김주아와 우승 다툰다",
+     "url": "https://www.cyberoro.com/news/news_view.oro?num=532955",
+     "source": "사이버오로"
+    },
+    {
+     "title": "김은지·스미레 4강 탈락…결승은 '오유진 vs 김주아'",
+     "url": "https://m.tygem.com/news/news_view.html?seq=39876&gubun=0",
+     "source": "타이젬바둑"
+    }
+   ]
+  },
+  {
+   "kw": "백금",
+   "traffic": "500+",
    "when": "11월 18일 17:00",
    "news": [
     {
@@ -20,7 +128,7 @@
   },
   {
    "kw": "치매",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 18일 16:50",
    "news": [
     {
@@ -29,9 +137,9 @@
      "source": "바이오타임즈"
     },
     {
-     "title": "\"아리바이오 'AR1001' 임상은 스마트한 설계…어느 경우라도 약효 증명\" - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/thebio/2026/11/18/2026111815025478785",
-     "source": "머니투데이"
+     "title": "아리바이오 알츠하이머 신약 3상 엇갈린 평가...추가 임상 가능성도 제기",
+     "url": "https://pharm.edaily.co.kr/news/read?newsId=01830246645647032",
+     "source": "팜이데일리"
     }
    ]
   },
@@ -49,125 +157,6 @@
      "title": "중수청, ‘한동훈 딸 허위 스펙·수사 무마’ 사건 공수처·경찰 이첩",
      "url": "https://www.hani.co.kr/arti/society/society_general/1287901.html",
      "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "한한령",
-   "traffic": "2000+",
-   "when": "11월 18일 16:40",
-   "news": [
-    {
-     "title": "중국 '한한령' 해제…\"K기업, 중국 내 매장 운영하고 여행객 모집 가능\" - 머니투데이",
-     "url": "https://www.mt.co.kr/economy/2026/11/18/2026111816001870347",
-     "source": "머니투데이"
-    },
-    {
-     "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-     "url": "https://www.yna.co.kr/view/AKR20261118163900011",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "솔비",
-   "traffic": "10000+",
-   "when": "11월 18일 16:10",
-   "news": [
-    {
-     "title": "솔비, ♥이규한과 결혼 전 경사…“오빠, 꿈 이뤄줘서 고마워”",
-     "url": "https://sports.khan.co.kr/article/202611170917003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "“결혼선물…” 솔비♥이규한, 결혼 5개월 앞두고 ‘겹경사’",
-     "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/11/18/20261118500036",
-     "source": "서울신문"
-    }
-   ]
-  },
-  {
-   "kw": "cve 2026 114938",
-   "traffic": "2000+",
-   "when": "11월 18일 15:30",
-   "news": [
-    {
-     "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
-     "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/11/17/how-to-find-mitigate-and-patch-the-critical-java4shell-flaw-cve-2026-114938-now",
-     "source": "Qualys"
-    },
-    {
-     "title": "Critical flaw found in vital internet platform Java through AI",
-     "url": "https://www.bbc.com/news/articles/cke89jevqm1vo",
-     "source": "BBC"
-    }
-   ]
-  },
-  {
-   "kw": "계약결혼",
-   "traffic": "100+",
-   "when": "11월 18일 15:30",
-   "news": [
-    {
-     "title": "최정현 프러포즈, 정민현에 “결혼하고 싶다” (계약결혼)",
-     "url": "https://sports.donga.com/ent/article/all/20261116/135032862/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "'계약결혼' 32기 영수, 국화에 \"결혼하고 싶다\" 고백…금연 결심까지",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6355055",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "허훈",
-   "traffic": "200+",
-   "when": "11월 18일 15:10",
-   "news": [
-    {
-     "title": "남자대표팀, 2027 FIBA 농구월드컵 아시아예선 윈도우5 대비 최종 엔트리 변경 ... - 이규태-이동근, - 5대5 성인남자 국가대표팀 첫 발탁",
-     "url": "https://www.basketkorea.com/news/newsview.php?ncode=1065616676256801",
-     "source": "바스켓코리아"
-    },
-    {
-     "title": "‘하윤기·이우석 부상 낙마’ 마줄스호, 이규태·이동근 수혈···월드컵 예선 ‘조직력·컨디션 관리’ 과제",
-     "url": "https://sports.khan.co.kr/article/202611181527003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "lakers vs hornets",
-   "traffic": "200+",
-   "when": "11월 18일 15:10",
-   "news": [
-    {
-     "title": "Charlotte Hornets vs Los Angeles Lakers Nov 17, 2026 Box Scores",
-     "url": "https://www.nba.com/game/cha-vs-lal-0022600256/box-score",
-     "source": "NBA.com"
-    },
-    {
-     "title": "Tim Connelly's bargain-bin moves are paying off for the Timberwolves",
-     "url": "https://dunkingwithwolves.com/tim-connelly-s-bargain-bin-moves-are-paying-off-for-the-timberwolves",
-     "source": "Dunking with Wolves"
-    }
-   ]
-  },
-  {
-   "kw": "네이버 뉴스",
-   "traffic": "2000+",
-   "when": "11월 18일 15:00",
-   "news": [
-    {
-     "title": "네이버 뉴스제휴 심사 607개사 신청…최종 통과 언론사 0곳",
-     "url": "https://www.yna.co.kr/view/AKR20261118120000017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
-     "url": "https://www.etnews.com/20261118000308",
-     "source": "전자신문"
     }
    ]
   }
