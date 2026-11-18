@@ -1,20 +1,71 @@
 {
- "updated": "2026-11-19 04:23",
+ "updated": "2026-11-19 05:22",
  "items": [
+  {
+   "kw": "삼전 닉스",
+   "traffic": "2000+",
+   "when": "11월 19일 04:10",
+   "news": [
+    {
+     "title": "엔비디아, 또 다시 호실적 기록…복귀 의사 밝힌 젠슨 황에는 “재선임 계획 없어”",
+     "url": "https://www.khan.co.kr/article/202611181549001",
+     "source": "경향신문"
+    },
+    {
+     "title": "구심점 사라진 AI 생태계…앤트로픽·삼전닉스가 구해낼까 [최재원의 마켓워치]",
+     "url": "https://stock.mk.co.kr/news/view/1201870",
+     "source": "매일경제 마켓"
+    }
+   ]
+  },
+  {
+   "kw": "한화오션",
+   "traffic": "500+",
+   "when": "11월 19일 03:30",
+   "news": [
+    {
+     "title": "거제 바다숲 조성, 민·관 업무협약…4년간 1.59㎢ 규모",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873559",
+     "source": "뉴시스"
+    },
+    {
+     "title": "해수부·한화오션, 거제 해역에 바다숲 조성 추진",
+     "url": "https://www.yna.co.kr/view/AKR20261117033200030",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "자영업",
+   "traffic": "100+",
+   "when": "11월 19일 03:00",
+   "news": [
+    {
+     "title": "울산 남구, 골목상권 소통·상생의 날… 민생경제 활력 모색",
+     "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065591419687808",
+     "source": "울산종합일보"
+    },
+    {
+     "title": "골목상인 10명 중 6명 \"작년보다 매출 감소\"",
+     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072977",
+     "source": "경상일보"
+    }
+   ]
+  },
   {
    "kw": "김정은",
    "traffic": "500+",
    "when": "11월 19일 02:50",
    "news": [
     {
-     "title": "시진핑, 공항서 트럼프 포옹... 美中러 담판 전날 ‘파격 예우’",
-     "url": "https://www.chosun.com/international/international_general/2026/11/18/HB7CW2IV6BG3FJCBMRDVBHFA4E/",
-     "source": "조선일보"
+     "title": "APEC 담판, 전쟁 끝낼까...\"해법 쉽지 않을 것\"",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611182303205047_005.html",
+     "source": "YTN"
     },
     {
-     "title": "미중러 정상회담일, 유럽은 ’의지의 연합’ 정상회의",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261119040138wAU",
-     "source": "연합뉴스TV"
+     "title": "시진핑, 직접 공항 나가 트럼프 ‘포옹 영접’",
+     "url": "https://www.donga.com/news/Inter/article/all/20261119/135050902/2",
+     "source": "동아일보"
     }
    ]
   },
@@ -24,14 +75,31 @@
    "when": "11월 19일 02:10",
    "news": [
     {
-     "title": "승리 '임신한 부인과 함께 귀국'",
-     "url": "https://www.mt.co.kr/photo/202611182305239152",
-     "source": "머니투데이"
-    },
-    {
      "title": "승리, 만삭 20대 아내와 동반 입국…D라인 포착",
      "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990001.html",
      "source": "TV조선뉴스"
+    },
+    {
+     "title": "승리, 만삭 20대 아내와 공항 포착…\"여기까지 찍어라\" 제지 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111823451756876",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "한화생명",
+   "traffic": "100+",
+   "when": "11월 19일 02:10",
+   "news": [
+    {
+     "title": "'350조 운용' KIC 차기 CIO에 신민식…다음주 초 인사 발표",
+     "url": "https://marketin.edaily.co.kr/News/Read?newsId=03178326645647032",
+     "source": "마켓인"
+    },
+    {
+     "title": "350조 굴릴 한국투자공사 새 CIO에 한화생명 출신 신민식",
+     "url": "https://view.asiae.co.kr/article/2026111818335608440",
+     "source": "아시아경제"
     }
    ]
   },
@@ -41,9 +109,9 @@
    "when": "11월 19일 02:00",
    "news": [
     {
-     "title": "한화비전, 한화세미텍 매각설에 \"사실무근…기술 강화 힘쓸 것\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03548966645647032",
-     "source": "마켓인"
+     "title": "한화비전, 한화세미텍 매각설 일축…\"검토한 바 없다\"",
+     "url": "https://v.daum.net/v/1WNhADiPof",
+     "source": "Daum"
     },
     {
      "title": "[한화세미텍의 민낯] 호실적에도 매각설…TC 본더 성장세 '물음표'",
@@ -58,14 +126,14 @@
    "when": "11월 19일 01:50",
    "news": [
     {
+     "title": "[단독] 한화생명, ‘기인’ 김기인·'캐니언' 김건부 영입",
+     "url": "https://www.kmib.co.kr/article/20261119500020",
+     "source": "국민일보"
+    },
+    {
      "title": "LCK 스토브리그 개장 첫날 기인·캐니언 FA…하루 새 주전 10명 시장행",
      "url": "https://www.jbnews.com/news/articleView.html?idxno=1516224",
      "source": "중부매일"
-    },
-    {
-     "title": "롤드컵 끝나자 LCK 스토브리그…한화 ‘모글리’, DK 해체설 진화",
-     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083816",
-     "source": "진일보 | 전남일보"
     }
    ]
   },
@@ -80,9 +148,9 @@
      "source": "미주중앙일보"
     },
     {
-     "title": "정글러에서 롤드컵 우승 코치로... ‘모글리’, 한화생명 새 사령탑",
-     "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325677",
-     "source": "STN SPORTS"
+     "title": "한화생명 창단 첫 MSI 우승 감독 '옴므' 윤성영 떠난다",
+     "url": "https://www.dailyesports.com/view.php?ud=20261117105922509374bcc1e038_27",
+     "source": "데일리e스포츠"
     }
    ]
   },
@@ -102,63 +170,6 @@
      "source": "기호일보"
     }
    ]
-  },
-  {
-   "kw": "신세계",
-   "traffic": "200+",
-   "when": "11월 18일 23:50",
-   "news": [
-    {
-     "title": "신세계 3분기 실적, 어디 하나 빠진 곳이 없네",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445071",
-     "source": "연합인포맥스"
-    },
-    {
-     "title": "[리포트 브리핑]신세계, '3Q26 Re: 탄탄한 실적, 백화점 성장률이 관건' 목표가 365,000원 - 하나증권",
-     "url": "https://www.newspim.com/news/view/20261111000117",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "ps5 pro",
-   "traffic": "200+",
-   "when": "11월 18일 23:50",
-   "news": [
-    {
-     "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
-     "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979",
-     "source": "Kotaku"
-    },
-    {
-     "title": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
-     "url": "https://wccftech.com/grand-theft-auto-vi-amd-fsr-4-xbox-series-s-ray-tracing/",
-     "source": "Wccftech"
-    }
-   ]
-  },
-  {
-   "kw": "수능 재난문자 시간",
-   "traffic": "5000+",
-   "when": "11월 18일 23:40",
-   "news": [
-    {
-     "title": "이 대통령 \"수능 문제지 AI 업로드 전수조사…부정행위 철저히 엄단\"",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975944",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "\"딱 한 문제 틀렸다?\"...세무사 의혹 파고든 누리꾼들",
-     "url": "https://www.ytn.co.kr/_ln/0106_202611190229218044",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "김간지",
-   "traffic": "200+",
-   "when": "11월 18일 23:10",
-   "news": []
   }
  ]
 }
