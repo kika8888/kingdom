@@ -1,60 +1,128 @@
 {
- "updated": "2026-11-18 21:23",
+ "updated": "2026-11-18 22:23",
  "items": [
+  {
+   "kw": "kamil mishara",
+   "traffic": "500+",
+   "when": "11월 18일 21:20",
+   "news": [
+    {
+     "title": "Sri Lankan Batter Kamil Mishara Sets New Record in Nepal Premier League",
+     "url": "https://english.ratopati.com/story/87187/kamil-breaks-mark-watts-record-in-npl",
+     "source": "Ratopati"
+    },
+    {
+     "title": "Kathmandu Gorkhas vs Chitwan Rhinos, Eliminator, Nepal Premier League 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
+     "url": "https://www.cricbuzz.com/live-cricket-scores/177821/kag-vs-chr-eliminator-nepal-premier-league-2026",
+     "source": "Cricbuzz"
+    }
+   ]
+  },
+  {
+   "kw": "앙투안 그리즈만",
+   "traffic": "100+",
+   "when": "11월 18일 21:20",
+   "news": [
+    {
+     "title": "35세 그리에즈만, MLS 4월 뛰고 신인왕…14골 8도움 폭발",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611181347499bG",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "[공식발표] 손흥민도 놓쳤던 그 상, '35살' 그리즈만이 받았다! 18경기 14골 8도움→MLS 올해의 영입생 등극 \"올랜도 역사상 최초\"",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/18/MZSGGYZTGVSWEMRUGFQTENZQGQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "교통 사고",
+   "traffic": "500+",
+   "when": "11월 18일 21:10",
+   "news": [
+    {
+     "title": "한국도로교통공단 강원지부, 교통사고 줄이기 한마음대회",
+     "url": "https://www.yna.co.kr/view/AKR20261117155800062",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "한국도로교통공단 인천지부 ‘2026 교통사고 줄이기 한마음대회’ 성료",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337140",
+     "source": "인천일보"
+    }
+   ]
+  },
+  {
+   "kw": "cuaca besok",
+   "traffic": "500+",
+   "when": "11월 18일 20:40",
+   "news": [
+    {
+     "title": "BMKG Ungkap 34 Wilayah Indonesia Berpotensi Diguyur Hujan Hari Ini",
+     "url": "https://www.cnnindonesia.com/teknologi/20261117205536-641-1428298/bmkg-ungkap-34-wilayah-indonesia-berpotensi-diguyur-hujan-hari-ini",
+     "source": "CNN Indonesia"
+    },
+    {
+     "title": "Waspada Cuaca Ekstrem Akhir Tahun! BMKG Sebut Siklon AKVAN, MJO, dan Monsun Asia Picu Hujan Lebat",
+     "url": "https://www.kompas.tv/info-publik/702326/waspada-cuaca-ekstrem-akhir-tahun-bmkg-sebut-siklon-akvan-mjo-dan-monsun-asia-picu-hujan-lebat",
+     "source": "Kompas.tv"
+    }
+   ]
+  },
+  {
+   "kw": "twitch",
+   "traffic": "200+",
+   "when": "11월 18일 20:20",
+   "news": [
+    {
+     "title": "AI is still weighing on streamers at Twitch’s biggest event of the year",
+     "url": "https://www.nbcnews.com/tech/tech-news/twitchcon-ai-streamers-mixed-response-technology-tools-rcna608806",
+     "source": "NBC News"
+    },
+    {
+     "title": "OpenAI booth draws criticism at TwitchCon over AI’s role in creative work",
+     "url": "https://mezha.net/eng/news/mezha-1faf375a815f4ed495df72e9_openai_booth_draws/",
+     "source": "Mezha.net"
+    }
+   ]
+  },
   {
    "kw": "sxmb",
    "traffic": "200+",
    "when": "11월 18일 20:20",
    "news": [
     {
+     "title": "Phân tích thống kê XSMB Thứ 5 Ngày 19/11/2026 - Chốt Số Vàng May Mắn",
+     "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-19112026-chot-so-vang-may-man-p7421",
+     "source": "homeup.vn"
+    },
+    {
      "title": "Xổ số miền Nam ngày 18 tháng 11: Tìm người trúng số độc đắc đài Đồng Nai",
      "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-18-thang-11-tim-nguoi-trung-so-doc-dac-dai-dong-nai-185261118082051114.htm",
      "source": "Thanh Niên"
-    },
-    {
-     "title": "Kết quả xổ số miền Trung hôm nay 18.11: Khánh Hòa, Đà Nẵng",
-     "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1811-khanh-hoa-da-nang-1802700.ldo",
-     "source": "Laodong.vn"
-    }
-   ]
-  },
-  {
-   "kw": "ps5",
-   "traffic": "100+",
-   "when": "11월 18일 20:20",
-   "news": [
-    {
-     "title": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6",
-     "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6",
-     "source": "Eurogamer.net"
-    },
-    {
-     "title": "All PS5 users forced out of accounts as GTA 6 executes strictest measures yet",
-     "url": "https://www.gamingbible.com/news/platform/playstation/ps5-users-forced-accounts-gta-6-executes-strictest-measures-708069-20261118",
-     "source": "GAMINGbible"
     }
    ]
   },
   {
    "kw": "gta6 메타 크리틱",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 18일 20:10",
    "news": [
     {
-     "title": "더게임어워드 후보작 공개…'붉은사막' 1개 부문 올라",
-     "url": "https://www.yna.co.kr/view/AKR20261118015500017",
-     "source": "연합뉴스"
+     "title": "‘GTA 6’ 예약판매량 1500만장…콘솔게임 시장 살리나",
+     "url": "https://www.khan.co.kr/article/202611182036015",
+     "source": "경향신문"
     },
     {
-     "title": "‘GTA6’ 출시도 전에 TGA 올해의 게임 후보로",
-     "url": "https://zdnet.co.kr/view/?no=20261118090703",
-     "source": "지디넷코리아"
+     "title": "[리뷰] 드디어 나온 'GTA 6' 락스타는 게임이 아닌 세계를 빚어냈다",
+     "url": "https://www.thisisgame.com/articles/432817",
+     "source": "디스이즈게임"
     }
    ]
   },
   {
    "kw": "삼양식품",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 18일 20:10",
    "news": [
     {
@@ -71,7 +139,7 @@
   },
   {
    "kw": "gta5",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 18일 20:00",
    "news": [
     {
@@ -88,7 +156,7 @@
   },
   {
    "kw": "국제신문",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 18일 20:00",
    "news": [
     {
@@ -100,74 +168,6 @@
      "title": "부산시*경남 김해시 폐기물 교차 소각 추진",
      "url": "https://news.knn.co.kr/news/article/194487",
      "source": "부산경남대표방송 KNN 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "헝거게임",
-   "traffic": "200+",
-   "when": "11월 18일 19:50",
-   "news": [
-    {
-     "title": "[포토] 엘 패닝 ‘동화 속 비주얼’",
-     "url": "https://www.seoul.co.kr/news/entertainment/foreigncountryN/2026/11/17/20261117500296",
-     "source": "서울신문"
-    },
-    {
-     "title": "네자, 뉴욕 앨리스 털리 홀서 '헝거 게임' 프리미어 참석",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755325",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "유칼",
-   "traffic": "200+",
-   "when": "11월 18일 19:40",
-   "news": [
-    {
-     "title": "[오피셜] '유칼' 손우현, 7년 만에 DN 복귀...'두두'-'커즈'와 함께 상체 구축",
-     "url": "https://www.koreadaily.com/article/20261118031442027",
-     "source": "미주중앙일보"
-    },
-    {
-     "title": "'커즈' 문우찬, DN 수퍼스 복귀⋯\"월즈 진출해 좋은 성적 내고 싶다\" [공식]",
-     "url": "https://www.etoday.co.kr/news/view/2649574",
-     "source": "이투데이"
-    }
-   ]
-  },
-  {
-   "kw": "포스코노동조합",
-   "traffic": "100+",
-   "when": "11월 18일 19:30",
-   "news": [
-    {
-     "title": "포스코 노사, 임단협 돌파구 찾나…포스코, 노조에 대화 요청",
-     "url": "https://www.etnews.com/20261117000252",
-     "source": "전자신문"
-    },
-    {
-     "title": "포스코 노사, 총파업 앞두고 '막판 담판'…이희근 대표 대화 요청",
-     "url": "https://zdnet.co.kr/view/?no=20261117142359",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "미래에셋생명",
-   "traffic": "100+",
-   "when": "11월 18일 19:20",
-   "news": [
-    {
-     "title": "미래에셋생명 해킹 유출 1만 명 넘어‥스트리미 2천 명으로 늘어",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6866619_36932.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "미래에셋생명 개인정보 유출 규모 1만418명... 금융당국 신고",
-     "url": "https://www.boannews.com/news/articleView.html?idxno=147356",
-     "source": "보안뉴스"
     }
    ]
   }
