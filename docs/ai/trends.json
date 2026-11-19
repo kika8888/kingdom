@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-19 22:23",
+ "updated": "2026-11-19 23:23",
  "items": [
+  {
+   "kw": "lg화학",
+   "traffic": "500+",
+   "when": "11월 19일 22:10",
+   "news": [
+    {
+     "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "LG그룹, AI 인프라·R&D 인재 임원 발탁",
+     "url": "https://www.khan.co.kr/article/202611192045025",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "변상일",
+   "traffic": "200+",
+   "when": "11월 19일 21:30",
+   "news": [
+    {
+     "title": "변상일, 삼성화재배 결승 2국 리친청에 불계승…승부 원점",
+     "url": "https://www.yna.co.kr/view/AKR20261119134500007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "바둑 변상일, 삼성화재배 2국서 리친청에 반격 성공…내일 최종국",
+     "url": "https://www.newsis.com/view/NISX20261119_0003875403",
+     "source": "뉴시스"
+    }
+   ]
+  },
   {
    "kw": "금오산",
    "traffic": "200+",
@@ -15,23 +49,6 @@
      "title": "경북 구미시, 금오산에 '하늘다리' 놓았다…길이 35m·폭 3.5m",
      "url": "https://www.yna.co.kr/view/AKR20261117008800053",
      "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "필리버스터",
-   "traffic": "500+",
-   "when": "11월 19일 21:10",
-   "news": [
-    {
-     "title": "[속보] '민주유공자법' 국회 본회의 상정...국힘 필버 돌입",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611191429358822_005.html",
-     "source": "YTN"
-    },
-    {
-     "title": "박종철·이한열 ‘유공자’ 된다…여당, 20일 민주유공자법 처리",
-     "url": "https://www.khan.co.kr/article/202611192139015",
-     "source": "경향신문"
     }
    ]
   },
@@ -53,6 +70,23 @@
    ]
   },
   {
+   "kw": "cuaca besok",
+   "traffic": "500+",
+   "when": "11월 19일 20:40",
+   "news": [
+    {
+     "title": "BMKG Ungkap 37 Daerah di Indonesia Berpotensi Hujan Hari Ini",
+     "url": "https://www.cnnindonesia.com/teknologi/20261119042759-641-1428762/bmkg-ungkap-37-daerah-di-indonesia-berpotensi-hujan-hari-ini",
+     "source": "CNN Indonesia"
+    },
+    {
+     "title": "BNPB imbau sejumlah provinsi khususnya Kalbar siaga cuaca ekstrem",
+     "url": "https://jambi.antaranews.com/video/5863511/bnpb-imbau-sejumlah-provinsi-khususnya-kalbar-siaga-cuaca-ekstrem",
+     "source": "ANTARA News Jambi"
+    }
+   ]
+  },
+  {
    "kw": "thời tiết ngày mai",
    "traffic": "5000+",
    "when": "11월 19일 20:40",
@@ -70,27 +104,21 @@
    ]
   },
   {
-   "kw": "cuaca besok",
-   "traffic": "500+",
-   "when": "11월 19일 20:40",
-   "news": [
-    {
-     "title": "BMKG Peringatkan Hujan Lebat di 19 Wilayah, Cek Daftarnya!",
-     "url": "https://news.detik.com/berita/d-8759247/bmkg-peringatkan-hujan-lebat-di-19-wilayah-cek-daftarnya",
-     "source": "detikNews"
-    },
-    {
-     "title": "Prakiraan Cuaca Ibu Kota Provinsi Indonesia Hari Ini",
-     "url": "https://carapandang.com/news/read/prakiraan-cuaca-ibu-kota-provinsi-indonesia-hari-ini",
-     "source": "CaraPandang"
-    }
-   ]
-  },
-  {
    "kw": "정부24",
    "traffic": "1000+",
    "when": "11월 19일 20:20",
-   "news": []
+   "news": [
+    {
+     "title": "보건소 직접 안 가도 된다…질병 관련 서류 '온라인'으로",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852781",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "평택시, 보건 관련 증명서 발급부터 감염병 신고 내역 조회까지 ‘정부24’에서 한 번에!",
+     "url": "https://www.ggpyeonghwa.com/631243",
+     "source": "경기평화신문"
+    }
+   ]
   },
   {
    "kw": "야구 경기장",
@@ -111,7 +139,7 @@
   },
   {
    "kw": "이재시",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 19일 20:00",
    "news": [
     {
@@ -132,31 +160,14 @@
    "when": "11월 19일 20:00",
    "news": [
     {
-     "title": "[속보] 미·중·러 정상, 유엔 개혁 및 핵전쟁 방지 등 합의",
-     "url": "https://www.chosun.com/international/us/2026/11/19/Z26ERGLQUVFW7LVRUZK665GGMY/",
-     "source": "조선일보"
+     "title": "미·중·러, 핵무기 감축 대원칙 합의…우크라戰 종식도 논의",
+     "url": "https://www.hankyung.com/article/2026111985011",
+     "source": "한국경제"
     },
     {
-     "title": "미·중 “전략적 협력” 재확인…트럼프 레임덕·미 강경파 변수",
-     "url": "https://www.khan.co.kr/article/202611192152005",
+     "title": "핵 거머쥔 미·중·러 ‘전세계 핵 감축’ 띄웠다…사상 첫 3국 정상회담",
+     "url": "https://www.khan.co.kr/article/202611192225025",
      "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "김지훈",
-   "traffic": "500+",
-   "when": "11월 19일 19:50",
-   "news": [
-    {
-     "title": "LG헬로비전 신임 CEO에 김지훈 사업총괄",
-     "url": "https://www.yna.co.kr/view/AKR20261119146700017?section=people/personnel",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "LG헬로비전, 7년 만에 수장 교체…김지훈의 과제는 ‘수익성 회복’",
-     "url": "https://www.donga.com/news/Economy/article/all/20261119/135056326/1",
-     "source": "동아일보"
     }
    ]
   }
