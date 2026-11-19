@@ -1,9 +1,145 @@
 {
- "updated": "2026-11-19 14:23",
+ "updated": "2026-11-19 15:23",
  "items": [
   {
-   "kw": "김진우",
+   "kw": "수능 샤프",
    "traffic": "100+",
+   "when": "11월 19일 14:20",
+   "news": [
+    {
+     "title": "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급",
+     "url": "https://www.hani.co.kr/arti/society/schooling/1288087.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "인천 시험장 'AI 부정행위 방지' 지우개 물량조절 해프닝[2027 수능]",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874383",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "서울교통공사",
+   "traffic": "100+",
+   "when": "11월 19일 14:20",
+   "news": [
+    {
+     "title": "서울교통공사, 열차 비상상황 대응 훈련…대외기관 협업체계 강화",
+     "url": "https://www.newspim.com/news/view/20261118001117",
+     "source": "뉴스핌"
+    },
+    {
+     "title": "서울교통공사·한국철도공사, 3호선 화재 대응 합동훈련",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873938",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "리트 만점자 천호동",
+   "traffic": "200000+",
+   "when": "11월 19일 14:10",
+   "news": [
+    {
+     "title": "[속보] ‘리트 만점자’ 이진우, 천호동 모텔서 심정지 상태로 발견",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717283",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[뉴스초점] ’리트 만점자’ 심정지 상태로 발견…수사 향방은?",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611191503131my",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "의장대",
+   "traffic": "200+",
+   "when": "11월 19일 14:00",
+   "news": [
+    {
+     "title": "계단 단차부터 환영단까지‥\"한국과 대우 달라\" \"무례\" 日 불쾌감",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6866880_36925.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "中, 다카이치는 썰렁한 영접... 日측 \"정말 무례하다\" 분노",
+     "url": "https://www.chosun.com/international/international_general/2026/11/18/JD3IWB6EY5CDTMGSUOTYQKMIEA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "kbs 뉴스",
+   "traffic": "500+",
+   "when": "11월 19일 13:50",
+   "news": [
+    {
+     "title": "[사설]AI가 뒤흔든 지식노동… 공인시험제도 전면 개편 불가피",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050632/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "전자상가 돌아보니 “기술적으론 가능”…수험생도 혼란",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714486",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "도이치모터스 주가조작 사건",
+   "traffic": "500+",
+   "when": "11월 19일 13:40",
+   "news": [
+    {
+     "title": "[속보] 대법, 19일 김건희 도이치 주가조작 사건 등 선고",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8713560",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "김건희 '3대 의혹' 오늘 대법원 판단…기소 1년 3개월만",
+     "url": "https://www.yna.co.kr/view/AKR20261119022300004",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "kbs",
+   "traffic": "1000+",
+   "when": "11월 19일 13:40",
+   "news": [
+    {
+     "title": "[Photo] 'Bye, Summer'",
+     "url": "https://biz.chosun.com/en/en-photo-ent/2026/11/18/3MJUMBGPW5HJ7PADZEX5NCL7P4/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "‘Sound:Track’ Joo Jong-hyuk: “One-Act Dramas Are Compelling and Have an Intensity to Them”",
+     "url": "https://www.mk.co.kr/en/broadcasting-service/12212342",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "양홍원",
+   "traffic": "1000+",
+   "when": "11월 19일 13:30",
+   "news": [
+    {
+     "title": "가족 잃은 기분...'불륜의혹' 양홍원, 아내 사진도 삭제 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111810404289464",
+     "source": "머니투데이"
+    },
+    {
+     "title": "“올해도 日 겨울은 보아가” 보아 ‘메리크리’에 시부야 ‘인원제한’ 걸렸다",
+     "url": "https://m.news.zum.com/photo/58287739/108959159?cm=news_edit&r=1&thumb=1",
+     "source": "ZUM 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "김진우",
+   "traffic": "200+",
    "when": "11월 19일 13:20",
    "news": [
     {
@@ -19,155 +155,19 @@
    ]
   },
   {
-   "kw": "이진우 심정지",
-   "traffic": "100000+",
-   "when": "11월 19일 13:10",
-   "news": [
-    {
-     "title": "[속보] ‘리트 만점자’ 이진우씨, 천호역 인근서 심정지 상태로 발견",
-     "url": "https://www.chosun.com/national/national_general/2026/11/19/4YSNOEOWXVEV7AYNL2LYF6GQYU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[속보] '리트 만점자' 이진우 씨, 서울 천호동서 심정지 상태 발견",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6866915_36918.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "조선일보",
-   "traffic": "2000+",
-   "when": "11월 19일 13:10",
-   "news": [
-    {
-     "title": "TV조선 ‘재승인 점수 조작’ 무죄, 조선일보·TV조선은 침묵?",
-     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338516",
-     "source": "미디어오늘"
-    },
-    {
-     "title": "한상혁 \"검사가 지어냈다는 뜻\"‥판결문 곳곳 '증거 없다'",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6865733_36911.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
    "kw": "체포",
    "traffic": "1000+",
    "when": "11월 19일 13:10",
    "news": [
     {
-     "title": "하남 아파트 헌옷수거함에 숨진 아기 버린 30대 친모 체포",
-     "url": "https://www.kyeonggi.com/article/20261119580003",
-     "source": "경기일보"
-    },
-    {
      "title": "[단독]하남시 아파트 헌옷수거함에서 신생아 시신 발견···경찰 수사",
      "url": "https://www.khan.co.kr/article/202611181856001",
      "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "네이버 뉴스",
-   "traffic": "1000+",
-   "when": "11월 19일 13:10",
-   "news": [
-    {
-     "title": "607곳 전원 탈락 낳은 네이버의 무리수, 정량 확대·합격선 상향이 빚은 폐쇄",
-     "url": "https://www.dhilbo.co.kr/news/articleView.html?idxno=2430",
-     "source": "동행일보"
     },
     {
-     "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
-     "url": "https://www.etnews.com/20261118000308",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "내란죄",
-   "traffic": "200+",
-   "when": "11월 19일 13:10",
-   "news": [
-    {
-     "title": "김건희·한덕수 대법 선고 'D-DAY'...YTN 생중계",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611191204203334",
-     "source": "YTN"
-    },
-    {
-     "title": "한덕수 선고 정치권 전운…與 \"즉응 결정\" 野 \"재판개입\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119133438aSq",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "박찬종",
-   "traffic": "1000+",
-   "when": "11월 19일 12:20",
-   "news": [
-    {
-     "title": "박찬종 전 의원 별세…34년 전 약속대로 주검 기증",
-     "url": "https://www.hani.co.kr/arti/politics/assembly/1288101.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "'미스터 클린' 박찬종 별세…생전 약속대로 시신 기증",
-     "url": "https://weekly.chosun.com/news/articleView.html?idxno=57251",
-     "source": "주간조선"
-    }
-   ]
-  },
-  {
-   "kw": "김민석",
-   "traffic": "100+",
-   "when": "11월 19일 12:20",
-   "news": [
-    {
-     "title": "당원주권시대 \"김민석, 불공정 윤리심판 중단하라\"…최민희 징계 반발",
-     "url": "https://www.chosun.com/politics/assembly/2026/11/19/N5YMT5FXKNGMDBOVUJQH2LRXYA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[사설]이번 국회 2년 반도 안 돼 6건이나 공개 사과한 최민희",
-     "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050630/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "전국삼성전자노동조합",
-   "traffic": "200+",
-   "when": "11월 19일 12:10",
-   "news": [
-    {
-     "title": "삼성전자 제7노조 '광주노동조합' 공식 출범…교섭 참여 추진",
-     "url": "https://www.yna.co.kr/view/AKR20261118119200003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "삼성전자 7노조 ’광주노조’ 출범…“임단협 참여 추진“",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118144308jEM",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "수능 수학",
-   "traffic": "1000+",
-   "when": "11월 19일 12:00",
-   "news": [
-    {
-     "title": "1년전 AI도 수능 수학 만점 …교육·시험평가체계 낙제",
-     "url": "https://www.etnews.com/20261118000364",
-     "source": "전자신문"
-    },
-    {
-     "title": "수능 AI 부정행위 때문에 만점자 4배 증가? '거짓'",
-     "url": "https://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003285403",
-     "source": "OhmyNews"
+     "title": "하남 아파트 헌옷수거함에 숨진 아기 버린 30대 친모 체포",
+     "url": "https://www.kyeonggi.com/article/20261119580003",
+     "source": "경기일보"
     }
    ]
   }
