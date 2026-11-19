@@ -1,9 +1,49 @@
 {
- "updated": "2026-11-19 11:23",
+ "updated": "2026-11-19 12:15",
  "items": [
   {
-   "kw": "전역",
+   "kw": "양민혁",
    "traffic": "500+",
+   "when": "11월 19일 11:10",
+   "news": [
+    {
+     "title": "손흥민 \"내 자리 그냥 물려줄 생각 없어\" 예언이었나...'벨기에에서도 벤치' 양민혁, 초대형 경쟁자 호평 등장 \"올 시즌 도약 가능성 크다\"",
+     "url": "https://www.sportschosun.com/football/2026-11-19/202611190100121670011269",
+     "source": "스포츠조선"
+    },
+    {
+     "title": "이럴 수가! 베일은 아닌데 손흥민은 맞다 '토트넘 초신성 공격수' 주목…\"슈퍼스타로 성장할 수 없다는 뜻 아냐\"",
+     "url": "https://www.sportschosun.com/football/2026-11-16/202611160100106150009821",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "kw": "신용회복위원회",
+   "traffic": "100+",
+   "when": "11월 19일 11:00",
+   "news": []
+  },
+  {
+   "kw": "남태현",
+   "traffic": "1000+",
+   "when": "11월 19일 10:40",
+   "news": [
+    {
+     "title": "'마약 집행유예중 음주운전' 남태현 2심도 실형…법정구속",
+     "url": "https://www.yna.co.kr/view/AKR20261119062300004",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[속보] ’집유 중 음주운전’ 남태현, 항소심도 징역 1년 실형..법정 구속",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/19/G5RTSNRXGJSTAZRSMUYDMYLEGI/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "전역",
+   "traffic": "1000+",
    "when": "11월 19일 10:20",
    "news": [
     {
@@ -24,14 +64,31 @@
    "when": "11월 19일 10:10",
    "news": [
     {
+     "title": "고객 돈으로 손실 피하면 안 됩니다…금투협, 차이니즈월 '고삐'",
+     "url": "https://biz.sbs.co.kr/article/20000347521",
+     "source": "SBS Biz"
+    },
+    {
      "title": "[게시판] 금투협, 증권사 CEO와 日자본시장 탐방",
      "url": "https://www.yna.co.kr/view/AKR20261118073700008",
      "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "수능 문제",
+   "traffic": "5000+",
+   "when": "11월 19일 09:50",
+   "news": [
+    {
+     "title": "[속보] 수능 1교시 국어 문제지·정답 답지 동시 공개",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756880",
+     "source": "국제뉴스"
     },
     {
-     "title": "금투협·증권업계 CEO 11명, 일본서 미래 성장모델 모색",
-     "url": "https://core.asiae.co.kr/article/2026111815161561967",
-     "source": "아시아경제"
+     "title": "수능일 체감온도 영하권…정부, 제설·긴급 수송체계 점검",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975985",
+     "source": "대한민국 정책브리핑"
     }
    ]
   },
@@ -46,9 +103,9 @@
      "source": "머니투데이"
     },
     {
-     "title": "“박지윤, 최동석에 숨기고 남성과 호텔 투숙” 法, 위자료 지급 판단",
-     "url": "https://www.munhwa.com/article/11632371",
-     "source": "문화일보"
+     "title": "\"지인은 성소수자\"…박지윤, 최동석과 상간·이혼 소송 직접 반박",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874235",
+     "source": "뉴시스"
     }
    ]
   },
@@ -58,31 +115,31 @@
    "when": "11월 19일 09:40",
    "news": [
     {
-     "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
-     "url": "https://www.journalist.or.kr/news/article.html?no=62103",
-     "source": "한국기자협회"
-    },
-    {
      "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
      "url": "https://www.etnews.com/20261118000308",
      "source": "전자신문"
+    },
+    {
+     "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
+     "url": "https://www.journalist.or.kr/news/article.html?no=62103",
+     "source": "한국기자협회"
     }
    ]
   },
   {
-   "kw": "한국교육과정평가원",
-   "traffic": "1000+",
-   "when": "11월 19일 09:20",
+   "kw": "조작기소 특검법",
+   "traffic": "200+",
+   "when": "11월 19일 09:30",
    "news": [
     {
-     "title": "수능출제위원장 \"고교 공교육 내용만으로 변별력 확보토록 출제\"",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6866839_36918.html",
+     "title": "이 대통령, 조작기소 특검법 재가‥공포돼 즉시 시행",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6866820_36911.html",
      "source": "MBC 뉴스"
     },
     {
-     "title": "2027학년도 대학수학능력시험 출제 방향 브리핑",
-     "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156789851&pWise=main&pWiseMain=L3",
-     "source": "대한민국 정책브리핑"
+     "title": "野, '추경호 무죄'에 대여 공세 강화…\"李, 당당하게 재판 받으라\" - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/19/2026111911092241745",
+     "source": "머니투데이"
     }
    ]
   },
@@ -100,74 +157,6 @@
      "title": "'피지컬: 아시아', 시즌2로 컴백…내년 공개 - 머니투데이",
      "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111910407270663",
      "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "전도연",
-   "traffic": "500+",
-   "when": "11월 19일 09:10",
-   "news": [
-    {
-     "title": "'53세' 전도연, 한뼘 초미니로 드러낸 각선미…美 아카데미도 반했다",
-     "url": "https://www.chosun.com/entertainments/celebrity/2026/11/18/MRSTIMZTMM3TGMZVMI2WMOBZGM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "뉴욕·LA…오스카 위해 뛰는 ‘가능한 사랑’",
-     "url": "https://www.koreadaily.com/article/20261118070139540",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "올랜도 대 필라데피아",
-   "traffic": "500+",
-   "when": "11월 19일 09:10",
-   "news": [
-    {
-     "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
-     "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
-     "source": "NBA.com"
-    },
-    {
-     "title": "Sixers head to Orlando for showdown with Franz Wagner and the Magic",
-     "url": "https://www.libertyballers.com/76ers-game-previews/102197/sixers-head-to-orlando-for-showdown-with-franz-wagner-and-the-magic",
-     "source": "Liberty Ballers"
-    }
-   ]
-  },
-  {
-   "kw": "정치",
-   "traffic": "10000+",
-   "when": "11월 19일 09:00",
-   "news": [
-    {
-     "title": "‘우왕좌왕’을 내란으로… 법원서 무너진 특검 주장",
-     "url": "https://www.chosun.com/national/court_law/2026/11/19/CTKLYAU7K5GXFHZCCBBRQRGWGA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "한병도 \"추경호 1심, 국민 상식 부합 못해…한덕수 선고 지켜볼 것\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445499",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "kw": "nginx",
-   "traffic": "1000+",
-   "when": "11월 19일 09:00",
-   "news": [
-    {
-     "title": "Unauthenticated Remote Code Execution in NGINX: CVE-2026-123633 and CVE-2026-123007",
-     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-     "source": "wiz.io"
-    },
-    {
-     "title": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
-     "url": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
-     "source": "Chosunbiz"
     }
    ]
   }
