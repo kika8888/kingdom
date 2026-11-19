@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20 06:23",
+ "updated": "2026-11-20 06:25",
  "items": [
   {
    "kw": "한강 벨트",
@@ -37,7 +37,7 @@
   },
   {
    "kw": "김연경",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 20일 05:10",
    "news": [
     {
@@ -83,6 +83,23 @@
      "title": "이정현, 13년 만의 신곡 녹음 돌입…‘테크노 여전사’도 돌아올까",
      "url": "https://sports.khan.co.kr/article/202611191728003",
      "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "해상 풍력 발전",
+   "traffic": "100+",
+   "when": "11월 20일 04:40",
+   "news": [
+    {
+     "title": "[기자의 눈]낙찰 받아도 못 짓는 해상풍력, 관건은 시장 설계",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374949",
+     "source": "전기신문"
+    },
+    {
+     "title": "'공공성'과 '공공주도'는 다르다[우보세] - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/opinion/2026/11/20/2026111813570362376",
+     "source": "머니투데이"
     }
    ]
   },
@@ -151,23 +168,6 @@
      "title": "코볼리, 눈물의 기자회견...\"내 커리어에서 가장 슬픈 경기\"",
      "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54330",
      "source": "테니스코리아"
-    }
-   ]
-  },
-  {
-   "kw": "엔화",
-   "traffic": "200+",
-   "when": "11월 20일 00:00",
-   "news": [
-    {
-     "title": "[도쿄환시] 달러-엔 상승…美 연준 인사들 금리인상 지지",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445573",
-     "source": "연합인포맥스"
-    },
-    {
-     "title": "160엔 뚫리자마자 되돌림…'여름 개입 기억'이 바꾼 엔화 수급",
-     "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180233347788e7e8286d56_1",
-     "source": "글로벌이코노믹"
     }
    ]
   }
