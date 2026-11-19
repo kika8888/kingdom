@@ -1,20 +1,122 @@
 {
- "updated": "2026-11-19 23:23",
+ "updated": "2026-11-20 00:23",
  "items": [
+  {
+   "kw": "앤트로픽 주가",
+   "traffic": "2000+",
+   "when": "11월 19일 23:20",
+   "news": [
+    {
+     "title": "앤트로픽, 114조 원대 초대형 공모 성사…AI 기업 증시 진출 새 이정표",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=847777",
+     "source": "제민일보"
+    },
+    {
+     "title": "미 달러화 약보합…앤트로픽 IPO 흥행發 기술주 급등에 낙폭 축소",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445622",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "kw": "타래",
+   "traffic": "200+",
+   "when": "11월 19일 23:20",
+   "news": [
+    {
+     "title": "부산 벡스코에 세계 게임산업 집결…지스타 2026, AI·모빌리티로 영역 확장",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=847773",
+     "source": "제민일보"
+    },
+    {
+     "title": "과녁 쏘고 패드 잡고...경계 허문 '게임 축제' 개막",
+     "url": "https://www.ytn.co.kr/_ln/0106_202611192335011236",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "김대두",
+   "traffic": "500+",
+   "when": "11월 19일 23:00",
+   "news": [
+    {
+     "title": "55일간 17명 살해한 최초 연쇄살인마 김대두…'꼬꼬무', 그가 남긴 '수수께끼 엽서'의 정체는?",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854020",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "나비, 예능 활약 이어간다…19일 '꼬꼬무' 첫 출연",
+     "url": "https://www.hankyung.com/article/202611197356H",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "쇼메이커",
+   "traffic": "200+",
+   "when": "11월 19일 23:00",
+   "news": [
+    {
+     "title": "DK, '쇼메이커' 허수 재계약…'스매쉬'·김대호 감독도 잔류 [공식]",
+     "url": "https://www.xportsnews.com/article/2221246",
+     "source": "www.xportsnews.com"
+    },
+    {
+     "title": "[오피셜] '쇼메이커', '스매쉬' 그리고 김대호 감독, DK와 함께",
+     "url": "https://www.inven.co.kr/webzine/news/?news=323623",
+     "source": "인벤"
+    }
+   ]
+  },
+  {
+   "kw": "fifa",
+   "traffic": "100+",
+   "when": "11월 19일 22:50",
+   "news": [
+    {
+     "title": "England FA weighs legal challenge to Infantino’s bid for 4th FIFA term",
+     "url": "https://biz.chosun.com/en/en-sports/2026/11/19/SZGOIQEGWZG27LE4MIYBTFEOYE/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "Fifa: Football Association explored Gianni Infantino legal challenge",
+     "url": "https://www.bbc.com/sport/football/articles/cm3eg1w4ypz5o",
+     "source": "BBC"
+    }
+   ]
+  },
+  {
+   "kw": "ant",
+   "traffic": "500+",
+   "when": "11월 19일 22:30",
+   "news": [
+    {
+     "title": "Anthropic IPO live: Company prices stock at $83, set to begin trading today",
+     "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Anthropic Founders' $140B Wealth, SK Telecom's 16x Return",
+     "url": "https://www.chosun.com/english/industry-en/2026/11/20/4C33AHFMKZGOTEA6VMMGVLKHUE/",
+     "source": "조선일보"
+    }
+   ]
+  },
   {
    "kw": "lg화학",
    "traffic": "500+",
    "when": "11월 19일 22:10",
    "news": [
     {
-     "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
-     "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
-     "source": "조선일보"
-    },
-    {
      "title": "LG그룹, AI 인프라·R&D 인재 임원 발탁",
      "url": "https://www.khan.co.kr/article/202611192045025",
      "source": "경향신문"
+    },
+    {
+     "title": "LG, 주요 계열사 CEO 유임…권봉석 '1인 부회장' 체제 유지(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261119158401003",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -66,108 +168,6 @@
      "title": "영주 사과·고구마·생강 72톤, 부산 하나로마트서 특판",
      "url": "https://www.imaeil.com/page/view/2026111910530677533",
      "source": "매일신문"
-    }
-   ]
-  },
-  {
-   "kw": "cuaca besok",
-   "traffic": "500+",
-   "when": "11월 19일 20:40",
-   "news": [
-    {
-     "title": "BMKG Ungkap 37 Daerah di Indonesia Berpotensi Hujan Hari Ini",
-     "url": "https://www.cnnindonesia.com/teknologi/20261119042759-641-1428762/bmkg-ungkap-37-daerah-di-indonesia-berpotensi-hujan-hari-ini",
-     "source": "CNN Indonesia"
-    },
-    {
-     "title": "BNPB imbau sejumlah provinsi khususnya Kalbar siaga cuaca ekstrem",
-     "url": "https://jambi.antaranews.com/video/5863511/bnpb-imbau-sejumlah-provinsi-khususnya-kalbar-siaga-cuaca-ekstrem",
-     "source": "ANTARA News Jambi"
-    }
-   ]
-  },
-  {
-   "kw": "thời tiết ngày mai",
-   "traffic": "5000+",
-   "when": "11월 19일 20:40",
-   "news": [
-    {
-     "title": "Dự báo thời tiết đêm nay, ngày mai - 20/11/2026: Không khí lạnh tăng cường nhiệt độ giảm sâu hơn",
-     "url": "https://truyenhinhnghean.vn/media/chuyen-muc/ban-tin-thoi-tiet/202611/du-bao-thoi-tiet-dem-nay-ngay-mai-20112026-khong-khi-lanh-tang-cuong-nhiet-do-giam-sau-hon-0e23669/",
-     "source": "Báo và Phát thanh, Truyền hình Nghệ An"
-    },
-    {
-     "title": "Không khí lạnh tăng cường, dự báo khu vực có mưa rất to trên 250mm",
-     "url": "https://laodong.vn/video/khong-khi-lanh-tang-cuong-du-bao-khu-vuc-co-mua-rat-to-tren-250mm-1803318.ldo",
-     "source": "Laodong.vn"
-    }
-   ]
-  },
-  {
-   "kw": "정부24",
-   "traffic": "1000+",
-   "when": "11월 19일 20:20",
-   "news": [
-    {
-     "title": "보건소 직접 안 가도 된다…질병 관련 서류 '온라인'으로",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852781",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "평택시, 보건 관련 증명서 발급부터 감염병 신고 내역 조회까지 ‘정부24’에서 한 번에!",
-     "url": "https://www.ggpyeonghwa.com/631243",
-     "source": "경기평화신문"
-    }
-   ]
-  },
-  {
-   "kw": "야구 경기장",
-   "traffic": "200+",
-   "when": "11월 19일 20:10",
-   "news": [
-    {
-     "title": "\"프로야구 못하는데 관람석 8천석\"…전주시 신축 야구장 '도마'",
-     "url": "https://www.yna.co.kr/view/AKR20261119068900055",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "누구를 위한 야구장인가…진예찬 전주시의원, 전주 야구장 활용계획 질타",
-     "url": "https://www.ajunews.com/view/20261119111717653",
-     "source": "아주경제"
-    }
-   ]
-  },
-  {
-   "kw": "이재시",
-   "traffic": "1000+",
-   "when": "11월 19일 20:00",
-   "news": [
-    {
-     "title": "이동국 딸 이재시, ‘초강력 메기녀’ 됐다... 얼마나 예쁘면 “몸이 반응해”",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRSDKZJSME4GEOBVGUYDEMBRGA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "최수린 아들, 185㎝ 메기남 등판 \"짝사랑 해본 적 없어…결국 다 사귀더라\"",
-     "url": "https://www.newsis.com/view/NISX20261119_0003874149",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "푸틴",
-   "traffic": "100+",
-   "when": "11월 19일 20:00",
-   "news": [
-    {
-     "title": "미·중·러, 핵무기 감축 대원칙 합의…우크라戰 종식도 논의",
-     "url": "https://www.hankyung.com/article/2026111985011",
-     "source": "한국경제"
-    },
-    {
-     "title": "핵 거머쥔 미·중·러 ‘전세계 핵 감축’ 띄웠다…사상 첫 3국 정상회담",
-     "url": "https://www.khan.co.kr/article/202611192225025",
-     "source": "경향신문"
     }
    ]
   }
