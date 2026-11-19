@@ -1,9 +1,43 @@
 {
- "updated": "2026-11-19 21:53",
+ "updated": "2026-11-19 22:23",
  "items": [
   {
+   "kw": "금오산",
+   "traffic": "200+",
+   "when": "11월 19일 21:20",
+   "news": [
+    {
+     "title": "구름에 달 가듯이… 전국 곳곳 ‘공중 산책로’ 뜬다",
+     "url": "https://go.seoul.co.kr/news/newsView.php?id=20261118019009",
+     "source": "서울Pn"
+    },
+    {
+     "title": "경북 구미시, 금오산에 '하늘다리' 놓았다…길이 35m·폭 3.5m",
+     "url": "https://www.yna.co.kr/view/AKR20261117008800053",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "필리버스터",
+   "traffic": "500+",
+   "when": "11월 19일 21:10",
+   "news": [
+    {
+     "title": "[속보] '민주유공자법' 국회 본회의 상정...국힘 필버 돌입",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611191429358822_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "박종철·이한열 ‘유공자’ 된다…여당, 20일 민주유공자법 처리",
+     "url": "https://www.khan.co.kr/article/202611192139015",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
    "kw": "하나로마트",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 19일 20:50",
    "news": [
     {
@@ -20,7 +54,7 @@
   },
   {
    "kw": "thời tiết ngày mai",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 19일 20:40",
    "news": [
     {
@@ -37,18 +71,18 @@
   },
   {
    "kw": "cuaca besok",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 19일 20:40",
    "news": [
     {
-     "title": "BMKG: Cuaca Jakarta Besok, Hujan Ringan Berpotensi Turun di 6 Wilayah",
-     "url": "https://megapolitan.kompas.com/read/2026/11/19/18184651/bmkg-cuaca-jakarta-besok-hujan-ringan-berpotensi-turun-di-6-wilayah",
-     "source": "Kompas.com"
+     "title": "BMKG Peringatkan Hujan Lebat di 19 Wilayah, Cek Daftarnya!",
+     "url": "https://news.detik.com/berita/d-8759247/bmkg-peringatkan-hujan-lebat-di-19-wilayah-cek-daftarnya",
+     "source": "detikNews"
     },
     {
-     "title": "Hari Ini Jakarta Diprediksi Hujan Ringan Hingga Petir",
-     "url": "https://metropolitan.tvrinews.com/berita/tk5la8m-hari-ini-jakarta-diprediksi-hujan-ringan-hingga-petir",
-     "source": "TVRI News"
+     "title": "Prakiraan Cuaca Ibu Kota Provinsi Indonesia Hari Ini",
+     "url": "https://carapandang.com/news/read/prakiraan-cuaca-ibu-kota-provinsi-indonesia-hari-ini",
+     "source": "CaraPandang"
     }
    ]
   },
@@ -103,9 +137,9 @@
      "source": "조선일보"
     },
     {
-     "title": "미·중·러, ‘평화 정상 선언’ 발표…“ICC 관할권 남용 안돼” [전문]",
-     "url": "https://www.hani.co.kr/arti/international/international_general/1288219.html",
-     "source": "한겨레"
+     "title": "미·중 “전략적 협력” 재확인…트럼프 레임덕·미 강경파 변수",
+     "url": "https://www.khan.co.kr/article/202611192152005",
+     "source": "경향신문"
     }
    ]
   },
@@ -123,40 +157,6 @@
      "title": "LG헬로비전, 7년 만에 수장 교체…김지훈의 과제는 ‘수익성 회복’",
      "url": "https://www.donga.com/news/Economy/article/all/20261119/135056326/1",
      "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "한진칼",
-   "traffic": "1000+",
-   "when": "11월 19일 19:30",
-   "news": [
-    {
-     "title": "호반의 한진칼 평가차익 1조5700억··· 현금화 전략 '고심'",
-     "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720237",
-     "source": "뉴스프리존"
-    },
-    {
-     "title": "M&A로 리솜리조트·대한전선 등 인수… ‘자산 20조’ 몸집 키워 재계 33위[Who, What, Why]",
-     "url": "https://www.munhwa.com/article/11632128",
-     "source": "문화일보"
-    }
-   ]
-  },
-  {
-   "kw": "강지환",
-   "traffic": "200+",
-   "when": "11월 19일 19:30",
-   "news": [
-    {
-     "title": "'스태프 성폭행→34억 배상' 강지환, 틱톡커 된 근황…팬들은 후원 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/19/2026111920065169466",
-     "source": "머니투데이"
-    },
-    {
-     "title": "‘스태프 성추행’ 강지환 틱톡커 전향? 뜨개질 라방 [DA피플]",
-     "url": "https://sports.donga.com/ent/article/all/20261119/135055909/2",
-     "source": "스포츠동아"
     }
    ]
   }
