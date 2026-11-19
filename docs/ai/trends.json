@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-20 05:23",
+ "updated": "2026-11-20 06:23",
  "items": [
   {
+   "kw": "한강 벨트",
+   "traffic": "100+",
+   "when": "11월 20일 05:20",
+   "news": [
+    {
+     "title": "‘한강벨트’ 용산·동작도 집값 하락",
+     "url": "https://www.khan.co.kr/article/202611192049035",
+     "source": "경향신문"
+    },
+    {
+     "title": "[사설]집값 상승 둔화, 더 시급한 건 전월세 안정 - 머니투데이",
+     "url": "https://www.mt.co.kr/opinion/2026/11/20/2026111916151078333",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "알렉산더 즈베레프",
+   "traffic": "500+",
+   "when": "11월 20일 05:10",
+   "news": [
+    {
+     "title": "즈베레프, 셸턴 꺾고 ATP 파이널스 준결승 진출",
+     "url": "https://mobile.newsis.com/photo/NISI20261118_0002294924",
+     "source": "뉴시스"
+    },
+    {
+     "title": "테니스 세계 1위 츠베레프, 셸턴 꺾고 ATP 파이널스 4강 선착",
+     "url": "https://www.news1.kr/sports/general-sport/6357509",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "김연경",
+   "traffic": "500+",
+   "when": "11월 20일 05:10",
+   "news": [
+    {
+     "title": "김연경 사단 '필승 원더독스', 실업팀 전통강호 포항시체육회 상대로 셧아웃 승리 도전('신인감독2')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GNRTCMDCGA4TCMZYG42WENDBGY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'신인감독' 김연경, 포항시체육회 반격에 흔들리나…창단 첫 패배 위기",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6359485",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "축구 감독",
+   "traffic": "100+",
+   "when": "11월 20일 04:50",
+   "news": [
+    {
+     "title": "손흥민의 무뎌진 발끝… 찬스에도 골이 안 터진다",
+     "url": "https://www.chosun.com/sports/football/2026/11/19/IMTHHH2XRBGUDDXWFULQ65XX6I/",
+     "source": "조선일보"
+    },
+    {
+     "title": "모레노 감독 '임기 연장?'‥내부 '긍정적 기류'도",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867069_37004.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "이정현",
+   "traffic": "100+",
+   "when": "11월 20일 04:40",
+   "news": [
+    {
+     "title": "이정현, 가수로 13년 만에 돌아온다…'테크노 여전사' 내년 초 컴백 예고",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GYZWMY3EMFSWIODEGM2WEODGGA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "이정현, 13년 만의 신곡 녹음 돌입…‘테크노 여전사’도 돌아올까",
+     "url": "https://sports.khan.co.kr/article/202611191728003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
    "kw": "천위페이",
-   "traffic": "2000+",
+   "traffic": "1000+",
    "when": "11월 20일 03:00",
    "news": [
     {
@@ -12,15 +97,15 @@
      "source": "조선일보"
     },
     {
-     "title": "안세영·야마구치 모두 없는데, '中 대굴욕' 여자 단식 줄줄이 탈락... 벌써 왕즈이 혼자 남았다 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111920591363907",
-     "source": "머니투데이"
+     "title": "[오늘의 영상] 언제나 어디서나 월드 클래스!",
+     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8714321",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "kw": "웹툰",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 20일 02:30",
    "news": [
     {
@@ -41,20 +126,20 @@
    "when": "11월 20일 00:50",
    "news": [
     {
-     "title": "Problems at AMD (AMD)",
-     "url": "https://hntrbrk.com/investigations/bank-of-amd",
-     "source": "Hunterbrook"
+     "title": "AMD dives on short-seller report of alleged China exposure",
+     "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+     "source": "CNBC"
     },
     {
-     "title": "Hunterbrook Says It’s Not Just NVIDIA, ‘AMD Has A China Problem Of Its Own,’ With AMD Firmware Now Traced To Blacklisted IEIT Servers",
-     "url": "https://wccftech.com/hunterbrook-says-its-not-just-nvidia-amd-has-a-china-problem-of-its-own-with-amd-firmware-now-traced-to-blacklisted-ieit-servers/",
-     "source": "Wccftech"
+     "title": "‘China Risk’ Spreads Across U.S. Semiconductor Industry; AMD Plunges 9%",
+     "url": "https://en.fnnews.com/news/202611200329388178",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
   {
    "kw": "플라비오 코볼리",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 20일 00:40",
    "news": [
     {
@@ -83,91 +168,6 @@
      "title": "160엔 뚫리자마자 되돌림…'여름 개입 기억'이 바꾼 엔화 수급",
      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611180233347788e7e8286d56_1",
      "source": "글로벌이코노믹"
-    }
-   ]
-  },
-  {
-   "kw": "kt wiz",
-   "traffic": "1000+",
-   "when": "11월 19일 23:50",
-   "news": [
-    {
-     "title": "KT Wiz's 4.8 Billion Choi Bet Pays Off",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/19/57E6VCLU5RFXBCPGTF3JHMIOAE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "KT Wiz Poised for Another FA Splash After Last Season's Success",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/17/IIAZTSEC6JAXVMDKAA3FLLM35E/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "습관",
-   "traffic": "2000+",
-   "when": "11월 19일 23:40",
-   "news": [
-    {
-     "title": "“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’",
-     "url": "https://health.chosun.com/site/data/html_dir/2026/11/18/2026111802591.html",
-     "source": "헬스조선"
-    },
-    {
-     "title": "“제발 공복에 먹지 마세요”… 혈당 오르고 살쪄, 전문가들이 경고한 음식",
-     "url": "https://kormedi.com/2904583/",
-     "source": "코메디닷컴"
-    }
-   ]
-  },
-  {
-   "kw": "프로게이머",
-   "traffic": "200+",
-   "when": "11월 19일 23:30",
-   "news": [
-    {
-     "title": "서산 청소년들, 게임으로 미래 직업 찾는다, e스포츠 진로특강 '호응'",
-     "url": "https://m.joongdo.co.kr/view.php?key=20261118010006399",
-     "source": "중도일보"
-    },
-    {
-     "title": "호남대 e스포츠산업학과, 초등생 e스포츠 진로체험 교육 성료",
-     "url": "http://newstoktok.com/article.php?aid=27315247155",
-     "source": "톡톡뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "박하나",
-   "traffic": "100+",
-   "when": "11월 19일 23:30",
-   "news": [
-    {
-     "title": "김태술·박하나 부부 부모 된다…\"모든 난임 부부들 응원\"",
-     "url": "https://www.yna.co.kr/view/AKR20261119154100005",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "“쌍둥이는 아닙니다”…박하나·김태술, 시험관 실패 딛고 임신",
-     "url": "https://www.mk.co.kr/news/culture/12213951",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "앤트로픽",
-   "traffic": "2000+",
-   "when": "11월 19일 23:20",
-   "news": [
-    {
-     "title": "창업 5년새 기업가치 2000조원... 앤스로픽 상장, AI 불씨 살릴까",
-     "url": "https://www.chosun.com/economy/int_economy/2026/11/19/727FDBQ3VRCT7DRNM5EJFH4MWM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "앤트로픽 CEO \"9천억弗 컴퓨팅 지출 크지 않아\"…부채 조달도 시사",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445633",
-     "source": "연합인포맥스"
     }
    ]
   }
