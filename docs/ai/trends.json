@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-20 06:25",
+ "updated": "2026-11-20 07:22",
  "items": [
   {
-   "kw": "한강 벨트",
+   "kw": "아파트",
+   "traffic": "2000+",
+   "when": "11월 20일 06:10",
+   "news": [
+    {
+     "title": "\"시공사 먼저 본다\"…분양가 뛰자 청약통장 70% 대형 건설사로",
+     "url": "https://www.newsis.com/view/NISX20261118_0003873039",
+     "source": "뉴시스"
+    },
+    {
+     "title": "공급 적은 지역 ‘새 아파트’… 수년 만의 신규 분양에 대기수요 ‘반색’",
+     "url": "https://www.seoul.co.kr/news/economy/2026/11/18/20261118500140",
+     "source": "서울신문"
+    }
+   ]
+  },
+  {
+   "kw": "마우리시오 포체티노",
    "traffic": "100+",
+   "when": "11월 20일 05:50",
+   "news": [
+    {
+     "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119020100007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "축구의 묘미는 역시 ‘바이시클킥’",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "택시",
+   "traffic": "2000+",
+   "when": "11월 20일 05:30",
+   "news": [
+    {
+     "title": "밤 10시 택시기사에게 전화가 왔다…“5만원 때문에요”",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57213",
+     "source": "주간조선"
+    },
+    {
+     "title": "밤 10시에 걸려온 '낯선 번호'…\"감사\" 뜻밖의 전화 보니",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852786",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "한강 벨트",
+   "traffic": "200+",
    "when": "11월 20일 05:20",
    "news": [
     {
@@ -12,15 +63,32 @@
      "source": "경향신문"
     },
     {
-     "title": "[사설]집값 상승 둔화, 더 시급한 건 전월세 안정 - 머니투데이",
-     "url": "https://www.mt.co.kr/opinion/2026/11/20/2026111916151078333",
+     "title": "같은 동네 집값 오르락내리락…뭘 믿어야 하나 [심형석의 부동산 정석]",
+     "url": "https://www.hankyung.com/article/202611172505Q",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "김연경",
+   "traffic": "1000+",
+   "when": "11월 20일 05:10",
+   "news": [
+    {
+     "title": "[포토]'다시 시작한 배구, 살맛납니다!' 표승주 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111918234413089",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[한번에쓱]인생역전은 지금부터 '거미같은 리베로의 수비력을 보여줄게요!' 흥국 고민지 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111918543178586",
      "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "알렉산더 즈베레프",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 20일 05:10",
    "news": [
     {
@@ -36,25 +104,8 @@
    ]
   },
   {
-   "kw": "김연경",
-   "traffic": "1000+",
-   "when": "11월 20일 05:10",
-   "news": [
-    {
-     "title": "김연경 사단 '필승 원더독스', 실업팀 전통강호 포항시체육회 상대로 셧아웃 승리 도전('신인감독2')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GNRTCMDCGA4TCMZYG42WENDBGY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'신인감독' 김연경, 포항시체육회 반격에 흔들리나…창단 첫 패배 위기",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6359485",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
    "kw": "축구 감독",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 20일 04:50",
    "news": [
     {
@@ -71,7 +122,7 @@
   },
   {
    "kw": "이정현",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 20일 04:40",
    "news": [
     {
@@ -92,82 +143,31 @@
    "when": "11월 20일 04:40",
    "news": [
     {
-     "title": "[기자의 눈]낙찰 받아도 못 짓는 해상풍력, 관건은 시장 설계",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=374949",
-     "source": "전기신문"
-    },
-    {
      "title": "'공공성'과 '공공주도'는 다르다[우보세] - 머니투데이",
      "url": "https://www.mt.co.kr/index.php/opinion/2026/11/20/2026111813570362376",
      "source": "머니투데이"
+    },
+    {
+     "title": "[기자의 눈]낙찰 받아도 못 짓는 해상풍력, 관건은 시장 설계",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=374949",
+     "source": "전기신문"
     }
    ]
   },
   {
-   "kw": "천위페이",
-   "traffic": "1000+",
-   "when": "11월 20일 03:00",
+   "kw": "제주국제공항",
+   "traffic": "100+",
+   "when": "11월 20일 04:40",
    "news": [
     {
-     "title": "'안세영만 없으면 우승하겠다더니?' 2번 시드 천위페이, 세계랭킹 47위에게 충격적인 역전패…홍콩오픈 16강 어이없는 탈락",
-     "url": "https://www.chosun.com/sports/sports_general/2026/11/19/MVQTCNTDGYYDOYZSME2DONDDGA/",
-     "source": "조선일보"
+     "title": "제주 제2공항 수요 30%대 분담 전망",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=847801",
+     "source": "제민일보"
     },
     {
-     "title": "[오늘의 영상] 언제나 어디서나 월드 클래스!",
-     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8714321",
+     "title": "2공항 갈등조정협의회 2차 회의…제주도 “역할분담 의견 제출”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8715175",
      "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "웹툰",
-   "traffic": "500+",
-   "when": "11월 20일 02:30",
-   "news": [
-    {
-     "title": "[기획] “이혼을 받아들입니다. 그리고 재혼 승인을 요구합니다” - 의상·VFX·미술·음악으로 보는 제작기",
-     "url": "https://cine21.com/news/view/?mag_id=111294",
-     "source": "씨네21"
-    },
-    {
-     "title": "\"압도적\"…'재혼 황후' 신민아, 외신 찬사 쏟아진 '퀸민아' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111913307297613",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "amd",
-   "traffic": "200+",
-   "when": "11월 20일 00:50",
-   "news": [
-    {
-     "title": "AMD dives on short-seller report of alleged China exposure",
-     "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-     "source": "CNBC"
-    },
-    {
-     "title": "‘China Risk’ Spreads Across U.S. Semiconductor Industry; AMD Plunges 9%",
-     "url": "https://en.fnnews.com/news/202611200329388178",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "플라비오 코볼리",
-   "traffic": "500+",
-   "when": "11월 20일 00:40",
-   "news": [
-    {
-     "title": "티아포, ATP 파이널서 코볼리와 경기 중 반응",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3757758",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "코볼리, 눈물의 기자회견...\"내 커리어에서 가장 슬픈 경기\"",
-     "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54330",
-     "source": "테니스코리아"
     }
    ]
   }
