@@ -1,20 +1,139 @@
 {
- "updated": "2026-11-19 13:23",
+ "updated": "2026-11-19 14:23",
  "items": [
   {
-   "kw": "박찬종",
+   "kw": "김진우",
+   "traffic": "100+",
+   "when": "11월 19일 13:20",
+   "news": [
+    {
+     "title": "위너 김진우, 붉은 단풍 아래 후드 점퍼로 전한 근황",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16280209",
+     "source": "톱스타뉴스"
+    },
+    {
+     "title": "선관위 특검, 선관위 직원 8명 구속영장 청구",
+     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229641",
+     "source": "법률신문"
+    }
+   ]
+  },
+  {
+   "kw": "이진우 심정지",
+   "traffic": "100000+",
+   "when": "11월 19일 13:10",
+   "news": [
+    {
+     "title": "[속보] ‘리트 만점자’ 이진우씨, 천호역 인근서 심정지 상태로 발견",
+     "url": "https://www.chosun.com/national/national_general/2026/11/19/4YSNOEOWXVEV7AYNL2LYF6GQYU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[속보] '리트 만점자' 이진우 씨, 서울 천호동서 심정지 상태 발견",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6866915_36918.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "조선일보",
+   "traffic": "2000+",
+   "when": "11월 19일 13:10",
+   "news": [
+    {
+     "title": "TV조선 ‘재승인 점수 조작’ 무죄, 조선일보·TV조선은 침묵?",
+     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338516",
+     "source": "미디어오늘"
+    },
+    {
+     "title": "한상혁 \"검사가 지어냈다는 뜻\"‥판결문 곳곳 '증거 없다'",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6865733_36911.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "체포",
+   "traffic": "1000+",
+   "when": "11월 19일 13:10",
+   "news": [
+    {
+     "title": "하남 아파트 헌옷수거함에 숨진 아기 버린 30대 친모 체포",
+     "url": "https://www.kyeonggi.com/article/20261119580003",
+     "source": "경기일보"
+    },
+    {
+     "title": "[단독]하남시 아파트 헌옷수거함에서 신생아 시신 발견···경찰 수사",
+     "url": "https://www.khan.co.kr/article/202611181856001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "네이버 뉴스",
+   "traffic": "1000+",
+   "when": "11월 19일 13:10",
+   "news": [
+    {
+     "title": "607곳 전원 탈락 낳은 네이버의 무리수, 정량 확대·합격선 상향이 빚은 폐쇄",
+     "url": "https://www.dhilbo.co.kr/news/articleView.html?idxno=2430",
+     "source": "동행일보"
+    },
+    {
+     "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
+     "url": "https://www.etnews.com/20261118000308",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "내란죄",
    "traffic": "200+",
+   "when": "11월 19일 13:10",
+   "news": [
+    {
+     "title": "김건희·한덕수 대법 선고 'D-DAY'...YTN 생중계",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611191204203334",
+     "source": "YTN"
+    },
+    {
+     "title": "한덕수 선고 정치권 전운…與 \"즉응 결정\" 野 \"재판개입\"",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119133438aSq",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "박찬종",
+   "traffic": "1000+",
    "when": "11월 19일 12:20",
    "news": [
     {
-     "title": "박찬종 전 의원 별세…세브란스병원에 주검 기증",
+     "title": "박찬종 전 의원 별세…34년 전 약속대로 주검 기증",
      "url": "https://www.hani.co.kr/arti/politics/assembly/1288101.html",
      "source": "한겨레"
     },
     {
-     "title": "'14대 대선출마' 박찬종 前의원 별세…생전 약속대로 시신기증",
-     "url": "https://www.yna.co.kr/view/AKR20261119083700001",
-     "source": "연합뉴스"
+     "title": "'미스터 클린' 박찬종 별세…생전 약속대로 시신 기증",
+     "url": "https://weekly.chosun.com/news/articleView.html?idxno=57251",
+     "source": "주간조선"
+    }
+   ]
+  },
+  {
+   "kw": "김민석",
+   "traffic": "100+",
+   "when": "11월 19일 12:20",
+   "news": [
+    {
+     "title": "당원주권시대 \"김민석, 불공정 윤리심판 중단하라\"…최민희 징계 반발",
+     "url": "https://www.chosun.com/politics/assembly/2026/11/19/N5YMT5FXKNGMDBOVUJQH2LRXYA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[사설]이번 국회 2년 반도 안 돼 6건이나 공개 사과한 최민희",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050630/2",
+     "source": "동아일보"
     }
    ]
   },
@@ -37,7 +156,7 @@
   },
   {
    "kw": "수능 수학",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 19일 12:00",
    "news": [
     {
@@ -46,117 +165,9 @@
      "source": "전자신문"
     },
     {
-     "title": "수능 국어 만점, 2024년 64명→2026년 261명 급증…AI 부정행위 의혹 소환?",
-     "url": "https://www.edupress.kr/news/articleView.html?idxno=30632",
-     "source": "에듀프레스"
-    }
-   ]
-  },
-  {
-   "kw": "군산시의회",
-   "traffic": "200+",
-   "when": "11월 19일 12:00",
-   "news": [
-    {
-     "title": "군산시의회, 고독사 위험군 연중 관리 주문…사례관리 예산 배분도 지적",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756625",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "군산시, 클라이밍센터 재계약 시의회 동의 ‘패싱’…행감 도마 위",
-     "url": "http://www.inews24.com/view/2028026",
-     "source": "아이뉴스24"
-    }
-   ]
-  },
-  {
-   "kw": "크리스 페덱",
-   "traffic": "1000+",
-   "when": "11월 19일 11:40",
-   "news": [
-    {
-     "title": "샴페인 마르기도 전에 찾아온 'FA 3중고'… 왕조 재건 노리는 삼성, 외부 FA는 신경쓸 틈 조차 없다",
-     "url": "https://www.fnnews.com/news/202611190838400274",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "KS 우승 삼성, 역대급 ‘머니게임’ 돌입",
-     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006373",
-     "source": "아시아투데이"
-    }
-   ]
-  },
-  {
-   "kw": "하남시",
-   "traffic": "5000+",
-   "when": "11월 19일 11:40",
-   "news": [
-    {
-     "title": "전국 곳곳서 경찰차 타고 시험장 도착‥경찰, 수능 날 121건 지원",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6866883_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "\"2분 남았다\"…입실 마감 앞두고 수험생 긴급 수송 나선 경찰·시민들 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/19/2026111909582031256",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "주식시장",
-   "traffic": "2000+",
-   "when": "11월 19일 11:20",
-   "news": [
-    {
-     "title": "수능일 증시 오전 10시 개장…정규장 4시반까지",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119094205rla",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
-     "url": "https://www.mk.co.kr/news/business/12213210",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "양민혁",
-   "traffic": "2000+",
-   "when": "11월 19일 11:10",
-   "news": [
-    {
-     "title": "손흥민 \"내 자리 그냥 물려줄 생각 없어\" 예언이었나...'벨기에에서도 벤치' 양민혁, 초대형 경쟁자 호평 등장 \"올 시즌 도약 가능성 크다\"",
-     "url": "https://www.sportschosun.com/football/2026-11-19/202611190100121670011269",
-     "source": "스포츠조선"
-    },
-    {
-     "title": "이럴 수가! 베일은 아닌데 손흥민은 맞다 '토트넘 초신성 공격수' 주목…\"슈퍼스타로 성장할 수 없다는 뜻 아냐\"",
-     "url": "https://www.sportschosun.com/football/2026-11-16/202611160100106150009821",
-     "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "kw": "신용회복위원회",
-   "traffic": "200+",
-   "when": "11월 19일 11:00",
-   "news": []
-  },
-  {
-   "kw": "남태현",
-   "traffic": "1000+",
-   "when": "11월 19일 10:40",
-   "news": [
-    {
-     "title": "'음주 상태로 시속 182㎞' 남태현, 2심서 법정구속",
-     "url": "https://www.hankyung.com/article/202611196853H",
-     "source": "한국경제"
-    },
-    {
-     "title": "‘집행유예 중 음주운전’ 위너 남태현, 항소심도 징역...법정구속",
-     "url": "https://www.chosun.com/national/national_general/2026/11/19/U3C7ITUVGVGSHJDOHMQ7ZRQVNI/",
-     "source": "조선일보"
+     "title": "수능 AI 부정행위 때문에 만점자 4배 증가? '거짓'",
+     "url": "https://www.ohmynews.com/NWS_Web/OhmyFact/at_pg.aspx?CNTN_CD=A0003285403",
+     "source": "OhmyNews"
     }
    ]
   }
