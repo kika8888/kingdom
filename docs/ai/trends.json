@@ -1,9 +1,77 @@
 {
- "updated": "2026-11-19 15:23",
+ "updated": "2026-11-19 16:23",
  "items": [
   {
-   "kw": "수능 샤프",
+   "kw": "수능 결시율",
+   "traffic": "200+",
+   "when": "11월 19일 15:20",
+   "news": [
+    {
+     "title": "AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)",
+     "url": "https://www.news1.kr/society/education/6359569",
+     "source": "뉴스1"
+    },
+    {
+     "title": "[수능] 울산 결시율 1교시 7.75%·3교시 8.20%…작년보다 증가(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261119086951057",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "버거킹 초콜릿와퍼",
    "traffic": "100+",
+   "when": "11월 19일 15:20",
+   "news": [
+    {
+     "title": "\"만우절 거짓말인 줄 알았는데\"…버거킹, 진짜 '초콜릿 와퍼' 내놓는다 - 머니투데이",
+     "url": "https://www.mt.co.kr/living/2026/11/17/2026111708270380871",
+     "source": "머니투데이"
+    },
+    {
+     "title": "고기 대신 브라우니? 만우절 농담 ‘초콜릿 와퍼’ 현실로!",
+     "url": "https://kids.donga.com/news/articleView.html?idxno=170338",
+     "source": "어린이동아"
+    }
+   ]
+  },
+  {
+   "kw": "디 에이치 반포 124",
+   "traffic": "100+",
+   "when": "11월 19일 14:50",
+   "news": [
+    {
+     "title": "'30억 로또' 디에이치 반포124 분양가 심의 보류…청약 일정 연기",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04329606645647032",
+     "source": "마켓인"
+    },
+    {
+     "title": "반포 한강 바로 앞… ‘압도적 하이엔드 대단지’ 내달 분양한다",
+     "url": "https://www.chosun.com/special/special_section/2026/11/19/FO7UFD3IAZCRBAGOMOX37Z34P4/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "예비타당성조사",
+   "traffic": "200+",
+   "when": "11월 19일 14:40",
+   "news": [
+    {
+     "title": "복지부, 20일 경기 동북부 공공의료원 예비타당성 조사 신청",
+     "url": "https://www.yna.co.kr/view/AKR20261119039300060",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "경기 동북부 의료 공백 메울까…남양주 공공의료원 건립 ‘청신호’",
+     "url": "https://www.kyeonggi.com/article/20261119580141",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "수능 샤프",
+   "traffic": "200+",
    "when": "11월 19일 14:20",
    "news": [
     {
@@ -12,9 +80,9 @@
      "source": "한겨레"
     },
     {
-     "title": "인천 시험장 'AI 부정행위 방지' 지우개 물량조절 해프닝[2027 수능]",
-     "url": "https://www.newsis.com/view/NISX20261119_0003874383",
-     "source": "뉴시스"
+     "title": "연필은 불티, 사인펜은 쌓였다...편의점업계, 수능 특수 김샜다 - 머니투데이",
+     "url": "https://www.mt.co.kr/living/2026/11/19/2026111915033666154",
+     "source": "머니투데이"
     }
    ]
   },
@@ -41,14 +109,31 @@
    "when": "11월 19일 14:10",
    "news": [
     {
-     "title": "[속보] ‘리트 만점자’ 이진우, 천호동 모텔서 심정지 상태로 발견",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717283",
-     "source": "KBS 뉴스"
+     "title": "'리트 만점자' 이진우 씨‥심정지 상태로 발견",
+     "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6866961_36974.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "[뉴스초점] ’리트 만점자’ 심정지 상태로 발견…수사 향방은?",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611191503131my",
-     "source": "연합뉴스TV"
+     "title": "‘리트 만점자’ 사망 확인…발견된 모텔서 ‘5줄짜리 글’ 나와",
+     "url": "https://news.jtbc.co.kr/article/NB12328841",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "한덕수 선고",
+   "traffic": "500+",
+   "when": "11월 19일 14:10",
+   "news": [
+    {
+     "title": "김건희·한덕수 대법 선고 'D-DAY'...YTN 생중계",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611191204203334",
+     "source": "YTN"
+    },
+    {
+     "title": "잠시 뒤 한덕수·김건희 상고심‥이 시각 대법원",
+     "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6866964_36974.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
@@ -63,32 +148,15 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "中, 다카이치는 썰렁한 영접... 日측 \"정말 무례하다\" 분노",
-     "url": "https://www.chosun.com/international/international_general/2026/11/18/JD3IWB6EY5CDTMGSUOTYQKMIEA/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "kbs 뉴스",
-   "traffic": "500+",
-   "when": "11월 19일 13:50",
-   "news": [
-    {
-     "title": "[사설]AI가 뒤흔든 지식노동… 공인시험제도 전면 개편 불가피",
-     "url": "https://www.donga.com/news/Opinion/article/all/20261118/135050632/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "전자상가 돌아보니 “기술적으론 가능”…수험생도 혼란",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714486",
-     "source": "KBS 뉴스"
+     "title": "시진핑과 ‘악수’만 하고 떠난 다카이치에 일본 언론도 탄식···의전 홀대에 여론은 ‘부글’",
+     "url": "https://www.khan.co.kr/article/202611191602001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+     "source": "경향신문"
     }
    ]
   },
   {
    "kw": "도이치모터스 주가조작 사건",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 19일 13:40",
    "news": [
     {
@@ -100,74 +168,6 @@
      "title": "김건희 '3대 의혹' 오늘 대법원 판단…기소 1년 3개월만",
      "url": "https://www.yna.co.kr/view/AKR20261119022300004",
      "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "kbs",
-   "traffic": "1000+",
-   "when": "11월 19일 13:40",
-   "news": [
-    {
-     "title": "[Photo] 'Bye, Summer'",
-     "url": "https://biz.chosun.com/en/en-photo-ent/2026/11/18/3MJUMBGPW5HJ7PADZEX5NCL7P4/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "‘Sound:Track’ Joo Jong-hyuk: “One-Act Dramas Are Compelling and Have an Intensity to Them”",
-     "url": "https://www.mk.co.kr/en/broadcasting-service/12212342",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "양홍원",
-   "traffic": "1000+",
-   "when": "11월 19일 13:30",
-   "news": [
-    {
-     "title": "가족 잃은 기분...'불륜의혹' 양홍원, 아내 사진도 삭제 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/18/2026111810404289464",
-     "source": "머니투데이"
-    },
-    {
-     "title": "“올해도 日 겨울은 보아가” 보아 ‘메리크리’에 시부야 ‘인원제한’ 걸렸다",
-     "url": "https://m.news.zum.com/photo/58287739/108959159?cm=news_edit&r=1&thumb=1",
-     "source": "ZUM 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "김진우",
-   "traffic": "200+",
-   "when": "11월 19일 13:20",
-   "news": [
-    {
-     "title": "위너 김진우, 붉은 단풍 아래 후드 점퍼로 전한 근황",
-     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16280209",
-     "source": "톱스타뉴스"
-    },
-    {
-     "title": "선관위 특검, 선관위 직원 8명 구속영장 청구",
-     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229641",
-     "source": "법률신문"
-    }
-   ]
-  },
-  {
-   "kw": "체포",
-   "traffic": "1000+",
-   "when": "11월 19일 13:10",
-   "news": [
-    {
-     "title": "[단독]하남시 아파트 헌옷수거함에서 신생아 시신 발견···경찰 수사",
-     "url": "https://www.khan.co.kr/article/202611181856001",
-     "source": "경향신문"
-    },
-    {
-     "title": "하남 아파트 헌옷수거함에 숨진 아기 버린 30대 친모 체포",
-     "url": "https://www.kyeonggi.com/article/20261119580003",
-     "source": "경기일보"
     }
    ]
   }
