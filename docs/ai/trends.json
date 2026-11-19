@@ -1,20 +1,122 @@
 {
- "updated": "2026-11-19 17:23",
+ "updated": "2026-11-19 18:27",
  "items": [
+  {
+   "kw": "국어 수능",
+   "traffic": "1000+",
+   "when": "11월 19일 17:10",
+   "news": [
+    {
+     "title": "\"이게 오늘 수능 국어야, 풀어봐\" 시켰더니…AI, 2분 만에 100점",
+     "url": "https://news.jtbc.co.kr/article/NB12328837",
+     "source": "JTBC"
+    },
+    {
+     "title": "“챗GPT도 제미나이도 만점”…수능 국어·수학·영어 싹쓸이",
+     "url": "https://www.kyeonggi.com/article/20261119580471",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "수능 답지",
+   "traffic": "50000+",
+   "when": "11월 19일 16:40",
+   "news": [
+    {
+     "title": "[수능] EBS \"수학, 작년 수능과 비슷…입시업계 \"약간 어려울 수도\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261119120151530",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "수능 영어, 지난해보다 쉽게 출제…9월 모평보다는 어려워[2027 수능]",
+     "url": "https://www.khan.co.kr/article/202611191727001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "수능 등급컷",
+   "traffic": "2000+",
+   "when": "11월 19일 16:40",
+   "news": [
+    {
+     "title": "[수능] 내 점수로 어디 갈까…오늘 저녁부터 입시학원 설명회",
+     "url": "https://www.yna.co.kr/view/AKR20261118182700530",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "오디바이스, 2027학년도 정시 합격예측 서비스 ‘입시캐스트’ 오픈",
+     "url": "https://zdnet.co.kr/view/?no=20261119172357",
+     "source": "지디넷코리아"
+    }
+   ]
+  },
+  {
+   "kw": "수능 끝",
+   "traffic": "500+",
+   "when": "11월 19일 16:40",
+   "news": [
+    {
+     "title": "오산시, 수능 끝낸 청년에게 ‘이루잡’ 문 활짝…수험표 들고 오면 선착순 100명 e쿠폰",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337252",
+     "source": "인천일보"
+    },
+    {
+     "title": "\"수험표 챙겨 '이루잡'으로 오산\"…오산시 수험생 e쿠폰 이벤트 - 머니투데이",
+     "url": "https://www.mt.co.kr/policy/2026/11/19/2026111912471091736",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "라미란",
+   "traffic": "100+",
+   "when": "11월 19일 16:40",
+   "news": [
+    {
+     "title": "'보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"",
+     "url": "https://www.yna.co.kr/view/AKR20261118043900005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "유아인 마약에 3년 기다렸는데... 라미란, 고경표 음주운전에 차기작 날벼락",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MVRTEMZXMQZGMZTFGQ2GMOJWGU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "이병철",
+   "traffic": "100+",
+   "when": "11월 19일 16:10",
+   "news": [
+    {
+     "title": "이병철 삼성 창업회장 39주기… 범삼성家 용인서 추도식",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/19/MTYMXXQ5DVEJDOUZDPRMHKWE2Q/",
+     "source": "조선일보"
+    },
+    {
+     "title": "이병철 삼성 회장 추도식 참석한 홍라희",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261119_0021538710&pID=1&cID=&sID=1&type=photoMain&idx=5",
+     "source": "뉴시스"
+    }
+   ]
+  },
   {
    "kw": "lg 임원인사",
    "traffic": "500+",
    "when": "11월 19일 16:10",
    "news": [
     {
-     "title": "LG전자 조직개편…사업부 신설해 미래사업 역량 강화",
-     "url": "https://www.yna.co.kr/view/AKR20261119136600003",
-     "source": "연합뉴스"
+     "title": "\"미래 경쟁\" LG전자, 임원 승부수…사장 2명 등 44명 승진",
+     "url": "https://www.hankyung.com/article/202611197795g",
+     "source": "한국경제"
     },
     {
-     "title": "LG경영개발원, 하범종 ㈜LG 경영지원부문장 대표이사 내정",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445585",
-     "source": "연합인포맥스"
+     "title": "LG, 주요 계열사 CEO 유임…경영 안정 속 기술인재 중용",
+     "url": "https://www.yna.co.kr/view/AKR20261119158400003",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -54,120 +156,18 @@
   },
   {
    "kw": "수능 결시율",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 19일 15:20",
    "news": [
+    {
+     "title": "[수능] 1교시 결시율 9.97%, 작년보다 높아…응시자 49만1천명",
+     "url": "https://www.yna.co.kr/view/AKR20261119103000530",
+     "source": "연합뉴스"
+    },
     {
      "title": "AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)",
      "url": "https://www.news1.kr/society/education/6359569",
      "source": "뉴스1"
-    },
-    {
-     "title": "수능 1교시 응시자 49만 1천 명‥결시율 작년보다 높아",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6866952_36918.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "버거킹 초콜릿와퍼",
-   "traffic": "100+",
-   "when": "11월 19일 15:20",
-   "news": [
-    {
-     "title": "\"만우절 거짓말인 줄 알았는데\"…버거킹, 진짜 '초콜릿 와퍼' 내놓는다 - 머니투데이",
-     "url": "https://www.mt.co.kr/living/2026/11/17/2026111708270380871",
-     "source": "머니투데이"
-    },
-    {
-     "title": "고기 대신 브라우니? 만우절 농담 ‘초콜릿 와퍼’ 현실로!",
-     "url": "https://kids.donga.com/news/articleView.html?idxno=170338",
-     "source": "어린이동아"
-    }
-   ]
-  },
-  {
-   "kw": "민주유공자법",
-   "traffic": "200+",
-   "when": "11월 19일 14:50",
-   "news": [
-    {
-     "title": "'민주유공자법' 본회의 상정‥국힘 \"운동권 노후 특혜법\" 반발",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6866971_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "민주유공자법, 국힘 필리버스터에도 민주당 주도로 본회의 상정",
-     "url": "https://www.donga.com/news/Politics/article/all/20261119/135055192/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "디 에이치 반포 124",
-   "traffic": "100+",
-   "when": "11월 19일 14:50",
-   "news": [
-    {
-     "title": "[단독] “평당 분양가 1억 넘기면 안된다”…디에이치 반포124 제동",
-     "url": "https://www.mk.co.kr/news/realestate/12213314",
-     "source": "매일경제"
-    },
-    {
-     "title": "'30억 로또' 디에이치 반포124 청약 일정 밀린다",
-     "url": "https://www.hankyung.com/article/2026111857156",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "예비타당성조사",
-   "traffic": "200+",
-   "when": "11월 19일 14:40",
-   "news": [
-    {
-     "title": "복지부, 20일 경기 동북부 공공의료원 예비타당성 조사 신청",
-     "url": "https://www.yna.co.kr/view/AKR20261119039300060",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "경기 동북부 의료 공백 메울까…남양주 공공의료원 건립 ‘청신호’",
-     "url": "https://www.kyeonggi.com/article/20261119580141",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "수능 샤프",
-   "traffic": "200+",
-   "when": "11월 19일 14:20",
-   "news": [
-    {
-     "title": "올해 수능 샤프는 ‘무궁화보라색’…연필 빼고 필기구 모두 지급",
-     "url": "https://www.hani.co.kr/arti/society/schooling/1288087.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "연필은 불티, 사인펜은 쌓였다...편의점업계, 수능 특수 김샜다 - 머니투데이",
-     "url": "https://www.mt.co.kr/living/2026/11/19/2026111915033666154",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "서울교통공사",
-   "traffic": "100+",
-   "when": "11월 19일 14:20",
-   "news": [
-    {
-     "title": "서울교통공사 직원들, 범죄 의심 상황 신속 대응…시민 안전 확보",
-     "url": "https://www.newspim.com/news/view/20261119001295",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "“수상한 행동 놓치지 않았다”… 서울교통공사 직원들, 범죄 의심 상황 잇따라 대응",
-     "url": "https://mbiz.heraldcorp.com/article/10943026",
-     "source": "헤럴드경제"
     }
    ]
   }
