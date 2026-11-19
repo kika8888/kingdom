@@ -1,9 +1,111 @@
 {
- "updated": "2026-11-19 19:22",
+ "updated": "2026-11-19 20:23",
  "items": [
   {
-   "kw": "셀트리온",
+   "kw": "김다현",
    "traffic": "200+",
+   "when": "11월 19일 19:10",
+   "news": [
+    {
+     "title": "‘가요무대’ 미스김 ‘황홀무대’",
+     "url": "https://sports.khan.co.kr/article/202611171459003",
+     "source": "스포츠경향"
+    },
+    {
+     "title": "'가요무대' 김다현·빈예서 듀엣부터 배아현·신유·신승태까지 총출동",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753917",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "데프트",
+   "traffic": "500+",
+   "when": "11월 19일 19:00",
+   "news": [
+    {
+     "title": "'중꺾마' 주인공 '데프트' 김혁규가 돌아왔다… 농심 입단",
+     "url": "https://www.dailyesports.com/view.php?ud=20261119191919733974bcc1e038_27",
+     "source": "데일리e스포츠"
+    },
+    {
+     "title": "[단독] '데프트' 김혁규 \"농심의 진심에 합류 결심, 독기 품고 할 것\" (인터뷰)",
+     "url": "https://www.xportsnews.com/article/2221223",
+     "source": "www.xportsnews.com"
+    }
+   ]
+  },
+  {
+   "kw": "수원 kt 대 서울 sk",
+   "traffic": "500+",
+   "when": "11월 19일 19:00",
+   "news": [
+    {
+     "title": "◇오늘의 경기(19일)",
+     "url": "https://www.yna.co.kr/view/AKR20261118190800007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[사진]김낙현, 침착하게 레이업슛",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/19/MMYTMNLBHA2DMYJQGU2WEMBSGQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "bangladesh vs south africa",
+   "traffic": "100+",
+   "when": "11월 19일 19:00",
+   "news": [
+    {
+     "title": "Harmer, Rabada help South Africa thump Bangladesh to go 1-0 up",
+     "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-1st-test-1525662/match-report-5",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Mahmud: We couldn't create pressure against South Africa's tailenders",
+     "url": "https://www.cricbuzz.com/cricket-news/140963/mahmud-we-couldnt-create-pressure-against-south-africas-tailenders-cricbuzzcom",
+     "source": "Cricbuzz"
+    }
+   ]
+  },
+  {
+   "kw": "안양 정관장 대 부산 kcc",
+   "traffic": "1000+",
+   "when": "11월 19일 18:50",
+   "news": [
+    {
+     "title": "[핌in안양] KCC전 홈 8연승 도전, 정관장 유도훈 감독 \"변준형 발목, 박지훈 허리 부담\"",
+     "url": "https://www.newspim.com/news/view/20261119001422",
+     "source": "뉴스핌"
+    },
+    {
+     "title": "[스경X현장]‘독감’ 정관장 문유현, 대표팀 합류도 미룬다",
+     "url": "https://sports.khan.co.kr/article/202611191849003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "수험표 할인",
+   "traffic": "100+",
+   "when": "11월 19일 18:40",
+   "news": [
+    {
+     "title": "어쨌든 수능 끝! 수험생이여, 이제 할인을 즐겨라",
+     "url": "https://www.khan.co.kr/article/202611191716001",
+     "source": "경향신문"
+    },
+    {
+     "title": "“목탁 스트레스볼에 퍼스널컬러까지”...‘합격 기원’에서 ‘경험·가족 소비’로 진화",
+     "url": "https://www.kyeonggi.com/article/20261118580425",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "셀트리온",
+   "traffic": "500+",
    "when": "11월 19일 18:00",
    "news": [
     {
@@ -37,18 +139,18 @@
   },
   {
    "kw": "lg디스플레이",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 19일 18:00",
    "news": [
-    {
-     "title": "\"대형·중형 사업부 통합\"…LG디스플레이, 17명 임원인사 단행",
-     "url": "https://www.hankyung.com/article/202611197955g",
-     "source": "한국경제"
-    },
     {
      "title": "LGD, 사업부 통합으로 OLED 전환 박차…임원 17명 승진",
      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03926166645647360",
      "source": "마켓인"
+    },
+    {
+     "title": "\"대형·중형 사업부 통합\"…LG디스플레이, 17명 임원인사 단행",
+     "url": "https://www.hankyung.com/article/202611197955g",
+     "source": "한국경제"
     }
    ]
   },
@@ -66,108 +168,6 @@
      "title": "Pakistan's Saqib Khan in action on day two against Sri Lanka",
      "url": "https://en.yenisafak.com/sports/pakistans-saqib-khan-in-action-on-day-two-against-sri-lanka-3725716",
      "source": "Yeni Safak English"
-    }
-   ]
-  },
-  {
-   "kw": "사건",
-   "traffic": "10000+",
-   "when": "11월 19일 17:30",
-   "news": [
-    {
-     "title": "[속보] 대법 “한덕수, 내란중요임무 ‘국헌문란 목적’ 인정 여지 커”",
-     "url": "https://www.chosun.com/national/court_law/2026/11/19/TLFQFS6RONE3TIPRPKXBC5OPLI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "’내란 한덕수’ 파기환송…김건희 징역4년 확정",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119190815i7J",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "수능 답지",
-   "traffic": "50000+",
-   "when": "11월 19일 16:40",
-   "news": [
-    {
-     "title": "수능 수학, 난이도 작년과 비슷…“중·상위권 변별력 확보”",
-     "url": "https://www.hani.co.kr/arti/society/schooling/1288146.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "국어·영어 쉬워지고 수학은 비슷…수학·탐구 변별력 커질 듯",
-     "url": "https://www.khan.co.kr/article/202611191903011",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "수능 등급컷",
-   "traffic": "10000+",
-   "when": "11월 19일 16:40",
-   "news": [
-    {
-     "title": "[수능] 내 점수로 어디 갈까…오늘 저녁부터 입시학원 설명회",
-     "url": "https://www.yna.co.kr/view/AKR20261118182700530",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "오디바이스, 2027학년도 정시 합격예측 서비스 ‘입시캐스트’ 오픈",
-     "url": "https://zdnet.co.kr/view/?no=20261119172357",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "라미란",
-   "traffic": "100+",
-   "when": "11월 19일 16:40",
-   "news": [
-    {
-     "title": "'보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"",
-     "url": "https://www.yna.co.kr/view/AKR20261118043900005",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "유아인 마약에 3년 기다렸는데... 라미란, 고경표 음주운전에 차기작 날벼락",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/18/MVRTEMZXMQZGMZTFGQ2GMOJWGU/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "이병철",
-   "traffic": "100+",
-   "when": "11월 19일 16:10",
-   "news": [
-    {
-     "title": "이병철 창업 회장 39주기, 범삼성가 선영 참배",
-     "url": "https://www.donga.com/news/Economy/article/all/20261119/135054236/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "이병철 삼성 창업회장 39주기… 범삼성家 용인서 추도식",
-     "url": "https://www.chosun.com/economy/industry-company/2026/11/19/MTYMXXQ5DVEJDOUZDPRMHKWE2Q/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "lg 임원인사",
-   "traffic": "500+",
-   "when": "11월 19일 16:10",
-   "news": [
-    {
-     "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
-     "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "이상우 LG전자 MS사업본부장 겸 디스플레이사업부장",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04198406645647360",
-     "source": "마켓인"
     }
    ]
   }
