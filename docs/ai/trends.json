@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-19 12:15",
+ "updated": "2026-11-19 13:23",
  "items": [
   {
-   "kw": "양민혁",
+   "kw": "박찬종",
+   "traffic": "200+",
+   "when": "11월 19일 12:20",
+   "news": [
+    {
+     "title": "박찬종 전 의원 별세…세브란스병원에 주검 기증",
+     "url": "https://www.hani.co.kr/arti/politics/assembly/1288101.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "'14대 대선출마' 박찬종 前의원 별세…생전 약속대로 시신기증",
+     "url": "https://www.yna.co.kr/view/AKR20261119083700001",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "전국삼성전자노동조합",
+   "traffic": "200+",
+   "when": "11월 19일 12:10",
+   "news": [
+    {
+     "title": "삼성전자 제7노조 '광주노동조합' 공식 출범…교섭 참여 추진",
+     "url": "https://www.yna.co.kr/view/AKR20261118119200003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "삼성전자 7노조 ’광주노조’ 출범…“임단협 참여 추진“",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118144308jEM",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "수능 수학",
    "traffic": "500+",
+   "when": "11월 19일 12:00",
+   "news": [
+    {
+     "title": "1년전 AI도 수능 수학 만점 …교육·시험평가체계 낙제",
+     "url": "https://www.etnews.com/20261118000364",
+     "source": "전자신문"
+    },
+    {
+     "title": "수능 국어 만점, 2024년 64명→2026년 261명 급증…AI 부정행위 의혹 소환?",
+     "url": "https://www.edupress.kr/news/articleView.html?idxno=30632",
+     "source": "에듀프레스"
+    }
+   ]
+  },
+  {
+   "kw": "군산시의회",
+   "traffic": "200+",
+   "when": "11월 19일 12:00",
+   "news": [
+    {
+     "title": "군산시의회, 고독사 위험군 연중 관리 주문…사례관리 예산 배분도 지적",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756625",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "군산시, 클라이밍센터 재계약 시의회 동의 ‘패싱’…행감 도마 위",
+     "url": "http://www.inews24.com/view/2028026",
+     "source": "아이뉴스24"
+    }
+   ]
+  },
+  {
+   "kw": "크리스 페덱",
+   "traffic": "1000+",
+   "when": "11월 19일 11:40",
+   "news": [
+    {
+     "title": "샴페인 마르기도 전에 찾아온 'FA 3중고'… 왕조 재건 노리는 삼성, 외부 FA는 신경쓸 틈 조차 없다",
+     "url": "https://www.fnnews.com/news/202611190838400274",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "KS 우승 삼성, 역대급 ‘머니게임’ 돌입",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261117010006373",
+     "source": "아시아투데이"
+    }
+   ]
+  },
+  {
+   "kw": "하남시",
+   "traffic": "5000+",
+   "when": "11월 19일 11:40",
+   "news": [
+    {
+     "title": "전국 곳곳서 경찰차 타고 시험장 도착‥경찰, 수능 날 121건 지원",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6866883_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "\"2분 남았다\"…입실 마감 앞두고 수험생 긴급 수송 나선 경찰·시민들 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/19/2026111909582031256",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "주식시장",
+   "traffic": "2000+",
+   "when": "11월 19일 11:20",
+   "news": [
+    {
+     "title": "수능일 증시 오전 10시 개장…정규장 4시반까지",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119094205rla",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
+     "url": "https://www.mk.co.kr/news/business/12213210",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "양민혁",
+   "traffic": "2000+",
    "when": "11월 19일 11:10",
    "news": [
     {
@@ -20,7 +139,7 @@
   },
   {
    "kw": "신용회복위원회",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 19일 11:00",
    "news": []
   },
@@ -30,133 +149,14 @@
    "when": "11월 19일 10:40",
    "news": [
     {
-     "title": "'마약 집행유예중 음주운전' 남태현 2심도 실형…법정구속",
-     "url": "https://www.yna.co.kr/view/AKR20261119062300004",
-     "source": "연합뉴스"
+     "title": "'음주 상태로 시속 182㎞' 남태현, 2심서 법정구속",
+     "url": "https://www.hankyung.com/article/202611196853H",
+     "source": "한국경제"
     },
     {
-     "title": "[속보] ’집유 중 음주운전’ 남태현, 항소심도 징역 1년 실형..법정 구속",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/19/G5RTSNRXGJSTAZRSMUYDMYLEGI/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "전역",
-   "traffic": "1000+",
-   "when": "11월 19일 10:20",
-   "news": [
-    {
-     "title": "군 떠나는 간부 줄었다…육군 희망전역 작년보다 17％ 감소",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716929",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "떠나던 부사관 붙잡았다…육군 희망전역 5년 만에 첫 감소",
-     "url": "https://biz.heraldcorp.com/article/10942043",
-     "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "kw": "금융투자협회",
-   "traffic": "100+",
-   "when": "11월 19일 10:10",
-   "news": [
-    {
-     "title": "고객 돈으로 손실 피하면 안 됩니다…금투협, 차이니즈월 '고삐'",
-     "url": "https://biz.sbs.co.kr/article/20000347521",
-     "source": "SBS Biz"
-    },
-    {
-     "title": "[게시판] 금투협, 증권사 CEO와 日자본시장 탐방",
-     "url": "https://www.yna.co.kr/view/AKR20261118073700008",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "수능 문제",
-   "traffic": "5000+",
-   "when": "11월 19일 09:50",
-   "news": [
-    {
-     "title": "[속보] 수능 1교시 국어 문제지·정답 답지 동시 공개",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756880",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "수능일 체감온도 영하권…정부, 제설·긴급 수송체계 점검",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148975985",
-     "source": "대한민국 정책브리핑"
-    }
-   ]
-  },
-  {
-   "kw": "이혼",
-   "traffic": "2000+",
-   "when": "11월 19일 09:40",
-   "news": [
-    {
-     "title": "박지윤, 남사친과 잠옷 차림 동숙에 성인물까지…상간소 일부 패소 이유 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/19/2026111822454098948",
-     "source": "머니투데이"
-    },
-    {
-     "title": "\"지인은 성소수자\"…박지윤, 최동석과 상간·이혼 소송 직접 반박",
-     "url": "https://www.newsis.com/view/NISX20261119_0003874235",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "네이버뉴스",
-   "traffic": "500+",
-   "when": "11월 19일 09:40",
-   "news": [
-    {
-     "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
-     "url": "https://www.etnews.com/20261118000308",
-     "source": "전자신문"
-    },
-    {
-     "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
-     "url": "https://www.journalist.or.kr/news/article.html?no=62103",
-     "source": "한국기자협회"
-    }
-   ]
-  },
-  {
-   "kw": "조작기소 특검법",
-   "traffic": "200+",
-   "when": "11월 19일 09:30",
-   "news": [
-    {
-     "title": "이 대통령, 조작기소 특검법 재가‥공포돼 즉시 시행",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6866820_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "野, '추경호 무죄'에 대여 공세 강화…\"李, 당당하게 재판 받으라\" - 머니투데이",
-     "url": "https://www.mt.co.kr/politics/2026/11/19/2026111911092241745",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "시즌2",
-   "traffic": "10000+",
-   "when": "11월 19일 09:10",
-   "news": [
-    {
-     "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개",
-     "url": "https://www.yna.co.kr/view/AKR20261119043100005",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'피지컬: 아시아', 시즌2로 컴백…내년 공개 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111910407270663",
-     "source": "머니투데이"
+     "title": "‘집행유예 중 음주운전’ 위너 남태현, 항소심도 징역...법정구속",
+     "url": "https://www.chosun.com/national/national_general/2026/11/19/U3C7ITUVGVGSHJDOHMQ7ZRQVNI/",
+     "source": "조선일보"
     }
    ]
   }
