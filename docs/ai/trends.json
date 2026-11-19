@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-19 10:23",
+ "updated": "2026-11-19 11:23",
  "items": [
   {
+   "kw": "전역",
+   "traffic": "500+",
+   "when": "11월 19일 10:20",
+   "news": [
+    {
+     "title": "군 떠나는 간부 줄었다…육군 희망전역 작년보다 17％ 감소",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716929",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "떠나던 부사관 붙잡았다…육군 희망전역 5년 만에 첫 감소",
+     "url": "https://biz.heraldcorp.com/article/10942043",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
+  {
+   "kw": "금융투자협회",
+   "traffic": "100+",
+   "when": "11월 19일 10:10",
+   "news": [
+    {
+     "title": "[게시판] 금투협, 증권사 CEO와 日자본시장 탐방",
+     "url": "https://www.yna.co.kr/view/AKR20261118073700008",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "금투협·증권업계 CEO 11명, 일본서 미래 성장모델 모색",
+     "url": "https://core.asiae.co.kr/article/2026111815161561967",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  {
+   "kw": "이혼",
+   "traffic": "2000+",
+   "when": "11월 19일 09:40",
+   "news": [
+    {
+     "title": "박지윤, 남사친과 잠옷 차림 동숙에 성인물까지…상간소 일부 패소 이유 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/19/2026111822454098948",
+     "source": "머니투데이"
+    },
+    {
+     "title": "“박지윤, 최동석에 숨기고 남성과 호텔 투숙” 法, 위자료 지급 판단",
+     "url": "https://www.munhwa.com/article/11632371",
+     "source": "문화일보"
+    }
+   ]
+  },
+  {
+   "kw": "네이버뉴스",
+   "traffic": "500+",
+   "when": "11월 19일 09:40",
+   "news": [
+    {
+     "title": "네이버 제휴심사 합격사 '0'… 12월 말 내년 제휴신청 접수",
+     "url": "https://www.journalist.or.kr/news/article.html?no=62103",
+     "source": "한국기자협회"
+    },
+    {
+     "title": "네이버 뉴스제휴위, 올해 신규 제휴 언론사 '0곳'…내년 기준 완화 검토",
+     "url": "https://www.etnews.com/20261118000308",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "한국교육과정평가원",
+   "traffic": "1000+",
+   "when": "11월 19일 09:20",
+   "news": [
+    {
+     "title": "수능출제위원장 \"고교 공교육 내용만으로 변별력 확보토록 출제\"",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6866839_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "2027학년도 대학수학능력시험 출제 방향 브리핑",
+     "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156789851&pWise=main&pWiseMain=L3",
+     "source": "대한민국 정책브리핑"
+    }
+   ]
+  },
+  {
    "kw": "시즌2",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 19일 09:10",
    "news": [
     {
@@ -12,32 +97,15 @@
      "source": "연합뉴스"
     },
     {
-     "title": "‘피지컬: 아시아’, 2027년 시즌2로 귀환…더 커진 스케일·새 퀘스트 예고",
-     "url": "https://sports.donga.com/ent/article/all/20261119/135051869/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "올랜도 대 필라데피아",
-   "traffic": "200+",
-   "when": "11월 19일 09:10",
-   "news": [
-    {
-     "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
-     "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
-     "source": "NBA.com"
-    },
-    {
-     "title": "How Franz Wagner, Magic Can Make Biggest Statement Against LeBron James, 76ers",
-     "url": "https://sports.yahoo.com/articles/franz-wagner-magic-biggest-statement-185057625.html",
-     "source": "Yahoo Sports"
+     "title": "'피지컬: 아시아', 시즌2로 컴백…내년 공개 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111910407270663",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "전도연",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 19일 09:10",
    "news": [
     {
@@ -53,42 +121,42 @@
    ]
   },
   {
-   "kw": "이적 시장",
-   "traffic": "1000+",
-   "when": "11월 19일 09:00",
+   "kw": "올랜도 대 필라데피아",
+   "traffic": "500+",
+   "when": "11월 19일 09:10",
    "news": [
     {
-     "title": "축구의 묘미는 역시 ‘바이시클킥’",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8716627",
-     "source": "KBS 뉴스"
+     "title": "Philadelphia 76ers Visit Orlando Magic Wednesday Night",
+     "url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
+     "source": "NBA.com"
     },
     {
-     "title": "포체티노, 맨체스터 도착해 맨유 감독 업무 시작…\"영광·특권\"",
-     "url": "https://www.yna.co.kr/view/AKR20261119020100007",
-     "source": "연합뉴스"
+     "title": "Sixers head to Orlando for showdown with Franz Wagner and the Magic",
+     "url": "https://www.libertyballers.com/76ers-game-previews/102197/sixers-head-to-orlando-for-showdown-with-franz-wagner-and-the-magic",
+     "source": "Liberty Ballers"
     }
    ]
   },
   {
-   "kw": "수능날 주식",
-   "traffic": "2000+",
+   "kw": "정치",
+   "traffic": "10000+",
    "when": "11월 19일 09:00",
    "news": [
     {
-     "title": "“10시까지 출근 아니었어요?”…대기업 직장인이 수능날 지각한 까닭",
-     "url": "https://www.mk.co.kr/news/business/12213210",
-     "source": "매일경제"
+     "title": "‘우왕좌왕’을 내란으로… 법원서 무너진 특검 주장",
+     "url": "https://www.chosun.com/national/court_law/2026/11/19/CTKLYAU7K5GXFHZCCBBRQRGWGA/",
+     "source": "조선일보"
     },
     {
-     "title": "\"수능날 착각하지 마세요\"...프리마켓은 휴장, 정규장은 10시부터",
-     "url": "https://www.hankyung.com/article/202611185520i",
-     "source": "한국경제"
+     "title": "한병도 \"추경호 1심, 국민 상식 부합 못해…한덕수 선고 지켜볼 것\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445499",
+     "source": "연합인포맥스"
     }
    ]
   },
   {
    "kw": "nginx",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 19일 09:00",
    "news": [
     {
@@ -97,66 +165,9 @@
      "source": "wiz.io"
     },
     {
-     "title": "“World’s Best AI Hacker” Just Uncovered A Massive Web Vulnerability",
-     "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws/",
-     "source": "Forbes"
-    }
-   ]
-  },
-  {
-   "kw": "gemini neon",
-   "traffic": "200+",
-   "when": "11월 19일 09:00",
-   "news": [
-    {
-     "title": "Introducing Gemini 4 Neon",
-     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-     "source": "blog.google"
-    },
-    {
-     "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
-     "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
-     "source": "Google for Developers Blog"
-    }
-   ]
-  },
-  {
-   "kw": "test alert",
-   "traffic": "100+",
-   "when": "11월 19일 09:00",
-   "news": []
-  },
-  {
-   "kw": "현금",
-   "traffic": "2000+",
-   "when": "11월 19일 08:50",
-   "news": [
-    {
-     "title": "\"현금 결제 안 된다\" 말에 내리려던 할아버지…함께 움직인 승객들",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261118171840KHo",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "\"현금 안 돼요\" 어르신 버스 못 타게 되자…'감동'의 손길",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852779",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "수원 fc 위민",
-   "traffic": "1000+",
-   "when": "11월 19일 08:30",
-   "news": [
-    {
-     "title": "꼴찌→PO 막차→리그 1위 꺾고 챔피언 등극, '캡틴' 장슬기도 놀랐다 \"감히 우승할 수 있을까 생각했는데...\" [수원 현장] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111817230218434",
-     "source": "머니투데이"
-    },
-    {
-     "title": "10년만의 복귀 감독과 창단 첫 우승…WK리그 한수원 '기쁨 두배'",
-     "url": "https://www.yna.co.kr/view/AKR20261118189000007",
-     "source": "연합뉴스"
+     "title": "Theori finds 5 critical NGINX vulnerabilities, urges immediate patching",
+     "url": "https://biz.chosun.com/en/en-it/2026/11/19/EXL6MNJPRBGK3BPRKASYYGL22M/",
+     "source": "Chosunbiz"
     }
    ]
   }
