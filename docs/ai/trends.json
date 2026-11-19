@@ -1,20 +1,88 @@
 {
- "updated": "2026-11-19 18:27",
+ "updated": "2026-11-19 19:22",
  "items": [
   {
-   "kw": "국어 수능",
-   "traffic": "1000+",
-   "when": "11월 19일 17:10",
+   "kw": "셀트리온",
+   "traffic": "200+",
+   "when": "11월 19일 18:00",
    "news": [
     {
-     "title": "\"이게 오늘 수능 국어야, 풀어봐\" 시켰더니…AI, 2분 만에 100점",
-     "url": "https://news.jtbc.co.kr/article/NB12328837",
-     "source": "JTBC"
+     "title": "셀트리온 \"램시마·허쥬마, 아시아 주요국서 점유율 1위\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119039100017",
+     "source": "연합뉴스"
     },
     {
-     "title": "“챗GPT도 제미나이도 만점”…수능 국어·수학·영어 싹쓸이",
-     "url": "https://www.kyeonggi.com/article/20261119580471",
-     "source": "경기일보"
+     "title": "셀트리온, 바이오시밀러 亞 시장 '승승장구'",
+     "url": "http://www.incheonilbo.com/news/articleView.html?idxno=1337310",
+     "source": "인천일보"
+    }
+   ]
+  },
+  {
+   "kw": "fifa 랭킹",
+   "traffic": "200+",
+   "when": "11월 19일 18:00",
+   "news": [
+    {
+     "title": "'사우디전 42년만 3실점 충격에도...' 한국, FIFA 랭킹 2계단 깜짝 상승 30위 \"아시아 4위 유지\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111913460673471",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'1승 1패' 한국 축구, FIFA 랭킹 2계단 뛰어 30위…일본 17위",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874906",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "lg디스플레이",
+   "traffic": "100+",
+   "when": "11월 19일 18:00",
+   "news": [
+    {
+     "title": "\"대형·중형 사업부 통합\"…LG디스플레이, 17명 임원인사 단행",
+     "url": "https://www.hankyung.com/article/202611197955g",
+     "source": "한국경제"
+    },
+    {
+     "title": "LGD, 사업부 통합으로 OLED 전환 박차…임원 17명 승진",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03926166645647360",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "sri lanka vs pakistan",
+   "traffic": "200+",
+   "when": "11월 19일 17:40",
+   "news": [
+    {
+     "title": "Ghori, Razaullah push Pakistan to commanding position in Rawalpindi",
+     "url": "https://www.cricbuzz.com/cricket-news/140960/ghori-razaullah-push-pakistan-to-commanding-position-in-rawalpindi-cricbuzzcom",
+     "source": "Cricbuzz"
+    },
+    {
+     "title": "Pakistan's Saqib Khan in action on day two against Sri Lanka",
+     "url": "https://en.yenisafak.com/sports/pakistans-saqib-khan-in-action-on-day-two-against-sri-lanka-3725716",
+     "source": "Yeni Safak English"
+    }
+   ]
+  },
+  {
+   "kw": "사건",
+   "traffic": "10000+",
+   "when": "11월 19일 17:30",
+   "news": [
+    {
+     "title": "[속보] 대법 “한덕수, 내란중요임무 ‘국헌문란 목적’ 인정 여지 커”",
+     "url": "https://www.chosun.com/national/court_law/2026/11/19/TLFQFS6RONE3TIPRPKXBC5OPLI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "’내란 한덕수’ 파기환송…김건희 징역4년 확정",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261119190815i7J",
+     "source": "연합뉴스TV"
     }
    ]
   },
@@ -24,20 +92,20 @@
    "when": "11월 19일 16:40",
    "news": [
     {
-     "title": "[수능] EBS \"수학, 작년 수능과 비슷…입시업계 \"약간 어려울 수도\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261119120151530",
-     "source": "연합뉴스"
+     "title": "수능 수학, 난이도 작년과 비슷…“중·상위권 변별력 확보”",
+     "url": "https://www.hani.co.kr/arti/society/schooling/1288146.html",
+     "source": "한겨레"
     },
     {
-     "title": "수능 영어, 지난해보다 쉽게 출제…9월 모평보다는 어려워[2027 수능]",
-     "url": "https://www.khan.co.kr/article/202611191727001",
+     "title": "국어·영어 쉬워지고 수학은 비슷…수학·탐구 변별력 커질 듯",
+     "url": "https://www.khan.co.kr/article/202611191903011",
      "source": "경향신문"
     }
    ]
   },
   {
    "kw": "수능 등급컷",
-   "traffic": "2000+",
+   "traffic": "10000+",
    "when": "11월 19일 16:40",
    "news": [
     {
@@ -49,23 +117,6 @@
      "title": "오디바이스, 2027학년도 정시 합격예측 서비스 ‘입시캐스트’ 오픈",
      "url": "https://zdnet.co.kr/view/?no=20261119172357",
      "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "수능 끝",
-   "traffic": "500+",
-   "when": "11월 19일 16:40",
-   "news": [
-    {
-     "title": "오산시, 수능 끝낸 청년에게 ‘이루잡’ 문 활짝…수험표 들고 오면 선착순 100명 e쿠폰",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337252",
-     "source": "인천일보"
-    },
-    {
-     "title": "\"수험표 챙겨 '이루잡'으로 오산\"…오산시 수험생 e쿠폰 이벤트 - 머니투데이",
-     "url": "https://www.mt.co.kr/policy/2026/11/19/2026111912471091736",
-     "source": "머니투데이"
     }
    ]
   },
@@ -92,14 +143,14 @@
    "when": "11월 19일 16:10",
    "news": [
     {
+     "title": "이병철 창업 회장 39주기, 범삼성가 선영 참배",
+     "url": "https://www.donga.com/news/Economy/article/all/20261119/135054236/1",
+     "source": "동아일보"
+    },
+    {
      "title": "이병철 삼성 창업회장 39주기… 범삼성家 용인서 추도식",
      "url": "https://www.chosun.com/economy/industry-company/2026/11/19/MTYMXXQ5DVEJDOUZDPRMHKWE2Q/",
      "source": "조선일보"
-    },
-    {
-     "title": "이병철 삼성 회장 추도식 참석한 홍라희",
-     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261119_0021538710&pID=1&cID=&sID=1&type=photoMain&idx=5",
-     "source": "뉴시스"
     }
    ]
   },
@@ -109,65 +160,14 @@
    "when": "11월 19일 16:10",
    "news": [
     {
-     "title": "\"미래 경쟁\" LG전자, 임원 승부수…사장 2명 등 44명 승진",
-     "url": "https://www.hankyung.com/article/202611197795g",
-     "source": "한국경제"
+     "title": "LG, CEO 대부분 유임 속 임원 승진 35% 늘려…미래 기술 인재 발탁",
+     "url": "https://www.chosun.com/economy/industry-company/2026/11/19/UPFYN7S6RRFNREBAPODNAH3QWY/",
+     "source": "조선일보"
     },
     {
-     "title": "LG, 주요 계열사 CEO 유임…경영 안정 속 기술인재 중용",
-     "url": "https://www.yna.co.kr/view/AKR20261119158400003",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "해군",
-   "traffic": "200+",
-   "when": "11월 19일 15:50",
-   "news": [
-    {
-     "title": "“전 세계가 날 주목해”…‘방중 관심’ 속 현지시찰 노출 [지금뉴스]",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8717260",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "[속보] 경찰, 리트 만점자 \"사망으로 최종 판정시 감식 등 진행\"",
-     "url": "https://www.hankyung.com/article/2026111972367",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "주얼리",
-   "traffic": "1000+",
-   "when": "11월 19일 15:40",
-   "news": [
-    {
-     "title": "올리아, 서울 주얼리 쇼룸에서 팝업 진행",
-     "url": "https://www.handmk.com/news/articleView.html?idxno=45236",
-     "source": "핸드메이커"
-    },
-    {
-     "title": "논논X하츠투하츠, ‘Lemon Tang’ 콜라보 주얼리 3종 선보여",
-     "url": "https://www.beyondpost.co.kr/view.php?ud=20261119130424646637600e7ec7_30",
-     "source": "비욘드포스트"
-    }
-   ]
-  },
-  {
-   "kw": "수능 결시율",
-   "traffic": "500+",
-   "when": "11월 19일 15:20",
-   "news": [
-    {
-     "title": "[수능] 1교시 결시율 9.97%, 작년보다 높아…응시자 49만1천명",
-     "url": "https://www.yna.co.kr/view/AKR20261119103000530",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "AI 커닝 단속 강화 영향?…수능 결시자 3000명 넘게 늘었다(종합)",
-     "url": "https://www.news1.kr/society/education/6359569",
-     "source": "뉴스1"
+     "title": "이상우 LG전자 MS사업본부장 겸 디스플레이사업부장",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04198406645647360",
+     "source": "마켓인"
     }
    ]
   }
