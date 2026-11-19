@@ -1,26 +1,66 @@
 {
- "updated": "2026-11-19 21:23",
+ "updated": "2026-11-19 21:53",
  "items": [
   {
-   "kw": "정부24",
-   "traffic": "1000+",
-   "when": "11월 19일 20:20",
+   "kw": "하나로마트",
+   "traffic": "100+",
+   "when": "11월 19일 20:50",
    "news": [
     {
-     "title": "보건소 직접 안 가도 된다…질병 관련 서류 '온라인'으로",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008852781",
-     "source": "SBS 뉴스"
+     "title": "영주시, 부산 소비시장 진출로 농특산물 판로 확대",
+     "url": "https://www.viva100.com/article/20261119501072",
+     "source": "브릿지경제"
     },
     {
-     "title": "평택시, 보건 관련 증명서 발급부터 감염병 신고 내역 조회까지 ‘정부24’에서 한 번에!",
-     "url": "https://nuriilbo.com/mobile/article.html?no=945768",
-     "source": "누리일보"
+     "title": "영주 사과·고구마·생강 72톤, 부산 하나로마트서 특판",
+     "url": "https://www.imaeil.com/page/view/2026111910530677533",
+     "source": "매일신문"
     }
    ]
   },
   {
+   "kw": "thời tiết ngày mai",
+   "traffic": "2000+",
+   "when": "11월 19일 20:40",
+   "news": [
+    {
+     "title": "Dự báo thời tiết đêm nay, ngày mai - 20/11/2026: Không khí lạnh tăng cường nhiệt độ giảm sâu hơn",
+     "url": "https://truyenhinhnghean.vn/media/chuyen-muc/ban-tin-thoi-tiet/202611/du-bao-thoi-tiet-dem-nay-ngay-mai-20112026-khong-khi-lanh-tang-cuong-nhiet-do-giam-sau-hon-0e23669/",
+     "source": "Báo và Phát thanh, Truyền hình Nghệ An"
+    },
+    {
+     "title": "Không khí lạnh tăng cường, dự báo khu vực có mưa rất to trên 250mm",
+     "url": "https://laodong.vn/video/khong-khi-lanh-tang-cuong-du-bao-khu-vuc-co-mua-rat-to-tren-250mm-1803318.ldo",
+     "source": "Laodong.vn"
+    }
+   ]
+  },
+  {
+   "kw": "cuaca besok",
+   "traffic": "200+",
+   "when": "11월 19일 20:40",
+   "news": [
+    {
+     "title": "BMKG: Cuaca Jakarta Besok, Hujan Ringan Berpotensi Turun di 6 Wilayah",
+     "url": "https://megapolitan.kompas.com/read/2026/11/19/18184651/bmkg-cuaca-jakarta-besok-hujan-ringan-berpotensi-turun-di-6-wilayah",
+     "source": "Kompas.com"
+    },
+    {
+     "title": "Hari Ini Jakarta Diprediksi Hujan Ringan Hingga Petir",
+     "url": "https://metropolitan.tvrinews.com/berita/tk5la8m-hari-ini-jakarta-diprediksi-hujan-ringan-hingga-petir",
+     "source": "TVRI News"
+    }
+   ]
+  },
+  {
+   "kw": "정부24",
+   "traffic": "1000+",
+   "when": "11월 19일 20:20",
+   "news": []
+  },
+  {
    "kw": "야구 경기장",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 19일 20:10",
    "news": [
     {
@@ -41,14 +81,31 @@
    "when": "11월 19일 20:00",
    "news": [
     {
-     "title": "이동국 딸 이재시 메기 효과 터졌다, “예뻐서 몸 반응” (내새끼의연애3)",
-     "url": "https://sports.donga.com/ent/article/all/20261119/135051749/1",
-     "source": "스포츠동아"
+     "title": "이동국 딸 이재시, ‘초강력 메기녀’ 됐다... 얼마나 예쁘면 “몸이 반응해”",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRSDKZJSME4GEOBVGUYDEMBRGA/",
+     "source": "조선일보"
     },
     {
      "title": "최수린 아들, 185㎝ 메기남 등판 \"짝사랑 해본 적 없어…결국 다 사귀더라\"",
      "url": "https://www.newsis.com/view/NISX20261119_0003874149",
      "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "푸틴",
+   "traffic": "100+",
+   "when": "11월 19일 20:00",
+   "news": [
+    {
+     "title": "[속보] 미·중·러 정상, 유엔 개혁 및 핵전쟁 방지 등 합의",
+     "url": "https://www.chosun.com/international/us/2026/11/19/Z26ERGLQUVFW7LVRUZK665GGMY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "미·중·러, ‘평화 정상 선언’ 발표…“ICC 관할권 남용 안돼” [전문]",
+     "url": "https://www.hani.co.kr/arti/international/international_general/1288219.html",
+     "source": "한겨레"
     }
    ]
   },
@@ -87,25 +144,8 @@
    ]
   },
   {
-   "kw": "이지영",
-   "traffic": "200+",
-   "when": "11월 19일 19:30",
-   "news": [
-    {
-     "title": "이지혜, ‘AI 부정행위’ 논란 속 세무사 남편 언급…“더 대단하게 느껴져”",
-     "url": "https://www.mk.co.kr/news/hot-issues/12213453",
-     "source": "매일경제"
-    },
-    {
-     "title": "정승제 수능전날 올린 글 “단추 무조건 빼고, 안경 안 써도 되면 그냥 빼고”",
-     "url": "https://biz.heraldcorp.com/article/10941789",
-     "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
    "kw": "강지환",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 19일 19:30",
    "news": [
     {
@@ -117,57 +157,6 @@
      "title": "‘스태프 성추행’ 강지환 틱톡커 전향? 뜨개질 라방 [DA피플]",
      "url": "https://sports.donga.com/ent/article/all/20261119/135055909/2",
      "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "한국수력원자력",
-   "traffic": "200+",
-   "when": "11월 19일 19:30",
-   "news": [
-    {
-     "title": "한수원, 동료가 동료 지키는 ‘마인드키퍼’ 출범",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=375030",
-     "source": "전기신문"
-    },
-    {
-     "title": "한수원, 발전소 동료가 지키는 마음건강 안전망…'마인드키퍼' 출범",
-     "url": "https://www.etnews.com/20261119000455",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "김다현",
-   "traffic": "500+",
-   "when": "11월 19일 19:10",
-   "news": [
-    {
-     "title": "김다현, 대한민국예술문화대상 ‘특별공로상’ 수상 “더 큰 문화예술인으로 성장할 것”",
-     "url": "https://www.mk.co.kr/news/musics/12212150",
-     "source": "매일경제"
-    },
-    {
-     "title": "심수봉 ‘저격’에 마음 다쳤지만…김다현, 대한민국예술문화대상 특별공로상 예술계 인정받았다",
-     "url": "https://sports.khan.co.kr/article/202611181537003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "수원 kt 대 서울 sk",
-   "traffic": "500+",
-   "when": "11월 19일 19:00",
-   "news": [
-    {
-     "title": "◇오늘의 경기(19일)",
-     "url": "https://www.yna.co.kr/view/AKR20261118190800007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[사진]김낙현, 침착하게 레이업슛",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/19/MMYTMNLBHA2DMYJQGU2WEMBSGQ/",
-     "source": "조선일보"
     }
    ]
   }
