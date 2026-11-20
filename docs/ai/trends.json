@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-21 00:23",
+ "updated": "2026-11-21 01:23",
  "items": [
+  {
+   "kw": "연준",
+   "traffic": "200+",
+   "when": "11월 21일 00:20",
+   "news": [
+    {
+     "title": "'나혼산' TXT 연준, 절친 서범준과 '소분메이트'...반반 공동 구매 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014387240316",
+     "source": "머니투데이"
+    },
+    {
+     "title": "TXT 연준, 자취 10년 차 절친 서범준과 '소분메이트' 결성",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758418",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "부동산",
+   "traffic": "5000+",
+   "when": "11월 20일 23:50",
+   "news": [
+    {
+     "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "겹겹이 쌓인 보유세 인상 압박에… 공시가 현실화율 동결",
+     "url": "https://www.chosun.com/economy/real_estate/2026/11/21/T2N6SYATRBDYJOGZ3A4LGNKKGA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "u17 việt nam",
+   "traffic": "100+",
+   "when": "11월 20일 23:40",
+   "news": [
+    {
+     "title": "Lịch thi đấu U.17 Việt Nam mới nhất: Đấu U.17 New Zealand, cơ hội thắng là đây",
+     "url": "https://www.vietnam.vn/lich-thi-dau-u-17-viet-nam-moi-nhat-dau-u-17-new-zealand-co-hoi-thang-la-day",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "U17 Việt Nam và 90 phút đáng khen trước 'gã khổng lồ' U17 Bỉ",
+     "url": "https://tienphong.vn/u17-viet-nam-va-90-phut-dang-khen-truoc-ga-khong-lo-u17-bi-post1896207.tpo",
+     "source": "Báo Tiền Phong"
+    }
+   ]
+  },
   {
    "kw": "오현민",
    "traffic": "200+",
@@ -29,9 +80,9 @@
      "source": "한국경제"
     },
     {
-     "title": "엔비디아, 6거래일새 시총 893조원 증발…\"하락 안끝났다\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01882726645647688",
-     "source": "마켓인"
+     "title": "젠슨 황 몰락의 진짜 이유...루비오와 매파의 '제거 작전'",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611202259212218_005.html",
+     "source": "YTN"
     }
    ]
   },
@@ -41,13 +92,13 @@
    "when": "11월 20일 22:40",
    "news": [
     {
-     "title": "4th Match, Group B (D/N), Asia Cup Rising Stars (50 Overs) at Doha, Nov 20 2026",
-     "url": "https://www.espn.com/cricket/series/1562333/commentary/1562345/india-a-vs-nepal-4th-match-group-b-asia-cup-rising-stars-50-overs-2026-27",
-     "source": "ESPN"
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "url": "https://www.cricbuzz.com/player-match-performance/match/177152/player/11290/bowling?inningsId=1",
+     "source": "Cricbuzz"
     },
     {
      "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
-     "url": "https://www.cricbuzz.com/player-match-performance/match/177152/player/11290/bowling?inningsId=1",
+     "url": "https://m.cricbuzz.com/player-match-performance/match/177152/player/11158/bowling",
      "source": "Cricbuzz"
     }
    ]
@@ -73,16 +124,22 @@
    "kw": "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘",
    "traffic": "5000+",
    "when": "11월 20일 22:30",
+   "news": []
+  },
+  {
+   "kw": "두산",
+   "traffic": "1000+",
+   "when": "11월 20일 22:10",
    "news": [
     {
-     "title": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 '우회 수출 원천 봉쇄' 여파",
-     "url": "https://www.etnews.com/20261120000030",
-     "source": "전자신문"
+     "title": "두산에너빌리티 해상풍력터빈, 글로벌 보험 문턱 넘었다",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375052",
+     "source": "전기신문"
     },
     {
-     "title": "美, 중국 기업에 AI칩 88만개 수출 승인, 실제 선적은 미지수",
-     "url": "https://www.newspim.com/news/view/20261120001224",
-     "source": "뉴스핌"
+     "title": "두산에너빌리티 \"야월해상풍력발전단지, 글로벌 수준 보험 가입\"",
+     "url": "https://zdnet.co.kr/view/?no=20261120093351",
+     "source": "지디넷코리아"
     }
    ]
   },
@@ -100,74 +157,6 @@
      "title": "\"주문하다 손까지 덜덜\"…날 선 직원 응대에 결국 본사 사과",
      "url": "http://weekly.chosun.com/news/articleView.html?idxno=57273",
      "source": "주간조선"
-    }
-   ]
-  },
-  {
-   "kw": "류효영",
-   "traffic": "200+",
-   "when": "11월 20일 22:10",
-   "news": [
-    {
-     "title": "“오빠한테 관심 있어” 고백한 류효영, 이태성과 첫 키스 장소 방문 (신랑수업2)",
-     "url": "https://www.mk.co.kr/news/broadcasting-service/12213967",
-     "source": "매일경제"
-    },
-    {
-     "title": "두 사람이 키스했던 장소?! 일이 아닌 데이트로 다시 온 촬영 장소에서의 설렘♥",
-     "url": "https://ichannela.com/program/clip/000000560996.do",
-     "source": "채널A"
-    }
-   ]
-  },
-  {
-   "kw": "김대두",
-   "traffic": "100+",
-   "when": "11월 20일 22:00",
-   "news": [
-    {
-     "title": "[꼬꼬무 찐리뷰]\"갓난아기까지 죽였다\" 55일간 17명 살해…'대한민국 최초 연쇄살인마' 김대두의 소름 돋는 전말",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855694",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "17명 죽이고 뺏은 돈 고작 2만5천원…웃으며 범행 재연한 韓 최초 연쇄살인마",
-     "url": "https://www.newsis.com/view/NISX20261120_0003875968",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "농구",
-   "traffic": "200+",
-   "when": "11월 20일 21:50",
-   "news": [
-    {
-     "title": "‘AG 3X3 농구 금메달리스트’ 이동근, 프로농구 드래프트 1순위로 kt행",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718511",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "KT, 이동근 1순위 지명…AG 금메달리스트 모두 프로행",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120232343RF2",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "kumar kushagra",
-   "traffic": "200+",
-   "when": "11월 20일 21:50",
-   "news": [
-    {
-     "title": "Tilak Varma and Kumar Kushagra Hit Centuries to Propel India A Total",
-     "url": "https://newsable.asianetnews.com/sports/tilak-varma-and-kumar-kushagra-hit-centuries-to-propel-india-a-total-articleshow-16b1lhq",
-     "source": "Asianet Newsable"
-    },
-    {
-     "title": "IND vs PAK in Asia Cup Rising Stars 2026: Start time, date, venue and how to watch India-Pakistan clash globally",
-     "url": "https://sports.yahoo.com/articles/ind-vs-pak-asia-cup-092428434.html",
-     "source": "Yahoo Sports"
     }
    ]
   }
