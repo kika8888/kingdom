@@ -1,9 +1,95 @@
 {
- "updated": "2026-11-20 22:23",
+ "updated": "2026-11-20 23:23",
  "items": [
   {
-   "kw": "홍진경",
+   "kw": "류효영",
+   "traffic": "200+",
+   "when": "11월 20일 22:10",
+   "news": [
+    {
+     "title": "“오빠한테 관심 있어” 고백한 류효영, 이태성과 첫 키스 장소 방문 (신랑수업2)",
+     "url": "https://www.mk.co.kr/news/broadcasting-service/12213967",
+     "source": "매일경제"
+    },
+    {
+     "title": "[선공개] 태성♥효영 클레이 사격장 데이트! 효영은 자물쇠 보이 태성의 마음을 열고 한 걸음 더 가까워질 수 있을까?",
+     "url": "https://ichannela.com/program/clip/000000560730.do",
+     "source": "채널A"
+    }
+   ]
+  },
+  {
+   "kw": "김대두",
    "traffic": "100+",
+   "when": "11월 20일 22:00",
+   "news": [
+    {
+     "title": "[꼬꼬무 찐리뷰]\"갓난아기까지 죽였다\" 55일간 17명 살해…'대한민국 최초 연쇄살인마' 김대두의 소름 돋는 전말",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855694",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "표창원, '17명 살해' 김대두 사건에 충격 분석…\"지금 기준으론 기소 못해\" ('꼬꼬무')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/GZTDGNJZMVRGCN3EMY3WENDFGU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "농구",
+   "traffic": "200+",
+   "when": "11월 20일 21:50",
+   "news": [
+    {
+     "title": "1R MVP 이해란 26점 폭발…여자농구 삼성생명, 4연승·단독 선두",
+     "url": "https://www.yna.co.kr/view/AKR20261120176400007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "‘삼성생명 돌풍의 핵심’ 이해란, 데뷔 첫 라운드 MVP 수상",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718495",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "kumar kushagra",
+   "traffic": "200+",
+   "when": "11월 20일 21:50",
+   "news": [
+    {
+     "title": "Kumar Kushagra Family: Father, Mother, Coach And Career",
+     "url": "https://www.flickonclick.com/kumar-kushagra-family/",
+     "source": "Flickonclick"
+    }
+   ]
+  },
+  {
+   "kw": "비정규직",
+   "traffic": "100+",
+   "when": "11월 20일 21:40",
+   "news": []
+  },
+  {
+   "kw": "대구 fc",
+   "traffic": "100+",
+   "when": "11월 20일 21:20",
+   "news": [
+    {
+     "title": "김해FC, 리그 4위 대구 원정서 설기현 감독 부임 첫 승 도전",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722619",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "이번엔 수원FC 차례…수원 삼성 이어 다이렉트 승격에 도전",
+     "url": "https://sports.donga.com/sports/article/all/20261119/135053547/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "kw": "홍진경",
+   "traffic": "200+",
    "when": "11월 20일 21:10",
    "news": [
     {
@@ -24,14 +110,14 @@
    "when": "11월 20일 21:00",
    "news": [
     {
-     "title": "Cierran planta envasadora de agua en Calama: Hallan bidones en contacto con tierra y suciedad en su elaboración",
-     "url": "https://www.elnortero.cl/noticia/sociedad/cierran-planta-envasadora-de-agua-en-calama-hallan-bidones-en-contacto-con-tierra-y",
-     "source": "El Nortero"
+     "title": "Agricultores Unidos advierten que granizos \"del porte de una moneda\" destruyen siembras en Malleco",
+     "url": "https://araucaniadiario.cl/contenido/36040/agricultores-unidos-advierten-que-granizos-del-porte-de-una-moneda-destruyen-sie",
+     "source": "Araucanía Diario"
     },
     {
-     "title": "Constitución Básquetbol tiene nuevo desafío en Liga de Desarrollo",
-     "url": "https://gigantedeportivo.cl/constitucion-basquetbol-tiene-nuevo-desafio-en-liga-de-desarrollo/",
-     "source": "Gigantedeportivo.cl"
+     "title": "Granizada golpea la agricultura de Malleco: Agricultores Unidos advierten graves daños en cultivos y frutales",
+     "url": "https://alertanoticiastemuco.cl/granizada-en-malleco-danos-agricultura/",
+     "source": "Alerta Noticias Temuco.cl"
     }
    ]
   },
@@ -58,105 +144,14 @@
    "when": "11월 20일 20:50",
    "news": [
     {
-     "title": "Cuaca Besok 21 November 2026 di 38 Provinsi, BMKG Peringatkan Hujan Lebat hingga Sangat Lebat",
-     "url": "https://aktualita.co/cuaca-bencana/cuaca-besok-bmkg-38-provinsi-peringatan-hujan-lebat",
-     "source": "Aktualita.co"
+     "title": "BMKG Ingatkan Potensi Hujan dan Cuaca Ekstrem di Sulsel hingga 26 November",
+     "url": "https://www.sulawesipos.com/sulsel/2026/11/20/bmkg-ingatkan-potensi-hujan-dan-cuaca-ekstrem-di-sulsel-hingga-26-november/",
+     "source": "SulawesiPos"
     },
     {
-     "title": "Prakiraan Cuaca Indonesia Sepekan Periode 20 – 26 November 2026: Dinamika Atmosfer Masih Aktif, Potensi Hujan Lebat Berlanjut di Sejumlah Wilayah Indonesia",
-     "url": "https://www.bmkg.go.id/cuaca/potensi-hujan-sepekan/prakiraan-cuaca-indonesia-sepekan-periode-20-26-november-2026-dinamika-atmosfer-masih-aktif-potensi-hujan-lebat-berlanjut-di-sejumlah-wilayah-indonesia",
-     "source": "BMKG"
-    }
-   ]
-  },
-  {
-   "kw": "신영수",
-   "traffic": "500+",
-   "when": "11월 20일 19:50",
-   "news": [
-    {
-     "title": "한고은♥신영수, 알고 보니 ‘무당♥스님’ 궁합…“자식 없는 사주”",
-     "url": "https://sports.khan.co.kr/article/202611201444003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "'파묘' 자문 고춘자, 한고은에게 \"연예인 안 했으면 무속인 됐을 것\"",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6360587",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "국민연금공단",
-   "traffic": "1000+",
-   "when": "11월 20일 19:40",
-   "news": [
-    {
-     "title": "어르신~ '복지로' 간편해졌어요!",
-     "url": "https://news.mtn.co.kr/article/2026112010173722714",
-     "source": "MTN 머니투데이방송"
-    },
-    {
-     "title": "국민연금, 기초연금 온라인 신청 퀴즈 이벤트…400명에게 상품권",
-     "url": "https://www.news1.kr/bio/welfare-medical/6360637",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "최미나수",
-   "traffic": "100+",
-   "when": "11월 20일 19:40",
-   "news": [
-    {
-     "title": "[사진]윤경호 '대세 배우'",
-     "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/11/20/GZQWENZTMFSGMZDEHFQWKOLCGQ/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "'2026 MAMA' 간 김혜수, 볼륨 강조한 드레스 자태…'시선 강탈' - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112019044436645",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "이진우 부검",
-   "traffic": "1000+",
-   "when": "11월 20일 19:30",
-   "news": [
-    {
-     "title": "'LEET 만점자' 故이진우 저서 ‘브레인 악셀’, 예스24서 판매 중지",
-     "url": "https://www.kyeonggi.com/article/20261120580294",
-     "source": "경기일보"
-    },
-    {
-     "title": "‘리트 만점자’ 사망에…서울대 교수 \"열광하다가 사냥개처럼 몰아붙여\"",
-     "url": "https://news.jtbc.co.kr/article/NB12329002",
-     "source": "JTBC"
-    }
-   ]
-  },
-  {
-   "kw": "2027 수능 만점자",
-   "traffic": "1000+",
-   "when": "11월 20일 19:10",
-   "news": []
-  },
-  {
-   "kw": "ind-a vs nep",
-   "traffic": "2000+",
-   "when": "11월 20일 19:00",
-   "news": [
-    {
-     "title": "ACC Men's Asia Cup Rising Stars 2026 match predictions: Pakistan A vs UAE and India A vs Nepal – November 20",
-     "url": "https://www.cricketworld.com/match-predictions-acc-mens-asia-cup-rising-stars-2026-3rd-match-pakistan-a-vs-united-arab-emirates-india-a-vs-nepal-november-20th/114446.htm",
-     "source": "Cricket World"
-    },
-    {
-     "title": "Abhishek, Sooryavanshi stumble as Nepal A's disciplined attack rattles India A",
-     "url": "https://www.rediff.com/cricket/report/abhishek-sooryavanshi-stumble-as-nepal-as-disciplined-attack-rattles-india-a/20261120.htm",
-     "source": "Rediff"
+     "title": "BPBD Sulsel antisipasi bencana di musim hujan",
+     "url": "https://makassar.antaranews.com/berita/643939/bpbd-sulsel-antisipasi-bencana-di-musim-hujan",
+     "source": "ANTARA News Makassar"
     }
    ]
   }
