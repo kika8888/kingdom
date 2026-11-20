@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-20 18:23",
+ "updated": "2026-11-20 19:23",
  "items": [
   {
+   "kw": "캐시워크 정답",
+   "traffic": "100+",
+   "when": "11월 20일 18:20",
+   "news": [
+    {
+     "title": "[캐시워크 종합] 11월 19일 목요일 오전 11시 현재 출제되고 있는 모든 문제들의 정답은?",
+     "url": "https://www.bizwnews.com/news/articleView.html?idxno=152388",
+     "source": "비즈월드"
+    },
+    {
+     "title": "오늘 정답 정리… 캐시워크 돈버는퀴즈 '11월 19일' 정답은?",
+     "url": "https://www.wikitree.co.kr/articles/1176108",
+     "source": "위키트리"
+    }
+   ]
+  },
+  {
+   "kw": "김치의 날",
+   "traffic": "100+",
+   "when": "11월 20일 17:40",
+   "news": [
+    {
+     "title": "김혜경 여사, 제7회 김치의 날 기념식 - 포토 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=74425&pageIndex=1",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "김장 양념 질문받은 김혜경 여사 “이건 기밀인데…”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261120/135060404/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "헝거게임",
+   "traffic": "100+",
+   "when": "11월 20일 17:40",
+   "news": [
+    {
+     "title": "캣니스의 스승은 어떻게 살아남았나…24년 전으로 돌아간 ‘헝거게임’",
+     "url": "https://www.donga.com/news/Culture/article/all/20261120/135060632/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "잔인한 생존 게임, 판을 뒤집어라…'헝거게임 50번째 추첨의 날'",
+     "url": "https://www.yna.co.kr/view/AKR20261114033700005",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
    "kw": "푸른길",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 20일 17:10",
    "news": [
     {
@@ -20,7 +71,7 @@
   },
   {
    "kw": "정유라",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 20일 17:10",
    "news": [
     {
@@ -36,25 +87,8 @@
    ]
   },
   {
-   "kw": "조국",
-   "traffic": "200+",
-   "when": "11월 20일 17:00",
-   "news": [
-    {
-     "title": "민주, 의총서 ‘조희대 대법원장 탄핵 추진’ 당론 결정",
-     "url": "https://www.chosun.com/politics/assembly/2026/11/20/JCC32DKLRFDENO4HJG7UKCNCHM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[20일 오!정말] 경기지사 추미애 \"내란범 사법세탁 공장장 조희대를 탄핵하라\"",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452561",
-     "source": "비즈니스포스트"
-    }
-   ]
-  },
-  {
    "kw": "황재균",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 20일 16:50",
    "news": [
     {
@@ -66,6 +100,23 @@
      "title": "전현무 \"밖서 만나는 사람 다섯…한 명이 황재균\"",
      "url": "https://www.newsis.com/view/NISX20261120_0003876691",
      "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "ktx 지연",
+   "traffic": "100+",
+   "when": "11월 20일 16:50",
+   "news": [
+    {
+     "title": "부산행 KTX 고장에 450명 환승…16개 열차 지연",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120115059aNB",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "부산행 KTX 동대구역 부근서 고장…잦은 지연에 승객 불만",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261120.99099006577",
+     "source": "국제신문"
     }
    ]
   },
@@ -92,14 +143,14 @@
    "when": "11월 20일 16:40",
    "news": [
     {
+     "title": "앤트로픽 쏠림·대중규제 우려 … 반도체株 곤두박질",
+     "url": "https://www.mk.co.kr/news/stock/12214868",
+     "source": "매일경제"
+    },
+    {
      "title": "[기획] 손정의도 “그때 투자할 걸”… 앤트로픽 IPO 흥행 신기록",
      "url": "https://www.dt.co.kr/article/12096157",
      "source": "www.dt.co.kr"
-    },
-    {
-     "title": "日소프트뱅크, 장중 16% 폭락…아시아 증시 매도세 주도",
-     "url": "https://www.yna.co.kr/view/AKR20261120109800009",
-     "source": "연합뉴스"
     }
    ]
   },
@@ -117,57 +168,6 @@
      "title": "Samsung Stocks Rise for Second Day as Memory Demand Signals Pile Up",
      "url": "https://www.tradingview.com/news/gurufocus:1d8549d09094b:0-samsung-stocks-rise-for-second-day-as-memory-demand-signals-pile-up/",
      "source": "TradingView"
-    }
-   ]
-  },
-  {
-   "kw": "이지영",
-   "traffic": "1000+",
-   "when": "11월 20일 16:30",
-   "news": [
-    {
-     "title": "“얘들아, 큰일 났다”…‘일타강사’ 이지영의 예측 등급 컷은? [잇슈#태그]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718540",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "\"큰일 났네\"…'수능 3분 컷' 이지영, 올해 문제 풀더니",
-     "url": "https://www.hankyung.com/article/202611209605H",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "교수",
-   "traffic": "200+",
-   "when": "11월 20일 16:20",
-   "news": [
-    {
-     "title": "엄애선 한양대 교수팀, 딸기 독소 생성 미생물 규명…농산물 위생관리 연구",
-     "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=72114",
-     "source": "한국영농신문"
-    },
-    {
-     "title": "건국대 이현출 교수 ‘21세기 정치와 한국민주주의' 출간.. '인구감소/기후위기/AI 시대 한국 민주주의 과제 짚어'",
-     "url": "https://www.veritas-a.com/news/articleView.html?idxno=638434",
-     "source": "베리타스알파"
-    }
-   ]
-  },
-  {
-   "kw": "приговор",
-   "traffic": "200+",
-   "when": "11월 20일 16:20",
-   "news": [
-    {
-     "title": "В Брянске вынесен приговор курьеру мошенников из Липецка",
-     "url": "https://gorodlip.ru/incidents/228835/",
-     "source": "GorodLIP"
-    },
-    {
-     "title": "Жителю Липецка дали 1,5 года колонии за хищение 2,3 млн у брянской пенсионерки",
-     "url": "https://prospect.com.ru/news/7184704/gitelyu-lipetska-dali-15-goda-kolonii-za-hischenie-23-mln-u-bryanskoj-pensionerki.html",
-     "source": "prospect.com.ru"
     }
    ]
   }
