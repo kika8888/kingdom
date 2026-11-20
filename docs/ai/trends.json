@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-21 04:23",
+ "updated": "2026-11-21 05:00",
  "items": [
+  {
+   "kw": "한파",
+   "traffic": "100+",
+   "when": "11월 21일 03:50",
+   "news": [
+    {
+     "title": "‘안전 취약계층 제설반’ 신설한 영등포 “안전한 이동에 최선”",
+     "url": "https://go.seoul.co.kr/news/newsView.php?id=20261120020002",
+     "source": "서울Pn"
+    },
+    {
+     "title": "광진구, 한파 취약계층 챙긴다…어르신 1천170명 안부 확인",
+     "url": "https://www.yna.co.kr/view/AKR20261120131000004",
+     "source": "연합뉴스"
+    }
+   ]
+  },
   {
    "kw": "알아흘리 사우디 대 알나스르",
    "traffic": "500+",
@@ -36,6 +53,23 @@
    ]
   },
   {
+   "kw": "fear and greed",
+   "traffic": "100+",
+   "when": "11월 21일 01:20",
+   "news": [
+    {
+     "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+     "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+     "source": "Decrypt"
+    },
+    {
+     "title": "Fear & Greed Index falls to 14 as extreme fear grips markets",
+     "url": "https://cryptobriefing.com/fear-greed-index-falls-to-14-extreme-fear/",
+     "source": "Crypto Briefing"
+    }
+   ]
+  },
+  {
    "kw": "india a cricket team vs nepal national cricket team standings",
    "traffic": "5000+",
    "when": "11월 21일 01:10",
@@ -46,9 +80,9 @@
      "source": "Cricinfo"
     },
     {
-     "title": "Get Ball by Ball Commentary of India A vs Nepal, Asia Cup Rising Stars (50 Overs) 2026, 4th Match, Group B | ESPN.com",
-     "url": "https://www.espn.com/cricket/series/1562333/commentary/1562345/india-a-vs-nepal-4th-match-group-b-asia-cup-rising-stars-50-overs-2026-27",
-     "source": "ESPN"
+     "title": "Asia Cup Rising Stars: India A crush Nepal by 306 runs after bowling them out for 26",
+     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-a-vs-nepal-asia-cup-rising-stars-india-a-crush-nepal-by-306-runs-after-bowling-them-out-for-26/articleshow/136032283.cms",
+     "source": "The Times of India"
     }
    ]
   },
@@ -109,14 +143,14 @@
    "when": "11월 21일 00:30",
    "news": [
     {
+     "title": "엔비디아, AI 테마 투매에 '와르르'…알파벳에 밀려 시총 4위로",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445831",
+     "source": "연합인포맥스"
+    },
+    {
      "title": "엔비디아 호실적도 못 넘은 금리 인상 우려, 뉴욕증시 혼조",
      "url": "https://story.pay.naver.com/content/3999_2_C1",
      "source": "네이버페이 머니스토리"
-    },
-    {
-     "title": "닷컴버블·리먼사태 한꺼번에 온다?…AI 거품론에 더 거세진 '닥터둠'의 경고",
-     "url": "https://www.newsis.com/view/NISX20261119_0003874497",
-     "source": "뉴시스"
     }
    ]
   },
@@ -126,48 +160,14 @@
    "when": "11월 21일 00:20",
    "news": [
     {
-     "title": "'나혼산' TXT 연준, 절친 서범준과 '소분메이트'...반반 공동 구매 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014387240316",
-     "source": "머니투데이"
+     "title": "필리 연은 총재 \"금리 더 올려야…연속 인상도 검토\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01190646645648016",
+     "source": "마켓인"
     },
     {
-     "title": "TXT 연준, 자취 10년 차 절친 서범준과 '소분메이트' 결성",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758418",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "부동산",
-   "traffic": "5000+",
-   "when": "11월 20일 23:50",
-   "news": [
-    {
-     "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718593",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "내년 부동산 공시가 현실화율 69%로 동결",
-     "url": "https://www.donga.com/news/Economy/article/all/20261120/135063731/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "u17 việt nam",
-   "traffic": "200+",
-   "when": "11월 20일 23:40",
-   "news": [
-    {
-     "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
-     "url": "https://www.vietnam.vn/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "Truyền thông Thái Lan ngạc nhiên trước màn trình diễn của U.17 Việt Nam tại World Cup",
-     "url": "https://thanhnien.vn/truyen-thong-thai-lan-ngac-nhien-truoc-man-trinh-dien-cua-u17-viet-nam-tai-world-cup-185261120233809135.htm",
-     "source": "Báo Thanh Niên"
+     "title": "美 국채가, 안전 선호 쏠림에 강세 지속…10년물 6bp↓",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445824",
+     "source": "연합인포맥스"
     }
    ]
   }
