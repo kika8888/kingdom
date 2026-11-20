@@ -1,9 +1,162 @@
 {
- "updated": "2026-11-20 15:23",
+ "updated": "2026-11-20 16:23",
  "items": [
   {
-   "kw": "레미콘",
+   "kw": "설경구",
+   "traffic": "100+",
+   "when": "11월 20일 15:20",
+   "news": [
+    {
+     "title": "설경구, 장항준에 개XX 욕설 \"나 매장시킨다고 했다\"",
+     "url": "https://www.newsis.com/view/NISX20261120_0003875998",
+     "source": "뉴시스"
+    },
+    {
+     "title": "이준혁, 장항준 만족시킨 프랑스 극단에서 배웠던 마임극 ‘목수’ 연기!",
+     "url": "https://programs.sbs.co.kr/enter/maestrojang/clip/90397/OC483670444",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "이부진",
+   "traffic": "5000+",
+   "when": "11월 20일 15:10",
+   "news": [
+    {
+     "title": "교실서 폰 금지한 학교 성적 향상 뚜렷…“年 2주 수업 더 들은 효과”",
+     "url": "https://www.donga.com/news/Inter/article/all/20261120/135059879/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "서울대 간 이부진 아들도 끊었다…하버드 연구 결과 '깜짝'",
+     "url": "https://www.hankyung.com/article/2026112098257",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "장승수",
+   "traffic": "2000+",
+   "when": "11월 20일 15:10",
+   "news": [
+    {
+     "title": "국가자격시험 관리감독 강화…부정행위 응시제한 10년으로 확대",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976081",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "세무사 시험장마다 금속탐지기 있었는데…단 한 번도 안 썼다",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57314",
+     "source": "주간조선"
+    }
+   ]
+  },
+  {
+   "kw": "민주유공자법",
+   "traffic": "200+",
+   "when": "11월 20일 15:10",
+   "news": [
+    {
+     "title": "[속보] 민주유공자법, 여당 주도로 국회 본회의 통과",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1288349.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "[속보] 민주당, 민주유공자법 무제한토론 종결 후 강행 처리",
+     "url": "https://www.chosun.com/politics/assembly/2026/11/20/OYPWO5I6Y5EKBFVTL3IRUXNJYY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "광주역",
+   "traffic": "100+",
+   "when": "11월 20일 15:10",
+   "news": [
+    {
+     "title": "금천구청, 광주역, 구포~가야… 48조 들여 전국 9곳 지상 철도 지하화",
+     "url": "https://www.chosun.com/national/transport-environment/2026/11/20/V7FYVH4N2BEC7CI7DXUEV45VQU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "경기도가 제안한 경인선 등 철도지하화 4개 사업, 정부 종합계획안에 포함",
+     "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=72037",
+     "source": "경기도뉴스포털"
+    }
+   ]
+  },
+  {
+   "kw": "mama 2026",
+   "traffic": "100+",
+   "when": "11월 20일 15:10",
+   "news": [
+    {
+     "title": "ILLIT departs for Japan to attend 2026 MAMA Awards",
+     "url": "https://biz.chosun.com/en/en-entertainment/2026/11/18/ZI2NTXDLGJFYNMGLKQDRP3SJYA/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "The 2026 MAMA AWARDS (2026 MAMA AWARDS) will begin today (20th) in Osaka, Japan.",
+     "url": "https://www.mk.co.kr/en/entertain/12214335",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "유현조",
    "traffic": "500+",
+   "when": "11월 20일 15:00",
+   "news": [
+    {
+     "title": "유현조, LPGA Q시리즈 최종전 첫날 공동 8위…선두와 3타 차",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718204",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "2022년 유해란 이후 4년 만에 수석합격자 나올까…유현조 김민선7 이다연, LPGA Q-시리즈 최종전 출격",
+     "url": "https://sports.donga.com/sports/article/all/20261119/135048984/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "kw": "sk온",
+   "traffic": "200+",
+   "when": "11월 20일 15:00",
+   "news": [
+    {
+     "title": "[단독] SK온, LFP로 ‘제주 25년 장기계약’ 입찰 참여…초장기 수명 검증 시험대",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375040",
+     "source": "전기신문"
+    },
+    {
+     "title": "1차는 삼성SDI, 2차는 SK온…2조원 ESS 수주전, 이번 승부처는?",
+     "url": "https://www.dailian.co.kr/news/view/1717295/1%EC%B0%A8-%EC%82%BC%EC%84%B1SDI-2%EC%B0%A8-SK%EC%98%A82%EC%A1%B0%EC%9B%90-E-2026",
+     "source": "데일리안"
+    }
+   ]
+  },
+  {
+   "kw": "수출규제",
+   "traffic": "5000+",
+   "when": "11월 20일 14:50",
+   "news": [
+    {
+     "title": "중국행 반도체 막는다더니…미국, 엔비디아·AMD 칩 88만개 수출 허가 - 머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/20/2026112009474380780",
+     "source": "머니투데이"
+    },
+    {
+     "title": "美, 중국 반도체 숨통 더 조인다…삼성·TSMC도 출하 중단",
+     "url": "https://www.hankyung.com/article/2026112088337",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "레미콘",
+   "traffic": "1000+",
    "when": "11월 20일 14:00",
    "news": [
     {
@@ -15,159 +168,6 @@
      "title": "LH, 3기 신도시에 ‘레미콘 통합 품질관리 시스템’ 도입",
      "url": "https://www.joongboo.com/news/articleView.html?idxno=363742809",
      "source": "중부일보"
-    }
-   ]
-  },
-  {
-   "kw": "리사 수",
-   "traffic": "500+",
-   "when": "11월 20일 14:00",
-   "news": [
-    {
-     "title": "“기억 못 하면 금붕어?”…젠슨 황 딸, 직원에게 막말 논란",
-     "url": "https://www.donga.com/news/Inter/article/all/20261120/135060075/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "엔비디아 임시 CEO “앞으로 나아가자” 임금 인상 시사…직원들 56% “젠슨 황 복귀 원해”",
-     "url": "https://www.khan.co.kr/article/202611191250001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "빅뱅",
-   "traffic": "1000+",
-   "when": "11월 20일 13:50",
-   "news": [
-    {
-     "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매",
-     "url": "https://www.khan.co.kr/article/202611201044001",
-     "source": "경향신문"
-    },
-    {
-     "title": "빅뱅·씨엘, 같은 날 4시간 차 신곡 컴백…그 시절 'YG 패밀리' 소환[SC초점]",
-     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/20/GU3WKZRYMMYTKNZWGJQTONZRG4/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "대상 공원 빅 트리",
-   "traffic": "100+",
-   "when": "11월 20일 13:50",
-   "news": [
-    {
-     "title": "창원시, 흉물 논란 ‘빅트리’ 개선 추진…55억 투입",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717837",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "창원 빅트리, 몸통 놔두고 꼭대기에 실내조망시설",
-     "url": "https://www.idomin.com/news/articleView.html?idxno=2020041",
-     "source": "경남도민일보"
-    }
-   ]
-  },
-  {
-   "kw": "하마",
-   "traffic": "200+",
-   "when": "11월 20일 13:30",
-   "news": [
-    {
-     "title": "세컨드레이디까지 추모 동참... 美 ‘국민 하마’ 피오나의 마지막 길",
-     "url": "https://www.chosun.com/international/international_general/2026/11/20/D6WXP4E4JZH25GHNTVL5GPUTFA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "美동물원 하마, 관광객 모자 삼켜 폐사…“수술 불가능했다”",
-     "url": "https://www.donga.com/news/Inter/article/all/20261120/135058463/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "안개",
-   "traffic": "500+",
-   "when": "11월 20일 13:20",
-   "news": [
-    {
-     "title": "안개 폭포 쏟아지는 아침…‘올해의 기상 사진’ 1위",
-     "url": "https://www.hani.co.kr/arti/science/science_general/1288275.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "산 할아버지, 구름모자 썼네…‘올해의 기상 사진’ 후보들",
-     "url": "https://www.hani.co.kr/arti/science/science_general/1287157.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "한화이글스",
-   "traffic": "200+",
-   "when": "11월 20일 13:20",
-   "news": [
-    {
-     "title": "초대박! 'WS 준우승팀 우완' 숄텐스, 전격 방출! 美 \"한화행 임박\"→탬파도 \"KBO 도전한다\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/20/2026112012055272273",
-     "source": "머니투데이"
-    },
-    {
-     "title": "154km 팔색조 투수, ‘WS 준우승’ 탬파베이에서 방출→한국에 온다 “볼넷·장타 억제 뛰어나”",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/20/GZRTONRVMMYDEZDFHE4GMMJXGA/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "발전",
-   "traffic": "100+",
-   "when": "11월 20일 13:20",
-   "news": [
-    {
-     "title": "서부발전, 재생에너지 전문가 20명 위촉…사업 개발 자문 확대",
-     "url": "https://biz.chosun.com/industry/company/2026/11/20/QTNPOR6PDJCUDARRRJKJWKNHKM/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "서부발전, 태양광·VPP까지 재생에너지 자문체계 확대",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3450678",
-     "source": "천지일보"
-    }
-   ]
-  },
-  {
-   "kw": "웨이모",
-   "traffic": "200+",
-   "when": "11월 20일 13:10",
-   "news": [
-    {
-     "title": "“리콜 뒤 또 공사 차로 진입”…미 캘리포니아주, 웨이모 로보택시 고속도로 주행 일시 중단",
-     "url": "https://www.khan.co.kr/article/202611191320011",
-     "source": "경향신문"
-    },
-    {
-     "title": "웨이모, 美 전역 고속도로 자율주행 중단 … 반복되는 안전성 논란",
-     "url": "https://www.autoview.co.kr/ko-kr/articles/102581",
-     "source": "오토뷰"
-    }
-   ]
-  },
-  {
-   "kw": "대기업",
-   "traffic": "200+",
-   "when": "11월 20일 13:00",
-   "news": [
-    {
-     "title": "작년 대기업 본사가 받은 상표권 사용료 역대 ‘최대’···쿠팡, 내부거래 금액 ‘톱5’ 진입",
-     "url": "https://www.khan.co.kr/article/202611191649001",
-     "source": "경향신문"
-    },
-    {
-     "title": "\"공시집단 소속 국내 계열사 매출 약 35%, 내부거래서 발생\" - 머니투데이",
-     "url": "https://www.mt.co.kr/economy/2026/11/19/2026111908081052143",
-     "source": "머니투데이"
     }
    ]
   }
