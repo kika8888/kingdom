@@ -1283,7 +1283,8 @@
    "https://blog.naver.com/dkdk521/224484104085",
    "https://blog.naver.com/dkdk521/224409553709",
    "https://blog.naver.com/dkdk521/224409234496",
-   "https://blog.naver.com/dkdk521/224484331389"
+   "https://blog.naver.com/dkdk521/224484331389",
+   "https://blog.naver.com/dkdk521/224408903827"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -1914,7 +1915,6 @@
    "https://blog.naver.com/dkdk521/224484331389"
   ],
   "backlog": [
-   "https://blog.naver.com/dkdk521/224408903827",
    "https://blog.naver.com/dkdk521/224408770596",
    "https://blog.naver.com/dkdk521/224408887915",
    "https://blog.naver.com/dkdk521/224408749375",
@@ -2192,8 +2192,8 @@
    "https://blog.naver.com/dkdk521/223183698757",
    "https://blog.naver.com/dkdk521/223021978335"
   ],
-  "last_old": 1795129375.2296596,
-  "tone": "친구",
+  "last_old": 1795140184.0893126,
+  "tone": "질문",
   "hooks": [
    "화제가 된 이유를 정리했어요",
    "다들 이거 아셨어요?",
