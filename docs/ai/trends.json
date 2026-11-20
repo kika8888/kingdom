@@ -1,6 +1,108 @@
 {
- "updated": "2026-11-20 23:23",
+ "updated": "2026-11-21 00:23",
  "items": [
+  {
+   "kw": "오현민",
+   "traffic": "200+",
+   "when": "11월 20일 23:00",
+   "news": [
+    {
+     "title": "'데블스 플랜3' 오현민, 장동민 옆 눈물.. 탈락 심경 \"많이 부족했다\" [전문]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRTDKZJYMQZWIM3EHFTDCODCMQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'데블스플랜3' 탈락 오현민 \"누구 하나 못된 사람 없어…비난 말아달라\"",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6359461",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "엔비디아",
+   "traffic": "5000+",
+   "when": "11월 20일 22:40",
+   "news": [
+    {
+     "title": "젠슨 황 딸 폭언까지 터졌다…\"직원에 '금붕어' 호칭\" 논란",
+     "url": "https://www.hankyung.com/article/2026111982051",
+     "source": "한국경제"
+    },
+    {
+     "title": "엔비디아, 6거래일새 시총 893조원 증발…\"하락 안끝났다\"",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01882726645647688",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "india a cricket team vs nepal national cricket team match scorecard",
+   "traffic": "200+",
+   "when": "11월 20일 22:40",
+   "news": [
+    {
+     "title": "4th Match, Group B (D/N), Asia Cup Rising Stars (50 Overs) at Doha, Nov 20 2026",
+     "url": "https://www.espn.com/cricket/series/1562333/commentary/1562345/india-a-vs-nepal-4th-match-group-b-asia-cup-rising-stars-50-overs-2026-27",
+     "source": "ESPN"
+    },
+    {
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "url": "https://www.cricbuzz.com/player-match-performance/match/177152/player/11290/bowling?inningsId=1",
+     "source": "Cricbuzz"
+    }
+   ]
+  },
+  {
+   "kw": "펍지",
+   "traffic": "500+",
+   "when": "11월 20일 22:30",
+   "news": [
+    {
+     "title": "PUBG x IVE 콜라보레이션 아이템 모델링 개선 안내 - 뉴스 - PUBG: 배틀그라운드",
+     "url": "https://www.pubg.com/ko/news/11414",
+     "source": "PUBG: BATTLEGROUNDS"
+    },
+    {
+     "title": "PUBG, 베트남 선수 불매운동 여파로 스팀 매출 순위 12계단 급락",
+     "url": "https://chaovietnam.co.kr/195002/",
+     "source": "씬짜오베트남"
+    }
+   ]
+  },
+  {
+   "kw": "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘",
+   "traffic": "5000+",
+   "when": "11월 20일 22:30",
+   "news": [
+    {
+     "title": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 '우회 수출 원천 봉쇄' 여파",
+     "url": "https://www.etnews.com/20261120000030",
+     "source": "전자신문"
+    },
+    {
+     "title": "美, 중국 기업에 AI칩 88만개 수출 승인, 실제 선적은 미지수",
+     "url": "https://www.newspim.com/news/view/20261120001224",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "컴포즈",
+   "traffic": "2000+",
+   "when": "11월 20일 22:10",
+   "news": [
+    {
+     "title": "“부모님이라 생각하니 속상”…키오스크 앞 노인에게 무슨 일? [잇슈#태그]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718228",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "\"주문하다 손까지 덜덜\"…날 선 직원 응대에 결국 본사 사과",
+     "url": "http://weekly.chosun.com/news/articleView.html?idxno=57273",
+     "source": "주간조선"
+    }
+   ]
+  },
   {
    "kw": "류효영",
    "traffic": "200+",
@@ -12,8 +114,8 @@
      "source": "매일경제"
     },
     {
-     "title": "[선공개] 태성♥효영 클레이 사격장 데이트! 효영은 자물쇠 보이 태성의 마음을 열고 한 걸음 더 가까워질 수 있을까?",
-     "url": "https://ichannela.com/program/clip/000000560730.do",
+     "title": "두 사람이 키스했던 장소?! 일이 아닌 데이트로 다시 온 촬영 장소에서의 설렘♥",
+     "url": "https://ichannela.com/program/clip/000000560996.do",
      "source": "채널A"
     }
    ]
@@ -29,9 +131,9 @@
      "source": "SBS 뉴스"
     },
     {
-     "title": "표창원, '17명 살해' 김대두 사건에 충격 분석…\"지금 기준으론 기소 못해\" ('꼬꼬무')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/GZTDGNJZMVRGCN3EMY3WENDFGU/",
-     "source": "조선일보"
+     "title": "17명 죽이고 뺏은 돈 고작 2만5천원…웃으며 범행 재연한 韓 최초 연쇄살인마",
+     "url": "https://www.newsis.com/view/NISX20261120_0003875968",
+     "source": "뉴시스"
     }
    ]
   },
@@ -41,14 +143,14 @@
    "when": "11월 20일 21:50",
    "news": [
     {
-     "title": "1R MVP 이해란 26점 폭발…여자농구 삼성생명, 4연승·단독 선두",
-     "url": "https://www.yna.co.kr/view/AKR20261120176400007",
-     "source": "연합뉴스"
+     "title": "‘AG 3X3 농구 금메달리스트’ 이동근, 프로농구 드래프트 1순위로 kt행",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718511",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "‘삼성생명 돌풍의 핵심’ 이해란, 데뷔 첫 라운드 MVP 수상",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718495",
-     "source": "KBS 뉴스"
+     "title": "KT, 이동근 1순위 지명…AG 금메달리스트 모두 프로행",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120232343RF2",
+     "source": "연합뉴스TV"
     }
    ]
   },
@@ -58,100 +160,14 @@
    "when": "11월 20일 21:50",
    "news": [
     {
-     "title": "Kumar Kushagra Family: Father, Mother, Coach And Career",
-     "url": "https://www.flickonclick.com/kumar-kushagra-family/",
-     "source": "Flickonclick"
-    }
-   ]
-  },
-  {
-   "kw": "비정규직",
-   "traffic": "100+",
-   "when": "11월 20일 21:40",
-   "news": []
-  },
-  {
-   "kw": "대구 fc",
-   "traffic": "100+",
-   "when": "11월 20일 21:20",
-   "news": [
-    {
-     "title": "김해FC, 리그 4위 대구 원정서 설기현 감독 부임 첫 승 도전",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722619",
-     "source": "뉴스타운"
+     "title": "Tilak Varma and Kumar Kushagra Hit Centuries to Propel India A Total",
+     "url": "https://newsable.asianetnews.com/sports/tilak-varma-and-kumar-kushagra-hit-centuries-to-propel-india-a-total-articleshow-16b1lhq",
+     "source": "Asianet Newsable"
     },
     {
-     "title": "이번엔 수원FC 차례…수원 삼성 이어 다이렉트 승격에 도전",
-     "url": "https://sports.donga.com/sports/article/all/20261119/135053547/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "홍진경",
-   "traffic": "200+",
-   "when": "11월 20일 21:10",
-   "news": [
-    {
-     "title": "‘180cm·47kg’ 홍진경, 식단 관리 비법 공개..“과식 줄일 수 있어” (공부왕찐천재)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GY2TOZLEMY3DSYZTHBSDIYTEGQ/",
-     "source": "조선일보"
-    },
-    {
-     "title": "“14시간 수면” 홍진경, 멜라토닌 과다 복용..김숙 “두들겨 맞았냐” (공부왕찐천재 홍진경)",
-     "url": "https://www.koreadaily.com/article/20261119025005183",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "cl",
-   "traffic": "200+",
-   "when": "11월 20일 21:00",
-   "news": [
-    {
-     "title": "Agricultores Unidos advierten que granizos \"del porte de una moneda\" destruyen siembras en Malleco",
-     "url": "https://araucaniadiario.cl/contenido/36040/agricultores-unidos-advierten-que-granizos-del-porte-de-una-moneda-destruyen-sie",
-     "source": "Araucanía Diario"
-    },
-    {
-     "title": "Granizada golpea la agricultura de Malleco: Agricultores Unidos advierten graves daños en cultivos y frutales",
-     "url": "https://alertanoticiastemuco.cl/granizada-en-malleco-danos-agricultura/",
-     "source": "Alerta Noticias Temuco.cl"
-    }
-   ]
-  },
-  {
-   "kw": "흥국생명",
-   "traffic": "2000+",
-   "when": "11월 20일 20:50",
-   "news": [
-    {
-     "title": "한국배구연맹·흥국생명, 관중 사망 사고에 애도‥각 구단, 응급 대응 매뉴얼 재점검",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6867278_36946.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "인천서 여자프로배구 보던 남성...쓰러진 뒤 끝내 숨져",
-     "url": "https://www.kyeonggi.com/article/20261119580667",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "cuaca besok",
-   "traffic": "200+",
-   "when": "11월 20일 20:50",
-   "news": [
-    {
-     "title": "BMKG Ingatkan Potensi Hujan dan Cuaca Ekstrem di Sulsel hingga 26 November",
-     "url": "https://www.sulawesipos.com/sulsel/2026/11/20/bmkg-ingatkan-potensi-hujan-dan-cuaca-ekstrem-di-sulsel-hingga-26-november/",
-     "source": "SulawesiPos"
-    },
-    {
-     "title": "BPBD Sulsel antisipasi bencana di musim hujan",
-     "url": "https://makassar.antaranews.com/berita/643939/bpbd-sulsel-antisipasi-bencana-di-musim-hujan",
-     "source": "ANTARA News Makassar"
+     "title": "IND vs PAK in Asia Cup Rising Stars 2026: Start time, date, venue and how to watch India-Pakistan clash globally",
+     "url": "https://sports.yahoo.com/articles/ind-vs-pak-asia-cup-092428434.html",
+     "source": "Yahoo Sports"
     }
    ]
   }
