@@ -1,6 +1,108 @@
 {
- "updated": "2026-11-20 14:23",
+ "updated": "2026-11-20 15:23",
  "items": [
+  {
+   "kw": "레미콘",
+   "traffic": "500+",
+   "when": "11월 20일 14:00",
+   "news": [
+    {
+     "title": "한국토지주택공사, 3기 신도시 레미콘 품질 전 과정 추적…2028년 전국 확대",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722299",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "LH, 3기 신도시에 ‘레미콘 통합 품질관리 시스템’ 도입",
+     "url": "https://www.joongboo.com/news/articleView.html?idxno=363742809",
+     "source": "중부일보"
+    }
+   ]
+  },
+  {
+   "kw": "리사 수",
+   "traffic": "500+",
+   "when": "11월 20일 14:00",
+   "news": [
+    {
+     "title": "“기억 못 하면 금붕어?”…젠슨 황 딸, 직원에게 막말 논란",
+     "url": "https://www.donga.com/news/Inter/article/all/20261120/135060075/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "엔비디아 임시 CEO “앞으로 나아가자” 임금 인상 시사…직원들 56% “젠슨 황 복귀 원해”",
+     "url": "https://www.khan.co.kr/article/202611191250001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "빅뱅",
+   "traffic": "1000+",
+   "when": "11월 20일 13:50",
+   "news": [
+    {
+     "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매",
+     "url": "https://www.khan.co.kr/article/202611201044001",
+     "source": "경향신문"
+    },
+    {
+     "title": "빅뱅·씨엘, 같은 날 4시간 차 신곡 컴백…그 시절 'YG 패밀리' 소환[SC초점]",
+     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/20/GU3WKZRYMMYTKNZWGJQTONZRG4/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "대상 공원 빅 트리",
+   "traffic": "100+",
+   "when": "11월 20일 13:50",
+   "news": [
+    {
+     "title": "창원시, 흉물 논란 ‘빅트리’ 개선 추진…55억 투입",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717837",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "창원 빅트리, 몸통 놔두고 꼭대기에 실내조망시설",
+     "url": "https://www.idomin.com/news/articleView.html?idxno=2020041",
+     "source": "경남도민일보"
+    }
+   ]
+  },
+  {
+   "kw": "하마",
+   "traffic": "200+",
+   "when": "11월 20일 13:30",
+   "news": [
+    {
+     "title": "세컨드레이디까지 추모 동참... 美 ‘국민 하마’ 피오나의 마지막 길",
+     "url": "https://www.chosun.com/international/international_general/2026/11/20/D6WXP4E4JZH25GHNTVL5GPUTFA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "美동물원 하마, 관광객 모자 삼켜 폐사…“수술 불가능했다”",
+     "url": "https://www.donga.com/news/Inter/article/all/20261120/135058463/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "안개",
+   "traffic": "500+",
+   "when": "11월 20일 13:20",
+   "news": [
+    {
+     "title": "안개 폭포 쏟아지는 아침…‘올해의 기상 사진’ 1위",
+     "url": "https://www.hani.co.kr/arti/science/science_general/1288275.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "산 할아버지, 구름모자 썼네…‘올해의 기상 사진’ 후보들",
+     "url": "https://www.hani.co.kr/arti/science/science_general/1287157.html",
+     "source": "한겨레"
+    }
+   ]
+  },
   {
    "kw": "한화이글스",
    "traffic": "200+",
@@ -19,25 +121,25 @@
    ]
   },
   {
-   "kw": "경북매일신문",
+   "kw": "발전",
    "traffic": "100+",
    "when": "11월 20일 13:20",
    "news": [
     {
-     "title": "84세에 수능 도전 최고령 수험생…“타인에 희망되길”",
-     "url": "https://www.donga.com/news/Society/article/all/20261119/135053691/1",
-     "source": "동아일보"
+     "title": "서부발전, 재생에너지 전문가 20명 위촉…사업 개발 자문 확대",
+     "url": "https://biz.chosun.com/industry/company/2026/11/20/QTNPOR6PDJCUDARRRJKJWKNHKM/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "엘리베이터 갇혀 구조된 수험생, 84세 만학도 \"대학 꿈\" 도전…대구·경북 수능날",
-     "url": "https://www.imaeil.com/page/view/2026111915123843806",
-     "source": "매일신문"
+     "title": "서부발전, 태양광·VPP까지 재생에너지 자문체계 확대",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3450678",
+     "source": "천지일보"
     }
    ]
   },
   {
    "kw": "웨이모",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 20일 13:10",
    "news": [
     {
@@ -53,121 +155,19 @@
    ]
   },
   {
-   "kw": "인공지능",
-   "traffic": "500+",
-   "when": "11월 20일 13:10",
-   "news": [
-    {
-     "title": "기보, 중소벤처기업 AX 혁신 포럼 개최…AI 활용 우수사례 공유",
-     "url": "https://www.etnews.com/20261120000052",
-     "source": "전자신문"
-    },
-    {
-     "title": "기보, 한국특허기술진흥원과 인공지능·데이터 기반 행정 활성화 협력",
-     "url": "https://www.busan.com/view/newsunicollvill/view.php?code=2026111815210237326",
-     "source": "부산일보"
-    }
-   ]
-  },
-  {
    "kw": "대기업",
    "traffic": "200+",
    "when": "11월 20일 13:00",
    "news": [
     {
-     "title": "제12회 중견기업인의 날 기념식 축하 세리머니",
-     "url": "https://www.newsis.com/view/NISI20261120_0021540049",
-     "source": "뉴시스"
+     "title": "작년 대기업 본사가 받은 상표권 사용료 역대 ‘최대’···쿠팡, 내부거래 금액 ‘톱5’ 진입",
+     "url": "https://www.khan.co.kr/article/202611191649001",
+     "source": "경향신문"
     },
     {
-     "title": "韓총리 “수출 1조 달러, 중견기업인 여러분이 함께 계셨기에 가능”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261120/135060171/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "조원태",
-   "traffic": "200+",
-   "when": "11월 20일 13:00",
-   "news": [
-    {
-     "title": "경찰, 조원태 한진그룹 회장 휴대전화 압수…'한진칼 배임' 수사 - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/society/2026/11/20/2026112013244281386",
+     "title": "\"공시집단 소속 국내 계열사 매출 약 35%, 내부거래서 발생\" - 머니투데이",
+     "url": "https://www.mt.co.kr/economy/2026/11/19/2026111908081052143",
      "source": "머니투데이"
-    },
-    {
-     "title": "경찰, ‘자사주 출연 의혹’ 조원태 한진그룹 회장 휴대전화 확보",
-     "url": "https://www.chosun.com/national/national_general/2026/11/20/66EYDPWPYZBNBDVYQJVJYLQ4PQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "리야드",
-   "traffic": "200+",
-   "when": "11월 20일 12:50",
-   "news": [
-    {
-     "title": "사우디 리야드 80층 빌딩 후티 미사일에 파손…'비전2030' 상징(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261119155051079",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[이 시각 세계] 후티 반군, 사우디 80층 빌딩에 미사일 공격",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867150_37012.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "라이어",
-   "traffic": "200+",
-   "when": "11월 20일 12:50",
-   "news": [
-    {
-     "title": "'라이어' 빌런 유연석, 경찰에게도 악행…결국 덜미 잡힐까",
-     "url": "https://m.imbc.com/enews/view/525326",
-     "source": "MBC"
-    },
-    {
-     "title": "'라이어' 서현진, 믿었던 사람들 거짓말에 충격 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/19/2026111915157247121",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "박은정",
-   "traffic": "100+",
-   "when": "11월 20일 12:50",
-   "news": [
-    {
-     "title": "대덕구의회, 교섭단체 운영·지원 근거 마련",
-     "url": "https://www.dtnews24.com/news/articleView.html?idxno=817421",
-     "source": "디트NEWS24"
-    },
-    {
-     "title": "122일 파행 빚더니…의원 의정활동 지원부터 서두르는 대덕구의회",
-     "url": "https://www.news1.kr/local/daejeon-chungnam/6360879",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "사이드카",
-   "traffic": "200+",
-   "when": "11월 20일 12:40",
-   "news": [
-    {
-     "title": "[속보] 코스피, 4%대 급락에 매도 사이드카 발동",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6867221_36932.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "검은 금요일 맞은 亞증시…韓·日·대만, 일제히 4∼6%대 급락",
-     "url": "https://stock.mk.co.kr/news/view/1203170",
-     "source": "매일경제 마켓"
     }
    ]
   }
