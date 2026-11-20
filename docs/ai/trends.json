@@ -1,20 +1,156 @@
 {
- "updated": "2026-11-20 09:23",
+ "updated": "2026-11-20 10:23",
  "items": [
+  {
+   "kw": "논현동",
+   "traffic": "2000+",
+   "when": "11월 20일 09:10",
+   "news": [
+    {
+     "title": "‘핑계고’ 찍는 그 건물..유재석 ’198억’ 논현동 빌딩 외관 공개됐다 “대출 0원” [Oh!쎈 이슈]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/GJSTMMJTG43TEMZUMZTGGNBQGQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "유재석, 논현동 198억 현금 매입 부지 신축 건물 완공…\"얼마나 더 오를까\"",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874712",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "이의리",
+   "traffic": "500+",
+   "when": "11월 20일 09:10",
+   "news": [
+    {
+     "title": "이의리, 다시 약속의 땅으로 갔다… 이범호도 기회 준다, 경력 걸린 운명의 오프시즌",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020808",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "\"한국은 구속만 의식하는데...\" 충격의 한일전 13연패, '日 유학' 한화 투수 듀오가 깨달은 차이 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/19/2026111903265961535",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "유니클로",
+   "traffic": "500+",
+   "when": "11월 20일 09:10",
+   "news": [
+    {
+     "title": "1평 공방서 맨땅에 바느질…이젠 로레알·유니클로서 '러브콜'",
+     "url": "https://www.hankyung.com/article/2026111982391",
+     "source": "한국경제"
+    },
+    {
+     "title": "손정의 \"그 때 앤트로픽에 투자했더라면 좋았을 것\"",
+     "url": "https://www.yna.co.kr/view/AKR20261119033100009",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "h&m",
+   "traffic": "100+",
+   "when": "11월 20일 09:00",
+   "news": [
+    {
+     "title": "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award",
+     "url": "https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award",
+     "source": "Vogue"
+    },
+    {
+     "title": "MACY GRIMSHAW WINS THE H&M DESIGN AWARD 2026",
+     "url": "https://press.hm.com/newsroom/2026/macy-grimshaw-wins-the-hm-design-award-2026",
+     "source": "H&M"
+    }
+   ]
+  },
+  {
+   "kw": "php 취약점",
+   "traffic": "200+",
+   "when": "11월 20일 08:50",
+   "news": [
+    {
+     "title": "PHP, Critical 등급 취약점 수정을 포함한 새로운 보안패치 예정(2026.11.19.)",
+     "url": "https://news.hada.io/topic?id=37452",
+     "source": "GeekNews"
+    },
+    {
+     "title": "PHP 치명적 결함 패치...특정 웹서버 설정 시 코드 실행 가능",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147402",
+     "source": "보안뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "전북특별자치도교육청",
+   "traffic": "100+",
+   "when": "11월 20일 08:50",
+   "news": [
+    {
+     "title": "전주대·전북교육청 개인정보 대량 유출…“피해 우려”",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717588",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "성적·출결에 교직원 메일까지…대학 해킹 유출 파일서 'AI 흔적' 발견",
+     "url": "https://www.newsis.com/view/NISX20261119_0003875508",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "lpga",
+   "traffic": "500+",
+   "when": "11월 20일 08:40",
+   "news": [
+    {
+     "title": "Kim A-lim Ties for Lead on First Day of LPGA Season Finale Tour Championship",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008855007",
+     "source": "news.sbs.co.kr"
+    },
+    {
+     "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
+     "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
+     "source": "아시아경제"
+    }
+   ]
+  },
   {
    "kw": "2호선",
    "traffic": "200+",
    "when": "11월 20일 08:20",
    "news": [
     {
-     "title": "지하철 2호선 성수역-신설동역 양방향 운행 중단‥1호선 열차도 지연",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6867145_36918.html",
-     "source": "MBC 뉴스"
+     "title": "서울 지하철 2호선 성수지선 양방향 운행 중지",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120071423Cpd",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "서울지하철 노조, 오늘부터 준법투쟁…일부 열차 지연 가능성",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261120091027coQ",
-     "source": "연합뉴스TV"
+     "title": "서울지하철 노조, 준법투쟁 돌입…출퇴근길 일부 지연 가능성",
+     "url": "https://www.khan.co.kr/article/202611200739001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "새만금",
+   "traffic": "100+",
+   "when": "11월 20일 08:10",
+   "news": [
+    {
+     "title": "새만금·신공항·올림픽…전북 거대 프로젝트 쉽게 풀리는 게 없네",
+     "url": "https://www.hani.co.kr/arti/area/honam/1288246.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "[해설] 또 반복된 ‘하늘길 잔혹사’…환경·안전에 가로 막힌 전북 타개책 고심",
+     "url": "https://www.jjan.kr/article/20261118500448",
+     "source": "전북일보 인터넷신문"
     }
    ]
   },
@@ -32,142 +168,6 @@
      "title": "오상욱, 한일 혼혈 모델 하루카 토요다와 열애설 재점화…日 데이트 사진 관심↑",
      "url": "https://www.news1.kr/entertain/celebrity-topic/6358067",
      "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "주한 미군",
-   "traffic": "200+",
-   "when": "11월 20일 07:50",
-   "news": [
-    {
-     "title": "[단독] 美 AI기반 패트리엇 요격체계, 한국에서 최초 전력화",
-     "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/19/2ZOSY4EQCFGUJOBE43MNLX4RAM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "주한미군, 패트리엇 포대 '통합운용 시스템' IBCS 본격 전력화",
-     "url": "https://www.yna.co.kr/view/AKR20261119133800504",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "눈",
-   "traffic": "200+",
-   "when": "11월 20일 07:50",
-   "news": [
-    {
-     "title": "수능 한파에 서해안 대설까지…내일까지 최대 10cm",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8717555",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "전국 영하권 추위에 칼바람…충청·호남·제주엔 많은 눈",
-     "url": "https://www.yna.co.kr/view/AKR20261120027500530",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "new zealand vs india",
-   "traffic": "100+",
-   "when": "11월 20일 07:50",
-   "news": [
-    {
-     "title": "Ball by Ball Commentary & Live Score - NZ vs IND, 1st Test",
-     "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/ball-by-ball-commentary",
-     "source": "Cricinfo"
-    },
-    {
-     "title": "Nicholls ton leads New Zealand fightback to 243-5 in first India Test",
-     "url": "https://www.afp.com/en/nicholls-ton-leads-new-zealand-fightback-243-5-first-india-test-0",
-     "source": "AFP.com"
-    }
-   ]
-  },
-  {
-   "kw": "오픈ai",
-   "traffic": "100+",
-   "when": "11월 20일 07:40",
-   "news": [
-    {
-     "title": "오픈AI CEO \"투자자, AI에 꽤 낙관적\"…반도체 수요 과대추산 지적도",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445044",
-     "source": "연합인포맥스"
-    },
-    {
-     "title": "Sam Altman, 누구나 충분한 RAM을 살 수 있어야 한다고 말해",
-     "url": "https://mezha.net/ko/news/mezha-dccb6be474d17a986fc73370_sam-altman-says-everyone-should-be/",
-     "source": "Mezha.net"
-    }
-   ]
-  },
-  {
-   "kw": "tqqq",
-   "traffic": "200+",
-   "when": "11월 20일 07:40",
-   "news": [
-    {
-     "title": "Hawkish Fed unsettles indices, Anthropic is set to go public—how to collect income from TQQQ amid high volatility?",
-     "url": "https://news.futunn.com/en/post/1005007027/options-income-hawkish-fed-unsettles-indices-anthropic-is-set-to",
-     "source": "富途牛牛"
-    },
-    {
-     "title": "TQQQ Rises 3.68% in 24 Hours but Stays Below Its 50-Day Average",
-     "url": "https://www.tokenpost.com/news/investing/61551",
-     "source": "www.tokenpost.com"
-    }
-   ]
-  },
-  {
-   "kw": "중산층",
-   "traffic": "500+",
-   "when": "11월 20일 07:30",
-   "news": [
-    {
-     "title": "월급은 470만원 비슷한데도 남는 돈은 53만원 차이…중산층 저축 가른 ‘빚의 무게’ [데이터로 보는 머니무브]",
-     "url": "https://stock.mk.co.kr/news/view/1202608",
-     "source": "매일경제 마켓"
-    },
-    {
-     "title": "[경제전망대] 외면받는 중산층, 얇아지는 허리",
-     "url": "https://www.kyeongin.com/article/1775041",
-     "source": "경인일보"
-    }
-   ]
-  },
-  {
-   "kw": "vix",
-   "traffic": "200+",
-   "when": "11월 20일 07:30",
-   "news": [
-    {
-     "title": "It’s Getting More and More Volatile for Stocks",
-     "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111926/card/it-s-getting-more-and-more-volatile-for-stocks-ROSooZcFbkLpYiu56lWF",
-     "source": "Barron's"
-    },
-    {
-     "title": "AAPL 261120 395.00C (AAPL261120C395000) Stock Options Chain | Quotes & News",
-     "url": "https://www.moomoo.com/options/AAPL261120C395000-US?chain_id=Name1K9-3FXPhg.1kse6g0&global_content=%7B%22promote_id%22%3A13643,%22sub_promote_id%22%3A62,%22f%22%3A%22www.moomoocn.com%2Foptions%2FTSLA260327C495000-US%22%7D",
-     "source": "Moomoo"
-    }
-   ]
-  },
-  {
-   "kw": "파운드리",
-   "traffic": "2000+",
-   "when": "11월 20일 07:20",
-   "news": [
-    {
-     "title": "인텔, 파운드리 18A 제조 공정 첫 외부 고객사 확보",
-     "url": "https://www.yna.co.kr/view/AKR20261120022500009",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "인텔, 첨단 반도체 공정 첫 외부 고객 확보…주가 2%↑",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01318566645647688",
-     "source": "마켓인"
     }
    ]
   }
