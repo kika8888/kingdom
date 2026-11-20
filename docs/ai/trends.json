@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21 03:23",
+ "updated": "2026-11-21 04:23",
  "items": [
   {
    "kw": "알아흘리 사우디 대 알나스르",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 21일 02:20",
    "news": [
     {
@@ -19,6 +19,23 @@
    ]
   },
   {
+   "kw": "riemann hypothesis",
+   "traffic": "100+",
+   "when": "11월 21일 02:20",
+   "news": [
+    {
+     "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
+     "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+     "source": "Scientific American"
+    },
+    {
+     "title": "Anthropic mathematician says Claude helped solve the 'biggest problem in math'",
+     "url": "https://www.businessinsider.com/reimann-hypothesis-anthropic-claude-solved-biggest-problem-in-math-2026-11",
+     "source": "Business Insider"
+    }
+   ]
+  },
+  {
    "kw": "india a cricket team vs nepal national cricket team standings",
    "traffic": "5000+",
    "when": "11월 21일 01:10",
@@ -29,9 +46,43 @@
      "source": "Cricinfo"
     },
     {
-     "title": "Nepal bowled out for 26 by India A: Why it won't be the lowest ODI total ever",
-     "url": "https://sports.yahoo.com/articles/nepal-bowled-26-india-why-160544669.html",
-     "source": "Yahoo Sports"
+     "title": "Get Ball by Ball Commentary of India A vs Nepal, Asia Cup Rising Stars (50 Overs) 2026, 4th Match, Group B | ESPN.com",
+     "url": "https://www.espn.com/cricket/series/1562333/commentary/1562345/india-a-vs-nepal-4th-match-group-b-asia-cup-rising-stars-50-overs-2026-27",
+     "source": "ESPN"
+    }
+   ]
+  },
+  {
+   "kw": "의·치의학교육입문검사",
+   "traffic": "200+",
+   "when": "11월 21일 00:50",
+   "news": [
+    {
+     "title": "\"대치동 몸테크, 이제 끝나나\"…AI 커닝 사태가 흔든 '학군지 집값'의 미래",
+     "url": "https://www.newsis.com/view/NISX20261119_0003874947",
+     "source": "뉴시스"
+    },
+    {
+     "title": "[자막뉴스] \"6년 준비해 합격\" 입 연 협성대 엠디트 수석…\"자료 모두 공개\" 냥이 딱지 벗나?",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856029",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "리만가설 증명",
+   "traffic": "1000+",
+   "when": "11월 21일 00:40",
+   "news": [
+    {
+     "title": "앤트로픽 연구원 \"클로드 활용해 리만 가설 증명 발견한 것으로 판단\"",
+     "url": "https://bloomingbit.io/feed/news/124896",
+     "source": "블루밍비트"
+    },
+    {
+     "title": "[AI스토리] 앤트로픽 나스닥 데뷔 하루 만에 '리만 가설' 증명 공개…암호학 새 지평 주목",
+     "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3904496",
+     "source": "이코노미트리뷴"
     }
    ]
   },
@@ -97,9 +148,9 @@
      "source": "KBS 뉴스"
     },
     {
-     "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
-     "url": "https://www.khan.co.kr/article/202611202007001",
-     "source": "경향신문"
+     "title": "내년 부동산 공시가 현실화율 69%로 동결",
+     "url": "https://www.donga.com/news/Economy/article/all/20261120/135063731/2",
+     "source": "동아일보"
     }
    ]
   },
@@ -114,55 +165,9 @@
      "source": "Vietnam.vn"
     },
     {
-     "title": "Lịch thi đấu U.17 Việt Nam và U.17 New Zealand mới nhất: Nỗ lực tột độ để chiến thắng",
-     "url": "https://thanhnien.vn/lich-thi-dau-u17-viet-nam-moi-nhat-dau-u17-new-zealand-co-hoi-thang-la-day-185261120221110968.htm",
+     "title": "Truyền thông Thái Lan ngạc nhiên trước màn trình diễn của U.17 Việt Nam tại World Cup",
+     "url": "https://thanhnien.vn/truyen-thong-thai-lan-ngac-nhien-truoc-man-trinh-dien-cua-u17-viet-nam-tai-world-cup-185261120233809135.htm",
      "source": "Báo Thanh Niên"
-    }
-   ]
-  },
-  {
-   "kw": "오현민",
-   "traffic": "200+",
-   "when": "11월 20일 23:00",
-   "news": [
-    {
-     "title": "'데블스 플랜3' 오현민, 장동민 옆 눈물.. 탈락 심경 \"많이 부족했다\" [전문]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/GRTDKZJYMQZWIM3EHFTDCODCMQ/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'데블스플랜3' 탈락 오현민 \"누구 하나 못된 사람 없어…비난 말아달라\"",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6359461",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "엔비디아",
-   "traffic": "10000+",
-   "when": "11월 20일 22:40",
-   "news": [
-    {
-     "title": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 '우회 수출 원천 봉쇄' 여파",
-     "url": "https://www.etnews.com/20261120000030",
-     "source": "전자신문"
-    },
-    {
-     "title": "美재무 \"'엔비디아 H200 中 판매 허용' 정책 변화 없어\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121001600071",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "펍지",
-   "traffic": "1000+",
-   "when": "11월 20일 22:30",
-   "news": [
-    {
-     "title": "[G-STAR 26] Sega, CDPR, Capcom and more global game companies to gather in one place",
-     "url": "https://www.gamemeca.com/en/view.php?gid=1783551",
-     "source": "게임메카"
     }
    ]
   }
