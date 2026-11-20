@@ -1,20 +1,37 @@
 {
- "updated": "2026-11-21 02:23",
+ "updated": "2026-11-21 03:23",
  "items": [
+  {
+   "kw": "알아흘리 사우디 대 알나스르",
+   "traffic": "200+",
+   "when": "11월 21일 02:20",
+   "news": [
+    {
+     "title": "Al Ahli vs Al Nassr: Saudi Pro League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c6j9k2l339lzt",
+     "source": "BBC"
+    },
+    {
+     "title": "Ivan Toney, Bento, Ibanez, Felix: Where Al Ahli vs Al Nassr will be won or lost",
+     "url": "https://sports.yahoo.com/articles/ivan-toney-bento-ibanez-felix-120000553.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
   {
    "kw": "india a cricket team vs nepal national cricket team standings",
    "traffic": "5000+",
    "when": "11월 21일 01:10",
    "news": [
     {
+     "title": "Prince, Rana rout Nepal for 26 after Tilak, Kushagra tons",
+     "url": "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/india-a-vs-nepal-4th-match-group-b-1562345/match-report",
+     "source": "Cricinfo"
+    },
+    {
      "title": "Nepal bowled out for 26 by India A: Why it won't be the lowest ODI total ever",
      "url": "https://sports.yahoo.com/articles/nepal-bowled-26-india-why-160544669.html",
      "source": "Yahoo Sports"
-    },
-    {
-     "title": "India A vs Nepal Highlights, ACC Men's Asia Cup Rising Stars 2026: India bowl out Nepal for 26, clinch 306-run win",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-nepal-acc-mens-asia-cup-rising-stars-2026-live-score-match-today-scorecard-result-west-end-park-international-cricket-stadium/liveblog/136018863.cms",
-     "source": "The Times of India"
     }
    ]
   },
@@ -76,7 +93,7 @@
    "news": [
     {
      "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718593",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718593",
      "source": "KBS 뉴스"
     },
     {
@@ -92,14 +109,14 @@
    "when": "11월 20일 23:40",
    "news": [
     {
-     "title": "Trực tiếp bóng đá U17 Bỉ - U17 Việt Nam: Bàn thắng đẹp cuối trận (U17 World Cup) (Hết giờ)",
-     "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-u17-bi-u17-viet-nam-ban-thang-dep-cuoi-tran-u17-world-cup-het-gio-c48a1812591.html",
-     "source": "Tin tức 24h"
+     "title": "Những tình huống tranh cãi của U17 Việt Nam được phân xử bởi công nghệ mới",
+     "url": "https://www.vietnam.vn/nhung-tinh-huong-tranh-cai-cua-u17-viet-nam-duoc-phan-xu-boi-cong-nghe-moi",
+     "source": "Vietnam.vn"
     },
     {
      "title": "Lịch thi đấu U.17 Việt Nam và U.17 New Zealand mới nhất: Nỗ lực tột độ để chiến thắng",
      "url": "https://thanhnien.vn/lich-thi-dau-u17-viet-nam-moi-nhat-dau-u17-new-zealand-co-hoi-thang-la-day-185261120221110968.htm",
-     "source": "Thanh Niên"
+     "source": "Báo Thanh Niên"
     }
    ]
   },
@@ -122,18 +139,18 @@
   },
   {
    "kw": "엔비디아",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 20일 22:40",
    "news": [
     {
-     "title": "젠슨 황 딸 폭언까지 터졌다…\"직원에 '금붕어' 호칭\" 논란",
-     "url": "https://www.hankyung.com/article/2026111982051",
-     "source": "한국경제"
+     "title": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 '우회 수출 원천 봉쇄' 여파",
+     "url": "https://www.etnews.com/20261120000030",
+     "source": "전자신문"
     },
     {
-     "title": "젠슨 황 몰락의 진짜 이유...루비오와 매파의 '제거 작전'",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0104_202611202259212218_005.html",
-     "source": "YTN"
+     "title": "美재무 \"'엔비디아 H200 中 판매 허용' 정책 변화 없어\"",
+     "url": "https://www.yna.co.kr/view/AKR20261121001600071",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -143,22 +160,11 @@
    "when": "11월 20일 22:30",
    "news": [
     {
-     "title": "PUBG x IVE 콜라보레이션 아이템 모델링 개선 안내 - 뉴스 - PUBG: 배틀그라운드",
-     "url": "https://www.pubg.com/ko/news/11414",
-     "source": "PUBG: BATTLEGROUNDS"
-    },
-    {
-     "title": "PUBG, 베트남 선수 불매운동 여파로 스팀 매출 순위 12계단 급락",
-     "url": "https://chaovietnam.co.kr/195002/",
-     "source": "씬짜오베트남"
+     "title": "[G-STAR 26] Sega, CDPR, Capcom and more global game companies to gather in one place",
+     "url": "https://www.gamemeca.com/en/view.php?gid=1783551",
+     "source": "게임메카"
     }
    ]
-  },
-  {
-   "kw": "미국 반도체 수출 통제로 인한 삼성전자와 tsmc의 중국 출하 중단 뉴스 알려줘",
-   "traffic": "5000+",
-   "when": "11월 20일 22:30",
-   "news": []
   }
  ]
 }
