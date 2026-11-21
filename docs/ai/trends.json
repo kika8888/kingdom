@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-22 03:23",
+ "updated": "2026-11-22 04:23",
  "items": [
   {
+   "kw": "newcastle vs arsenal",
+   "traffic": "200+",
+   "when": "11월 22일 02:30",
+   "news": [
+    {
+     "title": "Match Summary",
+     "url": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
+     "source": "BBC"
+    },
+    {
+     "title": "Team news: Eze in, Guimaraes starts at Newcastle",
+     "url": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA",
+     "source": "Arsenal.com"
+    }
+   ]
+  },
+  {
+   "kw": "아스날",
+   "traffic": "200+",
+   "when": "11월 22일 02:20",
+   "news": [
+    {
+     "title": "'게임에서 자기 자신을 주장으로 선택했을 뿐인데' 아스날 선발 명단 유출 논란...아르테타 감독 긴급 대응 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/21/202611211124779349O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "아스널의 미켈 아르테타 감독은 선수들의 축구 비디오 게임 플레이를 금지했다.",
+     "url": "https://www.vietnam.vn/ko/hlv-mikel-arteta-cam-cau-thu-arsenal-choi-game-bong-da",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "psg",
+   "traffic": "100+",
+   "when": "11월 22일 02:20",
+   "news": [
+    {
+     "title": "Le PSG gagne à Nice et enchaîne, mais perd Doué sur blessure",
+     "url": "https://www.tufutbolero.com/fr/actualites/le-psg-gagne-a-nice-et-enchaine-mais-perd-doue-sur-blessure-15df30",
+     "source": "Tu Futbolero"
+    },
+    {
+     "title": "Luis Enrique : « On a bien fait le boulot »",
+     "url": "https://www.psg.fr/content/luis-enrique-on-a-bien-fait-le-boulot-reactions-ogc-nice-paris-saint-germain-ligue-1-20262027/",
+     "source": "Paris Saint-Germain"
+    }
+   ]
+  },
+  {
    "kw": "뉴캐슬 대 아스널",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 22일 01:40",
    "news": [
     {
@@ -32,6 +83,23 @@
      "title": "Mini feux d'artifice, chants, fumigènes : l'ambiance monte d'un cran avant Nice-PSG - Foot - Ligue 1",
      "url": "https://sports.orange.fr/videos/football/mini-feux-d-artifice-chants-fumigenes-l-ambiance-monte-d-un-cran-avant-nice-psg-foot-ligue-1-CNT000002tWg1g.html",
      "source": "Sports - Orange"
+    }
+   ]
+  },
+  {
+   "kw": "토트넘 홋스퍼 fc 대 입스위치 타운 fc 라인업",
+   "traffic": "100+",
+   "when": "11월 22일 01:20",
+   "news": [
+    {
+     "title": "Tottenham 2-0 Ipswich: Luca Williams-Barnett stars as Spurs win",
+     "url": "https://www.bbc.com/sport/football/live/c699exk99z54t",
+     "source": "BBC"
+    },
+    {
+     "title": "Tottenham vs Ipswich LIVE! Premier League match updates, news and score",
+     "url": "https://www.skysports.com/football/live-blog/13610687/tottenham-vs-ipswich-live-premier-league-match-updates-news-and-score",
+     "source": "Sky Sports"
     }
    ]
   },
@@ -100,63 +168,6 @@
      "title": "'그것이 알고싶다'(그알) 딸의 방송 본 아버지 제보로 드러난 '엑셀 방송' 실태",
      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759174",
      "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "채령",
-   "traffic": "500+",
-   "when": "11월 22일 00:00",
-   "news": []
-  },
-  {
-   "kw": "장동혁",
-   "traffic": "200+",
-   "when": "11월 21일 23:50",
-   "news": [
-    {
-     "title": "이 대통령 \"5500억 환수가 배임이면…\" 대장동 업자 인터뷰 SNS에 공유",
-     "url": "https://news.jtbc.co.kr/article/NB12329146",
-     "source": "JTBC"
-    },
-    {
-     "title": "장동혁 \"억울하면 재판 받아라\"…민주 \"크게 착각\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "chelsea vs leeds",
-   "traffic": "500+",
-   "when": "11월 21일 23:50",
-   "news": [
-    {
-     "title": "Chelsea 1-4 Leeds: Noah Okafor scores twice as visitors win",
-     "url": "https://www.bbc.com/sport/football/live/c3dx19jxx15zt",
-     "source": "BBC"
-    },
-    {
-     "title": "Leeds overturn Chelsea lead with 4-1 win as Alonso suffers fifth league defeat",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/22/NJOCZG4RBJDSVBE4EYNBHKBMSE/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "민효린",
-   "traffic": "100+",
-   "when": "11월 21일 23:50",
-   "news": [
-    {
-     "title": "지드래곤도 감당 안되는 5대5 긴 생머리 '파격'..수상소감 방해하자 '대성 투입' [핫피플]",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/21/MNSDAYTCGBRWKOBYMJRTSNZUHA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "빅뱅 태양, 무대를 지배하는 자",
-     "url": "https://www.news1.kr/photos/8226435",
-     "source": "뉴스1"
     }
    ]
   }
