@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-21 11:23",
+ "updated": "2026-11-21 12:22",
  "items": [
   {
-   "kw": "편의점",
+   "kw": "알테오젠",
    "traffic": "200+",
+   "when": "11월 21일 11:10",
+   "news": [
+    {
+     "title": "알테오젠, 전환가액 15% 낮춰…잠재 매물 9만주 증가 By EBN",
+     "url": "https://kr.investing.com/news/stock-market-news/article-2184781",
+     "source": "Investing.com 한국어"
+    },
+    {
+     "title": "“알테오젠, 올해 영업익 3050억 전망…美 약가 인하 영향은 변수” [Why 바이오]",
+     "url": "https://www.sedaily.com/article/20116245",
+     "source": "서울경제"
+    }
+   ]
+  },
+  {
+   "kw": "경부선",
+   "traffic": "500+",
+   "when": "11월 21일 10:50",
+   "news": [
+    {
+     "title": "’경부선 화물열차 탈선’에 일반열차 멈춰…복구 장시간 소요",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121101015fgK",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "[속보] 코레일 \"천안∼조치원∼대전·서대전 구간 버스로 연계 수송\"",
+     "url": "https://www.kyeonggi.com/article/20261121580047",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "jisoo sun showers (from \"the angry birds movie 3”)",
+   "traffic": "100+",
+   "when": "11월 21일 10:30",
+   "news": [
+    {
+     "title": "Blackpink’s Jisoo Debuts Buoyant Single ‘Sun Showers’",
+     "url": "https://www.rollingstone.com/music/music-news/blackpink-jisoo-sun-showers-single-angry-birds-movie-1235661547/",
+     "source": "Rolling Stone"
+    },
+    {
+     "title": "Jisoo Brings Her Childhood Creation Shumon To Life In “Sun Showers” Video",
+     "url": "https://www.thatericalper.com/2026/11/20/jisoo-brings-her-childhood-creation-shumon-to-life-in-sun-showers-video/",
+     "source": "That Eric Alper"
+    }
+   ]
+  },
+  {
+   "kw": "편의점",
+   "traffic": "500+",
    "when": "11월 21일 10:10",
    "news": [
     {
@@ -87,76 +138,25 @@
    ]
   },
   {
-   "kw": "패딩",
-   "traffic": "10000+",
-   "when": "11월 21일 09:10",
-   "news": [
-    {
-     "title": "이번 주부터 영하 시작! 한겨울을 위한 ‘헤비 다운 패딩’ 6",
-     "url": "https://www.esquirekorea.co.kr/article/1913425",
-     "source": "에스콰이어 코리아"
-    },
-    {
-     "title": "롱패딩 대신 이것 사라?…‘초강력 엘니뇨’가 만든 겨울 유행템",
-     "url": "https://www.koreadaily.com/article/20261120130043864",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
    "kw": "동아일보",
    "traffic": "2000+",
    "when": "11월 21일 09:10",
    "news": []
   },
   {
-   "kw": "lpga",
-   "traffic": "1000+",
-   "when": "11월 21일 09:00",
+   "kw": "패딩",
+   "traffic": "10000+",
+   "when": "11월 21일 09:10",
    "news": [
     {
-     "title": "Kim A-lim Hits Hole-in-One in LPGA Season Finale Round 2, Retains 3-Stroke Lead",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008856792",
-     "source": "news.sbs.co.kr"
+     "title": "올겨울 패딩 구입 더는 미룰 수 없어요",
+     "url": "https://www.elle.co.kr/article/1913376",
+     "source": "엘르 코리아 │ ELLE KOREA"
     },
     {
-     "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
-     "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
-     "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "지스타",
-   "traffic": "1000+",
-   "when": "11월 21일 09:00",
-   "news": [
-    {
-     "title": "[게임위드인] AI로 외연 확장 노린 지스타…관람객은 게임에 몰렸다",
-     "url": "https://www.yna.co.kr/view/AKR20261120169900017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'지스타 2026' 첫 주말, 벡스코에 관람객 북적…게임 축제 열기 고조",
-     "url": "https://zdnet.co.kr/view/?no=20261121102326",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "공군사관학교",
-   "traffic": "200+",
-   "when": "11월 21일 09:00",
-   "news": [
-    {
-     "title": "공군사관학교 부정행위 신고 뒤…시험지 폰으로 찍은 생도 퇴교",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1288405.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
-     "url": "https://www.kyeonggi.com/article/20261120580310",
-     "source": "경기일보"
+     "title": "이번 주부터 영하 시작! 한겨울을 위한 ‘헤비 다운 패딩’ 6",
+     "url": "https://www.esquirekorea.co.kr/article/1913425",
+     "source": "에스콰이어 코리아"
     }
    ]
   }
