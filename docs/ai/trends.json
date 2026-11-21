@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-21 18:22",
+ "updated": "2026-11-21 18:38",
  "items": [
+  {
+   "kw": "성리",
+   "traffic": "200+",
+   "when": "11월 21일 17:30",
+   "news": [
+    {
+     "title": "성리→장한별 출연 '무명전설' 전국투어, 대구서 앵콜",
+     "url": "https://enter.etoday.co.kr/news/view/305549",
+     "source": "비즈엔터"
+    },
+    {
+     "title": "[단독]가수 하루, MBN '무명전설' 대구 앵콜콘 전석 매진",
+     "url": "https://www.thepublic.kr/news/articleView.html?idxno=327894",
+     "source": "더퍼블릭"
+    }
+   ]
+  },
+  {
+   "kw": "굴",
+   "traffic": "500+",
+   "when": "11월 21일 17:20",
+   "news": [
+    {
+     "title": "'노로바이러스' 미리 알고, 더 건강하게 다녀오세요 - 전체 | 카드/한컷 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976154&pWise=sub&pWiseSub=C4",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "노로바이러스 식중독 절반이 겨울철…“가열용 굴 생식 주의” [헬시타임]",
+     "url": "https://www.sedaily.com/article/20116855",
+     "source": "서울경제"
+    }
+   ]
+  },
+  {
+   "kw": "멜라니아 트럼프",
+   "traffic": "100+",
+   "when": "11월 21일 17:20",
+   "news": [
+    {
+     "title": "멜라니아 새 다큐 공개…\"트럼프 주변에 '예스맨' 너무 많아\"",
+     "url": "https://www.yna.co.kr/view/AKR20261121028300075",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'멜라니아: 더 시리즈' 시사회 참석한 멜라니아 여사",
+     "url": "https://mobile.newsis.com/photo/NISI20261120_0002297858",
+     "source": "뉴시스"
+    }
+   ]
+  },
   {
    "kw": "sri lanka a vs hong kong",
    "traffic": "100+",
@@ -15,6 +66,23 @@
      "title": "Sri Lanka A vs Hong Kong LIVE Streaming: When And Where To Watch Rising Stars Asia Cup",
      "url": "https://www.ndtvprofit.com/sports/sri-lanka-a-vs-hong-kong-live-streaming-when-and-where-to-watch-rising-stars-asia-cup-12356449",
      "source": "NDTV Profit"
+    }
+   ]
+  },
+  {
+   "kw": "광주공항",
+   "traffic": "100+",
+   "when": "11월 21일 17:10",
+   "news": [
+    {
+     "title": "[제철남] 군 공항 투표, 무안의 진짜 목소리는?",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717650",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "전남광주, 광주공항 국내선 무안 이전 준비 나선다",
+     "url": "https://theleader.mt.co.kr/articleView?no=2026112017307830216",
+     "source": "머니투데이 더리더"
     }
    ]
   },
@@ -100,63 +168,6 @@
      "title": "AMD, 中 수출 규제 위반 의혹·AI 투자심리 악화에 주가 13%↓",
      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01226726645648016",
      "source": "마켓인"
-    }
-   ]
-  },
-  {
-   "kw": "신성일",
-   "traffic": "100+",
-   "when": "11월 21일 15:40",
-   "news": [
-    {
-     "title": "신성일기념관 개관 1주년 음악회, 21일 영천서 개최",
-     "url": "https://www.news1.kr/local/daegu-gyeongbuk/6359296",
-     "source": "뉴스1"
-    },
-    {
-     "title": "벌써 7만명 다녀간 중장년 ‘추억 성지’…주말엔 박해미 뜬다",
-     "url": "https://www.koreadaily.com/article/20261120130053831",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "리야드",
-   "traffic": "2000+",
-   "when": "11월 21일 15:20",
-   "news": [
-    {
-     "title": "리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”",
-     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8717995",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121001800079",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "부산 대 충북청주",
-   "traffic": "200+",
-   "when": "11월 21일 15:10",
-   "news": []
-  },
-  {
-   "kw": "김연정",
-   "traffic": "200+",
-   "when": "11월 21일 15:00",
-   "news": [
-    {
-     "title": "실바 22득점 맹활약…GS칼텍스, 3연승 질주하며 단독 선두",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717851",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "“선수로서 속상하지만, 팀은 잘되고 있으니까” 주장 유서연은 팀을 먼저 생각했다 [현장인터뷰]",
-     "url": "https://www.mk.co.kr/news/sports/12214552",
-     "source": "매일경제"
     }
    ]
   }
