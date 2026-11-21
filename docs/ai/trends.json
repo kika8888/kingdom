@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-21 18:38",
+ "updated": "2026-11-21 19:23",
  "items": [
   {
-   "kw": "성리",
+   "kw": "k리그1",
    "traffic": "200+",
+   "when": "11월 21일 18:20",
+   "news": [
+    {
+     "title": "수원 삼성, K리그2 우승‥이정효 감독 \"14위부터 다시 시작\"",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6867487_36946.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "승리의 기쁨",
+     "url": "https://www.news1.kr/photos/8226316",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "중일 관계",
+   "traffic": "200+",
+   "when": "11월 21일 18:00",
+   "news": [
+    {
+     "title": "일본 국민 61% “한국에 친근감”…86% “중국에 친근감 없어”",
+     "url": "https://www.khan.co.kr/article/202611211158001",
+     "source": "경향신문"
+    },
+    {
+     "title": "일본인 극과 극…‘한국에 친근감’ 62%, ‘중일관계 나쁘다’ 93%",
+     "url": "https://www.hani.co.kr/arti/international/international_general/1288434.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "kw": "england vs australia",
+   "traffic": "200+",
+   "when": "11월 21일 18:00",
+   "news": [
+    {
+     "title": "Australia vs England LIVE: First T20, MCG, Melbourne - cricket score, commentary & updates",
+     "url": "https://www.bbc.com/sport/cricket/live/c30y48pz38qt",
+     "source": "BBC"
+    },
+    {
+     "title": "Harper's Australia debut a much-needed good story",
+     "url": "https://www.cricinfo.com/story/sam-harper-s-australia-debut-a-much-needed-good-story-1563295",
+     "source": "Cricinfo"
+    }
+   ]
+  },
+  {
+   "kw": "성리",
+   "traffic": "500+",
    "when": "11월 21일 17:30",
    "news": [
     {
@@ -20,12 +71,12 @@
   },
   {
    "kw": "굴",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 21일 17:20",
    "news": [
     {
      "title": "'노로바이러스' 미리 알고, 더 건강하게 다녀오세요 - 전체 | 카드/한컷 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976154&pWise=sub&pWiseSub=C4",
+     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976154",
      "source": "대한민국 정책브리핑"
     },
     {
@@ -53,23 +104,6 @@
    ]
   },
   {
-   "kw": "sri lanka a vs hong kong",
-   "traffic": "100+",
-   "when": "11월 21일 17:10",
-   "news": [
-    {
-     "title": "Sri Lanka A vs Hong Kong and Bangladesh A vs Afghanistan A match predictions – Asia Cup Rising Stars 2026",
-     "url": "https://www.cricketworld.com/match-predictions-acc-mens-asia-cup-rising-stars-2026-5th-6th-match-sri-lanka-a-vs-hong-kong-bangladesh-a-vs-afghanistan-a-november-21st/114454.htm",
-     "source": "Cricket World"
-    },
-    {
-     "title": "Sri Lanka A vs Hong Kong LIVE Streaming: When And Where To Watch Rising Stars Asia Cup",
-     "url": "https://www.ndtvprofit.com/sports/sri-lanka-a-vs-hong-kong-live-streaming-when-and-where-to-watch-rising-stars-asia-cup-12356449",
-     "source": "NDTV Profit"
-    }
-   ]
-  },
-  {
    "kw": "광주공항",
    "traffic": "100+",
    "when": "11월 21일 17:10",
@@ -83,6 +117,23 @@
      "title": "전남광주, 광주공항 국내선 무안 이전 준비 나선다",
      "url": "https://theleader.mt.co.kr/articleView?no=2026112017307830216",
      "source": "머니투데이 더리더"
+    }
+   ]
+  },
+  {
+   "kw": "sri lanka a vs hong kong",
+   "traffic": "100+",
+   "when": "11월 21일 17:10",
+   "news": [
+    {
+     "title": "Sri Lanka A begin title bid against Afghanistan today",
+     "url": "https://dailynews.lk/2026/11/19/sports/1051826/sri-lanka-a-begin-title-bid-against-afghanistan-today/",
+     "source": "Ceylon Daily News"
+    },
+    {
+     "title": "Sri Lanka A Bats First Against Hong Kong China in Doha",
+     "url": "https://cwibc.co.id/en/sri-lanka-hong-kong-doha",
+     "source": "cwibc.co.id"
     }
    ]
   },
@@ -117,57 +168,6 @@
      "title": "은지원, 탈퇴 고지용·강성훈 생각났나..플투에 \"너희는 완전체 되기 쉽네\"",
      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MNSTMNLGG43GKNBUGVRDGYZYMY/",
      "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "종묘",
-   "traffic": "100+",
-   "when": "11월 21일 16:30",
-   "news": [
-    {
-     "title": "종묘 앞 ‘145m 아파트’ 못 짓는다...유산위, 유적 보존 방안 부결",
-     "url": "https://www.hani.co.kr/arti/culture/culture_general/1288428.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "종묘 앞 재개발, 내년 3월 착공 사실상 무산",
-     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/21/UCC22HIS5BG5XDAMM5FAVFUVCM/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "산불",
-   "traffic": "500+",
-   "when": "11월 21일 16:20",
-   "news": [
-    {
-     "title": "불길 속 머리만 겨우 보였다…산불 진화한 배우 김민의 아찔한 모습",
-     "url": "https://weekly.chosun.com/news/articleView.html?idxno=57337",
-     "source": "주간조선"
-    },
-    {
-     "title": "외투 타들어 가는데…촬영 간 김민, 몸 던져 '고성 대형 산불' 막았다",
-     "url": "https://www.news1.kr/society/general-society/6360933",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "삼성전자 tsmc 중국 반도체 출하 중단 및 국내 증시 영향 최신 뉴스 알려줘",
-   "traffic": "200+",
-   "when": "11월 21일 16:00",
-   "news": [
-    {
-     "title": "엔비디아 이어 AMD도 '중국 리스크'?...제재 기업에 기술 유출 의혹",
-     "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611201104357456",
-     "source": "YTN 사이언스"
-    },
-    {
-     "title": "AMD, 中 수출 규제 위반 의혹·AI 투자심리 악화에 주가 13%↓",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01226726645648016",
-     "source": "마켓인"
     }
    ]
   }
