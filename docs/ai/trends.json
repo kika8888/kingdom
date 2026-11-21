@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-21 08:23",
+ "updated": "2026-11-21 09:23",
  "items": [
   {
-   "kw": "nvda",
+   "kw": "추성훈",
    "traffic": "200+",
+   "when": "11월 21일 08:10",
+   "news": [
+    {
+     "title": "야노시호, ♥추성훈 패배에 죄책감까지…\"내 탓 아닌가, 우울했다\"",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/MMZDKNDCMY4GEZDGMYZDAZJZHA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "추성훈, 21일 고척돔서 은퇴전…격투기 국내 최다 2만1177석 매진",
+     "url": "https://www.newspim.com/news/view/20261120000925",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "베냐민 네타냐후",
+   "traffic": "100+",
+   "when": "11월 21일 08:00",
+   "news": [
+    {
+     "title": "\"한번 더 이란 공격\" 美 설득나선 네타냐후",
+     "url": "https://www.chosun.com/international/mideast-africa-latin/2026/11/21/EVQQJ6DDLNBHXF57ORXIRF6RHY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "트럼프 대통령, “이란이 합의 원하지만 수용 가능한 조건 아냐”",
+     "url": "https://www.voakorea.com/a/us-iran-/8226197.html",
+     "source": "VOA 한국어 홈페이지"
+    }
+   ]
+  },
+  {
+   "kw": "로보택시",
+   "traffic": "100+",
+   "when": "11월 21일 08:00",
+   "news": [
+    {
+     "title": "[Why&Next] 웨이모엔 차 공급, 모셔널엔 투자…현대차 '투트랙' 승부수",
+     "url": "https://www.asiae.co.kr/realtime/sokbo_viewNew.htm?idxno=2026111909131263385",
+     "source": "아시아경제"
+    },
+    {
+     "title": "모셔널, SAE 레벨 4 로보택시 상용 서비스 위한 안전 프레임워크 공개",
+     "url": "https://www.autoelectronics.co.kr/article/articleView.asp?idx=7208",
+     "source": "https://www.autoelectronics.co.kr/"
+    }
+   ]
+  },
+  {
+   "kw": "mu",
+   "traffic": "100+",
+   "when": "11월 21일 07:40",
+   "news": [
+    {
+     "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
+     "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734",
+     "source": "Barron's"
+    },
+    {
+     "title": "Micron Stock (MU) Crashes Over 11% to Historic Bargain Levels. Wall Street Still Sees 169% Upside.",
+     "url": "https://www.tipranks.com/news/micron-stock-mu-crashes-over-11-to-historic-bargain-levels-wall-street-still-sees-169-upside",
+     "source": "TipRanks"
+    }
+   ]
+  },
+  {
+   "kw": "경찰관",
+   "traffic": "200+",
+   "when": "11월 21일 07:20",
+   "news": [
+    {
+     "title": "서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611201235515564_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "수능날 '시계 문제' 겪은 수험생…경찰관도 서울대생도 손목시계 풀었다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01981126645647688&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "nvda",
+   "traffic": "500+",
    "when": "11월 21일 07:20",
    "news": [
     {
@@ -19,38 +104,10 @@
    ]
   },
   {
-   "kw": "경찰관",
-   "traffic": "100+",
-   "when": "11월 21일 07:20",
-   "news": [
-    {
-     "title": "서울대생도 경찰관도 \"내꺼 써\"...잇단 '수능 미담들' [나우쇼츠]",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611201235515564_005.html",
-     "source": "YTN"
-    },
-    {
-     "title": "\"엄마, 시계 멈췄어\" 당황한 삼수생...경찰이 '수백만원 시계' 건넸다[오따뉴] - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/20/2026112006293468961",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
    "kw": "한국항공우주산업",
    "traffic": "100+",
    "when": "11월 21일 07:20",
-   "news": [
-    {
-     "title": "[박성진의 국방 B컷](70) 무기 중개상은 왜 ‘KF-21, FA-50 미사일 전력화’의 잡음을 노리나",
-     "url": "https://weekly.khan.co.kr/article/202611201509001",
-     "source": "주간경향"
-    },
-    {
-     "title": "“한국항공우주, 10년전과 완전히 달라진 체급…엔진 공급이 병목”",
-     "url": "https://stock.mk.co.kr/news/view/1202951",
-     "source": "매일경제 마켓"
-    }
-   ]
+   "news": []
   },
   {
    "kw": "연예인",
@@ -58,14 +115,14 @@
    "when": "11월 21일 07:10",
    "news": [
     {
-     "title": "한고은♥신영수, 알고 보니 ‘무당♥스님’ 궁합…“자식 없는 사주”",
-     "url": "https://sports.khan.co.kr/article/202611201444003",
-     "source": "스포츠경향"
+     "title": "‘성폭행 유죄’ 강지환, 틱톡 복귀 시동 걸었지만…‘하루 만에’ 퇴출",
+     "url": "https://www.donga.com/news/Society/article/all/20261120/135063902/1",
+     "source": "동아일보"
     },
     {
-     "title": "'파묘' 자문 고춘자, 한고은에게 \"연예인 안 했으면 무속인 됐을 것\"",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6360587",
-     "source": "뉴스1"
+     "title": "'성폭행 유죄' 강지환도 고영욱처럼…틱톡 하루 만에 '삭제' 굴욕 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112020104015314",
+     "source": "머니투데이"
     }
    ]
   },
@@ -75,14 +132,14 @@
    "when": "11월 21일 07:10",
    "news": [
     {
-     "title": "[사설]거래 절벽 속 쌓이는 아파트 매물… 공급 적기 놓치지 말아야",
-     "url": "https://www.donga.com/news/Opinion/article/all/20261120/135063785/2",
-     "source": "동아일보"
+     "title": "\"오를 곳은 더 오른다\"…경기 남부 집값 고공행진 속 공급 급감",
+     "url": "https://www.fnnews.com/news/202611201430139857",
+     "source": "파이낸셜뉴스"
     },
     {
-     "title": "강남 넘어 한강벨트까지…‘서울 집값 정말 잡히나요’",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01252966645648016",
-     "source": "마켓인"
+     "title": "경기 남부 아파트값 고공행진…광교 22억 신고가에 서울 외곽 추월",
+     "url": "http://www.snakorea.com/news/articleView.html?idxno=1065174",
+     "source": "서울뉴스통신"
     }
    ]
   },
@@ -100,63 +157,6 @@
      "title": "나스닥 선물, 한때 26,280.5포인트로 밀려 4월 중순 이후 최저",
      "url": "https://www.tokenpost.kr/news/breaking/441375",
      "source": "토큰포스트"
-    }
-   ]
-  },
-  {
-   "kw": "공매도",
-   "traffic": "200+",
-   "when": "11월 21일 07:10",
-   "news": [
-    {
-     "title": "“주식 어디가 바닥인데요?” 외국인은 이미 탈출…이건 7.4조 샀다는데",
-     "url": "https://stock.mk.co.kr/news/view/1203507",
-     "source": "매일경제 마켓"
-    },
-    {
-     "title": "외국인, 지난달 우리나라 주식 26조 원 '팔자'‥두 달 연속 순매도",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6867106_36932.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "부고",
-   "traffic": "200+",
-   "when": "11월 21일 07:00",
-   "news": [
-    {
-     "title": "[부음] 심원보(금호건설 홍보IR팀 팀장)씨 부친상",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001551",
-     "source": "IT조선"
-    },
-    {
-     "title": "[부고] 심원보 금호건설 홍보IR팀 팀장 부친상",
-     "url": "https://www.etoday.co.kr/news/view/2651080",
-     "source": "이투데이"
-    }
-   ]
-  },
-  {
-   "kw": "대전광역시",
-   "traffic": "100+",
-   "when": "11월 21일 07:00",
-   "news": []
-  },
-  {
-   "kw": "al-ahli saudi fc vs al-nassr standings",
-   "traffic": "100+",
-   "when": "11월 21일 07:00",
-   "news": [
-    {
-     "title": "Cristiano Ronaldo scores and misses a penalty as he closes in on 1,000 career goals",
-     "url": "https://www.goal.com/en/news/cristiano-ronaldo-moves-within-14-of-1-000-career-goals-then-misses-a-penalty-and-loses-to-ibanez-and-demiral/bltb763f54c7f6edf52",
-     "source": "Goal.com"
-    },
-    {
-     "title": "Al-Ahli 3-1 Al-Nassr: Galeno shines as Ronaldo hits the post",
-     "url": "https://www.sofascore.com/news/al-ahli-3-1-al-nassr-galeno-shines-as-ronaldo-hits-the-post",
-     "source": "Sofascore"
     }
    ]
   }
