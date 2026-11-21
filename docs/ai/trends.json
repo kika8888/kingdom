@@ -1,6 +1,108 @@
 {
- "updated": "2026-11-21 14:23",
+ "updated": "2026-11-21 15:23",
  "items": [
+  {
+   "kw": "후티",
+   "traffic": "500+",
+   "when": "11월 21일 14:20",
+   "news": [
+    {
+     "title": "리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”",
+     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8717995",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "리야드 상공서 ‘쾅’ 폭발음…사우디 “후티 탄도미사일 3발 요격”",
+     "url": "https://www.donga.com/news/Inter/article/all/20261121/135064634/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "콜레라",
+   "traffic": "100+",
+   "when": "11월 21일 14:20",
+   "news": [
+    {
+     "title": "창원서 콜레라 환자 확인…10년 만에 ‘국내 발생 추정’",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718881",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "10년 만에 국내서 콜레라 환자 발생‥질병청 \"감염 경로 파악 중\"",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6867275_36918.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "농산물",
+   "traffic": "1000+",
+   "when": "11월 21일 14:10",
+   "news": [
+    {
+     "title": "국회 앞에 쌓인 배추·대파…농산물 가격 하락에 ‘울상’",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718768",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "칼바람 뚫고 국회 앞 모인 농민 1만명 “이대로는 못살겠다”",
+     "url": "https://vop.co.kr/A00001697695.html",
+     "source": "민중의소리"
+    }
+   ]
+  },
+  {
+   "kw": "유현 조",
+   "traffic": "200+",
+   "when": "11월 21일 14:00",
+   "news": [
+    {
+     "title": "유현조, LPGA 퀄리파잉 시리즈 2R 공동 6위…김민선은 공동 21위",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719082",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "유현조, LPGA Q시리즈 최종전 1R서 공동 8위…선두와 3타 차",
+     "url": "https://www.yna.co.kr/view/AKR20261120014800007",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "피겨스케이팅",
+   "traffic": "200+",
+   "when": "11월 21일 13:30",
+   "news": [
+    {
+     "title": "피겨 김서영, 개인 최고점으로 시니어 그랑프리 5차 쇼트 3위",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6867446_36946.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "피겨 김서영, 5차 그랑프리 쇼트 3위…김유성·이해인도 메달 도전",
+     "url": "https://www.donga.com/news/Sports/article/all/20261121/135064584/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "의성군",
+   "traffic": "100+",
+   "when": "11월 21일 13:20",
+   "news": [
+    {
+     "title": "지방소멸 위기 의성, 경북 첫 청년친화도시 됐다",
+     "url": "https://www.yna.co.kr/view/AKR20261120042100053",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "의성군, 국무조정실 주관 '2026년 청년친화도시' 선정…도내 최초 - 머니투데이",
+     "url": "https://www.mt.co.kr/policy/2026/11/20/2026112009040476615",
+     "source": "머니투데이"
+    }
+   ]
+  },
   {
    "kw": "전북 대 fc 서울",
    "traffic": "2000+",
@@ -19,18 +121,18 @@
    ]
   },
   {
-   "kw": "2026 mama - 오사카 (11/20)",
-   "traffic": "2000+",
+   "kw": "휴대 전화",
+   "traffic": "1000+",
    "when": "11월 21일 12:50",
    "news": [
     {
-     "title": "오사카 달군 '2026 마마 어워즈'…첫날 대상에 BTS·엔하이픈",
-     "url": "https://www.yna.co.kr/view/AKR20261120179200005",
-     "source": "연합뉴스"
+     "title": "이 대통령 \"국가시험 전면 개편\"‥범정부 TF",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867425_37012.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "시상의 아이콘 김혜수, MAMA에서도 빛나는 존재감 [O! STAR 숏폼]",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/20/GRRWIZJRMQ3TQZRVGU4DSY3EGY/",
+     "title": "이번 주말부터 주요 대학들 논술 실시... ‘AI 부정행위’ 대응 총력",
+     "url": "https://www.chosun.com/national/education/2026/11/21/C76MBS6ZWZBNZB4LM6C6SK7KNY/",
      "source": "조선일보"
     }
    ]
@@ -41,124 +143,22 @@
    "when": "11월 21일 12:50",
    "news": [
     {
-     "title": "[설왕설래] 보이저 1호",
-     "url": "https://www.segye.com/newsView/20261119515807",
-     "source": "세계일보"
+     "title": "[그래픽] 보이저 1호 '1광일' 거리 통과",
+     "url": "https://www.yna.co.kr/view/GYH20261117000600044",
+     "source": "연합뉴스"
     },
     {
-     "title": "광속 1일 거리…보이저 1호가 ‘픽’한 태양계 사진첩 [놀라운 우주]",
-     "url": "https://www.hani.co.kr/arti/science/science_general/1288424.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "탈선",
-   "traffic": "1000+",
-   "when": "11월 21일 12:40",
-   "news": [
-    {
-     "title": "경부선 탈선‥천안-대전 일반열차 운행 중단",
-     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6867458_36967.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "열차 탈선 여파…광주발 용산행 일반열차 운행 중단",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611211405475K7",
+     "title": "우주 심연에서 날아온 ’생존 신호’…보이저 1호 ’1광일 전파’ 수신",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120140419XEz",
      "source": "연합뉴스TV"
     }
    ]
   },
   {
-   "kw": "맥도날드",
-   "traffic": "200+",
-   "when": "11월 21일 12:40",
-   "news": [
-    {
-     "title": "존박이 랩으로 주문한 그 버거 어디 갔지?…맥도날드 ‘빅아치’ 사라진 이유",
-     "url": "https://m.ddaily.co.kr/page/view/2026112015561438469",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "맥플러리 랩 터진 존박·곽진언…비프리도 알아본 ‘커플 부츠’[누구템]",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01764646645648016&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "전현무",
-   "traffic": "200+",
-   "when": "11월 21일 12:40",
-   "news": [
-    {
-     "title": "'공개 연애 두 번' 전현무 \"밤바다 데이트…배가 끊겼다 하기도\"",
-     "url": "https://www.newsis.com/view/NISX20261120_0003877494",
-     "source": "뉴시스"
-    },
-    {
-     "title": "이주연 \"매니저가 화장실까지 쫓아와\"...'이것' 감시 폭로 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014004899150",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "빅터 레이예스",
-   "traffic": "5000+",
-   "when": "11월 21일 12:30",
-   "news": [
-    {
-     "title": "롯데 초비상! 211안타 괴물 타자 레이예스, 일본에 빼앗기나...NPB 이적 가능성 제기",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/21/MU3DGNRTMMYGIZBRGBRTKMJYGM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "퍼즐 맞춘 키움·스텝 꼬인 한화… 외인시장 ‘요동’",
-     "url": "https://www.segye.com/newsView/20261119515089",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "이현중",
-   "traffic": "500+",
-   "when": "11월 21일 12:00",
-   "news": [
-    {
-     "title": "'하승진 이후 22년 만에 NBA 무대 밟을까' 이현중의 미친 상승세...20점 11리바운드, G리그 첫 더블더블 폭발 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/21/202611211303779841O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "‘4쿼터에만 3점 5방’ 이현중, 25득점 G리그 개인 최다득점",
-     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8713824",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "kt",
-   "traffic": "200+",
-   "when": "11월 21일 12:00",
+   "kw": "양산신문",
+   "traffic": "100+",
+   "when": "11월 21일 12:50",
    "news": []
-  },
-  {
-   "kw": "퇴직금",
-   "traffic": "5000+",
-   "when": "11월 21일 11:50",
-   "news": [
-    {
-     "title": "직원 임금·퇴직금 21억원 체불 시리우스항공 대표 징역 2년",
-     "url": "https://www.yna.co.kr/view/AKR20261120043600051",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "임금·퇴직금 21억 체불한 시리우스항공 대표 실형",
-     "url": "https://www.newsis.com/view/NISX20261120_0003876904",
-     "source": "뉴시스"
-    }
-   ]
   }
  ]
 }
