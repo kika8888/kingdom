@@ -1,6 +1,91 @@
 {
- "updated": "2026-11-21 10:24",
+ "updated": "2026-11-21 11:23",
  "items": [
+  {
+   "kw": "편의점",
+   "traffic": "200+",
+   "when": "11월 21일 10:10",
+   "news": [
+    {
+     "title": "CU, 딘토와 '위니 더 푸' 색조 화장품 출시…책갈피 굿즈 동봉",
+     "url": "https://www.yna.co.kr/view/AKR20261119024400030",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "화장품 사면 곰돌이 푸 책갈피가…CU, 딘토와 색조 화장품 선봬",
+     "url": "https://zdnet.co.kr/view/?no=20261119134658",
+     "source": "지디넷코리아"
+    }
+   ]
+  },
+  {
+   "kw": "nh농협카드",
+   "traffic": "100+",
+   "when": "11월 21일 10:10",
+   "news": [
+    {
+     "title": "“뛰어난 활약으로 브랜드 가치 높였다” NH농협카드 당구단, 농협금융스포츠단 납회식서 높은 평가",
+     "url": "https://mkbn.mk.co.kr/news/sports/12215015",
+     "source": "mkbn.mk.co.kr"
+    },
+    {
+     "title": "NH농협금융, '2026 스포츠단 납회식' 개최…선수단 격려",
+     "url": "https://www.newspim.com/news/view/20261118001359",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
+   "kw": "매일경제",
+   "traffic": "100+",
+   "when": "11월 21일 10:10",
+   "news": [
+    {
+     "title": "국방홍보원, 매일경제와 국방·안보 콘텐츠 발굴 위한 MOU 체결",
+     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6360931",
+     "source": "뉴스1"
+    },
+    {
+     "title": "국방홍보원·매일경제 손잡았다…국방·안보 콘텐츠 협력 강화",
+     "url": "https://www.mk.co.kr/news/politics/12214688",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "두산베어스",
+   "traffic": "200+",
+   "when": "11월 21일 09:50",
+   "news": [
+    {
+     "title": "돈 못지않은 ‘진정성’… 프로야구 FA전쟁[소소한 복도통신]",
+     "url": "https://www.munhwa.com/article/11632753",
+     "source": "문화일보"
+    },
+    {
+     "title": "두산·SSG도 원한다구? 사연 좀 들어볼까",
+     "url": "https://sports.khan.co.kr/article/202611200600016",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "전북특별자치도",
+   "traffic": "100+",
+   "when": "11월 21일 09:20",
+   "news": [
+    {
+     "title": "전북도, 서해안과 내륙 잇는 도로망 53㎞ 정비 '속도'",
+     "url": "https://www.yna.co.kr/view/AKR20261120061500055",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "전북자치도, 서해안·내륙 도로망 53㎞ 정비 속도…군산·고창·정읍 12월 준공 목표",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=355158",
+     "source": "녹색경제신문"
+    }
+   ]
+  },
   {
    "kw": "패딩",
    "traffic": "10000+",
@@ -20,24 +105,41 @@
   },
   {
    "kw": "동아일보",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 21일 09:10",
    "news": []
   },
   {
    "kw": "lpga",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 21일 09:00",
    "news": [
     {
-     "title": "Kim A-lim Ties for Lead on First Day of LPGA Season Finale Tour Championship",
-     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008855007",
+     "title": "Kim A-lim Hits Hole-in-One in LPGA Season Finale Round 2, Retains 3-Stroke Lead",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008856792",
      "source": "news.sbs.co.kr"
     },
     {
      "title": "Kim Arim Fires a 7-Under... 'Going for the Season Finale Win~'",
      "url": "https://www.asiae.co.kr/en/article/2026112008090075847",
      "source": "아시아경제"
+    }
+   ]
+  },
+  {
+   "kw": "지스타",
+   "traffic": "1000+",
+   "when": "11월 21일 09:00",
+   "news": [
+    {
+     "title": "[게임위드인] AI로 외연 확장 노린 지스타…관람객은 게임에 몰렸다",
+     "url": "https://www.yna.co.kr/view/AKR20261120169900017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'지스타 2026' 첫 주말, 벡스코에 관람객 북적…게임 축제 열기 고조",
+     "url": "https://zdnet.co.kr/view/?no=20261121102326",
+     "source": "지디넷코리아"
     }
    ]
   },
@@ -55,108 +157,6 @@
      "title": "감독관 없는 ‘명예시험’서 스마트폰 부정행위…공사 3학년 생도 퇴교",
      "url": "https://www.kyeonggi.com/article/20261120580310",
      "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "지스타",
-   "traffic": "500+",
-   "when": "11월 21일 09:00",
-   "news": [
-    {
-     "title": "[해보니] 눈앞에 펼쳐진 거대한 전쟁…'토탈 워: 워해머 40,000'",
-     "url": "https://www.yna.co.kr/view/AKR20261120133000017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'지스타 2026'으로 보는 게임산업 변화는?",
-     "url": "https://stock.mk.co.kr/news/view/1203323",
-     "source": "매일경제 마켓"
-    }
-   ]
-  },
-  {
-   "kw": "ราคาทองวันนี้",
-   "traffic": "200+",
-   "when": "11월 21일 09:00",
-   "news": [
-    {
-     "title": "ทองคำปี 69 โหดจัด! จากยอดดอยสู่ก้นเหว มูลค่าหาย 30.8% . อ่านเพิ่มเติม คลิก https://thunhoon.com/gold-in-69-absolutely-brutal-211126 . #thunhoon #ทองคำ #สมาคมค้าทองคำ",
-     "url": "https://www.facebook.com/thunhoonnews/posts/%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%9B%E0%B8%B5-69-%E0%B9%82%E0%B8%AB%E0%B8%94%E0%B8%88%E0%B8%B1%E0%B8%94-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A7-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A2-308%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1-%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%81-thunhoon-%E0%B8%97%E0%B8%AD/122222007086766798/",
-     "source": "Facebook"
-    },
-    {
-     "title": "อัลบั้มภาพ ทองลงเพราะอะไร 7 สาเหตุราคาทองร่วง ทองจะขึ้นอีกไหม (6 ภาพ)",
-     "url": "https://money.kapook.com/gallery/500114",
-     "source": "kapook.com"
-    }
-   ]
-  },
-  {
-   "kw": "브루노 마스",
-   "traffic": "200+",
-   "when": "11월 21일 08:40",
-   "news": [
-    {
-     "title": "Bruno Mars remembers his late father and the musical lessons he passed down",
-     "url": "https://abcnews.com/GMA/Culture/bruno-mars-remembers-late-father-musical-lessons-passed/story?id=138303867",
-     "source": "ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-     "title": "Bruno Mars is grieving the death of his dad: ‘I Love you, Pops’",
-     "url": "https://www.latimes.com/entertainment-arts/story/2026-11-19/bruno-mars-is-grieving-death-of-his-dad-i-love-you-pops",
-     "source": "Los Angeles Times"
-    }
-   ]
-  },
-  {
-   "kw": "공인회계사",
-   "traffic": "200+",
-   "when": "11월 21일 08:40",
-   "news": [
-    {
-     "title": "“14살이 회계사 시험 합격?”…日서 나온 놀라운 기록",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04487046645647688",
-     "source": "마켓인"
-    },
-    {
-     "title": "14세에 일본 공인회계사 시험 합격…역대 최연소 기록 경신",
-     "url": "https://www.news1.kr/world/northeast-asia/6361423",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "안양시",
-   "traffic": "100+",
-   "when": "11월 21일 08:40",
-   "news": [
-    {
-     "title": "남양주시, 내년도 예산안 2조5천868억 편성…10.3%↑",
-     "url": "https://www.yna.co.kr/view/AKR20261120123600060",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "최대호 안양시장, 2027년 시정운영방향 발표…‘안양의 완성’ 향한 본격 도약",
-     "url": "https://www.kyeonggi.com/article/20261120580236",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "반도체",
-   "traffic": "5000+",
-   "when": "11월 21일 08:30",
-   "news": [
-    {
-     "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
-     "url": "https://www.yna.co.kr/view/AKR20261120164900003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "4년 만에 대중 무역흑자라더니…반도체 빼면 415억 달러 ‘적자’",
-     "url": "https://www.sedaily.com/article/20117193",
-     "source": "서울경제"
     }
    ]
   }
