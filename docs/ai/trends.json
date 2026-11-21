@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-21 10:23",
+ "updated": "2026-11-21 10:24",
  "items": [
   {
    "kw": "패딩",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 21일 09:10",
    "news": [
     {
@@ -93,23 +93,6 @@
    ]
   },
   {
-   "kw": "공인회계사",
-   "traffic": "200+",
-   "when": "11월 21일 08:40",
-   "news": [
-    {
-     "title": "“14살이 회계사 시험 합격?”…日서 나온 놀라운 기록",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04487046645647688",
-     "source": "마켓인"
-    },
-    {
-     "title": "14세에 일본 공인회계사 시험 합격…역대 최연소 기록 경신",
-     "url": "https://www.news1.kr/world/northeast-asia/6361423",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
    "kw": "브루노 마스",
    "traffic": "200+",
    "when": "11월 21일 08:40",
@@ -123,6 +106,23 @@
      "title": "Bruno Mars is grieving the death of his dad: ‘I Love you, Pops’",
      "url": "https://www.latimes.com/entertainment-arts/story/2026-11-19/bruno-mars-is-grieving-death-of-his-dad-i-love-you-pops",
      "source": "Los Angeles Times"
+    }
+   ]
+  },
+  {
+   "kw": "공인회계사",
+   "traffic": "200+",
+   "when": "11월 21일 08:40",
+   "news": [
+    {
+     "title": "“14살이 회계사 시험 합격?”…日서 나온 놀라운 기록",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04487046645647688",
+     "source": "마켓인"
+    },
+    {
+     "title": "14세에 일본 공인회계사 시험 합격…역대 최연소 기록 경신",
+     "url": "https://www.news1.kr/world/northeast-asia/6361423",
+     "source": "뉴스1"
     }
    ]
   },
