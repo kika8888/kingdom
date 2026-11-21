@@ -1,11 +1,96 @@
 {
- "updated": "2026-11-21 16:23",
+ "updated": "2026-11-21 17:23",
  "items": [
   {
+   "kw": "산불",
+   "traffic": "200+",
+   "when": "11월 21일 16:20",
+   "news": [
+    {
+     "title": "‘동두천 자연인’ 김민, 산불 초기 진화…외투 타는 와중에 큰불 막았다",
+     "url": "https://www.munhwa.com/article/11632986",
+     "source": "문화일보"
+    },
+    {
+     "title": "불길 속 머리만 겨우 보였다…산불 진화한 배우 김민의 아찔한 모습",
+     "url": "https://weekly.chosun.com/news/articleView.html?idxno=57337",
+     "source": "주간조선"
+    }
+   ]
+  },
+  {
+   "kw": "전북 현대 대 fc 서울 순위",
+   "traffic": "5000+",
+   "when": "11월 21일 16:10",
+   "news": [
+    {
+     "title": "K리그1 우승팀 서울, 전북 꺾고 4경기 무승 탈출…안데르손 골",
+     "url": "https://www.yna.co.kr/view/AKR20261121040700007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "\"두 개 다 잡을 수는 없지만, 승점 3점이 목표\" 김기동 감독, 아시아 무대에 무게...우승 확정한 서울의 남은 시즌 운영 계획 [현장 인터뷰] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/21/202611211305774612O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "삼성전자 tsmc 중국 반도체 출하 중단 및 국내 증시 영향 최신 뉴스 알려줘",
+   "traffic": "200+",
+   "when": "11월 21일 16:00",
+   "news": [
+    {
+     "title": "엔비디아 이어 AMD도 '중국 리스크'?...제재 기업에 기술 유출 의혹",
+     "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&key=202611201104357456",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "AMD, 中 수출 규제 위반 의혹·AI 투자심리 악화에 주가 13%↓",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01226726645648016",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "리야드",
+   "traffic": "2000+",
+   "when": "11월 21일 15:20",
+   "news": [
+    {
+     "title": "리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”",
+     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8717995",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"",
+     "url": "https://www.yna.co.kr/view/AKR20261121001800079",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
    "kw": "부산 대 충북청주",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 21일 15:10",
    "news": []
+  },
+  {
+   "kw": "김연정",
+   "traffic": "200+",
+   "when": "11월 21일 15:00",
+   "news": [
+    {
+     "title": "실바 22득점 맹활약…GS칼텍스, 3연승 질주하며 단독 선두",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717851",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "“선수로서 속상하지만, 팀은 잘되고 있으니까” 주장 유서연은 팀을 먼저 생각했다 [현장인터뷰]",
+     "url": "https://www.mk.co.kr/news/sports/12214552",
+     "source": "매일경제"
+    }
+   ]
   },
   {
    "kw": "주거",
@@ -21,23 +106,6 @@
      "title": "인천 미추홀구 주거복지센터 맞춤형 임대주택 안내 교육 실시",
      "url": "https://kpenews.com/View.aspx?No=4323052",
      "source": "한국정경신문"
-    }
-   ]
-  },
-  {
-   "kw": "김연정",
-   "traffic": "100+",
-   "when": "11월 21일 15:00",
-   "news": [
-    {
-     "title": "실바 22득점 맹활약…GS칼텍스, 3연승 질주하며 단독 선두",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717851",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "“선수로서 속상하지만, 팀은 잘되고 있으니까” 주장 유서연은 팀을 먼저 생각했다 [현장인터뷰]",
-     "url": "https://www.mk.co.kr/news/sports/12214552",
-     "source": "매일경제"
     }
    ]
   },
@@ -60,7 +128,7 @@
   },
   {
    "kw": "카타르 축구 국가대표팀",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 21일 14:40",
    "news": [
     {
@@ -89,74 +157,6 @@
      "title": "이정효 감독 “수원 삼성답게 홈 팬 앞에서 우승으로 승격할 것”",
      "url": "https://www.kyeonggi.com/article/20261121580058",
      "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "마피아42",
-   "traffic": "2000+",
-   "when": "11월 21일 14:30",
-   "news": [
-    {
-     "title": "초겨울 추위에도 밤샘 대기…게임 열기 뜨거운 지스타 2026",
-     "url": "https://www.yna.co.kr/view/AKR20261121029700017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "개장 직후 최대 4시간 대기…웹젠 ‘디펜폭’에 주말 지스타 관람객 몰려",
-     "url": "https://zdnet.co.kr/view/?no=20261121130015",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "후티",
-   "traffic": "1000+",
-   "when": "11월 21일 14:20",
-   "news": [
-    {
-     "title": "리야드 80층 빌딩, 후티 미사일에 파손…네타냐후 “시기 조율만 남아”",
-     "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8717995",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "사우디 연합군 \"홍해 후티 반군 '무기 밀수 근거지' 타격\"",
-     "url": "https://www.yna.co.kr/view/AKR20261121001800079",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "컬리",
-   "traffic": "100+",
-   "when": "11월 21일 14:20",
-   "news": [
-    {
-     "title": "컬리 \"큐레이터 1만699명 개인정보 유출‥일부 주민번호 포함\"",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6867349_36932.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "컬리서 1만여명 개인정보 유출…최대 15만원 적립금 보상키로(종합2보)",
-     "url": "https://www.yna.co.kr/view/AKR20261120157052030",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "콜레라",
-   "traffic": "100+",
-   "when": "11월 21일 14:20",
-   "news": [
-    {
-     "title": "창원서 콜레라 환자 확인…10년 만에 ‘국내 발생 추정’",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718881",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "10년 만에 국내서 콜레라 환자 발생‥질병청 \"감염 경로 파악 중\"",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6867275_36918.html",
-     "source": "MBC 뉴스"
     }
    ]
   }
