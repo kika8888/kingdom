@@ -1,20 +1,139 @@
 {
- "updated": "2026-11-21 13:22",
+ "updated": "2026-11-21 14:23",
  "items": [
   {
-   "kw": "이현중",
+   "kw": "전북 대 fc 서울",
+   "traffic": "2000+",
+   "when": "11월 21일 13:10",
+   "news": [
+    {
+     "title": "\"두 개 다 잡을 수는 없지만, 승점 3점이 목표\" 김기동 감독, 아시아 무대에 무게...우승 확정한 서울의 남은 시즌 운영 계획 [현장 인터뷰] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/21/202611211305774612O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "아시아 무대 절실한 전북 vs 챔피언 체면 걸린 서울...선발 라인업 공개 [오!쎈 전주]",
+     "url": "https://www.chosun.com/sports/football/2026/11/21/HA4GINRWGM4WKOBSGM3GCZTGHA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "2026 mama - 오사카 (11/20)",
+   "traffic": "2000+",
+   "when": "11월 21일 12:50",
+   "news": [
+    {
+     "title": "오사카 달군 '2026 마마 어워즈'…첫날 대상에 BTS·엔하이픈",
+     "url": "https://www.yna.co.kr/view/AKR20261120179200005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "시상의 아이콘 김혜수, MAMA에서도 빛나는 존재감 [O! STAR 숏폼]",
+     "url": "https://www.chosun.com/entertainments/music/2026/11/20/GRRWIZJRMQ3TQZRVGU4DSY3EGY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "보이저 1호",
    "traffic": "200+",
+   "when": "11월 21일 12:50",
+   "news": [
+    {
+     "title": "[설왕설래] 보이저 1호",
+     "url": "https://www.segye.com/newsView/20261119515807",
+     "source": "세계일보"
+    },
+    {
+     "title": "광속 1일 거리…보이저 1호가 ‘픽’한 태양계 사진첩 [놀라운 우주]",
+     "url": "https://www.hani.co.kr/arti/science/science_general/1288424.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "kw": "탈선",
+   "traffic": "1000+",
+   "when": "11월 21일 12:40",
+   "news": [
+    {
+     "title": "경부선 탈선‥천안-대전 일반열차 운행 중단",
+     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6867458_36967.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "열차 탈선 여파…광주발 용산행 일반열차 운행 중단",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611211405475K7",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "맥도날드",
+   "traffic": "200+",
+   "when": "11월 21일 12:40",
+   "news": [
+    {
+     "title": "존박이 랩으로 주문한 그 버거 어디 갔지?…맥도날드 ‘빅아치’ 사라진 이유",
+     "url": "https://m.ddaily.co.kr/page/view/2026112015561438469",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "맥플러리 랩 터진 존박·곽진언…비프리도 알아본 ‘커플 부츠’[누구템]",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01764646645648016&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "전현무",
+   "traffic": "200+",
+   "when": "11월 21일 12:40",
+   "news": [
+    {
+     "title": "'공개 연애 두 번' 전현무 \"밤바다 데이트…배가 끊겼다 하기도\"",
+     "url": "https://www.newsis.com/view/NISX20261120_0003877494",
+     "source": "뉴시스"
+    },
+    {
+     "title": "이주연 \"매니저가 화장실까지 쫓아와\"...'이것' 감시 폭로 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/20/2026112014004899150",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "빅터 레이예스",
+   "traffic": "5000+",
+   "when": "11월 21일 12:30",
+   "news": [
+    {
+     "title": "롯데 초비상! 211안타 괴물 타자 레이예스, 일본에 빼앗기나...NPB 이적 가능성 제기",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/21/MU3DGNRTMMYGIZBRGBRTKMJYGM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "퍼즐 맞춘 키움·스텝 꼬인 한화… 외인시장 ‘요동’",
+     "url": "https://www.segye.com/newsView/20261119515089",
+     "source": "세계일보"
+    }
+   ]
+  },
+  {
+   "kw": "이현중",
+   "traffic": "500+",
    "when": "11월 21일 12:00",
    "news": [
+    {
+     "title": "'하승진 이후 22년 만에 NBA 무대 밟을까' 이현중의 미친 상승세...20점 11리바운드, G리그 첫 더블더블 폭발 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/21/202611211303779841O",
+     "source": "머니투데이"
+    },
     {
      "title": "‘4쿼터에만 3점 5방’ 이현중, 25득점 G리그 개인 최다득점",
      "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8713824",
      "source": "KBS 뉴스"
-    },
-    {
-     "title": "\"이현중, 왜 고액 연봉 포기하나\" 물었더니→확신에 찬 답변 \"허황된 꿈 아니다\"... 中 팬들도 \"기회 있다, 응원한다\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/18/2026111811551866841",
-     "source": "머니투데이"
     }
    ]
   },
@@ -26,7 +145,7 @@
   },
   {
    "kw": "퇴직금",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 21일 11:50",
    "news": [
     {
@@ -38,125 +157,6 @@
      "title": "임금·퇴직금 21억 체불한 시리우스항공 대표 실형",
      "url": "https://www.newsis.com/view/NISX20261120_0003876904",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "대통령",
-   "traffic": "1000+",
-   "when": "11월 21일 11:50",
-   "news": [
-    {
-     "title": "트럼프, 김정은 언급 없이 “미중러, 한반도 위험 맞서는 문제 논의”",
-     "url": "https://www.hani.co.kr/arti/international/america/1288418.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "트럼프, 순방 뒤 기자회견…\"시진핑·푸틴과 한반도 논의\"",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856889",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "구자욱",
-   "traffic": "2000+",
-   "when": "11월 21일 11:50",
-   "news": [
-    {
-     "title": "'충격 200억' 야구 재벌 눈앞인데, 찬밥 대우 미국으로? 이대호 사례로, 구자욱 미래도 보인다",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/20/ME3TSMBQGU3TMMJVGRSGIODFGY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "빅리그 노리는 구자욱…MLB 사무국, 신분 조회 요청",
-     "url": "https://www.yna.co.kr/view/AKR20261120144000007",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "catl",
-   "traffic": "200+",
-   "when": "11월 21일 11:50",
-   "news": [
-    {
-     "title": "POSCO Group Signs Long-Term Lithium Supply Deal with CATL",
-     "url": "https://dbr.donga.com/kfocus/view/en/article_no/3965",
-     "source": "동아비즈니스리뷰"
-    },
-    {
-     "title": "POSCO Group signs lithium supply deal with China's CATL through 2028",
-     "url": "https://biz.chosun.com/en/en-industry/2026/11/18/MCEZ7PPJ7FDULBNLQNNY3CGDS4/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "김혜성",
-   "traffic": "1000+",
-   "when": "11월 21일 11:40",
-   "news": [
-    {
-     "title": "\"내가 다저스 가지 말랬잖아\" 강정호 만류에도 LA행 택한 김혜성, 에이전트 추천까지 뿌리친 이유",
-     "url": "https://www.chosun.com/sports/world-baseball/2026/11/21/GM3GCYRUHEYDENBZMQ2WEYZQGI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "MLB 다저스, 내야수 로이스 트레이드 영입…김혜성 비상",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719102",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "마이크론 테크놀로지",
-   "traffic": "500+",
-   "when": "11월 21일 11:30",
-   "news": [
-    {
-     "title": "마이크론테크놀로지, AI 투자 우려에 7거래일 연속 하락…주가 14%↓",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01230006645648016",
-     "source": "마켓인"
-    },
-    {
-     "title": "마이크론 메모리반도체 불황 대비해 '방어 전략' 집중, 삼성전자 SK하이닉스와 새 경쟁 국면",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452393",
-     "source": "비즈니스포스트"
-    }
-   ]
-  },
-  {
-   "kw": "전소미",
-   "traffic": "200+",
-   "when": "11월 21일 11:30",
-   "news": [
-    {
-     "title": "전소미, 아이오아이 무대서 혼자 검은 옷 입은 이유 \"오히려 안 튀려고\"",
-     "url": "https://www.newsis.com/view/NISX20261120_0003877021",
-     "source": "뉴시스"
-    },
-    {
-     "title": "전소미, 아이오아이 의상 차별 논란에 입 열었다 \"내가 튀려고 했다고?\"[Oh!쎈 이슈]",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/20/HA3DCMZTHAYTSZBYGFSDCNZRGE/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "알테오젠",
-   "traffic": "200+",
-   "when": "11월 21일 11:10",
-   "news": [
-    {
-     "title": "알테오젠, 전환가액 15% 낮춰…잠재 매물 9만주 증가 By EBN",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2184781",
-     "source": "Investing.com 한국어"
-    },
-    {
-     "title": "“알테오젠, 올해 영업익 3050억 전망…美 약가 인하 영향은 변수” [Why 바이오]",
-     "url": "https://www.sedaily.com/article/20116245",
-     "source": "서울경제"
     }
    ]
   }
