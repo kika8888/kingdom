@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-23 00:23",
+ "updated": "2026-11-23 01:23",
  "items": [
   {
-   "kw": "백종헌",
+   "kw": "u17 월드컵",
    "traffic": "100+",
+   "when": "11월 23일 00:20",
+   "news": [
+    {
+     "title": "국왕은 뉴질랜드 U-17과의 경기 전에 크리스티아누 롤랑 감독으로부터 받은 특별한 조언을 공개했습니다.",
+     "url": "https://www.vietnam.vn/ko/quy-vuong-he-lo-loi-dan-dac-biet-cua-hlv-cristiano-roland-truoc-tran-gap-u-17-new-zealand",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "2026 U17 월드컵 U17 베트남 대 U17 뉴질랜드 축구 경기 일정",
+     "url": "https://ko.laodong.vn/lich-thi-dau/lich-thi-dau-bong-da-u17-viet-nam-vs-u17-new-zealand-tai-giai-u17-world-cup-2026-1804795.ldo",
+     "source": "Laodong.vn"
+    }
+   ]
+  },
+  {
+   "kw": "la liga",
+   "traffic": "500+",
+   "when": "11월 22일 23:50",
+   "news": [
+    {
+     "title": "Barcelona vs Villarreal Confirmed Lineups",
+     "url": "https://www.whoscored.com/news/UYwB3kUYiU2gZN87H5q8SA/show/cng112-20261122-barcelona-vs-villarreal-confirmed-lineup-1795348094",
+     "source": "WhoScored.com"
+    },
+    {
+     "title": "Mbappé curse strikes Yamal: disastrous historic record as Raphinha pays the price",
+     "url": "https://www.goal.com/en/news/mbappe-curse-strikes-yamal-disastrous-historic-record-as-raphinha-pays-the-price/blt049a22c7245535b3",
+     "source": "Goal.com"
+    }
+   ]
+  },
+  {
+   "kw": "브라이튼",
+   "traffic": "100+",
+   "when": "11월 22일 23:30",
+   "news": [
+    {
+     "title": "헐 시티 vs 브라이튼 경기 프리뷰 및 예측: 브라이튼은 여전히 ​​높이 비상한다",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-du-doan-tran-dau-hull-city-vs-brighton-bay-chim-tiep-tuc-bay-cao",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "헐 시티 vs 브라이튼 경기 예측: 홈팀이 승리 행진을 재개하려 할 것입니다.",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-hull-city-vs-brighton-chu-nha-tim-lai-chien-thang",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "백종헌",
+   "traffic": "200+",
    "when": "11월 22일 23:10",
    "news": [
     {
@@ -24,14 +75,14 @@
    "when": "11월 22일 22:50",
    "news": [
     {
-     "title": "Augsburg vs Mainz 05: German Bundesliga stats & head-to-head",
-     "url": "https://www.bbc.com/sport/football/live/cwkgmrrdpzzmt",
-     "source": "BBC"
+     "title": "Louisville vs. Seattle U (Nov 22, 2026) Live Score",
+     "url": "https://www.espn.com/womens-college-basketball/game/_/gameId/401929635/louisville-seattle-u",
+     "source": "ESPN"
     },
     {
-     "title": "Augsburg vs Mainz: Lineups, Prediction, Odds & Bet Builder Tip",
-     "url": "https://www.whoscored.com/articles/76EV5VgUbEabgIS_hOmiqA/show/cng111-20261122-augsburg-vs-mainz-prediction-1795329263",
-     "source": "WhoScored.com"
+     "title": "Picked! Darrell Sweeting hauls in the interception",
+     "url": "https://www.espn.com/video/clip/_/id/50557603/picked-darrell-sweeting-hauls-interception",
+     "source": "ESPN"
     }
    ]
   },
@@ -53,6 +104,12 @@
    ]
   },
   {
+   "kw": "조정석",
+   "traffic": "100+",
+   "when": "11월 22일 22:40",
+   "news": []
+  },
+  {
    "kw": "총파업",
    "traffic": "200+",
    "when": "11월 22일 22:40",
@@ -63,15 +120,15 @@
      "source": "연합뉴스"
     },
     {
-     "title": "철도노조, 26일부터 준법투쟁...지하철 노사는 최종교섭",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611222301041147",
-     "source": "YTN"
+     "title": "서울 지하철에 KTX까지…준법투쟁에 '무기한 총파업' 엄포 - 머니투데이",
+     "url": "https://www.mt.co.kr/policy/2026/11/22/2026112209541850230",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "지드래곤",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 22일 22:30",
    "news": [
     {
@@ -90,86 +147,7 @@
    "kw": "persib bandung vs bali united",
    "traffic": "100+",
    "when": "11월 22일 22:30",
-   "news": [
-    {
-     "title": "Latest Super League Standings After Persib Beats Bali United: Maung Bandung Enters Top 4, Persija Threatened!",
-     "url": "https://aktualita.co/en/sports/persib-bandung-super-league-standings-update",
-     "source": "Aktualita.co"
-    },
-    {
-     "title": "Predicted Lineups for Persib vs Bali United Tonight: Thom Haye and Marc Klok in the Spotlight, Who Starts at GBLA?",
-     "url": "https://aktualita.co/en/sports/persib-vs-bali-united-lineup-prediction",
-     "source": "Aktualita.co"
-    }
-   ]
-  },
-  {
-   "kw": "barcelona đấu với villarreal",
-   "traffic": "200+",
-   "when": "11월 22일 22:10",
-   "news": [
-    {
-     "title": "Trực tiếp bóng đá Barcelona - Villarreal: Yamal đá chính, Gordon dự bị (La Liga)",
-     "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-barcelona-villarreal-diem-tua-san-nha-la-liga-c48a1813129.html",
-     "source": "Tin tức 24h"
-    },
-    {
-     "title": "סיכום משחק: ברצלונה נגד ויאריאל, 20:00, 22 בנובמבר: שמירה על מקומם בפסגה.",
-     "url": "https://www.vietnam.vn/he/nhan-dinh-tran-dau-barcelona-vs-villarreal-20h00-ngay-22-11-vung-vang-giu-ngoi-dau",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "барселона – вильярреал",
-   "traffic": "200+",
-   "when": "11월 22일 22:10",
-   "news": [
-    {
-     "title": "«Барселона» — «Вильярреал»: где смотреть прямую трансляцию матча 13‑го тура Ла Лиги 22 ноября",
-     "url": "https://matchtv.ru/football/matchtvnews_NI2388225_Barselona__Viljarreal_gde_smotret_pramuju_translaciju_matcha_13go_tura_La_Ligi_22_nojabra",
-     "source": "Матч ТВ"
-    },
-    {
-     "title": "Барселона – Вильярреал. Смотреть онлайн LIVE прямую видеотрансляцию матча Ла Лиги",
-     "url": "https://www.ua-football.com/foreign/spain/1795339208-barselona-vilyarreal-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-la-ligi.html",
-     "source": "UA-Football"
-    }
-   ]
-  },
-  {
-   "kw": "pakistan a vs india a",
-   "traffic": "100+",
-   "when": "11월 22일 22:10",
-   "news": [
-    {
-     "title": "INDA vs PAKA, 8th Match, Group B, ACC Men's Asia Cup Rising Stars 2026 - Commentary",
-     "url": "https://www.cricbuzz.com/live-cricket-scores/177178/inda-vs-paka-8th-match-group-b-acc-mens-asia-cup-rising-stars-2026",
-     "source": "Cricbuzz"
-    },
-    {
-     "title": "IND vs PAK Asia Cup Rising Stars toss 'cheating' controversy: Abdul Samad questions match referee's call as Tilak Varma watches",
-     "url": "https://sports.yahoo.com/articles/ind-vs-pak-asia-cup-103413698.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "kw": "김승수",
-   "traffic": "200+",
-   "when": "11월 22일 22:10",
-   "news": [
-    {
-     "title": "미운 우리 새끼 : [선공개] 김승수, 박혜연과 함께 기적 같은 혼성 듀엣 노래 부르기 성공",
-     "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483923190",
-     "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "김승수♥박혜연, 거침없는 쌍방 플러팅…핑크빛 기류 물씬",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6362165",
-     "source": "뉴스1"
-    }
-   ]
+   "news": []
   }
  ]
 }
