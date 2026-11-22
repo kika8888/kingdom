@@ -1,9 +1,100 @@
 {
- "updated": "2026-11-22 11:23",
+ "updated": "2026-11-22 12:03",
  "items": [
   {
-   "kw": "오현규",
+   "kw": "재산",
+   "traffic": "1000+",
+   "when": "11월 22일 11:00",
+   "news": []
+  },
+  {
+   "kw": "플라이 투 더 스카이",
+   "traffic": "1000+",
+   "when": "11월 22일 10:50",
+   "news": [
+    {
+     "title": "플라이 투 더 스카이, 오늘(21일) 오랜 공백 깨고 완전체 컴백",
+     "url": "https://m.imbc.com/enews/view/525574",
+     "source": "MBC"
+    },
+    {
+     "title": "'살림남' 환희, 28년 만에 브라이언 성대 모사 도전! 또다시 앙숙되나? - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112115257285737",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "이강인",
+   "traffic": "5000+",
+   "when": "11월 22일 10:40",
+   "news": [
+    {
+     "title": "이강인, AFC 사상 첫 올해의 국제선수 2년 연속 수상",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718111",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "'아시아 새역사' 이강인‥최초 2년 연속 '올해의 국제선수상'",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867378_37004.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "면세점",
    "traffic": "200+",
+   "when": "11월 22일 10:40",
+   "news": [
+    {
+     "title": "면세점 4사, 3분기 흑자에도 수익성 온도 차… 생존 전략 제각각",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3450289",
+     "source": "천지일보"
+    },
+    {
+     "title": "다시 출혈경쟁? 롯데 외형확장에 면세업계 긴장 [뉴스Q]",
+     "url": "https://www.newsq.co.kr/news/articleView.html?idxno=500945",
+     "source": "스포츠Q"
+    }
+   ]
+  },
+  {
+   "kw": "lpga",
+   "traffic": "1000+",
+   "when": "11월 22일 10:30",
+   "news": [
+    {
+     "title": "Kim A-lim Maintains Sole Lead After Third Round of LPGA Tour Championship",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008857518",
+     "source": "news.sbs.co.kr"
+    },
+    {
+     "title": "Two-Time Defending Champion Jeeno Thitikul Back in the Mix at Tiburon",
+     "url": "https://www.lpga.com/news/2026/two-time-defending-champion-jeeno-thitikul-back-in-the-mix-at-tiburon",
+     "source": "LPGA"
+    }
+   ]
+  },
+  {
+   "kw": "파주시",
+   "traffic": "200+",
+   "when": "11월 22일 10:30",
+   "news": [
+    {
+     "title": "파주시의회 옥승철 의원 5분 자유발언 \"교하동 신청사 건립, 더 이상 미뤄선 안돼\"",
+     "url": "https://nuriilbo.com/news/article.html?no=946569",
+     "source": "누리일보"
+    },
+    {
+     "title": "[우리는 의원, 파주시의회] 교하동 행정복지센터 신청사 건립 촉구…관광·교통 연계 도시정책 제안",
+     "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2385167",
+     "source": "웹이코노미"
+    }
+   ]
+  },
+  {
+   "kw": "오현규",
+   "traffic": "500+",
    "when": "11월 22일 10:10",
    "news": [
     {
@@ -19,6 +110,40 @@
    ]
   },
   {
+   "kw": "영구자석",
+   "traffic": "1000+",
+   "when": "11월 22일 09:50",
+   "news": [
+    {
+     "title": "Bunker Hill, 케냐 희토류 프로젝트 독점 협상 대상 선정",
+     "url": "https://kr.investing.com/news/company-news/article-93CH-2185239",
+     "source": "Investing.com 한국어"
+    },
+    {
+     "title": "中 희토류·영구자석 수출 제한에 발목 잡힌 로봇업계",
+     "url": "https://biz.chosun.com/industry/company/2026/11/22/APY3F3POSVGTHL3VG6YMAEW3II/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "울산광역시",
+   "traffic": "1000+",
+   "when": "11월 22일 09:50",
+   "news": [
+    {
+     "title": "산업화의 중심 울산, AI 시대 새로운 도약을 기대합니다.",
+     "url": "https://www.president.go.kr/social-media/2iOowGQS",
+     "source": "대한민국 청와대"
+    },
+    {
+     "title": "이 대통령, 울산 전통시장 방문...\"내년은 조금 더 좋아질 것\"",
+     "url": "https://www.ytn.co.kr/_ln/0101_202611220924534819",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
    "kw": "도경완",
    "traffic": "2000+",
    "when": "11월 22일 09:40",
@@ -29,145 +154,9 @@
      "source": "조선일보"
     },
     {
-     "title": "통장 ‘25만원’에 발목 잡힌 도경완…120억 집과 ‘가난 코스프레’의 무한소환",
-     "url": "https://www.sportsseoul.com/news/read/1651358",
-     "source": "스포츠서울"
-    }
-   ]
-  },
-  {
-   "kw": "담보 대출",
-   "traffic": "1000+",
-   "when": "11월 22일 09:30",
-   "news": [
-    {
-     "title": "“주담대 금리 치솟아도 돈 빌릴 곳 없으니”…집단대출 늘며 잔액 증가폭 ‘쑥’",
-     "url": "https://www.mk.co.kr/news/economy/12215366",
-     "source": "매일경제"
-    },
-    {
-     "title": "②빚 1200조 시대, 주담대 금리↑...차주도 은행도 ‘한숨’ [머니+]",
-     "url": "https://m.ekn.kr/view.php?key=20261119024551856",
-     "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "김호영",
-   "traffic": "200+",
-   "when": "11월 22일 09:30",
-   "news": [
-    {
-     "title": "'카톡 친구 5000명' 김호영, 길에서 카드 주웠는데 \"아는 사람 거\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112119565318710",
-     "source": "머니투데이"
-    },
-    {
-     "title": "'지인 5천명' 김호영 소름..길에서 주운 신용카드까지 '호연지기' ('김호영')",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/HEYTGNLBMYYDAZJQHFQWGY3CGA/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "마마 어워즈",
-   "traffic": "200+",
-   "when": "11월 22일 09:30",
-   "news": [
-    {
-     "title": "지드래곤도 감당 안되는 5대5 긴 생머리 '파격'..수상소감 방해하자 '대성 투입' [핫피플]",
-     "url": "https://www.koreadaily.com/article/20261121034550373",
+     "title": "도경완 ‘2억 호가’ 자동차 뭐길래…美 시승 행사 초청 받았다",
+     "url": "https://www.koreadaily.com/article/20261121045641983",
      "source": "미주중앙일보"
-    },
-    {
-     "title": "빅뱅, 신곡 ‘기립’ 최초 공개..‘2026 MAMA’ 빛낸 ‘레전드’의 위엄",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/22/MQYDOZRQGBRTGYRTGJSWINTFMY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "나경원",
-   "traffic": "200+",
-   "when": "11월 22일 09:30",
-   "news": [
-    {
-     "title": "국민의힘 “코스피 급락 ‘블랙먼데이’ 우려…긴급 대응 조치 준비해야”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719335",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "정점식 \"정부, 블랙먼데이 가능성 대비 긴급조치 준비해야\"",
-     "url": "https://www.yna.co.kr/view/AKR20261122016800001",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "inter miami vs columbus",
-   "traffic": "500+",
-   "when": "11월 22일 08:40",
-   "news": [
-    {
-     "title": "Messi, Miami staring at early playoff exit after Columbus rout in Game 1",
-     "url": "https://www.espn.com/soccer/story/_/id/50556052/inter-miami-columbus-crew-lionel-messi-game-1-mls-playoffs",
-     "source": "ESPN"
-    },
-    {
-     "title": "Columbus Crew Reach MLS Playoffs After Midseason Coaching Shakeup",
-     "url": "https://demokratis.co.id/en/columbus-crew-playoff-coaching-change",
-     "source": "Demokratis.co.id"
-    }
-   ]
-  },
-  {
-   "kw": "수출규제",
-   "traffic": "2000+",
-   "when": "11월 22일 08:10",
-   "news": [
-    {
-     "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
-     "url": "https://www.segye.com/newsView/20261120506261",
-     "source": "세계일보"
-    },
-    {
-     "title": "러트닉 미 상무, '엔비디아 스캔들 연루 위기' 넘어 건재 과시",
-     "url": "https://www.yna.co.kr/view/AKR20261122016400009",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "수험",
-   "traffic": "2000+",
-   "when": "11월 22일 08:10",
-   "news": [
-    {
-     "title": "AI 의혹 리트 만점자 5줄 유서서 “죽어도 가서 죽으려 했는데…”",
-     "url": "https://www.munhwa.com/article/11633008",
-     "source": "문화일보"
-    },
-    {
-     "title": "'리트 만점' 이진우 수사 계속...진실규명 쟁점은?",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611220954387265_005.html",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "인공지능",
-   "traffic": "1000+",
-   "when": "11월 22일 08:10",
-   "news": [
-    {
-     "title": "LG유플러스, 2027년 조직개편…AI 사업 중심으로 판 바꾼다",
-     "url": "https://www.yna.co.kr/view/AKR20261120160100017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "LGU+ 조직개편...AI 조직 재편으로 성과 속도전",
-     "url": "https://zdnet.co.kr/view/?no=20261122085359",
-     "source": "지디넷코리아"
     }
    ]
   }
