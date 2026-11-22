@@ -1,15 +1,66 @@
 {
- "updated": "2026-11-22 22:23",
+ "updated": "2026-11-22 23:23",
  "items": [
   {
+   "kw": "barcelona đấu với villarreal",
+   "traffic": "200+",
+   "when": "11월 22일 22:10",
+   "news": [
+    {
+     "title": "Trực tiếp bóng đá Barcelona - Villarreal: Yamal đá chính, Gordon dự bị (La Liga)",
+     "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-barcelona-villarreal-diem-tua-san-nha-la-liga-c48a1813129.html",
+     "source": "Tin tức 24h"
+    },
+    {
+     "title": "Trực tiếp bóng đá hôm nay 22/11: Lịch phát sóng và tỷ số",
+     "url": "https://thethao247.vn/63-truc-tiep-bong-da-hom-nay-22-11-lich-phat-song-va-ty-so-c1-d446640.html",
+     "source": "Thể Thao 247"
+    }
+   ]
+  },
+  {
+   "kw": "барселона – вильярреал",
+   "traffic": "200+",
+   "when": "11월 22일 22:10",
+   "news": [
+    {
+     "title": "«Барселона» — «Вильярреал»: где смотреть прямую трансляцию матча 13‑го тура Ла Лиги 22 ноября",
+     "url": "https://matchtv.ru/football/matchtvnews_NI2388225_Barselona__Viljarreal_gde_smotret_pramuju_translaciju_matcha_13go_tura_La_Ligi_22_nojabra",
+     "source": "Матч ТВ"
+    },
+    {
+     "title": "Барселона – Вильярреал. Смотреть онлайн LIVE прямую видеотрансляцию матча Ла Лиги",
+     "url": "https://www.ua-football.com/foreign/spain/1795339208-barselona-vilyarreal-smotret-onlayn-live-pryamuyu-videotranslyaciyu-matcha-la-ligi.html",
+     "source": "UA-Football"
+    }
+   ]
+  },
+  {
+   "kw": "김승수",
+   "traffic": "200+",
+   "when": "11월 22일 22:10",
+   "news": [
+    {
+     "title": "미운 우리 새끼 : [선공개] 김승수, 박혜연과 함께 기적 같은 혼성 듀엣 노래 부르기 성공",
+     "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483923190",
+     "source": "programs.sbs.co.kr"
+    },
+    {
+     "title": "김승수♥박혜연, 거침없는 쌍방 플러팅…핑크빛 기류 물씬",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6362165",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
    "kw": "barcelona vs villarreal",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 22일 21:20",
    "news": [
     {
-     "title": "Barcelona - Villarreal hoy, en directo: LaLiga EA Sports en vivo, última hora en el Spotify Camp Nou",
-     "url": "https://as.com/futbol/primera/barcelona-villarreal-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
-     "source": "Diario AS"
+     "title": "Barcelona - Villarreal en directo | Comienza la segunda parte en el Camp Nou",
+     "url": "https://elpais.com/deportes/futbol/2026-11-22/barcelona-villarreal-en-directo-el-partido-de-la-liga-en-vivo.html",
+     "source": "EL PAÍS"
     },
     {
      "title": "Haz de Hansi Flick y elige la alineación del Barça",
@@ -17,6 +68,12 @@
      "source": "La Vanguardia"
     }
    ]
+  },
+  {
+   "kw": "이혜영",
+   "traffic": "200+",
+   "when": "11월 22일 21:20",
+   "news": []
   },
   {
    "kw": "明天的天氣",
@@ -37,7 +94,7 @@
   },
   {
    "kw": "바르셀로나 대 비야레알",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 22일 21:10",
    "news": [
     {
@@ -54,7 +111,7 @@
   },
   {
    "kw": "코니아스포르 대 베식타시",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 22일 21:10",
    "news": [
     {
@@ -80,9 +137,9 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "영체님, 수천만 원 고가 프로그램 운영…폭행·성범죄 피해 주장 제기 (‘스트레이트’)",
-     "url": "https://mhnse.com/news/articleView.html?idxno=1705800",
-     "source": "MHN스포츠"
+     "title": "속옷 팔고, 하룻밤 보내는 고가 프로그램까지…지리산 '영체님'의 실체 (스트레이트)",
+     "url": "https://biz.chosun.com/entertainment/tv/2026/11/22/G4ZWMOJWMVTDMNBQMNSTQNBVMM/",
+     "source": "Chosunbiz"
     }
    ]
   },
@@ -92,71 +149,14 @@
    "when": "11월 22일 20:40",
    "news": [
     {
-     "title": "월요일 전국에 비·눈…영하권 출근길",
-     "url": "https://www.chosun.com/national/transport-environment/2026/11/22/U45T5NQ2VZGLJEPCXE2NVXN5TI/",
-     "source": "조선일보"
+     "title": "내일(23일) 전국에 비·눈…출근길 ‘도로 살얼음’ 주의",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719430",
+     "source": "KBS 뉴스"
     },
     {
      "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
      "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
      "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "погода завтра",
-   "traffic": "2000+",
-   "when": "11월 22일 20:30",
-   "news": []
-  },
-  {
-   "kw": "thời tiết ngày mai",
-   "traffic": "2000+",
-   "when": "11월 22일 20:30",
-   "news": [
-    {
-     "title": "Bản tin Dự báo thời tiết ngày 22/11/2026",
-     "url": "https://baodienbienphu.vn/tin-bai/xa-hoi/ban-tin-du-bao-thoi-tiet-ngay-22-11-2026",
-     "source": "Báo Điện Biên Phủ"
-    },
-    {
-     "title": "Không khí lạnh tràn xuống Bắc Bộ và Trung Bộ, vùng núi có nơi rét dưới 10 độ C",
-     "url": "https://moitruong.net.vn/khong-khi-lanh-tran-xuong-bac-bo-va-trung-bo-vung-nui-co-noi-ret-duoi-10-do-c-104587.html",
-     "source": "moitruong.net.vn"
-    }
-   ]
-  },
-  {
-   "kw": "cuaca besok",
-   "traffic": "1000+",
-   "when": "11월 22일 20:30",
-   "news": [
-    {
-     "title": "Akan Dilanda Hujan Petir Sepekan, Ini Prakiraan Cuaca Depok dan Bogor",
-     "url": "https://depok.tribunnews.com/news/53624/akan-dilanda-hujan-petir-sepekan-ini-prakiraan-cuaca-depok-dan-bogor",
-     "source": "Tribunnewsdepok.com"
-    },
-    {
-     "title": "Cuaca Depok Hari Ini: Hujan Mulai 16.00 WIB, 22–33°C",
-     "url": "https://journalarta.com/news/2026/11/21/prakiraan-cuaca-hari-ini-depok-21-11-2026/",
-     "source": "JournalArta"
-    }
-   ]
-  },
-  {
-   "kw": "현대무벡스",
-   "traffic": "100+",
-   "when": "11월 22일 20:30",
-   "news": [
-    {
-     "title": "현대엘리베이터, 현대무벡스 지분 1천26억원 매각해 주주환원",
-     "url": "https://www.yna.co.kr/view/AKR20261122015300003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "현대엘리베이터, 현대무벡스 지분 1,026억원 매각해 주주환원",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122104231F6M",
-     "source": "연합뉴스TV"
     }
    ]
   }
