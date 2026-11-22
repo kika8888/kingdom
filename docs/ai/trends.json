@@ -1,9 +1,77 @@
 {
- "updated": "2026-11-22 16:23",
+ "updated": "2026-11-22 17:23",
  "items": [
   {
-   "kw": "이대호",
+   "kw": "인수 합병",
    "traffic": "100+",
+   "when": "11월 22일 16:20",
+   "news": [
+    {
+     "title": "결혼정보 듀오 매출 483억…회사 매각도 중매와 닮았다",
+     "url": "https://www.jabon.co.kr/news/articleView.html?idxno=9015",
+     "source": "자본시장뉴스"
+    },
+    {
+     "title": "위성·케이블 한몸으로… KT 미디어부문 재편 가속",
+     "url": "https://www.etnews.com/20261120000164",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "검은 월요일",
+   "traffic": "200+",
+   "when": "11월 22일 16:20",
+   "news": [
+    {
+     "title": "증시 급락에 정부 긴급 F4 회의‥시장 안정 대책 논의",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6867594_36932.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "이형일, 오늘 '긴급 F4회의' 소집…AI 투매發 증시 급락 점검",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445881",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "kw": "류효영",
+   "traffic": "100+",
+   "when": "11월 22일 15:40",
+   "news": [
+    {
+     "title": "이러다 결혼하나…류효영, 이태성에 직진 \"요리 해줄게\"",
+     "url": "https://www.newsis.com/view/NISX20261121_0003877731",
+     "source": "뉴시스"
+    },
+    {
+     "title": "'류화영 쌍둥이 언니' 류효영, 이태성에 적극 호감 표시…\"마음 더 확실해져\"",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6361576",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "소년 소녀 가장",
+   "traffic": "100+",
+   "when": "11월 22일 15:30",
+   "news": [
+    {
+     "title": "100만원 든 봉투 겉엔…‘소년 소녀 가장을 위해 써주세요’",
+     "url": "https://www.donga.com/news/Society/article/all/20261120/135062120/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "복지센터에 전달된 ‘현금 100만원’…봉투에는 “소년소녀가장 위해 써주세요”",
+     "url": "https://www.segye.com/newsView/20261120513885",
+     "source": "세계일보"
+    }
+   ]
+  },
+  {
+   "kw": "이대호",
+   "traffic": "200+",
    "when": "11월 22일 15:20",
    "news": [
     {
@@ -20,11 +88,11 @@
   },
   {
    "kw": "김정은",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 22일 15:10",
    "news": [
     {
-     "title": "\"김정은, 美가 받아들이기 힘든 조건 내걸어 北美회담 무산\"",
+     "title": "“트럼프, 김정은 만나기 위해 ‘종전선언’ ‘북핵폐기 미요구 성명’까지 검토했다”",
      "url": "https://www.chosun.com/international/international_general/2026/11/22/RWKEIN6GM5EBHAGVL4MYRNCWEQ/",
      "source": "조선일보"
     },
@@ -37,7 +105,7 @@
   },
   {
    "kw": "해저",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 22일 15:00",
    "news": [
     {
@@ -46,9 +114,9 @@
      "source": "경향신문"
     },
     {
-     "title": "해군, 해광호 수색에 통영함·수중무인탐사기 투입",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261122144711Rxo",
-     "source": "연합뉴스TV"
+     "title": "충남도 \"해광호 실종자 수색에 예비비 긴급 투입\"",
+     "url": "https://www.yna.co.kr/view/AKR20261122038300063",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -80,9 +148,9 @@
      "source": "조선일보"
     },
     {
-     "title": "“1년 새 도대체 무슨 일이 있었던 거죠?”…40대 마통 연체액 82% ‘폭증’",
-     "url": "https://stock.mk.co.kr/news/view/1203772",
-     "source": "매일경제 마켓"
+     "title": "시련의 '빚투'…40대 마통 연체액 올해 들어 82% 증가",
+     "url": "https://www.yna.co.kr/view/AKR20261121040600002",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -97,77 +165,9 @@
      "source": "경향신문"
     },
     {
-     "title": "‘순방 잦다’ 야당 비판에…청와대 \"해외 정상들의 숨가쁜 외교 보라\"",
-     "url": "https://news.jtbc.co.kr/article/NB12329232",
-     "source": "JTBC"
-    }
-   ]
-  },
-  {
-   "kw": "오픈ai",
-   "traffic": "200+",
-   "when": "11월 22일 14:40",
-   "news": [
-    {
-     "title": "\"오픈AI 기업문화 무너져\"…퇴사 직원, AI 폭주 경고",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01361206645648344",
-     "source": "마켓인"
-    },
-    {
-     "title": "[월가 톡톡] 올트먼 \"인간이 AI의 '리트리버' 되는 미래 원치 않아\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445783",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "kw": "uae vs nep",
-   "traffic": "1000+",
-   "when": "11월 22일 14:30",
-   "news": [
-    {
-     "title": "ACC Men's Asia Cup Rising Stars 2026: Nov 22 Predictions",
-     "url": "https://www.cricketworld.com/match-predictions-acc-mens-asia-cup-rising-stars-2026-india-a-vs-pakistan-a-and-uae-vs-nepal-matches-7-and-8-november-22/114475.htm",
-     "source": "Cricket World"
-    },
-    {
-     "title": "UAE vs Nepal Live Streaming: When And Where To Watch Asia Cup Rising Stars Match?",
-     "url": "https://www.ndtvprofit.com/sports/uae-vs-nepal-live-streaming-when-and-where-to-watch-asia-cup-rising-stars-match-12360205",
-     "source": "NDTV Profit"
-    }
-   ]
-  },
-  {
-   "kw": "f1",
-   "traffic": "500+",
-   "when": "11월 22일 14:30",
-   "news": [
-    {
-     "title": "Verstappen wins exhilarating Las Vegas Grand Prix from Norris and Piastri",
-     "url": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
-     "source": "Formula 1"
-    },
-    {
-     "title": "F1 LIVE: Las Vegas Grand Prix 2026 reaction & result as Verstappen wins again",
-     "url": "https://www.bbc.com/sport/formula1/live/c62ke5vgxxnt",
-     "source": "BBC"
-    }
-   ]
-  },
-  {
-   "kw": "대구fc",
-   "traffic": "200+",
-   "when": "11월 22일 14:30",
-   "news": [
-    {
-     "title": "김해FC, 리그 4위 대구 원정서 설기현 감독 부임 첫 승 도전",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722619",
-     "source": "뉴스타운"
-    },
-    {
-     "title": "‘승리 버튼 딸깍’ 대구, 일단 ‘3위’ 등극...K리그1 승격 싸움 끝까지 간다[대구에서]",
-     "url": "https://sports.hankooki.com/news/articleView.html?idxno=6944002",
-     "source": "스포츠한국"
+     "title": "李 “돼지 눈엔 돼지만…해외 순방, 치아 흔들리고 코피 터지는 일”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261122/135066467/1",
+     "source": "동아일보"
     }
    ]
   }
