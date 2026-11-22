@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-23 02:23",
+ "updated": "2026-11-23 03:23",
  "items": [
   {
-   "kw": "ลิเวอร์พูล พบ แมนยู",
+   "kw": "밀란 대 프로시노네",
+   "traffic": "500+",
+   "when": "11월 23일 02:00",
+   "news": [
+    {
+     "title": "Liverpool vs. Man Utd (Nov 22, 2026) Team Stats",
+     "url": "https://www.espn.com/soccer/team-stats/_/gameId/401878755",
+     "source": "ESPN"
+    },
+    {
+     "title": "Picked! Darrell Sweeting hauls in the interception",
+     "url": "https://www.espn.com/video/clip/_/id/50557603/picked-darrell-sweeting-hauls-interception",
+     "source": "ESPN"
+    }
+   ]
+  },
+  {
+   "kw": "liverpool đấu với man utd",
    "traffic": "200+",
+   "when": "11월 23일 01:40",
+   "news": [
+    {
+     "title": "CANLI Liverpool - Manchester United: Maç devam ediyor",
+     "url": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-tran-dau-dang-dien-ra",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "MU thua tan nát trong ngày Pochettino ra mắt",
+     "url": "https://znews.vn/mu-thua-tan-nat-trong-ngay-pochettino-ra-mat-post1698216.html",
+     "source": "Znews"
+    }
+   ]
+  },
+  {
+   "kw": "맨유",
+   "traffic": "2000+",
+   "when": "11월 23일 01:30",
+   "news": [
+    {
+     "title": "“맨유 재건 맡은 포체티노 감독, 선수 육성 능력이 최대 강점”",
+     "url": "https://weekly.donga.com/home/article/all/11/6466651/1",
+     "source": "주간동아"
+    },
+    {
+     "title": "축구의 묘미는 역시 ‘바이시클킥’",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716627",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "빗썸",
+   "traffic": "100+",
+   "when": "11월 23일 01:30",
+   "news": [
+    {
+     "title": "업비트·빗썸 사상 처음 적자, 뒤따르는 시장 침체의 신호 | 엠블록",
+     "url": "https://www.mk.co.kr/newsletter/page/3575",
+     "source": "매일경제"
+    },
+    {
+     "title": "업비트·빗썸, 사이버 CYBER 입출금 동시 중단…거래는 열고 송금은 막았다",
+     "url": "https://www.wikitree.co.kr/articles/1176751",
+     "source": "위키트리"
+    }
+   ]
+  },
+  {
+   "kw": "라싱 산탄데르 대 레알 소시에다드",
+   "traffic": "100+",
+   "when": "11월 23일 01:20",
+   "news": [
+    {
+     "title": "Racing de Santander vs Real Sociedad: Spanish La Liga stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c6kgr004pl7rt",
+     "source": "BBC"
+    },
+    {
+     "title": "Racing Santander vs. Real Sociedad - Game Highlights",
+     "url": "https://www.espn.com/video/clip/_/id/50563056/racing-santander-vs-real-sociedad-game-highlights",
+     "source": "ESPN"
+    }
+   ]
+  },
+  {
+   "kw": "ลิเวอร์พูล พบ แมนยู",
+   "traffic": "500+",
    "when": "11월 23일 01:10",
    "news": [
     {
@@ -15,23 +100,6 @@
      "title": "ทุกสิ่งที่ควรรู้ : ก่อนแดงจะเดือดครั้งที่219",
      "url": "https://www.naewna.com/n/sports/186865/",
      "source": "แนวหน้า"
-    }
-   ]
-  },
-  {
-   "kw": "리버풀 맨유",
-   "traffic": "500+",
-   "when": "11월 23일 00:50",
-   "news": [
-    {
-     "title": "맨유 포체티노, 데뷔전 앞두고 기자회견 지각…“샤워할 시간도 없었어”",
-     "url": "https://www.donga.com/news/Sports/article/all/20261121/135064952/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "축구의 묘미는 역시 ‘바이시클킥’",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716627",
-     "source": "KBS 뉴스"
     }
    ]
   },
@@ -69,9 +137,9 @@
      "source": "BBC"
     },
     {
-     "title": "Andoni Iraola programme notes | Why Liverpool need to be 'all in' from the off today",
-     "url": "https://www.liverpoolfc.com/news/andoni-iraola-programme-notes-liverpool-all-in-manchester-united",
-     "source": "Liverpool FC"
+     "title": "Liverpool v Manchester United: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+     "source": "The Guardian"
     }
    ]
   },
@@ -91,63 +159,6 @@
      "source": "Vietnam.vn"
     }
    ]
-  },
-  {
-   "kw": "fc barcelona vs villarreal cf standings",
-   "traffic": "500+",
-   "when": "11월 23일 00:30",
-   "news": [
-    {
-     "title": "Barcelona vs Villarreal Confirmed Lineups",
-     "url": "https://www.whoscored.com/news/UYwB3kUYiU2gZN87H5q8SA/show/cng112-20261122-barcelona-vs-villarreal-confirmed-lineup-1795348094",
-     "source": "WhoScored.com"
-    },
-    {
-     "title": "Licensable picture: Soccer 2026: LaLiga: FC Barcelona - Villarreal CF",
-     "url": "https://www.reutersconnect.com/item/soccer-2026-laliga-fc-barcelona-villarreal-cf/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBPWlVWMVg",
-     "source": "Reuters Connect"
-    }
-   ]
-  },
-  {
-   "kw": "u17 월드컵",
-   "traffic": "100+",
-   "when": "11월 23일 00:20",
-   "news": [
-    {
-     "title": "베트남 U-17 대 뉴질랜드 U-17 경기를 주재한 카메룬 심판의 신원이 밝혀졌습니다.",
-     "url": "https://www.vietnam.vn/ko/lo-danh-tinh-trong-tai-nguoi-cameroon-bat-chinh-tran-u-17-viet-nam-vs-u-17-new-zealand",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "2026 U17 월드컵 U17 베트남 대 U17 뉴질랜드 축구 경기 일정",
-     "url": "https://ko.laodong.vn/lich-thi-dau/lich-thi-dau-bong-da-u17-viet-nam-vs-u17-new-zealand-tai-giai-u17-world-cup-2026-1804795.ldo",
-     "source": "Laodong.vn"
-    }
-   ]
-  },
-  {
-   "kw": "브라이튼",
-   "traffic": "200+",
-   "when": "11월 22일 23:30",
-   "news": [
-    {
-     "title": "헐 시티 vs 브라이튼 경기 프리뷰 및 예측: 브라이튼은 여전히 ​​높이 비상한다",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-du-doan-tran-dau-hull-city-vs-brighton-bay-chim-tiep-tuc-bay-cao",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "헐 시티 vs 브라이튼 경기 예측: 홈팀이 승리 행진을 재개하려 할 것입니다.",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-hull-city-vs-brighton-chu-nha-tim-lai-chien-thang",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "백종헌",
-   "traffic": "200+",
-   "when": "11월 22일 23:10",
-   "news": []
   }
  ]
 }
