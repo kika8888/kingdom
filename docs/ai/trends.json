@@ -1,9 +1,145 @@
 {
- "updated": "2026-11-22 18:23",
+ "updated": "2026-11-22 19:24",
  "items": [
   {
+   "kw": "서울 경전철 서부선",
+   "traffic": "100+",
+   "when": "11월 22일 18:20",
+   "news": [
+    {
+     "title": "20년 넘게 끌어온 서부선…사업비 급증의 암초를 넘을 수 있을까",
+     "url": "https://www.hankyung.com/article/202611222102i",
+     "source": "한국경제"
+    },
+    {
+     "title": "[단독] 서부선 민자 재시동…재정 ‘투트랙’ 속도낸다",
+     "url": "https://www.dnews.co.kr/m_home/view.jsp?idxno=202611191120305010769",
+     "source": "대한경제"
+    }
+   ]
+  },
+  {
+   "kw": "무신사",
+   "traffic": "1000+",
+   "when": "11월 22일 18:10",
+   "news": [
+    {
+     "title": "SKT, 무신사 블랙프라이데이서 '에어' 요금제 할인",
+     "url": "https://www.yna.co.kr/view/AKR20261122012200017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "무신사, 롯데리아와 수험생 응원 '버거트럭' 이벤트 실시",
+     "url": "https://www.etnews.com/20261122000047",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "회계사",
+   "traffic": "200+",
+   "when": "11월 22일 18:10",
+   "news": [
+    {
+     "title": "회계사 시험 합격이 끝 아니다…업무수행 역량 확인 강화",
+     "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망",
+     "url": "https://www.yna.co.kr/view/AKR20261121044700002",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "김혜윤",
+   "traffic": "100+",
+   "when": "11월 22일 18:10",
+   "news": [
+    {
+     "title": "김혜윤 능력 알아본 장나라…'굿파트너2' 8.4% 출발",
+     "url": "https://www.yna.co.kr/view/AKR20261121023000005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "베테랑 사무장 떴다! 차유진, '굿파트너2' 첫 등장",
+     "url": "https://www.etnews.com/20261122000028",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "금융위기",
+   "traffic": "2000+",
+   "when": "11월 22일 18:00",
+   "news": [
+    {
+     "title": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445893",
+     "source": "연합인포맥스"
+    },
+    {
+     "title": "[도청도설] 무너진 5천피",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261123.22022006838",
+     "source": "국제신문"
+    }
+   ]
+  },
+  {
+   "kw": "acc emerging teams asia cup",
+   "traffic": "200+",
+   "when": "11월 22일 18:00",
+   "news": [
+    {
+     "title": "India A vs Pakistan Shaheens ACC Men's Asia Cup Rising Stars score, toss winner, winning probability, result and highlights from Doha",
+     "url": "https://sports.yahoo.com/articles/india-vs-pakistan-shaheens-acc-065651378.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "India A vs Pakistan Shaheens: Battles Within the Battle",
+     "url": "https://revsportz.in/india-a-vs-pakistan-shaheens-battles-within-the-battle/",
+     "source": "Revsportz"
+    }
+   ]
+  },
+  {
+   "kw": "김영훈",
+   "traffic": "200+",
+   "when": "11월 22일 17:40",
+   "news": [
+    {
+     "title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719343",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "정년연장 논의 재개 앞두고…김영훈 \"합의 안 되면 정부가 나설 것\"",
+     "url": "https://www.chosun.com/national/labor/2026/11/22/4ENU5B5NBFH2NE3ME22UYORJPY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "기온",
+   "traffic": "100+",
+   "when": "11월 22일 17:30",
+   "news": [
+    {
+     "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
+     "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
+     "source": "YTN"
+    },
+    {
+     "title": "[날씨] 내일 전국 비…강원 최대 8㎝ 눈, 추위는 주춤",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261122190107Kdr",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
    "kw": "노동자",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 22일 16:50",
    "news": [
     {
@@ -32,142 +168,6 @@
      "title": "찬 바람이 쌩쌩 불 때, 핫한 로보틱스…CES·테슬라 이벤트 주목[주末머니]",
      "url": "https://core.asiae.co.kr/article/2026112016445199808",
      "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "검은 월요일",
-   "traffic": "2000+",
-   "when": "11월 22일 16:20",
-   "news": [
-    {
-     "title": "증시 급락에 정부 긴급 F4 회의‥시장 안정 대책 논의",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6867594_36932.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "'블랙 먼데이' 공포…韓 금리·美 물가가 증시 향방 가른다 - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/22/2026112217351612948",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "인수 합병",
-   "traffic": "200+",
-   "when": "11월 22일 16:20",
-   "news": [
-    {
-     "title": "인텔, 클래식 인수에 … 삼성·미래에셋 '웃음'",
-     "url": "https://stock.mk.co.kr/news/view/1203777",
-     "source": "매일경제 마켓"
-    },
-    {
-     "title": "인텔, 클래시크 인수에 성과 연동 3.5억 달러 추가 지급한다",
-     "url": "https://startuprecipe.co.kr/archives/5840722",
-     "source": "스타트업레시피"
-    }
-   ]
-  },
-  {
-   "kw": "류효영",
-   "traffic": "100+",
-   "when": "11월 22일 15:40",
-   "news": [
-    {
-     "title": "이러다 결혼하나…류효영, 이태성에 직진 \"요리 해줄게\"",
-     "url": "https://www.newsis.com/view/NISX20261121_0003877731",
-     "source": "뉴시스"
-    },
-    {
-     "title": "'류화영 쌍둥이 언니' 류효영, 이태성에 적극 호감 표시…\"마음 더 확실해져\"",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6361576",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "소년 소녀 가장",
-   "traffic": "100+",
-   "when": "11월 22일 15:30",
-   "news": [
-    {
-     "title": "100만원 든 봉투 겉엔…‘소년 소녀 가장을 위해 써주세요’",
-     "url": "https://www.donga.com/news/Society/article/all/20261120/135062120/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "복지센터에 전달된 ‘현금 100만원’…봉투에는 “소년소녀가장 위해 써주세요”",
-     "url": "https://www.segye.com/newsView/20261120513885",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "이대호",
-   "traffic": "500+",
-   "when": "11월 22일 15:20",
-   "news": [
-    {
-     "title": "‘이대호 3구 삼진’ 삼성 1R 출신 이호범, 팔꿈치 수술 딛고 다시 시작된 도전…“공 던질 생각에 설렌다” [오!쎈 경산] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/22/202611220131775873O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "삼성 라이온즈 이호범 팔꿈치 수술 후 ITP 돌입 : 스포츠",
-     "url": "https://news.jkn.co.kr/post/1114361",
-     "source": "재경일보"
-    }
-   ]
-  },
-  {
-   "kw": "김정은",
-   "traffic": "2000+",
-   "when": "11월 22일 15:10",
-   "news": [
-    {
-     "title": "\"트럼프, 김정은에 만나자 제안했지만 北 '조건' 내걸어 무산\"",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6867597_36925.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "\"트럼프, 김정은에 거듭 '대화' 타진…北이 조건 걸어 회담 무산\" - 머니투데이",
-     "url": "https://www.mt.co.kr/world/2026/11/22/2026112217155565061",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "해저",
-   "traffic": "1000+",
-   "when": "11월 22일 15:00",
-   "news": [
-    {
-     "title": "태안 서격렬비열도 인근서 선박 추정 물체 발견···실종 ‘해광호’ 여부 확인 중",
-     "url": "https://www.khan.co.kr/article/202611221013001",
-     "source": "경향신문"
-    },
-    {
-     "title": "충남 태안 실종 어선 '해광호', 수색 5일 만에 발견",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6867618_36918.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "이스라엘",
-   "traffic": "200+",
-   "when": "11월 22일 15:00",
-   "news": [
-    {
-     "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122024936e1r",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "트럼프 “핵무기 갖게 두지 않겠다…이란과 영구적인 합의 만들 것”",
-     "url": "https://www.hani.co.kr/arti/international/international_general/1288468.html",
-     "source": "한겨레"
     }
    ]
   }
