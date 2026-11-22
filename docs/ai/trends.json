@@ -1,20 +1,43 @@
 {
- "updated": "2026-11-22 13:23",
+ "updated": "2026-11-22 14:22",
  "items": [
   {
-   "kw": "집행유예",
-   "traffic": "200+",
-   "when": "11월 22일 12:10",
+   "kw": "로또",
+   "traffic": "20000+",
+   "when": "11월 22일 12:40",
    "news": [
     {
-     "title": "\"휴대전화 왜 숨겨\" 아파트 가스방출 시도·아내 협박 50대 집유",
-     "url": "https://www.yna.co.kr/view/AKR20261120152100052",
-     "source": "연합뉴스"
+     "title": "제1251회 로또 1등 14명···당첨금 20억6884만원",
+     "url": "https://www.khan.co.kr/article/202611212105001",
+     "source": "경향신문"
     },
     {
-     "title": "가스 누출 시도·아내 흉기 협박…50대 집행유예",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261122112245IOi",
-     "source": "연합뉴스TV"
+     "title": "로또 1251회 당첨번호 '14·18·19·29·40·45'…보너스 '1'",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02154966645648016",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "최예나",
+   "traffic": "200+",
+   "when": "11월 22일 12:40",
+   "news": []
+  },
+  {
+   "kw": "무시알라",
+   "traffic": "100+",
+   "when": "11월 22일 12:40",
+   "news": [
+    {
+     "title": "돈은 369억 받는데 경기는 제대로 못 뛴다? 골머리 아픈 뮌헨, 무시알라 연봉 대비 기여도에 내부 논란",
+     "url": "https://www.besteleven.com/news/articleView.html?idxno=314208",
+     "source": "베스트일레븐"
+    },
+    {
+     "title": "로마노: 바이에른 뮌헨, 크리스마스 전후로 겨울 이적시장 전략 결정... 자말 무시알라 여전히 최선을 다하고 싶어 해",
+     "url": "https://www.allfootballapp.com/ko/articles/6032901",
+     "source": "AllFootball"
     }
    ]
   },
@@ -24,14 +47,14 @@
    "when": "11월 22일 12:00",
    "news": [
     {
+     "title": "'2연속 128강 탈락 피했다' 스롱, 김유민 누르고 LPBA 64강",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01403846645648344&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
      "title": "'10회 우승→128강 탈락' 스롱 피아비, 한고비 넘겼다... 김유민 꺾고 64강 진출 [PBA] - 머니투데이",
      "url": "https://www.mt.co.kr/sports/2026/11/22/2026112210234833819",
      "source": "머니투데이"
-    },
-    {
-     "title": "10대 당구 천재 김영원, 김도헌과 휴온스 챔피언십 128강전",
-     "url": "https://www.hani.co.kr/arti/sports/sports_general/1288317.html",
-     "source": "한겨레"
     }
    ]
   },
@@ -75,24 +98,24 @@
    "when": "11월 22일 11:50",
    "news": [
     {
-     "title": "中 휴머노이드 로봇 151대 '칼군무'…또 기네스 신기록",
-     "url": "https://zdnet.co.kr/view/?no=20261120143936",
-     "source": "지디넷코리아"
+     "title": "[영상]양계장 바닥 뒤적뒤적…사람 대신 계란 줍는 휴머노이드 온다",
+     "url": "https://www.khan.co.kr/article/202611220900011",
+     "source": "경향신문"
     },
     {
-     "title": "중국 APEC서 빅뱅 '뱅뱅뱅'에 맞춰 로봇 151대 칼군무…기네스 기록",
-     "url": "https://www.news1.kr/videos/25436",
-     "source": "뉴스1"
+     "title": "닭장에 나타난 '휴머노이드'…임무는 달걀 수거",
+     "url": "https://www.etnews.com/20261119000421",
+     "source": "전자신문"
     }
    ]
   },
   {
    "kw": "대한민국 대법원",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 22일 11:40",
    "news": [
     {
-     "title": "[속보] 민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\"",
+     "title": "민주 \"연내 조희대 탄핵 추진‥한덕수 판결 내용은 사유에 미포함\"",
      "url": "https://imnews.imbc.com/news/2026/politics/article/6867571_36911.html",
      "source": "MBC 뉴스"
     },
@@ -105,7 +128,7 @@
   },
   {
    "kw": "입장권",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 22일 11:20",
    "news": [
     {
@@ -114,51 +137,17 @@
      "source": "경향신문"
     },
     {
-     "title": "BTS 부산 공연장서 입장권 팔찌 100개 훔친 중국인",
-     "url": "https://www.chosun.com/national/regional/2026/11/22/5NS7YOHQ7VBPZOYD2PQXOMUDXU/",
-     "source": "조선일보"
+     "title": "\"암표로 팔려고\" BTS 콘서트 입장권 100장 훔친 중국인…징역형 집유",
+     "url": "https://www.news1.kr/local/busan-gyeongnam/6361349",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "kw": "재산",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 22일 11:00",
    "news": []
-  },
-  {
-   "kw": "플라이 투 더 스카이",
-   "traffic": "2000+",
-   "when": "11월 22일 10:50",
-   "news": [
-    {
-     "title": "플라이 투 더 스카이, 오늘(21일) 오랜 공백 깨고 완전체 컴백",
-     "url": "https://m.imbc.com/enews/view/525574",
-     "source": "MBC"
-    },
-    {
-     "title": "'살림남' 환희, 28년 만에 브라이언 성대 모사 도전! 또다시 앙숙되나? - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112115257285737",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "이강인",
-   "traffic": "5000+",
-   "when": "11월 22일 10:40",
-   "news": [
-    {
-     "title": "이강인, AFC 사상 첫 올해의 국제선수 2년 연속 수상",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718111",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "'아시아 새역사' 이강인‥최초 2년 연속 '올해의 국제선수상'",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867378_37004.html",
-     "source": "MBC 뉴스"
-    }
-   ]
   }
  ]
 }
