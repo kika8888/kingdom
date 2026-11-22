@@ -1,173 +1,162 @@
 {
- "updated": "2026-11-22 21:23",
+ "updated": "2026-11-22 22:23",
  "items": [
   {
-   "kw": "weather tomorrow",
-   "traffic": "5000+",
-   "when": "11월 22일 20:20",
-   "news": [
-    {
-     "title": "Precipitation observed in a number of regions of Azerbaijan, snow fell at times on Shahdag",
-     "url": "https://1news.az/en/news/20261122115007430-Precipitation-observed-in-a-number-of-regions-of-Azerbaijan-snow-fell-at-times-on-Shahdag",
-     "source": "1News.az"
-    },
-    {
-     "title": "Temperatures to reach 18°C on Sunday",
-     "url": "https://report.az/en/ecology/temperatures-to-reach-18-c-on-sunday",
-     "source": "Report.az"
-    }
-   ]
-  },
-  {
-   "kw": "유벤투스 대 베네치아",
-   "traffic": "500+",
-   "when": "11월 22일 19:50",
-   "news": [
-    {
-     "title": "유벤투스 vs 베네치아 예측: 홈팀이 우세할 것으로 예상됩니다.",
-     "url": "https://www.vietnam.vn/ko/nhan-dinh-juventus-vs-venezia-chu-nha-duoc-danh-gia-cao-hon",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "유벤투스 vs 베네치아: 랑달 콜로 무아니·웨스턴 맥케니 선발, 에돈 제그로바 출전",
-     "url": "https://www.allfootballapp.com/ko/articles/6037614-vs",
-     "source": "AllFootball"
-    }
-   ]
-  },
-  {
-   "kw": "요리학교",
-   "traffic": "500+",
-   "when": "11월 22일 19:50",
-   "news": [
-    {
-     "title": "CIA 첫 한식과정 만든 양종집 교수 “한식 세계화 전초기지로”",
-     "url": "https://stock.mk.co.kr/news/view/1203755",
-     "source": "매일경제 마켓"
-    },
-    {
-     "title": "\"80년 만에 처음 있는 일\"…美 최고 요리학교서 한식 열풍",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01387446645648344&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "조정식",
-   "traffic": "500+",
-   "when": "11월 22일 19:50",
-   "news": [
-    {
-     "title": "문제 유출, 수능 직전 예능行… 일타강사인가, ‘일탈’강사인가",
-     "url": "https://www.chosun.com/national/weekend/2026/11/21/PHM6NQOYUBHKJCLZ4YT3S5R234/",
-     "source": "조선일보"
-    },
-    {
-     "title": "“너는 못 쓰게 되지 않았다”…수능 뒤 일타강사 위로에 ‘울컥’",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=04241046645647688&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "무디스",
-   "traffic": "200+",
-   "when": "11월 22일 19:50",
-   "news": [
-    {
-     "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
-     "url": "https://www.fnnews.com/news/202611220802359845",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "삼전닉스 반토막에도…“반도체 정점론 과해, 내년 코스피 8000 가능” [잘살아보세]",
-     "url": "https://m.segye.com/view/20261122505855",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "최교진 교육부장관",
-   "traffic": "100+",
-   "when": "11월 22일 19:50",
-   "news": [
-    {
-     "title": "\"저는 못할 것 같습니다\" AI 부정행위 논란 키우다 결국 사퇴",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867638_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "[속보] 이 대통령, 최교진 교육장관 면직안 재가",
-     "url": "https://www.hani.co.kr/arti/politics/bluehouse/1288547.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "기예르모 에레디아",
-   "traffic": "200+",
-   "when": "11월 22일 19:40",
-   "news": [
-    {
-     "title": "'굿바이' 에레디아가 국내 타팀으로 간다고? 현실적으로 불가능이다. 이유는",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/22/MFSGKMZTMUZWKYTGMQ3TSMDEMM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "[단독] SSG, 에레디아와 결별…‘트리플A 24홈런·21도루’ 리스 하인즈 영입한다",
-     "url": "http://www.spochoo.com/news/articleView.html?idxno=132194",
-     "source": "더게이트"
-    }
-   ]
-  },
-  {
-   "kw": "주현영",
-   "traffic": "100+",
-   "when": "11월 22일 19:40",
-   "news": [
-    {
-     "title": "주현영 과거 폭로 나왔다, 지예은 “‘SNL’ 텃세 있었다” (런닝맨)",
-     "url": "https://sports.donga.com/ent/article/all/20261120/135060769/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "김종국 결혼 1년만에..'대역' 신부설 휘말렸다! 믿었던 유재석까지 ('런닝맨')",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/22/MFQWCMJXGVSTIOBZGM4TAMJSMU/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "한전on",
+   "kw": "barcelona vs villarreal",
    "traffic": "1000+",
-   "when": "11월 22일 19:20",
+   "when": "11월 22일 21:20",
    "news": [
     {
-     "title": "한전도 해킹당했다…65만명 주민번호·계좌·카드번호 유출",
-     "url": "https://www.khan.co.kr/article/202611221907001",
-     "source": "경향신문"
+     "title": "Barcelona - Villarreal hoy, en directo: LaLiga EA Sports en vivo, última hora en el Spotify Camp Nou",
+     "url": "https://as.com/futbol/primera/barcelona-villarreal-en-directo-previa-y-ultima-hora-de-laliga-ea-sports-hoy-en-vivo-f202611-d/",
+     "source": "Diario AS"
     },
     {
-     "title": "한전, 고객 등 개인정보 152만여명 유출‥경찰 수사의뢰 예정",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867650_37004.html",
-     "source": "MBC 뉴스"
+     "title": "Haz de Hansi Flick y elige la alineación del Barça",
+     "url": "https://www.lavanguardia.com/participacion/retos/20261122/11687957/haz-hansi-flick-elige-alineacion-barca.html",
+     "source": "La Vanguardia"
     }
    ]
   },
   {
-   "kw": "쇼메이커",
+   "kw": "明天的天氣",
    "traffic": "100+",
-   "when": "11월 22일 19:20",
+   "when": "11월 22일 21:20",
    "news": [
     {
-     "title": "'쇼메이커' 허수의 낭만, LCK 스토브리그 판을 흔들다 [이주현의 로그인 e스포츠]",
-     "url": "https://www.hankyung.com/article/202611222346i",
-     "source": "한국경제"
+     "title": "白天轉晴早晚冷下週二起另一波",
+     "url": "http://www.metapp.org.tw/pages/post-bacd70f1e44fcf4c2752.html",
+     "source": "氣象應用推廣基金會"
     },
     {
-     "title": "롤드컵 준우승 젠지e스포츠 새판에 ‘광주·전남 신예’ 뜨나",
-     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085133",
-     "source": "진일보 | 전남일보"
+     "title": "明天的天氣/2波冷空氣來了！全台降溫變天「這3天最濕冷」低溫下探15度， 一周氣象一次看",
+     "url": "https://www.storm.mg/lifestyle/11183974",
+     "source": "風傳媒"
+    }
+   ]
+  },
+  {
+   "kw": "바르셀로나 대 비야레알",
+   "traffic": "5000+",
+   "when": "11월 22일 21:10",
+   "news": [
+    {
+     "title": "라리가 바르셀로나 대 비야레알 축구 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-barcelona-vs-villarreal-tai-la-liga-1804488.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "축구 생중계: 바르셀로나 vs 비야레알: 공격적인 경기가 예상됩니다.",
+     "url": "https://www.vietnam.vn/ko/truc-tiep-bong-da-barca-vs-villarreal-cho-tiec-tan-cong",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "코니아스포르 대 베식타시",
+   "traffic": "1000+",
+   "when": "11월 22일 21:10",
+   "news": [
+    {
+     "title": "Konyaspor v Besiktas Odds",
+     "url": "https://sportsbook.fanduel.com/soccer/turkish-super-league/konyaspor-v-besiktas-36319866",
+     "source": "FanDuel Sportsbook"
+    },
+    {
+     "title": "Konyaspor vs Beşiktaş live on TV and online: Where to watch the Süper Lig match",
+     "url": "https://www.goal.com/en/news/konyaspor-vs-besiktas-live-today-who-is-showing-the-match-on-tv-and-online/bltec1b3f9ff38b3469",
+     "source": "Goal.com"
+    }
+   ]
+  },
+  {
+   "kw": "영체마을",
+   "traffic": "200+",
+   "when": "11월 22일 20:50",
+   "news": [
+    {
+     "title": "[스트레이트 예고] 신이 된 여자 지리산 '영체님'의 실체",
+     "url": "https://imnews.imbc.com/replay/straight/6867586_28993.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "영체님, 수천만 원 고가 프로그램 운영…폭행·성범죄 피해 주장 제기 (‘스트레이트’)",
+     "url": "https://mhnse.com/news/articleView.html?idxno=1705800",
+     "source": "MHN스포츠"
+    }
+   ]
+  },
+  {
+   "kw": "내일 날씨",
+   "traffic": "200000+",
+   "when": "11월 22일 20:40",
+   "news": [
+    {
+     "title": "월요일 전국에 비·눈…영하권 출근길",
+     "url": "https://www.chosun.com/national/transport-environment/2026/11/22/U45T5NQ2VZGLJEPCXE2NVXN5TI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
+     "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "погода завтра",
+   "traffic": "2000+",
+   "when": "11월 22일 20:30",
+   "news": []
+  },
+  {
+   "kw": "thời tiết ngày mai",
+   "traffic": "2000+",
+   "when": "11월 22일 20:30",
+   "news": [
+    {
+     "title": "Bản tin Dự báo thời tiết ngày 22/11/2026",
+     "url": "https://baodienbienphu.vn/tin-bai/xa-hoi/ban-tin-du-bao-thoi-tiet-ngay-22-11-2026",
+     "source": "Báo Điện Biên Phủ"
+    },
+    {
+     "title": "Không khí lạnh tràn xuống Bắc Bộ và Trung Bộ, vùng núi có nơi rét dưới 10 độ C",
+     "url": "https://moitruong.net.vn/khong-khi-lanh-tran-xuong-bac-bo-va-trung-bo-vung-nui-co-noi-ret-duoi-10-do-c-104587.html",
+     "source": "moitruong.net.vn"
+    }
+   ]
+  },
+  {
+   "kw": "cuaca besok",
+   "traffic": "1000+",
+   "when": "11월 22일 20:30",
+   "news": [
+    {
+     "title": "Akan Dilanda Hujan Petir Sepekan, Ini Prakiraan Cuaca Depok dan Bogor",
+     "url": "https://depok.tribunnews.com/news/53624/akan-dilanda-hujan-petir-sepekan-ini-prakiraan-cuaca-depok-dan-bogor",
+     "source": "Tribunnewsdepok.com"
+    },
+    {
+     "title": "Cuaca Depok Hari Ini: Hujan Mulai 16.00 WIB, 22–33°C",
+     "url": "https://journalarta.com/news/2026/11/21/prakiraan-cuaca-hari-ini-depok-21-11-2026/",
+     "source": "JournalArta"
+    }
+   ]
+  },
+  {
+   "kw": "현대무벡스",
+   "traffic": "100+",
+   "when": "11월 22일 20:30",
+   "news": [
+    {
+     "title": "현대엘리베이터, 현대무벡스 지분 1천26억원 매각해 주주환원",
+     "url": "https://www.yna.co.kr/view/AKR20261122015300003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "현대엘리베이터, 현대무벡스 지분 1,026억원 매각해 주주환원",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261122104231F6M",
+     "source": "연합뉴스TV"
     }
    ]
   }
