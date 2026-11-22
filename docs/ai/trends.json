@@ -1,26 +1,43 @@
 {
- "updated": "2026-11-22 17:23",
+ "updated": "2026-11-22 18:23",
  "items": [
   {
-   "kw": "인수 합병",
-   "traffic": "100+",
-   "when": "11월 22일 16:20",
+   "kw": "노동자",
+   "traffic": "500+",
+   "when": "11월 22일 16:50",
    "news": [
     {
-     "title": "결혼정보 듀오 매출 483억…회사 매각도 중매와 닮았다",
-     "url": "https://www.jabon.co.kr/news/articleView.html?idxno=9015",
-     "source": "자본시장뉴스"
+     "title": "고용허가제 22년…이주노동자는 왜 위험한 일터를 떠나지 못하나",
+     "url": "https://www.hani.co.kr/arti/area/capital/1288512.html",
+     "source": "한겨레"
     },
     {
-     "title": "위성·케이블 한몸으로… KT 미디어부문 재편 가속",
-     "url": "https://www.etnews.com/20261120000164",
-     "source": "전자신문"
+     "title": "[한국 입국과 그 이후 12] 외국인 노동자가 산재를 당하면 체류는?",
+     "url": "https://www.eroun.net/news/articleView.html?idxno=90955",
+     "source": "이로운넷"
+    }
+   ]
+  },
+  {
+   "kw": "코스닥",
+   "traffic": "100+",
+   "when": "11월 22일 16:30",
+   "news": [
+    {
+     "title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
+     "url": "https://www.yna.co.kr/view/AKR20261121027600008",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "찬 바람이 쌩쌩 불 때, 핫한 로보틱스…CES·테슬라 이벤트 주목[주末머니]",
+     "url": "https://core.asiae.co.kr/article/2026112016445199808",
+     "source": "아시아경제"
     }
    ]
   },
   {
    "kw": "검은 월요일",
-   "traffic": "200+",
+   "traffic": "2000+",
    "when": "11월 22일 16:20",
    "news": [
     {
@@ -29,9 +46,26 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "이형일, 오늘 '긴급 F4회의' 소집…AI 투매發 증시 급락 점검",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445881",
-     "source": "연합인포맥스"
+     "title": "'블랙 먼데이' 공포…韓 금리·美 물가가 증시 향방 가른다 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/22/2026112217351612948",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "인수 합병",
+   "traffic": "200+",
+   "when": "11월 22일 16:20",
+   "news": [
+    {
+     "title": "인텔, 클래식 인수에 … 삼성·미래에셋 '웃음'",
+     "url": "https://stock.mk.co.kr/news/view/1203777",
+     "source": "매일경제 마켓"
+    },
+    {
+     "title": "인텔, 클래시크 인수에 성과 연동 3.5억 달러 추가 지급한다",
+     "url": "https://startuprecipe.co.kr/archives/5840722",
+     "source": "스타트업레시피"
     }
    ]
   },
@@ -71,7 +105,7 @@
   },
   {
    "kw": "이대호",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 22일 15:20",
    "news": [
     {
@@ -80,9 +114,9 @@
      "source": "머니투데이"
     },
     {
-     "title": "‘불꽃야구2’ ‘믿을맨’ 신재영, 삼성 지명 신인과 살 떨리는 맞대결…실점 위기 넘길까",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GJQTKYZUMY3GIYRVGQ3TSMTFMM/",
-     "source": "조선일보"
+     "title": "삼성 라이온즈 이호범 팔꿈치 수술 후 ITP 돌입 : 스포츠",
+     "url": "https://news.jkn.co.kr/post/1114361",
+     "source": "재경일보"
     }
    ]
   },
@@ -92,20 +126,20 @@
    "when": "11월 22일 15:10",
    "news": [
     {
-     "title": "“트럼프, 김정은 만나기 위해 ‘종전선언’ ‘북핵폐기 미요구 성명’까지 검토했다”",
-     "url": "https://www.chosun.com/international/international_general/2026/11/22/RWKEIN6GM5EBHAGVL4MYRNCWEQ/",
-     "source": "조선일보"
+     "title": "\"트럼프, 김정은에 만나자 제안했지만 北 '조건' 내걸어 무산\"",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6867597_36925.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "\"트럼프, 김정은에 만나자 제안했지만 北 '조건' 내걸어 무산\"",
-     "url": "https://www.yna.co.kr/view/AKR20261122023100009",
-     "source": "연합뉴스"
+     "title": "\"트럼프, 김정은에 거듭 '대화' 타진…北이 조건 걸어 회담 무산\" - 머니투데이",
+     "url": "https://www.mt.co.kr/world/2026/11/22/2026112217155565061",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "해저",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 22일 15:00",
    "news": [
     {
@@ -114,9 +148,9 @@
      "source": "경향신문"
     },
     {
-     "title": "충남도 \"해광호 실종자 수색에 예비비 긴급 투입\"",
-     "url": "https://www.yna.co.kr/view/AKR20261122038300063",
-     "source": "연합뉴스"
+     "title": "충남 태안 실종 어선 '해광호', 수색 5일 만에 발견",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6867618_36918.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
@@ -134,40 +168,6 @@
      "title": "트럼프 “핵무기 갖게 두지 않겠다…이란과 영구적인 합의 만들 것”",
      "url": "https://www.hani.co.kr/arti/international/international_general/1288468.html",
      "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "마이너스 통장",
-   "traffic": "200+",
-   "when": "11월 22일 14:50",
-   "news": [
-    {
-     "title": "\"이자 오르고 주식 물리고\"… 40대 마통 연체 82% 폭증",
-     "url": "https://www.chosun.com/economy/economy_general/2026/11/22/YH27EKXIABENZCJZNTFSO4GZNM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "시련의 '빚투'…40대 마통 연체액 올해 들어 82% 증가",
-     "url": "https://www.yna.co.kr/view/AKR20261121040600002",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "외교",
-   "traffic": "1000+",
-   "when": "11월 22일 14:40",
-   "news": [
-    {
-     "title": "이 대통령 “치아 흔들리고 코피 터지지만 임기 초 순방은 국정과제…돼지 눈엔 돼지만 보여”",
-     "url": "https://www.khan.co.kr/article/202611221525001",
-     "source": "경향신문"
-    },
-    {
-     "title": "李 “돼지 눈엔 돼지만…해외 순방, 치아 흔들리고 코피 터지는 일”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261122/135066467/1",
-     "source": "동아일보"
     }
    ]
   }
