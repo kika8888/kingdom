@@ -1,14 +1,122 @@
 {
- "updated": "2026-11-23 01:23",
+ "updated": "2026-11-23 02:23",
  "items": [
+  {
+   "kw": "ลิเวอร์พูล พบ แมนยู",
+   "traffic": "200+",
+   "when": "11월 23일 01:10",
+   "news": [
+    {
+     "title": "การถ่ายทอดสดการแข่งขันระหว่างลิเวอร์พูลกับแมนยูฯ 2-0 (ครึ่งแรก): ลิเวอร์พูลยิงสองประตูอย่างรวดเร็ว",
+     "url": "https://www.vietnam.vn/th/truc-tiep-liverpool-vs-mu-2-0-hiep-1-liverpool-ghi-2-ban-chong-vanh",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "ทุกสิ่งที่ควรรู้ : ก่อนแดงจะเดือดครั้งที่219",
+     "url": "https://www.naewna.com/n/sports/186865/",
+     "source": "แนวหน้า"
+    }
+   ]
+  },
+  {
+   "kw": "리버풀 맨유",
+   "traffic": "500+",
+   "when": "11월 23일 00:50",
+   "news": [
+    {
+     "title": "맨유 포체티노, 데뷔전 앞두고 기자회견 지각…“샤워할 시간도 없었어”",
+     "url": "https://www.donga.com/news/Sports/article/all/20261121/135064952/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "축구의 묘미는 역시 ‘바이시클킥’",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8716627",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "청년문화예술패스",
+   "traffic": "100+",
+   "when": "11월 23일 00:50",
+   "news": []
+  },
+  {
+   "kw": "라민 야말",
+   "traffic": "100+",
+   "when": "11월 23일 00:50",
+   "news": [
+    {
+     "title": "페이호 \"라민 야말의 활약은 특별하다\", 스페인이 2030 월드컵 결승전 개최해야",
+     "url": "https://www.allfootballapp.com/ko/articles/6037663-2030",
+     "source": "AllFootball"
+    },
+    {
+     "title": "‘스페인 월드컵 개최 포기?’ 불타는 의지, 바르셀로나-레알 마드리드 안방에서? “챔피언이잖아...그렇게 될 것”",
+     "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%83%E1%85%B3%E1%84%8F%E1%85%A5%E1%86%B8-%E1%84%80%E1%85%A2%E1%84%8E%E1%85%AC-%E1%84%91%E1%85%A9%E1%84%80%E1%85%B5-%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%91%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%90%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%B5-%E1%84%87%E1%85%A1%E1%84%85%E1%85%B3%E1%84%89%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A9%E1%84%82%E1%85%A1-%E1%84%85%E1%85%A6%E1%84%8B%E1%85%A1%E1%86%AF-%E1%84%86%E1%85%A1%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%84%83%E1%85%B3-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5--%E1%84%8E%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%AD%E1%84%8B%E1%85%A1--%E1%84%80%E1%85%B3%E1%84%85%E1%85%A5%E1%87%82%E1%84%80%E1%85%A6-%E1%84%83%E1%85%AC%E1%86%AF-%E1%84%80%E1%85%A5%E1%86%BA/bltd770ea97e8d68e28",
+     "source": "Goal.com"
+    }
+   ]
+  },
+  {
+   "kw": "liverpool vs man utd",
+   "traffic": "1000+",
+   "when": "11월 23일 00:40",
+   "news": [
+    {
+     "title": "Liverpool vs Manchester United LIVE: Premier League build-up, team news, stats & updates",
+     "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
+     "source": "BBC"
+    },
+    {
+     "title": "Andoni Iraola programme notes | Why Liverpool need to be 'all in' from the off today",
+     "url": "https://www.liverpoolfc.com/news/andoni-iraola-programme-notes-liverpool-all-in-manchester-united",
+     "source": "Liverpool FC"
+    }
+   ]
+  },
+  {
+   "kw": "리버풀 대 맨유",
+   "traffic": "10000+",
+   "when": "11월 23일 00:30",
+   "news": [
+    {
+     "title": "“새 감독 선임한 맨유가 어떤 축구를 할지 모르겠다”… 노스웨스트 더비 앞두고 경계심 드러낸 리버풀 감독, “경기 초반이 중요”",
+     "url": "https://www.besteleven.com/news/articleView.html?idxno=314241",
+     "source": "베스트일레븐"
+    },
+    {
+     "title": "리버풀은 안필드에서 맨체스터 유나이티드를 상대로 전력을 회복해야 합니다.",
+     "url": "https://www.vietnam.vn/ko/liverpool-can-lay-lai-suc-manh-tai-anfield-truoc-man-united",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "fc barcelona vs villarreal cf standings",
+   "traffic": "500+",
+   "when": "11월 23일 00:30",
+   "news": [
+    {
+     "title": "Barcelona vs Villarreal Confirmed Lineups",
+     "url": "https://www.whoscored.com/news/UYwB3kUYiU2gZN87H5q8SA/show/cng112-20261122-barcelona-vs-villarreal-confirmed-lineup-1795348094",
+     "source": "WhoScored.com"
+    },
+    {
+     "title": "Licensable picture: Soccer 2026: LaLiga: FC Barcelona - Villarreal CF",
+     "url": "https://www.reutersconnect.com/item/soccer-2026-laliga-fc-barcelona-villarreal-cf/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBPWlVWMVg",
+     "source": "Reuters Connect"
+    }
+   ]
+  },
   {
    "kw": "u17 월드컵",
    "traffic": "100+",
    "when": "11월 23일 00:20",
    "news": [
     {
-     "title": "국왕은 뉴질랜드 U-17과의 경기 전에 크리스티아누 롤랑 감독으로부터 받은 특별한 조언을 공개했습니다.",
-     "url": "https://www.vietnam.vn/ko/quy-vuong-he-lo-loi-dan-dac-biet-cua-hlv-cristiano-roland-truoc-tran-gap-u-17-new-zealand",
+     "title": "베트남 U-17 대 뉴질랜드 U-17 경기를 주재한 카메룬 심판의 신원이 밝혀졌습니다.",
+     "url": "https://www.vietnam.vn/ko/lo-danh-tinh-trong-tai-nguoi-cameroon-bat-chinh-tran-u-17-viet-nam-vs-u-17-new-zealand",
      "source": "Vietnam.vn"
     },
     {
@@ -19,25 +127,8 @@
    ]
   },
   {
-   "kw": "la liga",
-   "traffic": "500+",
-   "when": "11월 22일 23:50",
-   "news": [
-    {
-     "title": "Barcelona vs Villarreal Confirmed Lineups",
-     "url": "https://www.whoscored.com/news/UYwB3kUYiU2gZN87H5q8SA/show/cng112-20261122-barcelona-vs-villarreal-confirmed-lineup-1795348094",
-     "source": "WhoScored.com"
-    },
-    {
-     "title": "Mbappé curse strikes Yamal: disastrous historic record as Raphinha pays the price",
-     "url": "https://www.goal.com/en/news/mbappe-curse-strikes-yamal-disastrous-historic-record-as-raphinha-pays-the-price/blt049a22c7245535b3",
-     "source": "Goal.com"
-    }
-   ]
-  },
-  {
    "kw": "브라이튼",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 22일 23:30",
    "news": [
     {
@@ -56,97 +147,6 @@
    "kw": "백종헌",
    "traffic": "200+",
    "when": "11월 22일 23:10",
-   "news": [
-    {
-     "title": "검증 안 된 농산물 성분 광고 제동…과학적 근거 따진다",
-     "url": "https://www.news1.kr/bio/welfare-medical/6361990",
-     "source": "뉴스1"
-    },
-    {
-     "title": "기능성 농산물 표시제 놓고 식약처·농식품부 충돌…법사위 제동",
-     "url": "https://www.foodtoday.or.kr/news/article.html?no=209942",
-     "source": "푸드투데이"
-    }
-   ]
-  },
-  {
-   "kw": "아우크스부르크 대 마인츠 05",
-   "traffic": "1000+",
-   "when": "11월 22일 22:50",
-   "news": [
-    {
-     "title": "Louisville vs. Seattle U (Nov 22, 2026) Live Score",
-     "url": "https://www.espn.com/womens-college-basketball/game/_/gameId/401929635/louisville-seattle-u",
-     "source": "ESPN"
-    },
-    {
-     "title": "Picked! Darrell Sweeting hauls in the interception",
-     "url": "https://www.espn.com/video/clip/_/id/50557603/picked-darrell-sweeting-hauls-interception",
-     "source": "ESPN"
-    }
-   ]
-  },
-  {
-   "kw": "맨유 리버풀",
-   "traffic": "500+",
-   "when": "11월 22일 22:50",
-   "news": [
-    {
-     "title": "“새 감독 선임한 맨유가 어떤 축구를 할지 모르겠다”… 노스웨스트 더비 앞두고 경계심 드러낸 리버풀 감독, “경기 초반이 중요”",
-     "url": "https://www.besteleven.com/news/articleView.html?idxno=314241",
-     "source": "베스트일레븐"
-    },
-    {
-     "title": "리버풀은 안필드에서 맨체스터 유나이티드를 상대로 전력을 회복해야 합니다.",
-     "url": "https://www.vietnam.vn/ko/liverpool-can-lay-lai-suc-manh-tai-anfield-truoc-man-united",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "조정석",
-   "traffic": "100+",
-   "when": "11월 22일 22:40",
-   "news": []
-  },
-  {
-   "kw": "총파업",
-   "traffic": "200+",
-   "when": "11월 22일 22:40",
-   "news": [
-    {
-     "title": "철도노조 23일 쟁의행위 돌입…코레일 비상 체제",
-     "url": "https://www.yna.co.kr/view/AKR20261122021300063",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "서울 지하철에 KTX까지…준법투쟁에 '무기한 총파업' 엄포 - 머니투데이",
-     "url": "https://www.mt.co.kr/policy/2026/11/22/2026112209541850230",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "지드래곤",
-   "traffic": "2000+",
-   "when": "11월 22일 22:30",
-   "news": [
-    {
-     "title": "\"첫사랑 결혼\" 태양, ♥민효린 子육아에 8년 활동중단..미안해서 오열 \"주책이다\" [Oh!쎈 이슈]",
-     "url": "https://www.koreadaily.com/article/20261121043352952",
-     "source": "미주중앙일보"
-    },
-    {
-     "title": "빅뱅, 신곡 ‘기립’ 최초 공개..‘2026 MAMA’ 빛낸 ‘레전드’의 위엄",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/22/MQYDOZRQGBRTGYRTGJSWINTFMY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "persib bandung vs bali united",
-   "traffic": "100+",
-   "when": "11월 22일 22:30",
    "news": []
   }
  ]
