@@ -1,9 +1,43 @@
 {
- "updated": "2026-11-22 19:24",
+ "updated": "2026-11-22 20:09",
  "items": [
   {
+   "kw": "원자력 잠수함",
+   "traffic": "200+",
+   "when": "11월 22일 18:40",
+   "news": [
+    {
+     "title": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
+     "url": "https://www.mk.co.kr/news/politics/12215581",
+     "source": "매일경제"
+    },
+    {
+     "title": "민주당 “핵잠 도입, 국제사회 신뢰 확인…핵비확산 원칙 담아 특별법 뒷받침”",
+     "url": "https://www.dt.co.kr/article/12096468",
+     "source": "www.dt.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "정상회담",
+   "traffic": "200+",
+   "when": "11월 22일 18:30",
+   "news": [
+    {
+     "title": "트럼프 “미·중·러, 한반도 위험 논의”…핵 감축엔 “동의 어려워”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719193",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "트럼프는 ‘사진’, 시진핑은 ‘위상’, 푸틴은 ‘시간’ 챙겼다…‘강대국 외교’의 귀환",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01859766645648344",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
    "kw": "서울 경전철 서부선",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 22일 18:20",
    "news": [
     {
@@ -20,7 +54,7 @@
   },
   {
    "kw": "무신사",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 22일 18:10",
    "news": [
     {
@@ -58,9 +92,9 @@
    "when": "11월 22일 18:10",
    "news": [
     {
-     "title": "김혜윤 능력 알아본 장나라…'굿파트너2' 8.4% 출발",
-     "url": "https://www.yna.co.kr/view/AKR20261121023000005",
-     "source": "연합뉴스"
+     "title": "장나라X김혜윤, 손잡자마자 터졌다…‘굿파트너2’ 2회 만에 최고 10% 돌파",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/GFRGCZDEGMYDOMZQMYZWGMDDMY/",
+     "source": "조선일보"
     },
     {
      "title": "베테랑 사무장 떴다! 차유진, '굿파트너2' 첫 등장",
@@ -71,18 +105,18 @@
   },
   {
    "kw": "금융위기",
-   "traffic": "2000+",
+   "traffic": "200+",
    "when": "11월 22일 18:00",
    "news": [
     {
-     "title": "外人 매도 금융위기급…\"코스피, 극단 이미 반영했다\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445893",
-     "source": "연합인포맥스"
+     "title": "반도체 전망 좋은데, 삼전닉스는 급락…'45조 증발' 한국 주식 버리는 외국인, 왜?",
+     "url": "https://www.etnews.com/20261122000065",
+     "source": "전자신문"
     },
     {
-     "title": "[도청도설] 무너진 5천피",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261123.22022006838",
-     "source": "국제신문"
+     "title": "“미국인들, 삼전닉스 왜 팔죠?”…외국인 두 달 간 국내 주식 45조 순매도",
+     "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005966163",
+     "source": "매일경제TV"
     }
    ]
   },
@@ -92,14 +126,14 @@
    "when": "11월 22일 18:00",
    "news": [
     {
-     "title": "India A vs Pakistan Shaheens ACC Men's Asia Cup Rising Stars score, toss winner, winning probability, result and highlights from Doha",
-     "url": "https://sports.yahoo.com/articles/india-vs-pakistan-shaheens-acc-065651378.html",
+     "title": "IND vs PAK Asia Cup Rising Stars toss 'cheating' controversy: Abdul Samad questions match referee's call as Tilak Varma watches",
+     "url": "https://sports.yahoo.com/articles/ind-vs-pak-asia-cup-103413698.html",
      "source": "Yahoo Sports"
     },
     {
-     "title": "India A vs Pakistan Shaheens: Battles Within the Battle",
-     "url": "https://revsportz.in/india-a-vs-pakistan-shaheens-battles-within-the-battle/",
-     "source": "Revsportz"
+     "title": "Pakistan A opt to bat against India A; both teams unchanged",
+     "url": "https://www.cricinfo.com/story/ind-vs-pak-asia-cup-rising-stars-pakistan-a-opt-to-bat-against-india-a-both-sides-unchanged-1563603",
+     "source": "Cricinfo"
     }
    ]
   },
@@ -114,9 +148,9 @@
      "source": "KBS 뉴스"
     },
     {
-     "title": "정년연장 논의 재개 앞두고…김영훈 \"합의 안 되면 정부가 나설 것\"",
-     "url": "https://www.chosun.com/national/labor/2026/11/22/4ENU5B5NBFH2NE3ME22UYORJPY/",
-     "source": "조선일보"
+     "title": "“정년 연장, 與 결론 안내면 정부 입장 낼 것”(종합)",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&key=20261123.22004006871",
+     "source": "국제신문"
     }
    ]
   },
@@ -126,48 +160,14 @@
    "when": "11월 22일 17:30",
    "news": [
     {
-     "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
-     "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
+     "title": "내일 전국 비·강원산지 최대 5㎝ 눈…영하 4도 추위 이어져",
+     "url": "https://www.donga.com/news/Society/article/all/20261122/135066816/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "[날씨] 가을비 내리는 월요일 '강풍 주의'",
+     "url": "https://www.ytn.co.kr/_ln/0108_202611221924367592",
      "source": "YTN"
-    },
-    {
-     "title": "[날씨] 내일 전국 비…강원 최대 8㎝ 눈, 추위는 주춤",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261122190107Kdr",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "노동자",
-   "traffic": "1000+",
-   "when": "11월 22일 16:50",
-   "news": [
-    {
-     "title": "고용허가제 22년…이주노동자는 왜 위험한 일터를 떠나지 못하나",
-     "url": "https://www.hani.co.kr/arti/area/capital/1288512.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "[한국 입국과 그 이후 12] 외국인 노동자가 산재를 당하면 체류는?",
-     "url": "https://www.eroun.net/news/articleView.html?idxno=90955",
-     "source": "이로운넷"
-    }
-   ]
-  },
-  {
-   "kw": "코스닥",
-   "traffic": "100+",
-   "when": "11월 22일 16:30",
-   "news": [
-    {
-     "title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
-     "url": "https://www.yna.co.kr/view/AKR20261121027600008",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "찬 바람이 쌩쌩 불 때, 핫한 로보틱스…CES·테슬라 이벤트 주목[주末머니]",
-     "url": "https://core.asiae.co.kr/article/2026112016445199808",
-     "source": "아시아경제"
     }
    ]
   }
