@@ -401,7 +401,8 @@
    "https://blog.naver.com/soduwk1209/224425171549",
    "https://blog.naver.com/soduwk1209/224487190937",
    "https://blog.naver.com/soduwk1209/224422307464",
-   "https://blog.naver.com/soduwk1209/224487229212"
+   "https://blog.naver.com/soduwk1209/224487229212",
+   "https://blog.naver.com/soduwk1209/224487260281"
   ],
   "started": true,
   "v": 2,
@@ -879,7 +880,9 @@
    "https://blog.naver.com/soduwk1209/224486285623",
    "https://blog.naver.com/soduwk1209/224486308297",
    "https://blog.naver.com/soduwk1209/224487190937",
-   "https://blog.naver.com/soduwk1209/224487229212"
+   "https://blog.naver.com/soduwk1209/224487229212",
+   "https://blog.naver.com/soduwk1209/224487260281",
+   "https://blog.naver.com/soduwk1209/224487240085"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224422282636",
@@ -955,7 +958,7 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1795341774.6748297,
-  "tone": "친구",
+  "tone": "존댓말",
   "hooks": [
    "와 임영웅 이런 일이 있었네",
    "화제의 소식",
@@ -973,7 +976,9 @@
    "송지효 무슨 일이야?",
    "조세호 이야기"
   ],
-  "queue": [],
+  "queue": [
+   "https://blog.naver.com/soduwk1209/224487240085"
+  ],
   "reply_ok": true
  },
  "dkdk521": {
