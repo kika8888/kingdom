@@ -1,9 +1,26 @@
 {
- "updated": "2026-11-23 18:23",
+ "updated": "2026-11-23 19:23",
  "items": [
   {
+   "kw": "fc서울",
+   "traffic": "100+",
+   "when": "11월 23일 18:10",
+   "news": [
+    {
+     "title": "FC서울 우승턱 쏜다! 다자녀 가족 100가구 무료 초청…25일 신청",
+     "url": "https://mediahub.seoul.go.kr/archives/2020139",
+     "source": "서울특별시"
+    },
+    {
+     "title": "서울시, FC서울 홈경기에 다자녀 100가구 초청…25일 신청",
+     "url": "https://www.yna.co.kr/view/AKR20261122028600004",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
    "kw": "고규필",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 23일 17:20",
    "news": [
     {
@@ -37,7 +54,7 @@
   },
   {
    "kw": "sa vs ban",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 23일 17:20",
    "news": [
     {
@@ -46,15 +63,15 @@
      "source": "Cricinfo"
     },
     {
-     "title": "South Africa vs Bangladesh, 2nd Test: Injuries won't take the sting out of Centurion Test",
-     "url": "https://www.cricbuzz.com/cricket-news/141019/south-africa-vs-bangladesh-2nd-test-injuries-wont-take-the-sting-out-of-centurion-test-cricbuzzcom",
-     "source": "Cricbuzz"
+     "title": "Proteas confirm stand-in captain for second Bangladesh Test",
+     "url": "https://www.icc-cricket.com/tournaments/world-test-championship/news/proteas-confirm-stand-in-captain-for-second-bangladesh-test",
+     "source": "ICC"
     }
    ]
   },
   {
    "kw": "김동현",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 23일 17:00",
    "news": [
     {
@@ -97,9 +114,9 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "[뉴스분석] 엇갈리는 '계엄 책임론'…국민의힘, 비상계엄 2년 앞두고 갑론을박",
-     "url": "https://www.newspim.com/news/view/20261123000524",
-     "source": "뉴스핌"
+     "title": "“내란 인정하라고 지X 지X”…국힘 김태규, 민주당에 막말",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1288600.html",
+     "source": "한겨레"
     }
    ]
   },
@@ -126,14 +143,14 @@
    "when": "11월 23일 16:30",
    "news": [
     {
-     "title": "[쇼츠] 日서 불뿜은 아파치·블랙호크…주한미군 헬기, 첫 해외 실사격",
-     "url": "https://www.yna.co.kr/view/AKR20261123141500704",
-     "source": "연합뉴스"
-    },
-    {
      "title": "주한미군 아파치·블랙호크 헬기, 일본에서 첫 실사격 훈련",
      "url": "https://imnews.imbc.com/news/2026/politics/article/6867862_36911.html",
      "source": "MBC 뉴스"
+    },
+    {
+     "title": "한·미·일 '원정·핵잠' 2연타…불편한 속내 드러낸 중국",
+     "url": "http://www.securityfact.co.kr/news/view.php?no=8148",
+     "source": "시큐리티팩트"
     }
    ]
   },
@@ -151,23 +168,6 @@
      "title": "\"친일 남주? 죽어도 옹호 안 돼\"…'100일의 거짓말' 시청자 반발 - 머니투데이",
      "url": "https://www.mt.co.kr/culture/2026/11/23/2026112316121982924",
      "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "심진화",
-   "traffic": "1000+",
-   "when": "11월 23일 16:00",
-   "news": [
-    {
-     "title": "심진화, 김원효 ‘트랜스젠더 바’ 논란에 \"후배 만나러 갔다\"",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611231012432150",
-     "source": "YTN"
-    },
-    {
-     "title": "‘심진화♥’ 김원효, 1억 재산 오해…영화관 결혼식 비하인드 (개세모2)",
-     "url": "https://sports.donga.com/ent/article/all/20261123/135071040/1",
-     "source": "스포츠동아"
     }
    ]
   }
