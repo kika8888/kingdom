@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-23 16:23",
+ "updated": "2026-11-23 17:23",
  "items": [
   {
-   "kw": "휴림로봇",
+   "kw": "100 일 의 거짓말",
    "traffic": "200+",
+   "when": "11월 23일 16:20",
+   "news": [
+    {
+     "title": "김유정·박진영 ‘100일의 거짓말’, 종영 2회 남기고…11.7% 자체 최고 시청률 경신",
+     "url": "https://www.mk.co.kr/news/broadcasting-service/12215812",
+     "source": "매일경제"
+    },
+    {
+     "title": "\"친일 남주? 죽어도 옹호 안 돼\"…'100일의 거짓말' 시청자 반발 - 머니투데이",
+     "url": "https://www.mt.co.kr/culture/2026/11/23/2026112316121982924",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "심진화",
+   "traffic": "500+",
+   "when": "11월 23일 16:00",
+   "news": [
+    {
+     "title": "김원효 '트랜스젠더 바' 대신 해명한 심진화 \"오른쪽 사람이…\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112215225582798",
+     "source": "머니투데이"
+    },
+    {
+     "title": "대표적 잉꼬부부인데…김원효 트렌스젠더바 방문 논란 해프닝",
+     "url": "https://www.hankyung.com/article/2026112223507",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "원자력",
+   "traffic": "500+",
+   "when": "11월 23일 16:00",
+   "news": [
+    {
+     "title": "팀코리아 \"체코 원전사업 차질 없어…적기준공 약속 최우선\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123079700003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "체코 두코바니 ’팀코리아’, 적기 준공 결의",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261123134127yhs",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "휴림로봇",
+   "traffic": "500+",
    "when": "11월 23일 15:10",
    "news": [
     {
@@ -20,18 +71,18 @@
   },
   {
    "kw": "권한쟁의심판",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 23일 15:10",
    "news": [
     {
-     "title": "국힘 \"조작기소 특검법 처리로 표결권 침해\" 권한쟁의심판 청구",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6867819_36911.html",
-     "source": "MBC 뉴스"
+     "title": "[단독] “李 파기환송 사건은 민주당 선거비 반환 직결사안”⋯ 국힘, 특검법 권한쟁의 청구",
+     "url": "https://www.kmib.co.kr/article/20261123500952",
+     "source": "국민일보"
     },
     {
-     "title": "[영상] 국민의힘 규탄대회",
-     "url": "https://www.ytn.co.kr/_ln/0101_202611231251392007",
-     "source": "YTN"
+     "title": "국민의힘, '조작기소 특검법 강행 처리' 헌재 권한쟁의심판 청구",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859223&plink=RSSLINK&cooper=GSTAND",
+     "source": "news.sbs.co.kr"
     }
    ]
   },
@@ -46,9 +97,9 @@
      "source": "조선일보"
     },
     {
-     "title": "아직도 신천지로 싸우는 민주당 지도부…‘일제 부역자’ 비유까지 나와",
-     "url": "https://www.khan.co.kr/article/202611231544001",
-     "source": "경향신문"
+     "title": "[여의도1번지] 조희대 탄핵 추진 충돌…與 ’신천지’ 계파갈등 폭발",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611231628317RD",
+     "source": "연합뉴스TV"
     }
    ]
   },
@@ -58,9 +109,9 @@
    "when": "11월 23일 14:50",
    "news": [
     {
-     "title": "양산전국하프마라톤 12월 6일 개최, 8천여 명이 힘차게 달린다",
-     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722930",
-     "source": "뉴스타운"
+     "title": "양산시 유일 하프마라톤대회, 12월 6일 개최…전문 경호인력 첫 배치",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261123.99099007206",
+     "source": "국제신문"
     },
     {
      "title": "8000명 달린다…양산하프마라톤 안전관리 강화",
@@ -75,14 +126,14 @@
    "when": "11월 23일 14:40",
    "news": [
     {
-     "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
-     "url": "https://news.jtbc.co.kr/article/NB12329370",
-     "source": "JTBC"
-    },
-    {
      "title": "국힘 \"'한덕수 1심' 이진관 판사, 법왜곡죄로 고발할 계획\"",
      "url": "https://imnews.imbc.com/news/2026/politics/article/6867816_36911.html",
      "source": "MBC 뉴스"
+    },
+    {
+     "title": "국힘, 한덕수에 ‘징역 23년’ 선고한 이진관 판사 법왜곡죄 고발 추진…“거의 다 파기”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261123/135074955/1",
+     "source": "동아일보"
     }
    ]
   },
@@ -97,9 +148,9 @@
      "source": "스포츠동아"
     },
     {
-     "title": "‘상남자의 여행법’ 김종국, 고교 졸업까지 부업한 사연… “며칠 일해 3500원 벌어”",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3451207",
-     "source": "천지일보"
+     "title": "'무대출 62억 집' 김종국, 짠돌이 이유…\"어린 시절 부업 생활\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/23/2026112316434352512",
+     "source": "머니투데이"
     }
    ]
   },
@@ -109,65 +160,14 @@
    "when": "11월 23일 14:30",
    "news": [
     {
-     "title": "‘공짜 임플란트 주의보’ 건보공단 부당청구 집중 점검",
-     "url": "https://bravo.etoday.co.kr/view/atc_view/20539",
-     "source": "이투데이"
+     "title": "건보 이사장, 병원협회 만나 \"특사경 제도적 통제장치 마련\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123084400530",
+     "source": "연합뉴스"
     },
     {
-     "title": "“임플란트 공짜로 해드려요”…건보 지급액 3000만원→9억원, 공단 전수조사",
-     "url": "https://www.donga.com/news/Society/article/all/20261123/135073789/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "변리사",
-   "traffic": "500+",
-   "when": "11월 23일 14:10",
-   "news": [
-    {
-     "title": "변리사 시험도 수상?…’고득점자 급증’만으로 단정 어려워",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123155118Sun",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "세무사 이어 변리사도 ‘이상 급증’…2차 고득점자 14배 늘었다",
-     "url": "https://www.donga.com/news/Economy/article/all/20261123/135071932/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "정형돈",
-   "traffic": "500+",
-   "when": "11월 23일 14:10",
-   "news": [
-    {
-     "title": "'21kg 감량' 정형돈, 마운자로 맞고 홀쭉…\"눈밑지 시술\" 고백 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/23/2026112306202219015",
-     "source": "머니투데이"
-    },
-    {
-     "title": "정형돈, 살 21kg 빼더니 결국 '마운자로' 고백..정재형 \"얼굴 확 좋아져\" 깜짝[핫피플]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/22/HFSGEYRQGA4DEOBYMFRGIYJTHE/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "트리플스타",
-   "traffic": "200+",
-   "when": "11월 23일 14:10",
-   "news": [
-    {
-     "title": "'횡령 무혐의' 트리플스타 강승원, 재혼…백종원·안성재 하객 포착 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/23/2026112314553830902",
-     "source": "머니투데이"
-    },
-    {
-     "title": "사생활 논란 딛고…‘흑백요리사’ 유명 셰프, 깜짝 재혼 발표",
-     "url": "https://www.mk.co.kr/news/culture/12216020",
-     "source": "매일경제"
+     "title": "건보공단-병원협회, 보건의료 발전과 건강보험 지속가능성 위해 소통·협력 확대",
+     "url": "https://zdnet.co.kr/view/?no=20261123151942",
+     "source": "지디넷코리아"
     }
    ]
   }
