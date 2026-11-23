@@ -1,20 +1,54 @@
 {
- "updated": "2026-11-24 02:23",
+ "updated": "2026-11-24 03:23",
  "items": [
   {
-   "kw": "u17 việt nam",
+   "kw": "노태문",
    "traffic": "100+",
+   "when": "11월 24일 02:00",
+   "news": [
+    {
+     "title": "삼성전자 사장단 인사 – 삼성전자 뉴스룸",
+     "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%82%AC%EC%9E%A5%EB%8B%A8-%EC%9D%B8%EC%82%AC-2",
+     "source": "samsung.com"
+    },
+    {
+     "title": "삼성-SK 잇단 금요일 인사 뒤엔 ‘안정 속 쇄신’ [재계팀의 비즈워치]",
+     "url": "https://www.donga.com/news/Economy/article/all/20261123/135076262/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "sk그룹",
+   "traffic": "200+",
+   "when": "11월 24일 01:30",
+   "news": [
+    {
+     "title": "최태원 “재산분할금 9440억원 다 내겠다”…대법원에 ‘화해권고’ 신청",
+     "url": "https://www.chosun.com/national/court_law/2026/11/23/YBLJ2QLL6NFGTO63M5QNF2HWKU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "최태원 \"9천440억 전액 지급\"‥'세기의 이혼' 마무리 요청",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867926_37004.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "u17 việt nam",
+   "traffic": "200+",
    "when": "11월 24일 01:00",
    "news": [
     {
-     "title": "Báo New Zealand: 'Gặp Việt Nam là cơ hội tốt nhất để thắng ở U17 World Cup'",
-     "url": "https://vnexpress.net/bao-new-zealand-gap-viet-nam-la-co-hoi-tot-nhat-de-thang-o-u17-world-cup-5148090.html",
-     "source": "VnExpress"
+     "title": "Bảng xếp hạng mới nhất U.17 Việt Nam: Tạm đứng tốp 3, ngay sau á quân châu Âu U.17 Bỉ",
+     "url": "https://thanhnien.vn/bang-xep-hang-moi-nhat-u17-viet-nam-tam-dung-top-3-ngay-sau-a-quan-chau-au-u17-bi-185261124003529609.htm",
+     "source": "Thanh Niên"
     },
     {
-     "title": "Siêu máy tính dự đoán tỷ số trận U17 Việt Nam gặp U17 New Zealand",
-     "url": "https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ty-so-tran-u17-viet-nam-gap-u17-new-zealand-20261123134223838.htm",
-     "source": "Báo Dân trí"
+     "title": "Việt Nam làm tạo kỳ tích World Cup sau 9 năm, New Zealand lại là 'nạn nhân'",
+     "url": "https://thethao247.vn/426-viet-nam-lam-tao-ky-tich-world-cup-sau-9-nam-new-zealand-lai-la-nan-nhan-c1-d446968.html",
+     "source": "Thể Thao 247"
     }
    ]
   },
@@ -58,14 +92,14 @@
    "when": "11월 23일 23:40",
    "news": [
     {
-     "title": "A New ‘Avengers: Doomsday’ Trailer Heralds a Crisis on All Earths",
-     "url": "https://gizmodo.com/a-new-avengers-doomsday-trailer-heralds-a-crisis-on-all-earths-2000843702",
-     "source": "Gizmodo"
+     "title": "'Avengers: Doomsday' final trailer reveals key X-Men moment and Hailee Steinfeld's return. Plus, 4 other things we spotted.",
+     "url": "https://www.yahoo.com/entertainment/movies/article/avengers-doomsday-final-trailer-gives-first-look-at-hailee-steinfeld-plus-3-other-things-we-spotted-144448737.html",
+     "source": "Yahoo"
     },
     {
-     "title": "Trailer: \"Avengers Doomsday\" Shows Chris Evans, Hemsworth in Charge, Orchestra Going Crazy, Pedro Pascal as Reed Richards in Leisure Suit",
-     "url": "https://www.showbiz411.com/2026/11/23/trailer-avengers-doomsday-shows-chris-evans-hemsworth-in-charge-orchestra-going-crazy-pedro-pascal-as-reed-richards-in-leisure-suit",
-     "source": "Showbiz411"
+     "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
+     "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+     "source": "Ars Technica"
     }
    ]
   },
@@ -80,9 +114,9 @@
      "source": "Traders Union"
     },
     {
-     "title": "Liquidation Levels indicator offers new TradingView integration, Joao Wedson states",
-     "url": "https://tradersunion.com/news/market-voices/show/4378264-liquidation-indicator-tradingview-integration/",
-     "source": "Traders Union"
+     "title": "Black Friday Sale Now Live!",
+     "url": "https://essexcricket.org.uk/2026/11/23/black-friday-sale-now-live/",
+     "source": "Essex Cricket"
     }
    ]
   },
@@ -126,48 +160,14 @@
    "when": "11월 23일 23:30",
    "news": [
     {
-     "title": "Qld critical mineral to supply fighter jets, subs, smartphones",
-     "url": "https://www.ntnews.com.au/news/queensland/queensland-critical-minerals-to-power-us-fighter-jets-after-far-north-mine-expansion/news-story/f0d84e9c4337875a8f07c0207db662d6",
-     "source": "NT News"
+     "title": "‘Proud’: Gold Coast public school named among the state’s Top 100",
+     "url": "https://www.themercury.com.au/education/regions/queensland/benowa-state-high-school-named-gold-coasts-top-public-high-school-in-national-rankings/news-story/088e33236dcb8480ead5a68a06f99325",
+     "source": "The Mercury"
     },
     {
-     "title": "Lot 5 Muller Road, Baffle Creek, Qld 4674",
-     "url": "https://www.realestate.com.au/property-lifestyle-qld-baffle+creek-700432860",
-     "source": "Real Estate"
-    }
-   ]
-  },
-  {
-   "kw": "voo",
-   "traffic": "100+",
-   "when": "11월 23일 23:30",
-   "news": [
-    {
-     "title": "Voo do VOA + SC entre Joaçaba e Florianópolis não permite bate e volta no mesmo dia",
-     "url": "https://noticias.sc.gov.br/voo-do-voa-sc-entre-joacaba-e-florianopolis-nao-permite-bate-e-volta-no-mesmo-dia/",
-     "source": "Governo de Santa Catarina"
-    },
-    {
-     "title": "Aviação regional reduz tempo de deslocamento para transplantes e tratamentos específicos de saúde em SC",
-     "url": "https://www.acaert.com.br/noticia/64545/aviacao-regional-reduz-tempo-de-deslocamento-para-transplantes-e-tratamentos-especificos-de-saude-em-sc",
-     "source": "Acaert"
-    }
-   ]
-  },
-  {
-   "kw": "옆자리 프란체스카",
-   "traffic": "200+",
-   "when": "11월 23일 23:20",
-   "news": [
-    {
-     "title": "20년 만에 돌아온 뱀파이어들…'옆자리, 프란체스카' 오늘(23일) 첫 방송",
-     "url": "https://m.imbc.com/enews/view/525711",
-     "source": "MBC"
-    },
-    {
-     "title": "'카리나 절친' 한수아, 뱀파이어 전학생 된다⋯'옆자리, 프란체스카' 오늘(23일) 첫방",
-     "url": "https://www.etoday.co.kr/news/view/2651603",
-     "source": "이투데이"
+     "title": "Top 100 Public High Schools: Geelong school named one of the state’s best",
+     "url": "https://www.adelaidenow.com.au/education/regions/victoria/victorias-top-100-public-high-schools-see-the-geelong-school-that-made-the-list-in-2026/news-story/2c7f9124e47db1471ae185f257694390",
+     "source": "Adelaide Now"
     }
    ]
   }
