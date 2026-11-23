@@ -1,173 +1,173 @@
 {
- "updated": "2026-11-23 23:23",
+ "updated": "2026-11-24 00:22",
  "items": [
+  {
+   "kw": "코스피 야간선물",
+   "traffic": "1000+",
+   "when": "11월 23일 23:10",
+   "news": [
+    {
+     "title": "증시 변동성 확대에 정부, 증시안정펀드 즉시 가동 준비",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976310&pWise=sub&pWiseSub=C4",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "이형일 \"추가 비상계획 있어...공매도, 추가 규제보다 감시\"",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611232242473417",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "코인니스",
+   "traffic": "200+",
+   "when": "11월 23일 23:10",
+   "news": [
+    {
+     "title": "\"분산 투자할 곳이 없다\"…1년 만에 '에브리씽 랠리'에서 '에브리씽 크래시'",
+     "url": "https://www.hankyung.com/article/202611233526i",
+     "source": "한국경제"
+    },
+    {
+     "title": "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719555",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "jensen huang",
+   "traffic": "5000+",
+   "when": "11월 23일 23:00",
+   "news": [
+    {
+     "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+     "source": "NVIDIA Newsroom"
+    },
+    {
+     "title": "Nasdaq roars back by 6% as Nvidia soars on Huang’s return, S&P 500 rebounds 4%: Live updates",
+     "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+     "source": "CNBC"
+    }
+   ]
+  },
+  {
+   "kw": "둠스데이",
+   "traffic": "500+",
+   "when": "11월 23일 23:00",
+   "news": [
+    {
+     "title": "1000만 열광했던 마블 재도약? ‘어벤져스5’, 로다주 앞세운 흥행 전망은",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261122/135065402/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "로다주, '어벤져스: 둠스데이' 빌런으로 컴백..\"상상보다 10배 강력\" 소감",
+     "url": "https://www.chosun.com/entertainments/movie/2026/11/23/G44DGYJVGVRDONTFGYYDANBYGQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "박준형",
+   "traffic": "200+",
+   "when": "11월 23일 23:00",
+   "news": [
+    {
+     "title": "박준형, god 데뷔 전 8년간 직장 생활…\"초코하임 CF도 내가 했어\"",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6362608",
+     "source": "뉴스1"
+    },
+    {
+     "title": "1997년 노포 삼계탕부터 스페인 꿀대구까지... 신용산역 직장인 성지 ‘미식 골목’",
+     "url": "https://www.insight.co.kr/news/583155",
+     "source": "인사이트"
+    }
+   ]
+  },
+  {
+   "kw": "오정태",
+   "traffic": "100+",
+   "when": "11월 23일 23:00",
+   "news": [
+    {
+     "title": "[선공개] ‘국민 바보 아빠’ 오정태×정준하, 떡잎부터 남다른 딸과 아들의 재능 자랑↗ (ft. 최초 공개)",
+     "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC484216900",
+     "source": "programs.sbs.co.kr"
+    },
+    {
+     "title": "“첫째 딸 과학고 조기 졸업, 명문대 조기 입학”…오정태, 합격증 이마에 붙이고 ‘활짝’",
+     "url": "https://www.mk.co.kr/news/broadcasting-service/12216077",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "cnn",
+   "traffic": "100+",
+   "when": "11월 23일 23:00",
+   "news": [
+    {
+     "title": "Agriculture Department breached by hackers, sources say",
+     "url": "https://www.nbcnews.com/politics/national-security/agriculture-department-breached-hackers-sources-say-rcna610497",
+     "source": "NBC News"
+    },
+    {
+     "title": "Amid a series of computer accidents at U.S. federal agencies, major airlines, and large banks, even",
+     "url": "https://www.mk.co.kr/en/world/12215733",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "젠슨황 복귀",
+   "traffic": "20000+",
+   "when": "11월 23일 22:50",
+   "news": [
+    {
+     "title": "[속보] 젠슨 황 CEO 즉시 복귀, 엔비디아 이사회 결정",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/23/HDJ3H6MZZ5GT7A4ETBWRHVQR3E/",
+     "source": "조선일보"
+    },
+    {
+     "title": "트럼프 “젠슨 황 엔비디아 CEO 복귀는 올바른 결정…국가안보 위험 없어”",
+     "url": "https://www.khan.co.kr/article/202611232352001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "sk텔레콤",
+   "traffic": "100+",
+   "when": "11월 23일 22:50",
+   "news": [
+    {
+     "title": "SKT, 50대 이상 희망퇴직…평균 3년치 급여 준다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03493206645648672&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "SK텔레콤, 50대 이상 직원 희망퇴직 추진",
+     "url": "https://www.etnews.com/20261123000409",
+     "source": "전자신문"
+    }
+   ]
+  },
   {
    "kw": "혼다",
    "traffic": "200+",
    "when": "11월 23일 20:50",
    "news": [
     {
+     "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
+     "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
+     "source": "Fox Business"
+    },
+    {
      "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
      "url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
      "source": "NBC News"
-    },
-    {
-     "title": "Honda recalls over 810,000 vehicles. See the affected models",
-     "url": "https://www.usatoday.com/story/cars/recalls/2026/11/23/honda-recalls-vehicles-acura-accord-civic-cr-v-models/92922637007/",
-     "source": "USA Today"
-    }
-   ]
-  },
-  {
-   "kw": "상장",
-   "traffic": "5000+",
-   "when": "11월 23일 20:00",
-   "news": [
-    {
-     "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
-     "url": "https://www.yna.co.kr/view/AKR20261123100000017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "카카오T 2대 주주 TPG, 美상장 반대한 카카오에 1.5조 소송",
-     "url": "https://www.donga.com/news/Economy/article/all/20261123/135075976/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "m",
-   "traffic": "100+",
-   "when": "11월 23일 20:00",
-   "news": [
-    {
-     "title": "Sources - Mets, Skubal agree to record 9-year, $450M contract",
-     "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
-     "source": "ESPN"
-    },
-    {
-     "title": "Is Tarik Skubal a Hall of Famer? Where new Mets ace stands now and where he could end up",
-     "url": "https://www.cbssports.com/mlb/news/tarik-skubal-hall-of-fame-case/",
-     "source": "CBS Sports"
-    }
-   ]
-  },
-  {
-   "kw": "공항",
-   "traffic": "100+",
-   "when": "11월 23일 19:50",
-   "news": [
-    {
-     "title": "박남춘 인천공항공사 사장 취임…“새로운 25년, 과감한 변화·혁신”",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=375139",
-     "source": "전기신문"
-    },
-    {
-     "title": "박남춘 인천공항공사 사장 “인천공항, 통합보다 메가 허브공항 실현”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720076",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "반도체 메모리",
-   "traffic": "500+",
-   "when": "11월 23일 19:40",
-   "news": [
-    {
-     "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
-     "url": "https://www.hankyung.com/article/2026112330656",
-     "source": "한국경제"
-    },
-    {
-     "title": "메리츠證 \"다양한 수요자들, 메모리 업체 대상 투자 등 협력 구상\"",
-     "url": "https://www.yna.co.kr/view/AKR20261123024200008",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "중위소득",
-   "traffic": "2000+",
-   "when": "11월 23일 19:10",
-   "news": [
-    {
-     "title": "생계급여 문턱 낮춘다…긴급 위기가구에 30만원 즉시지원(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261123067051530",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=02535446645648672&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "브레인악셀",
-   "traffic": "1000+",
-   "when": "11월 23일 19:10",
-   "news": [
-    {
-     "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "\"이진우 사인본, 수십만 원\"...환불 요구 책이 어쩌다",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0106_202611232201517707_005.html",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "일론 머스크",
-   "traffic": "100+",
-   "when": "11월 23일 19:00",
-   "news": [
-    {
-     "title": "\"내년에 엄청난 일 벌어진다\"…머스크의 섬뜩한 경고",
-     "url": "https://www.hankyung.com/article/2026112340657",
-     "source": "한국경제"
-    },
-    {
-     "title": "결국은 \"돈 더 내라\"...미 데이터센터 규제의 진짜 속내",
-     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231601194035",
-     "source": "YTN 사이언스"
-    }
-   ]
-  },
-  {
-   "kw": "이진관 판사",
-   "traffic": "1000+",
-   "when": "11월 23일 18:40",
-   "news": [
-    {
-     "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
-     "url": "https://news.jtbc.co.kr/article/NB12329370",
-     "source": "JTBC"
-    },
-    {
-     "title": "국힘, 이진관 판사 ‘법왜곡죄’ 고발 추진…“뭐 정의의 사도처럼 행동”",
-     "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "가석방",
-   "traffic": "200+",
-   "when": "11월 23일 18:40",
-   "news": [
-    {
-     "title": "靑 \"스토킹 접근금지 기간 연장·가석방 없는 무기형 등 검토\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6867785_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "[속보]李대통령, 한준호 행정안전부 장관 후보자 지명 - 머니투데이",
-     "url": "https://www.mt.co.kr/politics/2026/11/23/2026112314455354319",
-     "source": "머니투데이"
     }
    ]
   }
