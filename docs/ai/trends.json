@@ -1,9 +1,26 @@
 {
- "updated": "2026-11-23 21:23",
+ "updated": "2026-11-23 22:23",
  "items": [
   {
+   "kw": "혼다",
+   "traffic": "200+",
+   "when": "11월 23일 20:50",
+   "news": [
+    {
+     "title": "Honda and Toyota recall 1.6 million vehicles over Takata airbag rupture risk",
+     "url": "https://www.nbcnews.com/business/autos/takata-airbag-recall-rcna610576",
+     "source": "NBC News"
+    },
+    {
+     "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
+     "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
+     "source": "Fox Business"
+    }
+   ]
+  },
+  {
    "kw": "상장",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 23일 20:00",
    "news": [
     {
@@ -29,9 +46,9 @@
      "source": "ESPN"
     },
     {
-     "title": "What does adding Tarik Skubal mean for the Mets’ long-term finances? - The Athletic",
-     "url": "https://www.nytimes.com/athletic/7804974/2026/11/23/tarik-skubal-mets-long-term-finances/",
-     "source": "The New York Times"
+     "title": "Tarik Skubal's $450 Million Mets Deal Puts MLB Salary Cap Fight in Focus",
+     "url": "https://sports.yahoo.com/videos/tarik-skubals-450-million-mets-123035955.html",
+     "source": "Yahoo Sports"
     }
    ]
   },
@@ -46,9 +63,9 @@
      "source": "전기신문"
     },
     {
-     "title": "박남춘 인천공항공사 사장 \"인천공항 이용료 현실화할 것\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261123063051065",
-     "source": "연합뉴스"
+     "title": "박남춘 인천공항공사 사장 “인천공항, 통합보다 메가 허브공항 실현”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720076",
+     "source": "KBS 뉴스"
     }
    ]
   },
@@ -71,35 +88,35 @@
   },
   {
    "kw": "중위소득",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 23일 19:10",
    "news": [
     {
-     "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314",
-     "source": "대한민국 정책브리핑"
+     "title": "생계급여 기준, 2030년까지 중위소득 35%로 올린다",
+     "url": "https://www.hani.co.kr/arti/society/rights/1288691.html",
+     "source": "한겨레"
     },
     {
-     "title": "생계급여 대상, 2030년까지 단계적 확대",
-     "url": "https://www.khan.co.kr/article/202611232043015",
-     "source": "경향신문"
+     "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=02535446645648672&mediaCodeNo=257",
+     "source": "이데일리"
     }
    ]
   },
   {
    "kw": "브레인악셀",
-   "traffic": "500+",
+   "traffic": "2000+",
    "when": "11월 23일 19:10",
    "news": [
-    {
-     "title": "리트 만점자 유족 경찰 출석...\"증거제출 의사 확인\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231745093682_005.html",
-     "source": "YTN"
-    },
     {
      "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
      "source": "MBC 뉴스"
+    },
+    {
+     "title": "리트 만점자 유족 경찰 출석...\"증거제출 의사 확인\"",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231745093682_005.html",
+     "source": "YTN"
     }
    ]
   },
@@ -114,9 +131,9 @@
      "source": "한국경제"
     },
     {
-     "title": "일론 머스크 \"AI업계 내년 자금난 심각\"…데이터센터 지연 경고 By EBN",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2186617",
-     "source": "Investing.com 한국어"
+     "title": "결국은 \"돈 더 내라\"...미 데이터센터 규제의 진짜 속내",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611231601194035",
+     "source": "YTN 사이언스"
     }
    ]
   },
@@ -126,14 +143,14 @@
    "when": "11월 23일 18:40",
    "news": [
     {
-     "title": "국힘, 이진관 판사 ‘법왜곡죄’ 고발 추진…“뭐 정의의 사도처럼 행동”",
-     "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
-     "source": "한겨레"
-    },
-    {
      "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
      "url": "https://news.jtbc.co.kr/article/NB12329370",
      "source": "JTBC"
+    },
+    {
+     "title": "국힘, 이진관 판사 ‘법왜곡죄’ 고발 추진…“뭐 정의의 사도처럼 행동”",
+     "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
+     "source": "한겨레"
     }
    ]
   },
@@ -148,26 +165,9 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "브리핑 하는 김성완 대변인",
-     "url": "https://mobile.newsis.com/photo/NISI20261123_0021542403",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "딜라이트",
-   "traffic": "200+",
-   "when": "11월 23일 18:10",
-   "news": [
-    {
-     "title": "‘도란·카나비’ DK, 코치진 교체 T1…뜨거운 LCK 스토브리그",
-     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085290",
-     "source": "진일보 | 전남일보"
-    },
-    {
-     "title": "[오피셜] T1 떠난 ‘도란’ 최현준, DK 유니폼 입는다… ‘카나비’와 함께 상체 구축",
-     "url": "https://www.koreadaily.com/article/20261120154610301",
-     "source": "미주중앙일보"
+     "title": "[속보]李대통령, 한준호 행정안전부 장관 후보자 지명 - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/23/2026112314455354319",
+     "source": "머니투데이"
     }
    ]
   }
