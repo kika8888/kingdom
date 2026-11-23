@@ -1,9 +1,145 @@
 {
- "updated": "2026-11-23 15:23",
+ "updated": "2026-11-23 16:23",
  "items": [
   {
-   "kw": "정형돈",
+   "kw": "휴림로봇",
    "traffic": "200+",
+   "when": "11월 23일 15:10",
+   "news": [
+    {
+     "title": "휴림로봇, 한화로보틱스 등과 자동화 장비 로봇 공급 계약 체결 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/23/2026112308413335800",
+     "source": "머니투데이"
+    },
+    {
+     "title": "현림로봇, 삼성전기 공급 계약 체결에 주가 30% 급등",
+     "url": "https://kr.investing.com/news/stock-market-news/article-2186567",
+     "source": "Investing.com 한국어"
+    }
+   ]
+  },
+  {
+   "kw": "권한쟁의심판",
+   "traffic": "100+",
+   "when": "11월 23일 15:10",
+   "news": [
+    {
+     "title": "국힘 \"조작기소 특검법 처리로 표결권 침해\" 권한쟁의심판 청구",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6867819_36911.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "[영상] 국민의힘 규탄대회",
+     "url": "https://www.ytn.co.kr/_ln/0101_202611231251392007",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "박선원",
+   "traffic": "100+",
+   "when": "11월 23일 14:50",
+   "news": [
+    {
+     "title": "\"신천지 4만3000명 입당\" 친명 폭로에 뒤집힌 민주당",
+     "url": "https://www.chosun.com/politics/assembly/2026/11/23/CDEWQUIMSZDNNABQ6HBWECORLY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "아직도 신천지로 싸우는 민주당 지도부…‘일제 부역자’ 비유까지 나와",
+     "url": "https://www.khan.co.kr/article/202611231544001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "하프마라톤",
+   "traffic": "100+",
+   "when": "11월 23일 14:50",
+   "news": [
+    {
+     "title": "양산전국하프마라톤 12월 6일 개최, 8천여 명이 힘차게 달린다",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722930",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "8000명 달린다…양산하프마라톤 안전관리 강화",
+     "url": "https://www.newsis.com/view/NISX20261123_0003878703",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "한덕수",
+   "traffic": "20000+",
+   "when": "11월 23일 14:40",
+   "news": [
+    {
+     "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
+     "url": "https://news.jtbc.co.kr/article/NB12329370",
+     "source": "JTBC"
+    },
+    {
+     "title": "국힘 \"'한덕수 1심' 이진관 판사, 법왜곡죄로 고발할 계획\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6867816_36911.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "김종국",
+   "traffic": "1000+",
+   "when": "11월 23일 14:40",
+   "news": [
+    {
+     "title": "‘무대출 62억 신혼집’ 김종국 “母, 며칠 일해 3500원” (상남자의 여행법)",
+     "url": "https://sports.donga.com/ent/article/all/20261123/135071006/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "‘상남자의 여행법’ 김종국, 고교 졸업까지 부업한 사연… “며칠 일해 3500원 벌어”",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3451207",
+     "source": "천지일보"
+    }
+   ]
+  },
+  {
+   "kw": "국민건강보험공단",
+   "traffic": "200+",
+   "when": "11월 23일 14:30",
+   "news": [
+    {
+     "title": "‘공짜 임플란트 주의보’ 건보공단 부당청구 집중 점검",
+     "url": "https://bravo.etoday.co.kr/view/atc_view/20539",
+     "source": "이투데이"
+    },
+    {
+     "title": "“임플란트 공짜로 해드려요”…건보 지급액 3000만원→9억원, 공단 전수조사",
+     "url": "https://www.donga.com/news/Society/article/all/20261123/135073789/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "변리사",
+   "traffic": "500+",
+   "when": "11월 23일 14:10",
+   "news": [
+    {
+     "title": "변리사 시험도 수상?…’고득점자 급증’만으로 단정 어려워",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123155118Sun",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "세무사 이어 변리사도 ‘이상 급증’…2차 고득점자 14배 늘었다",
+     "url": "https://www.donga.com/news/Economy/article/all/20261123/135071932/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "정형돈",
+   "traffic": "500+",
    "when": "11월 23일 14:10",
    "news": [
     {
@@ -19,155 +155,19 @@
    ]
   },
   {
-   "kw": "변리사",
-   "traffic": "200+",
-   "when": "11월 23일 14:10",
-   "news": [
-    {
-     "title": "세무사 이어 변리사도 ‘이상 급증’…2차 고득점자 14배 늘었다",
-     "url": "https://www.donga.com/news/Economy/article/all/20261123/135071932/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "[사실은] \"국가시험 합격률 급증\" 전수분석 결과는",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856994",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
    "kw": "트리플스타",
    "traffic": "200+",
    "when": "11월 23일 14:10",
    "news": [
     {
+     "title": "'횡령 무혐의' 트리플스타 강승원, 재혼…백종원·안성재 하객 포착 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/23/2026112314553830902",
+     "source": "머니투데이"
+    },
+    {
      "title": "사생활 논란 딛고…‘흑백요리사’ 유명 셰프, 깜짝 재혼 발표",
      "url": "https://www.mk.co.kr/news/culture/12216020",
      "source": "매일경제"
-    },
-    {
-     "title": "\"부족한 내게 안식처가 돼준 사람\"…'무혐의' 강승원 셰프 깜짝 재혼",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6361806",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "법관",
-   "traffic": "200+",
-   "when": "11월 23일 14:10",
-   "news": [
-    {
-     "title": "[단독]“우리는 수령 모시는 조직원 아냐”…법관대표회의 의장 ‘행동’ 촉구에 판사들 반론",
-     "url": "https://www.khan.co.kr/article/202611231142001",
-     "source": "경향신문"
-    },
-    {
-     "title": "조희대 탄핵 추진에 법원 내부망 ‘술렁’…탄핵 반발과 판결 비판 엇갈려",
-     "url": "https://www.kyeonggi.com/article/20261123580209",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "유현조",
-   "traffic": "500+",
-   "when": "11월 23일 13:50",
-   "news": [
-    {
-     "title": "김민선, LPGA Q시리즈 최종전 4R서 공동 4위로 도약",
-     "url": "https://www.yna.co.kr/view/AKR20261123007400007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "유현조·김민선, LPGA Q스쿨 3R 공동 10위",
-     "url": "https://www.sedaily.com/article/20117293",
-     "source": "서울경제"
-    }
-   ]
-  },
-  {
-   "kw": "카카오",
-   "traffic": "200+",
-   "when": "11월 23일 13:20",
-   "news": [
-    {
-     "title": "“더치페이 빨리 정산하는 사람, 연체율도 낮아”",
-     "url": "https://stock.mk.co.kr/news/view/1204111",
-     "source": "매일경제 마켓"
-    },
-    {
-     "title": "'선물하기'도 신용평가에…카카오페이 스코어 확대나선다",
-     "url": "https://www.etnews.com/20261123000381",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "주차",
-   "traffic": "500+",
-   "when": "11월 23일 13:10",
-   "news": [
-    {
-     "title": "천안시, 시민체육공원 주차장… 30일까지 전면 통제",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3451170",
-     "source": "천지일보"
-    },
-    {
-     "title": "천안시, 30일까지 시민체육공원 주차 전면 통제",
-     "url": "https://www.joongdo.co.kr/web/view.php?key=20261123010007750",
-     "source": "중도일보"
-    }
-   ]
-  },
-  {
-   "kw": "fifa u-17 월드컵",
-   "traffic": "1000+",
-   "when": "11월 23일 13:00",
-   "news": [
-    {
-     "title": "’김지우 해트트릭’ U-17 축구, 월드컵 32강 조기 확정",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH2026112314400374z",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "韓 남자축구 최초 역사! 17살 김지우, 'FIFA 월드컵' 해트트릭 작렬...U-17 김현준호, 뉴칼레도니아 6-0 꺾고 48개국 중 '1호' 32강 진출 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/23/202611230810777959O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "팝콘",
-   "traffic": "200+",
-   "when": "11월 23일 13:00",
-   "news": [
-    {
-     "title": "카페인중독·바프 콜라보, 당류 1g 이하 팝콘 3종 선보여… 생크림·카라멜·피넛버터 구성",
-     "url": "https://www.gosiweek.com/article/1065577520120943",
-     "source": "피앤피뉴스"
-    },
-    {
-     "title": "백억커피, LG유플러스 멤버십 제휴…아메리카노·팝콘 무료 제공",
-     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086044",
-     "source": "신아일보"
-    }
-   ]
-  },
-  {
-   "kw": "warriors vs celtics",
-   "traffic": "100+",
-   "when": "11월 23일 13:00",
-   "news": [
-    {
-     "title": "The Golden State Warriors won their first victory since leaving star Stephen Curry.Golden State beat..",
-     "url": "https://www.mk.co.kr/en/sports/12216024",
-     "source": "매일경제"
-    },
-    {
-     "title": "Boston Celtics to face Golden State on the road : NBA : JKN",
-     "url": "https://news.jkn.co.kr/editions/english/post/1115381",
-     "source": "재경일보"
     }
    ]
   }
