@@ -1,26 +1,94 @@
 {
- "updated": "2026-11-23 11:23",
+ "updated": "2026-11-23 12:23",
  "items": [
   {
-   "kw": "제주특별자치도",
+   "kw": "네이버 주가",
+   "traffic": "100+",
+   "when": "11월 23일 11:20",
+   "news": [
+    {
+     "title": "네이버 주가 장중 9%대 내려, 데이터센터 투심 위축에 관련주 약세",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452626",
+     "source": "비즈니스포스트"
+    },
+    {
+     "title": "[특징주] 네이버, 목표주가 잇단 하향에 7%대 급락…본업 둔화 우려",
+     "url": "https://www.etoday.co.kr/news/view/2651549",
+     "source": "이투데이"
+    }
+   ]
+  },
+  {
+   "kw": "lpga",
+   "traffic": "2000+",
+   "when": "11월 23일 11:00",
+   "news": [
+    {
+     "title": "Kim A-lim Finishes Tied for 7th at LPGA Season Finale... Jeeno Thitikul Wins for 3rd Straight Year",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008858116",
+     "source": "news.sbs.co.kr"
+    },
+    {
+     "title": "Thitikul Surpasses Sorenstam as LPGA's Top Career Earner",
+     "url": "https://www.chosun.com/english/world-en/2026/11/23/DQZ7INLHRFAQPBZUYU3Z6LVYBU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "국가장학금",
    "traffic": "200+",
+   "when": "11월 23일 10:50",
+   "news": [
+    {
+     "title": "내년 1학기 국가장학금 신청하세요…내일부터 내년 1월7일까지",
+     "url": "https://www.yna.co.kr/view/AKR20261123047100530",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "2027 국가장학금 11월 24일 신청 시작｜대학 합격 전 고3도 가능할까? 소득구간 5단계 개편·최대 등록금 전액·신청방법 총정리",
+     "url": "https://contents.premium.naver.com/firstnews/9firstnews9/contents/261122124750066ml",
+     "source": "네이버 프리미엄콘텐츠"
+    }
+   ]
+  },
+  {
+   "kw": "ssg 랜더스",
+   "traffic": "1000+",
+   "when": "11월 23일 10:30",
+   "news": [
+    {
+     "title": "'원클럽맨' 문승원, 2+1년 총액 15억원에 SSG 잔류",
+     "url": "https://www.yna.co.kr/view/AKR20261122016900007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[공식발표] '와 미쳤다' 93억에 내부 FA 전원 단속 성공! 37살 베테랑 왜 15억에 붙잡았나 \"헌신+경기운영능력 최우선 평가\"",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/22/MZRDMMJUHA3DCNZSHA4DAZBWMM/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "제주특별자치도",
+   "traffic": "500+",
    "when": "11월 23일 10:20",
    "news": []
   },
   {
    "kw": "삼성증권",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 23일 10:20",
    "news": [
     {
-     "title": "잇따르는 증권가 해킹 사고...삼성증권, 8241명 개인 정보 유출",
-     "url": "https://www.chosun.com/economy/money/2026/11/23/ARL2LEBDRRCXHEZIWWM5WATQ7I/",
-     "source": "조선일보"
+     "title": "삼성증권 고객 개인정보 8241건 유출... ‘고객의소리’ 서비스 노린 해킹",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147441",
+     "source": "보안뉴스"
     },
     {
-     "title": "삼성證 \"고객 8241명 개인정보 유출…VOC 시스템 외부 침입\"",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01922086645648672",
-     "source": "마켓인"
+     "title": "삼성증권도 해킹 피해‥고객 8천2백 명 개인정보 유출",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6867771_36932.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
@@ -30,14 +98,14 @@
    "when": "11월 23일 10:00",
    "news": [
     {
-     "title": "발트해에서 지중해까지... 우크라 드론의 ‘종횡무진 난타전’",
-     "url": "https://www.chosun.com/international/international_general/2026/11/23/ZQZC6FQOENAMRGXROUCQ2TKOWE/",
-     "source": "조선일보"
+     "title": "우크라 전쟁, 북아프리카로 전선 확대…리비아서 드론 공격에 러 군함 침몰",
+     "url": "https://www.hani.co.kr/arti/international/international_general/1288569.html",
+     "source": "한겨레"
     },
     {
-     "title": "우크라 전선 넓히나‥리비아서 러 군함 등 연달아 피격",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6867740_36925.html",
-     "source": "MBC 뉴스"
+     "title": "리비아에서 드론 공격 받아 전복된 러시아 군함",
+     "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20261123_0002299373&provider_id=&cID=&type=Main&catg=&idx=2",
+     "source": "뉴시스"
     }
    ]
   },
@@ -47,20 +115,20 @@
    "when": "11월 23일 09:50",
    "news": [
     {
-     "title": "UT Martin vs. Utah Valley (Nov 22, 2026) Live Score",
-     "url": "https://www.espn.com/mens-college-basketball/game/_/gameId/401921206",
-     "source": "ESPN"
+     "title": "NSHvsCIN 11-22-2026 | MLS Match Recap",
+     "url": "https://www.mlssoccer.com/competitions/mls-cup-playoffs/2026/matches/nshvscin-11-22-2026/",
+     "source": "MLSsoccer.com"
     },
     {
-     "title": "Lions 31-21 Buccaneers (Nov 22, 2026) Game Recap",
-     "url": "https://www.espn.com/nfl/recap/_/gameId/401873072",
-     "source": "ESPN"
+     "title": "Timbers fall 3-0 to FC Dallas in playoff opener after second-half lapse",
+     "url": "https://www.oregonlive.com/timbers/2026/11/timbers-fall-3-0-to-fc-dallas-in-playoff-opener-after-second-half-lapse.html",
+     "source": "OregonLive.com"
     }
    ]
   },
   {
    "kw": "구조조정",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 23일 09:50",
    "news": [
     {
@@ -77,7 +145,7 @@
   },
   {
    "kw": "부산항",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 23일 09:40",
    "news": [
     {
@@ -89,74 +157,6 @@
      "title": "부산항만공사, 중소기업 우수기술 판로 확대 지원...'맞춤형 구매상담·혁신제품 컨설팅'",
      "url": "https://view.asiae.co.kr/article/2026112310252178670",
      "source": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "수원 fc",
-   "traffic": "100+",
-   "when": "11월 23일 09:40",
-   "news": [
-    {
-     "title": "수원 FC 1부 리그 복귀",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719455",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "'2년 연속 공격포인트 20개' 대기록에도 웃지 못한 에울레르 \"아직 승격할 기회 있다…죽기살기로 임한다\" [현장 인터뷰]",
-     "url": "https://www.chosun.com/sports/football/2026/11/23/MQ4DKMZVHEYWCMBVGQYDKYRTG4/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "kospi",
-   "traffic": "100+",
-   "when": "11월 23일 09:40",
-   "news": [
-    {
-     "title": "US AI stock sell-off fuels fears of Black Monday in South Korea",
-     "url": "https://biz.chosun.com/en/en-finance/2026/11/22/MO2BF6HCF5HYLAPQLM2QX7MAXE/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "Ants fleeing at the 4,700 level... Aftermath of the U.S. semiconductor shock",
-     "url": "https://www.mt.co.kr/en/stock/2026/11/23/2026112308591987728",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "오지헌",
-   "traffic": "200+",
-   "when": "11월 23일 09:10",
-   "news": [
-    {
-     "title": "\"일타 강사 부친, 90년대 월수입 5000만원\"…오지헌, 과거 눈길 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/23/2026112310074687752",
-     "source": "머니투데이"
-    },
-    {
-     "title": "오지헌·박상미 부부 \"없을 때 나누니 일 더 많이 들어와\" 청년 밥차 봉사 근황",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759791",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "강금실",
-   "traffic": "200+",
-   "when": "11월 23일 09:00",
-   "news": [
-    {
-     "title": "\"이종석 국정원장 강금실로 교체\" 보도‥靑 \"확인 어렵다\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6867744_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "靑, 국정원장 교체설에 \"인사 확인 어려워\"",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123085356QAv",
-     "source": "연합뉴스TV"
     }
    ]
   }
