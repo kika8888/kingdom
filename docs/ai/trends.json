@@ -1,11 +1,39 @@
 {
- "updated": "2026-11-24 01:23",
+ "updated": "2026-11-24 02:23",
  "items": [
+  {
+   "kw": "u17 việt nam",
+   "traffic": "100+",
+   "when": "11월 24일 01:00",
+   "news": [
+    {
+     "title": "Báo New Zealand: 'Gặp Việt Nam là cơ hội tốt nhất để thắng ở U17 World Cup'",
+     "url": "https://vnexpress.net/bao-new-zealand-gap-viet-nam-la-co-hoi-tot-nhat-de-thang-o-u17-world-cup-5148090.html",
+     "source": "VnExpress"
+    },
+    {
+     "title": "Siêu máy tính dự đoán tỷ số trận U17 Việt Nam gặp U17 New Zealand",
+     "url": "https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ty-so-tran-u17-viet-nam-gap-u17-new-zealand-20261123134223838.htm",
+     "source": "Báo Dân trí"
+    }
+   ]
+  },
   {
    "kw": "테슬라 주가",
    "traffic": "200+",
    "when": "11월 24일 00:10",
-   "news": []
+   "news": [
+    {
+     "title": "테슬라 주가, 오늘 급등한 이유는?",
+     "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2187626",
+     "source": "Investing.com 한국어"
+    },
+    {
+     "title": "스페이스X(SPCX)·테슬라(TSLA) 7%대 하락…합병 승자는 머스크",
+     "url": "https://www.coinreaders.com/272514",
+     "source": "코인리더스"
+    }
+   ]
   },
   {
    "kw": "샌디스크 주가",
@@ -35,9 +63,9 @@
      "source": "Gizmodo"
     },
     {
-     "title": "Marvel Reportedly Has a Cinema-Exclusive 'Avengers: Doomsday' Clip Heading to Theaters",
-     "url": "https://www.comicbasics.com/marvel-reportedly-has-a-cinema-exclusive-avengers-doomsday-clip-heading-to-theaters/",
-     "source": "Comic Basics"
+     "title": "Trailer: \"Avengers Doomsday\" Shows Chris Evans, Hemsworth in Charge, Orchestra Going Crazy, Pedro Pascal as Reed Richards in Leisure Suit",
+     "url": "https://www.showbiz411.com/2026/11/23/trailer-avengers-doomsday-shows-chris-evans-hemsworth-in-charge-orchestra-going-crazy-pedro-pascal-as-reed-richards-in-leisure-suit",
+     "source": "Showbiz411"
     }
    ]
   },
@@ -47,14 +75,31 @@
    "when": "11월 23일 23:40",
    "news": [
     {
-     "title": "NVIDIA reinstates Jen-Hsun Huang as CEO and board member",
-     "url": "https://www.tradingview.com/news/tradingview:323106337cf33:0-nvidia-reinstates-jen-hsun-huang-as-ceo-and-board-member/",
-     "source": "TradingView"
+     "title": "WhiteBIT launches joint Black Friday promotion with TradingView for new users",
+     "url": "https://tradersunion.com/news/brokers-news/show/4377977-whitebit-and-tradingview-launch-black/",
+     "source": "Traders Union"
     },
     {
-     "title": "Powerfleet of Woodcliff Lake adds executives Capel and Strosahl to board of directors",
-     "url": "https://www.roi-nj.com/2026/11/17/tech/powerfleet-of-woodcliff-lake-adds-executives-capel-and-strosahl-to-board-of-directors/",
-     "source": "ROI-NJ"
+     "title": "Liquidation Levels indicator offers new TradingView integration, Joao Wedson states",
+     "url": "https://tradersunion.com/news/market-voices/show/4378264-liquidation-indicator-tradingview-integration/",
+     "source": "Traders Union"
+    }
+   ]
+  },
+  {
+   "kw": "스페이스x 주가",
+   "traffic": "100+",
+   "when": "11월 23일 23:40",
+   "news": [
+    {
+     "title": "제프리스도 추가 상승 전망…10%대 급등",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04018006645648672",
+     "source": "마켓인"
+    },
+    {
+     "title": "스페이스X 주가, 급등한 이유는?",
+     "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2187638",
+     "source": "Investing.com 한국어"
     }
    ]
   },
@@ -98,14 +143,14 @@
    "when": "11월 23일 23:30",
    "news": [
     {
-     "title": "Da aviação nos EUA à Justiça brasileira, apagões digitais expõem dependências invisíveis",
-     "url": "https://ihu.unisinos.br/categorias/673454-da-aviacao-nos-eua-a-justica-brasileira-apagoes-digitais-expoem-dependencias-invisiveis",
-     "source": "Instituto Humanitas Unisinos - IHU"
+     "title": "Voo do VOA + SC entre Joaçaba e Florianópolis não permite bate e volta no mesmo dia",
+     "url": "https://noticias.sc.gov.br/voo-do-voa-sc-entre-joacaba-e-florianopolis-nao-permite-bate-e-volta-no-mesmo-dia/",
+     "source": "Governo de Santa Catarina"
     },
     {
-     "title": "A revolta das máquinas pode acontecer de maneira diferente daquela que o cinema mostrou",
-     "url": "https://www.estadao.com.br/brasil/macaco-eletrico/a-revolta-das-maquinas-pode-acontecer-de-maneira-diferente-daquela-que-o-cinema-mostrou/",
-     "source": "Estadão"
+     "title": "Aviação regional reduz tempo de deslocamento para transplantes e tratamentos específicos de saúde em SC",
+     "url": "https://www.acaert.com.br/noticia/64545/aviacao-regional-reduz-tempo-de-deslocamento-para-transplantes-e-tratamentos-especificos-de-saude-em-sc",
+     "source": "Acaert"
     }
    ]
   },
@@ -123,40 +168,6 @@
      "title": "'카리나 절친' 한수아, 뱀파이어 전학생 된다⋯'옆자리, 프란체스카' 오늘(23일) 첫방",
      "url": "https://www.etoday.co.kr/news/view/2651603",
      "source": "이투데이"
-    }
-   ]
-  },
-  {
-   "kw": "토스",
-   "traffic": "200+",
-   "when": "11월 23일 23:20",
-   "news": [
-    {
-     "title": "카카오페이·토스도 주민등록증 진위확인…위·변조 걸러낸다",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976306",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "행안부 신분증 검증망, 카카오페이·토스까지 확대…전자 금융 안전성 강화",
-     "url": "https://www.etnews.com/20261121000055",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "코인니스",
-   "traffic": "200+",
-   "when": "11월 23일 23:10",
-   "news": [
-    {
-     "title": "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719555",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "비트코인 반등에 스트래티지 등 동반 상승",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01118486645649000",
-     "source": "마켓인"
     }
    ]
   }
