@@ -1,54 +1,105 @@
 {
- "updated": "2026-11-23 20:23",
+ "updated": "2026-11-23 21:23",
  "items": [
   {
-   "kw": "유현 조",
-   "traffic": "2000+",
-   "when": "11월 23일 19:20",
+   "kw": "상장",
+   "traffic": "1000+",
+   "when": "11월 23일 20:00",
    "news": [
     {
-     "title": "김민선, LPGA Q시리즈 최종전 4R서 공동 4위로 도약",
-     "url": "https://www.yna.co.kr/view/AKR20261123007400007",
+     "title": "카카오, TPG와 1.5조원 국제중재 분쟁…모빌리티 美상장 갈등",
+     "url": "https://www.yna.co.kr/view/AKR20261123100000017",
      "source": "연합뉴스"
     },
     {
-     "title": "김민선7, LPGA Q시리즈 최종전 4R 공동 4위로↑…유현조·이정은6·이다연은?",
-     "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022727",
-     "source": "골프한국"
+     "title": "카카오T 2대 주주 TPG, 美상장 반대한 카카오에 1.5조 소송",
+     "url": "https://www.donga.com/news/Economy/article/all/20261123/135075976/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "m",
+   "traffic": "100+",
+   "when": "11월 23일 20:00",
+   "news": [
+    {
+     "title": "Sources - Mets, Skubal agree to record 9-year, $450M contract",
+     "url": "https://www.espn.com/mlb/story/_/id/50565674/sources-mets-skubal-agree-9-year-450m-contract",
+     "source": "ESPN"
+    },
+    {
+     "title": "What does adding Tarik Skubal mean for the Mets’ long-term finances? - The Athletic",
+     "url": "https://www.nytimes.com/athletic/7804974/2026/11/23/tarik-skubal-mets-long-term-finances/",
+     "source": "The New York Times"
+    }
+   ]
+  },
+  {
+   "kw": "공항",
+   "traffic": "100+",
+   "when": "11월 23일 19:50",
+   "news": [
+    {
+     "title": "박남춘 인천공항공사 사장 취임…“새로운 25년, 과감한 변화·혁신”",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375139",
+     "source": "전기신문"
+    },
+    {
+     "title": "박남춘 인천공항공사 사장 \"인천공항 이용료 현실화할 것\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261123063051065",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "반도체 메모리",
+   "traffic": "200+",
+   "when": "11월 23일 19:40",
+   "news": [
+    {
+     "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
+     "url": "https://www.hankyung.com/article/2026112330656",
+     "source": "한국경제"
+    },
+    {
+     "title": "메리츠證 \"다양한 수요자들, 메모리 업체 대상 투자 등 협력 구상\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123024200008",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "kw": "중위소득",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 23일 19:10",
    "news": [
     {
-     "title": "‘자녀가 있어 못받은 생계급여’ 기준 폐지 추진",
-     "url": "https://bravo.etoday.co.kr/view/atc_view/20544",
-     "source": "이투데이"
+     "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314",
+     "source": "대한민국 정책브리핑"
     },
     {
-     "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
-     "url": "https://www.newsis.com/view/NISI20261123_0021542967",
-     "source": "뉴시스"
+     "title": "생계급여 대상, 2030년까지 단계적 확대",
+     "url": "https://www.khan.co.kr/article/202611232043015",
+     "source": "경향신문"
     }
    ]
   },
   {
    "kw": "브레인악셀",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 23일 19:10",
    "news": [
     {
-     "title": "‘리트 만점자’ 유족 경찰 출석…노트북 등 전자기기 확보되나",
-     "url": "https://news.jtbc.co.kr/article/NB12329355",
-     "source": "JTBC"
+     "title": "리트 만점자 유족 경찰 출석...\"증거제출 의사 확인\"",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231745093682_005.html",
+     "source": "YTN"
     },
     {
-     "title": "'리트 만점' 진상규명 첫 고비...유족, 수사 협조할까?",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231856261603_005.html",
-     "source": "YTN"
+     "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
@@ -71,24 +122,24 @@
   },
   {
    "kw": "이진관 판사",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 23일 18:40",
    "news": [
+    {
+     "title": "국힘, 이진관 판사 ‘법왜곡죄’ 고발 추진…“뭐 정의의 사도처럼 행동”",
+     "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
+     "source": "한겨레"
+    },
     {
      "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
      "url": "https://news.jtbc.co.kr/article/NB12329370",
      "source": "JTBC"
-    },
-    {
-     "title": "국힘, 이진관 법왜곡죄 고발 추진‥\"정의의 사도처럼 행동\"",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867919_37004.html",
-     "source": "MBC 뉴스"
     }
    ]
   },
   {
    "kw": "가석방",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 23일 18:40",
    "news": [
     {
@@ -97,77 +148,26 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "[속보]李대통령, 한준호 행정안전부 장관 후보자 지명 - 머니투데이",
-     "url": "https://www.mt.co.kr/politics/2026/11/23/2026112314455354319",
-     "source": "머니투데이"
+     "title": "브리핑 하는 김성완 대변인",
+     "url": "https://mobile.newsis.com/photo/NISI20261123_0021542403",
+     "source": "뉴시스"
     }
    ]
   },
   {
-   "kw": "이세창",
-   "traffic": "100+",
+   "kw": "딜라이트",
+   "traffic": "200+",
    "when": "11월 23일 18:10",
    "news": [
     {
-     "title": "이세창·김지연, 이혼 후 13년만 공개한 딸..김연아·이민정 닮은 외모 대박 \"한예종 입학\" [Oh!쎈 이슈]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/21/MQ3DEMJTMUYDIMJSG42DKNJQGA/",
-     "source": "조선일보"
+     "title": "‘도란·카나비’ DK, 코치진 교체 T1…뜨거운 LCK 스토브리그",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000085290",
+     "source": "진일보 | 전남일보"
     },
     {
-     "title": "이세창, 한예종 출신 배우 딸과 쇼핑…엄마·아빠 장점만 빼닮은 미모",
-     "url": "https://www.news1.kr/entertain/movie/6361517",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "설악산",
-   "traffic": "5000+",
-   "when": "11월 23일 17:40",
-   "news": [
-    {
-     "title": "전남광주 아침 영하권 추위…24일까지 비 예보",
-     "url": "https://www.yna.co.kr/view/AKR20261122005700054",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[날씨] 호남권, 5~10mm비 /1~5cm 눈· · · 차량 안전거리 확보",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759687",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "고규필",
-   "traffic": "1000+",
-   "when": "11월 23일 17:20",
-   "news": [
-    {
-     "title": "배우 고규필·가수 에이민 부부 득녀…\"인생 가장 잘한 일\"",
-     "url": "https://www.yna.co.kr/view/AKR20261123138400005",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "고규필♥에이민, 오늘(23일) 득녀..\"아빠 판박이\"",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/23/HA3TIMZUGE3TAOBVGY2DQNLCMQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "한국지엠",
-   "traffic": "500+",
-   "when": "11월 23일 17:20",
-   "news": [
-    {
-     "title": "김홍록·김은미, 인천마라톤대회 국내 남녀부 우승",
-     "url": "https://www.yna.co.kr/view/AKR20261122031800007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "인천 ‘하늘길’ 건너 1초 차 접전…케냐 킵코에치, 2026 인천마라톤서 풀코스 첫 정상 등극",
-     "url": "https://www.donga.com/news/Sports/article/all/20261122/135065718/1",
-     "source": "동아일보"
+     "title": "[오피셜] T1 떠난 ‘도란’ 최현준, DK 유니폼 입는다… ‘카나비’와 함께 상체 구축",
+     "url": "https://www.koreadaily.com/article/20261120154610301",
+     "source": "미주중앙일보"
     }
    ]
   }
