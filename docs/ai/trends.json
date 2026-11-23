@@ -1,20 +1,122 @@
 {
- "updated": "2026-11-23 14:23",
+ "updated": "2026-11-23 15:23",
  "items": [
   {
+   "kw": "정형돈",
+   "traffic": "200+",
+   "when": "11월 23일 14:10",
+   "news": [
+    {
+     "title": "'21kg 감량' 정형돈, 마운자로 맞고 홀쭉…\"눈밑지 시술\" 고백 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/23/2026112306202219015",
+     "source": "머니투데이"
+    },
+    {
+     "title": "정형돈, 살 21kg 빼더니 결국 '마운자로' 고백..정재형 \"얼굴 확 좋아져\" 깜짝[핫피플]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/22/HFSGEYRQGA4DEOBYMFRGIYJTHE/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "변리사",
+   "traffic": "200+",
+   "when": "11월 23일 14:10",
+   "news": [
+    {
+     "title": "세무사 이어 변리사도 ‘이상 급증’…2차 고득점자 14배 늘었다",
+     "url": "https://www.donga.com/news/Economy/article/all/20261123/135071932/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "[사실은] \"국가시험 합격률 급증\" 전수분석 결과는",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856994",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "트리플스타",
+   "traffic": "200+",
+   "when": "11월 23일 14:10",
+   "news": [
+    {
+     "title": "사생활 논란 딛고…‘흑백요리사’ 유명 셰프, 깜짝 재혼 발표",
+     "url": "https://www.mk.co.kr/news/culture/12216020",
+     "source": "매일경제"
+    },
+    {
+     "title": "\"부족한 내게 안식처가 돼준 사람\"…'무혐의' 강승원 셰프 깜짝 재혼",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6361806",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "법관",
+   "traffic": "200+",
+   "when": "11월 23일 14:10",
+   "news": [
+    {
+     "title": "[단독]“우리는 수령 모시는 조직원 아냐”…법관대표회의 의장 ‘행동’ 촉구에 판사들 반론",
+     "url": "https://www.khan.co.kr/article/202611231142001",
+     "source": "경향신문"
+    },
+    {
+     "title": "조희대 탄핵 추진에 법원 내부망 ‘술렁’…탄핵 반발과 판결 비판 엇갈려",
+     "url": "https://www.kyeonggi.com/article/20261123580209",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "유현조",
+   "traffic": "500+",
+   "when": "11월 23일 13:50",
+   "news": [
+    {
+     "title": "김민선, LPGA Q시리즈 최종전 4R서 공동 4위로 도약",
+     "url": "https://www.yna.co.kr/view/AKR20261123007400007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "유현조·김민선, LPGA Q스쿨 3R 공동 10위",
+     "url": "https://www.sedaily.com/article/20117293",
+     "source": "서울경제"
+    }
+   ]
+  },
+  {
    "kw": "카카오",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 23일 13:20",
    "news": [
     {
-     "title": "“저녁값 3만원씩 보내줘”…더치페이 습관도 들여다보는 ‘카카오페이 스코어’",
-     "url": "https://stock.mk.co.kr/news/view/1204102",
+     "title": "“더치페이 빨리 정산하는 사람, 연체율도 낮아”",
+     "url": "https://stock.mk.co.kr/news/view/1204111",
      "source": "매일경제 마켓"
     },
     {
-     "title": "카카오페이, 마이데이터 초개인화 가속…\"데이터 비즈니스 선도\"",
-     "url": "https://www.yna.co.kr/view/AKR20261123067400017",
-     "source": "연합뉴스"
+     "title": "'선물하기'도 신용평가에…카카오페이 스코어 확대나선다",
+     "url": "https://www.etnews.com/20261123000381",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "주차",
+   "traffic": "500+",
+   "when": "11월 23일 13:10",
+   "news": [
+    {
+     "title": "천안시, 시민체육공원 주차장… 30일까지 전면 통제",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3451170",
+     "source": "천지일보"
+    },
+    {
+     "title": "천안시, 30일까지 시민체육공원 주차 전면 통제",
+     "url": "https://www.joongdo.co.kr/web/view.php?key=20261123010007750",
+     "source": "중도일보"
     }
    ]
   },
@@ -24,14 +126,14 @@
    "when": "11월 23일 13:00",
    "news": [
     {
-     "title": "’김지우 해트트릭’ 한국, 뉴칼레도니아 잡고 32강 조기 확정",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123083123Kzd",
+     "title": "’김지우 해트트릭’ U-17 축구, 월드컵 32강 조기 확정",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH2026112314400374z",
      "source": "연합뉴스TV"
     },
     {
-     "title": "韓 축구 새 재능 탄생…2009년생 '잘츠부르크 이적 확정' 김지호, U-17 월드컵 뉴칼레도니아전 '기대감'",
-     "url": "https://www.chosun.com/sports/football/2026/11/22/GI2TKZDCMJTDCYLCGNSDKOJXMQ/",
-     "source": "조선일보"
+     "title": "韓 남자축구 최초 역사! 17살 김지우, 'FIFA 월드컵' 해트트릭 작렬...U-17 김현준호, 뉴칼레도니아 6-0 꺾고 48개국 중 '1호' 32강 진출 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/23/202611230810777959O",
+     "source": "머니투데이"
     }
    ]
   },
@@ -66,108 +168,6 @@
      "title": "Boston Celtics to face Golden State on the road : NBA : JKN",
      "url": "https://news.jkn.co.kr/editions/english/post/1115381",
      "source": "재경일보"
-    }
-   ]
-  },
-  {
-   "kw": "원자력 추진",
-   "traffic": "1000+",
-   "when": "11월 23일 12:50",
-   "news": [
-    {
-     "title": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
-     "url": "https://www.mk.co.kr/news/politics/12215581",
-     "source": "매일경제"
-    },
-    {
-     "title": "中, IAEA 이사회서 한국 원잠 도입 반대",
-     "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/23/EQUGML6WHVF2VHVKRASUHDLZ6Y/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "기호일보",
-   "traffic": "100+",
-   "when": "11월 23일 12:50",
-   "news": [
-    {
-     "title": "차병원, 송도 국제병원 부지에 3천 가구 주상복합아파트 요구",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041673",
-     "source": "기호일보"
-    },
-    {
-     "title": "인천 배다리 관통도로 내년 전 구간 개통 ‘순항’",
-     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041722",
-     "source": "기호일보"
-    }
-   ]
-  },
-  {
-   "kw": "경찰",
-   "traffic": "2000+",
-   "when": "11월 23일 12:40",
-   "news": [
-    {
-     "title": "[단독] 교육청, 이진우 '수능 시험지' 반출 법리검토 경찰에 요청",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231120309984_005.html",
-     "source": "YTN"
-    },
-    {
-     "title": "\"초희귀 사인본 65만 원\"…리트 만점자 책, 중고가 급등",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261123135142Vjl",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "코디 폰세",
-   "traffic": "200+",
-   "when": "11월 23일 12:10",
-   "news": [
-    {
-     "title": "\"1년 만에 2위에서 9위 추락\"… 217만불 투입 한화 현역 빅리거 영입, 무너진 투수왕국 다시 세운다",
-     "url": "https://www.fnnews.com/news/202611230835395690",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "\"미안한 마음밖에 없다\" 2년 차 영건이 이 정도로 짓눌렸나…성장통 딛고 쓰는 정우주의 오답노트 [오!쎈 인터뷰] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/20/202611201418776170O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "배치표",
-   "traffic": "2000+",
-   "when": "11월 23일 12:00",
-   "news": [
-    {
-     "title": "약대 합격선 줄줄이 상승…서울대 약대 290점 '최고치' 전망",
-     "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549526",
-     "source": "약사공론"
-    },
-    {
-     "title": "올해 서울대 의대 가려면 ‘수능 295점 이상’…대구선 284점대",
-     "url": "https://www.yeongnam.com/web/view.php?key=20261122029592315",
-     "source": "영남일보"
-    }
-   ]
-  },
-  {
-   "kw": "이부진 아들",
-   "traffic": "200+",
-   "when": "11월 23일 12:00",
-   "news": [
-    {
-     "title": "이부진 호텔신라 사장 아들, 어머니 姓 따라 李 씨로 姓 바꿔",
-     "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=229861",
-     "source": "법률신문"
-    },
-    {
-     "title": "이부진 아들, 父 성 대신 母 성 택했다…'임동현→이동현'",
-     "url": "https://weekly.chosun.com/news/articleView.html?idxno=60003",
-     "source": "주간조선"
     }
    ]
   }
