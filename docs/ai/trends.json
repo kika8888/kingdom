@@ -1,9 +1,26 @@
 {
- "updated": "2026-11-24 03:23",
+ "updated": "2026-11-24 04:23",
  "items": [
   {
+   "kw": "탁구",
+   "traffic": "200+",
+   "when": "11월 24일 02:40",
+   "news": [
+    {
+     "title": "강릉아레나서 제15회 GN 전국장애인 탁구대회 막 내려…전국 17개 시도 300여 명 참가",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759864",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "다음달 4일 아산시장배 전국장애인탁구대회",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112640",
+     "source": "충청매일"
+    }
+   ]
+  },
+  {
    "kw": "노태문",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 24일 02:00",
    "news": [
     {
@@ -41,14 +58,14 @@
    "when": "11월 24일 01:00",
    "news": [
     {
-     "title": "Bảng xếp hạng mới nhất U.17 Việt Nam: Tạm đứng tốp 3, ngay sau á quân châu Âu U.17 Bỉ",
-     "url": "https://thanhnien.vn/bang-xep-hang-moi-nhat-u17-viet-nam-tam-dung-top-3-ngay-sau-a-quan-chau-au-u17-bi-185261124003529609.htm",
-     "source": "Thanh Niên"
+     "title": "Báo New Zealand: 'Gặp Việt Nam là cơ hội tốt nhất để thắng ở U17 World Cup'",
+     "url": "https://vnexpress.net/bao-new-zealand-gap-viet-nam-la-co-hoi-tot-nhat-de-thang-o-u17-world-cup-5148090.html",
+     "source": "VnExpress"
     },
     {
-     "title": "Việt Nam làm tạo kỳ tích World Cup sau 9 năm, New Zealand lại là 'nạn nhân'",
-     "url": "https://thethao247.vn/426-viet-nam-lam-tao-ky-tich-world-cup-sau-9-nam-new-zealand-lai-la-nan-nhan-c1-d446968.html",
-     "source": "Thể Thao 247"
+     "title": "Siêu máy tính dự đoán tỷ số trận U17 Việt Nam gặp U17 New Zealand",
+     "url": "https://dantri.com.vn/the-thao/sieu-may-tinh-du-doan-ty-so-tran-u17-viet-nam-gap-u17-new-zealand-20261123134223838.htm",
+     "source": "Báo Dân trí"
     }
    ]
   },
@@ -92,9 +109,9 @@
    "when": "11월 23일 23:40",
    "news": [
     {
-     "title": "'Avengers: Doomsday' final trailer reveals key X-Men moment and Hailee Steinfeld's return. Plus, 4 other things we spotted.",
-     "url": "https://www.yahoo.com/entertainment/movies/article/avengers-doomsday-final-trailer-gives-first-look-at-hailee-steinfeld-plus-3-other-things-we-spotted-144448737.html",
-     "source": "Yahoo"
+     "title": "Watch the Final ‘Avengers: Doomsday’ Trailer",
+     "url": "https://www.marvel.com/articles/movies/avengers-doomsday-final-trailer",
+     "source": "Marvel.com"
     },
     {
      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
@@ -139,35 +156,18 @@
   },
   {
    "kw": "qqq",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 23일 23:30",
    "news": [
     {
-     "title": "NVIDIA's Market Cap Evaporates, Equaling Amazon's, Amid Tech Selloff",
-     "url": "https://www.chosun.com/english/market-money-en/2026/11/21/RVARKYWOLNHMRJFTVV4XQERNBE/",
-     "source": "조선일보"
+     "title": "The Fed isn't riding to the rescue — Wall Street still sees a December rate hike after tech's worst week since 2020: Chart of the Day",
+     "url": "https://finance.yahoo.com/markets/article/the-fed-isnt-riding-to-the-rescue--wall-street-still-sees-a-december-rate-hike-after-techs-worst-week-since-2020-chart-of-the-day-110000273.html",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "Nvidia Just Reported Its First Quarter Without Jensen Huang. If the AI Trade Is Cracking, Warren Buffett’s Advice Comes Down to 1 Move.",
-     "url": "https://www.fool.com/investing/2026/11/23/nvidia-just-reported-its-first-quarter-without-jensen-huang-if-the-ai-trade-is-cracking-warren-buffett-s-advice-comes-down-to-1-move/",
-     "source": "The Motley Fool"
-    }
-   ]
-  },
-  {
-   "kw": "qld",
-   "traffic": "100+",
-   "when": "11월 23일 23:30",
-   "news": [
-    {
-     "title": "‘Proud’: Gold Coast public school named among the state’s Top 100",
-     "url": "https://www.themercury.com.au/education/regions/queensland/benowa-state-high-school-named-gold-coasts-top-public-high-school-in-national-rankings/news-story/088e33236dcb8480ead5a68a06f99325",
-     "source": "The Mercury"
-    },
-    {
-     "title": "Top 100 Public High Schools: Geelong school named one of the state’s best",
-     "url": "https://www.adelaidenow.com.au/education/regions/victoria/victorias-top-100-public-high-schools-see-the-geelong-school-that-made-the-list-in-2026/news-story/2c7f9124e47db1471ae185f257694390",
-     "source": "Adelaide Now"
+     "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
+     "source": "Bloomberg.com"
     }
    ]
   }
