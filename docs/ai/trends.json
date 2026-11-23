@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-23 08:23",
+ "updated": "2026-11-23 09:22",
  "items": [
   {
-   "kw": "노시환",
+   "kw": "조세호",
+   "traffic": "200+",
+   "when": "11월 23일 08:10",
+   "news": [
+    {
+     "title": "'조폭 연루설' 조세호, 고정 0개..1년만 유튜브 복귀 갑론을박 “응원vs시기상조” [Oh!쎈 이슈]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/20/MQYWMYTFME4DKYLCMIYDQMRSGQ/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "‘조폭 연루설’ 조세호, 유튜브 활동 재개 “시기상조 쓴소리도”",
+     "url": "https://www.joongang.co.kr/article/25480407",
+     "source": "중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "편지",
+   "traffic": "200+",
+   "when": "11월 23일 08:00",
+   "news": [
+    {
+     "title": "\"네가 있어서 든든했다\"…28년 전 담임선생님이 남긴 손편지 화제",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261120101432PaP",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "선생님은 학생들에게 격려 편지를 썼고, 자신만의 독특한 방식으로 학생들의 마음을 움직였습니다.",
+     "url": "https://www.vietnam.vn/ko/co-giao-viet-thu-dong-vien-hoc-tro-gay-xuc-dong-voi-cach-nhac-nho-dac-biet",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "atalanta vs inter",
+   "traffic": "100+",
+   "when": "11월 23일 07:50",
+   "news": [
+    {
+     "title": "Preview: Atalanta BC vs Inter Milan - prediction, team news, lineups",
+     "url": "https://www.sportsmole.co.uk/football/atalanta-bc/preview/atalanta-vs-inter-milan-prediction-team-news-lineups_609517.html",
+     "source": "Sports Mole"
+    },
+    {
+     "title": "Licensable picture: Atalanta BC v FC Internazionale - Serie A Enilive",
+     "url": "https://www.reutersconnect.com/item/atalanta-bc-v-fc-internazionale-serie-a-enilive/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFMyU1ZWVw",
+     "source": "Reuters Connect"
+    }
+   ]
+  },
+  {
+   "kw": "대학",
    "traffic": "1000+",
+   "when": "11월 23일 07:40",
+   "news": [
+    {
+     "title": "충남신보·천안아산 8개 대학, 청년 창업교육 공동 추진",
+     "url": "https://www.viva100.com/article/20261122500101",
+     "source": "브릿지경제"
+    },
+    {
+     "title": "충남신용보증재단, 천안·아산 소재 8개 대학과 청년 창업교육 업무협약 체결",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112538",
+     "source": "충청매일"
+    }
+   ]
+  },
+  {
+   "kw": "로스앤젤레스 fc",
+   "traffic": "500+",
+   "when": "11월 23일 07:30",
+   "news": [
+    {
+     "title": "감히 '손흥민 뛰는 리그'를 건드려? 뮬러, MLS에 작심 발언 \"강등 없어 수비 느슨해\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/22/2026112207011987465",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘공식 발언’ 손흥민이 인정했다···레전드 뮐러의 ‘소신 주장’→“그는 발언 자격 충분히 있다, 나 역시 동의”",
+     "url": "https://sports.khan.co.kr/article/202611221820003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "노시환",
+   "traffic": "2000+",
    "when": "11월 23일 07:20",
    "news": [
     {
@@ -24,37 +109,54 @@
    "when": "11월 23일 07:20",
    "news": [
     {
-     "title": "김호령 KIA 유턴 가능성? 김호령 이어 정수빈까지 시장 나오나… 중견수 시장 지각변동",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021260",
-     "source": "SPOTV NEWS"
+     "title": "김호령 오버페이 없다? '자매구단 출신' 日 외야수 테스트…롯데 외야 FA 셈범 달라지나 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/23/202611222016774634O",
+     "source": "머니투데이"
     },
     {
-     "title": "김호령은 말할 것도 없고, FA는 C등급이 볼매…전병우와 김상수도? 삼성 ‘구원’만 지키면 안 되는구나",
-     "url": "https://www.mydaily.co.kr/page/view/2026112305332992187",
-     "source": "마이데일리"
+     "title": "김호령 대체 가능? '롯데의 묘수' 아이토, '본캐' 옷 입고 두산전 → 안타+볼넷+도루! 수비는 합격점. 롯데 3-0 승리",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/22/GNRTANDEGIZGEMBQMUYDIMJWG4/",
+     "source": "조선일보"
     }
    ]
   },
   {
-   "kw": "thứ hạng của barcelona gặp villarreal",
-   "traffic": "500+",
+   "kw": "쟁의행위",
+   "traffic": "100+",
    "when": "11월 23일 07:20",
    "news": [
     {
-     "title": "Video bóng đá Barcelona - Villarreal: Ngược dòng không tưởng (La Liga)",
-     "url": "https://www.24h.com.vn/bong-da/video-bong-da-barcelona-villarreal-choang-vang-2-phut-2-ban-la-liga-c48a1813207.html",
-     "source": "Tin tức 24h"
+     "title": "통합 자랑하던 코레일, 석달새 세번째 탈선",
+     "url": "https://www.chosun.com/national/transport-environment/2026/11/23/3YTQS6UICRCZZPNXG35QFEH5PY/",
+     "source": "조선일보"
     },
     {
-     "title": "Chuyên gia tố trọng tài dung túng cho HLV Real và Barca",
-     "url": "https://bongda.com.vn/chuyen-gia-to-trong-tai-dung-tung-cho-hlv-real-va-barca-d856007.html",
-     "source": "bongda.com.vn"
+     "title": "철도노조 \"안전운행 투쟁 26일로 연기‥사고 복구가 먼저\"",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6867631_36918.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "메디게이트뉴스",
+   "traffic": "100+",
+   "when": "11월 23일 07:10",
+   "news": [
+    {
+     "title": "\"의대증원되는데 전문의 따야 하나요\"…전공의들이 의대생에게 전한 조언은",
+     "url": "https://www.medigatenews.com/news/3037552586",
+     "source": "MEDI:GATE NEWS"
+    },
+    {
+     "title": "“의대 증원한다고 흉부외과 지원하겠나”…대동맥 수술 대가의 반문",
+     "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044775",
+     "source": "청년의사"
     }
    ]
   },
   {
    "kw": "울릉도",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 23일 07:00",
    "news": [
     {
@@ -66,108 +168,6 @@
      "title": "에스더기도운동 2026년 11월 3주차 북한 및 국가 기도제목 : 선교",
      "url": "https://www.christiantoday.co.kr/news/378655",
      "source": "크리스천투데이"
-    }
-   ]
-  },
-  {
-   "kw": "콜레트 크레스",
-   "traffic": "500+",
-   "when": "11월 23일 06:50",
-   "news": [
-    {
-     "title": "\"젠슨 황 떠난 뒤\"…엔비디아 새 수장 말투가 화제 된 이유 [한명현의 오피스로그]",
-     "url": "https://www.hankyung.com/article/202611185671i",
-     "source": "한국경제"
-    },
-    {
-     "title": "‘1인 독주’ 젠슨 황 사태, 이사회가 멈췄다",
-     "url": "https://www.chosun.com/economy/weeklybiz/2026/11/23/MLPUPUEVJZD3BKET4VXRPATAZI/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "getafe vs atlético",
-   "traffic": "200+",
-   "when": "11월 23일 06:50",
-   "news": [
-    {
-     "title": "'Kill pass → PK + provocación de expulsión': Lee Kang-in brilló sin puntos ofensivos... El Atlético, victoria aplastante 3-0 ante el Getafe",
-     "url": "https://www.starnewskorea.com/es/sports/2026/11/23/2026112305521469120",
-     "source": "스타뉴스"
-    },
-    {
-     "title": "Yassir Zabiri pide paso y Baena rehace al Atlético",
-     "url": "https://holanews.com/yassir-zabiri-pide-paso-y-baena-rehace-al-atletico/",
-     "source": "HolaNews"
-    }
-   ]
-  },
-  {
-   "kw": "날씨",
-   "traffic": "500000+",
-   "when": "11월 23일 06:40",
-   "news": [
-    {
-     "title": "[날씨] 월요일 아침 영하권 추위…전국에 비·눈 소식",
-     "url": "https://www.yna.co.kr/view/AKR20261122040000004",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "눈·비 ‘미끄럼’ 주의…서울 낮기온 10도",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719524",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "치매",
-   "traffic": "5000+",
-   "when": "11월 23일 06:40",
-   "news": [
-    {
-     "title": "Bruce Willis Seen in New Photo with Daughter Tallulah amid His Dementia Diagnosis",
-     "url": "https://people.com/bruce-willis-seen-in-new-photo-shared-by-daughter-tallulah-12270959",
-     "source": "People.com"
-    },
-    {
-     "title": "Tallulah Willis apologizes for sharing ‘intimate’ photo with dad Bruce: ‘I can do better’",
-     "url": "https://www.yahoo.com/entertainment/celebrity/articles/tallulah-willis-apologizes-sharing-intimate-190631378.html",
-     "source": "Yahoo"
-    }
-   ]
-  },
-  {
-   "kw": "레임덕",
-   "traffic": "200+",
-   "when": "11월 23일 06:40",
-   "news": [
-    {
-     "title": "시동 걸린 트럼프 레임덕…공화당發 국방부 고위직 인준 제동",
-     "url": "https://www.yna.co.kr/view/AKR20261123001000071",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "공화당이 반기 들고 일어났다…트럼프 정부 구상 '휘청' [지금이뉴스]",
-     "url": "https://www.ytn.co.kr/_ln/0545_202611230719018671",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "weather",
-   "traffic": "5000+",
-   "when": "11월 23일 06:30",
-   "news": [
-    {
-     "title": "Break out the winter coat: Highs only hitting the 30s much of this week",
-     "url": "https://www.wsaw.com/2026/11/22/break-out-winter-coat-highs-only-hitting-30s-much-this-week/",
-     "source": "WSAW"
-    },
-    {
-     "title": "Dreary morning and a colder, breezy afternoon",
-     "url": "https://www.wkow.com/weather/forecast/dreary-morning-and-a-colder-breezy-afternoon/article_2d670a3b-5c17-479a-9b9e-85055fe14f76.html",
-     "source": "WKOW"
     }
    ]
   }
