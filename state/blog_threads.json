@@ -416,7 +416,8 @@
    "https://blog.naver.com/soduwk1209/224422263390",
    "https://blog.naver.com/soduwk1209/224487570769",
    "https://blog.naver.com/soduwk1209/224487581168",
-   "https://blog.naver.com/soduwk1209/224422256002"
+   "https://blog.naver.com/soduwk1209/224422256002",
+   "https://blog.naver.com/soduwk1209/224487618041"
   ],
   "started": true,
   "v": 2,
@@ -905,7 +906,8 @@
    "https://blog.naver.com/soduwk1209/224487448280",
    "https://blog.naver.com/soduwk1209/224487480415",
    "https://blog.naver.com/soduwk1209/224487570769",
-   "https://blog.naver.com/soduwk1209/224487581168"
+   "https://blog.naver.com/soduwk1209/224487581168",
+   "https://blog.naver.com/soduwk1209/224487618041"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224421864792",
@@ -977,7 +979,7 @@
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
   "last_old": 1795413775.6877322,
-  "tone": "질문",
+  "tone": "존댓말",
   "hooks": [
    "와 임영웅 이런 일이 있었네",
    "화제의 소식",
@@ -1397,7 +1399,8 @@
    "https://blog.naver.com/dkdk521/224487631644",
    "https://blog.naver.com/dkdk521/224399141208",
    "https://blog.naver.com/dkdk521/224487638646",
-   "https://blog.naver.com/dkdk521/224487645713"
+   "https://blog.naver.com/dkdk521/224487645713",
+   "https://blog.naver.com/dkdk521/224397987379"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -2058,7 +2061,6 @@
    "https://blog.naver.com/dkdk521/224487645713"
   ],
   "backlog": [
-   "https://blog.naver.com/dkdk521/224397987379",
    "https://blog.naver.com/dkdk521/224397970222",
    "https://blog.naver.com/dkdk521/224396694268",
    "https://blog.naver.com/dkdk521/224396681856",
@@ -2316,8 +2318,8 @@
    "https://blog.naver.com/dkdk521/223183698757",
    "https://blog.naver.com/dkdk521/223021978335"
   ],
-  "last_old": 1795402974.35032,
-  "tone": "존댓말",
+  "last_old": 1795417375.330342,
+  "tone": "감탄",
   "hooks": [
    "화제가 된 이유를 정리했어요",
    "다들 이거 아셨어요?",
