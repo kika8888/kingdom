@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23 22:23",
+ "updated": "2026-11-23 23:23",
  "items": [
   {
    "kw": "혼다",
@@ -12,15 +12,15 @@
      "source": "NBC News"
     },
     {
-     "title": "Honda recalls 810K vehicles over dangerous Takata airbag inflator rupture risk",
-     "url": "https://www.foxbusiness.com/economy/honda-recalls-810k-vehicles-over-dangerous-takata-airbag-inflator-rupture-risk",
-     "source": "Fox Business"
+     "title": "Honda recalls over 810,000 vehicles. See the affected models",
+     "url": "https://www.usatoday.com/story/cars/recalls/2026/11/23/honda-recalls-vehicles-acura-accord-civic-cr-v-models/92922637007/",
+     "source": "USA Today"
     }
    ]
   },
   {
    "kw": "상장",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 23일 20:00",
    "news": [
     {
@@ -46,9 +46,9 @@
      "source": "ESPN"
     },
     {
-     "title": "Tarik Skubal's $450 Million Mets Deal Puts MLB Salary Cap Fight in Focus",
-     "url": "https://sports.yahoo.com/videos/tarik-skubals-450-million-mets-123035955.html",
-     "source": "Yahoo Sports"
+     "title": "Is Tarik Skubal a Hall of Famer? Where new Mets ace stands now and where he could end up",
+     "url": "https://www.cbssports.com/mlb/news/tarik-skubal-hall-of-fame-case/",
+     "source": "CBS Sports"
     }
    ]
   },
@@ -71,7 +71,7 @@
   },
   {
    "kw": "반도체 메모리",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 23일 19:40",
    "news": [
     {
@@ -88,13 +88,13 @@
   },
   {
    "kw": "중위소득",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 23일 19:10",
    "news": [
     {
-     "title": "생계급여 기준, 2030년까지 중위소득 35%로 올린다",
-     "url": "https://www.hani.co.kr/arti/society/rights/1288691.html",
-     "source": "한겨레"
+     "title": "생계급여 문턱 낮춘다…긴급 위기가구에 30만원 즉시지원(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261123067051530",
+     "source": "연합뉴스"
     },
     {
      "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
@@ -105,7 +105,7 @@
   },
   {
    "kw": "브레인악셀",
-   "traffic": "2000+",
+   "traffic": "1000+",
    "when": "11월 23일 19:10",
    "news": [
     {
@@ -114,8 +114,8 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "리트 만점자 유족 경찰 출석...\"증거제출 의사 확인\"",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231745093682_005.html",
+     "title": "\"이진우 사인본, 수십만 원\"...환불 요구 책이 어쩌다",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0106_202611232201517707_005.html",
      "source": "YTN"
     }
    ]
@@ -132,7 +132,7 @@
     },
     {
      "title": "결국은 \"돈 더 내라\"...미 데이터센터 규제의 진짜 속내",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611231601194035",
+     "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202611231601194035",
      "source": "YTN 사이언스"
     }
    ]
