@@ -1,15 +1,83 @@
 {
- "updated": "2026-11-23 17:55",
+ "updated": "2026-11-23 18:23",
  "items": [
   {
-   "kw": "채무",
+   "kw": "고규필",
+   "traffic": "500+",
+   "when": "11월 23일 17:20",
+   "news": [
+    {
+     "title": "배우 고규필·가수 에이민 부부 득녀…\"인생 가장 잘한 일\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123138400005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "고규필♥에이민, 오늘(23일) 득녀..\"아빠 판박이\"",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/23/HA3TIMZUGE3TAOBVGY2DQNLCMQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "한국지엠",
    "traffic": "200+",
+   "when": "11월 23일 17:20",
+   "news": [
+    {
+     "title": "김홍록·김은미, 인천마라톤대회 국내 남녀부 우승",
+     "url": "https://www.yna.co.kr/view/AKR20261122031800007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "인천 ‘하늘길’ 건너 1초 차 접전…케냐 킵코에치, 2026 인천마라톤서 풀코스 첫 정상 등극",
+     "url": "https://www.donga.com/news/Sports/article/all/20261122/135065718/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "sa vs ban",
+   "traffic": "100+",
+   "when": "11월 23일 17:20",
+   "news": [
+    {
+     "title": "'It's quite a smooth transition'- Markram on stepping in for Bavuma",
+     "url": "https://www.cricinfo.com/story/aiden-markram-says-it-s-quite-a-smooth-transition-to-be-leading-south-africa-again-1563619",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "South Africa vs Bangladesh, 2nd Test: Injuries won't take the sting out of Centurion Test",
+     "url": "https://www.cricbuzz.com/cricket-news/141019/south-africa-vs-bangladesh-2nd-test-injuries-wont-take-the-sting-out-of-centurion-test-cricbuzzcom",
+     "source": "Cricbuzz"
+    }
+   ]
+  },
+  {
+   "kw": "김동현",
+   "traffic": "500+",
+   "when": "11월 23일 17:00",
+   "news": [
+    {
+     "title": "“창문 내렸더니 입술이 덜덜”…김동현에 보복 운전 시비 걸던 운전자의 최후",
+     "url": "https://www.mk.co.kr/news/culture/12215432",
+     "source": "매일경제"
+    },
+    {
+     "title": "창문 내리자 '입술 덜덜'…김동현에 보복 운전한 트럭 줄행랑 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/22/2026112217405242518",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "채무",
+   "traffic": "500+",
    "when": "11월 23일 16:50",
    "news": [
     {
-     "title": "하나금융연구소, 한국금융연구센터와 포용금융 정책방향 논의",
-     "url": "https://www.yna.co.kr/view/AKR20261123050400002",
-     "source": "연합뉴스"
+     "title": "포용금융 활성화하려면…\"주담대 쏠림 완화·금융기본권 보장\" - 머니투데이",
+     "url": "https://www.mt.co.kr/finance/2026/11/23/2026112316561632954",
+     "source": "머니투데이"
     },
     {
      "title": "하나금융연구소, 포용금융 토론…강경훈 교수 \"금융기본권 정립 필요\"",
@@ -29,9 +97,9 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "“내란 인정하라고 지X 지X”…국힘 김태규, 민주당에 막말",
-     "url": "https://www.hani.co.kr/arti/politics/politics_general/1288600.html",
-     "source": "한겨레"
+     "title": "[뉴스분석] 엇갈리는 '계엄 책임론'…국민의힘, 비상계엄 2년 앞두고 갑론을박",
+     "url": "https://www.newspim.com/news/view/20261123000524",
+     "source": "뉴스핌"
     }
    ]
   },
@@ -92,82 +160,14 @@
    "when": "11월 23일 16:00",
    "news": [
     {
-     "title": "심진화♥김원효, 유흥업소 방문 논란 후 보란 듯 가족 사진…공연 '연습' 열중 [핫피플]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/23/MJRDGZTGGM2WEN3BGFRGEMDFGU/",
-     "source": "조선일보"
-    },
-    {
      "title": "심진화, 김원효 ‘트랜스젠더 바’ 논란에 \"후배 만나러 갔다\"",
      "url": "https://www.ytn.co.kr/_ln/0117_202611231012432150",
      "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "원자력",
-   "traffic": "500+",
-   "when": "11월 23일 16:00",
-   "news": [
-    {
-     "title": "한전KDN, 국제품질분임조대회서 3개 품질분임조 금상 수상 - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/policy/2026/11/23/2026112313310840853",
-     "source": "머니투데이"
     },
     {
-     "title": "한수원, 국제품질분임조 경진대회 14회 연속 금상 수상",
-     "url": "https://www.dailian.co.kr/news/view/1718620/%ED%95%9C%EC%88%98%EC%9B%90-%EA%B5%AD%EC%A0%9C%ED%92%88%EC%A7%88%EB%B6%84%EC%9E%84%EC%A1%B0-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-14%ED%9A%8C-2026",
-     "source": "데일리안"
-    }
-   ]
-  },
-  {
-   "kw": "휴림로봇",
-   "traffic": "500+",
-   "when": "11월 23일 15:10",
-   "news": [
-    {
-     "title": "휴림로봇, 한화로보틱스 등과 자동화 장비 로봇 공급 계약 체결 - 머니투데이",
-     "url": "https://www.mt.co.kr/stock/2026/11/23/2026112308413335800",
-     "source": "머니투데이"
-    },
-    {
-     "title": "휴림로봇 주가 장중 상한가, 삼성전기 자동화 장비로봇 공급 본계약 체결",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452641",
-     "source": "비즈니스포스트"
-    }
-   ]
-  },
-  {
-   "kw": "권한쟁의심판",
-   "traffic": "200+",
-   "when": "11월 23일 15:10",
-   "news": [
-    {
-     "title": "[단독] “李 파기환송 사건은 민주당 선거비 반환 직결사안”⋯ 국힘, 특검법 권한쟁의 청구",
-     "url": "https://www.kmib.co.kr/article/20261123500952",
-     "source": "국민일보"
-    },
-    {
-     "title": "국힘, ‘조작기소 특검법’ 권한쟁의심판 청구…“표결권 침해”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261123/135074392/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "박선원",
-   "traffic": "100+",
-   "when": "11월 23일 14:50",
-   "news": [
-    {
-     "title": "\"신천지 4만3000명 입당\" 친명 폭로에 뒤집힌 민주당",
-     "url": "https://www.chosun.com/politics/assembly/2026/11/23/CDEWQUIMSZDNNABQ6HBWECORLY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'曺탄핵'으로 단합하나 했더니…與 최고위서 신천지 또 공개충돌(종합2보)",
-     "url": "https://www.yna.co.kr/view/AKR20261123072253001",
-     "source": "연합뉴스"
+     "title": "‘심진화♥’ 김원효, 1억 재산 오해…영화관 결혼식 비하인드 (개세모2)",
+     "url": "https://sports.donga.com/ent/article/all/20261123/135071040/1",
+     "source": "스포츠동아"
     }
    ]
   }
