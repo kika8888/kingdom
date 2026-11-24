@@ -1,6 +1,63 @@
 {
- "updated": "2026-11-24 20:23",
+ "updated": "2026-11-24 21:23",
  "items": [
+  {
+   "kw": "afc 챔스",
+   "traffic": "100+",
+   "when": "11월 24일 20:00",
+   "news": []
+  },
+  {
+   "kw": "부천시",
+   "traffic": "200+",
+   "when": "11월 24일 19:50",
+   "news": [
+    {
+     "title": "부천 지역화폐 캐시백, 내년부터 충전 아닌 결제 때 지급",
+     "url": "https://www.yna.co.kr/view/AKR20261124054900065",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "매달 초 ‘충전 경쟁’ 사라질까…부천시, ‘부천페이’ 인센티브 지급 방식 바꾼다",
+     "url": "https://www.hani.co.kr/arti/area/chungcheong/1288914.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "kw": "전광훈",
+   "traffic": "100+",
+   "when": "11월 24일 19:50",
+   "news": [
+    {
+     "title": "경찰, '불법 정치자금 의혹' 전광훈 구속영장 신청",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868056_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "\"교회 돈 102억 자유통일당에\"…전광훈 목사 내일 공소청 면담(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261124069851004",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "무안국제공항",
+   "traffic": "100+",
+   "when": "11월 24일 19:20",
+   "news": [
+    {
+     "title": "‘광주공항 이전’ 제7차 공항 계획 반영 추진",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718870",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "\"광주공항, 내년말 무안공항으로 통합 이전\"",
+     "url": "https://www.hankyung.com/article/2026112349231",
+     "source": "한국경제"
+    }
+   ]
+  },
   {
    "kw": "히잡",
    "traffic": "200+",
@@ -20,41 +77,41 @@
   },
   {
    "kw": "프로포폴",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 24일 19:00",
    "news": [
-    {
-     "title": "‘반포대교 추락 포르쉐’ 약물 공급 혐의 병원장…1심서 징역형",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721193",
-     "source": "KBS 뉴스"
-    },
     {
      "title": "'반포대교 추락' 운전자에게 프로포폴 공급한 병원장, 1심 징역 1년 6개월",
      "url": "https://imnews.imbc.com/news/2026/society/article/6868215_36918.html",
      "source": "MBC 뉴스"
+    },
+    {
+     "title": "‘반포대교 추락 포르쉐’ 약물 공급 혐의 병원장…1심서 징역형",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721193",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "kw": "배용준",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 24일 19:00",
    "news": [
-    {
-     "title": "배용준·박수진, 4년 하와이 생활 접고 한국행…반포 아파트 이사",
-     "url": "https://www.donga.com/news/Culture/article/all/20261124/135082030/1",
-     "source": "동아일보"
-    },
     {
      "title": "배용준·박수진, 하와이 생활 청산하고 귀국…반포 고급 아파트 이사",
      "url": "https://www.mk.co.kr/news/hot-issues/12217066",
      "source": "매일경제"
+    },
+    {
+     "title": "배용준·박수진, 4년 하와이 생활 마치고 한국행",
+     "url": "https://sports.donga.com/ent/article/all/20261124/135081710/1",
+     "source": "스포츠동아"
     }
    ]
   },
   {
    "kw": "한석준",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 24일 18:50",
    "news": [
     {
@@ -63,15 +120,15 @@
      "source": "머니투데이"
     },
     {
-     "title": "한석준 ‘우리말 겨루기’ 강제 하차에 오열…“화나서 운 건 처음”",
-     "url": "https://biz.heraldcorp.com/article/10947482",
-     "source": "헤럴드경제"
+     "title": "한석준 “‘우리말 겨루기’ 강제 하차에 차 세우고 오열”…전현무 동반 퇴사도 거절",
+     "url": "https://www.donga.com/news/Culture/article/all/20261124/135082092/2",
+     "source": "동아일보"
     }
    ]
   },
   {
    "kw": "pakistan a vs nepal",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 24일 18:40",
    "news": [
     {
@@ -100,74 +157,6 @@
      "title": "한화생명, 카나비 떠난 자리에 ‘캐니언’ 김건부 영입",
      "url": "https://www.kukinews.com/article/view/kuk202611240240",
      "source": "쿠키뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "다리오 아모데이",
-   "traffic": "100+",
-   "when": "11월 24일 18:20",
-   "news": [
-    {
-     "title": "'AI 중앙은행' 된 엔비디아…복귀한 젠슨 황, 오하이오서 첫 시험대 [김주완의 글로벌머니 X파일]",
-     "url": "https://www.hankyung.com/article/202611246927i",
-     "source": "한국경제"
-    },
-    {
-     "title": "실적은 좋은데 주가는 왜 떨어질까?…AI 투자 수익성에 커진 의구심",
-     "url": "https://www.newsis.com/view/NISX20261120_0003877131",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "지폐",
-   "traffic": "100+",
-   "when": "11월 24일 18:10",
-   "news": [
-    {
-     "title": "조폐공사, 화폐 부산물 활용 '돈빛 조명' 공개…화폐굿즈 신제품",
-     "url": "https://www.news1.kr/local/daejeon-chungnam/6364176",
-     "source": "뉴스1"
-    },
-    {
-     "title": "[이서영의 재테크루] 돈복 부르던 은행 달력, 영크크 소장 욕구 자극하는 굿즈로",
-     "url": "https://www.ajunews.com/view/20261123130039888",
-     "source": "아주경제"
-    }
-   ]
-  },
-  {
-   "kw": "스테이블코인",
-   "traffic": "1000+",
-   "when": "11월 24일 18:00",
-   "news": [
-    {
-     "title": "‘은행 주도’ 원화 코인 길 열렸다... 정부, 9년 만에 국내 발행 추진",
-     "url": "https://www.chosun.com/economy/economy_general/2026/11/24/PWWPU27V2VGUNPVBWFCWLDLNUY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "베일벗은 스테이블코인 규제…은행·빅테크 셈법은",
-     "url": "https://zdnet.co.kr/view/?no=20261124141609",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "australia vs england",
-   "traffic": "200+",
-   "when": "11월 24일 18:00",
-   "news": [
-    {
-     "title": "Australia v England: second men’s Twenty20 cricket international – live",
-     "url": "https://www.theguardian.com/sport/live/2026/nov/24/australia-vs-england-second-mens-twenty20-international-live",
-     "source": "The Guardian"
-    },
-    {
-     "title": "Last-over MCG finish suggests a series of fine margins",
-     "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-2nd-t20i-1528707/match-preview",
-     "source": "Cricinfo"
     }
    ]
   }
