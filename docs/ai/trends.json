@@ -1,61 +1,163 @@
 {
- "updated": "2026-11-24 15:23",
+ "updated": "2026-11-24 16:23",
  "items": [
   {
-   "kw": "농심",
+   "kw": "원현주",
+   "traffic": "10000+",
+   "when": "11월 24일 15:20",
+   "news": [
+    {
+     "title": "[속보] 원현주, '불륜 의혹' 양홍원과 결혼식 한 달여 만에 \"이혼 절차 거의 종료\"",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/G5QTCN3EHAZTOZTFMMZGIZRXGU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "래퍼 양홍원·원현주 결혼 한달만에 파경 \"원만하게 합의 이혼\"",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6364435",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "성심당",
+   "traffic": "2000+",
+   "when": "11월 24일 15:20",
+   "news": [
+    {
+     "title": "23만원어치 성심당 빵·선물 가져간 배송 기사…항의하자 \"나 아냐\" 발뺌",
+     "url": "https://www.news1.kr/society/general-society/6362509",
+     "source": "뉴스1"
+    },
+    {
+     "title": "\"빌라라 CCTV 없는 줄 알았나\"…퀵서비스 온 '성심당 가방' 슬쩍한 배송기사",
+     "url": "https://www.newsis.com/view/NISX20261123_0003879373",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "uae vs india a",
    "traffic": "200+",
-   "when": "11월 24일 14:00",
+   "when": "11월 24일 15:20",
    "news": [
     {
-     "title": "농심 '오징어집', 41년 만에 첫 시리즈…'불오징어집' 출시",
-     "url": "https://www.etnews.com/20261123000082",
-     "source": "전자신문"
+     "title": "Lost to Pakistan, now what? How Tilak Varma-led India A can reach Asia Cup Rising Stars semi-finals | Qua",
+     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lost-to-pakistan-now-what-how-tilak-varma-led-india-a-can-reach-asia-cup-rising-stars-semi-finals-qualification-scenarios/articleshow/136088275.cms",
+     "source": "The Times of India"
     },
     {
-     "title": "[똑똑한한끼] 농심, 샘표, 대상웰라이프, 서울우유, 정관장 궁정비차, 하이트진로, 몽키숄더, 원할머니 보쌈족발, 이디야커피, 매드포갈릭",
-     "url": "https://m.ekn.kr/view.php?key=20261123022453132",
-     "source": "에너지경제신문"
+     "title": "INDA vs UAE, 11th Match, Group B, ACC Men's Asia Cup Rising Stars 2026 - Commentary",
+     "url": "https://m.cricbuzz.com/live-cricket-scores/177203/uae-vs-inda-11th-match-group-b-acc-mens-asia-cup-rising-stars-2026",
+     "source": "Cricbuzz"
     }
    ]
   },
   {
-   "kw": "장기 기증",
+   "kw": "보육",
+   "traffic": "100+",
+   "when": "11월 24일 15:20",
+   "news": [
+    {
+     "title": "대전과기대-대전어린이집연합회, 지역 맞춤형 보육 인재 육성 협력",
+     "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=456449",
+     "source": "굿모닝충청"
+    },
+    {
+     "title": "대전과기대, 현장형 유아교사 키운다",
+     "url": "http://www.ccherald.kr/news/articleView.html?idxno=54164",
+     "source": "충청헤럴드"
+    }
+   ]
+  },
+  {
+   "kw": "서울양평고속도로",
+   "traffic": "100+",
+   "when": "11월 24일 15:00",
+   "news": [
+    {
+     "title": "특검, '양평 고속도로 의혹' 국토부 서기관에 3년 6개월 구형",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6867906_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "특검, ‘양평고속도로 노선 변경 특혜’ 국토부 직원에 징역 3년 6개월 구형",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720096",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "트리플스타",
+   "traffic": "100+",
+   "when": "11월 24일 15:00",
+   "news": [
+    {
+     "title": "백종원은 그대로, 안성재는 수척…트리플스타 결혼식서 포착",
+     "url": "https://www.newsis.com/view/NISX20261124_0003881199",
+     "source": "뉴시스"
+    },
+    {
+     "title": "백종원·안성재, '흑백3' 공개 전 뜻밖의 근황..'재혼' 트리플스타 결혼식 포착[핫피플]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/MJTDQYZXHBSGGZTDMJSDKMBWGU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "박지윤 카톡",
    "traffic": "2000+",
-   "when": "11월 24일 13:30",
+   "when": "11월 24일 14:50",
    "news": [
     {
-     "title": "“줄 수 있는 건 다 줄게” 약속 지키고 떠난 53세 가장 [아살세]",
-     "url": "https://www.kmib.co.kr/article/20261124500356",
-     "source": "국민일보"
+     "title": "“구질구질하게 어지르는 것도 지 엄마 닮아”…박지윤 카톡에 무슨 일이",
+     "url": "https://www.tsisalaw.com/news/article.html?no=31108",
+     "source": "더시사법률"
     },
     {
-     "title": "50대 기관사, 간·신장에 눈도 내줬다…승객 안전 지키다 하늘로",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1288806.html",
-     "source": "한겨레"
+     "title": "악성 댓글 지우면 처벌 피할 수 있을까…익명으로 써도 찾을 수 있다 - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/society/2026/11/24/2026112415014494105",
+     "source": "머니투데이"
     }
    ]
   },
   {
-   "kw": "퇴직",
-   "traffic": "5000+",
-   "when": "11월 24일 13:20",
-   "news": [
-    {
-     "title": "NH농협은행·보험 등 명퇴 실시…최대 40개월치 임금 지급",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446262",
-     "source": "연합인포맥스"
-    },
-    {
-     "title": "[종합] 은행권 연말 ’희망퇴직 시즌’…농협 명퇴금 2배 By FinancialPost",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2188199",
-     "source": "Investing.com 한국어"
-    }
-   ]
-  },
-  {
-   "kw": "12 월 3 일",
+   "kw": "군인",
    "traffic": "2000+",
-   "when": "11월 24일 13:20",
+   "when": "11월 24일 14:40",
+   "news": [
+    {
+     "title": "육군 병장 → 공군 하사·소위 임관… 권성찬 “군번줄만 3개 됐어요”",
+     "url": "https://www.munhwa.com/article/11633633",
+     "source": "문화일보"
+    },
+    {
+     "title": "임관 자축하는 신임 장교들",
+     "url": "https://www.news1.kr/photos/8230725",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "장원영",
+   "traffic": "2000+",
+   "when": "11월 24일 14:20",
+   "news": [
+    {
+     "title": "“안 하면 안 했지, 할 거면 제대로 장원영답게. 그런 생각이에요.”",
+     "url": "https://www.wkorea.com/2026/11/24/%EC%95%88-%ED%95%98%EB%A9%B4-%EC%95%88-%ED%96%88%EC%A7%80-%ED%95%A0-%EA%B1%B0%EB%A9%B4-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%9E%A5%EC%9B%90%EC%98%81%EB%8B%B5%EA%B2%8C-%EA%B7%B8%EB%9F%B0-%EC%83%9D/",
+     "source": "W Korea"
+    },
+    {
+     "title": "“저 역시 ‘뱅뱅’을 사랑했다”…장원영, 아이브 ‘MAMA’ 2관왕 무대서 고백 [핫피플]",
+     "url": "https://www.chosun.com/entertainments/music/2026/11/23/GQ3DEYRWMU2WKNBYGA3WKNJSMQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "국민주권의 날",
+   "traffic": "2000+",
+   "when": "11월 24일 14:20",
    "news": [
     {
      "title": "'12·3 그날' 정부기념일로‥\"헌법 수호 국민 기념\"",
@@ -63,89 +165,9 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "[속보]李대통령 \"12월3일, 국가기념일 '국민주권의 날' 지정 안건 처리 예정\" - 머니투데이",
-     "url": "https://www.mt.co.kr/politics/2026/11/24/2026112410082482330",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "지방세",
-   "traffic": "500+",
-   "when": "11월 24일 13:20",
-   "news": []
-  },
-  {
-   "kw": "김서형",
-   "traffic": "1000+",
-   "when": "11월 24일 13:20",
-   "news": [
-    {
-     "title": "김서형, 건강 악화로 촬영 중 드라마 하차…박보경 긴급 투입",
-     "url": "https://www.mk.co.kr/news/hot-issues/12216766",
-     "source": "매일경제"
-    },
-    {
-     "title": "박보경, 김서형 하차한 SBS 드라마 '대시' 합류",
-     "url": "https://www.yna.co.kr/view/AKR20261124074700005",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "트롯 데스매치 금타는 금요일",
-   "traffic": "200+",
-   "when": "11월 24일 13:20",
-   "news": []
-  },
-  {
-   "kw": "강호동",
-   "traffic": "1000+",
-   "when": "11월 24일 13:10",
-   "news": [
-    {
-     "title": "강호동, 무대 보다가 대성통곡…손수건 꺼내 눈물 닦았다 (천만기인쇼)",
-     "url": "https://sports.donga.com/ent/article/all/20261124/135078139/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "[TV조선] 기인들의 왕중왕전",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/7U6PKLVL7NFM5PWLTYD4V6EJPY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "치이카와 클리닉",
-   "traffic": "1000+",
-   "when": "11월 24일 13:10",
-   "news": [
-    {
-     "title": "'치이카와 클리닉' 팝업 1차 사전예약 하루 연기된 이유",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760308",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "치이카와 팝업 1차 예약 하루 연기…사이트 정비",
-     "url": "https://www.jejutwn.com/news/article.html?no=464852",
-     "source": "제주교통복지신문"
-    }
-   ]
-  },
-  {
-   "kw": "팝콘",
-   "traffic": "500+",
-   "when": "11월 24일 13:10",
-   "news": [
-    {
-     "title": "백억커피, LG유플러스 멤버십 제휴…아메리카노·팝콘 무료 제공",
-     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086044",
-     "source": "신아일보"
-    },
-    {
-     "title": "다시 만난 최승윤 대표",
-     "url": "https://www.ilyosisa.co.kr/news/article.html?no=258940",
-     "source": "일요시사"
+     "title": "'12·3 국민주권의 날' 기념일 지정...이 대통령 \"위대한 국민 승리\"",
+     "url": "https://www.ytn.co.kr/_ln/0101_202611241605214681",
+     "source": "YTN"
     }
    ]
   }
