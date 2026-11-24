@@ -1,60 +1,128 @@
 {
- "updated": "2026-11-24 22:23",
+ "updated": "2026-11-24 23:23",
  "items": [
+  {
+   "kw": "주우재",
+   "traffic": "200+",
+   "when": "11월 24일 22:00",
+   "news": [
+    {
+     "title": "허경환, 데뷔 20주년 맞이 키 크는 수술을 결심하다?! | KBS 261124 방송",
+     "url": "https://www.kbs.co.kr/index.html?source=smr&sname=vod&stype=vod&contents_id=K02_PS-2026202815-01-000_MFSC4&program_code=T2018-0562&program_id=PS-2026202815-01-000&section_code=04&broadcast_complete_yn=N&section_id=25328",
+     "source": "대한민국 대표 공영미디어 KBS"
+    },
+    {
+     "title": "역시 코미디언들 의리…양세찬, 강재준에 1억 빌려줬다",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880179",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "꽁안 하노이 fc 대 비셀 고베",
+   "traffic": "200+",
+   "when": "11월 24일 21:50",
+   "news": [
+    {
+     "title": "LIVE CAHN 0-0 Vissel Kobe AFC Champions League (First Half): An exciting attacking game.",
+     "url": "https://www.vietnam.vn/en/truc-tiep-cahn-0-0-vissel-kobe-cup-c1-chau-a-hiep-1-doi-cong-hap-dan",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "Coach Polking and Filip Nguyen share the same anxieties, while Vissel Kobe's coach says 'every CAHN player is dangerous'.",
+     "url": "https://www.vietnam.vn/en/hlv-polking-va-filip-nguyen-cung-chung-noi-bat-an-hlv-vissel-kobe-cau-thu-cahn-nao-cung-nguy-hiem",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "화재",
+   "traffic": "100+",
+   "when": "11월 24일 21:50",
+   "news": [
+    {
+     "title": "‘방화 가능성’ 주택 화재…일가족 3명 숨져",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721431",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "부산 일가족 3명 사망 화재 감식…기름통 발견돼 연관성 조사",
+     "url": "https://www.yna.co.kr/view/AKR20261124099800051",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "united arab emirates national cricket team vs india a cricket team standings",
+   "traffic": "1000+",
+   "when": "11월 24일 21:40",
+   "news": [
+    {
+     "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+     "url": "https://www.cricbuzz.com/player-match-performance/match/177203/player/6322/batting?inningsId=1",
+     "source": "Cricbuzz"
+    },
+    {
+     "title": "'Had a feeling I would score a hundred': India-born Harpreet Bhatia's emotional ton on Guru Nanak Jayant",
+     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/had-a-feeling-i-would-score-a-hundred-india-born-harpreet-bhatias-emotional-ton-on-guru-nanak-jayanti-against-india-a/articleshow/136126818.cms",
+     "source": "The Times of India"
+    }
+   ]
+  },
+  {
+   "kw": "대전 하나 시티즌 대 베이징 궈안 순위",
+   "traffic": "20000+",
+   "when": "11월 24일 21:10",
+   "news": [
+    {
+     "title": "17분 만에 3골 몰아친 화력쇼! 대전, 中 베이징 3-2 잡고 ACLE '연패 탈출'... 포항은 日 교토에 패배(종합) - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112422205886486",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'전반에만 3골 폭발' 대전, 안방에서 中 베이징 3-2 격파! ACLE 연패 탈출...16강 진출 희망 살렸다",
+     "url": "https://www.chosun.com/sports/football/2026/11/24/GQYWCNBTGZSGCOBQGM2DOZJVMU/",
+     "source": "조선일보"
+    }
+   ]
+  },
   {
    "kw": "치안감",
    "traffic": "100+",
    "when": "11월 24일 21:10",
    "news": [
     {
-     "title": "‘경찰 2인자’ 치안정감에 김병기·송영호 승진 내정",
-     "url": "https://www.khan.co.kr/article/202611241022011",
-     "source": "경향신문"
+     "title": "‘경찰 2인자’ 치안정감에 김병기-송영호…치안감 4명도 승진",
+     "url": "https://www.donga.com/news/Society/article/all/20261124/135080013/1",
+     "source": "동아일보"
     },
     {
-     "title": "[인사] 경찰청",
-     "url": "https://www.etnews.com/20261124000332",
-     "source": "전자신문"
+     "title": "함영욱 경기남부청 광역수사단장, 치안감 승진 내정",
+     "url": "https://www.kyeongin.com/article/1775292",
+     "source": "경인일보"
     }
    ]
   },
   {
    "kw": "비",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 24일 21:00",
    "news": [
     {
-     "title": "틈만나면, : [67회 선공개] “부탁 좀 드릴게요 형” 비, 체력 조절이 중요해진 새로운 틈 미션에 당황",
-     "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC484383944",
+     "title": "틈만나면, : 비×유연석, 김재욱의 자리 이동 제안에 즉각 움직이며 틈 미션 도전",
+     "url": "https://programs.sbs.co.kr/enter/teum/clip/82063/OC484401985",
      "source": "programs.sbs.co.kr"
     },
     {
-     "title": "'김태희♥' 비, 뜻밖의 '지방간' 고백…알고보니 고칼로리 음식 러버 (틈만나면)",
-     "url": "https://biz.chosun.com/entertainment/tv/2026/11/24/MM4TENTEMY3GCZTEMQ4WKOBUGE/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "陈吉宁",
-   "traffic": "500+",
-   "when": "11월 24일 20:50",
-   "news": [
-    {
-     "title": "快訊:上海市委書記陳吉寧被調查",
-     "url": "https://www.ntdtv.com/gb/2026/11/24/a104153275.html",
-     "source": "新唐人電視台"
-    },
-    {
-     "title": "中央打虎︱四名现届政治局委员落马 何卫东及张又侠为军委副主席",
-     "url": "https://www.stheadline.com/zh-hans/realtime-china/3640774/%E4%B8%AD%E5%A4%AE%E6%89%93%E8%99%8E%E5%9B%9B%E5%90%8D%E7%8E%B0%E5%B1%8A%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%91%98%E8%90%BD%E9%A9%AC-%E4%BD%95%E5%8D%AB%E4%B8%9C%E5%8F%8A%E5%BC%A0%E5%8F%88%E4%BE%A0%E4%B8%BA%E5%86%9B%E5%A7%94%E5%89%AF%E4%B8%BB%E5%B8%AD",
-     "source": "星島頭條"
+     "title": "'틈만나면,' 비, 체지방률 0%의 반전 식성…\"죽기 전 치즈버거 먹고파\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112408057243137",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "최재훈",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 24일 20:50",
    "news": [
     {
@@ -70,104 +138,36 @@
    ]
   },
   {
-   "kw": "의식불명",
+   "kw": "陈吉宁",
    "traffic": "1000+",
-   "when": "11월 24일 19:50",
+   "when": "11월 24일 20:50",
    "news": [
     {
-     "title": "창녕서 횡단보도 건너던 80대, 시외버스에 치여 의식 불명",
-     "url": "https://www.yna.co.kr/view/AKR20261124072800052",
-     "source": "연합뉴스"
+     "title": "被认为是中国国家主席习近平接班人候选人的上海市委书记陈吉宁因涉嫌\"严重违纪违法\"正在接受反腐败调查。",
+     "url": "https://www.mk.co.kr/cn/world/12217544",
+     "source": "매일경제"
     },
     {
-     "title": "창녕서 횡단보도 건너던 80대, 시외버스에 치여 의식 불명",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720932",
-     "source": "KBS 뉴스"
+     "title": "快訊:上海市委書記陳吉寧被調查",
+     "url": "https://www.ntdtv.com/gb/2026/11/24/a104153275.html",
+     "source": "新唐人電視台"
     }
    ]
   },
   {
-   "kw": "부천시",
-   "traffic": "500+",
-   "when": "11월 24일 19:50",
-   "news": [
-    {
-     "title": "월초 ‘충전 쏠림’ 없앤다…부천페이, 내년 1월 ‘결제 시 환급’ 개편",
-     "url": "https://www.kyeonggi.com/article/20261124580348",
-     "source": "경기일보"
-    },
-    {
-     "title": "부천 지역화폐 캐시백, 내년부터 충전 아닌 결제 때 지급",
-     "url": "https://www.yna.co.kr/view/AKR20261124054900065",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "acc emerging teams asia cup",
-   "traffic": "500+",
-   "when": "11월 24일 19:50",
-   "news": [
-    {
-     "title": "28 Balls Of Pure Carnage: 15-Year-Old Vaibhav Sooryavanshi Shatters World Record Against UAE",
-     "url": "https://www.sportscapemagazine.com/blog/28-balls-of-pure-carnage-15-year-old-vaibhav-sooryavanshi-shatters-world-record-against-uae",
-     "source": "Sportscape Magazine"
-    },
-    {
-     "title": "India A Crush UAE in Record 14.2 Over Chase in Doha",
-     "url": "https://cwibc.co.id/en/india-a-crush-uae-record-chase",
-     "source": "cwibc.co.id"
-    }
-   ]
-  },
-  {
-   "kw": "전광훈",
-   "traffic": "100+",
-   "when": "11월 24일 19:50",
-   "news": [
-    {
-     "title": "경찰, '불법 정치자금 의혹' 전광훈 구속영장 신청",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868056_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "\"교회 돈 102억 자유통일당에\"…전광훈 목사 내일 공소청 면담(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261124069851004",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "무안국제공항",
+   "kw": "무궁화호",
    "traffic": "200+",
-   "when": "11월 24일 19:20",
+   "when": "11월 24일 20:40",
    "news": [
     {
-     "title": "‘광주공항 이전’ 제7차 공항 계획 반영 추진",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8718870",
-     "source": "KBS 뉴스"
+     "title": "코레일, 새 단장한 무궁화호 첫 운행…2028년까지 객차 280칸 개량",
+     "url": "https://www.donga.com/news/Economy/article/all/20261124/135084379/1",
+     "source": "동아일보"
     },
     {
-     "title": "\"광주공항, 내년말 무안공항으로 통합 이전\"",
-     "url": "https://www.hankyung.com/article/2026112349231",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "히잡",
-   "traffic": "500+",
-   "when": "11월 24일 19:10",
-   "news": [
-    {
-     "title": "女가수 히잡 없이 노래했다고... 이란, 태형 74대 집행",
-     "url": "https://www.chosun.com/international/international_general/2026/11/24/QMYPD6IS55A5ND6CN6FHJPOMHE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "이란, 히잡 없이 공연한 여성 가수에 태형 74대",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6868199_36925.html",
-     "source": "MBC 뉴스"
+     "title": "새로 리모델링한 무궁화호 운행 시작…주행장치 개량, 화장실도 정비",
+     "url": "https://www.busan.com/view/busan/view.php?code=2026112420515281681",
+     "source": "부산일보"
     }
    ]
   }
