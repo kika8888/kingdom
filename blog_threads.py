@@ -291,13 +291,16 @@ def host_images(urls, tag):
     if not names:
         return []
     git = ["git", "-c", "user.name=kingdom-bot", "-c", "user.email=kingdom-bot@users.noreply.github.com"]
-    for cmd in (["add", "-A", "docs/blogimg"], ["commit", "-m", "blog images"], ["pull", "--rebase"], ["push"]):
+    subprocess.run(git + ["add", "-A", "docs/blogimg"], cwd=ROOT, capture_output=True)
+    staged = subprocess.run(git + ["diff", "--cached", "--quiet"], cwd=ROOT).returncode != 0
+    # 같은 사진이 이미 올라가 있으면 커밋할 게 없다 → 그대로 사용. 상태 파일 변경은 autostash 로 잠시 치워 둔다
+    for cmd in ((["commit", "-m", "blog images"],) if staged else ()) + (["pull", "--rebase", "--autostash"], ["push"]):
         r = subprocess.run(git + cmd, cwd=ROOT, capture_output=True, text=True)
         if r.returncode != 0:
             print("사진 올리기 실패:", (r.stderr or r.stdout).strip()[:200])
             return []
     out = [f"{SITE}/blogimg/{n}" for n in names]
-    for _ in range(24):   # 사이트 반영 최대 6분
+    while time.time() - JOB_START < 450:   # 사이트 반영 기다리기 (작업 10분 제한 안에서)
         time.sleep(15)
         try:
             with urllib.request.urlopen(urllib.request.Request(out[-1], method="HEAD"), timeout=15) as res:
@@ -343,7 +346,8 @@ _ai_model = None
 
 
 RETRY_CODES = (429, 500, 502, 503, 504)   # 바쁨·사용량 초과·서버 오류는 기다렸다 다시
-AI_BUDGET = 150   # 글 하나에 AI 가 쓸 수 있는 최대 시간(초). 넘으면 예전 방식으로 (작업 10분 제한 안에 끝나게)
+JOB_START = time.time()
+AI_BUDGET = 120   # 글 하나에 AI 가 쓸 수 있는 최대 시간(초). 넘으면 예전 방식으로 (작업 10분 제한 안에 끝나게)
 _ai_deadline = [0.0]
 
 
@@ -456,7 +460,11 @@ def ai_compose(x, acc, paras):
     prompt = (ROOT / "threads_prompt.md").read_text(encoding="utf-8") + AI_RULES
     src = "\n".join(paras)[:6000] if paras else x.get("summary", "")
     ask = f"[주제] {acc['name']}\n\n[블로그 제목]\n{x['title']}\n\n[블로그 본문]\n{src}"
-    _ai_deadline[0] = time.time() + AI_BUDGET
+    budget = min(AI_BUDGET, 400 - (time.time() - JOB_START))   # 작업 전체 시간이 모자라면 AI 시간도 줄인다
+    if budget < 30:
+        print("작업 시간이 모자라 AI 없이 예전 방식으로")
+        return None
+    _ai_deadline[0] = time.time() + budget
     try:
         return _ai_try(prompt, ask, x, acc)
     finally:
