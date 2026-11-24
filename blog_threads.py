@@ -356,7 +356,7 @@ def gemini(path, body=None, tries=3):
     for n in range(tries):
         if _ai_deadline[0] and ai_left() < 10:
             raise RuntimeError("AI 시간 초과")
-        wait = int(min(60, ai_left())) if _ai_deadline[0] else 60
+        wait = int(min(35, ai_left())) if _ai_deadline[0] else 60   # 35초 넘게 답이 없으면 그 모델은 포기
         req = urllib.request.Request(f"{GEMINI}/{path}", data=json.dumps(body).encode() if body else None,
                                      headers={"x-goog-api-key": key, "Content-Type": "application/json"})
         try:
@@ -389,10 +389,12 @@ def ai_models():
         print("Gemini 모델 목록 실패, 기본값 사용:", e)
     ver = lambda n: [int(v) for v in re.findall(r"\d+", n.split("-")[1])] if re.match(r"gemini-\d", n) else [0]
     pick = lambda pat: sorted((n for n in names if re.fullmatch(pat, n)), key=ver, reverse=True)
-    order = ([os.environ.get("GEMINI_MODEL", "").strip()] + pick(r"gemini-\d+(\.\d+)?-flash")
-             + pick(r"gemini-\d+(\.\d+)?-flash-preview[-\d]*") + pick(r"gemini-\d+(\.\d+)?-flash-lite")
-             + ["gemini-2.5-flash", "gemini-2.0-flash"])
-    _ai_model = [m for m in dict.fromkeys(order) if m][:5]
+    flash, lite = pick(r"gemini-\d+(\.\d+)?-flash"), pick(r"gemini-\d+(\.\d+)?-flash-lite")
+    # 제일 새 모델은 붐벼서(503·응답 없음) 자주 실패한다 → 새 flash 하나, 가벼운 lite, 안정판 2.5 를 번갈아
+    order = ([os.environ.get("GEMINI_MODEL", "").strip()] + flash[:1] + lite[:1]
+             + [n for n in ("gemini-2.5-flash",) if n in names or not names]
+             + flash[1:2] + lite[1:2] + ["gemini-2.5-flash-lite", "gemini-2.0-flash"])
+    _ai_model = [m for m in dict.fromkeys(order) if m and (m in names or not names)][:6] or ["gemini-2.5-flash"]
     print("Gemini 모델 순서:", ", ".join(_ai_model))
     return _ai_model
 
@@ -468,7 +470,7 @@ def _ai_try(prompt, ask, x, acc):
             break
         for extra in ("", "\n\n(방금 글은 형식이 틀렸거나 너무 길었어. 고정 출력 형식 그대로, 300자 이내로 다시 써줘.)"):
             try:
-                res = gemini(f"models/{model}:generateContent", {
+                res = gemini(f"models/{model}:generateContent", tries=1, body={   # 붐비면 기다리지 말고 바로 다음 모델
                     "systemInstruction": {"parts": [{"text": prompt}]},
                     "contents": [{"role": "user", "parts": [{"text": ask + extra}]}],
                     "generationConfig": {"temperature": 0.8, "maxOutputTokens": 8192},
