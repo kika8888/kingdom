@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-24 14:23",
+ "updated": "2026-11-24 14:56",
  "items": [
+  {
+   "kw": "장기 기증",
+   "traffic": "1000+",
+   "when": "11월 24일 13:30",
+   "news": [
+    {
+     "title": "“줄 수 있는 건 다 줄게” 약속 지키고 떠난 53세 가장 [아살세]",
+     "url": "https://www.kmib.co.kr/article/20261124500356",
+     "source": "국민일보"
+    },
+    {
+     "title": "50대 기관사, 간·신장에 눈도 내줬다…승객 안전 지키다 하늘로",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1288806.html",
+     "source": "한겨레"
+    }
+   ]
+  },
   {
    "kw": "퇴직",
    "traffic": "20000+",
@@ -20,37 +37,26 @@
   },
   {
    "kw": "12 월 3 일",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 24일 13:20",
    "news": [
     {
-     "title": "12월 3일 국가기념일 된다…李 “계엄 맞선 ‘국민 주권의 날’ 기려야”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261124/135079161/1",
-     "source": "동아일보"
+     "title": "'12·3 그날' 정부기념일로‥\"헌법 수호 국민 기념\"",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868128_36918.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "[속보] 나경원 “‘12·3 국민주권의 날’ 지정, 자화자찬 굿판에 세금 탕진”",
-     "url": "https://www.kyeonggi.com/article/20261124580214",
-     "source": "경기일보"
+     "title": "[속보]李대통령 \"12월3일, 국가기념일 '국민주권의 날' 지정 안건 처리 예정\" - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/24/2026112410082482330",
+     "source": "머니투데이"
     }
    ]
   },
   {
    "kw": "지방세",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 24일 13:20",
-   "news": [
-    {
-     "title": "제천시, 2026년 지방세정 연찬회 개최",
-     "url": "https://www.yna.co.kr/view/RPR20261123001000353",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "울산지역 첫 지방세 발전포럼 행안부장관상…남구 수상",
-     "url": "https://www.newsis.com/view/NISX20261124_0003880869",
-     "source": "뉴시스"
-    }
-   ]
+   "news": []
   },
   {
    "kw": "김서형",
@@ -71,9 +77,26 @@
   },
   {
    "kw": "트롯 데스매치 금타는 금요일",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 24일 13:20",
    "news": []
+  },
+  {
+   "kw": "강호동",
+   "traffic": "1000+",
+   "when": "11월 24일 13:10",
+   "news": [
+    {
+     "title": "강호동, 무대 보다가 대성통곡…손수건 꺼내 눈물 닦았다 (천만기인쇼)",
+     "url": "https://sports.donga.com/ent/article/all/20261124/135078139/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "[TV조선] 기인들의 왕중왕전",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/7U6PKLVL7NFM5PWLTYD4V6EJPY/",
+     "source": "조선일보"
+    }
+   ]
   },
   {
    "kw": "치이카와 클리닉",
@@ -94,7 +117,7 @@
   },
   {
    "kw": "팝콘",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 24일 13:10",
    "news": [
     {
@@ -106,23 +129,6 @@
      "title": "다시 만난 최승윤 대표",
      "url": "https://www.ilyosisa.co.kr/news/article.html?no=258940",
      "source": "일요시사"
-    }
-   ]
-  },
-  {
-   "kw": "강호동",
-   "traffic": "200+",
-   "when": "11월 24일 13:10",
-   "news": [
-    {
-     "title": "강호동, 무대 보다가 대성통곡…손수건 꺼내 눈물 닦았다 (천만기인쇼)",
-     "url": "https://sports.donga.com/ent/article/all/20261124/135078139/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "[TV조선] 기인들의 왕중왕전",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/7U6PKLVL7NFM5PWLTYD4V6EJPY/",
-     "source": "조선일보"
     }
    ]
   },
@@ -140,23 +146,6 @@
      "title": "과즙세연 \"방시혁과 잤냐고? 안 잤다\"…코미디 무대 뒤집은 역대급 매운맛 해명",
      "url": "https://www.fnnews.com/news/202611230756351536",
      "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "대전 서남부 종합스포츠타운",
-   "traffic": "200+",
-   "when": "11월 24일 12:40",
-   "news": [
-    {
-     "title": "'대전 새 랜드마크' 서남부종합스포츠타운 실시설계 착수",
-     "url": "https://www.yna.co.kr/view/AKR20261124044400063",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "대전서남부스포츠타운 체육시설 건립 속도…설계 적격자에 계룡건설",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261124100820Z7y",
-     "source": "연합뉴스TV"
     }
    ]
   }
