@@ -1,162 +1,162 @@
 {
- "updated": "2026-11-24 11:23",
+ "updated": "2026-11-24 12:23",
  "items": [
+  {
+   "kw": "카카오",
+   "traffic": "500+",
+   "when": "11월 24일 11:20",
+   "news": [
+    {
+     "title": "스타벅스서도 3% 할인…카카오페이 굿딜, 제휴 111곳으로 확대",
+     "url": "https://stock.mk.co.kr/news/view/1204772",
+     "source": "매일경제 마켓"
+    },
+    {
+     "title": "카카오페이 '굿딜'에 스타벅스 입점",
+     "url": "https://www.etnews.com/20261124000212",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "정상빈",
+   "traffic": "2000+",
+   "when": "11월 24일 11:10",
+   "news": [
+    {
+     "title": "'우승 트로피 원한다던 손흥민, 시작부터 위기' 정상빈 선발 출격한 세인트루이스에 선제골 허용...LAFC 전반 0-1 마무리 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/202611241108777757O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "정상빈의 무대가 되고 있다! 세인트루이스, LAFC에 '정상빈 1골 1도움'으로 2-0 리드",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/24/MYYDGZRYMEYTOZRYMEZGMYZXHA/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "경마공원",
+   "traffic": "100+",
+   "when": "11월 24일 11:10",
+   "news": [
+    {
+     "title": "민주당 대전 지방의원들 \"대전, 공공기관 이전 완벽 준비\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123043000063",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "신용한 충북지사, 국비 확보와 민생 예산 집행에 총력",
+     "url": "https://www.viva100.com/article/20261123501427",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "성남시",
+   "traffic": "100+",
+   "when": "11월 24일 11:10",
+   "news": [
+    {
+     "title": "성남시, 리브컴 어워즈 3개 부문 결선…내년 모로코에서 수상에 도전",
+     "url": "https://www.etnews.com/20261124000025",
+     "source": "전자신문"
+    },
+    {
+     "title": "성남시, 공공기술로 도시 경쟁력 확장…식품 안전·환경행정 국제무대 도전",
+     "url": "https://www.joongdo.co.kr/web/view.php?key=20261124010008322",
+     "source": "중도일보"
+    }
+   ]
+  },
+  {
+   "kw": "휴머노이드",
+   "traffic": "1000+",
+   "when": "11월 24일 11:00",
+   "news": [
+    {
+     "title": "KG스틸, 국산 휴머노이드 로봇 투입…피지컬 AI 실증 나선다",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02404246645649000",
+     "source": "마켓인"
+    },
+    {
+     "title": "[연합뉴스TV 스페셜-수어] 헬로로봇",
+     "url": "https://m.yonhapnewstv.co.kr/program/vod/11111",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "부사관",
+   "traffic": "1000+",
+   "when": "11월 24일 10:40",
+   "news": []
+  },
+  {
+   "kw": "디워",
+   "traffic": "500+",
+   "when": "11월 24일 10:40",
+   "news": [
+    {
+     "title": "단독 심형래, 힉스필드AI와 손잡았다…19년 만에 AI 입은 '디워' 재개봉",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611230700126895",
+     "source": "YTN"
+    },
+    {
+     "title": "이무기 다시 깨어난다…심형래 ‘디워’, 힉스필드AI와 글로벌 승부수",
+     "url": "https://sports.khan.co.kr/article/202611231315003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "군산시의회",
+   "traffic": "500+",
+   "when": "11월 24일 10:40",
+   "news": [
+    {
+     "title": "군산시의회 “농사짓는 농민이 직불금 받아야”… 농지 임대차 제도 전면 개선 촉구",
+     "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=450982",
+     "source": "전민일보"
+    },
+    {
+     "title": "군산시의회 행정복지위원회 행정사무감사 9일차",
+     "url": "https://www.ikbn.news/news/article.html?no=217810",
+     "source": "한국방송뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "현대자동차",
+   "traffic": "2000+",
+   "when": "11월 24일 10:20",
+   "news": [
+    {
+     "title": "현대차, 산림청과 전기차 ST1 기반 산불 대응 차량 실증사업",
+     "url": "https://www.yna.co.kr/view/AKR20261124034200003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "현대차, ST1 기반 산불 대응 차량 실증… 산림청·세화자동차와 협력",
+     "url": "https://www.autoview.co.kr/ko-kr/articles/102629",
+     "source": "오토뷰"
+    }
+   ]
+  },
   {
    "kw": "강원도민일보",
    "traffic": "100+",
    "when": "11월 24일 10:20",
    "news": [
     {
-     "title": "고성 바다하늘길 방문객 30만명 돌파",
-     "url": "https://www.kado.net/news/curationView.html?idxno=2086838",
+     "title": "육군 22사단 고성 학야리 주민 초청 안보견학",
+     "url": "https://www.kado.net/news/curationView.html?idxno=2086842",
      "source": "강원도민일보"
     },
     {
-     "title": "부산서 80대 몰던 차량 전봇대 들이받아…동승자 숨져",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720902",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "삼전 주가",
-   "traffic": "500+",
-   "when": "11월 24일 10:20",
-   "news": [
-    {
-     "title": "\"삼성전자 30만원에 물렸다면 3년 각오\"…40년 슈퍼개미의 경고",
-     "url": "https://www.fnnews.com/news/202611232217569961",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "\"350만닉스 간다더니\"…삼전·닉스 목표가 낮추는 글로벌 IB들",
-     "url": "https://www.newsis.com/view/NISX20261124_0003880448",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "김호중",
-   "traffic": "5000+",
-   "when": "11월 24일 10:10",
-   "news": [
-    {
-     "title": "'가석방' 김호중, 오늘(24일) 보호관찰 종료…복귀 여부 '관심' - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/24/2026112408081669041",
-     "source": "머니투데이"
-    },
-    {
-     "title": "김호중, 오늘이 원래 만기 출소일…가석방 조기 출소 후 복귀는 안갯속",
-     "url": "https://www.mk.co.kr/news/hot-issues/12216724",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "뉴욕 메츠",
-   "traffic": "1000+",
-   "when": "11월 24일 10:10",
-   "news": [
-    {
-     "title": "“하루에 2억씩 법니다”…공 하나 던지는데 ‘3천만원’ 받는 투수 나왔다",
-     "url": "https://www.mk.co.kr/news/world/12216881",
-     "source": "매일경제"
-    },
-    {
-     "title": "구자욱 200억 대박 포기할 수도! 美 파격 추천, 뉴욕 메츠 영입 후보 급부상 \"KOO, 스쿠발 품은 메츠의 다음 타깃\"",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/24/G44DMYJRGI4TGOBYHE4WCYJZGQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "서울역",
-   "traffic": "100+",
-   "when": "11월 24일 10:10",
-   "news": [
-    {
-     "title": "잇단 열차 탈선…4대 중 3대 ‘감지 제동장치’ 없어",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720226",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "철도노조, 23일 예정됐던 쟁의행위 26일로 연기…\"사고 복구 먼저\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261122021351063",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "신인감독 김연경 2",
-   "traffic": "200+",
-   "when": "11월 24일 10:00",
-   "news": [
-    {
-     "title": "MBC '신인감독 김연경2', 6주 연속 TV비드라마 화제성 1위",
-     "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525785",
-     "source": "iMBC 연예"
-    },
-    {
-     "title": "원더독스 베트남 원정, 195cm 장신·무더위 변수",
-     "url": "https://www.jejutwn.com/news/article.html?no=464833",
-     "source": "제주교통복지신문"
-    }
-   ]
-  },
-  {
-   "kw": "남도일보",
-   "traffic": "200+",
-   "when": "11월 24일 09:40",
-   "news": []
-  },
-  {
-   "kw": "삼성전자 주가",
-   "traffic": "1000+",
-   "when": "11월 24일 09:40",
-   "news": [
-    {
-     "title": "삼성전자 주가 장중 8%대 올라, 미 반도체주 강세에 SK하이닉스도 9%대 상승",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452758",
-     "source": "비즈니스포스트"
-    },
-    {
-     "title": "삼성전자 17만원대로 ‘뚝’…공매도 평균가보다 28% 낮아",
-     "url": "https://www.kukinews.com/article/view/kuk202611230192",
-     "source": "쿠키뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "세종의사당",
-   "traffic": "200+",
-   "when": "11월 24일 09:30",
-   "news": [
-    {
-     "title": "\"국회, 세종으로 완전 이전\" 황운하 의원 국회법 발의",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611231654541VU",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "황운하 '국회의사당 세종 완전 이전 국회법' 개정안 발의",
-     "url": "https://www.news1.kr/local/sejong-chungbuk/6363107",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "화성시",
-   "traffic": "200+",
-   "when": "11월 24일 09:30",
-   "news": [
-    {
-     "title": "화성시, 송산그린시티 국가산단 9필지 우선분양 추천기업 공모",
-     "url": "https://view.asiae.co.kr/article/2026112407205949677",
-     "source": "아시아경제"
-    },
-    {
-     "title": "화성 제조업, 미래차·바이오로 산업 전환 기회…SNS 행정소통 경쟁력 입증",
-     "url": "https://www.joongdo.co.kr/web/view.php?key=20261124010008297",
-     "source": "중도일보"
+     "title": "국가자격시험 'AI 부정행위' 차단‥꺼진 기기 탐지·부정행위 징역 5년 확대 추진",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868098_36918.html",
+     "source": "MBC 뉴스"
     }
    ]
   }
