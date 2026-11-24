@@ -1,173 +1,162 @@
 {
- "updated": "2026-11-24 13:23",
+ "updated": "2026-11-24 14:23",
  "items": [
   {
-   "kw": "중고",
+   "kw": "퇴직",
+   "traffic": "20000+",
+   "when": "11월 24일 13:20",
+   "news": [
+    {
+     "title": "퇴직연금 사외적립 의무화 앞두고…국민銀, 기업형 수수료 낮춘다",
+     "url": "https://stock.mk.co.kr/news/view/1204773",
+     "source": "매일경제 마켓"
+    },
+    {
+     "title": "KB국민은행, 기업형 퇴직연금 수수료 인하…중소기업 부담 낮춘다 - 머니투데이",
+     "url": "https://www.mt.co.kr/index.php/finance/2026/11/24/2026112408451552258",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "12 월 3 일",
    "traffic": "500+",
-   "when": "11월 24일 12:20",
+   "when": "11월 24일 13:20",
    "news": [
     {
-     "title": "중고나라, 지도 기반 상품 탐색 기능 도입",
-     "url": "https://www.etnews.com/20261124000048",
-     "source": "전자신문"
-    },
-    {
-     "title": "중고나라, 지도 기반 검색 도입⋯ 고가 시계 거래 편의성 강화",
-     "url": "https://www.viva100.com/article/20261124500349",
-     "source": "브릿지경제"
-    }
-   ]
-  },
-  {
-   "kw": "삼성전자 임원 인사",
-   "traffic": "2000+",
-   "when": "11월 24일 12:20",
-   "news": [
-    {
-     "title": "삼성전자 2027년 정기 임원 인사 명단",
-     "url": "https://zdnet.co.kr/view/?no=20261124090704",
-     "source": "지디넷코리아"
-    },
-    {
-     "title": "“AI·반도체 웃고 세트 울었다”",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001711",
-     "source": "IT조선"
-    }
-   ]
-  },
-  {
-   "kw": "장학금",
-   "traffic": "200+",
-   "when": "11월 24일 12:20",
-   "news": [
-    {
-     "title": "계룡장학재단, 전국체전 대전 우수입상자 장학금 수여…“체육 인재 성장 응원\"",
-     "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/23/2026112350377.html",
-     "source": "뉴데일리 충청세종"
-    },
-    {
-     "title": "계룡장학재단, 전국체전 대전 우수선수에 2130만원 장학금",
-     "url": "https://www.newsis.com/view/NISX20261123_0003879900",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "반포자이",
-   "traffic": "100+",
-   "when": "11월 24일 12:20",
-   "news": [
-    {
-     "title": "반포자이 보유세, 올해 1809만원→내년 2641만원",
-     "url": "https://www.donga.com/news/Economy/article/all/20261123/135076417/2",
+     "title": "12월 3일 국가기념일 된다…李 “계엄 맞선 ‘국민 주권의 날’ 기려야”",
+     "url": "https://www.donga.com/news/Politics/article/all/20261124/135079161/1",
      "source": "동아일보"
     },
     {
-     "title": "이헌욱 부동산원장, 공시가격 조사 현장 방문… 정확성·객관성 당부",
-     "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/23/VSJL6CEGMJDQBEM5PXBL5NUUMQ/",
-     "source": "Chosunbiz"
+     "title": "[속보] 나경원 “‘12·3 국민주권의 날’ 지정, 자화자찬 굿판에 세금 탕진”",
+     "url": "https://www.kyeonggi.com/article/20261124580214",
+     "source": "경기일보"
     }
    ]
   },
   {
-   "kw": "미사일",
-   "traffic": "500+",
-   "when": "11월 24일 12:10",
+   "kw": "지방세",
+   "traffic": "200+",
+   "when": "11월 24일 13:20",
    "news": [
     {
-     "title": "나토, 러 미사일 낙하에 폴란드에 조기경보기 전진 배치",
-     "url": "https://www.yna.co.kr/view/AKR20261124083900009",
+     "title": "제천시, 2026년 지방세정 연찬회 개최",
+     "url": "https://www.yna.co.kr/view/RPR20261123001000353",
      "source": "연합뉴스"
     },
     {
-     "title": "폴란드 \"러 미사일·드론이 영토 타격\"…트럼프 \"실수일 뿐\" 엄호",
-     "url": "https://www.news1.kr/world/usa-canada/6361881",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "농업",
-   "traffic": "500+",
-   "when": "11월 24일 12:10",
-   "news": [
-    {
-     "title": "파주 미래농업 혁신타운 조성 본격화…경기일보, 농업기술센터 이전 토론회",
-     "url": "https://www.kyeonggi.com/article/20261124580108",
-     "source": "경기일보"
-    },
-    {
-     "title": "파주시, 미래농업 혁신타운 조성 연구용역 착수보고회 개최",
-     "url": "https://www.joongdo.co.kr/web/view.php?key=20261124010008190",
-     "source": "중도일보"
-    }
-   ]
-  },
-  {
-   "kw": "사고",
-   "traffic": "200+",
-   "when": "11월 24일 12:10",
-   "news": [
-    {
-     "title": "‘음주운전’ 배우 고경표, 첫 경찰 조사…“무책임한 모습, 죄송해”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720656",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "부르튼 입술·초췌한 얼굴…'음주운전' 고경표, 사고 9일 만에 경찰 출석해 '눈물 사과'",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860616",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "자동차산업",
-   "traffic": "200+",
-   "when": "11월 24일 12:00",
-   "news": [
-    {
-     "title": "3000만원 차 한 대 팔아 50만원 번다… ‘이익률 1%’ 늪 빠진 중국",
-     "url": "https://www.chosun.com/international/china/2026/11/24/CHEEEFIMWFA6JGUDQVRBZGDB6U/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'전기차 세액공제' 이르면 이번주 윤곽…중국車 공세에 부품업계 '촉각'",
-     "url": "https://www.newsis.com/view/NISX20261124_0003880572",
+     "title": "울산지역 첫 지방세 발전포럼 행안부장관상…남구 수상",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880869",
      "source": "뉴시스"
     }
    ]
   },
   {
-   "kw": "관세",
-   "traffic": "100+",
-   "when": "11월 24일 11:50",
+   "kw": "김서형",
+   "traffic": "500+",
+   "when": "11월 24일 13:20",
    "news": [
     {
-     "title": "\"트럼프 행정부, 한국·EU·호주 디지털 규제 301조 조사 검토\"",
-     "url": "https://www.yna.co.kr/view/AKR20261123175400071",
-     "source": "연합뉴스"
+     "title": "김서형, 건강 악화로 촬영 중 드라마 하차…박보경 긴급 투입",
+     "url": "https://www.mk.co.kr/news/hot-issues/12216766",
+     "source": "매일경제"
     },
     {
-     "title": "미, 무역법 301조로 ‘15% 관세 합의’ 또 흔드나",
-     "url": "https://www.khan.co.kr/article/202611232035025",
-     "source": "경향신문"
+     "title": "박보경, 김서형 하차한 SBS 드라마 '대시' 합류",
+     "url": "https://www.yna.co.kr/view/AKR20261124074700005",
+     "source": "연합뉴스"
     }
    ]
   },
   {
-   "kw": "посольство",
-   "traffic": "200+",
-   "when": "11월 24일 11:40",
+   "kw": "트롯 데스매치 금타는 금요일",
+   "traffic": "100+",
+   "when": "11월 24일 13:20",
+   "news": []
+  },
+  {
+   "kw": "치이카와 클리닉",
+   "traffic": "1000+",
+   "when": "11월 24일 13:10",
    "news": [
     {
-     "title": "Захарова назвала саморазоблачением признание Destinus об атаке на Крымский мост",
-     "url": "https://www.vedomosti.ru/politics/news/2026/11/20/1413595-nazvala-samorazoblacheniem",
-     "source": "Ведомости"
+     "title": "'치이카와 클리닉' 팝업 1차 사전예약 하루 연기된 이유",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760308",
+     "source": "국제뉴스"
     },
     {
-     "title": "WSJ ⟩ Русский эмигрант, который помог разрушить Крымский мост",
-     "url": "https://rus.postimees.ee/8588185/wsj-russkiy-emigrant-kotoryy-pomog-razrushit-krymskiy-most",
-     "source": "Rus.Postimees.ee"
+     "title": "치이카와 팝업 1차 예약 하루 연기…사이트 정비",
+     "url": "https://www.jejutwn.com/news/article.html?no=464852",
+     "source": "제주교통복지신문"
+    }
+   ]
+  },
+  {
+   "kw": "팝콘",
+   "traffic": "200+",
+   "when": "11월 24일 13:10",
+   "news": [
+    {
+     "title": "백억커피, LG유플러스 멤버십 제휴…아메리카노·팝콘 무료 제공",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086044",
+     "source": "신아일보"
+    },
+    {
+     "title": "다시 만난 최승윤 대표",
+     "url": "https://www.ilyosisa.co.kr/news/article.html?no=258940",
+     "source": "일요시사"
+    }
+   ]
+  },
+  {
+   "kw": "강호동",
+   "traffic": "200+",
+   "when": "11월 24일 13:10",
+   "news": [
+    {
+     "title": "강호동, 무대 보다가 대성통곡…손수건 꺼내 눈물 닦았다 (천만기인쇼)",
+     "url": "https://sports.donga.com/ent/article/all/20261124/135078139/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "[TV조선] 기인들의 왕중왕전",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/7U6PKLVL7NFM5PWLTYD4V6EJPY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "과즙 세연 방시혁",
+   "traffic": "200+",
+   "when": "11월 24일 13:10",
+   "news": [
+    {
+     "title": "과즙세연 “아무리 아니라고 해도 계속 묻더라”…방시혁 루머에 선 그어",
+     "url": "https://www.donga.com/news/Culture/article/all/20261123/135073886/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "과즙세연 \"방시혁과 잤냐고? 안 잤다\"…코미디 무대 뒤집은 역대급 매운맛 해명",
+     "url": "https://www.fnnews.com/news/202611230756351536",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "대전 서남부 종합스포츠타운",
+   "traffic": "200+",
+   "when": "11월 24일 12:40",
+   "news": [
+    {
+     "title": "'대전 새 랜드마크' 서남부종합스포츠타운 실시설계 착수",
+     "url": "https://www.yna.co.kr/view/AKR20261124044400063",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "대전서남부스포츠타운 체육시설 건립 속도…설계 적격자에 계룡건설",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261124100820Z7y",
+     "source": "연합뉴스TV"
     }
    ]
   }
