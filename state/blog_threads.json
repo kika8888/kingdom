@@ -434,7 +434,8 @@
    "https://blog.naver.com/soduwk1209/224487694563",
    "https://blog.naver.com/soduwk1209/224489316903",
    "https://blog.naver.com/soduwk1209/224421566162",
-   "https://blog.naver.com/soduwk1209/224489317795"
+   "https://blog.naver.com/soduwk1209/224489317795",
+   "https://blog.naver.com/soduwk1209/224489320280"
   ],
   "started": true,
   "v": 2,
@@ -935,7 +936,8 @@
    "https://blog.naver.com/soduwk1209/224487630477",
    "https://blog.naver.com/soduwk1209/224487694563",
    "https://blog.naver.com/soduwk1209/224489316903",
-   "https://blog.naver.com/soduwk1209/224489317795"
+   "https://blog.naver.com/soduwk1209/224489317795",
+   "https://blog.naver.com/soduwk1209/224489320280"
   ],
   "backlog": [
    "https://blog.naver.com/soduwk1209/224421551315",
@@ -1439,7 +1441,8 @@
    "https://blog.naver.com/dkdk521/224488801010",
    "https://blog.naver.com/dkdk521/224488813116",
    "https://blog.naver.com/dkdk521/224394507311",
-   "https://blog.naver.com/dkdk521/224488837833"
+   "https://blog.naver.com/dkdk521/224488837833",
+   "https://blog.naver.com/dkdk521/224488826901"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -2382,9 +2385,7 @@
    "동메달 근황 정리해봄",
    "손흥민 이야기 듣고 깜짝"
   ],
-  "queue": [
-   "https://blog.naver.com/dkdk521/224488826901"
-  ],
+  "queue": [],
   "reply_ok": true
  }
 }
