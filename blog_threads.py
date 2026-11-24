@@ -343,24 +343,35 @@ _ai_model = None
 
 
 RETRY_CODES = (429, 500, 502, 503, 504)   # 바쁨·사용량 초과·서버 오류는 기다렸다 다시
+AI_BUDGET = 150   # 글 하나에 AI 가 쓸 수 있는 최대 시간(초). 넘으면 예전 방식으로 (작업 10분 제한 안에 끝나게)
+_ai_deadline = [0.0]
+
+
+def ai_left():
+    return _ai_deadline[0] - time.time()
 
 
 def gemini(path, body=None, tries=3):
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     for n in range(tries):
+        if _ai_deadline[0] and ai_left() < 10:
+            raise RuntimeError("AI 시간 초과")
+        wait = int(min(60, ai_left())) if _ai_deadline[0] else 60
         req = urllib.request.Request(f"{GEMINI}/{path}", data=json.dumps(body).encode() if body else None,
                                      headers={"x-goog-api-key": key, "Content-Type": "application/json"})
         try:
-            with urllib.request.urlopen(req, timeout=90) as res:
+            with urllib.request.urlopen(req, timeout=wait) as res:
                 return json.loads(res.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
             msg = f"Gemini 오류 {e.code}: {e.read().decode('utf-8', 'replace')[:300]}"
             if e.code not in RETRY_CODES or n == tries - 1:
                 raise RuntimeError(msg) from None
-        except (urllib.error.URLError, TimeoutError) as e:
+        except (urllib.error.URLError, TimeoutError, OSError) as e:
             msg = f"Gemini 연결 오류: {e}"
             if n == tries - 1:
                 raise RuntimeError(msg) from None
+        if _ai_deadline[0] and ai_left() < 5 * 3 ** n + 15:
+            raise RuntimeError(msg + " (시간이 모자라 그만)")
         print(msg, f"→ {5 * 3 ** n}초 뒤 다시")
         time.sleep(5 * 3 ** n)   # 5초, 15초 (블로그 작업은 10분 안에 끝나야 한다)
 
@@ -443,13 +454,24 @@ def ai_compose(x, acc, paras):
     prompt = (ROOT / "threads_prompt.md").read_text(encoding="utf-8") + AI_RULES
     src = "\n".join(paras)[:6000] if paras else x.get("summary", "")
     ask = f"[주제] {acc['name']}\n\n[블로그 제목]\n{x['title']}\n\n[블로그 본문]\n{src}"
+    _ai_deadline[0] = time.time() + AI_BUDGET
+    try:
+        return _ai_try(prompt, ask, x, acc)
+    finally:
+        _ai_deadline[0] = 0.0
+
+
+def _ai_try(prompt, ask, x, acc):
     for model in ai_models():
+        if ai_left() < 15:
+            print("AI 시간이 모자라 예전 방식으로")
+            break
         for extra in ("", "\n\n(방금 글은 형식이 틀렸거나 너무 길었어. 고정 출력 형식 그대로, 300자 이내로 다시 써줘.)"):
             try:
                 res = gemini(f"models/{model}:generateContent", {
                     "systemInstruction": {"parts": [{"text": prompt}]},
                     "contents": [{"role": "user", "parts": [{"text": ask + extra}]}],
-                    "generationConfig": {"temperature": 0.8, "maxOutputTokens": 4096},
+                    "generationConfig": {"temperature": 0.8, "maxOutputTokens": 8192},
                 })
                 raw = "".join(pt.get("text", "") for pt in res["candidates"][0]["content"].get("parts", []))
             except Exception as e:
@@ -483,6 +505,11 @@ def publish(token, acc, x, seen):
     r = post(token, {"creation_id": cid})
     seen["posted"].append(x["link"])
     return text, r
+
+
+def save(state):
+    STATE.parent.mkdir(exist_ok=True)
+    STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 def main():
@@ -544,10 +571,10 @@ def main():
         except Exception as e:
             errors.append(f"{acc['name']} 스레드: {e}")
             continue
+        save(state)   # 올리자마자 저장 (중간에 멈춰도 같은 글을 두 번 올리지 않게)
         p.summary(f"## {acc['name']} → {acc['threads']} {kind} 올림 (남은 전에 쓴 글 {len(seen['backlog'])}개)\n\n"
                   f"{x['link']}\n```\n{text}\n```\n게시물 {r.get('id')}")
-    STATE.parent.mkdir(exist_ok=True)
-    STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
+    save(state)
     if errors:
         for e in errors:
             print(f"::error title=블로그→스레드 실패::{e[:300]}")
@@ -555,4 +582,6 @@ def main():
 
 
 if __name__ == "__main__":
+    import sys
+    sys.stdout.reconfigure(line_buffering=True)   # 작업이 중간에 멈춰도 기록이 남게
     main()
