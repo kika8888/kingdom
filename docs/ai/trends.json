@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-25 00:23",
+ "updated": "2026-11-25 01:23",
  "items": [
   {
-   "kw": "황영묵",
+   "kw": "챔피언스리그",
    "traffic": "200+",
+   "when": "11월 25일 00:00",
+   "news": [
+    {
+     "title": "'축구 경기장 근처에 맹수가 돌아다닌다고?' 아스톤 빌라-갈라타사라이 UCL 앞두고 '발칵'...사자 수색에 드론 7대 동원 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/202611240831773337O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "경기 프리뷰: 갈라타사라이 vs 아스톤 빌라, 11월 25일 00:45: 원정 경기에서의 어려움 극복.",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-galatasaray-vs-aston-villa-0h45-ngay-25-11-vuot-kho-noi-dat-khach",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "시그널2",
+   "traffic": "200+",
+   "when": "11월 24일 23:30",
+   "news": [
+    {
+     "title": "[센터엔터] ’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만 外",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124133245at3",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "'조진웅 논란'에도 12월 방송 확정…'두 번째 시그널' 포스터 공개 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112410143352396",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "주진우",
+   "traffic": "200+",
+   "when": "11월 24일 23:30",
+   "news": [
+    {
+     "title": "\"무리한 지휘권 행사 않을 것\"‥공소취소 '여지'는 남겼다",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868259_37004.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "유동규 \"닭백숙집서 판돈 200만원 포커\"…이용철 \"육식을 못한다\"",
+     "url": "https://weekly.chosun.com/news/articleView.html?idxno=60061",
+     "source": "주간조선"
+    }
+   ]
+  },
+  {
+   "kw": "황영묵",
+   "traffic": "500+",
    "when": "11월 24일 23:00",
    "news": [
     {
@@ -24,20 +75,20 @@
    "when": "11월 24일 23:00",
    "news": [
     {
-     "title": "[8회 예고] 추성훈의 마지막 도전 (ft.깜짝 응원단) # 상남자의여행법",
-     "url": "https://programs.sbs.co.kr/plus/realmantrip/clip/90295/22000640261",
-     "source": "programs.sbs.co.kr"
+     "title": "\"기개도 없으면서 남자다운 척!\" 추성훈 은퇴→日 격투기 전설 아들 '공개 저격'...20년 전 악연 재소환에 일본도 시끌 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/25/202611242000772812O",
+     "source": "머니투데이"
     },
     {
-     "title": "’추성훈 은퇴전 오열’ 추사랑…“용돈은 괜찮아, 이제 아프지 마“",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR202611241548278rm",
-     "source": "연합뉴스TV"
+     "title": "[잇슈 컬처] 추성훈, 격투 인생 마침표…장문의 심경글",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719549",
+     "source": "KBS 뉴스"
     }
    ]
   },
   {
    "kw": "미국 상품거래위원회",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 24일 22:40",
    "news": [
     {
@@ -92,71 +143,31 @@
    "when": "11월 24일 21:50",
    "news": [
     {
-     "title": "‘방화 가능성’ 주택 화재…일가족 3명 숨져",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721247",
-     "source": "KBS 뉴스"
+     "title": "구리소방서, 노후 공동주택 화재 취약세대에 화재감지기 보급 강화",
+     "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=806085",
+     "source": "일간투데이"
     },
     {
-     "title": "주택 화재로 80대 어머니와 두 아들 숨져...합동감식",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0115_202611241156560345_005.html",
-     "source": "YTN"
+     "title": "동네 소방시설 한 눈에…구리소방서 AI 활용 웹지도 구축",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008764",
+     "source": "아시아투데이"
     }
    ]
   },
   {
-   "kw": "대전 하나 시티즌 대 베이징 궈안 순위",
-   "traffic": "1000+",
-   "when": "11월 24일 21:10",
-   "news": []
-  },
-  {
-   "kw": "치안감",
+   "kw": "cricbuzz",
    "traffic": "200+",
-   "when": "11월 24일 21:10",
+   "when": "11월 24일 21:30",
    "news": [
     {
-     "title": "‘경찰 2인자’ 치안정감에 김병기-송영호…치안감 4명도 승진",
-     "url": "https://www.donga.com/news/Society/article/all/20261124/135080013/1",
-     "source": "동아일보"
+     "title": "INDA vs UAE, 11th Match, Group B, ACC Men's Asia Cup Rising Stars 2026 - Commentary",
+     "url": "https://www.cricbuzz.com/live-cricket-scores/177203/uae-vs-inda-11th-match-group-b-acc-mens-asia-cup-rising-stars-2026",
+     "source": "Cricbuzz"
     },
     {
-     "title": "함영욱 경기남부청 광역수사단장 치안감 승진 내정",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337655",
-     "source": "인천일보"
-    }
-   ]
-  },
-  {
-   "kw": "비",
-   "traffic": "500+",
-   "when": "11월 24일 21:00",
-   "news": [
-    {
-     "title": "틈만나면, 67회 다시보기 : 브런치와 바이크를 넘나드는 찐친들! 비X김재욱의 신촌 틈새 공략!",
-     "url": "https://programs.sbs.co.kr/enter/teum/vod/82255/22000640176",
-     "source": "programs.sbs.co.kr"
-    },
-    {
-     "title": "김재욱, 서울예대 ‘실용음악과’ 출신..데뷔 전 밴드 활동까지 (‘틈만나면’)",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/24/GBSWEZBVGBSTGMZZG5RWMY3BG4/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "최재훈",
-   "traffic": "1000+",
-   "when": "11월 24일 20:50",
-   "news": [
-    {
-     "title": "밀양시, 공공비축미곡 매입으로 농업인 소득 안정화 추진",
-     "url": "https://www.viva100.com/article/20261124500737",
-     "source": "브릿지경제"
-    },
-    {
-     "title": "[동정] 최재훈 달성군수",
-     "url": "https://m.anewsa.com/article_sub3.php?number=3221182&type=&mobile=",
-     "source": "아시아뉴스통신"
+     "title": "India A opponents in 2026 Asia Games Rising Stars: Who will Tilak Varma's men face in the semi-final?",
+     "url": "https://sports.yahoo.com/articles/india-opponents-2026-asia-games-152500289.html",
+     "source": "Yahoo Sports"
     }
    ]
   }
