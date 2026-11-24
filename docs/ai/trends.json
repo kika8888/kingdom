@@ -1,26 +1,162 @@
 {
- "updated": "2026-11-25 04:23",
+ "updated": "2026-11-25 05:23",
  "items": [
+  {
+   "kw": "레알 마드리드 대 에인트호번",
+   "traffic": "1000+",
+   "when": "11월 25일 04:10",
+   "news": [
+    {
+     "title": "레알 마드리드 vs PSV 아인트호벤 예측: 선두 자리를 노릴 기회",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-psv-eindhoven-co-hoi-bam-duoi-ngoi-dau",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "챔피언스 리그 5차전 경기 일정: 무리뉴 감독이 조 1위에 오를 수 있을까?",
+     "url": "https://www.vietnam.vn/ko/lich-thi-dau-luot-5-champions-league-hlv-mourinho-chiem-ngoi-dau",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "아스널 대 도르트문트",
+   "traffic": "500+",
+   "when": "11월 25일 04:10",
+   "news": [
+    {
+     "title": "'2026-27시즌 UCL 파워랭킹 TOP 10' … 이강인 10위·김민재 5위, '3연패' 도전 PSG 1위",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450098.html",
+     "source": "뉴데일리"
+    },
+    {
+     "title": "무패 아스널, 위기의 맨시티… UCL 5라운드 새벽 빅매치 프리뷰",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195217",
+     "source": "금강일보"
+    }
+   ]
+  },
+  {
+   "kw": "al-nassr vs al sadd",
+   "traffic": "100+",
+   "when": "11월 25일 04:10",
+   "news": [
+    {
+     "title": "Ronaldo needs one goal to pass Hamdallah, and Al-Nassr host an Al Sadd side with two points from four games",
+     "url": "https://www.sportsadda.asia/football/news-football/ronaldo-needs-one-goal-to-pass-hamdallah-and-al-nassr-host-an-al-sadd-side-with-two-points-from-four-games/",
+     "source": "SportsAdda"
+    },
+    {
+     "title": "Licensable picture: AFC Champions League Elite - Al Nassr v Al Sadd",
+     "url": "https://www.reutersconnect.com/item/afc-champions-league-elite-al-nassr-v-al-sadd/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk8xRzJFUjY",
+     "source": "Reuters Connect"
+    }
+   ]
+  },
+  {
+   "kw": "의대생",
+   "traffic": "100+",
+   "when": "11월 25일 04:00",
+   "news": [
+    {
+     "title": "수다 떨며 풀고도 97점…‘찐 실력’ 인증한 서울대 의대생들 [잇슈#태그]",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721046",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "[횡설수설/신광영]“커닝 안 했다” 인증 행렬",
+     "url": "https://www.donga.com/news/Opinion/article/all/20261123/135077402/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "중앙일보",
+   "traffic": "2000+",
+   "when": "11월 25일 03:50",
+   "news": [
+    {
+     "title": "중앙일보 품는 다우키움…커진 존재감, 매서워진 시장 감시",
+     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/22/2026112280036.html",
+     "source": "인베스트조선"
+    },
+    {
+     "title": "5200억으로 빚 다 갚는다… 채권단, 중앙일보 ‘매각형 워크아웃 졸업’ 승인",
+     "url": "https://biz.chosun.com/stock/stock_general/2026/11/24/WLESJOLK5FCA3P62DUOV7E5HHE/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "정치",
+   "traffic": "200+",
+   "when": "11월 25일 03:50",
+   "news": [
+    {
+     "title": "직접 등판한 장동혁 \"돌아오면 또 제명\"...한동훈 \"조작 인정\"",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "“컨설팅비 10억 요구 거부에 허위 폭로” 장동혁 측 징계 논란 역공… 갈등 확산",
+     "url": "https://www.donga.com/news/Politics/article/all/20261125/135084474/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "에코프로비엠",
+   "traffic": "200+",
+   "when": "11월 25일 03:50",
+   "news": [
+    {
+     "title": "에코프로비엠, 싱가포르 종속회사 주식 6222억 취득",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04211526645649000",
+     "source": "마켓인"
+    },
+    {
+     "title": "에코프로비엠",
+     "url": "https://stock.mk.co.kr/news/view/1205120",
+     "source": "매일경제 마켓"
+    }
+   ]
+  },
+  {
+   "kw": "알나스르 대 알사드",
+   "traffic": "200+",
+   "when": "11월 25일 03:30",
+   "news": [
+    {
+     "title": "Cristiano Ronaldo moves closer to 1,000 goals with penalty vs Al-Sadd",
+     "url": "https://www.usatoday.com/story/sports/soccer/2026/11/24/cristiano-ronaldo-goals-1000-al-nassr-al-sadd/92945415007/",
+     "source": "USA Today"
+    },
+    {
+     "title": "Video: Evoking memories of Brahim Díaz, Al-Deayea reveals Mendy's role in Ronaldo's missed penalty",
+     "url": "https://www.yardbarker.com/soccer/articles/video_evoking_memories_of_brahim_daz_al_deayea_reveals_mendys_role_in_ronaldos_missed_penalty/s1_17790_44596929",
+     "source": "Yardbarker"
+    }
+   ]
+  },
   {
    "kw": "galatasaray vs aston villa",
    "traffic": "200+",
    "when": "11월 25일 03:00",
    "news": [
     {
-     "title": "Licensable picture: Galatasaray training session ahead of UEFA Champions League match against Aston Villa",
-     "url": "https://www.reutersconnect.com/item/galatasaray-training-session-ahead-of-uefa-champions-league-match-against-aston-villa/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwSTNONkpS",
-     "source": "Reuters Connect"
+     "title": "Galatasaray vs Aston Villa Confirmed Lineups",
+     "url": "https://www.whoscored.com/news/OxKu7VaY80enffAXqMnkMQ/show/cng112-20261124-galatasaray-vs-aston-villa-confirmed-lineup-1795538178",
+     "source": "WhoScored.com"
     },
     {
-     "title": "Aston Villa defender Ian Maatsen warns Unai Emery's side to expect tough Champions League test against 'best team in Turkiye' Galatasaray",
-     "url": "https://www.goal.com/en/news/aston-villa-ian-maatsen-warns-unai-emery-champions-league-test-galatasaray/bltb0cd36a820444ab2",
-     "source": "Goal.com"
+     "title": "Licensable picture: UEFA Champions League - Galatasaray Vs Aston Villa FC",
+     "url": "https://www.reutersconnect.com/item/uefa-champions-league-galatasaray-vs-aston-villa-fc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBHMlY0M0Q",
+     "source": "Reuters Connect"
     }
    ]
   },
   {
    "kw": "제우스",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 25일 02:50",
    "news": [
     {
@@ -32,142 +168,6 @@
      "title": "한화생명, 카나비 떠난 자리에 ‘캐니언’ 김건부 영입",
      "url": "https://www.kukinews.com/article/view/kuk202611240240",
      "source": "쿠키뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "경원선",
-   "traffic": "100+",
-   "when": "11월 25일 02:50",
-   "news": [
-    {
-     "title": "[시론] 경인선 지하화는 인천 미래의 지하화다",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337721",
-     "source": "인천일보"
-    },
-    {
-     "title": "조건부 반영까지 16년…최대호 시장 뚝심이 만든 '안양 경부선 지하화' - 머니투데이",
-     "url": "https://www.mt.co.kr/policy/2026/11/24/2026112413544742258",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "에릭 페디",
-   "traffic": "500+",
-   "when": "11월 25일 01:40",
-   "news": [
-    {
-     "title": "\"죄송합니다. 미국에 남겠습니다\" 20승 투수 또 한국행 불발, 대체 왜 거절했나",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/24/MFSGIZBVHAZWKNBXGNTGEYTCMY/",
-     "source": "조선일보"
-    },
-    {
-     "title": "NC 다이노스 복귀 제안 거절한 페디…미국 잔류 결정 : 스포츠",
-     "url": "https://news.jkn.co.kr/post/1120179",
-     "source": "재경일보"
-    }
-   ]
-  },
-  {
-   "kw": "무시알라",
-   "traffic": "100+",
-   "when": "11월 25일 01:30",
-   "news": [
-    {
-     "title": "충격 '김민재 동료' 아침에 의식 잃고, 저녁에 레알전 뛰었다 \"발작 은폐 의혹\"... 뮌헨 고위층 '분노 폭발' - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112421302892400",
-     "source": "머니투데이"
-    },
-    {
-     "title": "1850억 공중분해 위기! 재계약 후 60경기 결장+발작 증세, 독일 최고 유망주 어쩌나…뮌헨 고민 깊다 \"이전 수준까지 올라오기 어려워\"",
-     "url": "https://www.xportsnews.com/article/2222152",
-     "source": "엑스포츠뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "pakistan a vs nepal national cricket team standings",
-   "traffic": "2000+",
-   "when": "11월 25일 00:50",
-   "news": [
-    {
-     "title": "Pakistan A defend 168 to survive Nepal scare",
-     "url": "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/pakistan-a-vs-nepal-11th-match-group-b-1562352/match-report",
-     "source": "Cricinfo"
-    },
-    {
-     "title": "Rohail Nazir's fifty books Asia Cup Rising Stars semi-finals spot for Pakistan Shaheens",
-     "url": "https://www.dawn.com/news/2046798/rohail-nazir-fifty-books-asia-cup-rising-stars-semi-finals-spot-for-pakistan-shaheens",
-     "source": "Dawn"
-    }
-   ]
-  },
-  {
-   "kw": "랜드로버 디펜더",
-   "traffic": "100+",
-   "when": "11월 25일 00:20",
-   "news": [
-    {
-     "title": "디펜더, 영국 적십자 파트너십 2029년까지 연장",
-     "url": "https://www.donga.com/news/article/all/20261124/135079396/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "디펜더, 영국 적십자와 협력 2029년까지 연장…\"NGO 사양 110·130 추가 투입\"",
-     "url": "https://www.fnnews.com/news/202611240951091458",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "챔피언스리그",
-   "traffic": "200+",
-   "when": "11월 25일 00:00",
-   "news": [
-    {
-     "title": "AFC 챔피언스 리그 3-1 비셀 고베 생중계 (후반전): 페레아 또 득점",
-     "url": "https://www.vietnam.vn/ko/truc-tiep-cahn-3-1-vissel-kobe-cup-c1-chau-a-hiep-2-perea-tiep-tuc-lap-cong",
-     "source": "Vietnam.vn"
-    },
-    {
-     "title": "응우옌 필립은 아시안컵에서 두 번째로 교체되었다.",
-     "url": "https://www.vietnam.vn/ko/nguyen-filip-lan-thu-hai-bi-thay-ra-o-cup-chau-a",
-     "source": "Vietnam.vn"
-    }
-   ]
-  },
-  {
-   "kw": "시그널2",
-   "traffic": "500+",
-   "when": "11월 24일 23:30",
-   "news": [
-    {
-     "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
-     "source": "YTN"
-    },
-    {
-     "title": "[센터엔터] ’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만 外",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261124133245at3",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "주진우",
-   "traffic": "200+",
-   "when": "11월 24일 23:30",
-   "news": [
-    {
-     "title": "\"무리한 지휘권 행사 않을 것\"‥공소취소 '여지'는 남겼다",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868259_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "유동규와 ‘닭백숙집 포커’ 의혹에… 이용철 “난 육식 못한다” 부인",
-     "url": "https://www.chosun.com/national/court_law/2026/11/24/OUQIZJON75AVZG54TTGQRMJXPQ/",
-     "source": "조선일보"
     }
    ]
   }
