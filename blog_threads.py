@@ -1,8 +1,8 @@
 """매시간: 네이버 블로그 새 글을 주제별 스레드 계정에 올린다 (계정 하나 = 블로그 하나 = 주제 하나).
 
-스레드 글 = 블로그 제목(첫 줄 후킹) + 블로그 첫머리 문장 몇 개 + 의견 질문 + 자연스러운 한 줄과 블로그 주소 + 사진 2장.
-글 전체를 옮기지 않고 앞부분만 보여 줘서, 뒷이야기는 블로그에서 보게 한다 (스레드 글자 수 500자 안에 맞춘다).
-글마다 말투·끝맺음이 다르다.
+스레드 글은 Gemini 가 threads_prompt.md(대표님 프롬프트)대로 블로그 글을 반말 후킹 글로 다시 쓴다 + 블로그 주소 + 사진 2장.
+GEMINI_API_KEY 가 없거나 AI 가 실패·너무 길면 예전 방식(블로그 제목 + 첫머리 문장 + 질문 + 주소)으로 올린다.
+(스레드 글자 수 500자 안에 맞춘다)
 새 글은 매시간 확인해서 바로 올리고, 새 글이 없을 땐 전에 쓴 글을 3시간에 1개씩(최근 글부터) 올린다.
 한 번 올린 글은 다시 올리지 않고 (state/blog_threads.json), 한 번 실행에 계정마다 1개만 올린다.
 루머성 제목(사망설·찌라시 등)은 건너뛴다 (명예훼손·허위사실 위험).
@@ -324,11 +324,106 @@ def skip(title):
     return any(w in title for w in SKIP_WORDS) or title.startswith(SKIP_PREFIX)
 
 
+# ── Gemini 로 다시 쓰기 ──────────────────────────────────────
+GEMINI = "https://generativelanguage.googleapis.com/v1beta"
+AI_CTA = "자세한 내용은 블로그 본문에서 확인해봐👇"
+# 대표님 프롬프트에 덧붙이는 규칙 (자동 게시라서 꼭 필요한 것만)
+AI_RULES = f"""
+
+## 자동 게시용 추가 규칙 (반드시 지킬 것)
+- 게시글 본문만 출력한다. 설명, 머리말, 따옴표, 마크다운(**, ##, -)은 쓰지 않는다.
+- 블로그 주소(URL)는 쓰지 않는다. 시스템이 "{AI_CTA}" 바로 아래에 붙인다.
+- 전체 길이는 공백 포함 380자 이내로 쓴다 (스레드는 500자 제한, 주소가 붙는다).
+- 마지막 두 줄은 반드시 "{AI_CTA}" 한 줄, 그다음 줄에 해시태그 5개.
+- 첫 번째 해시태그는 글의 핵심 인물 이름이나 핵심 키워드로 한다 (스레드는 첫 태그 하나만 주제로 인식).
+- 범죄·사고·사망·질병 피해·확인 안 된 의혹이나 폭로 소식이면 댓글 유도 질문을 넣지 않고, 추측·비방 없이 확인된 사실만 쓴다.
+- 원문에 없는 사실·수치·발언·경험은 절대 만들지 않는다.
+"""
+_ai_model = None
+
+
+def gemini(path, body=None):
+    key = os.environ.get("GEMINI_API_KEY", "").strip()
+    req = urllib.request.Request(f"{GEMINI}/{path}", data=json.dumps(body).encode() if body else None,
+                                 headers={"x-goog-api-key": key, "Content-Type": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=90) as res:
+            return json.loads(res.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"Gemini 오류 {e.code}: {e.read().decode('utf-8', 'replace')[:300]}") from None
+
+
+def ai_model():
+    """쓸 수 있는 가장 최신 'gemini-X-flash' 모델 (정식판 우선). 목록을 못 받으면 GEMINI_MODEL 또는 기본값."""
+    global _ai_model
+    if _ai_model:
+        return _ai_model
+    _ai_model = os.environ.get("GEMINI_MODEL", "").strip()
+    if _ai_model:
+        return _ai_model
+    try:
+        names = [m["name"].split("/")[-1] for m in gemini("models?pageSize=200").get("models", [])
+                 if "generateContent" in m.get("supportedGenerationMethods", [])]
+        ver = lambda n: [int(v) for v in re.findall(r"\d+", n.split("-")[1])]
+        stable = sorted((n for n in names if re.fullmatch(r"gemini-\d+(\.\d+)?-flash", n)), key=ver)
+        preview = sorted((n for n in names if re.fullmatch(r"gemini-\d+(\.\d+)?-flash(-preview)?[-\d]*", n)), key=ver)
+        _ai_model = (stable or preview or ["gemini-2.5-flash"])[-1]
+    except Exception as e:
+        print("Gemini 모델 목록 실패, 기본값 사용:", e)
+        _ai_model = "gemini-2.5-flash"
+    print("Gemini 모델:", _ai_model)
+    return _ai_model
+
+
+def ai_tidy(raw, link):
+    """AI 글 다듬기: 마크다운·주소 지우고, 유도 문구 아래에 블로그 주소를 붙인다. 형식이 틀리면 None."""
+    t = re.sub(r"\*\*|__|^#{1,6}\s+|```", "", raw.strip(), flags=re.M)   # 제목(# 띄어쓰기)만 지운다, #해시태그는 둔다
+    t = re.sub(r"https?://\S+", "", t)
+    lines = [l.rstrip() for l in t.split("\n")]
+    tags_i = max((i for i, l in enumerate(lines) if l.strip().startswith("#")), default=None)
+    if tags_i is None or not lines[0].strip().startswith("📌"):
+        return None
+    tags = re.findall(r"#[^\s#]+", lines[tags_i])[:5]
+    body = [l for l in lines[:tags_i] if AI_CTA.rstrip("👇") not in l]
+    while body and not body[-1].strip():
+        body.pop()
+    return "\n".join(body + ["", AI_CTA, link, " ".join(tags)])
+
+
+def ai_compose(x, acc, paras):
+    """대표님 프롬프트(threads_prompt.md)로 Gemini 가 쓴 스레드 글. 못 쓰면 None (예전 방식으로 올린다)."""
+    if not os.environ.get("GEMINI_API_KEY", "").strip() or not paras:
+        return None
+    try:
+        prompt = (ROOT / "threads_prompt.md").read_text(encoding="utf-8") + AI_RULES
+    except OSError:
+        return None
+    src = "\n".join(paras)[:6000]
+    ask = f"[주제] {acc['name']}\n\n[블로그 제목]\n{x['title']}\n\n[블로그 본문]\n{src}"
+    for extra in ("", "\n\n(방금 글이 너무 길었어. 이번엔 300자 이내로 더 짧게 써줘.)"):
+        try:
+            res = gemini(f"models/{ai_model()}:generateContent", {
+                "systemInstruction": {"parts": [{"text": prompt}]},
+                "contents": [{"role": "user", "parts": [{"text": ask + extra}]}],
+                "generationConfig": {"temperature": 0.8, "maxOutputTokens": 4096},
+            })
+            raw = "".join(pt.get("text", "") for pt in res["candidates"][0]["content"]["parts"])
+        except Exception as e:
+            print("AI 글쓰기 실패, 예전 방식으로 올립니다:", e)
+            return None
+        text = ai_tidy(raw, x["link"])
+        if text and len(text) <= LIMIT:
+            return text
+        print(f"AI 글 형식·길이 안 맞음({len(text) if text else '형식'}), 다시 시도")
+    return None
+
+
 def publish(token, acc, x, seen):
-    """글 + 블로그 사진 2장(넘겨 보기), 블로그 주소는 본문 맨 아래에 자연스러운 한 줄과 함께. 첫 댓글은 달지 않는다.
+    """글 + 블로그 사진 2장(넘겨 보기), 블로그 주소는 본문 맨 아래. 첫 댓글은 달지 않는다.
     (스레드는 사진 글에 링크 카드를 못 붙여서 주소를 글자로 넣는다. 눌리는 링크가 된다)
     사진이 실패하면 글 + 링크 카드로 올린다."""
-    text = compose(x, acc, seen, post_text(x["link"]))
+    paras = post_text(x["link"])
+    text = ai_compose(x, acc, paras) or compose(x, acc, seen, paras)
     try:
         no = x["link"].rstrip("/").split("/")[-1]
         images = host_images(post_images(x["link"]), f"{acc['blog']}-{no}")
