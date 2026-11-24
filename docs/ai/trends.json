@@ -1,162 +1,173 @@
 {
- "updated": "2026-11-24 12:23",
+ "updated": "2026-11-24 13:23",
  "items": [
   {
-   "kw": "카카오",
+   "kw": "중고",
    "traffic": "500+",
-   "when": "11월 24일 11:20",
+   "when": "11월 24일 12:20",
    "news": [
     {
-     "title": "스타벅스서도 3% 할인…카카오페이 굿딜, 제휴 111곳으로 확대",
-     "url": "https://stock.mk.co.kr/news/view/1204772",
-     "source": "매일경제 마켓"
-    },
-    {
-     "title": "카카오페이 '굿딜'에 스타벅스 입점",
-     "url": "https://www.etnews.com/20261124000212",
+     "title": "중고나라, 지도 기반 상품 탐색 기능 도입",
+     "url": "https://www.etnews.com/20261124000048",
      "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "정상빈",
-   "traffic": "2000+",
-   "when": "11월 24일 11:10",
-   "news": [
-    {
-     "title": "'우승 트로피 원한다던 손흥민, 시작부터 위기' 정상빈 선발 출격한 세인트루이스에 선제골 허용...LAFC 전반 0-1 마무리 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/24/202611241108777757O",
-     "source": "머니투데이"
     },
     {
-     "title": "정상빈의 무대가 되고 있다! 세인트루이스, LAFC에 '정상빈 1골 1도움'으로 2-0 리드",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/24/MYYDGZRYMEYTOZRYMEZGMYZXHA/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "경마공원",
-   "traffic": "100+",
-   "when": "11월 24일 11:10",
-   "news": [
-    {
-     "title": "민주당 대전 지방의원들 \"대전, 공공기관 이전 완벽 준비\"",
-     "url": "https://www.yna.co.kr/view/AKR20261123043000063",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "신용한 충북지사, 국비 확보와 민생 예산 집행에 총력",
-     "url": "https://www.viva100.com/article/20261123501427",
+     "title": "중고나라, 지도 기반 검색 도입⋯ 고가 시계 거래 편의성 강화",
+     "url": "https://www.viva100.com/article/20261124500349",
      "source": "브릿지경제"
     }
    ]
   },
   {
-   "kw": "성남시",
-   "traffic": "100+",
-   "when": "11월 24일 11:10",
+   "kw": "삼성전자 임원 인사",
+   "traffic": "2000+",
+   "when": "11월 24일 12:20",
    "news": [
     {
-     "title": "성남시, 리브컴 어워즈 3개 부문 결선…내년 모로코에서 수상에 도전",
-     "url": "https://www.etnews.com/20261124000025",
-     "source": "전자신문"
+     "title": "삼성전자 2027년 정기 임원 인사 명단",
+     "url": "https://zdnet.co.kr/view/?no=20261124090704",
+     "source": "지디넷코리아"
     },
     {
-     "title": "성남시, 공공기술로 도시 경쟁력 확장…식품 안전·환경행정 국제무대 도전",
-     "url": "https://www.joongdo.co.kr/web/view.php?key=20261124010008322",
+     "title": "“AI·반도체 웃고 세트 울었다”",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001711",
+     "source": "IT조선"
+    }
+   ]
+  },
+  {
+   "kw": "장학금",
+   "traffic": "200+",
+   "when": "11월 24일 12:20",
+   "news": [
+    {
+     "title": "계룡장학재단, 전국체전 대전 우수입상자 장학금 수여…“체육 인재 성장 응원\"",
+     "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/23/2026112350377.html",
+     "source": "뉴데일리 충청세종"
+    },
+    {
+     "title": "계룡장학재단, 전국체전 대전 우수선수에 2130만원 장학금",
+     "url": "https://www.newsis.com/view/NISX20261123_0003879900",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "반포자이",
+   "traffic": "100+",
+   "when": "11월 24일 12:20",
+   "news": [
+    {
+     "title": "반포자이 보유세, 올해 1809만원→내년 2641만원",
+     "url": "https://www.donga.com/news/Economy/article/all/20261123/135076417/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "이헌욱 부동산원장, 공시가격 조사 현장 방문… 정확성·객관성 당부",
+     "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/23/VSJL6CEGMJDQBEM5PXBL5NUUMQ/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "미사일",
+   "traffic": "500+",
+   "when": "11월 24일 12:10",
+   "news": [
+    {
+     "title": "나토, 러 미사일 낙하에 폴란드에 조기경보기 전진 배치",
+     "url": "https://www.yna.co.kr/view/AKR20261124083900009",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "폴란드 \"러 미사일·드론이 영토 타격\"…트럼프 \"실수일 뿐\" 엄호",
+     "url": "https://www.news1.kr/world/usa-canada/6361881",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "농업",
+   "traffic": "500+",
+   "when": "11월 24일 12:10",
+   "news": [
+    {
+     "title": "파주 미래농업 혁신타운 조성 본격화…경기일보, 농업기술센터 이전 토론회",
+     "url": "https://www.kyeonggi.com/article/20261124580108",
+     "source": "경기일보"
+    },
+    {
+     "title": "파주시, 미래농업 혁신타운 조성 연구용역 착수보고회 개최",
+     "url": "https://www.joongdo.co.kr/web/view.php?key=20261124010008190",
      "source": "중도일보"
     }
    ]
   },
   {
-   "kw": "휴머노이드",
-   "traffic": "1000+",
-   "when": "11월 24일 11:00",
+   "kw": "사고",
+   "traffic": "200+",
+   "when": "11월 24일 12:10",
    "news": [
     {
-     "title": "KG스틸, 국산 휴머노이드 로봇 투입…피지컬 AI 실증 나선다",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02404246645649000",
-     "source": "마켓인"
+     "title": "‘음주운전’ 배우 고경표, 첫 경찰 조사…“무책임한 모습, 죄송해”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8720656",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "[연합뉴스TV 스페셜-수어] 헬로로봇",
-     "url": "https://m.yonhapnewstv.co.kr/program/vod/11111",
-     "source": "연합뉴스TV"
+     "title": "부르튼 입술·초췌한 얼굴…'음주운전' 고경표, 사고 9일 만에 경찰 출석해 '눈물 사과'",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860616",
+     "source": "SBS 뉴스"
     }
    ]
   },
   {
-   "kw": "부사관",
-   "traffic": "1000+",
-   "when": "11월 24일 10:40",
-   "news": []
-  },
-  {
-   "kw": "디워",
-   "traffic": "500+",
-   "when": "11월 24일 10:40",
+   "kw": "자동차산업",
+   "traffic": "200+",
+   "when": "11월 24일 12:00",
    "news": [
     {
-     "title": "단독 심형래, 힉스필드AI와 손잡았다…19년 만에 AI 입은 '디워' 재개봉",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611230700126895",
-     "source": "YTN"
+     "title": "3000만원 차 한 대 팔아 50만원 번다… ‘이익률 1%’ 늪 빠진 중국",
+     "url": "https://www.chosun.com/international/china/2026/11/24/CHEEEFIMWFA6JGUDQVRBZGDB6U/",
+     "source": "조선일보"
     },
     {
-     "title": "이무기 다시 깨어난다…심형래 ‘디워’, 힉스필드AI와 글로벌 승부수",
-     "url": "https://sports.khan.co.kr/article/202611231315003",
-     "source": "스포츠경향"
+     "title": "'전기차 세액공제' 이르면 이번주 윤곽…중국車 공세에 부품업계 '촉각'",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880572",
+     "source": "뉴시스"
     }
    ]
   },
   {
-   "kw": "군산시의회",
-   "traffic": "500+",
-   "when": "11월 24일 10:40",
+   "kw": "관세",
+   "traffic": "100+",
+   "when": "11월 24일 11:50",
    "news": [
     {
-     "title": "군산시의회 “농사짓는 농민이 직불금 받아야”… 농지 임대차 제도 전면 개선 촉구",
-     "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=450982",
-     "source": "전민일보"
-    },
-    {
-     "title": "군산시의회 행정복지위원회 행정사무감사 9일차",
-     "url": "https://www.ikbn.news/news/article.html?no=217810",
-     "source": "한국방송뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "현대자동차",
-   "traffic": "2000+",
-   "when": "11월 24일 10:20",
-   "news": [
-    {
-     "title": "현대차, 산림청과 전기차 ST1 기반 산불 대응 차량 실증사업",
-     "url": "https://www.yna.co.kr/view/AKR20261124034200003",
+     "title": "\"트럼프 행정부, 한국·EU·호주 디지털 규제 301조 조사 검토\"",
+     "url": "https://www.yna.co.kr/view/AKR20261123175400071",
      "source": "연합뉴스"
     },
     {
-     "title": "현대차, ST1 기반 산불 대응 차량 실증… 산림청·세화자동차와 협력",
-     "url": "https://www.autoview.co.kr/ko-kr/articles/102629",
-     "source": "오토뷰"
+     "title": "미, 무역법 301조로 ‘15% 관세 합의’ 또 흔드나",
+     "url": "https://www.khan.co.kr/article/202611232035025",
+     "source": "경향신문"
     }
    ]
   },
   {
-   "kw": "강원도민일보",
-   "traffic": "100+",
-   "when": "11월 24일 10:20",
+   "kw": "посольство",
+   "traffic": "200+",
+   "when": "11월 24일 11:40",
    "news": [
     {
-     "title": "육군 22사단 고성 학야리 주민 초청 안보견학",
-     "url": "https://www.kado.net/news/curationView.html?idxno=2086842",
-     "source": "강원도민일보"
+     "title": "Захарова назвала саморазоблачением признание Destinus об атаке на Крымский мост",
+     "url": "https://www.vedomosti.ru/politics/news/2026/11/20/1413595-nazvala-samorazoblacheniem",
+     "source": "Ведомости"
     },
     {
-     "title": "국가자격시험 'AI 부정행위' 차단‥꺼진 기기 탐지·부정행위 징역 5년 확대 추진",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868098_36918.html",
-     "source": "MBC 뉴스"
+     "title": "WSJ ⟩ Русский эмигрант, который помог разрушить Крымский мост",
+     "url": "https://rus.postimees.ee/8588185/wsj-russkiy-emigrant-kotoryy-pomog-razrushit-krymskiy-most",
+     "source": "Rus.Postimees.ee"
     }
    ]
   }
