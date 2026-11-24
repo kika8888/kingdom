@@ -1,164 +1,175 @@
 {
- "updated": "2026-11-24 09:23",
+ "updated": "2026-11-24 10:23",
  "items": [
   {
-   "kw": "축구",
-   "traffic": "2000+",
-   "when": "11월 24일 08:20",
+   "kw": "세인트루이스 시티 sc 대 엘에이 fc",
+   "traffic": "10000+",
+   "when": "11월 24일 09:20",
    "news": [
     {
-     "title": "한국 U-17 축구, 뉴칼레도니아 6-0 완파하고 월드컵 32강행 확정",
-     "url": "https://www.yna.co.kr/view/AKR20261123130400007",
-     "source": "연합뉴스"
+     "title": "City SC opens MLS playoffs in better spot than in previous appearance, in inaugural season",
+     "url": "https://www.stltoday.com/sports/professional/mls/city-sc/article_858b6c85-3a8b-40ae-91c1-4d95802d730d.html",
+     "source": "STLtoday.com"
     },
     {
-     "title": "'형보다 나은 아우'…김현준호 U-17 월드컵 '2경기 9골' 폭발",
-     "url": "https://www.newsis.com/view/NISX20261123_0003879423",
-     "source": "뉴시스"
+     "title": "Match Preview | St. Louis CITY SC to Host LAFC in Match One of Round One Best-of-3 Series on Monday at Energizer Park",
+     "url": "https://www.stlcitysc.com/news/match-preview-st-louis-city-sc-to-host-lafc-in-match-one-of-round-one-best-of-3-series-on-monday-at-energizer-park",
+     "source": "St. Louis CITY SC"
     }
    ]
   },
   {
-   "kw": "대한민국 농림축산식품부 장관",
-   "traffic": "500+",
-   "when": "11월 24일 08:20",
-   "news": [
-    {
-     "title": "농어촌 기본소득 시범사업은 국가 균형발전이라는 국가적 과제에 대응하기 위한 사업입니다.",
-     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976326",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "장보기 넘어 식당·병원으로…농어촌 기본소득 소비처 다양해졌다",
-     "url": "https://www.etnews.com/20261124000023",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "마라톤",
+   "kw": "우지원",
    "traffic": "200+",
-   "when": "11월 24일 08:10",
+   "when": "11월 24일 09:20",
    "news": [
     {
-     "title": "10㎞ 완주한 19세 사망···20대 이어 또 발생한 ‘마라톤 돌연사’, 막을 방법은 없나",
-     "url": "https://www.khan.co.kr/article/202611230917001",
-     "source": "경향신문"
+     "title": "우지원·우서윤, ‘아침마당’ 생방송 중 볼뽀뽀…미스코리아 진 축하",
+     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627249",
+     "source": "메디컬투데이"
     },
     {
-     "title": "목포 마라톤대회 10대 참가자 완주 후 쓰러져 숨져",
-     "url": "https://www.yna.co.kr/view/AKR20261123114900054",
-     "source": "연합뉴스"
+     "title": "'아침마당' 미스코리아 진 우서윤, 남다른 피지컬 \"우지원 첫째딸\"",
+     "url": "https://www.joynews24.com/view/2029536",
+     "source": "조이뉴스24"
     }
    ]
   },
   {
-   "kw": "미래에셋증권",
+   "kw": "kospi",
    "traffic": "100+",
-   "when": "11월 24일 08:10",
+   "when": "11월 24일 09:20",
    "news": [
     {
-     "title": "미래에셋증권, 'IB 총괄' 사업부 폐지…도입 1년만",
-     "url": "https://www.yna.co.kr/view/AKR20261123163400008",
-     "source": "연합뉴스"
+     "title": "KOSPI and KOSDAQ trigger buy-side curbs as Korean stocks surge",
+     "url": "https://biz.chosun.com/en/en-finance/2026/11/24/XK4EBUQMWNBDBHEHOHZTT7537A/",
+     "source": "Chosunbiz"
     },
     {
-     "title": "미래에셋證 IB 사령탑 ‘투톱 체제’…강성범 사장 퇴진 [시그널]",
-     "url": "https://www.sedaily.com/article/20117896",
-     "source": "서울경제"
-    }
-   ]
-  },
-  {
-   "kw": "김범수",
-   "traffic": "1000+",
-   "when": "11월 24일 08:00",
-   "news": [
-    {
-     "title": "[카카오 리부트]〈하〉혁신 DNA 되살려야…재도약 3대 과제",
-     "url": "https://www.etnews.com/20261123000335",
-     "source": "전자신문"
-    },
-    {
-     "title": "3년 사법 리스크 부담 던 카카오…AI 투자 드라이브 기대감 - 머니투데이",
-     "url": "https://www.mt.co.kr/tech/2026/11/23/2026112213112098676",
+     "title": "\"Jensen Huang Returns\" — Buy Sidecar (Futures Market Circuit Breaker) Triggered Right After the Open… \"Semiconductors and AI Infrastructure to Rebound\"",
+     "url": "https://www.mt.co.kr/en/stock/2026/11/24/2026112409082580121",
      "source": "머니투데이"
     }
    ]
   },
   {
-   "kw": "tsla",
-   "traffic": "100+",
-   "when": "11월 24일 08:00",
+   "kw": "필라데피아 대 포틀랜드",
+   "traffic": "200+",
+   "when": "11월 24일 09:10",
    "news": [
     {
-     "title": "Tesla FSD v15’s ‘Reality View’ has one complaint and Musk has the solution",
-     "url": "https://www.teslarati.com/tesla-fsd-v15s-reality-drive-one-complaint-musk-solution/",
-     "source": "Teslarati"
+     "title": "Sixers vs. Trail Blazers: Game Preview, Injury Report and How to Watch 11/23/2026",
+     "url": "https://sixers.com/news/sixers-vs-trail-blazers-game-preview-injury-report-and-how-to-watch-11-23-2026",
+     "source": "NBA.com"
     },
     {
-     "title": "Tesla’s Latest Edition of Its Driver-Assistance Software Now Looks Like a Video Game",
-     "url": "https://www.caranddriver.com/news/a74510768/tesla-driver-assistance-software-video-game/",
-     "source": "Car and Driver"
+     "title": "Discuss All the Shining Stars as the Trail Blazers Face the 76ers!",
+     "url": "https://www.blazersedge.com/gameday-threads-2/118817/discussion-portland-trail-blazers-philadelphia-76ers-time-tv-streaming-injury-report",
+     "source": "Blazer's Edge"
     }
    ]
   },
   {
-   "kw": "김호령",
-   "traffic": "5000+",
-   "when": "11월 24일 07:50",
+   "kw": "청약홈",
+   "traffic": "500+",
+   "when": "11월 24일 09:10",
    "news": [
     {
-     "title": "FA 중견수 중 유일 C등급…김호령, '대박' 터트릴까",
-     "url": "https://www.newsis.com/view/NISX20261123_0003879215",
+     "title": "종로 '경희궁 에피트'·영등포 '해링턴 문래' 등 이번주 6295가구 청약",
+     "url": "https://www.newsis.com/view/NISX20261122_0003877941",
      "source": "뉴시스"
     },
     {
-     "title": "\"오퍼 제시했다\" KIA 차분히 답 기다린다, 내부 FA 단속 기조 달라지지 않았다",
-     "url": "https://www.sportschosun.com/baseball/2026-11-24/202611240100144870013467",
-     "source": "스포츠조선"
+     "title": "잠실 ‘20억’ 로또 청약 등장…문래·종로서도 분양",
+     "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005965118",
+     "source": "매일경제TV"
     }
    ]
   },
   {
-   "kw": "울릉도",
-   "traffic": "10000+",
-   "when": "11월 24일 07:50",
+   "kw": "cj그룹",
+   "traffic": "100+",
+   "when": "11월 24일 09:10",
    "news": [
     {
-     "title": "[속보] 경북 울릉군 지역에 '비행체 영공 침범'‥한때 경계경보",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6868037_36911.html",
+     "title": "CJ문화재단, '유재하 음악경연대회' 개최…역대 최다 지원",
+     "url": "https://www.yna.co.kr/view/AKR20261123022600030",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "CJ문화재단, 역대 최다 지원 기록한 ‘제37회 CJ와 함께하는 유재하 음악경연대회’… 이종서 대상 영예 – CJ 뉴스룸",
+     "url": "https://cjnews.cj.net/cj%EB%AC%B8%ED%99%94%EC%9E%AC%EB%8B%A8-%EC%97%AD%EB%8C%80-%EC%B5%9C%EB%8B%A4-%EC%A7%80%EC%9B%90-%EA%B8%B0%EB%A1%9D%ED%95%9C-%EC%A0%9C37%ED%9A%8C-cj%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98/",
+     "source": "CJ 뉴스룸"
+    }
+   ]
+  },
+  {
+   "kw": "차두리",
+   "traffic": "100+",
+   "when": "11월 24일 09:10",
+   "news": [
+    {
+     "title": "화성FC, 최종전 남기고 첫 플레이오프행 확정",
+     "url": "https://www.newstown.co.kr/news/articleView.html?idxno=723065",
+     "source": "뉴스타운"
+    },
+    {
+     "title": "화성FC, 창단 2년 만에 K리그1 승격 도전",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041826",
+     "source": "기호일보"
+    }
+   ]
+  },
+  {
+   "kw": "박윤영",
+   "traffic": "100+",
+   "when": "11월 24일 09:10",
+   "news": [
+    {
+     "title": "“골목상권 살리고 돌봄 기록도 AI로”…KT·행안부, 지역문제 해결 맞손",
+     "url": "https://www.khan.co.kr/article/202611231500001",
+     "source": "경향신문"
+    },
+    {
+     "title": "업무협약식 참석하는 윤호중 장관",
+     "url": "https://www.newsis.com/view/NISI20261123_0021543075",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "사이드카",
+   "traffic": "200+",
+   "when": "11월 24일 09:10",
+   "news": [
+    {
+     "title": "[속보] 급등장에 코스피 이어 코스닥도 '매수 사이드카'",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6868050_36932.html",
      "source": "MBC 뉴스"
     },
     {
-     "title": "[속보] 북한 항공기 추정 비행체 영공 침범…울릉군 경보 후 해제",
-     "url": "https://news.jtbc.co.kr/article/NB12329504",
-     "source": "JTBC"
+     "title": "[속보] 코스피, 젠슨 황 복귀에 6% 급등...5000선 회복 시동",
+     "url": "https://www.chosun.com/economy/money/2026/11/24/YZZPX5SLXFADNG6JVFA4R64TBU/",
+     "source": "조선일보"
     }
    ]
   },
   {
-   "kw": "c-390 밀레니엄",
-   "traffic": "1000+",
-   "when": "11월 24일 07:50",
+   "kw": "한국장학재단",
+   "traffic": "500+",
+   "when": "11월 24일 09:00",
    "news": [
     {
-     "title": "[포토] 공군 신형 수송기 'C-390' 1호기 성남공항 도착",
-     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/23/2026112350149.html",
-     "source": "뉴데일리"
+     "title": "한국우편사업진흥원, 지역사회공헌 인정 4년 연속 획득",
+     "url": "https://zdnet.co.kr/view/?no=20261123105237",
+     "source": "지디넷코리아"
     },
     {
-     "title": "한·브라질, 첫 방산공동위원회 개최…브라질산 대형수송기 2차 사업 등 방산협력 본격화",
-     "url": "https://www.munhwa.com/article/11633537",
-     "source": "문화일보"
+     "title": "한국장학재단, '지역사회공헌 인정제' 6년 연속 '최고등급'",
+     "url": "https://www.newsis.com/view/NISX20261123_0003879646",
+     "source": "뉴시스"
     }
    ]
-  },
-  {
-   "kw": "이지애 아나운서",
-   "traffic": "200+",
-   "when": "11월 24일 07:50",
-   "news": []
   }
  ]
 }
