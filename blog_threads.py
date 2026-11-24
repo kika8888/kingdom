@@ -342,79 +342,125 @@ AI_RULES = f"""
 _ai_model = None
 
 
-def gemini(path, body=None):
+RETRY_CODES = (429, 500, 502, 503, 504)   # 바쁨·사용량 초과·서버 오류는 기다렸다 다시
+
+
+def gemini(path, body=None, tries=3):
     key = os.environ.get("GEMINI_API_KEY", "").strip()
-    req = urllib.request.Request(f"{GEMINI}/{path}", data=json.dumps(body).encode() if body else None,
-                                 headers={"x-goog-api-key": key, "Content-Type": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=90) as res:
-            return json.loads(res.read().decode("utf-8"))
-    except urllib.error.HTTPError as e:
-        raise RuntimeError(f"Gemini 오류 {e.code}: {e.read().decode('utf-8', 'replace')[:300]}") from None
+    for n in range(tries):
+        req = urllib.request.Request(f"{GEMINI}/{path}", data=json.dumps(body).encode() if body else None,
+                                     headers={"x-goog-api-key": key, "Content-Type": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=90) as res:
+                return json.loads(res.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            msg = f"Gemini 오류 {e.code}: {e.read().decode('utf-8', 'replace')[:300]}"
+            if e.code not in RETRY_CODES or n == tries - 1:
+                raise RuntimeError(msg) from None
+        except (urllib.error.URLError, TimeoutError) as e:
+            msg = f"Gemini 연결 오류: {e}"
+            if n == tries - 1:
+                raise RuntimeError(msg) from None
+        print(msg, f"→ {5 * 3 ** n}초 뒤 다시")
+        time.sleep(5 * 3 ** n)   # 5초, 15초 (블로그 작업은 10분 안에 끝나야 한다)
 
 
-def ai_model():
-    """쓸 수 있는 가장 최신 'gemini-X-flash' 모델 (정식판 우선). 목록을 못 받으면 GEMINI_MODEL 또는 기본값."""
+def ai_models():
+    """쓸 모델 순서: GEMINI_MODEL → 최신 'gemini-X-flash' 정식판들(새 것부터) → 미리보기판 → flash-lite → 기본값."""
     global _ai_model
     if _ai_model:
         return _ai_model
-    _ai_model = os.environ.get("GEMINI_MODEL", "").strip()
-    if _ai_model:
-        return _ai_model
+    names = []
     try:
         names = [m["name"].split("/")[-1] for m in gemini("models?pageSize=200").get("models", [])
                  if "generateContent" in m.get("supportedGenerationMethods", [])]
-        ver = lambda n: [int(v) for v in re.findall(r"\d+", n.split("-")[1])]
-        stable = sorted((n for n in names if re.fullmatch(r"gemini-\d+(\.\d+)?-flash", n)), key=ver)
-        preview = sorted((n for n in names if re.fullmatch(r"gemini-\d+(\.\d+)?-flash(-preview)?[-\d]*", n)), key=ver)
-        _ai_model = (stable or preview or ["gemini-2.5-flash"])[-1]
     except Exception as e:
         print("Gemini 모델 목록 실패, 기본값 사용:", e)
-        _ai_model = "gemini-2.5-flash"
-    print("Gemini 모델:", _ai_model)
+    ver = lambda n: [int(v) for v in re.findall(r"\d+", n.split("-")[1])] if re.match(r"gemini-\d", n) else [0]
+    pick = lambda pat: sorted((n for n in names if re.fullmatch(pat, n)), key=ver, reverse=True)
+    order = ([os.environ.get("GEMINI_MODEL", "").strip()] + pick(r"gemini-\d+(\.\d+)?-flash")
+             + pick(r"gemini-\d+(\.\d+)?-flash-preview[-\d]*") + pick(r"gemini-\d+(\.\d+)?-flash-lite")
+             + ["gemini-2.5-flash", "gemini-2.0-flash"])
+    _ai_model = [m for m in dict.fromkeys(order) if m][:5]
+    print("Gemini 모델 순서:", ", ".join(_ai_model))
     return _ai_model
 
 
-def ai_tidy(raw, link):
-    """AI 글 다듬기: 마크다운·주소 지우고, 유도 문구 아래에 블로그 주소를 붙인다. 형식이 틀리면 None."""
+def fit(text, limit):
+    """너무 길면 본문 문단을 뒤에서부터 빼서 맞춘다 (제목·첫 문단·질문·유도 문구·주소·태그는 남긴다)."""
+    while len(text) > limit:
+        head, sep, tail = text.partition("\n\n" + AI_CTA)
+        paras = head.split("\n\n")
+        cut = next((i for i in range(len(paras) - 2, 1, -1) if not paras[i].strip().endswith("?")), None)
+        if cut is None:   # 더 뺄 문단이 없으면 마지막 문단의 끝 문장을 자른다
+            last = paras[-1]
+            if "\n" in last:
+                paras[-1] = last.rsplit("\n", 1)[0]
+            elif len(paras) > 2:
+                paras.pop(-1)
+            else:
+                return text[:limit]
+        else:
+            paras.pop(cut)
+        text = "\n\n".join(paras) + sep + tail
+    return text
+
+
+def ai_tidy(raw, x, acc):
+    """AI 글 다듬기: 마크다운·주소를 지우고, 📌 제목·유도 문구·블로그 주소·해시태그 5개를 꼭 맞춘다.
+    형식이 조금 틀려도 고쳐서 쓴다. 본문이 거의 없으면 None."""
     t = re.sub(r"\*\*|__|^#{1,6}\s+|```", "", raw.strip(), flags=re.M)   # 제목(# 띄어쓰기)만 지운다, #해시태그는 둔다
     t = re.sub(r"https?://\S+", "", t)
     lines = [l.rstrip() for l in t.split("\n")]
-    tags_i = max((i for i, l in enumerate(lines) if l.strip().startswith("#")), default=None)
-    if tags_i is None or not lines[0].strip().startswith("📌"):
-        return None
-    tags = re.findall(r"#[^\s#]+", lines[tags_i])[:5]
-    body = [l for l in lines[:tags_i] if AI_CTA.rstrip("👇") not in l]
+    tags = []
+    while lines and (not lines[-1].strip() or re.fullmatch(r"(#[^\s#]+\s*)+", lines[-1].strip())):
+        tags = re.findall(r"#[^\s#]+", lines.pop()) + tags
+    body = [l for l in lines if AI_CTA.rstrip("👇") not in l and "블로그 본문에서" not in l]
+    while body and not body[0].strip():
+        body.pop(0)
     while body and not body[-1].strip():
         body.pop()
-    return "\n".join(body + ["", AI_CTA, link, " ".join(tags)])
+    if sum(len(l) for l in body) < 40:
+        return None
+    if not body[0].lstrip().startswith("📌"):
+        body[0] = "📌 " + body[0].strip()
+    # 해시태그 5개: 모자라면 제목 속 이름·낱말과 계정 기본 태그로 채운다
+    extra = ["#" + w for w in [name_of(x["title"])] if w] + acc["tags"].split()
+    for tg in extra:
+        if len(tags) >= 5:
+            break
+        if tg not in tags:
+            tags.append(tg)
+    return fit("\n".join(body + ["", AI_CTA, x["link"], " ".join(dict.fromkeys(tags[:5]))]), LIMIT)
 
 
 def ai_compose(x, acc, paras):
-    """대표님 프롬프트(threads_prompt.md)로 Gemini 가 쓴 스레드 글. 못 쓰면 None (예전 방식으로 올린다)."""
-    if not os.environ.get("GEMINI_API_KEY", "").strip() or not paras:
+    """대표님 프롬프트(threads_prompt.md)로 Gemini 가 쓴 스레드 글.
+    오류는 기다렸다 다시, 모델이 안 되면 다른 모델로. 키가 없거나 모든 모델이 실패할 때만 None (예전 방식)."""
+    if not os.environ.get("GEMINI_API_KEY", "").strip():
+        print("GEMINI_API_KEY 없음 → 예전 방식")
         return None
-    try:
-        prompt = (ROOT / "threads_prompt.md").read_text(encoding="utf-8") + AI_RULES
-    except OSError:
-        return None
-    src = "\n".join(paras)[:6000]
+    prompt = (ROOT / "threads_prompt.md").read_text(encoding="utf-8") + AI_RULES
+    src = "\n".join(paras)[:6000] if paras else x.get("summary", "")
     ask = f"[주제] {acc['name']}\n\n[블로그 제목]\n{x['title']}\n\n[블로그 본문]\n{src}"
-    for extra in ("", "\n\n(방금 글이 너무 길었어. 이번엔 300자 이내로 더 짧게 써줘.)"):
-        try:
-            res = gemini(f"models/{ai_model()}:generateContent", {
-                "systemInstruction": {"parts": [{"text": prompt}]},
-                "contents": [{"role": "user", "parts": [{"text": ask + extra}]}],
-                "generationConfig": {"temperature": 0.8, "maxOutputTokens": 4096},
-            })
-            raw = "".join(pt.get("text", "") for pt in res["candidates"][0]["content"]["parts"])
-        except Exception as e:
-            print("AI 글쓰기 실패, 예전 방식으로 올립니다:", e)
-            return None
-        text = ai_tidy(raw, x["link"])
-        if text and len(text) <= LIMIT:
-            return text
-        print(f"AI 글 형식·길이 안 맞음({len(text) if text else '형식'}), 다시 시도")
+    for model in ai_models():
+        for extra in ("", "\n\n(방금 글은 형식이 틀렸거나 너무 길었어. 고정 출력 형식 그대로, 300자 이내로 다시 써줘.)"):
+            try:
+                res = gemini(f"models/{model}:generateContent", {
+                    "systemInstruction": {"parts": [{"text": prompt}]},
+                    "contents": [{"role": "user", "parts": [{"text": ask + extra}]}],
+                    "generationConfig": {"temperature": 0.8, "maxOutputTokens": 4096},
+                })
+                raw = "".join(pt.get("text", "") for pt in res["candidates"][0]["content"].get("parts", []))
+            except Exception as e:
+                print(f"{model} 실패 → 다음 모델:", e)
+                break
+            text = ai_tidy(raw, x, acc)
+            if text:
+                print(f"AI 글 완성 ({model}, {len(text)}자)")
+                return text
+            print(f"{model} 글이 비어 있음, 다시 요청")
+    print("::warning title=AI 글쓰기 실패::모든 Gemini 모델이 실패해 예전 방식으로 올렸습니다")
     return None
 
 
