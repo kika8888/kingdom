@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-24 18:23",
+ "updated": "2026-11-24 19:22",
  "items": [
   {
-   "kw": "차은우",
+   "kw": "스테이블코인",
+   "traffic": "500+",
+   "when": "11월 24일 18:00",
+   "news": [
+    {
+     "title": "스테이블코인, 은행 과반 지분 컨소시엄부터 발행 허용 추진",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976382",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "‘은행 주도’ 원화 코인 길 열렸다... 정부, 9년 만에 국내 발행 추진",
+     "url": "https://www.chosun.com/economy/economy_general/2026/11/24/PWWPU27V2VGUNPVBWFCWLDLNUY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "australia vs england",
    "traffic": "200+",
+   "when": "11월 24일 18:00",
+   "news": [
+    {
+     "title": "Australia vs England LIVE: Second T20, Carrara, Queensland - cricket score, commentary & updates",
+     "url": "https://www.bbc.com/sport/cricket/live/cly85gv8qpet",
+     "source": "BBC"
+    },
+    {
+     "title": "AUS vs ENG 2026/27, AUS vs ENG 2nd T20I Match Preview - Last-over MCG finish suggests a series of fine margins",
+     "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-2nd-t20i-1528707/match-preview",
+     "source": "Cricinfo"
+    }
+   ]
+  },
+  {
+   "kw": "박수진",
+   "traffic": "100+",
+   "when": "11월 24일 18:00",
+   "news": [
+    {
+     "title": "배용준·박수진, 하와이 생활 청산하고 귀국…반포 고급 아파트 이사",
+     "url": "https://www.mk.co.kr/news/hot-issues/12217066",
+     "source": "매일경제"
+    },
+    {
+     "title": "'하와이行' 배용준♥박수진, 지난해 서울 목격담 나오더니 결국…귀국설 현실로[SC이슈]",
+     "url": "https://www.chosun.com/entertainments/celebrity/2026/11/24/GMYDOYZUMZTGEODEHFRDSZDGMI/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "카카오모빌리티",
+   "traffic": "200+",
+   "when": "11월 24일 17:50",
+   "news": [
+    {
+     "title": "중복상장 규제 후폭풍…1.5조 국제소송 당한 카카오",
+     "url": "https://www.hankyung.com/article/2026112350741",
+     "source": "한국경제"
+    },
+    {
+     "title": "카카오T 2대 주주 TPG, 美상장 반대한 카카오에 1.5조 소송",
+     "url": "https://www.donga.com/news/Economy/article/all/20261123/135075976/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "서경석",
+   "traffic": "2000+",
+   "when": "11월 24일 17:30",
+   "news": [
+    {
+     "title": "AI 커닝에 소환된 서경석 \"내 한국사 만점도 의심해\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112413420026321",
+     "source": "머니투데이"
+    },
+    {
+     "title": "''IQ 146·서울대 출신' 서경석, AI 부정행위 불똥 \"한국사 시험 만점도 의심하더라\"",
+     "url": "https://www.fnnews.com/news/202611241349554546",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "슈퍼문",
+   "traffic": "200+",
+   "when": "11월 24일 17:30",
+   "news": [
+    {
+     "title": "올들어 가장 밝고 큰 보름달 ‘비버문’",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&key=20261125.22006007794",
+     "source": "국제신문"
+    },
+    {
+     "title": "오늘 밤, 슈퍼문과 플레이아데스 성단이 만난대요",
+     "url": "https://www.chosun.com/kid/kid_science/kid_space/2026/11/23/SFLRTV5U65ASDCLA5HLE4JCFHY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "데블스플랜3 우승자",
+   "traffic": "2000+",
+   "when": "11월 24일 17:30",
+   "news": [
+    {
+     "title": "‘데블스 플랜3’ 오늘(24일) 종영...최종 우승자 누구?",
+     "url": "https://www.mk.co.kr/news/hot-issues/12216785",
+     "source": "매일경제"
+    },
+    {
+     "title": "역대급 과몰입…이도 논란부터 존박 사과까지, ‘데블스 플랜’ 최종 우승자는? [Oh!쎈 이슈]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/24/GU4DSMBTG5RWCZJXME4TAYZUHE/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "차은우",
+   "traffic": "500+",
    "when": "11월 24일 17:20",
    "news": [
     {
@@ -19,155 +138,36 @@
    ]
   },
   {
-   "kw": "김병기",
-   "traffic": "100+",
+   "kw": "달",
+   "traffic": "200+",
+   "when": "11월 24일 17:20",
+   "news": [
+    {
+     "title": "손바닥만한 위성 통신 부품이 한 개 수억원, 174억 투자 대박 낸 스타트업",
+     "url": "https://www.chosun.com/economy/startup_story/2026/11/23/BOPKV6HBTZDXLPUICZV4RYJHGY/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"지구와 달, 레이저로 초고속 연결\"…정부, 2029년 달궤도 통신위성 쏜다",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880454",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "웨스팅하우스",
+   "traffic": "500+",
    "when": "11월 24일 17:10",
    "news": [
     {
-     "title": "[속보] 경찰, '뇌물·자녀 특혜 의혹' 김병기 1년 2개월 만에 불구속 송치",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868151_36918.html",
-     "source": "MBC 뉴스"
+     "title": "폴란드, 내년 초 美 웨스팅하우스와 원전 계약 예정...두산에너빌 수주 기대감 By The Guru",
+     "url": "https://kr.investing.com/news/stock-market-news/article-2188017",
+     "source": "Investing.com 한국어"
     },
     {
-     "title": "[속보]김병기 의원 ‘아들 취업 특혜·뇌물수수 등 혐의’ 불구속 송치···‘용두사미’로 끝난 경찰 수사 1년2개월",
-     "url": "https://www.khan.co.kr/article/202611241440001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "고양시",
-   "traffic": "200+",
-   "when": "11월 24일 16:50",
-   "news": [
-    {
-     "title": "금천구, 인공지능(AI) 영상 '다시 한걸음'으로 청년 취업정책 알렸다",
-     "url": "https://www.yna.co.kr/view/RPR20261124000600353",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "고양시, 관람객 목소리 담은 꽃박람회 영상으로 홍보대상 수상",
-     "url": "https://www.kyeonggi.com/article/20261124580323",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "몸매",
-   "traffic": "200+",
-   "when": "11월 24일 16:50",
-   "news": [
-    {
-     "title": "초상화 486점 분석했더니…300년간 달라진 미인의 몸매",
-     "url": "https://www.chosun.com/economy/tech_it/2026/11/24/KYTS6VXFDFAYFM2WP22LYDZVYE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "미인의 기준, 어떻게 달라졌나...초상화에 드러난 변화들",
-     "url": "https://www.sputnik.kr/news/view/10749",
-     "source": "스푸트니크::sputnik"
-    }
-   ]
-  },
-  {
-   "kw": "화장실",
-   "traffic": "500+",
-   "when": "11월 24일 16:40",
-   "news": [
-    {
-     "title": "휴지로 겹겹이…수능장 화장실 휴지통에 휴대폰, 청소 직원에 들통",
-     "url": "https://www.donga.com/news/Society/article/all/20261124/135080223/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "수능 부정행위 교육부 고발 어제까지 6건‥옷·신발에 휴대전화 숨겨",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868219_36918.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "이관희",
-   "traffic": "1000+",
-   "when": "11월 24일 16:40",
-   "news": [
-    {
-     "title": "'솔지3' 윤하정, 커플 하객 폭로 \"내 결혼식서 예행연습\"",
-     "url": "https://www.newsis.com/view/NISX20261124_0003880634",
-     "source": "뉴시스"
-    },
-    {
-     "title": "\"남의 결혼식장서 예행연습\"..이관희♥유시은, 윤하정 결혼식 '민폐커플' 논란[Oh!쎈 이슈]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GFSDCOLGGZQWENJWGY2DCNTGHA/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "로치",
-   "traffic": "500+",
-   "when": "11월 24일 16:40",
-   "news": [
-    {
-     "title": "T1, 2027시즌 LCK 코치진 완성 [공식]",
-     "url": "https://www.etoday.co.kr/news/view/2652441",
-     "source": "이투데이"
-    },
-    {
-     "title": "T1, ‘로치’ 김강희 감독 선임…엄티·이지훈으로 코치진 구성",
-     "url": "https://www.kukinews.com/article/view/kuk202611240231",
-     "source": "쿠키뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "김새롬",
-   "traffic": "200+",
-   "when": "11월 24일 16:10",
-   "news": [
-    {
-     "title": "\"재혼 생각 늘 있다\"던 김새롬, 깜짝 결혼 발표 \"법적 짝꿍 생겨\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112414551661027",
-     "source": "머니투데이"
-    },
-    {
-     "title": "방송인 김새롬, 비연예인과 재혼…\"오래도록 사랑하겠다\"",
-     "url": "https://www.yna.co.kr/view/AKR20261124150400005",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "이도현",
-   "traffic": "2000+",
-   "when": "11월 24일 16:00",
-   "news": [
-    {
-     "title": "임지연·이도현, 교제 4년 만에 결별…“좋은 동료로 남기로”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721100",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "‘더 글로리 커플’ 이도현·임지연, 공개열애 3년여만에 결별",
-     "url": "https://www.donga.com/news/Society/article/all/20261124/135082155/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "원현주",
-   "traffic": "20000+",
-   "when": "11월 24일 15:20",
-   "news": [
-    {
-     "title": "[속보] 원현주, '불륜 의혹' 양홍원과 결혼식 한 달여 만에 \"이혼 절차 거의 종료\"",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/G5QTCN3EHAZTOZTFMMZGIZRXGU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "양홍원·원현주 결국 파경…\"이혼 절차 거의 종료\"",
-     "url": "https://www.hankyung.com/article/202611247327H",
-     "source": "한국경제"
+     "title": "폴란드 첫 원전, 핵심 설비 추가 조달…2036년 가동 속도전",
+     "url": "https://www.esnews.kr/news/articleView.html?idxno=7496",
+     "source": "에너지안전신문"
     }
    ]
   }
