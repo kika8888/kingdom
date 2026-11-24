@@ -340,8 +340,19 @@ AI_RULES = f"""
 - 마지막 두 줄은 반드시 "{AI_CTA}" 한 줄, 그다음 줄에 해시태그 5개.
 - 첫 번째 해시태그는 글의 핵심 인물 이름이나 핵심 키워드로 한다 (스레드는 첫 태그 하나만 주제로 인식).
 - 범죄·사고·사망·질병 피해·확인 안 된 의혹이나 폭로 소식이면 댓글 유도 질문을 넣지 않고, 추측·비방 없이 확인된 사실만 쓴다.
-- 원문에 없는 사실·수치·발언·경험은 절대 만들지 않는다.
+- 원문에 없는 사실·수치·발언·경험은 절대 만들지 않는다. 숫자(날짜·나이·금액·%·회차)는 원문에 적힌 그대로 쓴다.
+- 사람 이름·작품명·팀명·기관명은 원문 표기 그대로 쓴다 (한 글자도 바꾸지 않는다).
+- 사건을 설명하는 동사·단어는 원문 단어를 그대로 쓴다 (예: '들이받다'를 '받다'로 줄이지 않는다).
+- 출력하기 전에 처음부터 끝까지 한 번 다시 읽고 맞춤법·띄어쓰기·어색한 단어·원문과 다른 내용을 고친 최종본만 출력한다.
 """
+_NUM = re.compile(r"\d[\d,.]*\d|\d")
+
+
+def wrong_numbers(text, src):
+    """AI 글 본문 속 숫자 중 원문에 없는 것 (지어낸 숫자 막기). 주소·해시태그 줄은 빼고 본다."""
+    body = text.split(AI_CTA)[0]
+    have = {n.replace(",", "") for n in _NUM.findall(src)}
+    return [n for n in _NUM.findall(body) if n.replace(",", "").rstrip(".") not in have and len(n) >= 2]
 _ai_model = None
 
 
@@ -395,8 +406,8 @@ def ai_models():
     pick = lambda pat: sorted((n for n in names if re.fullmatch(pat, n)), key=ver, reverse=True)
     flash, lite = pick(r"gemini-\d+(\.\d+)?-flash"), pick(r"gemini-\d+(\.\d+)?-flash-lite")
     # 제일 새 모델은 붐벼서(503·응답 없음) 자주 실패한다 → 새 flash 하나, 가벼운 lite, 안정판 2.5 를 번갈아
-    order = ([os.environ.get("GEMINI_MODEL", "").strip()] + flash[:1] + lite[:1]
-             + [n for n in ("gemini-2.5-flash",) if n in names or not names]
+    order = ([os.environ.get("GEMINI_MODEL", "").strip()] + flash[:1]
+             + [n for n in ("gemini-2.5-flash",) if n in names or not names] + lite[:1]
              + flash[1:2] + lite[1:2] + ["gemini-2.5-flash-lite", "gemini-2.0-flash"])
     _ai_model = [m for m in dict.fromkeys(order) if m and (m in names or not names)][:6] or ["gemini-2.5-flash"]
     print("Gemini 모델 순서:", ", ".join(_ai_model))
@@ -466,32 +477,37 @@ def ai_compose(x, acc, paras):
         return None
     _ai_deadline[0] = time.time() + budget
     try:
-        return _ai_try(prompt, ask, x, acc)
+        return _ai_try(prompt, ask, x, acc, src)
     finally:
         _ai_deadline[0] = 0.0
 
 
-def _ai_try(prompt, ask, x, acc):
+def _ai_try(prompt, ask, x, acc, src):
     for model in ai_models():
         if ai_left() < 15:
             print("AI 시간이 모자라 예전 방식으로")
             break
-        for extra in ("", "\n\n(방금 글은 형식이 틀렸거나 너무 길었어. 고정 출력 형식 그대로, 300자 이내로 다시 써줘.)"):
+        for extra in ("", "\n\n(방금 글은 형식이 틀렸거나 원문에 없는 숫자가 들어갔어. 숫자·이름은 원문 그대로, 고정 출력 형식으로, 300자 이내로 다시 써줘.)"):
             try:
                 res = gemini(f"models/{model}:generateContent", tries=1, body={   # 붐비면 기다리지 말고 바로 다음 모델
                     "systemInstruction": {"parts": [{"text": prompt}]},
                     "contents": [{"role": "user", "parts": [{"text": ask + extra}]}],
-                    "generationConfig": {"temperature": 0.8, "maxOutputTokens": 8192},
+                    "generationConfig": {"temperature": 0.6, "maxOutputTokens": 8192},
                 })
                 raw = "".join(pt.get("text", "") for pt in res["candidates"][0]["content"].get("parts", []))
             except Exception as e:
                 print(f"{model} 실패 → 다음 모델:", e)
                 break
             text = ai_tidy(raw, x, acc)
-            if text:
-                print(f"AI 글 완성 ({model}, {len(text)}자)")
-                return text
-            print(f"{model} 글이 비어 있음, 다시 요청")
+            if not text:
+                print(f"{model} 글이 비어 있음, 다시 요청")
+                continue
+            bad = wrong_numbers(text, x["title"] + "\n" + src)
+            if bad:
+                print(f"{model} 글에 원문에 없는 숫자 {bad} → 다시 요청")
+                continue
+            print(f"AI 글 완성 ({model}, {len(text)}자)")
+            return text
     print("::warning title=AI 글쓰기 실패::모든 Gemini 모델이 실패해 예전 방식으로 올렸습니다")
     return None
 
