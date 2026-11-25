@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-25 09:23",
+ "updated": "2026-11-25 10:23",
  "items": [
   {
+   "kw": "삼성카드",
+   "traffic": "200+",
+   "when": "11월 25일 09:10",
+   "news": [
+    {
+     "title": "삼성카드 주가 상승 중",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3221378&type=&mobile=",
+     "source": "아시아뉴스통신"
+    },
+    {
+     "title": "삼성카드 주가 1,050원 하락 후 장마감",
+     "url": "https://m.anewsa.com/article_sub3.php?number=3220819&type=&mobile=",
+     "source": "아시아뉴스통신"
+    }
+   ]
+  },
+  {
+   "kw": "안세영",
+   "traffic": "5000+",
+   "when": "11월 25일 09:00",
+   "news": [
+    {
+     "title": "'안세영 없으니까 5경기 전부 2-0 우승, 중국은 벌써 자신감 폭발' 왕즈이 향한 기대감...\"안세영과 격차 좁혀졌다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/202611241047772920O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "'세계 최강 AN 휴식할 때…' 中 환호 폭발! '무관의 침묵 깼다' 왕즈이, 홍콩오픈 타이틀 방어 성공 '시즌 두 번째 BWF 우승'",
+     "url": "https://www.sportschosun.com/sports-news/2026-11-23/202611230100139460013060",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
+   "kw": "화성 fc",
+   "traffic": "100+",
+   "when": "11월 25일 08:50",
+   "news": [
+    {
+     "title": "K리그 '팬 프렌들리 클럽상' 3차 투표…26일까지 진행",
+     "url": "https://www.yna.co.kr/view/AKR20261124084800007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'K리그에서 팬들에게 가장 사랑받는 구단은 어디일까' 서울·전북·수원 등 10개 구단, 팬 프렌들리 클럽상 경쟁 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/202611241018777880O",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "국무회의",
+   "traffic": "100+",
+   "when": "11월 25일 08:50",
+   "news": [
+    {
+     "title": "吳 \"특검 민심 말씀 드리겠다\" 李대통령 \"회의 마치겠습니다\"",
+     "url": "https://www.chosun.com/politics/blue_house/2026/11/25/6YPJDV4U45APZO2BHGDGKZQ5PE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "오세훈 “민심 전달하고 싶다” 말하자, 회의 끝내버린 이 대통령",
+     "url": "https://www.joongang.co.kr/article/25481500",
+     "source": "중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "빅테크",
+   "traffic": "2000+",
+   "when": "11월 25일 08:30",
+   "news": [
+    {
+     "title": "내년 몸값 2배 넘게 뛴다...빅테크 참전에 요동치는 HBM 패권",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/24/YA6W5U6NHJAK5JRPGEQKF55NBE/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"10년내 반도체 판 바뀐다 … 양자소재 선점하라\"",
+     "url": "https://www.mk.co.kr/news/it/12217296",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
    "kw": "주주",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 25일 08:20",
    "news": [
     {
@@ -20,7 +105,7 @@
   },
   {
    "kw": "윤이나",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 25일 08:10",
    "news": [
     {
@@ -36,25 +121,8 @@
    ]
   },
   {
-   "kw": "man city vs ssc napoli standings",
-   "traffic": "500+",
-   "when": "11월 25일 08:10",
-   "news": [
-    {
-     "title": "Manchester City Survives Late Equalizer vs Napoli",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/25/NSKPCV7OH5B2PAGGPKG36KA3WM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "Cherki rescues Manchester City in 2-2 draw with Napoli",
-     "url": "https://biz.chosun.com/en/en-sports/2026/11/25/CY2JMIIZBZB3NOU7DZ4M3RP5NY/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
    "kw": "김혜성",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 25일 08:00",
    "news": [
     {
@@ -66,6 +134,23 @@
      "title": "“다저스 약점은 2루수” 김혜성 언급도 안됐다… 보장계약 마지막, 기로에 섰다",
      "url": "https://sports.khan.co.kr/article/202611241424003",
      "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "야닉 시너",
+   "traffic": "200+",
+   "when": "11월 25일 08:00",
+   "news": [
+    {
+     "title": "[테니스] 야닉 시너, 결국 무릎 수술···호주 오픈 출전 불투명",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762118",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "신네르, 결국 오른쪽 무릎 수술⋯내년 호주오픈 출전 불투명",
+     "url": "https://www.etoday.co.kr/news/view/2652613",
+     "source": "이투데이"
     }
    ]
   },
@@ -83,91 +168,6 @@
      "title": "최유정 \"'미스터트롯4' 시청률 28% 돌파하면 트로트 도전할 것\"",
      "url": "https://enews.imbc.com/News/RetrieveNewsInfo/525829",
      "source": "iMBC 연예"
-    }
-   ]
-  },
-  {
-   "kw": "야닉 시너",
-   "traffic": "200+",
-   "when": "11월 25일 08:00",
-   "news": [
-    {
-     "title": "[테니스] 야닉 시너, 결국 무릎 수술···호주 오픈 출전 불투명",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762118",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "'윔블던 우승 후 4개월째 실종' 세계 1위 자리까지 내준 시너, 이번엔 호주 오픈마저 불참 위기 → '무릎 부상 악몽' 언제 끝나나",
-     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=698879",
-     "source": "인터풋볼"
-    }
-   ]
-  },
-  {
-   "kw": "장인화",
-   "traffic": "200+",
-   "when": "11월 25일 07:50",
-   "news": [
-    {
-     "title": "“장인화 회장도 동일 선상서 평가” 포스코 차기 회장 선출 12월 시작",
-     "url": "https://www.thebigdata.co.kr/view.php?ud=202611241502016389570d99e4c8_23",
-     "source": "빅데이터뉴스"
-    },
-    {
-     "title": "명암 뚜렷한 3년…장인화 포스코그룹 회장 연임 '촉각'",
-     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427916",
-     "source": "데일리한국"
-    }
-   ]
-  },
-  {
-   "kw": "thứ hạng của real madrid gặp psv",
-   "traffic": "200+",
-   "when": "11월 25일 07:50",
-   "news": [
-    {
-     "title": "Video bóng đá Real Madrid - PSV: Trút cơn thịnh nộ (Cúp C1)",
-     "url": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-psv-buoc-ngoat-phat-den-cup-c1-c48a1813830.html",
-     "source": "Tin tức 24h"
-    },
-    {
-     "title": "Nhận định bóng đá Real Madrid vs PSV, 03h00 ngày 25/11: Thiên đường thứ 10",
-     "url": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-real-madrid-vs-psv-03h00-ngay-25-11-thien-duong-thu-10-5297622611.html",
-     "source": "Tạp chí Bóng đá"
-    }
-   ]
-  },
-  {
-   "kw": "금융통화위원회",
-   "traffic": "100+",
-   "when": "11월 25일 07:40",
-   "news": [
-    {
-     "title": "마지막 금리인상에 베팅?…외인, 금통위 앞두고 국채선물 대량 매수",
-     "url": "https://www.yna.co.kr/view/AKR20261124171200008",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[곽세연의 프리즘] 한은은 한은 길을 간다",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446369",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "kw": "롯데손해보험",
-   "traffic": "100+",
-   "when": "11월 25일 07:40",
-   "news": [
-    {
-     "title": "롯데손보, 신한 편입 전 90% 무상감자…기본자본 4600억원 확충",
-     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/19/2026111980216.html",
-     "source": "인베스트조선"
-    },
-    {
-     "title": "롯데손해보험, 액면가 100원으로 감액…자본금 2793억 잉여금으로 옮긴다",
-     "url": "https://www.news2day.co.kr/article/20261120500190",
-     "source": "뉴스투데이"
     }
    ]
   }
