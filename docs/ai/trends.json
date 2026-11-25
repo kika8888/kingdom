@@ -1,6 +1,114 @@
 {
- "updated": "2026-11-26 00:23",
+ "updated": "2026-11-26 01:23",
  "items": [
+  {
+   "kw": "qqq",
+   "traffic": "200+",
+   "when": "11월 26일 00:20",
+   "news": [
+    {
+     "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
+     "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/",
+     "source": "TradingView"
+    },
+    {
+     "title": "US Sector Performance: Technology Leads Broad-Based Momentum Rebound as Nine Sectors Advance",
+     "url": "https://kalkine.com/news/premium/us-sector-performance-technology-leads-broad-based-momentum-rebound-as-nine-sectors-advance",
+     "source": "kalkine.com"
+    }
+   ]
+  },
+  {
+   "kw": "성시경",
+   "traffic": "200+",
+   "when": "11월 26일 00:00",
+   "news": [
+    {
+     "title": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
+     "url": "https://www.munhwa.com/article/11634103",
+     "source": "문화일보"
+    },
+    {
+     "title": "[잇슈 컬처] 장성규·최수영·문상민, ‘2026 KBS 연기대상’ MC 호흡",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719552",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "시그널",
+   "traffic": "1000+",
+   "when": "11월 25일 23:50",
+   "news": [
+    {
+     "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
+     "source": "YTN"
+    },
+    {
+     "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
+     "url": "https://sports.khan.co.kr/article/202611240740003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "성유리",
+   "traffic": "1000+",
+   "when": "11월 25일 23:40",
+   "news": [
+    {
+     "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882889",
+     "source": "뉴시스"
+    },
+    {
+     "title": "\"오빠가 의사\"..성유리, 의대 대신 핑클 데뷔..전 과목 '올 수' 성적표 공개",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/G4YDQZTGMM3GIOBYGVSTSZRZMU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "공포지수",
+   "traffic": "100+",
+   "when": "11월 25일 23:40",
+   "news": []
+  },
+  {
+   "kw": "공포탐욕지수",
+   "traffic": "200+",
+   "when": "11월 25일 23:40",
+   "news": [
+    {
+     "title": "업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\"",
+     "url": "https://www.thebigdata.co.kr/view.php?ud=202611231439246548d0a8833aad_23",
+     "source": "빅데이터뉴스"
+    },
+    {
+     "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
+     "url": "https://www.coinreaders.com/273266",
+     "source": "코인리더스"
+    }
+   ]
+  },
+  {
+   "kw": "양준혁",
+   "traffic": "100+",
+   "when": "11월 25일 23:40",
+   "news": [
+    {
+     "title": "이벤트 원조 ‘자선야구대회’ 왜 멈춰섰나",
+     "url": "https://www.koreadaily.com/article/20261125070147086",
+     "source": "미주중앙일보"
+    },
+    {
+     "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
+     "url": "https://biz.heraldcorp.com/article/10948394",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
   {
    "kw": "박보검",
    "traffic": "100+",
@@ -20,7 +128,7 @@
   },
   {
    "kw": "금연",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 25일 22:40",
    "news": [
     {
@@ -49,125 +157,6 @@
      "title": "김정화, 남편과 뉴욕서 첫 부부싸움…경찰까지 출동했다",
      "url": "https://www.newsis.com/view/NISX20261125_0003882970",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "추미애",
-   "traffic": "500+",
-   "when": "11월 25일 22:30",
-   "news": [
-    {
-     "title": "추미애 \"공직자의 판단 기준은 상부 지시 아닌 헌법\"... 새내기 공무원에 강조",
-     "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288477",
-     "source": "OhmyNews"
-    },
-    {
-     "title": "추미애 \"상부 지시보다 헌법 기준으로 판단해야\"…신규 공직자 특강",
-     "url": "https://www.news1.kr/local/gyeonggi/6366005",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "세계의 주인",
-   "traffic": "1000+",
-   "when": "11월 25일 22:20",
-   "news": [
-    {
-     "title": "40주 만에 1위, 청룡이 선택한 남자 오정세 [O! STAR 숏폼]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/25/GQ4DKYRVGA2DOZLDG43GINLDGQ/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "40주 만에 1위 한 ‘만년 2등 가수’…청룡서 당당히 립싱크",
-     "url": "https://sports.khan.co.kr/article/202611252259003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
-   "kw": "acl two",
-   "traffic": "200+",
-   "when": "11월 25일 22:00",
-   "news": [
-    {
-     "title": "Group D: East Bengal FC (IND) 1-0 Al Hussein (JOR)",
-     "url": "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-1-0-al-hussein-jor",
-     "source": "The AFC"
-    },
-    {
-     "title": "Red & Gold History: Jeakson’s 87th-Minute Strike Stuns Al-Hussein In Do-or-Die Thriller To Script India’s First-Ever ACL 2 Win",
-     "url": "https://www.sportscapemagazine.com/blog/red-gold-history-jeaksons-87th-minute-strike-stuns-al-hussein-in-do-or-die-thriller-to-script-indias-first-ever-acl-2-win",
-     "source": "Sportscape Magazine"
-    }
-   ]
-  },
-  {
-   "kw": "일조권",
-   "traffic": "200+",
-   "when": "11월 25일 21:50",
-   "news": [
-    {
-     "title": "[단독] 한강 품고 햇볕 놓친 압구정 … 분양가 또 다른 변수된 '일조권'",
-     "url": "https://www.mk.co.kr/news/realestate/12218429",
-     "source": "매일경제"
-    },
-    {
-     "title": "한강뷰의 그늘 … 압구정 재건축 절반 일조량 부족",
-     "url": "https://www.mk.co.kr/news/realestate/12218455",
-     "source": "매일경제"
-    }
-   ]
-  },
-  {
-   "kw": "청룡영화상 2026",
-   "traffic": "200+",
-   "when": "11월 25일 21:50",
-   "news": [
-    {
-     "title": "청룡영화제 별들의 레드카펫…시상식 MC는 이제훈·한지민",
-     "url": "https://www.yna.co.kr/view/IPT20261125000013365?section=gallery/index",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[포토] 손예진-정해인, 오늘은 더 다정하게",
-     "url": "https://www.chosun.com/entertainments/entertain_photo/2026/11/25/GFTDSNZRMRRTSYLDGVQTENBTME/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "fc서울",
-   "traffic": "100+",
-   "when": "11월 25일 21:50",
-   "news": [
-    {
-     "title": "[공식발표] FC서울 우승 주역 문선민, 구성윤·야잔·클리말라 제쳤다...팬 투표 70%로 10월의 선수 선정",
-     "url": "https://www.chosun.com/sports/football/2026/11/25/MEYDCMRTMM3GGOLGGQ2TSYZWG4/",
-     "source": "조선일보"
-    },
-    {
-     "title": "FC서울 문선민, 팬 투표 70% 득표…10월 최고의 선수 선정",
-     "url": "https://m.segye.com/view/20261125505476",
-     "source": "세계일보"
-    }
-   ]
-  },
-  {
-   "kw": "존리",
-   "traffic": "1000+",
-   "when": "11월 25일 21:30",
-   "news": [
-    {
-     "title": "\"삼전 반값 됐다\" 울상인데…존 리가 콕 집은 '뜻밖의 희소식'",
-     "url": "https://www.hankyung.com/article/2026112599427",
-     "source": "한국경제"
-    },
-    {
-     "title": "“삼성전자 반값됐는데 망했나요?”…존 리가 개미들에게 던진 질문은",
-     "url": "https://www.mk.co.kr/news/business/12218696",
-     "source": "매일경제"
     }
    ]
   }
