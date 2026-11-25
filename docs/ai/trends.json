@@ -1,20 +1,37 @@
 {
- "updated": "2026-11-26 03:23",
+ "updated": "2026-11-26 04:24",
  "items": [
   {
+   "kw": "다나와",
+   "traffic": "500+",
+   "when": "11월 26일 02:30",
+   "news": [
+    {
+     "title": "다나와, 챗GPT에 AI 쇼핑 서비스 연동…실시간 가격·사양 비교",
+     "url": "https://www.yna.co.kr/view/AKR20261125076400030",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "다나와 AI 쇼핑, 클로드 이어 챗GPT 연동",
+     "url": "https://www.etnews.com/20261125000440",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
    "kw": "sabah vs barcelona",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 26일 02:10",
    "news": [
     {
-     "title": "Pronóstico Sabah FA vs Barcelona: ¿Continuarán los visitantes con su racha ganadora?",
-     "url": "https://www.vietnam.vn/es/nhan-dinh-sabah-fa-vs-barcelona-khach-tiep-tuc-bay-cao",
-     "source": "Vietnam.vn"
+     "title": "Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo |Gabriel Jesus sella la goleada para los azulgrana",
+     "url": "https://elpais.com/deportes/futbol/2026-11-25/sabah-fc-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html",
+     "source": "EL PAÍS"
     },
     {
-     "title": "De '¿Quién quiere ser millonario?' a enfrentarse al Barça en Champions",
-     "url": "https://www.marca.com/futbol/champions-league/2026/11/25/quiere-millonario-enfrentarse-barca-champions.html",
-     "source": "MARCA"
+     "title": "El Barça viaja a los confines de la UEFA para enfrentarse al Sabah en Champions",
+     "url": "https://www.rfi.fr/es/m%C3%A1s-noticias/20261125-el-bar%C3%A7a-viaja-a-los-confines-de-la-uefa-para-enfrentarse-al-sabah-en-champions",
+     "source": "RFI"
     }
    ]
   },
@@ -37,41 +54,41 @@
   },
   {
    "kw": "매일경제",
-   "traffic": "1000+",
+   "traffic": "200+",
    "when": "11월 26일 01:40",
    "news": [
     {
-     "title": "하루 만에 314조 원 증발…엔비디아 시총 이틀간 ‘롤러코스터’",
-     "url": "https://news.jtbc.co.kr/article/NB12329686",
-     "source": "JTBC"
+     "title": "비트코인 파동으로 보기, 5만5천 달러 바닥선과 6만4천6백 달러 첫 관문",
+     "url": "https://contents.premium.naver.com/kkk0221/kkkk0321/contents/261125012829486am",
+     "source": "네이버 프리미엄콘텐츠"
     },
     {
-     "title": "뉴욕증시, AI주 매도 우려에 급락…나스닥 장 초반 4%대↓",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722789",
-     "source": "KBS 뉴스"
+     "title": "'항복국면' 본격화…비트코인 손절매, 4년전 FTX 사태 후 최대",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01964726645649328",
+     "source": "마켓인"
     }
    ]
   },
   {
    "kw": "정부",
-   "traffic": "500+",
+   "traffic": "200+",
    "when": "11월 26일 01:10",
    "news": [
     {
-     "title": "미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
-     "url": "https://www.hani.co.kr/arti/international/international_general/1289144.html",
-     "source": "한겨레"
+     "title": "“인공지능으로 지키는 제주”",
+     "url": "https://www.jemin.com/news/articleView.html?idxno=848455",
+     "source": "제민일보"
     },
     {
-     "title": "美 무역대표, 韓 투자 지원 계획 비판…\"실제 수요 없이 공급만 확대\"",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446558",
-     "source": "연합인포맥스"
+     "title": "인천시, 정부 혁신 박람회서 ‘ABC+E’ 전략 알린다",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337863",
+     "source": "인천일보"
     }
    ]
   },
   {
    "kw": "선수",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 26일 01:00",
    "news": [
     {
@@ -83,6 +100,40 @@
      "title": "\"경기 중 머리에 공 맞고 사망\" 18세 유망주, '두개골 골절+내출혈' 비극...\"지금껏 가장 가슴 아픈 소식\" 아르헨 축구계 추모",
      "url": "https://www.chosun.com/sports/world-football/2026/11/18/GI2TQMDGGBSTANZZHBRTSOJZMM/",
      "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "데이비스컵",
+   "traffic": "100+",
+   "when": "11월 26일 00:50",
+   "news": [
+    {
+     "title": "랭킹은 숫자일 뿐… ‘이변의 주인공’ 꿈꾸는 韓 테니스",
+     "url": "https://www.chosun.com/sports/sports_general/2026/11/25/LQJT3FYE55CGFJLZ4UWTZA2C5U/",
+     "source": "조선일보"
+    },
+    {
+     "title": "\"정현 조심하라\" 이탈리아가 콕 찍은 '韓의 복병'... 실제로 기자회견서도 정현에게 질문 쏟아졌다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112416181685671",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "대한광통신",
+   "traffic": "500+",
+   "when": "11월 26일 00:40",
+   "news": [
+    {
+     "title": "대한광통신, 종속회사 티에프오네트웍스 흡수합병",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03791686645649328",
+     "source": "마켓인"
+    },
+    {
+     "title": "대한광통신, 자회사 티에프오네트웍스 흡수합병 결정",
+     "url": "https://www.datatooza.com/article/20261125165640402552ef3a5986_80",
+     "source": "데이터투자"
     }
    ]
   },
@@ -117,57 +168,6 @@
      "title": "[잇슈 컬처] 장성규·최수영·문상민, ‘2026 KBS 연기대상’ MC 호흡",
      "url": "https://news.kbs.co.kr/news/view.do?ncd=8719552",
      "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "시그널",
-   "traffic": "1000+",
-   "when": "11월 25일 23:50",
-   "news": [
-    {
-     "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
-     "source": "YTN"
-    },
-    {
-     "title": "’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611250516386A8",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "성유리",
-   "traffic": "2000+",
-   "when": "11월 25일 23:40",
-   "news": [
-    {
-     "title": "성유리, 중학생 때 모든 과목 '수' 성적표 공개…교수父· 의사 오빠 잇던 수재",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6365969",
-     "source": "뉴스1"
-    },
-    {
-     "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882889",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "양준혁",
-   "traffic": "100+",
-   "when": "11월 25일 23:40",
-   "news": [
-    {
-     "title": "이벤트 원조 ‘자선야구대회’ 왜 멈춰섰나",
-     "url": "https://www.koreadaily.com/article/20261125070147086",
-     "source": "미주중앙일보"
-    },
-    {
-     "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
-     "url": "https://biz.heraldcorp.com/article/10948394",
-     "source": "헤럴드경제"
     }
    ]
   }
