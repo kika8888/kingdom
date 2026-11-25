@@ -1,9 +1,77 @@
 {
- "updated": "2026-11-25 11:19",
+ "updated": "2026-11-25 12:22",
  "items": [
   {
-   "kw": "폭설",
+   "kw": "서훈",
+   "traffic": "500+",
+   "when": "11월 25일 11:00",
+   "news": [
+    {
+     "title": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
+     "url": "https://news.jtbc.co.kr/article/NB12329695",
+     "source": "JTBC"
+    },
+    {
+     "title": "이 대통령 “반인권범죄 가담·내란범죄 수행자 서훈 박탈 당연…역사 교정 계속”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721808",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "연금 개혁",
+   "traffic": "5000+",
+   "when": "11월 25일 10:50",
+   "news": [
+    {
+     "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
+     "url": "https://weekly.khan.co.kr/article/202611250802011",
+     "source": "주간경향"
+    },
+    {
+     "title": "\"국민연금 3년 더 늦게 받는다?\"…정은경, 직접 반박",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01958166645649328&mediaCodeNo=257",
+     "source": "이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "3기 신도시",
    "traffic": "200+",
+   "when": "11월 25일 10:30",
+   "news": [
+    {
+     "title": "부천대장 A2 548세대 청약 청구서 — 59㎡ 6.13억, 계약부터 입주까지 내 돈과 「미정」인 중도금 집단대출",
+     "url": "https://contents.premium.naver.com/plaform/bg/contents/261124235935226yz",
+     "source": "네이버 프리미엄콘텐츠"
+    },
+    {
+     "title": "공공분양도 '고급화'...운동·여가 넘어 돌봄시설까지",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01751526645648344",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "디에고 시메오네",
+   "traffic": "2000+",
+   "when": "11월 25일 10:20",
+   "news": [
+    {
+     "title": "\"이강인이 3번이나 떠먹여 줬는데!\" 스페인도 폭발했다...쇠를로트 '끔찍' 골 결정력에 분통→\"겨울에 어떻게든 매각해야\" - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/24/202611242141770861O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "이강인 후반 교체 출전…아틀레티코, 헤타페에 3대 0 완승",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719908",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "폭설",
+   "traffic": "500+",
    "when": "11월 25일 10:10",
    "news": [
     {
@@ -29,15 +97,15 @@
      "source": "조선일보"
     },
     {
-     "title": "ESPN \"김하성, 디트로이트와 1년 최대 6백만 달러에 계약\"",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6868393_36946.html",
-     "source": "MBC 뉴스"
+     "title": "‘MLB 생존’ 김하성, 디트로이트와 1년 최대 80억원 계약 합의",
+     "url": "https://www.donga.com/news/Sports/article/all/20261125/135085978/1",
+     "source": "동아일보"
     }
    ]
   },
   {
    "kw": "южная корея",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 25일 10:00",
    "news": [
     {
@@ -54,24 +122,24 @@
   },
   {
    "kw": "급여 지원",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 25일 09:50",
    "news": []
   },
   {
    "kw": "atp 월드 투어",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 25일 09:40",
    "news": [
     {
-     "title": "Jodar: From 'watching Alcaraz on TV' to becoming teammates & rivals",
-     "url": "https://www.atptour.com/en/unlocked/articles/jodar-locker-room-code-2026",
-     "source": "ATP Tour"
+     "title": "Consistent Zverev earns final No. 1 ATP ranking despite loss to Alcaraz",
+     "url": "https://www.espn.com/tennis/story/_/id/50572011/zverev-earns-final-no-1-atp-ranking-loss-alcaraz",
+     "source": "ESPN"
     },
     {
-     "title": "Men’s tennis is changing in 2028. From money to the calendar, here’s what to know",
-     "url": "https://www.nytimes.com/athletic/7797722/2026/11/21/tennis-atp-tour-prize-money-bonuses-rankings-calendar/",
-     "source": "The New York Times"
+     "title": "Andy Roddick slams Alexander Zverev’s critics after ATP Finals loss, ‘This is so stupid’",
+     "url": "https://tennishead.net/andy-roddick-slams-alexander-zverevs-critics-after-atp-finals-loss-this-is-so-stupid/",
+     "source": "Tennishead"
     }
    ]
   },
@@ -89,74 +157,6 @@
      "title": "[여전사 풍향계] ‘아디다스 신한카드’ 출시…스토어 10% 할인 外",
      "url": "https://m.ekn.kr/view.php?key=20261124024274089",
      "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "국민은행",
-   "traffic": "500+",
-   "when": "11월 25일 09:40",
-   "news": [
-    {
-     "title": "KB국민은행 \"서울시 11개 구금고 유치…점유율 1위\"",
-     "url": "https://www.yna.co.kr/view/AKR20261125034800002",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "KB국민은행, 서울 11개 자치구 금고 확보…시중은행 중 최다",
-     "url": "https://biz.heraldcorp.com/article/10948417",
-     "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "kw": "부산은행",
-   "traffic": "100+",
-   "when": "11월 25일 09:40",
-   "news": [
-    {
-     "title": "부산은행, 25일 '부산 중진공 정책자금 전용통장' 출시",
-     "url": "https://www.yna.co.kr/view/AKR20261124112900051",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "BNK부산은행, 중진공 정책자금 전용통장 출시…사전 검증·증빙 시스템 연계",
-     "url": "https://www.etnews.com/20261124000289",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "이한범",
-   "traffic": "1000+",
-   "when": "11월 25일 09:30",
-   "news": [
-    {
-     "title": "‘대한민국 국가대표’ 이한범, 초대형 시련 찾아왔다…최근 6경기 단 7분 출전→21세 유망주에게 주전 자리 빼앗겼다",
-     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699064",
-     "source": "인터풋볼"
-    },
-    {
-     "title": "‘대한민국 국가대표 CB' 이한범, 21세 유망주에게 밀렸다...최근 6경기 단 7분 출전",
-     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101217",
-     "source": "포포투"
-    }
-   ]
-  },
-  {
-   "kw": "고소영",
-   "traffic": "500+",
-   "when": "11월 25일 09:30",
-   "news": [
-    {
-     "title": "54세 고소영, 패딩 입더니 “어려 보이려고 너무 노력한 느낌”",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/24/MRSGGZRZG4YTMMRSGAZGCYZYMQ/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "고소영, 49kg 몸무게 당당 공개 \"관리하니까 옷 핏 살아 다 잘 어울려\"",
-     "url": "https://www.koreadaily.com/article/20261124022443512",
-     "source": "미주중앙일보"
     }
    ]
   }
