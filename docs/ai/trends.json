@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-25 16:23",
+ "updated": "2026-11-25 17:22",
  "items": [
   {
-   "kw": "sk하이닉스 채용",
+   "kw": "thanksgiving 2026",
+   "traffic": "200+",
+   "when": "11월 25일 16:00",
+   "news": [
+    {
+     "title": "What stores are open on Thanksgiving and Black Friday 2026? Grocery, drugstores and more | List",
+     "url": "https://abc7ny.com/post/what-stores-are-open-thanksgiving-black-friday-2026-grocery-drugstores-more-list/20071063/",
+     "source": "ABC7 New York"
+    },
+    {
+     "title": "Excited for Black Friday deals? Here's when malls will open in South Florida",
+     "url": "https://www.nbcmiami.com/holidays-in-south-florida/black-friday-deals-malls-hours-south-florida-miami-broward/3892276/",
+     "source": "NBC 6 South Florida"
+    }
+   ]
+  },
+  {
+   "kw": "대한민국 법무부",
    "traffic": "500+",
+   "when": "11월 25일 15:40",
+   "news": [
+    {
+     "title": "코리아넷뉴스 - 법무부, 전자여행허가제 한시 면제 조치 2027년까지 연장",
+     "url": "https://www.korean-culture.org/koreanet/view.do?seq=1056161&page=1&pageSize=10&photoPageSize=6&totalCount=0&searchType=null&searchText=&searchCondition=1&cateCode=",
+     "source": "문화체육관광부 한국문화원"
+    },
+    {
+     "title": "법무부 국적회복 집중 처리로 평균 심사기간 4개월 줄어",
+     "url": "https://www.yna.co.kr/view/AKR20261125043000004",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "하이닉스",
+   "traffic": "500+",
+   "when": "11월 25일 15:40",
+   "news": [
+    {
+     "title": "[속보] 코스피, 6%대 급락 4,697‥전날 급등분 모두 반납",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6868479_36932.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "메모리 전망 꺾이고 긴축 경계감까지…K-증시 긴장 - 머니투데이",
+     "url": "https://www.mt.co.kr/stock/2026/11/25/2026112516555345864",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "sk하이닉스 채용",
+   "traffic": "1000+",
    "when": "11월 25일 15:10",
    "news": [
     {
@@ -29,9 +80,9 @@
      "source": "연합뉴스"
     },
     {
-     "title": "불광역 앞에 최고 45층·4092가구…재개발 정비구역 지정 - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/estate/2026/11/25/2026112511231978368",
-     "source": "머니투데이"
+     "title": "은평구, 불광역세권 4092세대 재개발 정비구역 지정 고시",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883134",
+     "source": "뉴시스"
     }
    ]
   },
@@ -63,32 +114,15 @@
      "source": "Korea JoongAng Daily"
     },
     {
-     "title": "트럼프 \"젠슨 황 사면 선택지 있어…엔비디아 지분 확보 생각해봤다\"",
-     "url": "https://www.chosun.com/economy/tech_it/2026/11/25/BU6IFJJAQ5BKDNRO3PAWEKUIAQ/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "예멘",
-   "traffic": "1000+",
-   "when": "11월 25일 14:40",
-   "news": [
-    {
-     "title": "후티 예고 없는 공습에 80층 사우디 건물 피해···‘레드라인’ 아덴 진격 코앞",
-     "url": "https://www.khan.co.kr/article/202611251503011",
+     "title": "젠슨 황 “엔비디아, 별도 승계 계획 필요 없어”···‘1인 체제’ 유지 의지",
+     "url": "https://www.khan.co.kr/article/202611251412001",
      "source": "경향신문"
-    },
-    {
-     "title": "과감해진 후티‥사우디 또 피격·예멘 풍전등화",
-     "url": "https://imnews.imbc.com/replay/2026/nw1400/article/6868470_36974.html",
-     "source": "MBC 뉴스"
     }
    ]
   },
   {
    "kw": "박현경",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 25일 14:40",
    "news": [
     {
@@ -100,6 +134,23 @@
      "title": "박현경, 이번주 일본 메이저 우승 도전 [JLPGA 최종전]",
      "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022747",
      "source": "골프한국"
+    }
+   ]
+  },
+  {
+   "kw": "예멘",
+   "traffic": "1000+",
+   "when": "11월 25일 14:40",
+   "news": [
+    {
+     "title": "예멘서 공습에 26명 사망…사우디 고층 건물 또 피격",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721708",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "후티, 예멘 임시수도 아덴 턱밑까지 진격…국제유가 급등 우려",
+     "url": "https://www.donga.com/news/Inter/article/all/20261125/135088229/1",
+     "source": "동아일보"
     }
    ]
   },
@@ -117,57 +168,6 @@
      "title": "결혼식 닷새 만에 불륜 의혹 터지더니…양홍원·원현주, 결국 이혼",
      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861287",
      "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "김지민",
-   "traffic": "5000+",
-   "when": "11월 25일 14:00",
-   "news": [
-    {
-     "title": "'출산 코앞' 김지민, ♥김준호 앞 차려놓은 밥상에 떡하니…만삭 임산부 반전 먹방",
-     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/25/MZSWCOBUGY2DEMRWGYYWKOJXHA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "스타들의 임신·출산 소식|'옥문아' 강재준 \"아들 나와 판박이...출산 당시 의사가 '강재준씨 태어났다' 말했을 정도\"",
-     "url": "https://news.zum.com/photo/62767808/109062829",
-     "source": "ZUM 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "이해인",
-   "traffic": "200+",
-   "when": "11월 25일 14:00",
-   "news": [
-    {
-     "title": "'32억 대출' 40억 건물주 이해인 \"이자만 1400만…매달 400만 적자\"",
-     "url": "https://www.newsis.com/view/NISX20261125_0003881875",
-     "source": "뉴시스"
-    },
-    {
-     "title": "8억으로 40억 건물 산 이해인 \"월 1000만원 수익에도…매달 적자\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112511180588579",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "핫트랙스",
-   "traffic": "200+",
-   "when": "11월 25일 13:50",
-   "news": [
-    {
-     "title": "[단독] ‘음반 사려 장사진’ 이제 못 본다… 교보문고 음반 사업 철수",
-     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CTRN3ZMS35DATFMSUBQSYHS24Q/",
-     "source": "조선일보"
-    },
-    {
-     "title": "비틀스·아이돌 팬들 줄 세우던 광화문 음반 명소 ‘핫트랙스’ 문닫는다",
-     "url": "https://www.donga.com/news/Society/article/all/20261125/135088551/1",
-     "source": "동아일보"
     }
    ]
   }
