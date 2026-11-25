@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-26 01:23",
+ "updated": "2026-11-26 02:25",
  "items": [
+  {
+   "kw": "정부",
+   "traffic": "500+",
+   "when": "11월 26일 01:10",
+   "news": [
+    {
+     "title": "[속보] 미 USTR, 14개 경제주체에 과잉생산 관세···“한국·일본·EU 등은 관세 15% 상한 유지”",
+     "url": "https://www.khan.co.kr/article/202611252226001",
+     "source": "경향신문"
+    },
+    {
+     "title": "美 무역대표, 韓 투자 지원 계획 비판…\"실제 수요 없이 공급만 확대\"",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446558",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "kw": "선수",
+   "traffic": "200+",
+   "when": "11월 26일 01:00",
+   "news": [
+    {
+     "title": "‘포니정 영리더상’에 안세영 선수·김도형 교수",
+     "url": "https://www.khan.co.kr/article/202611252011015",
+     "source": "경향신문"
+    },
+    {
+     "title": "'세계랭킹 1위' 안세영, 현대차 혁신 정신 담은 '포니정 영리더상' 수상",
+     "url": "https://www.newspim.com/news/view/20261126000011",
+     "source": "뉴스핌"
+    }
+   ]
+  },
   {
    "kw": "qqq",
    "traffic": "200+",
@@ -12,9 +46,9 @@
      "source": "TradingView"
     },
     {
-     "title": "US Sector Performance: Technology Leads Broad-Based Momentum Rebound as Nine Sectors Advance",
-     "url": "https://kalkine.com/news/premium/us-sector-performance-technology-leads-broad-based-momentum-rebound-as-nine-sectors-advance",
-     "source": "kalkine.com"
+     "title": "Nasdaq 100 Worst 2-Month Drop Since 2008 as AI Trade Unwinds - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
+     "url": "https://www.benzinga.com/markets/equities/26/11/63637323/nasdaq-100-worst-two-month-drop-since-2008",
+     "source": "Benzinga"
     }
    ]
   },
@@ -54,41 +88,18 @@
   },
   {
    "kw": "성유리",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 25일 23:40",
    "news": [
+    {
+     "title": "성유리, 중학생 때 모든 과목 '수' 성적표 공개…교수父· 의사 오빠 잇던 수재",
+     "url": "https://www.news1.kr/entertain/celebrity-topic/6365969",
+     "source": "뉴스1"
+    },
     {
      "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
      "url": "https://www.newsis.com/view/NISX20261125_0003882889",
      "source": "뉴시스"
-    },
-    {
-     "title": "\"오빠가 의사\"..성유리, 의대 대신 핑클 데뷔..전 과목 '올 수' 성적표 공개",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/G4YDQZTGMM3GIOBYGVSTSZRZMU/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "공포지수",
-   "traffic": "100+",
-   "when": "11월 25일 23:40",
-   "news": []
-  },
-  {
-   "kw": "공포탐욕지수",
-   "traffic": "200+",
-   "when": "11월 25일 23:40",
-   "news": [
-    {
-     "title": "업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\"",
-     "url": "https://www.thebigdata.co.kr/view.php?ud=202611231439246548d0a8833aad_23",
-     "source": "빅데이터뉴스"
-    },
-    {
-     "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
-     "url": "https://www.coinreaders.com/273266",
-     "source": "코인리더스"
     }
    ]
   },
@@ -110,6 +121,29 @@
    ]
   },
   {
+   "kw": "공포탐욕지수",
+   "traffic": "200+",
+   "when": "11월 25일 23:40",
+   "news": [
+    {
+     "title": "업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\"",
+     "url": "https://www.thebigdata.co.kr/view.php?ud=202611231439246548d0a8833aad_23",
+     "source": "빅데이터뉴스"
+    },
+    {
+     "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
+     "url": "https://www.coinreaders.com/273266",
+     "source": "코인리더스"
+    }
+   ]
+  },
+  {
+   "kw": "공포지수",
+   "traffic": "100+",
+   "when": "11월 25일 23:40",
+   "news": []
+  },
+  {
    "kw": "박보검",
    "traffic": "100+",
    "when": "11월 25일 22:50",
@@ -123,40 +157,6 @@
      "title": "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)",
      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MNSDEYRZMQ2DKYRUHAYDANRWHA/",
      "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "금연",
-   "traffic": "200+",
-   "when": "11월 25일 22:40",
-   "news": [
-    {
-     "title": "\"술은 관계와 관계없다\"…음주폐해 예방의 달 기념식",
-     "url": "https://www.yna.co.kr/view/AKR20261125054000530",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "모임·회식 많아지는 연말연시…\"술은 관계와 관계없어요\"",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882164",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "유은성",
-   "traffic": "200+",
-   "when": "11월 25일 22:30",
-   "news": [
-    {
-     "title": "김정화·유은성, 부부싸움에 경찰까지 출동…뉴욕서 무슨 일 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112516172443727",
-     "source": "머니투데이"
-    },
-    {
-     "title": "김정화, 남편과 뉴욕서 첫 부부싸움…경찰까지 출동했다",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882970",
-     "source": "뉴시스"
     }
    ]
   }
