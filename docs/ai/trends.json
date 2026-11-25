@@ -1,6 +1,125 @@
 {
- "updated": "2026-11-26 04:24",
+ "updated": "2026-11-26 05:23",
  "items": [
+  {
+   "kw": "클뤼프 브뤼허 대 리버풀",
+   "traffic": "500+",
+   "when": "11월 26일 04:20",
+   "news": [
+    {
+     "title": "Club Brugge vs Liverpool: UEFA Champions League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c5vg2w2e2gy1t",
+     "source": "BBC"
+    },
+    {
+     "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
+     "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
+     "source": "The Guardian"
+    }
+   ]
+  },
+  {
+   "kw": "psg 대 로마",
+   "traffic": "500+",
+   "when": "11월 26일 04:20",
+   "news": [
+    {
+     "title": "챔피언스리그: 로마는 PSG의 거품을 꺼트릴 수 있을까?",
+     "url": "https://sbotopkr.tistory.com/2701",
+     "source": "티스토리"
+    },
+    {
+     "title": "챔피언에게 주어진 도전.",
+     "url": "https://www.vietnam.vn/ko/thu-thach-cho-nha-vo-dich",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "스포르팅 대 맨유",
+   "traffic": "2000+",
+   "when": "11월 26일 04:10",
+   "news": [
+    {
+     "title": "[챔스 프리뷰] 쿠냐 없이 리스본으로… 포체티노, 첫 승 노린다 | 스탠딩아웃 STANDING OUT",
+     "url": "https://v.daum.net/v/8hpqdGsAlQ",
+     "source": "Daum"
+    },
+    {
+     "title": "스포르팅 CP 파울루 폰세카, 챔피언스리그 경기 하루 앞두고 기자회견",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763258",
+     "source": "국제뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "황윤성",
+   "traffic": "200+",
+   "when": "11월 26일 04:10",
+   "news": [
+    {
+     "title": "\"알고 보니 도련님\"…황윤성, 절친 이찬원도 몰랐던 압도적 규모의 농장주 아들",
+     "url": "https://biz.chosun.com/entertainment/tv/2026/11/25/G43WCZBQMVQTKMJWGMYTGMDEGE/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "황윤성, 父 농장 규모에 깜짝…\"농장이 아니라 거의 마을 구경\"",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6365306",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "슬라비아 프라하 대 비야레알",
+   "traffic": "100+",
+   "when": "11월 26일 03:40",
+   "news": [
+    {
+     "title": "Slavia Prague break Champions League record for winless run with Villarreal defeat",
+     "url": "https://www.bbc.com/sport/football/live/cmdx121dxr1zt",
+     "source": "BBC"
+    },
+    {
+     "title": "Slavia Prague v Villarreal",
+     "url": "https://sports.yahoo.com/soccer/articles/slavia-prague-v-villarreal-153525326.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "kw": "삼성전기",
+   "traffic": "1000+",
+   "when": "11월 26일 03:30",
+   "news": [
+    {
+     "title": "삼성전기, 1.7조원 자사주 소각…주가 상승에 규모 12배↑",
+     "url": "https://www.yna.co.kr/view/AKR20261125166100003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "삼성전기, 11년 보유한 보통주 200만주 소각… 우선주 포함 1조7319억원 규모",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/25/FLRU4Q4W6JGSTLAOY34K5NEBPM/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "한국여자프로골프협회",
+   "traffic": "100+",
+   "when": "11월 26일 02:40",
+   "news": [
+    {
+     "title": "김민솔 대상·상금·신인왕... 신지애 이후 20년만에 ‘신인이 3관왕’",
+     "url": "https://www.chosun.com/sports/golf/2026/11/25/QJUYHZ2MDRFERINWQJFM3T7D7A/",
+     "source": "조선일보"
+    },
+    {
+     "title": "김민솔, 3관왕…KLPGA 최고의 별로 우뚝",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722684",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
   {
    "kw": "다나와",
    "traffic": "500+",
@@ -19,26 +138,9 @@
    ]
   },
   {
-   "kw": "sabah vs barcelona",
-   "traffic": "500+",
-   "when": "11월 26일 02:10",
-   "news": [
-    {
-     "title": "Sabah - FC Barcelona, en directo, el partido de la Champions League en vivo |Gabriel Jesus sella la goleada para los azulgrana",
-     "url": "https://elpais.com/deportes/futbol/2026-11-25/sabah-fc-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html",
-     "source": "EL PAÍS"
-    },
-    {
-     "title": "El Barça viaja a los confines de la UEFA para enfrentarse al Sabah en Champions",
-     "url": "https://www.rfi.fr/es/m%C3%A1s-noticias/20261125-el-bar%C3%A7a-viaja-a-los-confines-de-la-uefa-para-enfrentarse-al-sabah-en-champions",
-     "source": "RFI"
-    }
-   ]
-  },
-  {
-   "kw": "sabah 대 바르셀로나",
-   "traffic": "2000+",
-   "when": "11월 26일 01:50",
+   "kw": "바르셀로나",
+   "traffic": "200+",
+   "when": "11월 26일 02:30",
    "news": [
     {
      "title": "발다스 담브라우스카스, 바르셀로나전 앞두고 바쿠서 기자회견",
@@ -53,121 +155,19 @@
    ]
   },
   {
-   "kw": "매일경제",
-   "traffic": "200+",
-   "when": "11월 26일 01:40",
-   "news": [
-    {
-     "title": "비트코인 파동으로 보기, 5만5천 달러 바닥선과 6만4천6백 달러 첫 관문",
-     "url": "https://contents.premium.naver.com/kkk0221/kkkk0321/contents/261125012829486am",
-     "source": "네이버 프리미엄콘텐츠"
-    },
-    {
-     "title": "'항복국면' 본격화…비트코인 손절매, 4년전 FTX 사태 후 최대",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01964726645649328",
-     "source": "마켓인"
-    }
-   ]
-  },
-  {
-   "kw": "정부",
-   "traffic": "200+",
-   "when": "11월 26일 01:10",
-   "news": [
-    {
-     "title": "“인공지능으로 지키는 제주”",
-     "url": "https://www.jemin.com/news/articleView.html?idxno=848455",
-     "source": "제민일보"
-    },
-    {
-     "title": "인천시, 정부 혁신 박람회서 ‘ABC+E’ 전략 알린다",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337863",
-     "source": "인천일보"
-    }
-   ]
-  },
-  {
-   "kw": "선수",
+   "kw": "sabah vs barcelona",
    "traffic": "500+",
-   "when": "11월 26일 01:00",
+   "when": "11월 26일 02:10",
    "news": [
     {
-     "title": "훈련 중인 축구선수, 낙뢰 맞고 숨져…동료도 부상",
-     "url": "https://www.sportschosun.com/football/2026-11-25/202611250100153640014135",
-     "source": "스포츠조선"
+     "title": "Video | Otro golazo de Anthony Gordon en el Sabah - Barcelona en Champions League",
+     "url": "https://www.minuto60.com/deportes/video-golazo-anthony-gordon-sabah-barcelona-champ/19587",
+     "source": "Minuto60"
     },
     {
-     "title": "\"경기 중 머리에 공 맞고 사망\" 18세 유망주, '두개골 골절+내출혈' 비극...\"지금껏 가장 가슴 아픈 소식\" 아르헨 축구계 추모",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/18/GI2TQMDGGBSTANZZHBRTSOJZMM/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "데이비스컵",
-   "traffic": "100+",
-   "when": "11월 26일 00:50",
-   "news": [
-    {
-     "title": "랭킹은 숫자일 뿐… ‘이변의 주인공’ 꿈꾸는 韓 테니스",
-     "url": "https://www.chosun.com/sports/sports_general/2026/11/25/LQJT3FYE55CGFJLZ4UWTZA2C5U/",
-     "source": "조선일보"
-    },
-    {
-     "title": "\"정현 조심하라\" 이탈리아가 콕 찍은 '韓의 복병'... 실제로 기자회견서도 정현에게 질문 쏟아졌다 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/24/2026112416181685671",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "대한광통신",
-   "traffic": "500+",
-   "when": "11월 26일 00:40",
-   "news": [
-    {
-     "title": "대한광통신, 종속회사 티에프오네트웍스 흡수합병",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03791686645649328",
-     "source": "마켓인"
-    },
-    {
-     "title": "대한광통신, 자회사 티에프오네트웍스 흡수합병 결정",
-     "url": "https://www.datatooza.com/article/20261125165640402552ef3a5986_80",
-     "source": "데이터투자"
-    }
-   ]
-  },
-  {
-   "kw": "qqq",
-   "traffic": "200+",
-   "when": "11월 26일 00:20",
-   "news": [
-    {
-     "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
-     "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/",
-     "source": "TradingView"
-    },
-    {
-     "title": "Nasdaq sinks about 4% as AI rout, fresh Trump tariffs spook Wall St",
-     "url": "https://www.koreatimes.co.kr/world/20261126/nasdaq-sinks-about-4-as-ai-rout-fresh-trump-tariffs-spook-wall-st",
-     "source": "The Korea Times"
-    }
-   ]
-  },
-  {
-   "kw": "성시경",
-   "traffic": "200+",
-   "when": "11월 26일 00:00",
-   "news": [
-    {
-     "title": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
-     "url": "https://www.munhwa.com/article/11634103",
-     "source": "문화일보"
-    },
-    {
-     "title": "[잇슈 컬처] 장성규·최수영·문상민, ‘2026 KBS 연기대상’ MC 호흡",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719552",
-     "source": "KBS 뉴스"
+     "title": "De '¿Quién quiere ser millonario?' a enfrentarse al Barça en Champions",
+     "url": "https://www.marca.com/futbol/champions-league/2026/11/25/quiere-millonario-enfrentarse-barca-champions.html",
+     "source": "MARCA"
     }
    ]
   }
