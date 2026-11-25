@@ -1,20 +1,139 @@
 {
- "updated": "2026-11-25 13:23",
+ "updated": "2026-11-25 14:23",
  "items": [
   {
-   "kw": "공휴일",
-   "traffic": "5000+",
-   "when": "11월 25일 12:20",
+   "kw": "산호세 대 휴스턴 다이너모",
+   "traffic": "100+",
+   "when": "11월 25일 13:20",
    "news": [
     {
-     "title": "'12·3 국민주권의 날' 정부기념일 지정…국민 용기와 행동 기린다",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976397&pWise=sub&pWiseSub=R4",
-     "source": "대한민국 정책브리핑"
+     "title": "San Jose Earthquakes enter uncharted MLS Cup Playoffs territory",
+     "url": "https://www.mlssoccer.com/playoffs/2026/news/san-jose-earthquakes-enter-uncharted-mls-cup-playoffs-territory",
+     "source": "MLSsoccer.com"
     },
+    {
+     "title": "MATCH PREVIEW: Earthquakes host Houston Dynamo in first round of Audi 2026 MLS Cup Playoffs",
+     "url": "https://www.sjearthquakes.com/news/match-preview-earthquakes-host-houston-dynamo-in-first-round-of-audi-2026-mls-cup-playoffs",
+     "source": "San Jose Earthquakes"
+    }
+   ]
+  },
+  {
+   "kw": "miss universe 2026",
+   "traffic": "100+",
+   "when": "11월 25일 13:10",
+   "news": [
+    {
+     "title": "Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free",
+     "url": "https://wwd.com/shop/shop-fashion/watch-miss-universe-2026-livestream-online-free-streaming-1239462551/",
+     "source": "WWD"
+    },
+    {
+     "title": "Miss Universe 2026 celebrates unity and beauty in Puerto Rico",
+     "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2026/11/24/miss-universe-2026-crowns-new-winner-photos/92935065007/",
+     "source": "USA Today"
+    }
+   ]
+  },
+  {
+   "kw": "트레킹",
+   "traffic": "1000+",
+   "when": "11월 25일 13:00",
+   "news": [
+    {
+     "title": "‘거북이는오른다’, 북한산 둘레길 21코스 완주",
+     "url": "https://www.dwbnews.kr/news/articleView.html?idxno=125981",
+     "source": "DWBNEWS"
+    },
+    {
+     "title": "\"해발 1,614m 정상까지 37분이면 도착하네\"... 시니어도 편히 정상 오르는 곤도라·트레킹 코스",
+     "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21994",
+     "source": "아던트뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "김희애",
+   "traffic": "100+",
+   "when": "11월 25일 13:00",
+   "news": [
+    {
+     "title": "‘59세’ 김희애, 자기관리 대단하네…생애 첫 하프 마라톤 완주 [DA★]",
+     "url": "https://sports.donga.com/ent/article/all/20261125/135085175/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "59세 김희애, 블랙 드레스에 가죽 장갑…모델 포스",
+     "url": "https://www.newsis.com/view/NISX20261124_0003880299",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "술",
+   "traffic": "5000+",
+   "when": "11월 25일 12:50",
+   "news": [
+    {
+     "title": "'주차 수상하네' 문 열린 순간 냄새 '확' 50대 여성 쫓아가자",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868395_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "\"편의점 직행\" 음주운전자의 수상한 행적 - 영상 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148976405&pWise=sub&pWiseSub=C3",
+     "source": "대한민국 정책브리핑"
+    }
+   ]
+  },
+  {
+   "kw": "오현규",
+   "traffic": "1000+",
+   "when": "11월 25일 12:40",
+   "news": [
+    {
+     "title": "‘韓 국가대표’ 오현규, 베식타스 입단 1년도 안 돼 러시아 무대 향하나…“스파르타크 모스크바와 긴밀하게 접촉 중”",
+     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699157",
+     "source": "인터풋볼"
+    },
+    {
+     "title": "'韓 주전 공격수' 오현규의 대굴욕...주전 경쟁 완전히 밀렸다! 코냐스포르전서 단 '1분' 출전, '경쟁자'는 멀티골→\"동료-감독-팬들 덕분\"",
+     "url": "https://mydaily.co.kr/page/view/2026112314492476641",
+     "source": "마이데일리"
+    }
+   ]
+  },
+  {
+   "kw": "에디차",
+   "traffic": "500+",
+   "when": "11월 25일 12:30",
+   "news": [
+    {
+     "title": "'코리안 좀비' 정찬성 스승 에디 차 사망설 확산…MMA계 애도 물결",
+     "url": "https://www.wikitree.co.kr/articles/1177635",
+     "source": "위키트리"
+    },
+    {
+     "title": "정찬성 지도했던 한국계 UFC 코치 별세 비보…UFC 파이터도 해설위원도 애도",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021708",
+     "source": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "kw": "공휴일",
+   "traffic": "500+",
+   "when": "11월 25일 12:20",
+   "news": [
     {
      "title": "12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원",
      "url": "https://www.hani.co.kr/arti/politics/politics_general/1288879.html",
      "source": "한겨레"
+    },
+    {
+     "title": "'12·3 국민주권의 날' 정부기념일 지정…국민 용기와 행동 기린다",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976397&pWise=sub&pWiseSub=R4",
+     "source": "대한민국 정책브리핑"
     }
    ]
   },
@@ -37,128 +156,9 @@
   },
   {
    "kw": "대전광역시",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 25일 12:10",
    "news": []
-  },
-  {
-   "kw": "홍익표",
-   "traffic": "200+",
-   "when": "11월 25일 12:10",
-   "news": [
-    {
-     "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려",
-     "url": "https://www.chosun.com/politics/assembly/2026/11/25/IIJNLNP45NFGZKCN5H3XQ7PLMU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "게임이용자협회, 강유정 문체부 장관 후보자 지명 환영... “이용자 목소리 반영 기대”",
-     "url": "https://www.etnews.com/20261125000247",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "제강",
-   "traffic": "100+",
-   "when": "11월 25일 12:10",
-   "news": [
-    {
-     "title": "[게시판] 동국제강그룹, 아름다운가게와 20번째 '아름다운하루' 행사",
-     "url": "https://www.yna.co.kr/view/AKR20261124145500003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "장세욱 동국제강 부회장 \"철근 구조조정, 자체 추진 한계\" - 머니투데이",
-     "url": "https://www.mt.co.kr/industry/2026/11/24/2026112413234025676",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "반도체",
-   "traffic": "20000+",
-   "when": "11월 25일 11:30",
-   "news": [
-    {
-     "title": "젠슨황 약발 하루만에...나스닥 다시 급락 [월가월부]",
-     "url": "https://www.mk.co.kr/news/economy/12217655",
-     "source": "매일경제"
-    },
-    {
-     "title": "하루 만에 314조 원 증발…엔비디아 시총 이틀간 ‘롤러코스터’",
-     "url": "https://news.jtbc.co.kr/article/NB12329686",
-     "source": "JTBC"
-    }
-   ]
-  },
-  {
-   "kw": "한국대학신문",
-   "traffic": "100+",
-   "when": "11월 25일 11:20",
-   "news": [
-    {
-     "title": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
-     "url": "https://sjbnews.com/news/news.php?number=893393&year=2026",
-     "source": "새전북신문"
-    },
-    {
-     "title": "서울대, 2년 연속 아시아 1위… 국내 100위권은 서울대·고려대뿐[2027 QS 세계대학 지속가능성 평가]",
-     "url": "https://news.unn.net/news/articleView.html?idxno=600953",
-     "source": "한국대학신문"
-    }
-   ]
-  },
-  {
-   "kw": "서훈",
-   "traffic": "1000+",
-   "when": "11월 25일 11:00",
-   "news": [
-    {
-     "title": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
-     "url": "https://news.jtbc.co.kr/article/NB12329695",
-     "source": "JTBC"
-    },
-    {
-     "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6868370_36911.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "연금 개혁",
-   "traffic": "10000+",
-   "when": "11월 25일 10:50",
-   "news": [
-    {
-     "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
-     "url": "https://weekly.khan.co.kr/article/202611250802011",
-     "source": "주간경향"
-    },
-    {
-     "title": "\"국민연금 3년 더 늦게 받는다?\"…정은경, 직접 반박",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01958166645649328&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "3기 신도시",
-   "traffic": "500+",
-   "when": "11월 25일 10:30",
-   "news": [
-    {
-     "title": "부천대장 A2 548세대 청약 청구서 — 59㎡ 6.13억, 계약부터 입주까지 내 돈과 「미정」인 중도금 집단대출",
-     "url": "https://contents.premium.naver.com/plaform/bg/contents/261124235935226yz",
-     "source": "네이버 프리미엄콘텐츠"
-    },
-    {
-     "title": "공공분양도 '고급화'...운동·여가 넘어 돌봄시설까지",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01751526645648344",
-     "source": "마켓인"
-    }
-   ]
   }
  ]
 }
