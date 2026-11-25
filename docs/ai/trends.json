@@ -1,151 +1,173 @@
 {
- "updated": "2026-11-25 22:23",
+ "updated": "2026-11-25 23:23",
  "items": [
   {
-   "kw": "pce 발표",
+   "kw": "u-17 월드컵",
    "traffic": "100+",
+   "when": "11월 25일 22:10",
+   "news": [
+    {
+     "title": "베트남 U17 스타 선수, 국가대표팀 발탁 목표로",
+     "url": "https://www.vietnam.vn/ko/ngoi-sao-u17-viet-nam-dat-muc-tieu-len-doi-tuyen-quoc-gia",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "FIFA는 시 바흐가 벨기에를 상대로 넣은 환상적인 골을 U-17 월드컵 최고의 골 중 하나로 선정했습니다.",
+     "url": "https://www.vietnam.vn/ko/fifa-de-cu-sieu-pham-cua-sy-bach-pha-luoi-bi-vao-top-ban-thang-dep-nhat-u-17-world-cup",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "acl two",
+   "traffic": "200+",
+   "when": "11월 25일 22:00",
+   "news": [
+    {
+     "title": "AFC Champions League Two - Group D: East Bengal FC (IND) 1-0 Al Hussein (JOR)",
+     "url": "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-1-0-al-hussein-jor",
+     "source": "The AFC"
+    },
+    {
+     "title": "Red & Gold History: Jeakson’s 87th-Minute Strike Stuns Al-Hussein In Do-or-Die Thriller To Script India’s First-Ever ACL 2 Win",
+     "url": "https://www.sportscapemagazine.com/blog/red-gold-history-jeaksons-87th-minute-strike-stuns-al-hussein-in-do-or-die-thriller-to-script-indias-first-ever-acl-2-win",
+     "source": "Sportscape Magazine"
+    }
+   ]
+  },
+  {
+   "kw": "fc서울",
+   "traffic": "100+",
+   "when": "11월 25일 21:50",
+   "news": [
+    {
+     "title": "'K1 챔피언' 서울 ACL2 16강 진출 확정 실패...'문선민 퇴장' 페르시브 반둥에 1-3 완패, 내달 2일 멜버른과 운명의 최종전",
+     "url": "https://www.mydaily.co.kr/page/view/2026112522232044467",
+     "source": "마이데일리"
+    },
+    {
+     "title": "FC서울 야잔 \"많은 페르십 반둥 팬들의 응원? 기죽지 않고 우리 플레이 할 것\"",
+     "url": "https://www.sports-g.com/news/articleView.html?idxno=217360",
+     "source": "스포츠니어스"
+    }
+   ]
+  },
+  {
+   "kw": "존리",
+   "traffic": "1000+",
+   "when": "11월 25일 21:30",
+   "news": [
+    {
+     "title": "\"삼전 반값 됐다\" 울상인데…존 리가 콕 집은 '뜻밖의 희소식'",
+     "url": "https://www.hankyung.com/article/2026112599427",
+     "source": "한국경제"
+    },
+    {
+     "title": "“삼성전자 반값됐는데 망했나요?”…존 리가 개미들에게 던진 질문은",
+     "url": "https://www.mk.co.kr/news/business/12218696",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "청룡영화제",
+   "traffic": "1000+",
+   "when": "11월 25일 21:30",
+   "news": [
+    {
+     "title": "박지현,’뉴욕에서 날아온 도미’ [O! STAR 숏폼]",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/G5STSOJQGEZWCZJUGY3DSMBRGM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'왕사남' 박지훈, 청룡영화상 신인남우상 수상",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883514",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "u17 월드컵",
+   "traffic": "200+",
+   "when": "11월 25일 21:30",
+   "news": [
+    {
+     "title": "U17 월드컵 3위 팀 순위: 베트남은 12개국 중 7위를 기록했습니다.",
+     "url": "https://www.vietnam.vn/ko/bang-xep-hang-doi-dung-thu-ba-tai-u17-world-cup-viet-nam-hang-7-12",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "2026 U17 월드컵 U17 베트남 대 U17 말리 축구 경기 일정",
+     "url": "https://ko.laodong.vn/lich-thi-dau/lich-thi-dau-bong-da-u17-viet-nam-vs-u17-mali-tai-giai-u17-world-cup-2026-1806352.ldo",
+     "source": "Laodong.vn"
+    }
+   ]
+  },
+  {
+   "kw": "신민아",
+   "traffic": "200+",
+   "when": "11월 25일 21:30",
+   "news": [
+    {
+     "title": "[ET포토] 신민아, '아름다움이란 단어로는 모자라'",
+     "url": "https://www.etnews.com/20261125000604",
+     "source": "전자신문"
+    },
+    {
+     "title": "[포토]'청룡영화상' 정호연, 강렬한 레드",
+     "url": "https://www.viva100.com/article/20261125501413",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "bangladesh vs south africa",
+   "traffic": "100+",
+   "when": "11월 25일 21:30",
+   "news": [
+    {
+     "title": "Ball by Ball Commentary & Live Score - SA vs BAN, 2nd Test",
+     "url": "https://www.cricinfo.com/series/bangladesh-in-south-africa-2026-27-1525637/south-africa-vs-bangladesh-2nd-test-1525663/ball-by-ball-commentary",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Ackerman goes where others fear to tread",
+     "url": "https://www.cricbuzz.com/cricket-news/141047/ackerman-goes-where-others-fear-to-tread-cricbuzzcom",
+     "source": "Cricbuzz"
+    }
+   ]
+  },
+  {
+   "kw": "캐시워크 정답",
+   "traffic": "100+",
+   "when": "11월 25일 21:30",
+   "news": [
+    {
+     "title": "[캐시워크 종합] 11월 25일 수요일 오후 2시 현재 출제되고 있는 모든 문제들의 정답은?",
+     "url": "https://www.bizwnews.com/news/articleView.html?idxno=153137",
+     "source": "비즈월드"
+    },
+    {
+     "title": "픽스 파워소닉 드라이기 캐시워크 돈 버는 퀴즈, 정답은?",
+     "url": "https://www.ajunews.com/view/20261123062453527",
+     "source": "아주경제"
+    }
+   ]
+  },
+  {
+   "kw": "pce 발표",
+   "traffic": "200+",
    "when": "11월 25일 21:20",
    "news": [
     {
-     "title": "유럽 증시 상승, 자동차·명품주 강세…미국 PCE 및 연준 금리 인상 주목",
-     "url": "https://kr.investing.com/news/stock-market-news/article-2189930",
+     "title": "영국 FTSE 100 오늘: 소비재 주도 상승, 미국 PCE 발표 대기",
+     "url": "https://kr.investing.com/news/stock-market-news/article-2189925",
      "source": "Investing.com 한국어"
     },
     {
      "title": "[유럽 특징주] 유럽 기업 3분기 이익 25%↑… 4년 만의 최대 실적에 월가 추격",
      "url": "https://www.newspim.com/news/view/20261125000040",
      "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "에콰도르 u-17 대 대한민국 u-17",
-   "traffic": "1000+",
-   "when": "11월 25일 21:10",
-   "news": [
-    {
-     "title": "Ecuador U17 vs South Korea U17: Where to watch, TV channel and live stream at the World Cup U17",
-     "url": "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-ecuador-u17-v-south-korea-u17/bltb0325606a8909305",
-     "source": "Goal.com"
-    },
-    {
-     "title": "Last year, two goals at the World Cup was the goal, but he finished with none → This year, after just two matches, he has already exploded for four... Foreign media also praise him: \"Kim Ji-woo stood out the most\"",
-     "url": "https://www.starnewskorea.com/en/sports/2026/11/23/2026112314515747440",
-     "source": "스타뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "난방",
-   "traffic": "1000+",
-   "when": "11월 25일 20:50",
-   "news": [
-    {
-     "title": "[쏙쏙뉴스] 난방비 폭탄 맞을라, 은퇴 부부는 11월부터 대비합니다",
-     "url": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116758",
-     "source": "OhmyNews"
-    },
-    {
-     "title": "\"보일러 적정온도는 '이 온도'로 맞추세요\"... 겨울철 난방비 줄이는 비결입니다",
-     "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=22022",
-     "source": "아던트뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "조이현",
-   "traffic": "100+",
-   "when": "11월 25일 20:50",
-   "news": []
-  },
-  {
-   "kw": "persib bandung vs fc seoul",
-   "traffic": "500+",
-   "when": "11월 25일 20:40",
-   "news": []
-  },
-  {
-   "kw": "재혼황후",
-   "traffic": "500+",
-   "when": "11월 25일 20:40",
-   "news": [
-    {
-     "title": "45개국 1위 찍은 ’재혼황후’, 오늘 종영",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261125111441Bdd",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "종영 앞둔 ‘재혼황후’ 신민아·이봉련...황후와 시녀장의 깊은 신뢰",
-     "url": "https://www.ytn.co.kr/_sn/0117_202611241515092481",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "백화점",
-   "traffic": "500+",
-   "when": "11월 25일 20:30",
-   "news": [
-    {
-     "title": "\"판타지 세상 거닐어봐요\"…롯데百, 잠실점서 이색 아트 콘텐츠",
-     "url": "https://www.yna.co.kr/view/AKR20261124157000030",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "롯데백화점 잠실 에비뉴엘에서 체험형 전시 개최, 추리게임부터 관람객 교류 행사까지",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452873",
-     "source": "비즈니스포스트"
-    }
-   ]
-  },
-  {
-   "kw": "해군",
-   "traffic": "500+",
-   "when": "11월 25일 20:30",
-   "news": [
-    {
-     "title": "한화오션 \"태국 해군 호위함 우선협상대상자 지위 상실\"",
-     "url": "https://www.yna.co.kr/view/AKR20261125179800003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "'최대 4조 규모' 태국 호위함 사업 다시 원점 '재입찰', 한화오션-HD현대중공업 재격돌 예고",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452801",
-     "source": "비즈니스포스트"
-    }
-   ]
-  },
-  {
-   "kw": "강남",
-   "traffic": "500+",
-   "when": "11월 25일 20:20",
-   "news": [
-    {
-     "title": "가수 비, 920억에 강남 빌딩 샀는데 5년 만에 가격이…'깜짝'",
-     "url": "https://www.hankyung.com/article/202611250217H",
-     "source": "한국경제"
-    },
-    {
-     "title": "김태희는 좋겠네…'빌딩 부자' 비, 강남대로 1400억+신사동 159억",
-     "url": "https://www.news1.kr/entertain/celebrity-topic/6365298",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "은퇴 요원 관리팀",
-   "traffic": "2000+",
-   "when": "11월 25일 19:50",
-   "news": [
-    {
-     "title": "차승원·김도훈, 브로맨스 꽃피울까?…'은퇴요원+관리팀', 포스터 공개",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611250906393953",
-     "source": "YTN"
-    },
-    {
-     "title": "전직·좌천 블랙요원의 은밀한 공조… 차승원ⅹ김도훈 ‘은퇴요원+관리팀’, 새해 첫 포문",
-     "url": "https://www.viva100.com/article/20261125500792",
-     "source": "브릿지경제"
     }
    ]
   }
