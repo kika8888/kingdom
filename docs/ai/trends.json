@@ -1,15 +1,66 @@
 {
- "updated": "2026-11-26 02:25",
+ "updated": "2026-11-26 03:23",
  "items": [
+  {
+   "kw": "sabah vs barcelona",
+   "traffic": "200+",
+   "when": "11월 26일 02:10",
+   "news": [
+    {
+     "title": "Pronóstico Sabah FA vs Barcelona: ¿Continuarán los visitantes con su racha ganadora?",
+     "url": "https://www.vietnam.vn/es/nhan-dinh-sabah-fa-vs-barcelona-khach-tiep-tuc-bay-cao",
+     "source": "Vietnam.vn"
+    },
+    {
+     "title": "De '¿Quién quiere ser millonario?' a enfrentarse al Barça en Champions",
+     "url": "https://www.marca.com/futbol/champions-league/2026/11/25/quiere-millonario-enfrentarse-barca-champions.html",
+     "source": "MARCA"
+    }
+   ]
+  },
+  {
+   "kw": "sabah 대 바르셀로나",
+   "traffic": "2000+",
+   "when": "11월 26일 01:50",
+   "news": [
+    {
+     "title": "발다스 담브라우스카스, 바르셀로나전 앞두고 바쿠서 기자회견",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763239",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "“야말, 집에서 GTA 하려고 UCL 결장했나”…황당 질문에 헛웃음 터뜨렸다",
+     "url": "https://isplus.com/article/view/isp202611250071",
+     "source": "일간스포츠"
+    }
+   ]
+  },
+  {
+   "kw": "매일경제",
+   "traffic": "1000+",
+   "when": "11월 26일 01:40",
+   "news": [
+    {
+     "title": "하루 만에 314조 원 증발…엔비디아 시총 이틀간 ‘롤러코스터’",
+     "url": "https://news.jtbc.co.kr/article/NB12329686",
+     "source": "JTBC"
+    },
+    {
+     "title": "뉴욕증시, AI주 매도 우려에 급락…나스닥 장 초반 4%대↓",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722789",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
   {
    "kw": "정부",
    "traffic": "500+",
    "when": "11월 26일 01:10",
    "news": [
     {
-     "title": "[속보] 미 USTR, 14개 경제주체에 과잉생산 관세···“한국·일본·EU 등은 관세 15% 상한 유지”",
-     "url": "https://www.khan.co.kr/article/202611252226001",
-     "source": "경향신문"
+     "title": "미, 14개국에 과잉생산 관세…“한국 15% 상한 유지”",
+     "url": "https://www.hani.co.kr/arti/international/international_general/1289144.html",
+     "source": "한겨레"
     },
     {
      "title": "美 무역대표, 韓 투자 지원 계획 비판…\"실제 수요 없이 공급만 확대\"",
@@ -24,14 +75,14 @@
    "when": "11월 26일 01:00",
    "news": [
     {
-     "title": "‘포니정 영리더상’에 안세영 선수·김도형 교수",
-     "url": "https://www.khan.co.kr/article/202611252011015",
-     "source": "경향신문"
+     "title": "훈련 중인 축구선수, 낙뢰 맞고 숨져…동료도 부상",
+     "url": "https://www.sportschosun.com/football/2026-11-25/202611250100153640014135",
+     "source": "스포츠조선"
     },
     {
-     "title": "'세계랭킹 1위' 안세영, 현대차 혁신 정신 담은 '포니정 영리더상' 수상",
-     "url": "https://www.newspim.com/news/view/20261126000011",
-     "source": "뉴스핌"
+     "title": "\"경기 중 머리에 공 맞고 사망\" 18세 유망주, '두개골 골절+내출혈' 비극...\"지금껏 가장 가슴 아픈 소식\" 아르헨 축구계 추모",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/18/GI2TQMDGGBSTANZZHBRTSOJZMM/",
+     "source": "조선일보"
     }
    ]
   },
@@ -46,9 +97,9 @@
      "source": "TradingView"
     },
     {
-     "title": "Nasdaq 100 Worst 2-Month Drop Since 2008 as AI Trade Unwinds - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
-     "url": "https://www.benzinga.com/markets/equities/26/11/63637323/nasdaq-100-worst-two-month-drop-since-2008",
-     "source": "Benzinga"
+     "title": "Nasdaq sinks about 4% as AI rout, fresh Trump tariffs spook Wall St",
+     "url": "https://www.koreatimes.co.kr/world/20261126/nasdaq-sinks-about-4-as-ai-rout-fresh-trump-tariffs-spook-wall-st",
+     "source": "The Korea Times"
     }
    ]
   },
@@ -80,9 +131,9 @@
      "source": "YTN"
     },
     {
-     "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
-     "url": "https://sports.khan.co.kr/article/202611240740003",
-     "source": "스포츠경향"
+     "title": "’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611250516386A8",
+     "source": "연합뉴스TV"
     }
    ]
   },
@@ -117,46 +168,6 @@
      "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
      "url": "https://biz.heraldcorp.com/article/10948394",
      "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "kw": "공포탐욕지수",
-   "traffic": "200+",
-   "when": "11월 25일 23:40",
-   "news": [
-    {
-     "title": "업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\"",
-     "url": "https://www.thebigdata.co.kr/view.php?ud=202611231439246548d0a8833aad_23",
-     "source": "빅데이터뉴스"
-    },
-    {
-     "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
-     "url": "https://www.coinreaders.com/273266",
-     "source": "코인리더스"
-    }
-   ]
-  },
-  {
-   "kw": "공포지수",
-   "traffic": "100+",
-   "when": "11월 25일 23:40",
-   "news": []
-  },
-  {
-   "kw": "박보검",
-   "traffic": "100+",
-   "when": "11월 25일 22:50",
-   "news": [
-    {
-     "title": "사라진 고경표, 나타난 조진웅...연예인 직업의식은 어디에 [자막뉴스]",
-     "url": "https://www.ytn.co.kr/_ln/0134_202611251034284891",
-     "source": "YTN"
-    },
-    {
-     "title": "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MNSDEYRZMQ2DKYRUHAYDANRWHA/",
-     "source": "조선일보"
     }
    ]
   }
