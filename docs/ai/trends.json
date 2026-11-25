@@ -1,20 +1,128 @@
 {
- "updated": "2026-11-25 14:23",
+ "updated": "2026-11-25 15:22",
  "items": [
+  {
+   "kw": "김지민",
+   "traffic": "2000+",
+   "when": "11월 25일 14:00",
+   "news": [
+    {
+     "title": "'출산 코앞' 김지민, ♥김준호 앞 차려놓은 밥상에 떡하니…만삭 임산부 반전 먹방",
+     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/25/MZSWCOBUGY2DEMRWGYYWKOJXHA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "스타들의 임신·출산 소식|'옥문아' 강재준 \"아들 나와 판박이...출산 당시 의사가 '강재준씨 태어났다' 말했을 정도\"",
+     "url": "https://news.zum.com/photo/62767808/109062829",
+     "source": "ZUM 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "이해인",
+   "traffic": "200+",
+   "when": "11월 25일 14:00",
+   "news": [
+    {
+     "title": "'32억 대출' 40억 건물주 이해인 \"이자만 1400만…매달 400만 적자\"",
+     "url": "https://www.newsis.com/view/NISX20261125_0003881875",
+     "source": "뉴시스"
+    },
+    {
+     "title": "8억으로 40억 건물 산 이해인 \"월 1000만원 수익에도…매달 적자\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112511180588579",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "핫트랙스",
+   "traffic": "100+",
+   "when": "11월 25일 13:50",
+   "news": [
+    {
+     "title": "‘핫트랙스’ 이젠 역사 속으로…교보문고, 내년 1월부터 음반 사업 전면 철수",
+     "url": "https://www.khan.co.kr/article/202611251134001",
+     "source": "경향신문"
+    },
+    {
+     "title": "[단독] ‘음반 사려 장사진’ 이제 못 본다… 교보문고 음반 사업 철수",
+     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CTRN3ZMS35DATFMSUBQSYHS24Q/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "재산세",
+   "traffic": "1000+",
+   "when": "11월 25일 13:30",
+   "news": [
+    {
+     "title": "오래 비어있던 노후주택을 '폐가'로 보아 '과세대상'에서 뺄 수 있나 [부동산 절세시대]",
+     "url": "https://www.hankyung.com/article/202611018074Q",
+     "source": "한국경제"
+    },
+    {
+     "title": "\"상속주택 종부세, 신고기한 기준으로 납세의무·과세표준 확정해야\"",
+     "url": "https://www.fnnews.com/news/202611201100424666",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "대만",
+   "traffic": "1000+",
+   "when": "11월 25일 13:30",
+   "news": [
+    {
+     "title": "중국 \"트럼프, 대만독립 지지 안 한다 말해\"",
+     "url": "https://imnews.imbc.com/news/2026/world/article/6868456_36925.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "美트럼프-中시진핑 오늘 담판…대중 규제 향방에 韓반도체도 영향권",
+     "url": "https://www.fnnews.com/news/202611191129553356",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "은퇴요원+관리팀",
+   "traffic": "500+",
+   "when": "11월 25일 13:30",
+   "news": [
+    {
+     "title": "차승원·김도훈, 브로맨스 꽃피울까?…'은퇴요원+관리팀', 포스터 공개",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611250906393953",
+     "source": "YTN"
+    },
+    {
+     "title": "차승원 은퇴→세차장 차렸다…김도훈과 비밀 공조 (은퇴요원+관리팀)",
+     "url": "https://sports.donga.com/ent/article/all/20261125/135085168/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
+   "kw": "안랩",
+   "traffic": "200+",
+   "when": "11월 25일 13:30",
+   "news": []
+  },
   {
    "kw": "산호세 대 휴스턴 다이너모",
    "traffic": "100+",
    "when": "11월 25일 13:20",
    "news": [
     {
-     "title": "San Jose Earthquakes enter uncharted MLS Cup Playoffs territory",
-     "url": "https://www.mlssoccer.com/playoffs/2026/news/san-jose-earthquakes-enter-uncharted-mls-cup-playoffs-territory",
-     "source": "MLSsoccer.com"
+     "title": "Earthquakes win playoff debut at PayPal Park over Houston",
+     "url": "https://www.mercurynews.com/2026/11/24/san-jose-earthquakes-mls-playoffs-houston-dynamo-paypal-park/",
+     "source": "The Mercury News"
     },
     {
-     "title": "MATCH PREVIEW: Earthquakes host Houston Dynamo in first round of Audi 2026 MLS Cup Playoffs",
-     "url": "https://www.sjearthquakes.com/news/match-preview-earthquakes-host-houston-dynamo-in-first-round-of-audi-2026-mls-cup-playoffs",
-     "source": "San Jose Earthquakes"
+     "title": "Vieira and Löwen score goals, 'Quakes beat Dynamo 2-1 in Game 1 of best-of-3 series",
+     "url": "https://www.foxsports.com/articles/soccer/vieira-and-lowen-score-goals-quakes-beat-dynamo-21-in-game-1-of-bestof3-series",
+     "source": "FOX Sports"
     }
    ]
   },
@@ -24,14 +132,14 @@
    "when": "11월 25일 13:10",
    "news": [
     {
-     "title": "Where to Watch the Miss Universe 2026 Pageant Streaming Online for Free",
-     "url": "https://wwd.com/shop/shop-fashion/watch-miss-universe-2026-livestream-online-free-streaming-1239462551/",
-     "source": "WWD"
+     "title": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant",
+     "url": "https://www.cnn.com/2026/11/25/style/miss-universe-2026-winner",
+     "source": "CNN"
     },
     {
-     "title": "Miss Universe 2026 celebrates unity and beauty in Puerto Rico",
-     "url": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2026/11/24/miss-universe-2026-crowns-new-winner-photos/92935065007/",
-     "source": "USA Today"
+     "title": "Puerto Rico’s Jennifer Barreto Wins Miss Universe on Home Turf",
+     "url": "https://www.nytimes.com/2026/11/25/us/miss-universe-winner-puerto-rico.html",
+     "source": "The New York Times"
     }
    ]
   },
@@ -41,124 +149,16 @@
    "when": "11월 25일 13:00",
    "news": [
     {
+     "title": "\"해발 255m밖에 안 되는데 숲·암벽·능선 한눈에 보여요\"... 40분 뱃길로 닿는 섬 트레킹 명소",
+     "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=22001",
+     "source": "아던트뉴스"
+    },
+    {
      "title": "‘거북이는오른다’, 북한산 둘레길 21코스 완주",
      "url": "https://www.dwbnews.kr/news/articleView.html?idxno=125981",
      "source": "DWBNEWS"
-    },
-    {
-     "title": "\"해발 1,614m 정상까지 37분이면 도착하네\"... 시니어도 편히 정상 오르는 곤도라·트레킹 코스",
-     "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21994",
-     "source": "아던트뉴스"
     }
    ]
-  },
-  {
-   "kw": "김희애",
-   "traffic": "100+",
-   "when": "11월 25일 13:00",
-   "news": [
-    {
-     "title": "‘59세’ 김희애, 자기관리 대단하네…생애 첫 하프 마라톤 완주 [DA★]",
-     "url": "https://sports.donga.com/ent/article/all/20261125/135085175/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "59세 김희애, 블랙 드레스에 가죽 장갑…모델 포스",
-     "url": "https://www.newsis.com/view/NISX20261124_0003880299",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "술",
-   "traffic": "5000+",
-   "when": "11월 25일 12:50",
-   "news": [
-    {
-     "title": "'주차 수상하네' 문 열린 순간 냄새 '확' 50대 여성 쫓아가자",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868395_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "\"편의점 직행\" 음주운전자의 수상한 행적 - 영상 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148976405&pWise=sub&pWiseSub=C3",
-     "source": "대한민국 정책브리핑"
-    }
-   ]
-  },
-  {
-   "kw": "오현규",
-   "traffic": "1000+",
-   "when": "11월 25일 12:40",
-   "news": [
-    {
-     "title": "‘韓 국가대표’ 오현규, 베식타스 입단 1년도 안 돼 러시아 무대 향하나…“스파르타크 모스크바와 긴밀하게 접촉 중”",
-     "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=699157",
-     "source": "인터풋볼"
-    },
-    {
-     "title": "'韓 주전 공격수' 오현규의 대굴욕...주전 경쟁 완전히 밀렸다! 코냐스포르전서 단 '1분' 출전, '경쟁자'는 멀티골→\"동료-감독-팬들 덕분\"",
-     "url": "https://mydaily.co.kr/page/view/2026112314492476641",
-     "source": "마이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "에디차",
-   "traffic": "500+",
-   "when": "11월 25일 12:30",
-   "news": [
-    {
-     "title": "'코리안 좀비' 정찬성 스승 에디 차 사망설 확산…MMA계 애도 물결",
-     "url": "https://www.wikitree.co.kr/articles/1177635",
-     "source": "위키트리"
-    },
-    {
-     "title": "정찬성 지도했던 한국계 UFC 코치 별세 비보…UFC 파이터도 해설위원도 애도",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021708",
-     "source": "SPOTV NEWS"
-    }
-   ]
-  },
-  {
-   "kw": "공휴일",
-   "traffic": "500+",
-   "when": "11월 25일 12:20",
-   "news": [
-    {
-     "title": "12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원",
-     "url": "https://www.hani.co.kr/arti/politics/politics_general/1288879.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "'12·3 국민주권의 날' 정부기념일 지정…국민 용기와 행동 기린다",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976397&pWise=sub&pWiseSub=R4",
-     "source": "대한민국 정책브리핑"
-    }
-   ]
-  },
-  {
-   "kw": "채권",
-   "traffic": "100+",
-   "when": "11월 25일 12:20",
-   "news": [
-    {
-     "title": "한화투자증권, 채권 순입고 이벤트…최대 50만원 혜택",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882422",
-     "source": "뉴시스"
-    },
-    {
-     "title": "삼성증권, IRP·연금저축 절세 페스타 행사 실시",
-     "url": "https://www.etnews.com/20261125000189",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "대전광역시",
-   "traffic": "1000+",
-   "when": "11월 25일 12:10",
-   "news": []
   }
  ]
 }
