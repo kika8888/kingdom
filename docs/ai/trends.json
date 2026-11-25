@@ -1,9 +1,117 @@
 {
- "updated": "2026-11-25 12:22",
+ "updated": "2026-11-25 13:23",
  "items": [
   {
-   "kw": "서훈",
+   "kw": "공휴일",
+   "traffic": "5000+",
+   "when": "11월 25일 12:20",
+   "news": [
+    {
+     "title": "'12·3 국민주권의 날' 정부기념일 지정…국민 용기와 행동 기린다",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976397&pWise=sub&pWiseSub=R4",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "12·3 국민주권의 날이 “자화자찬 굿판”이라는 나경원",
+     "url": "https://www.hani.co.kr/arti/politics/politics_general/1288879.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "kw": "채권",
+   "traffic": "100+",
+   "when": "11월 25일 12:20",
+   "news": [
+    {
+     "title": "한화투자증권, 채권 순입고 이벤트…최대 50만원 혜택",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882422",
+     "source": "뉴시스"
+    },
+    {
+     "title": "삼성증권, IRP·연금저축 절세 페스타 행사 실시",
+     "url": "https://www.etnews.com/20261125000189",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "대전광역시",
    "traffic": "500+",
+   "when": "11월 25일 12:10",
+   "news": []
+  },
+  {
+   "kw": "홍익표",
+   "traffic": "200+",
+   "when": "11월 25일 12:10",
+   "news": [
+    {
+     "title": "\"강금실? 대통령 생각을 모르겠다\" 與서도 국정원장 후보 지명 우려",
+     "url": "https://www.chosun.com/politics/assembly/2026/11/25/IIJNLNP45NFGZKCN5H3XQ7PLMU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "게임이용자협회, 강유정 문체부 장관 후보자 지명 환영... “이용자 목소리 반영 기대”",
+     "url": "https://www.etnews.com/20261125000247",
+     "source": "전자신문"
+    }
+   ]
+  },
+  {
+   "kw": "제강",
+   "traffic": "100+",
+   "when": "11월 25일 12:10",
+   "news": [
+    {
+     "title": "[게시판] 동국제강그룹, 아름다운가게와 20번째 '아름다운하루' 행사",
+     "url": "https://www.yna.co.kr/view/AKR20261124145500003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "장세욱 동국제강 부회장 \"철근 구조조정, 자체 추진 한계\" - 머니투데이",
+     "url": "https://www.mt.co.kr/industry/2026/11/24/2026112413234025676",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "반도체",
+   "traffic": "20000+",
+   "when": "11월 25일 11:30",
+   "news": [
+    {
+     "title": "젠슨황 약발 하루만에...나스닥 다시 급락 [월가월부]",
+     "url": "https://www.mk.co.kr/news/economy/12217655",
+     "source": "매일경제"
+    },
+    {
+     "title": "하루 만에 314조 원 증발…엔비디아 시총 이틀간 ‘롤러코스터’",
+     "url": "https://news.jtbc.co.kr/article/NB12329686",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "한국대학신문",
+   "traffic": "100+",
+   "when": "11월 25일 11:20",
+   "news": [
+    {
+     "title": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
+     "url": "https://sjbnews.com/news/news.php?number=893393&year=2026",
+     "source": "새전북신문"
+    },
+    {
+     "title": "서울대, 2년 연속 아시아 1위… 국내 100위권은 서울대·고려대뿐[2027 QS 세계대학 지속가능성 평가]",
+     "url": "https://news.unn.net/news/articleView.html?idxno=600953",
+     "source": "한국대학신문"
+    }
+   ]
+  },
+  {
+   "kw": "서훈",
+   "traffic": "1000+",
    "when": "11월 25일 11:00",
    "news": [
     {
@@ -12,15 +120,15 @@
      "source": "JTBC"
     },
     {
-     "title": "이 대통령 “반인권범죄 가담·내란범죄 수행자 서훈 박탈 당연…역사 교정 계속”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8721808",
-     "source": "KBS 뉴스"
+     "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6868370_36911.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
   {
    "kw": "연금 개혁",
-   "traffic": "5000+",
+   "traffic": "10000+",
    "when": "11월 25일 10:50",
    "news": [
     {
@@ -37,7 +145,7 @@
   },
   {
    "kw": "3기 신도시",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 25일 10:30",
    "news": [
     {
@@ -49,114 +157,6 @@
      "title": "공공분양도 '고급화'...운동·여가 넘어 돌봄시설까지",
      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01751526645648344",
      "source": "마켓인"
-    }
-   ]
-  },
-  {
-   "kw": "디에고 시메오네",
-   "traffic": "2000+",
-   "when": "11월 25일 10:20",
-   "news": [
-    {
-     "title": "\"이강인이 3번이나 떠먹여 줬는데!\" 스페인도 폭발했다...쇠를로트 '끔찍' 골 결정력에 분통→\"겨울에 어떻게든 매각해야\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/24/202611242141770861O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "이강인 후반 교체 출전…아틀레티코, 헤타페에 3대 0 완승",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719908",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "폭설",
-   "traffic": "500+",
-   "when": "11월 25일 10:10",
-   "news": [
-    {
-     "title": "[그 영화 어때] 미스터리라더니 미스터리는 어디에, 영화 ‘폭설’",
-     "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CFQWTKDOLFDTBC23ZRS3D5SMXE/",
-     "source": "조선일보"
-    },
-    {
-     "title": "김윤석·구교환 '폭설', 7일 연속 박스오피스 정상 차지",
-     "url": "https://news.tf.co.kr/read/entertain/2393030.htm",
-     "source": "더팩트"
-    }
-   ]
-  },
-  {
-   "kw": "디트로이트 타이거스",
-   "traffic": "500+",
-   "when": "11월 25일 10:00",
-   "news": [
-    {
-     "title": "김하성, 디트로이트서 재기 도전... 1년 500만달러",
-     "url": "https://www.chosun.com/sports/world-baseball/2026/11/25/GYGJHEHQ35B4ROA3TGRE3XHHTU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "‘MLB 생존’ 김하성, 디트로이트와 1년 최대 80억원 계약 합의",
-     "url": "https://www.donga.com/news/Sports/article/all/20261125/135085978/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "южная корея",
-   "traffic": "200+",
-   "when": "11월 25일 10:00",
-   "news": [
-    {
-     "title": "Южная Корея подняла истребители из-за российских военных самолетов. На одном из островов объявили эвакуацию",
-     "url": "https://meduza.io/news/2026/11/24/yuzhnaya-koreya-podnyala-istrebiteli-iz-za-rossiyskih-voennyh-samoletov-na-odnom-iz-ostrovov-ob-yavili-evakuatsiyu",
-     "source": "Meduza"
-    },
-    {
-     "title": "Южная Корея подняла истребители из-за пролета российских военных самолетов",
-     "url": "https://www.interfax.ru/world/1130910",
-     "source": "Интерфакс"
-    }
-   ]
-  },
-  {
-   "kw": "급여 지원",
-   "traffic": "500+",
-   "when": "11월 25일 09:50",
-   "news": []
-  },
-  {
-   "kw": "atp 월드 투어",
-   "traffic": "500+",
-   "when": "11월 25일 09:40",
-   "news": [
-    {
-     "title": "Consistent Zverev earns final No. 1 ATP ranking despite loss to Alcaraz",
-     "url": "https://www.espn.com/tennis/story/_/id/50572011/zverev-earns-final-no-1-atp-ranking-loss-alcaraz",
-     "source": "ESPN"
-    },
-    {
-     "title": "Andy Roddick slams Alexander Zverev’s critics after ATP Finals loss, ‘This is so stupid’",
-     "url": "https://tennishead.net/andy-roddick-slams-alexander-zverevs-critics-after-atp-finals-loss-this-is-so-stupid/",
-     "source": "Tennishead"
-    }
-   ]
-  },
-  {
-   "kw": "국민카드",
-   "traffic": "200+",
-   "when": "11월 25일 09:40",
-   "news": [
-    {
-     "title": "[게시판] 신한카드, 아디다스 첫 글로벌 제휴카드 출시",
-     "url": "https://www.yna.co.kr/view/AKR20261124132800002",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[여전사 풍향계] ‘아디다스 신한카드’ 출시…스토어 10% 할인 外",
-     "url": "https://m.ekn.kr/view.php?key=20261124024274089",
-     "source": "에너지경제신문"
     }
    ]
   }
