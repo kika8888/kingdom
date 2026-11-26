@@ -1,6 +1,57 @@
 {
- "updated": "2026-11-27 02:22",
+ "updated": "2026-11-27 03:22",
  "items": [
+  {
+   "kw": "우크라이나",
+   "traffic": "100+",
+   "when": "11월 27일 02:20",
+   "news": [
+    {
+     "title": "EU 정상들, 우크라 지원안·7년 장기예산 놓고 격론 돌입",
+     "url": "https://www.yna.co.kr/view/AKR20261126193300098",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "\"프랑스 극우 집권 전에 꼭\"…EU, 연말까지 예산안 합의 분투",
+     "url": "https://www.news1.kr/world/europe/6367729",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "베식타시 대 하포엘 베르셰바",
+   "traffic": "200+",
+   "when": "11월 27일 02:10",
+   "news": [
+    {
+     "title": "Bad news for Besiktas, Wenyen Gabriel has torn his ACL",
+     "url": "https://www.eurohoops.net/en/euroleague/2040653/bad-news-for-besiktas-wenyen-gabriel-has-torn-his-acl/",
+     "source": "Eurohoops"
+    },
+    {
+     "title": "Intervention in the Palestinian flag! An incident occurred before the match Beşiktaş will play against the Israeli team",
+     "url": "https://en.haberler.com/intervention-in-the-palestinian-flag-an-incident-2345663/",
+     "source": "Haberler.com"
+    }
+   ]
+  },
+  {
+   "kw": "아마존",
+   "traffic": "100+",
+   "when": "11월 27일 01:20",
+   "news": [
+    {
+     "title": "I found the 84 best Amazon Black Friday deals on AirPods, Bissell vacuums and more",
+     "url": "https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-2026-11-26",
+     "source": "CNN"
+    },
+    {
+     "title": "The top Thanksgiving Black Friday deals: Save up to 70% at Walmart, Amazon, Kate Spade and more",
+     "url": "https://shopping.yahoo.com/deals/breaking-news/live/the-top-thanksgiving-black-friday-deals-save-up-to-70-at-walmart-amazon-kate-spade-and-more-113918155.html",
+     "source": "Yahoo"
+    }
+   ]
+  },
   {
    "kw": "정연",
    "traffic": "100+",
@@ -12,9 +63,9 @@
      "source": "머니투데이"
     },
     {
-     "title": "도합 85년 우정 여행…한지민 \"나이·성별 떠나 친구 됐죠\"",
-     "url": "https://www.yna.co.kr/view/AKR20261126143000005",
-     "source": "연합뉴스"
+     "title": "‘80세’ 김용건, 허리 수술 받았는데 “하루에 만보 걸어..병원 부지런히 다닌다” (‘그사친’)",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/MUZDCMDEMVQWGYZTG5STGZJQGQ/",
+     "source": "조선일보"
     }
    ]
   },
@@ -53,19 +104,36 @@
    ]
   },
   {
+   "kw": "노동쟁의",
+   "traffic": "100+",
+   "when": "11월 26일 23:10",
+   "news": [
+    {
+     "title": "헌재 “다른 노조 파업 지원했다고 처벌한 옛 노동법은 위헌”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723445",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "신군부가 범죄로 규정한 노동자들의 ‘연대’…헌재, 36년 만에 위헌 결정",
+     "url": "https://www.khan.co.kr/article/202611261644001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
    "kw": "크리스 리벤",
    "traffic": "200+",
    "when": "11월 26일 23:10",
    "news": [
     {
-     "title": "\"맞자마자 반칙이라고 생각\" 추성훈에게 맞고 안와골절…'사커킥 맞은 순간' 떠올린 크리스 리벤",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022153",
-     "source": "SPOTV NEWS"
-    },
-    {
      "title": "“용돈 괜찮으니 아프지 마”…폭풍성장 사랑이 ‘은퇴’ 추성훈 응원",
      "url": "https://www.joongang.co.kr/article/25481707",
      "source": "중앙일보"
+    },
+    {
+     "title": "'15세' 추사랑, 벌써 키 172cm..유창한 영어로 국제학교 친구들 소개 ('편스토랑')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/MVSTMOLGHE2TQMLGHFRTMNTCG4/",
+     "source": "조선일보"
     }
    ]
   },
@@ -76,98 +144,30 @@
    "news": [
     {
      "title": "[영상] 기업은행 노장의 분노, 그리고 이소영 딜레마?",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723375",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723375",
      "source": "KBS 뉴스"
     },
     {
-     "title": "마나베 IBK 감독 \"적이 우리 코트에 있다…자멸한 경기\"",
-     "url": "https://www.yna.co.kr/view/AKR20261125179400007",
-     "source": "연합뉴스"
+     "title": "'모마·마미, 13점씩' 도로공사, 6연승 질주",
+     "url": "https://www.ytn.co.kr/_ln/0107_202611252322000702",
+     "source": "YTN"
     }
    ]
   },
   {
-   "kw": "정은경",
-   "traffic": "100+",
-   "when": "11월 26일 22:50",
+   "kw": "김계리",
+   "traffic": "5000+",
+   "when": "11월 26일 23:00",
    "news": [
     {
-     "title": "[동정] 복지장관, 동대문구-우체국 협업 '찾아가는 그냥드림' 점검",
-     "url": "https://www.yna.co.kr/view/AKR20261126150500530",
-     "source": "연합뉴스"
+     "title": "윤석열 ‘계엄 국무회의 위증’ 무죄 확정…대법 “허위 진술 입증 부족”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723131",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "생계 막막할 때 받는 ‘그냥드림’ 아시나요",
-     "url": "https://bravo.etoday.co.kr/view/atc_view/20566",
-     "source": "이투데이"
-    }
-   ]
-  },
-  {
-   "kw": "반도체 메모리",
-   "traffic": "2000+",
-   "when": "11월 26일 22:40",
-   "news": [
-    {
-     "title": "\"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\"",
-     "url": "https://www.yna.co.kr/view/AKR20261126188000009",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446775",
-     "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "kw": "송파구",
-   "traffic": "200+",
-   "when": "11월 26일 22:40",
-   "news": [
-    {
-     "title": "송파청년센터 28일 개관…청년 맞춤형 프로그램 운영",
-     "url": "https://www.yna.co.kr/view/AKR20261126013000004",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[클릭! 자치뉴스] 서울 송파구, 'AI 교육·창업 지원' 청년센터 개관",
-     "url": "https://www.hankookilbo.com/news/article/A2026112609590000892",
-     "source": "한국일보"
-    }
-   ]
-  },
-  {
-   "kw": "u17 việt nam",
-   "traffic": "200+",
-   "when": "11월 26일 22:40",
-   "news": [
-    {
-     "title": "Kết quả bóng đá U17 Việt Nam vs U17 Mali: Cái kết nghiệt ngã",
-     "url": "https://thethao247.vn/190556-ket-qua-bong-da-u17-viet-nam-vs-u17-mali-20h00-hom-nay-26-11-c1-d447313.html",
-     "source": "Thể Thao 247"
-    },
-    {
-     "title": "HLV Mali gọi U17 Việt Nam là \"đội bóng mạnh\", yêu cầu đội nhà cảnh giác",
-     "url": "https://www.24h.com.vn/bong-da/hlv-mali-goi-u17-viet-nam-la-doi-bong-manh-yeu-cau-doi-nha-canh-giac-c48a1814068.html",
-     "source": "Tin tức 24h"
-    }
-   ]
-  },
-  {
-   "kw": "수디르만컵",
-   "traffic": "500+",
-   "when": "11월 26일 22:00",
-   "news": [
-    {
-     "title": "'꿈은 이뤄졌다'배드민턴 메이저대회 '수디르만컵' 한국서 열린다…2029년 대회 개최 확정, 한국 셔틀콕 오랜 숙원 해결 '쾌거'",
-     "url": "https://www.chosun.com/sports/sports_general/2026/11/26/HBRTQZLFMY2WEZBTG5QTOYRTGU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'안세영 독주 견제하려는 것 아닌가' 15점제가 끝이 아니었다…BWF 대격변 공식발표! 세계선수권+국가대항전 싹 바뀐다→\"근거 없는 억측\"",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021959",
-     "source": "SPOTV NEWS"
+     "title": "[속보]윤석열 ‘한덕수 재판 위증 혐의’ 대법서 무죄 확정",
+     "url": "https://www.khan.co.kr/article/202611261047011",
+     "source": "경향신문"
     }
    ]
   }
