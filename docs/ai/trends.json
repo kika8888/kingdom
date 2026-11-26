@@ -1,20 +1,54 @@
 {
- "updated": "2026-11-26 23:24",
+ "updated": "2026-11-27 00:01",
  "items": [
   {
-   "kw": "đội tuyển bóng đá u-17 quốc gia việt nam đấu với u-17 mali",
-   "traffic": "100+",
-   "when": "11월 26일 22:20",
+   "kw": "반도체 메모리",
+   "traffic": "1000+",
+   "when": "11월 26일 22:40",
    "news": [
     {
-     "title": "Trực tiếp bóng đá U17 Việt Nam vs U17 Mali, 20h00 hôm nay 26/11",
-     "url": "https://thethao247.vn/190556-truc-tiep-bong-da-u17-viet-nam-vs-u17-mali-20h00-hom-nay-26-11-c1-d447313.html",
-     "source": "Thể Thao 247"
+     "title": "\"이재용, '반도체 장기구매할게' 머스크에 '그럼 뭘 해줄건데'\"",
+     "url": "https://www.yna.co.kr/view/AKR20261126188000009",
+     "source": "연합뉴스"
     },
     {
-     "title": "HLV Mali gọi U17 Việt Nam là \"đội bóng mạnh\", yêu cầu đội nhà cảnh giác",
-     "url": "https://www.24h.com.vn/bong-da/hlv-mali-goi-u17-viet-nam-la-doi-bong-manh-yeu-cau-doi-nha-canh-giac-c48a1814068.html",
-     "source": "Tin tức 24h"
+     "title": "삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446775",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "kw": "송파구",
+   "traffic": "200+",
+   "when": "11월 26일 22:40",
+   "news": [
+    {
+     "title": "李대통령이 옳았나…송파 집값, 4년만에 역대급 추락했다",
+     "url": "https://www.mk.co.kr/news/realestate/12219258",
+     "source": "매일경제"
+    },
+    {
+     "title": "서울 아파트값 떨어지나? 한강벨트까지 하락세 전환",
+     "url": "https://www.hani.co.kr/arti/economy/property/1289263.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "kw": "u17 việt nam",
+   "traffic": "200+",
+   "when": "11월 26일 22:40",
+   "news": [
+    {
+     "title": "TRỰC TIẾP bóng đá U17 Việt Nam vs U17 Mali - U17 World Cup 2026",
+     "url": "https://vietnamnet.vn/truc-tiep-bong-da-u17-viet-nam-vs-u17-mali-u17-world-cup-2026-2578759.html",
+     "source": "Báo VietNamNet"
+    },
+    {
+     "title": "Việt Nam - Mali: Hy vọng làm nên lịch sử",
+     "url": "https://vnexpress.net/truc-tiep-u17-world-cup-viet-nam-mali-5149345.html",
+     "source": "VnExpress"
     }
    ]
   },
@@ -36,31 +70,25 @@
    ]
   },
   {
-   "kw": "삼성반도체",
-   "traffic": "1000+",
-   "when": "11월 26일 22:00",
+   "kw": "이데일리",
+   "traffic": "2000+",
+   "when": "11월 26일 21:40",
    "news": [
     {
-     "title": "삼성전자, 메모리 개발체제 일원화…시스템LSI 영업 강화",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723664",
-     "source": "KBS 뉴스"
+     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
+     "url": "https://news.jtbc.co.kr/article/NB12329904",
+     "source": "JTBC"
     },
     {
-     "title": "삼성전자, 올해 131명 임원 승진‥반도체 부문에서 70명 대거 발탁",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6868861_36932.html",
-     "source": "MBC 뉴스"
+     "title": "수능 만점 최소 3명이라는데…모두 \"공개 싫다\" 이유가",
+     "url": "https://www.hankyung.com/article/202611261522H",
+     "source": "한국경제"
     }
    ]
   },
   {
-   "kw": "이데일리",
-   "traffic": "500+",
-   "when": "11월 26일 21:40",
-   "news": []
-  },
-  {
    "kw": "올림픽선수기자촌",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 26일 21:40",
    "news": [
     {
@@ -77,7 +105,7 @@
   },
   {
    "kw": "김아현 주식 눈물",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 26일 21:20",
    "news": [
     {
@@ -86,9 +114,9 @@
      "source": "이데일리"
     },
     {
-     "title": "'명픽' 이광수도 정부 비판…\"증시 붕괴, 최소한 노력은 해야\" [지금이뉴스]",
-     "url": "https://www.ytn.co.kr/_ln/0545_202611261520019651",
-     "source": "YTN"
+     "title": "'李대통령 픽' 이광수 \"증시 급락, 많은 국민 꿈 날려\"",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882938",
+     "source": "뉴시스"
     }
    ]
   },
@@ -140,23 +168,6 @@
      "title": "UAE weather forecast: Scattered showers in some island, coastal and western areas, with fog expected overnight",
      "url": "https://www.emirates247.com/uae/uae-weather-forecast-scattered-showers-in-some-island-coastal-and-western-areas-with-fog-expected-overnight/8128",
      "source": "Emirates 24|7"
-    }
-   ]
-  },
-  {
-   "kw": "박장범",
-   "traffic": "100+",
-   "when": "11월 26일 20:40",
-   "news": [
-    {
-     "title": "KBS ‘BBQ 정·관계 티켓 로비’ 보도 막혔다…“초청 명단에 박장범 사장도”",
-     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338727",
-     "source": "미디어오늘"
-    },
-    {
-     "title": "국힘 충북도당 \"축구경기 공짜 관람 이강일, 명확히 해명하라\"",
-     "url": "https://www.fnnews.com/news/202611191444474509",
-     "source": "파이낸셜뉴스"
     }
    ]
   }
