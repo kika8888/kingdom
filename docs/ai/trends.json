@@ -1,9 +1,77 @@
 {
- "updated": "2026-11-26 13:23",
+ "updated": "2026-11-26 13:56",
  "items": [
   {
-   "kw": "k-라면",
+   "kw": "경찰",
+   "traffic": "2000+",
+   "when": "11월 26일 12:50",
+   "news": [
+    {
+     "title": "[속보]경찰, ‘리트 만점자’ 자택과 ‘수능 시험지 보관’ 고교 압수수색",
+     "url": "https://www.khan.co.kr/article/202611261111001",
+     "source": "경향신문"
+    },
+    {
+     "title": "경찰, '리트 만점자 부정 시험 의혹' 법전원협의회에 수사 협조 요청",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868769_36918.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "연금",
+   "traffic": "20000+",
+   "when": "11월 26일 12:40",
+   "news": [
+    {
+     "title": "“국민연금 68세부터?” 정은경 장관, SNS서 ‘괴담’ 진화",
+     "url": "https://bravo.etoday.co.kr/view/atc_view/20605",
+     "source": "이투데이"
+    },
+    {
+     "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
+     "url": "https://weekly.khan.co.kr/article/202611250802011",
+     "source": "주간경향"
+    }
+   ]
+  },
+  {
+   "kw": "조국",
    "traffic": "200+",
+   "when": "11월 26일 12:40",
+   "news": [
+    {
+     "title": "[속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자”",
+     "url": "https://www.kyeonggi.com/article/20261126580059",
+     "source": "경기일보"
+    },
+    {
+     "title": "“공공기관 12곳 부지로 1만8000채 공급”",
+     "url": "https://www.khan.co.kr/article/202611252038005",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "김용빈",
+   "traffic": "200+",
+   "when": "11월 26일 12:40",
+   "news": [
+    {
+     "title": "황신혜·붐, 첫 녹화부터 오열…역대급 시즌 (미스터트롯4)",
+     "url": "https://sports.donga.com/ent/article/all/20261126/135095296/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "'미스터트롯4' 안정환 \"역대 최고 시청률\"…김호영·최유정 공약까지",
+     "url": "https://www.etoday.co.kr/news/view/2652371",
+     "source": "이투데이"
+    }
+   ]
+  },
+  {
+   "kw": "k-라면",
+   "traffic": "500+",
    "when": "11월 26일 12:10",
    "news": [
     {
@@ -37,7 +105,7 @@
   },
   {
    "kw": "은평구",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 26일 11:50",
    "news": [
     {
@@ -71,18 +139,18 @@
   },
   {
    "kw": "광고",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 26일 11:40",
    "news": [
     {
-     "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723278",
-     "source": "KBS 뉴스"
+     "title": "애플 부당 광고 사건 심의 절차 개시",
+     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=459090",
+     "source": "서울Pn"
     },
     {
-     "title": "애플, ‘아이폰 AI 시리’ 기만광고 혐의…역대급 과징금 예고",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645649656",
-     "source": "마켓인"
+     "title": "공정위, 애플 '시리' AI기능 지연…부당광고 혐의 심의 착수",
+     "url": "https://www.etnews.com/20261126000303",
+     "source": "전자신문"
     }
    ]
   },
@@ -97,77 +165,9 @@
      "source": "연합뉴스"
     },
     {
-     "title": "미스 유니버스 75년 만에 첫 ‘엄마 우승자’ 탄생···7세 딸 둔 미 국방부 직원",
-     "url": "https://www.khan.co.kr/article/202611260714001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "불꽃야구",
-   "traffic": "200+",
-   "when": "11월 26일 11:30",
-   "news": [
-    {
-     "title": "박용택 vs 이대호, 고척돔서 펼치는 ‘불꽃 파이터즈 시빌 워’ ('불꽃야구2')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MZRTGYRXMNRTSZDBGYYTEYZTGU/",
-     "source": "조선일보"
-    },
-    {
-     "title": "'불꽃야구2' 박용택 vs 이대호 감독 맞대결…최지만·노시환 출격",
-     "url": "https://www.etoday.co.kr/news/view/2652825",
-     "source": "이투데이"
-    }
-   ]
-  },
-  {
-   "kw": "준법투쟁",
-   "traffic": "500+",
-   "when": "11월 26일 11:30",
-   "news": [
-    {
-     "title": "출근길 지하철에 KTX까지 ‘주의보’…오늘부터 철도노조 준법투쟁 돌입",
-     "url": "https://news.jtbc.co.kr/article/NB12329874",
+     "title": "엄마 ‘미스 유니버스’ 첫 우승…117명 경쟁 뚫고 왕관 [소셜픽]",
+     "url": "https://news.jtbc.co.kr/article/NB12329870",
      "source": "JTBC"
-    },
-    {
-     "title": "\"부장님, 열차가 안 와요\" 출근길 급하게 '반반차'...직장인 속탔다 - 머니투데이",
-     "url": "https://www.mt.co.kr/society/2026/11/26/2026112609563481950",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "문가영",
-   "traffic": "200+",
-   "when": "11월 26일 11:20",
-   "news": [
-    {
-     "title": "[ET포토] 문가영, '새하얀 아름다움'",
-     "url": "https://www.etnews.com/20261126000038",
-     "source": "전자신문"
-    },
-    {
-     "title": "문가영, 베레모 쓰고 이국적 분위기…프랑스에서도 빛난 미모",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261125/135085799/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "의심",
-   "traffic": "2000+",
-   "when": "11월 26일 11:10",
-   "news": [
-    {
-     "title": "[단독] \"강남서도 北 땅굴 발견?\"…의심 제보 쏟아지더니 [전선의 손익계산서]",
-     "url": "https://www.hankyung.com/article/202611233171H",
-     "source": "한국경제"
-    },
-    {
-     "title": "수능 만점 최소 3명 나왔는데…“신원 공개 거부” 쉬쉬하는 이유",
-     "url": "https://www.joongang.co.kr/article/25482149",
-     "source": "중앙일보"
     }
    ]
   }
