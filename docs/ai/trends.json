@@ -1,9 +1,26 @@
 {
- "updated": "2026-11-26 13:56",
+ "updated": "2026-11-26 14:22",
  "items": [
   {
+   "kw": "신동엽",
+   "traffic": "100+",
+   "when": "11월 26일 13:20",
+   "news": [
+    {
+     "title": "[공식] 신동엽·성시경·나연, ‘2026 KBS 연예대상’ MC 확정",
+     "url": "https://sports.donga.com/ent/article/all/20261125/135087899/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "장성규·문상민에 최수영 합류… ‘2026 KBS 연기대상’ 3MC 확정",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3449286",
+     "source": "천지일보"
+    }
+   ]
+  },
+  {
    "kw": "경찰",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 26일 12:50",
    "news": [
     {
@@ -15,40 +32,6 @@
      "title": "경찰, '리트 만점자 부정 시험 의혹' 법전원협의회에 수사 협조 요청",
      "url": "https://imnews.imbc.com/news/2026/society/article/6868769_36918.html",
      "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "연금",
-   "traffic": "20000+",
-   "when": "11월 26일 12:40",
-   "news": [
-    {
-     "title": "“국민연금 68세부터?” 정은경 장관, SNS서 ‘괴담’ 진화",
-     "url": "https://bravo.etoday.co.kr/view/atc_view/20605",
-     "source": "이투데이"
-    },
-    {
-     "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
-     "url": "https://weekly.khan.co.kr/article/202611250802011",
-     "source": "주간경향"
-    }
-   ]
-  },
-  {
-   "kw": "조국",
-   "traffic": "200+",
-   "when": "11월 26일 12:40",
-   "news": [
-    {
-     "title": "[속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자”",
-     "url": "https://www.kyeonggi.com/article/20261126580059",
-     "source": "경기일보"
-    },
-    {
-     "title": "“공공기관 12곳 부지로 1만8000채 공급”",
-     "url": "https://www.khan.co.kr/article/202611252038005",
-     "source": "경향신문"
     }
    ]
   },
@@ -66,6 +49,23 @@
      "title": "'미스터트롯4' 안정환 \"역대 최고 시청률\"…김호영·최유정 공약까지",
      "url": "https://www.etoday.co.kr/news/view/2652371",
      "source": "이투데이"
+    }
+   ]
+  },
+  {
+   "kw": "조국",
+   "traffic": "500+",
+   "when": "11월 26일 12:40",
+   "news": [
+    {
+     "title": "[속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자”",
+     "url": "https://www.kyeonggi.com/article/20261126580059",
+     "source": "경기일보"
+    },
+    {
+     "title": "“공공기관 12곳 부지로 1만8000채 공급”",
+     "url": "https://www.khan.co.kr/article/202611252038005",
+     "source": "경향신문"
     }
    ]
   },
@@ -109,14 +109,14 @@
    "when": "11월 26일 11:50",
    "news": [
     {
-     "title": "용산구, ‘적극행정’ 우수 공무원 6인 선정 [지금 구청은]",
-     "url": "https://biz.heraldcorp.com/article/10950171",
-     "source": "헤럴드경제"
+     "title": "은평구, 지방자치 혁신대상 최우수상…전동보장구 이동안전 체계",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763604",
+     "source": "국제뉴스"
     },
     {
-     "title": "용산구, 적극행정 최우수는 AI로 만든 ‘주택가격 플랫폼’",
-     "url": "https://view.asiae.co.kr/article/2026112608475754094",
-     "source": "아시아경제"
+     "title": "은평구, 보행환경 우선 점검할 후보 권역 16곳 선정",
+     "url": "https://www.fnnews.com/news/202611161514597849",
+     "source": "파이낸셜뉴스"
     }
    ]
   },
@@ -143,14 +143,14 @@
    "when": "11월 26일 11:40",
    "news": [
     {
-     "title": "애플 부당 광고 사건 심의 절차 개시",
-     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=459090",
-     "source": "서울Pn"
+     "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723278",
+     "source": "KBS 뉴스"
     },
     {
-     "title": "공정위, 애플 '시리' AI기능 지연…부당광고 혐의 심의 착수",
-     "url": "https://www.etnews.com/20261126000303",
-     "source": "전자신문"
+     "title": "\"시리 한국어 18개월 지연, 기만 광고\"‥애플, 공정위 심판대에",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6868771_36932.html",
+     "source": "MBC 뉴스"
     }
    ]
   },
