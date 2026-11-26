@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-26 18:23",
+ "updated": "2026-11-26 19:23",
  "items": [
+  {
+   "kw": "부동산",
+   "traffic": "2000+",
+   "when": "11월 26일 18:20",
+   "news": [
+    {
+     "title": "홈플러스 \"인수희망자, 유통사업 운영이 목적\" - 머니투데이",
+     "url": "https://www.mt.co.kr/living/2026/11/26/2026112614030735788",
+     "source": "머니투데이"
+    },
+    {
+     "title": "다시 벼랑 끝…홈플러스, 결국 영업 중단",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126185344vsq",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "디워",
+   "traffic": "500+",
+   "when": "11월 26일 17:30",
+   "news": [
+    {
+     "title": "단독 심형래 '디워', AI 입고 재개봉 한다...예고편 최초 공개",
+     "url": "https://www.ytn.co.kr/_sn/0117_202611231130018667",
+     "source": "YTN"
+    },
+    {
+     "title": "심형래, ‘힉스필드’와 협업해 ‘디워’ 새 버전 제작…30분 분량 AI 영상 추가한다",
+     "url": "https://www.sportsseoul.com/news/read/1651994",
+     "source": "스포츠서울"
+    }
+   ]
+  },
   {
    "kw": "이세영",
    "traffic": "2000+",
@@ -12,15 +46,32 @@
      "source": "YTN"
     },
     {
-     "title": "[인터뷰] 이세영 \"'재혼황후' 라스타 만족도 90%, 시즌2에선 욕 먹고파\"(종합)",
-     "url": "https://www.chosun.com/entertainments/enter_general/2026/11/26/HEZTMYZUG4ZWEZDBG5RTKMJRGY/",
-     "source": "조선일보"
+     "title": "‘새종석’ 도쿄로 날아갔다",
+     "url": "https://sports.khan.co.kr/article/202611261612003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "김희애",
+   "traffic": "100+",
+   "when": "11월 26일 17:10",
+   "news": [
+    {
+     "title": "김희애, 생애 첫 하프 마라톤 완주 \"한 번도 걷지 않아\"",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882325",
+     "source": "뉴시스"
+    },
+    {
+     "title": "김희애가 서는 곳은 어디든 그의 자리가 된다",
+     "url": "https://www.wkorea.com/2026/11/23/%EA%B9%80%ED%9D%AC%EC%95%A0-%EB%8D%94%EB%B8%94%EC%9C%A0-%EB%94%94%EC%A7%80%ED%84%B8-%EC%BB%A4%EB%B2%84/",
+     "source": "W Korea"
     }
    ]
   },
   {
    "kw": "손예진",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 26일 17:00",
    "news": [
     {
@@ -37,7 +88,7 @@
   },
   {
    "kw": "영업 비밀",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 26일 16:50",
    "news": [
     {
@@ -46,9 +97,9 @@
      "source": "특허뉴스"
     },
     {
-     "title": "\"민주당 초광역특구법 저지 투쟁\"",
-     "url": "https://www.newsis.com/view/NISI20261125_0002301866",
-     "source": "뉴시스"
+     "title": "나쁜 일자리라도 줄 테니 시간과 삶 내놓으라? [왜냐면]",
+     "url": "https://www.hani.co.kr/arti/opinion/because/1289160.html",
+     "source": "한겨레"
     }
    ]
   },
@@ -70,25 +121,42 @@
    ]
   },
   {
+   "kw": "2027 학년도 대학 수학 능력 시험",
+   "traffic": "1000+",
+   "when": "11월 26일 16:30",
+   "news": [
+    {
+     "title": "수능 만점 최소 3명이라는데…모두 \"공개 싫다\" 이유가",
+     "url": "https://www.hankyung.com/article/202611261522H",
+     "source": "한국경제"
+    },
+    {
+     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
+     "url": "https://news.jtbc.co.kr/article/NB12329904",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
    "kw": "코레일",
    "traffic": "1000+",
    "when": "11월 26일 16:30",
    "news": [
     {
-     "title": "철도노조 준법 투쟁 여파로 일반 열차 3대 운행 중지",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723502",
-     "source": "KBS 뉴스"
+     "title": "[속보] 코레일 “광역전철 235대 20분 이상 지연…일반열차 4대 운행정지”",
+     "url": "https://www.hani.co.kr/arti/economy/economy_general/1289313.html",
+     "source": "한겨레"
     },
     {
-     "title": "철도노조 '안전운행 투쟁' 돌입…퇴근길 열차 지연 우려",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865426&plink=ORI&cooper=RSS",
-     "source": "news.sbs.co.kr"
+     "title": "\"철도노조 안전운행 투쟁에 광역전철 235대 20분 이상 지연\"(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261126153051063",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "kw": "김시아",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 26일 16:20",
    "news": [
     {
@@ -100,63 +168,6 @@
      "title": "[포토] 배우 이우태, 청담동 나들이",
      "url": "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650229.html",
      "source": "뉴데일리"
-    }
-   ]
-  },
-  {
-   "kw": "이승우",
-   "traffic": "200+",
-   "when": "11월 26일 16:10",
-   "news": [
-    {
-     "title": "격차 이 정도로 커졌나···‘5전 전패에 0골 11실점’ 일본 원정서 ‘벽 느꼈다’ 망신 당한 K리그",
-     "url": "https://www.khan.co.kr/article/202611261438001",
-     "source": "경향신문"
-    },
-    {
-     "title": "이승우, 일본 선수 멱살 잡고 거친 몸싸움…이유 있는 분노?",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126091016eUW",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "36사단",
-   "traffic": "100+",
-   "when": "11월 26일 16:10",
-   "news": []
-  },
-  {
-   "kw": "우재준",
-   "traffic": "100+",
-   "when": "11월 26일 16:10",
-   "news": [
-    {
-     "title": "‘난장판’ 국힘, 공개 회의서 우재준·김민수 충돌…정점식, 자리 박차고 이탈",
-     "url": "https://news.jtbc.co.kr/article/NB12329971",
-     "source": "JTBC"
-    },
-    {
-     "title": "“당 꼬라지하고는” “탈당해라”… 국힘 최고위서 ‘윤리위 내홍’",
-     "url": "https://www.chosun.com/politics/assembly/2026/11/26/UJ3U7E2OLFEIPCXQTFYQBUYSJU/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "김민식",
-   "traffic": "500+",
-   "when": "11월 26일 16:00",
-   "news": [
-    {
-     "title": "프로야구 LG, 2회 우승 포수 김민식 영입",
-     "url": "https://www.joongang.co.kr/article/25482153",
-     "source": "중앙일보"
-    },
-    {
-     "title": "프로야구 LG, SSG 떠난 베테랑 포수 김민식 영입",
-     "url": "https://www.yna.co.kr/view/AKR20261126062000007",
-     "source": "연합뉴스"
     }
    ]
   }
