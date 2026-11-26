@@ -1,9 +1,145 @@
 {
- "updated": "2026-11-26 12:23",
+ "updated": "2026-11-26 13:23",
  "items": [
   {
-   "kw": "문가영",
+   "kw": "k-라면",
+   "traffic": "200+",
+   "when": "11월 26일 12:10",
+   "news": [
+    {
+     "title": "세계가 눈 뜬 K라면 맛…“공장 모자랄 판” 난리에 결국",
+     "url": "https://www.joongang.co.kr/article/25482068",
+     "source": "중앙일보"
+    },
+    {
+     "title": "수출 1조 달러의 빛나는 조연, K-소비재",
+     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458781",
+     "source": "서울Pn"
+    }
+   ]
+  },
+  {
+   "kw": "김희영",
    "traffic": "100+",
+   "when": "11월 26일 12:00",
+   "news": [
+    {
+     "title": "김희영 의원, 충남청소년수련시설협회와 현장 간담회 개최 및 감사패 수상",
+     "url": "https://www.megaccnews.com/news/articleView.html?idxno=19246",
+     "source": "메가충청뉴스"
+    },
+    {
+     "title": "김희영 충남도의원, 청소년시설 현장 간담회 개최… 협회 감사패 받아",
+     "url": "https://asandaily.kr/View.aspx?No=4330848",
+     "source": "아산데일리"
+    }
+   ]
+  },
+  {
+   "kw": "은평구",
+   "traffic": "200+",
+   "when": "11월 26일 11:50",
+   "news": [
+    {
+     "title": "용산구, ‘적극행정’ 우수 공무원 6인 선정 [지금 구청은]",
+     "url": "https://biz.heraldcorp.com/article/10950171",
+     "source": "헤럴드경제"
+    },
+    {
+     "title": "용산구, 적극행정 최우수는 AI로 만든 ‘주택가격 플랫폼’",
+     "url": "https://view.asiae.co.kr/article/2026112608475754094",
+     "source": "아시아경제"
+    }
+   ]
+  },
+  {
+   "kw": "이정재",
+   "traffic": "2000+",
+   "when": "11월 26일 11:40",
+   "news": [
+    {
+     "title": "'사익 추구 의혹' 이정재, 수척한 얼굴로 청룡 무대…\"많이 망설였다\" - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112607173970598",
+     "source": "머니투데이"
+    },
+    {
+     "title": "“배우 안성기와 함께해주셔서 고맙습니다” 아들이 전한 청룡 공로상 소감 [이런뉴스]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723214",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "광고",
+   "traffic": "100+",
+   "when": "11월 26일 11:40",
+   "news": [
+    {
+     "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723278",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "애플, ‘아이폰 AI 시리’ 기만광고 혐의…역대급 과징금 예고",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02797846645649656",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "미스 유니버스",
+   "traffic": "200+",
+   "when": "11월 26일 11:30",
+   "news": [
+    {
+     "title": "엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
+     "url": "https://www.yna.co.kr/view/AKR20261126001600087",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "미스 유니버스 75년 만에 첫 ‘엄마 우승자’ 탄생···7세 딸 둔 미 국방부 직원",
+     "url": "https://www.khan.co.kr/article/202611260714001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "불꽃야구",
+   "traffic": "200+",
+   "when": "11월 26일 11:30",
+   "news": [
+    {
+     "title": "박용택 vs 이대호, 고척돔서 펼치는 ‘불꽃 파이터즈 시빌 워’ ('불꽃야구2')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MZRTGYRXMNRTSZDBGYYTEYZTGU/",
+     "source": "조선일보"
+    },
+    {
+     "title": "'불꽃야구2' 박용택 vs 이대호 감독 맞대결…최지만·노시환 출격",
+     "url": "https://www.etoday.co.kr/news/view/2652825",
+     "source": "이투데이"
+    }
+   ]
+  },
+  {
+   "kw": "준법투쟁",
+   "traffic": "500+",
+   "when": "11월 26일 11:30",
+   "news": [
+    {
+     "title": "출근길 지하철에 KTX까지 ‘주의보’…오늘부터 철도노조 준법투쟁 돌입",
+     "url": "https://news.jtbc.co.kr/article/NB12329874",
+     "source": "JTBC"
+    },
+    {
+     "title": "\"부장님, 열차가 안 와요\" 출근길 급하게 '반반차'...직장인 속탔다 - 머니투데이",
+     "url": "https://www.mt.co.kr/society/2026/11/26/2026112609563481950",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "문가영",
+   "traffic": "200+",
    "when": "11월 26일 11:20",
    "news": [
     {
@@ -12,151 +148,26 @@
      "source": "전자신문"
     },
     {
-     "title": "문가영, 긴 생머리 휘날리는 '국민 구여친'…과감해진 튜브톱 [포토]",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/26/MUYTGZTFGZRDKOJZGRRDGNJXMI/",
-     "source": "Chosunbiz"
+     "title": "문가영, 베레모 쓰고 이국적 분위기…프랑스에서도 빛난 미모",
+     "url": "https://www.donga.com/news/Entertainment/article/all/20261125/135085799/1",
+     "source": "동아일보"
     }
    ]
   },
   {
-   "kw": "학교 폭력",
-   "traffic": "500+",
+   "kw": "의심",
+   "traffic": "2000+",
    "when": "11월 26일 11:10",
    "news": [
     {
-     "title": "제주 해안가서 중학생 숨진채 발견...학교폭력 의혹 경찰 수사",
-     "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602666",
-     "source": "헤드라인제주"
-    },
-    {
-     "title": "제주 중학생 사망…학교폭력 의혹 경찰 조사",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126103213wcw",
-     "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "육아휴직",
-   "traffic": "500+",
-   "when": "11월 26일 10:50",
-   "news": [
-    {
-     "title": "\"직원 출산하면 1000만원\"…파격 복지 내걸자 '놀라운 결과'",
-     "url": "https://www.hankyung.com/article/202611261128g",
+     "title": "[단독] \"강남서도 北 땅굴 발견?\"…의심 제보 쏟아지더니 [전선의 손익계산서]",
+     "url": "https://www.hankyung.com/article/202611233171H",
      "source": "한국경제"
     },
     {
-     "title": "[게시판] NS홈쇼핑, '일·생활 균형 우수기업' 선정",
-     "url": "https://www.yna.co.kr/view/AKR20261126034100030",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "안민석",
-   "traffic": "200+",
-   "when": "11월 26일 10:50",
-   "news": [
-    {
-     "title": "교장 전보 기준 4년 놓고 \"현장 의견 수렴 없이 진행\" 지적",
-     "url": "https://www.yna.co.kr/view/AKR20261125141000061",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "경기도교육청, 31개 시군 교육 현장 ‘의견 청취 완료’",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337834",
-     "source": "인천일보"
-    }
-   ]
-  },
-  {
-   "kw": "에어부산",
-   "traffic": "200+",
-   "when": "11월 26일 10:50",
-   "news": [
-    {
-     "title": "에어부산, 겨울맞이 국제선 28개 노선 특가 행사",
-     "url": "https://www.yna.co.kr/view/AKR20261125113300051",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "에어부산, 겨울맞이 국제선 특가… 일본 편도 8만6900원부터",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261125.99099007927",
-     "source": "국제신문"
-    }
-   ]
-  },
-  {
-   "kw": "민원24",
-   "traffic": "200+",
-   "when": "11월 26일 10:50",
-   "news": []
-  },
-  {
-   "kw": "전기자동차 배터리",
-   "traffic": "200+",
-   "when": "11월 26일 10:40",
-   "news": [
-    {
-     "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
-     "url": "https://www.hankyung.com/article/2026112502651",
-     "source": "한국경제"
-    },
-    {
-     "title": "전기차, 반값에 구매?…'배터리 리스제' 검토",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863854",
-     "source": "SBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "삼성",
-   "traffic": "2000+",
-   "when": "11월 26일 10:30",
-   "news": [
-    {
-     "title": "코스피 1% 오른 4,745.10 개장…코스닥도 1.2%↑",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723040",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "코스피, 하룻 만에 반등...1%대 상승 출발",
-     "url": "https://www.ytn.co.kr/_ln/0102_202611261124292109",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "호랑이",
-   "traffic": "2000+",
-   "when": "11월 26일 10:20",
-   "news": [
-    {
-     "title": "방송용 '반짝스타'였던 아기 호랑이… 목줄과 외로움에 맞서야 했다",
-     "url": "https://www.hankookilbo.com/news/article/A2026112410080002933",
-     "source": "한국일보"
-    },
-    {
-     "title": "호랑이 한마리 4천만원…탐욕이 부른 ‘죽음의 비즈니스’",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722621",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "초전마을",
-   "traffic": "100+",
-   "when": "11월 26일 10:20",
-   "news": [
-    {
-     "title": "태양광으로 마을 살림 바꾸겠다더니‥발전소 짓기까지 '산 넘어 산'",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868368_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "김해에 전국 첫 '햇빛소득마을'…전력 판매 수익으로 복지사업",
-     "url": "https://www.yna.co.kr/view/AKR20261126082700052",
-     "source": "연합뉴스"
+     "title": "수능 만점 최소 3명 나왔는데…“신원 공개 거부” 쉬쉬하는 이유",
+     "url": "https://www.joongang.co.kr/article/25482149",
+     "source": "중앙일보"
     }
    ]
   }
