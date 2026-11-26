@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-26 14:22",
+ "updated": "2026-11-26 15:22",
  "items": [
+  {
+   "kw": "2027학년도 대학수학능력시험",
+   "traffic": "200+",
+   "when": "11월 26일 14:10",
+   "news": [
+    {
+     "title": "수능 만점 최소 3명 나왔는데…“신원 공개 거부” 쉬쉬하는 이유",
+     "url": "https://www.joongang.co.kr/article/25482149",
+     "source": "중앙일보"
+    },
+    {
+     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
+     "url": "https://news.jtbc.co.kr/article/NB12329904",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "kbo 시상식",
+   "traffic": "500+",
+   "when": "11월 26일 13:50",
+   "news": [
+    {
+     "title": "'45홈런' 김도영 vs '197탈삼진' 곽빈…정규시즌 MVP는 누구",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883347",
+     "source": "뉴시스"
+    },
+    {
+     "title": "[사진]구자욱,'삼성 팬들에게 감사'",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/26/HBRTAODBGVTGCODBMEYGKOJVMQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "부산일보",
+   "traffic": "200+",
+   "when": "11월 26일 13:50",
+   "news": []
+  },
   {
    "kw": "신동엽",
    "traffic": "100+",
@@ -19,6 +59,23 @@
    ]
   },
   {
+   "kw": "발전",
+   "traffic": "100+",
+   "when": "11월 26일 13:00",
+   "news": [
+    {
+     "title": "한전KPS, 발전소 피지컬 AI 도입 추진…정비 안전·효율 높인다",
+     "url": "https://edata.ekn.kr/article/view/ekn202611260007",
+     "source": "기후에너지데이터뱅크"
+    },
+    {
+     "title": "한전KPS, 발전소에 로봇개·AI 스마트글라스 투입 추진",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375323",
+     "source": "전기신문"
+    }
+   ]
+  },
+  {
    "kw": "경찰",
    "traffic": "5000+",
    "when": "11월 26일 12:50",
@@ -29,15 +86,32 @@
      "source": "경향신문"
     },
     {
-     "title": "경찰, '리트 만점자 부정 시험 의혹' 법전원협의회에 수사 협조 요청",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868769_36918.html",
-     "source": "MBC 뉴스"
+     "title": "[자막뉴스] 영장 들고 '이진우 의혹' 압수수색부터…'성명불상'의 공범도 쫓는다",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864907",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "연금",
+   "traffic": "20000+",
+   "when": "11월 26일 12:40",
+   "news": [
+    {
+     "title": "국민연금공단 \"유족연금 50% 상향, 사회적 합의 선행돼야\"",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611251057096362",
+     "source": "YTN"
+    },
+    {
+     "title": "내 연금·유족연금 겹친 20.8만명…3.7만명은 내 연금 '0원'",
+     "url": "https://www.yna.co.kr/view/AKR20261122031500530",
+     "source": "연합뉴스"
     }
    ]
   },
   {
    "kw": "김용빈",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 26일 12:40",
    "news": [
     {
@@ -58,20 +132,20 @@
    "when": "11월 26일 12:40",
    "news": [
     {
-     "title": "[속보] 조국 “공공기관 떠난 서울·수도권 알짜 땅에 공공주택 짓자”",
-     "url": "https://www.kyeonggi.com/article/20261126580059",
-     "source": "경기일보"
+     "title": "조국 “공공기관 이전 부지에 공공주택 짓자…‘제2의 무상급식’으로”",
+     "url": "https://www.mk.co.kr/news/realestate/12219114",
+     "source": "매일경제"
     },
     {
-     "title": "“공공기관 12곳 부지로 1만8000채 공급”",
-     "url": "https://www.khan.co.kr/article/202611252038005",
-     "source": "경향신문"
+     "title": "인사말하는 박능후 포럼 사의재 대표",
+     "url": "https://www.news1.kr/photos/8231682",
+     "source": "뉴스1"
     }
    ]
   },
   {
    "kw": "k-라면",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 26일 12:10",
    "news": [
     {
@@ -83,91 +157,6 @@
      "title": "수출 1조 달러의 빛나는 조연, K-소비재",
      "url": "https://go.seoul.co.kr/news/prnewsView.php?id=458781",
      "source": "서울Pn"
-    }
-   ]
-  },
-  {
-   "kw": "김희영",
-   "traffic": "100+",
-   "when": "11월 26일 12:00",
-   "news": [
-    {
-     "title": "김희영 의원, 충남청소년수련시설협회와 현장 간담회 개최 및 감사패 수상",
-     "url": "https://www.megaccnews.com/news/articleView.html?idxno=19246",
-     "source": "메가충청뉴스"
-    },
-    {
-     "title": "김희영 충남도의원, 청소년시설 현장 간담회 개최… 협회 감사패 받아",
-     "url": "https://asandaily.kr/View.aspx?No=4330848",
-     "source": "아산데일리"
-    }
-   ]
-  },
-  {
-   "kw": "은평구",
-   "traffic": "500+",
-   "when": "11월 26일 11:50",
-   "news": [
-    {
-     "title": "은평구, 지방자치 혁신대상 최우수상…전동보장구 이동안전 체계",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763604",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "은평구, 보행환경 우선 점검할 후보 권역 16곳 선정",
-     "url": "https://www.fnnews.com/news/202611161514597849",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "이정재",
-   "traffic": "2000+",
-   "when": "11월 26일 11:40",
-   "news": [
-    {
-     "title": "'사익 추구 의혹' 이정재, 수척한 얼굴로 청룡 무대…\"많이 망설였다\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112607173970598",
-     "source": "머니투데이"
-    },
-    {
-     "title": "“배우 안성기와 함께해주셔서 고맙습니다” 아들이 전한 청룡 공로상 소감 [이런뉴스]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723214",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "광고",
-   "traffic": "200+",
-   "when": "11월 26일 11:40",
-   "news": [
-    {
-     "title": "공정위, 애플 ‘AI 기능 허위 광고’ 혐의 심의 착수…수백억 과징금 나올까?",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723278",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "\"시리 한국어 18개월 지연, 기만 광고\"‥애플, 공정위 심판대에",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6868771_36932.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "미스 유니버스",
-   "traffic": "200+",
-   "when": "11월 26일 11:30",
-   "news": [
-    {
-     "title": "엄마 '미스 유니버스' 첫 탄생…7살 딸 둔 기혼자가 왕관 썼다",
-     "url": "https://www.yna.co.kr/view/AKR20261126001600087",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "엄마 ‘미스 유니버스’ 첫 우승…117명 경쟁 뚫고 왕관 [소셜픽]",
-     "url": "https://news.jtbc.co.kr/article/NB12329870",
-     "source": "JTBC"
     }
    ]
   }
