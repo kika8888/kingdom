@@ -1,173 +1,173 @@
 {
- "updated": "2026-11-27 07:23",
+ "updated": "2026-11-27 08:23",
  "items": [
   {
-   "kw": "탄핵",
+   "kw": "블루 아카이브",
+   "traffic": "1000+",
+   "when": "11월 27일 07:10",
+   "news": [
+    {
+     "title": "넥슨, '아주르 프로밀리아' 국내 정식 출시…AGF도 참가",
+     "url": "https://www.yna.co.kr/view/AKR20261126085400017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "넥슨, ‘아주르 프로밀리아’·‘템빨’ 동시 출시… 연말 신작 승부수",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001896",
+     "source": "IT조선"
+    }
+   ]
+  },
+  {
+   "kw": "열차",
+   "traffic": "1000+",
+   "when": "11월 27일 07:10",
+   "news": [
+    {
+     "title": "철도노조 투쟁 첫날...무궁화호 멈추고 전철 무더기 지연",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611270503025651_005.html",
+     "source": "YTN"
+    },
+    {
+     "title": "1부 오늘의 주요뉴스",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868949_37012.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "청소",
+   "traffic": "1000+",
+   "when": "11월 27일 07:00",
+   "news": [
+    {
+     "title": "\"양파망 버리지 말고 진작 이렇게 쓸걸\"... 청소부터 수납까지 이렇게 유용할 줄 몰랐습니다",
+     "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=22064",
+     "source": "아던트뉴스"
+    },
+    {
+     "title": "[와글와글] 도 넘은 화장실 장난‥\"가정교육 잘 시켜야\"",
+     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868961_37012.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "天気",
+   "traffic": "100+",
+   "when": "11월 27일 07:00",
+   "news": [
+    {
+     "title": "沖縄 名護市にレベル4大雨危険警報",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261127de82165",
+     "source": "NHKニュース"
+    },
+    {
+     "title": "線状降水帯が発生した際の避難行動を知っていますか？",
+     "url": "https://news.yahoo.co.jp/polls/77557",
+     "source": "Yahoo!ニュース"
+    }
+   ]
+  },
+  {
+   "kw": "nfl",
+   "traffic": "100+",
+   "when": "11월 27일 06:50",
+   "news": [
+    {
+     "title": "NFL Week 12: Highlights of Thanksgiving games",
+     "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
+     "source": "ESPN"
+    },
+    {
+     "title": "Where to Stream Thanksgiving NFL Games for Free Online",
+     "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-thanksgiving-nfl-football-games-online-free-2026-1235664090/",
+     "source": "Rolling Stone"
+    }
+   ]
+  },
+  {
+   "kw": "부부",
    "traffic": "2000+",
-   "when": "11월 27일 06:20",
+   "when": "11월 27일 06:40",
    "news": [
     {
-     "title": "대법원장 탄핵 추진에 '반대' 44％·'찬성' 34％ [NBS]",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6868802_36911.html",
-     "source": "MBC 뉴스"
+     "title": "아내 친구에 고백→뽀뽀한 남편...아내는 딴 남자와 동거 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112609443254780",
+     "source": "머니투데이"
     },
     {
-     "title": "탄핵 연대에 \"책임은 여당\" 쓴소리...조작기소 특검 2명 압축",
-     "url": "https://www.ytn.co.kr/_ln/0101_202611270625025650",
-     "source": "YTN"
+     "title": "혼인신고 3개월 만에 다른 男과 동거…서장훈 격노 (이혼숙려캠프)",
+     "url": "https://sports.donga.com/ent/article/all/20261126/135093645/1",
+     "source": "스포츠동아"
     }
    ]
   },
   {
-   "kw": "삼성자산운용",
-   "traffic": "100+",
-   "when": "11월 27일 06:10",
-   "news": [
-    {
-     "title": "[조세금융만평] AI 앞에 무력해진 시험 감독망",
-     "url": "https://www.tfmedia.co.kr/news/article.html?no=209117",
-     "source": "조세금융신문"
-    },
-    {
-     "title": "한화 건설부문, 광명 하안주공5단지 수주 한화포레나 브랜드 성장 바탕으로 정비사업 2.5조 달성",
-     "url": "https://www.hanwha.co.kr/newsroom/media_center/news/news_view.do?seq=16446",
-     "source": "한화그룹"
-    }
-   ]
-  },
-  {
-   "kw": "정년",
+   "kw": "배구",
    "traffic": "1000+",
-   "when": "11월 27일 06:00",
+   "when": "11월 27일 06:40",
    "news": [
     {
-     "title": "“아빠는 출근, 아들은 백수?”…‘65세 정년 연장’ 추진 논란 [잇슈 머니]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724076",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "일자리 없거나 나쁘거나‥연내 입법 가능할까?",
-     "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6868959_37012.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "광명시",
-   "traffic": "200+",
-   "when": "11월 27일 06:00",
-   "news": [
-    {
-     "title": "[경기] '복합형 돔구장' 경기도 후보지에 광명·수원 선정",
-     "url": "https://www.ytn.co.kr/_ln/0115_202611261534574084",
-     "source": "YTN"
-    },
-    {
-     "title": "파주시 \"돔구장 탈락에도 스포츠·문화 발전 노력 계속\"",
-     "url": "https://www.newsis.com/view/NISX20261126_0003885092",
+     "title": "온힘을 다해",
+     "url": "https://www.newsis.com/view/NISI20261126_0021546927",
      "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "정부 예산",
-   "traffic": "200+",
-   "when": "11월 27일 06:00",
-   "news": [
+    },
     {
-     "title": "민주당 전남광주시당, 국책사업 국비 541억원 증액 건의",
-     "url": "https://www.yna.co.kr/view/AKR20261126185900054",
+     "title": "남자배구 삼성화재, 1천114일 만에 순위표 맨 꼭대기로(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261126192351007",
      "source": "연합뉴스"
-    },
-    {
-     "title": "정부예산 확보…양충모 남원시장, 국회서 막바지 총력",
-     "url": "https://www.newsis.com/view/NISX20261126_0003885032",
-     "source": "뉴시스"
     }
    ]
   },
   {
-   "kw": "마이클세일러",
-   "traffic": "100+",
-   "when": "11월 27일 06:00",
-   "news": [
-    {
-     "title": "美CFTC, 비트코인·이더리움·스테이블코인도 금융준비금 인정",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=02728966645649000&mediaCodeNo=257",
-     "source": "이데일리"
-    },
-    {
-     "title": "비트코인 100이 80으로…CFTC ‘20% 깎기’",
-     "url": "https://www.coinreaders.com/273370",
-     "source": "코인리더스"
-    }
-   ]
-  },
-  {
-   "kw": "주식",
-   "traffic": "500+",
-   "when": "11월 27일 06:00",
-   "news": [
-    {
-     "title": "\"30살에 3억 날리고 울었다\"…전문가가 '억장 무너진' 개미에 건넨 조언",
-     "url": "https://weekly.chosun.com/news/articleView.html?idxno=60105",
-     "source": "주간조선"
-    },
-    {
-     "title": "“두 주식에 ‘몰빵’했다가 3억 잃어”…눈물 흘린 전문가 “삼전·하닉 샀다면?” 조언 남겼다 [이슈픽]",
-     "url": "https://www.twig24.com/news/world/2026/11/26/20261126500001",
-     "source": "TWIG"
-    }
-   ]
-  },
-  {
-   "kw": "유튜버",
+   "kw": "погода",
    "traffic": "1000+",
-   "when": "11월 27일 05:50",
+   "when": "11월 27일 06:40",
    "news": [
     {
-     "title": "’구독자 1,010만’ 진우와 해티, 이혼 발표…채널은 어떻게 나눴나",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126161521wKw",
-     "source": "연합뉴스TV"
+     "title": "Без права на оттепель: какой будет погода в Москве в начале декабря",
+     "url": "https://www.rtvi.com/news/bez-prava-na-ottepel-kakoj-budet-pogoda-v-moskve-v-nachale-dekabrya/",
+     "source": "RTVI"
     },
     {
-     "title": "구독자 1010만 국제 부부 유튜버 '진우와 해티', 결혼 4년 만에 파경",
-     "url": "https://www.newsis.com/view/NISX20261126_0003883842",
-     "source": "뉴시스"
+     "title": "Минувшая ночь стала самой холодной с начала осени в Москве",
+     "url": "https://www.gazeta.press/social/news/2026/11/26/29831611.shtml",
+     "source": "Газета"
     }
    ]
   },
   {
-   "kw": "알테오젠",
-   "traffic": "200+",
-   "when": "11월 27일 05:50",
+   "kw": "세무 냥이",
+   "traffic": "2000+",
+   "when": "11월 27일 06:30",
    "news": [
     {
-     "title": "알테오젠, '키트루다SC' 기술료 538원 추가로 받는다",
-     "url": "https://www.yna.co.kr/view/AKR20261126184700017",
-     "source": "연합뉴스"
+     "title": "[속보]경찰, ‘AI 부정행위 자수’ 세무사시험 수석에 구속영장 신청",
+     "url": "https://www.khan.co.kr/article/202611261903001",
+     "source": "경향신문"
     },
     {
-     "title": "알테오젠, MSD서 538억원 추가 수령…키트루다SC 두 번째 판매 마일스톤",
-     "url": "https://pharm.edaily.co.kr/news/read?newsId=03670326645649656",
-     "source": "팜이데일리"
+     "title": "AI 부정행위 난리 나더니 금속탐지기 대란…문의량 100배 늘어",
+     "url": "https://stock.mk.co.kr/news/view/1206884",
+     "source": "매일경제 마켓"
     }
    ]
   },
   {
-   "kw": "포도",
-   "traffic": "100+",
-   "when": "11월 27일 05:50",
+   "kw": "배당",
+   "traffic": "1000+",
+   "when": "11월 27일 06:30",
    "news": [
     {
-     "title": "\"포도의 최대 13배\"… 항산화 성분 풍부한 식품 4가지",
-     "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=70492",
-     "source": "하이닥"
+     "title": "아벨 체제서도 빛나는 버크셔의 '배당 마법'…빅5 종목서 4조원 수령 전망",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446865",
+     "source": "연합인포맥스"
     },
     {
-     "title": "포도 수출 1억 달러 돌파, 신선농산물 단일 품목 최초··· 2026년 수출액이 신선 포도 수입액 추월",
-     "url": "https://blog.naver.com/PostView.naver?blogId=mcst_pr&logNo=224491479899&redirect=Dlog",
-     "source": "Naver Blog"
+     "title": "[단독 인터뷰] 제이 우즈 “그렉 아벨의 버크셔 경영 긍정적···알파벳 투자 큰 결실 맺을 것”",
+     "url": "https://kr.benzinga.com/news/usa/analystratings/%EB%8B%A8%EB%8F%85-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%9C%EC%9D%B4-%EC%9A%B0%EC%A6%88-%EA%B7%B8%EB%A0%89-%EC%95%84%EB%B2%A8%EC%9D%98-%EB%B2%84%ED%81%AC%EC%85%94-%EA%B2%BD%EC%98%81-%EA%B8%8D/",
+     "source": "Benzinga"
     }
    ]
   }
