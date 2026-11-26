@@ -1,9 +1,77 @@
 {
- "updated": "2026-11-27 00:01",
+ "updated": "2026-11-27 01:22",
  "items": [
   {
-   "kw": "반도체 메모리",
+   "kw": "회계사",
+   "traffic": "500+",
+   "when": "11월 26일 23:20",
+   "news": [
+    {
+     "title": "전국 60개 대학 AI·SW 성과 한자리에",
+     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611261108002181",
+     "source": "YTN 사이언스"
+    },
+    {
+     "title": "회계사 선발 중장기 계획 세운다더니 제외…업계 후폭풍",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03739206645649656",
+     "source": "마켓인"
+    }
+   ]
+  },
+  {
+   "kw": "스파이",
+   "traffic": "200+",
+   "when": "11월 26일 23:10",
+   "news": [
+    {
+     "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+     "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "No Evidence China Orchestrated Jensen Huang’s Affair, Officials Brief Congress",
+     "url": "https://www.wsj.com/politics/national-security/no-evidence-china-orchestrated-jensen-huangs-affair-officials-brief-congress-00228bb7",
+     "source": "WSJ"
+    }
+   ]
+  },
+  {
+   "kw": "크리스 리벤",
+   "traffic": "100+",
+   "when": "11월 26일 23:10",
+   "news": [
+    {
+     "title": "\"맞자마자 반칙이라고 생각\" 추성훈에게 맞고 안와골절…'사커킥 맞은 순간' 떠올린 크리스 리벤",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022153",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "“용돈 괜찮으니 아프지 마”…폭풍성장 사랑이 ‘은퇴’ 추성훈 응원",
+     "url": "https://www.joongang.co.kr/article/25481707",
+     "source": "중앙일보"
+    }
+   ]
+  },
+  {
+   "kw": "강소휘",
    "traffic": "1000+",
+   "when": "11월 26일 23:00",
+   "news": [
+    {
+     "title": "[영상] 기업은행 노장의 분노, 그리고 이소영 딜레마?",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723375",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "마나베 IBK 감독 \"적이 우리 코트에 있다…자멸한 경기\"",
+     "url": "https://www.yna.co.kr/view/AKR20261125179400007",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "반도체 메모리",
+   "traffic": "2000+",
    "when": "11월 26일 22:40",
    "news": [
     {
@@ -12,15 +80,15 @@
      "source": "연합뉴스"
     },
     {
-     "title": "삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다",
-     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446775",
-     "source": "연합인포맥스"
+     "title": "“장기 구매할게” 머스크에 이재용 “뭘 더 해줄 건데”⋯메모리 쟁탈전",
+     "url": "https://www.viva100.com/article/20261126501737",
+     "source": "브릿지경제"
     }
    ]
   },
   {
    "kw": "송파구",
-   "traffic": "200+",
+   "traffic": "5000+",
    "when": "11월 26일 22:40",
    "news": [
     {
@@ -29,9 +97,9 @@
      "source": "매일경제"
     },
     {
-     "title": "서울 아파트값 떨어지나? 한강벨트까지 하락세 전환",
-     "url": "https://www.hani.co.kr/arti/economy/property/1289263.html",
-     "source": "한겨레"
+     "title": "서울 아파트값 소폭 상승… 9개구는 하락",
+     "url": "https://www.chosun.com/economy/real_estate/2026/11/27/73KKTCUB3BDD5I3CNBDHE2PHSQ/",
+     "source": "조선일보"
     }
    ]
   },
@@ -41,14 +109,14 @@
    "when": "11월 26일 22:40",
    "news": [
     {
-     "title": "TRỰC TIẾP bóng đá U17 Việt Nam vs U17 Mali - U17 World Cup 2026",
-     "url": "https://vietnamnet.vn/truc-tiep-bong-da-u17-viet-nam-vs-u17-mali-u17-world-cup-2026-2578759.html",
-     "source": "Báo VietNamNet"
+     "title": "Kết quả bóng đá U17 Việt Nam vs U17 Mali: Cái kết nghiệt ngã",
+     "url": "https://thethao247.vn/190556-ket-qua-bong-da-u17-viet-nam-vs-u17-mali-20h00-hom-nay-26-11-c1-d447313.html",
+     "source": "Thể Thao 247"
     },
     {
-     "title": "Việt Nam - Mali: Hy vọng làm nên lịch sử",
-     "url": "https://vnexpress.net/truc-tiep-u17-world-cup-viet-nam-mali-5149345.html",
-     "source": "VnExpress"
+     "title": "HLV Mali gọi U17 Việt Nam là \"đội bóng mạnh\", yêu cầu đội nhà cảnh giác",
+     "url": "https://www.24h.com.vn/bong-da/hlv-mali-goi-u17-viet-nam-la-doi-bong-manh-yeu-cau-doi-nha-canh-giac-c48a1814068.html",
+     "source": "Tin tức 24h"
     }
    ]
   },
@@ -70,19 +138,19 @@
    ]
   },
   {
-   "kw": "이데일리",
-   "traffic": "2000+",
-   "when": "11월 26일 21:40",
+   "kw": "삼성반도체",
+   "traffic": "100+",
+   "when": "11월 26일 22:00",
    "news": [
     {
-     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
-     "url": "https://news.jtbc.co.kr/article/NB12329904",
-     "source": "JTBC"
+     "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
+     "url": "https://www.etnews.com/20261126000296",
+     "source": "전자신문"
     },
     {
-     "title": "수능 만점 최소 3명이라는데…모두 \"공개 싫다\" 이유가",
-     "url": "https://www.hankyung.com/article/202611261522H",
-     "source": "한국경제"
+     "title": "삼성·SK 신규 팹에 로봇 길 만든다…반도체 AMR 시장 개화",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=355648",
+     "source": "녹색경제신문"
     }
    ]
   },
@@ -97,77 +165,9 @@
      "source": "에너지경제신문"
     },
     {
-     "title": "\"상가 쏙 빼고 짓자\" 올림픽선수촌 재건축에 송파구 제동, 내년 결판난다",
-     "url": "https://realty.chosun.com/site/data/html_dir/2026/11/19/2026111902059.html",
-     "source": "땅집고"
-    }
-   ]
-  },
-  {
-   "kw": "김아현 주식 눈물",
-   "traffic": "2000+",
-   "when": "11월 26일 21:20",
-   "news": [
-    {
-     "title": "삼성전자 레버리지 15% 폭락…생방송 중 눈물 보인 진행자",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=03302966645649656&mediaCodeNo=257",
-     "source": "이데일리"
-    },
-    {
-     "title": "'李대통령 픽' 이광수 \"증시 급락, 많은 국민 꿈 날려\"",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882938",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "나인투식스",
-   "traffic": "5000+",
-   "when": "11월 26일 21:10",
-   "news": [
-    {
-     "title": "\"피 철철 흘리고 구급차까지\" 박민영, 촬영 중 쓰러져…무슨 질환이길래 [헬스톡]",
-     "url": "https://www.fnnews.com/news/202611252205108656",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
-     "url": "https://www.joongang.co.kr/article/25481953",
-     "source": "중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "설인아",
-   "traffic": "500+",
-   "when": "11월 26일 21:00",
-   "news": [
-    {
-     "title": "설인아→연우 '무쇠소녀단3', 김동현도 기겁한 첫 훈련…\"이런 악마 같은 걸\" - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112617007254733",
-     "source": "머니투데이"
-    },
-    {
-     "title": "'무쇠소녀단3', 아파트 100층 높이 극한 훈련…쇼트트랙 도전 시작",
-     "url": "https://www.newspim.com/news/view/20261126000413",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "weather tomorrow",
-   "traffic": "5000+",
-   "when": "11월 26일 20:50",
-   "news": [
-    {
-     "title": "UAE weather: Red alert issued for fog; chance of rain in some areas",
-     "url": "https://www.khaleejtimes.com/uae/weather/november-26-2026",
-     "source": "Khaleej Times"
-    },
-    {
-     "title": "UAE weather forecast: Scattered showers in some island, coastal and western areas, with fog expected overnight",
-     "url": "https://www.emirates247.com/uae/uae-weather-forecast-scattered-showers-in-some-island-coastal-and-western-areas-with-fog-expected-overnight/8128",
-     "source": "Emirates 24|7"
+     "title": "뒤늦게 끼어든 상가 편든 송파구… 올림픽선수촌 주민들 “재건축하지 말란 소리”",
+     "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/26/76TPRLEOSRGYBKD56Y2XSTETUY/",
+     "source": "Chosunbiz"
     }
    ]
   }
