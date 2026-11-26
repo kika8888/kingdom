@@ -1,9 +1,134 @@
 {
- "updated": "2026-11-26 11:22",
+ "updated": "2026-11-26 12:23",
  "items": [
   {
+   "kw": "문가영",
+   "traffic": "100+",
+   "when": "11월 26일 11:20",
+   "news": [
+    {
+     "title": "[ET포토] 문가영, '새하얀 아름다움'",
+     "url": "https://www.etnews.com/20261126000038",
+     "source": "전자신문"
+    },
+    {
+     "title": "문가영, 긴 생머리 휘날리는 '국민 구여친'…과감해진 튜브톱 [포토]",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/26/MUYTGZTFGZRDKOJZGRRDGNJXMI/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "학교 폭력",
+   "traffic": "500+",
+   "when": "11월 26일 11:10",
+   "news": [
+    {
+     "title": "제주 해안가서 중학생 숨진채 발견...학교폭력 의혹 경찰 수사",
+     "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602666",
+     "source": "헤드라인제주"
+    },
+    {
+     "title": "제주 중학생 사망…학교폭력 의혹 경찰 조사",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126103213wcw",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "육아휴직",
+   "traffic": "500+",
+   "when": "11월 26일 10:50",
+   "news": [
+    {
+     "title": "\"직원 출산하면 1000만원\"…파격 복지 내걸자 '놀라운 결과'",
+     "url": "https://www.hankyung.com/article/202611261128g",
+     "source": "한국경제"
+    },
+    {
+     "title": "[게시판] NS홈쇼핑, '일·생활 균형 우수기업' 선정",
+     "url": "https://www.yna.co.kr/view/AKR20261126034100030",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "안민석",
+   "traffic": "200+",
+   "when": "11월 26일 10:50",
+   "news": [
+    {
+     "title": "교장 전보 기준 4년 놓고 \"현장 의견 수렴 없이 진행\" 지적",
+     "url": "https://www.yna.co.kr/view/AKR20261125141000061",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "경기도교육청, 31개 시군 교육 현장 ‘의견 청취 완료’",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337834",
+     "source": "인천일보"
+    }
+   ]
+  },
+  {
+   "kw": "에어부산",
+   "traffic": "200+",
+   "when": "11월 26일 10:50",
+   "news": [
+    {
+     "title": "에어부산, 겨울맞이 국제선 28개 노선 특가 행사",
+     "url": "https://www.yna.co.kr/view/AKR20261125113300051",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "에어부산, 겨울맞이 국제선 특가… 일본 편도 8만6900원부터",
+     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261125.99099007927",
+     "source": "국제신문"
+    }
+   ]
+  },
+  {
+   "kw": "민원24",
+   "traffic": "200+",
+   "when": "11월 26일 10:50",
+   "news": []
+  },
+  {
+   "kw": "전기자동차 배터리",
+   "traffic": "200+",
+   "when": "11월 26일 10:40",
+   "news": [
+    {
+     "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
+     "url": "https://www.hankyung.com/article/2026112502651",
+     "source": "한국경제"
+    },
+    {
+     "title": "전기차, 반값에 구매?…'배터리 리스제' 검토",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863854",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "삼성",
+   "traffic": "2000+",
+   "when": "11월 26일 10:30",
+   "news": [
+    {
+     "title": "코스피 1% 오른 4,745.10 개장…코스닥도 1.2%↑",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723040",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "코스피, 하룻 만에 반등...1%대 상승 출발",
+     "url": "https://www.ytn.co.kr/_ln/0102_202611261124292109",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
    "kw": "호랑이",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 26일 10:20",
    "news": [
     {
@@ -19,144 +144,19 @@
    ]
   },
   {
-   "kw": "수험",
-   "traffic": "5000+",
-   "when": "11월 26일 10:10",
+   "kw": "초전마을",
+   "traffic": "100+",
+   "when": "11월 26일 10:20",
    "news": [
     {
-     "title": "‘어릴때 급제는 불행’ 외친 21살 행시수석…“노력없는 성취도 불행”",
-     "url": "https://www.mk.co.kr/news/society/12218643",
-     "source": "매일경제"
-    },
-    {
-     "title": "[합격수기] 2년 만에 5급 공채 일반행정 수석·행정직 최연소 차지한 김재겸 씨 “누군가의 수험에 가점이 되기를 희망하며”",
-     "url": "https://www.lec.co.kr/news/articleView.html?idxno=753066",
-     "source": "법률저널"
-    }
-   ]
-  },
-  {
-   "kw": "순댓국",
-   "traffic": "200+",
-   "when": "11월 26일 10:10",
-   "news": []
-  },
-  {
-   "kw": "가수",
-   "traffic": "1000+",
-   "when": "11월 26일 10:00",
-   "news": [
-    {
-     "title": "음실련·대한가수협회, '힐링콘서트' 개최…박상철·신유·금잔디 등 총출동",
-     "url": "https://www.news1.kr/entertain/music/6366567",
-     "source": "뉴스1"
-    },
-    {
-     "title": "한국음악실연자연합회·대한가수협회, 12월 1일 제2회 힐링콘서트",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762971",
-     "source": "국제뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "기준금리",
-   "traffic": "1000+",
-   "when": "11월 26일 09:50",
-   "news": [
-    {
-     "title": "[속보] 한은, 기준금리 3.25%로 인상‥내년 성장률 전망치도 4.1%로 상향 조정",
-     "url": "https://imnews.imbc.com/news/2026/econo/article/6868715_36932.html",
+     "title": "태양광으로 마을 살림 바꾸겠다더니‥발전소 짓기까지 '산 넘어 산'",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868368_36918.html",
      "source": "MBC 뉴스"
     },
     {
-     "title": "[전문]한국은행 금융통화위원회 11월 통화정책방향",
-     "url": "https://www.newsis.com/view/NISX20261126_0003884255",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "계엄",
-   "traffic": "1000+",
-   "when": "11월 26일 09:50",
-   "news": [
-    {
-     "title": "[속보] 대법원, '한덕수 재판 위증' 윤석열 무죄 확정‥상고 기각",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868727_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "尹 ‘계엄 국무회의 위증’ 사건, 대법서 무죄 확정",
-     "url": "https://www.donga.com/news/Society/article/all/20261126/135094333/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "진우와 해티",
-   "traffic": "2000+",
-   "when": "11월 26일 09:40",
-   "news": [
-    {
-     "title": "‘1010만 유튜버’ 진우와 해티, 결혼 5년 만에 이혼 발표…“부부 관계 마무리”",
-     "url": "https://www.mk.co.kr/news/hot-issues/12218897",
-     "source": "매일경제"
-    },
-    {
-     "title": "구독자 1010만 국제 부부 유튜버 '진우와 해티', 결혼 4년 만에 파경",
-     "url": "https://www.newsis.com/view/NISX20261126_0003883842",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "병무청",
-   "traffic": "1000+",
-   "when": "11월 26일 09:40",
-   "news": [
-    {
-     "title": "병무청-군인공제회C&C, 병역의무자 전자도서관 자료 1.1억 기부 약정",
-     "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6364613",
-     "source": "뉴스1"
-    },
-    {
-     "title": "서울병무청장, 병역지정업체 방문 산업기능요원 격려",
-     "url": "https://www.ybstv.net/news/article.html?no=72313",
-     "source": "영등포신문"
-    }
-   ]
-  },
-  {
-   "kw": "기장군",
-   "traffic": "500+",
-   "when": "11월 26일 09:30",
-   "news": [
-    {
-     "title": "부산서 유일한 자치군 기장, 전 군민에 100만 원씩…‘군민에게 돌려주는 예산’ 실험",
-     "url": "https://www.munhwa.com/article/11634128",
-     "source": "문화일보"
-    },
-    {
-     "title": "우성빈 기장군수 \"내년 군민 1인당 30만원 지급…예산 534억원\"",
-     "url": "https://www.yna.co.kr/view/AKR20261125133900051",
+     "title": "김해에 전국 첫 '햇빛소득마을'…전력 판매 수익으로 복지사업",
+     "url": "https://www.yna.co.kr/view/AKR20261126082700052",
      "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "시청률",
-   "traffic": "5000+",
-   "when": "11월 26일 09:00",
-   "news": [
-    {
-     "title": "“정말 무섭더라…” 육성재, 마스크 쓰고 제작발표회 나온 사연",
-     "url": "https://www.joongang.co.kr/article/25481953",
-     "source": "중앙일보"
-    },
-    {
-     "title": "\"피 철철 흘리고 구급차까지\" 박민영, 촬영 중 쓰러져…무슨 질환이길래 [헬스톡]",
-     "url": "https://www.fnnews.com/news/202611252205108656",
-     "source": "파이낸셜뉴스"
     }
    ]
   }
