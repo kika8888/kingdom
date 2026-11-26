@@ -1,20 +1,37 @@
 {
- "updated": "2026-11-27 01:22",
+ "updated": "2026-11-27 02:22",
  "items": [
   {
-   "kw": "회계사",
-   "traffic": "500+",
-   "when": "11월 26일 23:20",
+   "kw": "정연",
+   "traffic": "100+",
+   "when": "11월 27일 00:40",
    "news": [
     {
-     "title": "전국 60개 대학 AI·SW 성과 한자리에",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611261108002181",
-     "source": "YTN 사이언스"
+     "title": "이서진, 11살 어린 한지민에 \"갱년기 중년 女\"…막말 비하 논란 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112618425270556",
+     "source": "머니투데이"
     },
     {
-     "title": "회계사 선발 중장기 계획 세운다더니 제외…업계 후폭풍",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03739206645649656",
-     "source": "마켓인"
+     "title": "도합 85년 우정 여행…한지민 \"나이·성별 떠나 친구 됐죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261126143000005",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "김민",
+   "traffic": "1000+",
+   "when": "11월 26일 23:30",
+   "news": [
+    {
+     "title": "[ET포토] 김민, '인상파'",
+     "url": "https://www.etnews.com/20261126000018",
+     "source": "전자신문"
+    },
+    {
+     "title": "[영상] 박하선, 꿀피부",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650158.html",
+     "source": "뉴데일리"
     }
    ]
   },
@@ -37,7 +54,7 @@
   },
   {
    "kw": "크리스 리벤",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 26일 23:10",
    "news": [
     {
@@ -70,6 +87,23 @@
    ]
   },
   {
+   "kw": "정은경",
+   "traffic": "100+",
+   "when": "11월 26일 22:50",
+   "news": [
+    {
+     "title": "[동정] 복지장관, 동대문구-우체국 협업 '찾아가는 그냥드림' 점검",
+     "url": "https://www.yna.co.kr/view/AKR20261126150500530",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "생계 막막할 때 받는 ‘그냥드림’ 아시나요",
+     "url": "https://bravo.etoday.co.kr/view/atc_view/20566",
+     "source": "이투데이"
+    }
+   ]
+  },
+  {
    "kw": "반도체 메모리",
    "traffic": "2000+",
    "when": "11월 26일 22:40",
@@ -80,26 +114,26 @@
      "source": "연합뉴스"
     },
     {
-     "title": "“장기 구매할게” 머스크에 이재용 “뭘 더 해줄 건데”⋯메모리 쟁탈전",
-     "url": "https://www.viva100.com/article/20261126501737",
-     "source": "브릿지경제"
+     "title": "삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446775",
+     "source": "연합인포맥스"
     }
    ]
   },
   {
    "kw": "송파구",
-   "traffic": "5000+",
+   "traffic": "200+",
    "when": "11월 26일 22:40",
    "news": [
     {
-     "title": "李대통령이 옳았나…송파 집값, 4년만에 역대급 추락했다",
-     "url": "https://www.mk.co.kr/news/realestate/12219258",
-     "source": "매일경제"
+     "title": "송파청년센터 28일 개관…청년 맞춤형 프로그램 운영",
+     "url": "https://www.yna.co.kr/view/AKR20261126013000004",
+     "source": "연합뉴스"
     },
     {
-     "title": "서울 아파트값 소폭 상승… 9개구는 하락",
-     "url": "https://www.chosun.com/economy/real_estate/2026/11/27/73KKTCUB3BDD5I3CNBDHE2PHSQ/",
-     "source": "조선일보"
+     "title": "[클릭! 자치뉴스] 서울 송파구, 'AI 교육·창업 지원' 청년센터 개관",
+     "url": "https://www.hankookilbo.com/news/article/A2026112609590000892",
+     "source": "한국일보"
     }
    ]
   },
@@ -122,7 +156,7 @@
   },
   {
    "kw": "수디르만컵",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 26일 22:00",
    "news": [
     {
@@ -134,40 +168,6 @@
      "title": "'안세영 독주 견제하려는 것 아닌가' 15점제가 끝이 아니었다…BWF 대격변 공식발표! 세계선수권+국가대항전 싹 바뀐다→\"근거 없는 억측\"",
      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021959",
      "source": "SPOTV NEWS"
-    }
-   ]
-  },
-  {
-   "kw": "삼성반도체",
-   "traffic": "100+",
-   "when": "11월 26일 22:00",
-   "news": [
-    {
-     "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
-     "url": "https://www.etnews.com/20261126000296",
-     "source": "전자신문"
-    },
-    {
-     "title": "삼성·SK 신규 팹에 로봇 길 만든다…반도체 AMR 시장 개화",
-     "url": "https://www.greened.kr/news/articleView.html?idxno=355648",
-     "source": "녹색경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "올림픽선수기자촌",
-   "traffic": "500+",
-   "when": "11월 26일 21:40",
-   "news": [
-    {
-     "title": "[현장] 올선 재건축, 구의회 문턱도 못 갔다…주민들 “10일 내 답변하라” 법적 대응 예고",
-     "url": "https://m.ekn.kr/view.php?key=20261126024275133",
-     "source": "에너지경제신문"
-    },
-    {
-     "title": "뒤늦게 끼어든 상가 편든 송파구… 올림픽선수촌 주민들 “재건축하지 말란 소리”",
-     "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/26/76TPRLEOSRGYBKD56Y2XSTETUY/",
-     "source": "Chosunbiz"
     }
    ]
   }
