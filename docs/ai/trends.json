@@ -1,37 +1,156 @@
 {
- "updated": "2026-11-27 05:23",
+ "updated": "2026-11-27 06:23",
  "items": [
   {
-   "kw": "기상",
-   "traffic": "100+",
-   "when": "11월 27일 04:00",
+   "kw": "화재",
+   "traffic": "500+",
+   "when": "11월 27일 05:20",
    "news": [
     {
-     "title": "이정현도 울고 갈 세기말 감성! 완전히 새로워진 기상청 예보 서비스 - 영상 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148976414",
-     "source": "대한민국 정책브리핑"
+     "title": "물 쏘며 접근하자 \"쾅쾅\" 연쇄 폭음‥\"뒤로 빠져!\" 인천 남동공단 '전력 진화'",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6868810_36918.html",
+     "source": "MBC 뉴스"
     },
     {
-     "title": "대설 재난문자 전국으로 확대‥기상청, 올겨울 방재기상대책 발표",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6868748_36918.html",
-     "source": "MBC 뉴스"
+     "title": "인천 남동산단 PVC공장 화재, 시신 1구 발견",
+     "url": "https://www.donga.com/news/Society/article/all/20261127/135099439/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "버스",
+   "traffic": "100+",
+   "when": "11월 27일 05:20",
+   "news": [
+    {
+     "title": "교통약자 1,646만 명…저상버스↑·이동편의시설↓",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724045",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "시내버스 2대 중 1대는 저상버스…국민 3명 중 1명은 교통약자",
+     "url": "https://www.yna.co.kr/view/AKR20261126168500003",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "오정세",
+   "traffic": "1000+",
+   "when": "11월 27일 05:00",
+   "news": [
+    {
+     "title": "‘니가 좋아’ 오정세 ‘청룡톱10’ 공연에 배우들도 활짝 [현장영상]",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723481",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "53세 김원준 ‘쇼’에 전도연·신민아도 기립…청룡영화상 90년대 콘서트 됐다",
+     "url": "https://www.donga.com/news/Culture/article/all/20261126/135097100/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "전기자동차 배터리",
+   "traffic": "200+",
+   "when": "11월 27일 05:00",
+   "news": [
+    {
+     "title": "[단독] \"中 전기차보다 싸네\"…아이오닉5, 이제 반값에 산다",
+     "url": "https://www.hankyung.com/article/2026112502651",
+     "source": "한국경제"
+    },
+    {
+     "title": "배터리 리스제 도입 논의…중고 전기차 시장 변 주목",
+     "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005971244",
+     "source": "매일경제TV"
+    }
+   ]
+  },
+  {
+   "kw": "크리스털 팰리스 대 레알 소시에다드",
+   "traffic": "500+",
+   "when": "11월 27일 04:50",
+   "news": [
+    {
+     "title": "유로파 리그 크리스탈 팰리스 대 레알 소시에다드 경기 예측",
+     "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-tran-crystal-palace-vs-real-sociedad-tai-europa-league-1807071.ldo",
+     "source": "Laodong.vn"
+    },
+    {
+     "title": "크리스탈 팰리스 vs 레알 소시에다드 프리뷰: 우승 경쟁의 뜨거운 승부",
+     "url": "https://www.vietnam.vn/ko/nhan-dinh-crystal-palace-vs-real-sociedad-diem-nong-cuoc-dua-top-dau",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "오현규",
+   "traffic": "500+",
+   "when": "11월 27일 04:50",
+   "news": [
+    {
+     "title": "오현규의 안풀리는 날, 관중 난투극까지 난장판! ‘모처럼 선발출장, 그러나 슛 0회, 결국 교체아웃’ 베르셰바전",
+     "url": "https://www.footballist.co.kr/news/articleView.html?idxno=217303",
+     "source": "풋볼리스트"
+    },
+    {
+     "title": "‘韓 대표’ 오현규, 공식 제안 예고! 英 프리미어리그 입성 ‘이적료 책정’ 최소 443억 원 “더 낮은 가격에...",
+     "url": "https://sports.khan.co.kr/article/202611261806003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "김장",
+   "traffic": "2000+",
+   "when": "11월 27일 04:30",
+   "news": [
+    {
+     "title": "창원시·좋은데이 등 사랑의 김장나눔 추진 - 머니투데이",
+     "url": "https://www.mt.co.kr/policy/2026/11/26/2026112616585016562",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[강릉소식]캠코 강원-대한적십자사, 사랑의 김장김치 나눔 등",
+     "url": "https://www.newsis.com/view/NISX20261126_0003884808",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "고양이",
+   "traffic": "500+",
+   "when": "11월 27일 04:30",
+   "news": [
+    {
+     "title": "“프로 가출냥이의 119㎞ 산책”…주인 몰래 기차 타고 런던 다녀온 고양이",
+     "url": "https://www.etnews.com/20261126000347",
+     "source": "전자신문"
+    },
+    {
+     "title": "’방랑벽 냥이’ 영국서 화제…“나홀로 119㎞ 기차여행“",
+     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261125114429Y4U",
+     "source": "연합뉴스TV"
     }
    ]
   },
   {
    "kw": "가스 터빈",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 27일 03:50",
    "news": [
     {
-     "title": "(설명) 정부는 미래 전력수급에 대해 국민들의 다양한 의견을 충분히 듣기 위해 공론화를 추진 중입니다.",
-     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976478",
-     "source": "대한민국 정책브리핑"
+     "title": "[단독] 가스터빈부터 변압기·케이블까지…美 전력 호황 올라탄 韓 기업",
+     "url": "https://www.hankyung.com/article/202611262574i",
+     "source": "한국경제"
     },
     {
-     "title": "[사설] 원전 공론화 시작부터 파행, 이럴 줄 알고 공론에 부친 건가",
-     "url": "https://www.chosun.com/opinion/editorial/2026/11/26/3TGV34XNIRF7XKDX6UM7YZG26A/",
-     "source": "조선일보"
+     "title": "100분기 연속 흑자 찍은 LS일렉트릭…“글로벌 배전 빅4와 진검승부”",
+     "url": "https://www.sedaily.com/article/20119296",
+     "source": "서울경제"
     }
    ]
   },
@@ -49,125 +168,6 @@
      "title": "인자기 아테네 원정 앞둔 밀란에 용기 주문 : 해외축구",
      "url": "https://news.jkn.co.kr/post/1125827",
      "source": "재경일보"
-    }
-   ]
-  },
-  {
-   "kw": "파포스 대 미트윌란",
-   "traffic": "200+",
-   "when": "11월 27일 03:40",
-   "news": [
-    {
-     "title": "PREVIEW | Pafos FC vs Midtjylland: team news, lineups, predictions (Europa Conference League 26/11)",
-     "url": "https://onefootball.com/en/news/preview-pafos-fc-vs-midtjylland-team-news-lineups-predictions-europa-conference-league-2611-43832827",
-     "source": "OneFootball"
-    },
-    {
-     "title": "Pafos vs Midtjylland Preview & Prediction | 2026-27 UEFA Conference League | League Phase",
-     "url": "https://www.thestatszone.com/pafos-vs-midtjylland-preview-prediction-2026-27-uefa-conference-league-league-phase-241217",
-     "source": "The Stats Zone"
-    }
-   ]
-  },
-  {
-   "kw": "렛츠런파크 부산경남",
-   "traffic": "200+",
-   "when": "11월 27일 03:40",
-   "news": [
-    {
-     "title": "“최강 암말·단거리마 가린다”…27일 부산경남서 빅매치",
-     "url": "https://sports.donga.com/sports/article/all/20261126/135095034/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "렛츠런파크 부산경남, 27일 2개 대상경주…총상금 8억원",
-     "url": "https://www.newsis.com/view/NISX20261125_0003882828",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "연합뉴스",
-   "traffic": "200+",
-   "when": "11월 27일 03:30",
-   "news": [
-    {
-     "title": "사우디 정유시설 피격으로 1명 사망…가동 일시 중단",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724040",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "후티, 사우디 정유시설 이틀 연속 공격…네팔인 근로자 1명 사망",
-     "url": "https://www.news1.kr/world/middleeast-africa/6367767",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "경기도",
-   "traffic": "100+",
-   "when": "11월 27일 03:30",
-   "news": [
-    {
-     "title": "이채명 경기도의회 도교육청 예산결산특별위원장 “내년도 본예산안 심사, 숫자 보다 실효 최우선 원칙”",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337862",
-     "source": "인천일보"
-    },
-    {
-     "title": "이채명 의원 \"재정난이 교육의 질 떨어뜨려선 안 돼\"[인터뷰]",
-     "url": "https://www.newsis.com/view/NISX20261126_0003883589",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "kb국민은행",
-   "traffic": "200+",
-   "when": "11월 27일 03:20",
-   "news": [
-    {
-     "title": "소프트제국, 2026 BCGW서 유공 표창 수상…디지털배지·AI 평가 솔루션 선봬",
-     "url": "https://www.etnews.com/20261126000264",
-     "source": "전자신문"
-    },
-    {
-     "title": "디지털 지갑 속 예금토큰으로 결제…국민銀, 체험 시연 - 머니투데이",
-     "url": "https://www.mt.co.kr/finance/2026/11/26/2026112616194992064",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "주거",
-   "traffic": "500+",
-   "when": "11월 27일 02:40",
-   "news": [
-    {
-     "title": "[경기 주택정책 브리프 ①] 수도권 주택공급, 왜 경기도에 쏠리나",
-     "url": "https://gnews.gg.go.kr/news/news_detail.do?number=202611261604503694C109&s_code=C109",
-     "source": "경기도뉴스포털"
-    },
-    {
-     "title": "수도권 신규택지 99% 경기 집중…“직주근접·기반시설 없는 공급은 한계”",
-     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337915",
-     "source": "인천일보"
-    }
-   ]
-  },
-  {
-   "kw": "브라이턴 대 cs u 크라이오바",
-   "traffic": "500+",
-   "when": "11월 27일 02:30",
-   "news": [
-    {
-     "title": "Brighton 4-0 Universitatea Craiova: Seagulls claim dominant Conference League win",
-     "url": "https://www.bbc.com/sport/football/live/c6y80ej72k2gt",
-     "source": "BBC"
-    },
-    {
-     "title": "Brighton 4-0 CSU Craiova (Nov 26, 2026) Game Analysis",
-     "url": "https://www.espn.com/soccer/report/_/gameId/401915814",
-     "source": "ESPN"
     }
    ]
   }
