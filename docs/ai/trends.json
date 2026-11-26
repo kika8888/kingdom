@@ -1,20 +1,88 @@
 {
- "updated": "2026-11-26 19:23",
+ "updated": "2026-11-26 20:22",
  "items": [
   {
-   "kw": "부동산",
-   "traffic": "2000+",
+   "kw": "한국보건의료인국가시험원",
+   "traffic": "500+",
+   "when": "11월 26일 19:10",
+   "news": [
+    {
+     "title": "의사·간호사 국시 일부 과목 만점자 급증···복지부 “AI 부정행위 단정 어려워”",
+     "url": "https://www.khan.co.kr/article/202611261620001",
+     "source": "경향신문"
+    },
+    {
+     "title": "[보도설명자료][11.26.목 중앙일보] 의사냥이·간호냥이도 있나…국시 과목 만점자 7배 뛰었다 관련",
+     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976573",
+     "source": "대한민국 정책브리핑"
+    }
+   ]
+  },
+  {
+   "kw": "india a vs sri lanka a",
+   "traffic": "500+",
+   "when": "11월 26일 18:50",
+   "news": [
+    {
+     "title": "India A vs Sri Lanka A Live Score: IND-A (124/1 in 15 ov), Abhishek fifty puts India in control",
+     "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-sri-lanka-a-live-score-rising-stars-asia-cup-2026-semi-final-ind-a-vs-sl-a-match-3047337-2026-11-26",
+     "source": "India Today"
+    },
+    {
+     "title": "Vaibhav Sooryavanshi dismissed for 40 off 27 balls in Asia Cup Rising Stars 2026 semifinal against Sri Lanka A",
+     "url": "https://sportstar.thehindu.com/cricket/vaibhav-sooryavanshi-score-asia-cup-rising-stars-2026-semifinal-india-a-vs-sri-lanka-a/article71746121.ece",
+     "source": "Sportstar"
+    }
+   ]
+  },
+  {
+   "kw": "구미역",
+   "traffic": "200+",
+   "when": "11월 26일 18:40",
+   "news": [
+    {
+     "title": "동구미역 밑그림 나왔다…구미역과 연결은 어떻게",
+     "url": "https://www.yeongnam.com/web/view.php?key=20261125028262890",
+     "source": "영남일보"
+    },
+    {
+     "title": "'대구·경북 1시간 생활권' 광역철도·국도 확충에 속도",
+     "url": "https://www.yna.co.kr/view/AKR20261125035000053",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "검찰",
+   "traffic": "200+",
+   "when": "11월 26일 18:40",
+   "news": [
+    {
+     "title": "검찰총장 후보 초유의 ‘추가 천거’…기존 3인 외 새 인물 지명 수순?",
+     "url": "https://www.donga.com/news/Politics/article/all/20261126/135095804/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "법무부, 검찰총장 후보 내달 9일까지 추가 천거... 전례 없는 일",
+     "url": "https://www.chosun.com/national/court_law/2026/11/26/4QV4HZUIQ5AFVB76PM7CQSQ4NE/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "미국 휴장",
+   "traffic": "100+",
    "when": "11월 26일 18:20",
    "news": [
     {
-     "title": "홈플러스 \"인수희망자, 유통사업 운영이 목적\" - 머니투데이",
-     "url": "https://www.mt.co.kr/living/2026/11/26/2026112614030735788",
-     "source": "머니투데이"
+     "title": "월가도 하루 쉬어간다…뉴욕증시, 추수감사절 맞아 26일 휴장",
+     "url": "http://www.jemin.com/news/articleView.html?idxno=848602",
+     "source": "제민일보"
     },
     {
-     "title": "다시 벼랑 끝…홈플러스, 결국 영업 중단",
-     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261126185344vsq",
-     "source": "연합뉴스TV"
+     "title": "美 금융시장, 26일 추수감사절로 휴장",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446614",
+     "source": "연합인포맥스"
     }
    ]
   },
@@ -36,25 +104,8 @@
    ]
   },
   {
-   "kw": "이세영",
-   "traffic": "2000+",
-   "when": "11월 26일 17:10",
-   "news": [
-    {
-     "title": "종영 앞둔 ‘재혼황후’ 신민아·이봉련...황후와 시녀장의 깊은 신뢰",
-     "url": "https://www.ytn.co.kr/_sn/0117_202611241515092481",
-     "source": "YTN"
-    },
-    {
-     "title": "‘새종석’ 도쿄로 날아갔다",
-     "url": "https://sports.khan.co.kr/article/202611261612003",
-     "source": "스포츠경향"
-    }
-   ]
-  },
-  {
    "kw": "김희애",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 26일 17:10",
    "news": [
     {
@@ -70,14 +121,31 @@
    ]
   },
   {
+   "kw": "이세영",
+   "traffic": "2000+",
+   "when": "11월 26일 17:10",
+   "news": [
+    {
+     "title": "사이다 종영 ‘재혼 황후‘, 신민아라 가능했던 ‘K-황후’의 품격",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611261658540241",
+     "source": "YTN"
+    },
+    {
+     "title": "“서양 드레스 입은 韓 배우, 통했다”…‘재혼 황후’, 재혼·몰락 빠진 ‘미완의 마침표’",
+     "url": "https://biz.heraldcorp.com/article/10949523",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
+  {
    "kw": "손예진",
    "traffic": "500+",
    "when": "11월 26일 17:00",
    "news": [
     {
-     "title": "손예진, ♥정해인과 8년만 밀착 투샷…“너무 뭉클해 마음 뜨거워”",
-     "url": "https://sports.khan.co.kr/article/202611261300003",
-     "source": "스포츠경향"
+     "title": "현빈♥손예진, 첫사랑 정려원 vs 연하남 정해인 각각 만났다('청룡영화상')",
+     "url": "https://biz.chosun.com/entertainment/movie/2026/11/26/G4ZTOMDEMQ3WIMZVGRQWEMRTME/",
+     "source": "Chosunbiz"
     },
     {
      "title": "손예진은 '밥누나' 정해인, 현빈은 '삼순이' 정려원과…청룡서 재회",
@@ -97,77 +165,9 @@
      "source": "특허뉴스"
     },
     {
-     "title": "나쁜 일자리라도 줄 테니 시간과 삶 내놓으라? [왜냐면]",
-     "url": "https://www.hani.co.kr/arti/opinion/because/1289160.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "이집트",
-   "traffic": "200+",
-   "when": "11월 26일 16:40",
-   "news": [
-    {
-     "title": "“탈출할 시간조차 없었다”…이집트 유조차 충돌 화재 최소 30명 사망 [현장영상]",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723106",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "[쇼츠] 치솟은 시뻘건 화염과 연기…유조차 폭발에 아비규환",
-     "url": "https://www.yna.co.kr/view/AKR20261126156100704",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "2027 학년도 대학 수학 능력 시험",
-   "traffic": "1000+",
-   "when": "11월 26일 16:30",
-   "news": [
-    {
-     "title": "수능 만점 최소 3명이라는데…모두 \"공개 싫다\" 이유가",
-     "url": "https://www.hankyung.com/article/202611261522H",
-     "source": "한국경제"
-    },
-    {
-     "title": "수능 만점 받고도 숨는다…AI 부정행위 논란에 ‘쉬쉬’",
-     "url": "https://news.jtbc.co.kr/article/NB12329904",
-     "source": "JTBC"
-    }
-   ]
-  },
-  {
-   "kw": "코레일",
-   "traffic": "1000+",
-   "when": "11월 26일 16:30",
-   "news": [
-    {
-     "title": "[속보] 코레일 “광역전철 235대 20분 이상 지연…일반열차 4대 운행정지”",
-     "url": "https://www.hani.co.kr/arti/economy/economy_general/1289313.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "\"철도노조 안전운행 투쟁에 광역전철 235대 20분 이상 지연\"(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261126153051063",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "김시아",
-   "traffic": "200+",
-   "when": "11월 26일 16:20",
-   "news": [
-    {
-     "title": "[ET포토] 김민, '인상파'",
-     "url": "https://www.etnews.com/20261126000018",
-     "source": "전자신문"
-    },
-    {
-     "title": "[포토] 배우 이우태, 청담동 나들이",
-     "url": "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650229.html",
-     "source": "뉴데일리"
+     "title": "\"민주당 초광역특구법 저지 투쟁\"",
+     "url": "https://www.newsis.com/view/NISI20261125_0002301866",
+     "source": "뉴시스"
     }
    ]
   }
