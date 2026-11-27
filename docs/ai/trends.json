@@ -1,9 +1,77 @@
 {
- "updated": "2026-11-27 13:23",
+ "updated": "2026-11-27 14:22",
  "items": [
   {
-   "kw": "맨체스터 시티 fc",
+   "kw": "현대모비스",
+   "traffic": "200+",
+   "when": "11월 27일 13:10",
+   "news": [
+    {
+     "title": "현대차그룹, 부품·건설 수장 교체…수익성·SDV 전환 속도 낼 듯",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=375318",
+     "source": "전기신문"
+    },
+    {
+     "title": "“5만대 팔린다는데 10만대 깔아라”⋯ 정의선이 7년째 기아 맡긴 ‘이 남자’",
+     "url": "https://www.viva100.com/article/20261126501674",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "상선",
    "traffic": "100+",
+   "when": "11월 27일 12:40",
+   "news": [
+    {
+     "title": "‘미친 몸값’ 된 유조선… 21년된 노후 VLCC까지 신조발주선 가격 근접",
+     "url": "https://www.dt.co.kr/article/12097473",
+     "source": "www.dt.co.kr"
+    },
+    {
+     "title": "‘중동 원유 수출 정상화·VLCC 운임도 급락’ 韓 정유사 호재",
+     "url": "http://www.e-platform.net/news/articleView.html?idxno=107194",
+     "source": "에너지플랫폼뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "강시 후",
+   "traffic": "10000+",
+   "when": "11월 27일 12:30",
+   "news": [
+    {
+     "title": "‘강호동 아들’ 강시후 전국 골프대회 준우승…‘188㎝·운동 DNA’",
+     "url": "https://www.mk.co.kr/news/hot-issues/12220018",
+     "source": "매일경제"
+    },
+    {
+     "title": "야구 배트 대신 골프채 잡더니…'강호동 아들' 또 일냈다",
+     "url": "https://www.hankyung.com/article/202611274345H",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "수학자",
+   "traffic": "200+",
+   "when": "11월 27일 12:30",
+   "news": [
+    {
+     "title": "수학 연구단체, '클로드 리만가설 증명' 검증 완료…\"코드 옳다\"",
+     "url": "https://www.dongascience.com/ko/news/81042",
+     "source": "DongA Science"
+    },
+    {
+     "title": "AI에 무너지는 난제들…“수학 계속 해도 될까” 수학자들도 계산이 안 선다",
+     "url": "https://www.hani.co.kr/arti/science/science_general/1289376.html",
+     "source": "한겨레"
+    }
+   ]
+  },
+  {
+   "kw": "맨체스터 시티 fc",
+   "traffic": "200+",
    "when": "11월 27일 12:20",
    "news": [
     {
@@ -20,7 +88,7 @@
   },
   {
    "kw": "낸시랭",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 27일 12:20",
    "news": [
     {
@@ -37,7 +105,7 @@
   },
   {
    "kw": "최성민",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 27일 12:20",
    "news": [
     {
@@ -53,25 +121,8 @@
    ]
   },
   {
-   "kw": "jyp 엔터테인먼트",
-   "traffic": "500+",
-   "when": "11월 27일 12:00",
-   "news": [
-    {
-     "title": "JYP 보이그룹 오브더블루, 4인 멤버 비주얼 최초 공개…1월 11일 데뷔",
-     "url": "https://www.newspim.com/news/view/20261126000060",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "확신의 JYP상..오브더블루, 내년 1월 데뷔 앞두고 자기소개 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112708457227418",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
    "kw": "엘니뇨",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 27일 12:00",
    "news": [
     {
@@ -87,6 +138,23 @@
    ]
   },
   {
+   "kw": "jyp 엔터테인먼트",
+   "traffic": "1000+",
+   "when": "11월 27일 12:00",
+   "news": [
+    {
+     "title": "'1월 11일 데뷔' 오브더블루, 멤버 4人 비주얼 공개…자유로운 청춘의 아우라",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/27/GI3TOYZYGQ3GCMRQMVRDIYJRMM/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "얼굴 대신 취향 먼저…JYP 스쿼드 첫 신인 오브더블루, 파격 데뷔 공식",
+     "url": "https://sports.donga.com/ent/article/all/20261126/135096179/1",
+     "source": "스포츠동아"
+    }
+   ]
+  },
+  {
    "kw": "pet the horse",
    "traffic": "200+",
    "when": "11월 27일 12:00",
@@ -95,74 +163,6 @@
      "title": "How PET Scans Are Changing Lameness Diagnosis in Horses",
      "url": "https://thehorse.com/1141343/how-pet-scans-are-changing-lameness-diagnosis-in-horses/",
      "source": "The Horse – Your Guide to Equine Health Care"
-    }
-   ]
-  },
-  {
-   "kw": "강시후",
-   "traffic": "2000+",
-   "when": "11월 27일 11:50",
-   "news": [
-    {
-     "title": "‘강호동 아들’ 강시후 전국 골프대회 준우승…‘188㎝·운동 DNA’",
-     "url": "https://www.mk.co.kr/news/hot-issues/12220018",
-     "source": "매일경제"
-    },
-    {
-     "title": "야구 배트 대신 골프채 잡더니…'강호동 아들' 또 일냈다",
-     "url": "https://www.hankyung.com/article/202611274345H",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "남경필",
-   "traffic": "2000+",
-   "when": "11월 27일 11:50",
-   "news": [
-    {
-     "title": "‘마약사범’ 남경필 아들…여친에게 ‘성관계 영상 유포’ 협박·폭행 혐의",
-     "url": "https://news.jtbc.co.kr/article/NB12330139",
-     "source": "JTBC"
-    },
-    {
-     "title": "‘마약 투약’ 남경필 아들, 전 연인에 성관계 영상 협박하다 체포 [자막뉴스]",
-     "url": "https://ichannela.com/news/detail/000000561932.do",
-     "source": "채널A"
-    }
-   ]
-  },
-  {
-   "kw": "뉴스",
-   "traffic": "2000+",
-   "when": "11월 27일 11:50",
-   "news": [
-    {
-     "title": "AI가 똑똑해질수록 인간은 어떻게 변할까… 신간 ’AI는 여성인 당신을 사랑하지 않아요’",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261126125005nIs",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "[샛강에서] 상식 파괴의 시대",
-     "url": "https://www.kmib.co.kr/article/20261125502047",
-     "source": "국민일보"
-    }
-   ]
-  },
-  {
-   "kw": "별자리",
-   "traffic": "1000+",
-   "when": "11월 27일 11:30",
-   "news": [
-    {
-     "title": "[속보] ‘표류’ 北어선, 24일만에 돌아갔다…1명 남고 6명 송환",
-     "url": "https://www.mk.co.kr/news/politics/12220024",
-     "source": "매일경제"
-    },
-    {
-     "title": "[오늘의 운세] 2026년 11월 27일 띠별 운세",
-     "url": "https://www.ytn.co.kr/_ln/0121_202611270000000001",
-     "source": "YTN"
     }
    ]
   }
