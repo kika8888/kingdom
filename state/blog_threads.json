@@ -1507,7 +1507,8 @@
    "https://blog.naver.com/dkdk521/224494470099",
    "https://blog.naver.com/dkdk521/223453510652",
    "https://blog.naver.com/dkdk521/224494507808",
-   "https://blog.naver.com/dkdk521/223754846713"
+   "https://blog.naver.com/dkdk521/223754846713",
+   "https://blog.naver.com/dkdk521/224494632987"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -2206,7 +2207,9 @@
    "https://blog.naver.com/dkdk521/224494447633",
    "https://blog.naver.com/dkdk521/224494460245",
    "https://blog.naver.com/dkdk521/224494470099",
-   "https://blog.naver.com/dkdk521/224494507808"
+   "https://blog.naver.com/dkdk521/224494507808",
+   "https://blog.naver.com/dkdk521/224494632987",
+   "https://blog.naver.com/dkdk521/224494524045"
   ],
   "backlog": [
    "https://blog.naver.com/dkdk521/223453500158",
@@ -2457,7 +2460,9 @@
    "동메달 근황 정리해봄",
    "손흥민 이야기 듣고 깜짝"
   ],
-  "queue": [],
+  "queue": [
+   "https://blog.naver.com/dkdk521/224494524045"
+  ],
   "reply_ok": true
  }
 }
