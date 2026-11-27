@@ -1,9 +1,77 @@
 {
- "updated": "2026-11-28 00:23",
+ "updated": "2026-11-28 01:22",
  "items": [
   {
+   "kw": "파기환송",
+   "traffic": "2000+",
+   "when": "11월 28일 00:20",
+   "news": [
+    {
+     "title": "윤석열 ‘계엄 국무회의 위증’ 무죄 확정…대법 “허위 진술 입증 부족”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723131",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "“12·3 계엄은 내란 아니다” 31%, 2년 새 내란인식 14%P 줄어···조희대 탄핵 찬성 35%·반대 42%[한국갤럽]",
+     "url": "https://www.khan.co.kr/article/202611271047001",
+     "source": "경향신문"
+    }
+   ]
+  },
+  {
+   "kw": "연애남매2",
+   "traffic": "100+",
+   "when": "11월 27일 23:50",
+   "news": [
+    {
+     "title": "만난 지 24시간도 안 됐는데 스킨십…‘연애남매2’ 오늘 첫 공개",
+     "url": "https://sports.donga.com/ent/article/all/20261127/135102776/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "‘연애남매2’ 한층 솔직하고 거침없어진 로맨스…27일 첫 공개",
+     "url": "https://www.mk.co.kr/news/hot-issues/12218686",
+     "source": "매일경제"
+    }
+   ]
+  },
+  {
+   "kw": "금새록",
+   "traffic": "100+",
+   "when": "11월 27일 23:10",
+   "news": [
+    {
+     "title": "두 달 만에 10kg 뺀 연우 \"온몸에 두드러기\" 부작용 고백 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112706101172811",
+     "source": "머니투데이"
+    },
+    {
+     "title": "‘무쇠소녀단3’ 한지현, 첫 회부터 ‘지트리버’ 활약… 3천 계단 48분 완주",
+     "url": "https://www.viva100.com/article/20261127500209",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "신지아",
+   "traffic": "100+",
+   "when": "11월 27일 23:10",
+   "news": [
+    {
+     "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 그랑프리 2위",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6869179_36946.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "개인 최고점 쇼트 2위…시니어 첫 메달 보인다",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867290",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
    "kw": "박서진",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 27일 23:00",
    "news": [
     {
@@ -36,6 +104,18 @@
    ]
   },
   {
+   "kw": "온두라스 u-17 대 일본 u-17",
+   "traffic": "1000+",
+   "when": "11월 27일 21:40",
+   "news": [
+    {
+     "title": "Watch Honduras U17 vs Japan U17 live today: Who is broadcasting the match on TV and via live stream?",
+     "url": "https://www.goal.com/en-gb/news/live-stream-online-tv-where-to-watch-honduras-u17-v-japan-u17/blt378838225c754e2c",
+     "source": "Goal.com"
+    }
+   ]
+  },
+  {
    "kw": "굿파트너2",
    "traffic": "500+",
    "when": "11월 27일 21:40",
@@ -46,9 +126,9 @@
      "source": "programs.sbs.co.kr"
     },
     {
-     "title": "‘굿파트너2’ 장나라·박해진, 수임 경쟁 불붙었다…김혜윤의 위기 돌파는?",
-     "url": "http://www.jemin.com/news/articleView.html?idxno=848665",
-     "source": "제민일보"
+     "title": "‘굿파트너2’ 김혜윤, 시행착오 딛고 첫 사건 완벽 승소… ‘이혼 전문 변호사’ 첫걸음",
+     "url": "https://sports.khan.co.kr/article/202611280035003",
+     "source": "스포츠경향"
     }
    ]
   },
@@ -58,9 +138,9 @@
    "when": "11월 27일 21:30",
    "news": [
     {
-     "title": "‘이혼 결심’ 2년 뒤…정대세·명서현, 첫째와 13살 차 셋째 임신",
-     "url": "https://www.joongang.co.kr/article/25482351",
-     "source": "중앙일보"
+     "title": "'이혼 위기'였던 정대세·명서현, 셋째 임신 \"첫째와 13살 차이\"",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611270933076060",
+     "source": "YTN"
     },
     {
      "title": "이혼 위기 고백했던 정대세 부부, 셋째 생겼다…\"뻥이지?\" 눈물 펑펑 - 머니투데이",
@@ -83,91 +163,6 @@
      "title": "박정수, '25년 사실혼' 정을영과 웨딩화보 비화…\"흔쾌히 찍게 생겼나\"",
      "url": "https://www.news1.kr/entertain/broadcast-tv/6367824",
      "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "멸망전",
-   "traffic": "200+",
-   "when": "11월 27일 21:00",
-   "news": [
-    {
-     "title": "SOOP, '2026 LoL 멸망전 시즌2' 27일 본선 개막",
-     "url": "https://www.yna.co.kr/view/AKR20261127131700017",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "SOOP, 'LoL 멸망전' 자체 점수제 정식 도입",
-     "url": "https://zdnet.co.kr/view/?no=20261127162559",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "jyp엔터테인먼트",
-   "traffic": "2000+",
-   "when": "11월 27일 20:40",
-   "news": [
-    {
-     "title": "'1월 11일 데뷔' 오브더블루, 멤버 4人 비주얼 공개…자유로운 청춘의 아우라",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/27/GI3TOYZYGQ3GCMRQMVRDIYJRMM/",
-     "source": "Chosunbiz"
-    },
-    {
-     "title": "JYP 보이그룹 오브더블루, 4인 멤버 비주얼 최초 공개…1월 11일 데뷔",
-     "url": "https://www.newspim.com/news/view/20261126000060",
-     "source": "뉴스핌"
-    }
-   ]
-  },
-  {
-   "kw": "농협은행",
-   "traffic": "2000+",
-   "when": "11월 27일 20:10",
-   "news": [
-    {
-     "title": "씨지인사이드, NH농협은행 오픈이노베이션 최우수상 수상…금융상품 광고 Compliance AI 선보여",
-     "url": "https://www.etnews.com/20261127000225",
-     "source": "전자신문"
-    },
-    {
-     "title": "NH농협은행, 비정형데이터 품질 최고 등급…AI 경쟁력 강화",
-     "url": "https://m.ekn.kr/view.php?key=20261127023445945",
-     "source": "에너지경제신문"
-    }
-   ]
-  },
-  {
-   "kw": "박훈정",
-   "traffic": "200+",
-   "when": "11월 27일 20:00",
-   "news": [
-    {
-     "title": "[컬처인사이드] 김명민, '슬픈 열대'로 7년 만의 스크린 복귀",
-     "url": "https://www.ytn.co.kr/_ln/0106_202611271606442096",
-     "source": "YTN"
-    },
-    {
-     "title": "[개봉영화] 박훈정의 누아르 액션, ‘슬픈 열대’…현실 스릴러, ‘완벽한 집’-‘고인아파트’",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724142",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "황교안",
-   "traffic": "200+",
-   "when": "11월 27일 19:50",
-   "news": [
-    {
-     "title": "특검, ‘SNS 내란선동 혐의’ 황교안 징역 10년 구형",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724597",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "‘이석기 판례’로 황교안 징역 10년 구형…황, 13년 전 체포요청 당사자",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1289471.html",
-     "source": "한겨레"
     }
    ]
   }
