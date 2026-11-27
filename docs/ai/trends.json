@@ -1,9 +1,128 @@
 {
- "updated": "2026-11-28 05:23",
+ "updated": "2026-11-28 06:23",
  "items": [
   {
-   "kw": "노팅엄 포레스트 대 첼시",
+   "kw": "복싱",
    "traffic": "1000+",
+   "when": "11월 28일 05:00",
+   "news": [
+    {
+     "title": "스무살 복싱 유망주 김이현, 뺑소니 교통사고로 세상 떠나",
+     "url": "https://www.donga.com/news/Sports/article/all/20261127/135105773/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "스무살 생일 앞두고…복싱 유망주 김이현, 뺑소니 사고로 사망",
+     "url": "https://www.hankyung.com/article/2026112755817",
+     "source": "한국경제"
+    }
+   ]
+  },
+  {
+   "kw": "김가영",
+   "traffic": "100+",
+   "when": "11월 28일 05:00",
+   "news": [
+    {
+     "title": "[엠빅뉴스] 예술구 계속 나온 천적의 8강전! 김가영 대 스롱 피아비",
+     "url": "https://imnews.imbc.com/original/mbig/6869133_29041.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "김가영, 라이벌 스롱 제압…LPBA 준결승서 김보미와 대결",
+     "url": "https://www.yna.co.kr/view/AKR20261127021700007",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "중대범죄수사청",
+   "traffic": "100+",
+   "when": "11월 28일 05:00",
+   "news": [
+    {
+     "title": "중수청 10명·경찰 60명 규모 '내란 특수본' 내달 1일 출범(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261127079251004",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "내란특수본, 다음달 1일 출범…경찰 수사·중수청 법률지원",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261127164536vI2",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "주주",
+   "traffic": "500+",
+   "when": "11월 28일 04:50",
+   "news": [
+    {
+     "title": "예탁원, 전자주총 의무화 앞두고 영상중계·현장운영 협력 논의",
+     "url": "https://www.yna.co.kr/view/AKR20261127045600008",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "\"어디서나 참여할 수 있는 전자주주총회\" 법무부, 기업이 어떻게 준비해야 할지 기준 제시",
+     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790750",
+     "source": "대한민국 정책브리핑"
+    }
+   ]
+  },
+  {
+   "kw": "최민정",
+   "traffic": "100+",
+   "when": "11월 28일 04:40",
+   "news": [
+    {
+     "title": "쇼트트랙 최민정, 상하이 월드투어 첫날 개인 3종목 모두 조 1위",
+     "url": "https://www.yna.co.kr/view/AKR20261127165100007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "쇼트트랙 최민정, 월드투어 4차 대회 개인 3종목 예선 모두 조 1위",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867393",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "google",
+   "traffic": "100+",
+   "when": "11월 28일 04:40",
+   "news": [
+    {
+     "title": "Los Angeles schools block Google’s AI features, consider dropping tech giant’s products",
+     "url": "https://apnews.com/article/google-artificial-intelligence-schools-search-engine-lausd-762a613b11bd316384430112cc223ed1",
+     "source": "AP News"
+    },
+    {
+     "title": "LAUSD blocks Google AI, despite tech giant’s move to pressure schools to go all in",
+     "url": "https://www.latimes.com/california/story/2026-11-27/lausd-blocks-google-ai-search",
+     "source": "Los Angeles Times"
+    }
+   ]
+  },
+  {
+   "kw": "준법투쟁",
+   "traffic": "1000+",
+   "when": "11월 28일 04:30",
+   "news": [
+    {
+     "title": "“이렇게 사람 많은 건 처음” 지하철 1·3·4호선 퇴근길 대란…철도노조 준법투쟁에 시민 불편",
+     "url": "https://www.munhwa.com/article/11634712",
+     "source": "문화일보"
+    },
+    {
+     "title": "[모닝와이드] 오늘의 주요뉴스",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867469",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "노팅엄 포레스트 대 첼시",
+   "traffic": "2000+",
    "when": "11월 28일 04:10",
    "news": [
     {
@@ -19,144 +138,36 @@
    ]
   },
   {
-   "kw": "로스앤젤레스 fc",
-   "traffic": "500+",
-   "when": "11월 28일 03:40",
+   "kw": "이효리",
+   "traffic": "1000+",
+   "when": "11월 28일 04:10",
    "news": [
     {
-     "title": "'벼랑 끝' LAFC 공식 인정! 손흥민이 못 해주면 탈락이다...\"슈퍼스타 SON이 계속 위협적인 모습 보여줘야 해\"",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/26/MM4DIMBTGY4GGYLEMY2DCZJYGQ/",
-     "source": "조선일보"
+     "title": "이효리, 요가원 '노쇼'에 결국 칼 빼들었다",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886769",
+     "source": "뉴시스"
     },
     {
-     "title": "“손흥민은 찾아볼 수 없었다” MLS 사무국 ‘공식 지적’···“LAFC, 부앙가·SON 활약 없으면 PO 2연...",
-     "url": "https://sports.khan.co.kr/article/202611272008003",
-     "source": "스포츠경향"
+     "title": "‘노쇼도 오세요’라더니…이효리 요가원, 한 달 새 ‘페널티’ 꺼냈다",
+     "url": "https://www.mk.co.kr/news/entertain/12220451",
+     "source": "매일경제"
     }
    ]
   },
   {
-   "kw": "한화그룹",
+   "kw": "홍익표",
    "traffic": "100+",
-   "when": "11월 28일 03:40",
+   "when": "11월 28일 04:10",
    "news": [
     {
-     "title": "한화클래식 2026 막 내려…\"문화예술 향유 기회 확장\"",
-     "url": "https://www.yna.co.kr/view/AKR20261127027200003",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "창원·거제서 첫 공연…‘한화클래식 2026’ 성료",
-     "url": "https://biz.heraldcorp.com/article/10951172",
-     "source": "헤럴드경제"
-    }
-   ]
-  },
-  {
-   "kw": "국군간호사관학교",
-   "traffic": "200+",
-   "when": "11월 28일 03:00",
-   "news": []
-  },
-  {
-   "kw": "김승원",
-   "traffic": "200+",
-   "when": "11월 28일 03:00",
-   "news": [
-    {
-     "title": "[단독] '한동훈 자료유출 의혹'‥법무부·공소청 압수수색",
-     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6869062_36967.html",
+     "title": "홍익표 통일장관 후보자, 재산 64억 원 신고‥배우자 주식 33억",
+     "url": "https://imnews.imbc.com/news/2026/politics/article/6869156_36911.html",
      "source": "MBC 뉴스"
     },
     {
-     "title": "‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\"",
-     "url": "https://news.jtbc.co.kr/article/NB12330134",
-     "source": "JTBC"
-    }
-   ]
-  },
-  {
-   "kw": "대한축구협회",
-   "traffic": "100+",
-   "when": "11월 28일 02:30",
-   "news": [
-    {
-     "title": "FIFA-AFC, 공동 대표단 파견…회장 선거 다시 탄력받나?",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724848",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "FIFA·AFC 대표단 내달 방한…한국 축구 수장 선출 해법 모색",
-     "url": "http://www.jemin.com/news/articleView.html?idxno=848673",
-     "source": "제민일보"
-    }
-   ]
-  },
-  {
-   "kw": "교사",
-   "traffic": "2000+",
-   "when": "11월 28일 00:40",
-   "news": [
-    {
-     "title": "교실서 담임 머리채 폭행…\"누가 유출\" 학부모 진정 결국",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866807",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "‘교사 머리채 잡은 초등생’ 영상 유출…경찰 “혐의 없음” 종결",
-     "url": "https://www.kyeonggi.com/article/20261127580141",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "파기환송",
-   "traffic": "5000+",
-   "when": "11월 28일 00:20",
-   "news": [
-    {
-     "title": "“12·3 계엄은 내란 아니다” 31%, 2년 새 내란인식 14%P 줄어···조희대 탄핵 찬성 35%·반대 42%[한국갤럽]",
-     "url": "https://www.khan.co.kr/article/202611271047001",
-     "source": "경향신문"
-    },
-    {
-     "title": "‘한덕수 파기환송’에 \"잘못됐다\" 46%, \"잘한 판결\" 31%",
-     "url": "https://news.jtbc.co.kr/article/NB12330163",
-     "source": "JTBC"
-    }
-   ]
-  },
-  {
-   "kw": "연애남매2",
-   "traffic": "100+",
-   "when": "11월 27일 23:50",
-   "news": [
-    {
-     "title": "만난 지 24시간도 안 됐는데 스킨십…‘연애남매2’ 오늘 첫 공개",
-     "url": "https://sports.donga.com/ent/article/all/20261127/135102776/1",
-     "source": "스포츠동아"
-    },
-    {
-     "title": "'연애남매2' CP \"한혜진, 연애에 좋은 인사이트 줘…제작진도 돌아보게 해\"",
-     "url": "https://www.fnnews.com/news/202611201432308496",
-     "source": "파이낸셜뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "신지아",
-   "traffic": "100+",
-   "when": "11월 27일 23:10",
-   "news": [
-    {
-     "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 그랑프리 2위",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6869179_36946.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "피겨 NHK 트로피 2026: 신지아, 유영 출전 여자 싱글 경기 일정 및 결과",
-     "url": "https://www.olympics.com/ko/news/team-korea-schedule-results-isu-figure-skating-grand-prix-nhk-trophy-2026",
-     "source": "Olympic Channel"
+     "title": "개각 5명 검증 정국 돌입…재산·논문·경력 도마 위",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128004918u6m",
+     "source": "연합뉴스TV"
     }
    ]
   }
