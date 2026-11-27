@@ -1,11 +1,96 @@
 {
- "updated": "2026-11-28 04:23",
+ "updated": "2026-11-28 05:23",
  "items": [
   {
-   "kw": "국군간호사관학교",
+   "kw": "노팅엄 포레스트 대 첼시",
+   "traffic": "1000+",
+   "when": "11월 28일 04:10",
+   "news": [
+    {
+     "title": "[if.preview] ‘11경기 9골 빈공’ 노팅엄 vs ‘20실점 수비 붕괴’ 첼시, 부진 탈출에 성공할 팀은?",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101394",
+     "source": "포포투"
+    },
+    {
+     "title": "프리미어 리그 12라운드: 첼시와 맨체스터 유나이티드는 위기에서 벗어날 방법을 모색한다.",
+     "url": "https://www.vietnam.vn/ko/vong-12-premier-league-chelsea-man-united-tim-duong-thoat",
+     "source": "Vietnam.vn"
+    }
+   ]
+  },
+  {
+   "kw": "로스앤젤레스 fc",
+   "traffic": "500+",
+   "when": "11월 28일 03:40",
+   "news": [
+    {
+     "title": "'벼랑 끝' LAFC 공식 인정! 손흥민이 못 해주면 탈락이다...\"슈퍼스타 SON이 계속 위협적인 모습 보여줘야 해\"",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/26/MM4DIMBTGY4GGYLEMY2DCZJYGQ/",
+     "source": "조선일보"
+    },
+    {
+     "title": "“손흥민은 찾아볼 수 없었다” MLS 사무국 ‘공식 지적’···“LAFC, 부앙가·SON 활약 없으면 PO 2연...",
+     "url": "https://sports.khan.co.kr/article/202611272008003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "한화그룹",
    "traffic": "100+",
+   "when": "11월 28일 03:40",
+   "news": [
+    {
+     "title": "한화클래식 2026 막 내려…\"문화예술 향유 기회 확장\"",
+     "url": "https://www.yna.co.kr/view/AKR20261127027200003",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "창원·거제서 첫 공연…‘한화클래식 2026’ 성료",
+     "url": "https://biz.heraldcorp.com/article/10951172",
+     "source": "헤럴드경제"
+    }
+   ]
+  },
+  {
+   "kw": "국군간호사관학교",
+   "traffic": "200+",
    "when": "11월 28일 03:00",
    "news": []
+  },
+  {
+   "kw": "김승원",
+   "traffic": "200+",
+   "when": "11월 28일 03:00",
+   "news": [
+    {
+     "title": "[단독] '한동훈 자료유출 의혹'‥법무부·공소청 압수수색",
+     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6869062_36967.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "‘내부자료 유출’ 의혹에 공소청 압수수색 들어간 경찰…한동훈 \"국무회의서 잘못된 교육 받았나\"",
+     "url": "https://news.jtbc.co.kr/article/NB12330134",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "대한축구협회",
+   "traffic": "100+",
+   "when": "11월 28일 02:30",
+   "news": [
+    {
+     "title": "FIFA-AFC, 공동 대표단 파견…회장 선거 다시 탄력받나?",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724848",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "FIFA·AFC 대표단 내달 방한…한국 축구 수장 선출 해법 모색",
+     "url": "http://www.jemin.com/news/articleView.html?idxno=848673",
+     "source": "제민일보"
+    }
+   ]
   },
   {
    "kw": "교사",
@@ -72,91 +157,6 @@
      "title": "피겨 NHK 트로피 2026: 신지아, 유영 출전 여자 싱글 경기 일정 및 결과",
      "url": "https://www.olympics.com/ko/news/team-korea-schedule-results-isu-figure-skating-grand-prix-nhk-trophy-2026",
      "source": "Olympic Channel"
-    }
-   ]
-  },
-  {
-   "kw": "금새록",
-   "traffic": "100+",
-   "when": "11월 27일 23:10",
-   "news": [
-    {
-     "title": "연우 \"급격한 다이어트 면역력 떨어져…많이 울었다\"",
-     "url": "https://www.newsis.com/view/NISX20261127_0003885403",
-     "source": "뉴시스"
-    },
-    {
-     "title": "두 달 만에 10kg 뺀 연우 \"온몸에 두드러기\" 부작용 고백 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112706101172811",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "박서진",
-   "traffic": "2000+",
-   "when": "11월 27일 23:00",
-   "news": [
-    {
-     "title": "'장구의 신' 박서진, 하다하다 5억짜리 장구까지 연주 '초긴장'(살림남)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/MM3TONLEMMYWMNLDGM3GMYZYHA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "박서진, 트로트가수 최초 국제 페스티벌…동방신기 섰던 자리",
-     "url": "https://www.newsis.com/view/NISX20261127_0003885977",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "강지영",
-   "traffic": "200+",
-   "when": "11월 27일 21:40",
-   "news": [
-    {
-     "title": "[방송소식] MBC라디오, 다음 달 1일 'FM4U 패밀리데이'",
-     "url": "https://www.yna.co.kr/view/AKR20261127082100005",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "이문세·배철수·안영미, 하루 동안 자리 교체…'MBC FM4U 패밀리데이'",
-     "url": "https://www.newsis.com/view/NISX20261127_0003886153",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "온두라스 u-17 대 일본 u-17",
-   "traffic": "1000+",
-   "when": "11월 27일 21:40",
-   "news": [
-    {
-     "title": "FIFA U-17 World Cup - Japan beat Honduras to advance",
-     "url": "https://www.the-afc.com/en/national/fifa_u-17_world_cup.html/news/japan-beat-honduras-to-advance",
-     "source": "The AFC"
-    },
-    {
-     "title": "U-17 World Cup: Japan and China both face elimination crisis = Chinese netizens: 'China is probably okay, but Japan...'",
-     "url": "https://www.recordchina.co.jp/en/b999179-s25-c50-d0192.html",
-     "source": "Record China"
-    }
-   ]
-  },
-  {
-   "kw": "굿파트너2",
-   "traffic": "500+",
-   "when": "11월 27일 21:40",
-   "news": [
-    {
-     "title": "‘굿파트너2’ 장나라·박해진, 수임 경쟁 불붙었다…김혜윤의 위기 돌파는?",
-     "url": "http://www.jemin.com/news/articleView.html?idxno=848665",
-     "source": "제민일보"
-    },
-    {
-     "title": "“또 따라 하기는” 장나라, 괜히 시비 거는 박해진에게 날린 뼈 때리는 팩폭 한 방♨",
-     "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC484449324?div=live_end",
-     "source": "programs.sbs.co.kr"
     }
    ]
   }
