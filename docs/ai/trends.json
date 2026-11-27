@@ -1,6 +1,142 @@
 {
- "updated": "2026-11-27 15:23",
+ "updated": "2026-11-27 16:23",
  "items": [
+  {
+   "kw": "히샬리송",
+   "traffic": "100+",
+   "when": "11월 27일 15:20",
+   "news": [
+    {
+     "title": "‘토트넘 금쪽이’ 히샬리송·‘맨유 87경기 11골’ 지르크제이 에버턴 영입망… 포체티노 구상이 변수",
+     "url": "https://www.besteleven.com/news/articleView.html?idxno=314393",
+     "source": "베스트일레븐"
+    },
+    {
+     "title": "손흥민 옆에서 뛰다 한순간 4부 추락하더니…“히샬리송, 끝내 토트넘 떠나 에버턴 복귀 고려”",
+     "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101374",
+     "source": "포포투"
+    }
+   ]
+  },
+  {
+   "kw": "조승우",
+   "traffic": "100+",
+   "when": "11월 27일 15:20",
+   "news": [
+    {
+     "title": "조승우 “엄마 말 때문에 장가 못 가”…46세 미혼, ‘좁쌀영감’ 한마디",
+     "url": "https://www.donga.com/news/Culture/article/all/20261127/135101583/2",
+     "source": "동아일보"
+    },
+    {
+     "title": "'46세' 조승우가 임플란트라니..\"남성호르몬 수치도 떨어졌다\" 깜짝",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/26/MRSGGOLEGFTGCZRUMEZWINDEMQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "최민희 징계",
+   "traffic": "100+",
+   "when": "11월 27일 15:00",
+   "news": [
+    {
+     "title": "최민희 징계 심사 돌입‥민주당 긴장 고조",
+     "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6869061_36967.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "정청래, 김민석 겨냥 \"당대표라도 징계 앞에 예외일 수 없어\" - 머니투데이",
+     "url": "https://www.mt.co.kr/politics/2026/11/27/2026112714421510820",
+     "source": "머니투데이"
+    }
+   ]
+  },
+  {
+   "kw": "경남 fc",
+   "traffic": "100+",
+   "when": "11월 27일 15:00",
+   "news": [
+    {
+     "title": "'필사즉생' 서울 이랜드, 경남 잡고 3위로 PO 간다!",
+     "url": "https://www.chosun.com/sports/football/2026/11/27/HBSGKN3GMQ2WCMRWHA3DGZLBHA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "경남FC, 홈 폐막전 승리로 시즌 마무리 노린다",
+     "url": "https://www.gnmaeil.com/news/articleView.html?idxno=599636",
+     "source": "경남매일"
+    }
+   ]
+  },
+  {
+   "kw": "롯데그룹",
+   "traffic": "500+",
+   "when": "11월 27일 14:50",
+   "news": [
+    {
+     "title": "신유열 ‘바이오’ 구본규 ‘전력 인프라’…",
+     "url": "https://www.mk.co.kr/news/economy/12220096",
+     "source": "매일경제"
+    },
+    {
+     "title": "6년만에 단 사장 명패…롯데 예비 '오너' 신유열이 넘어야 할 진짜 벽",
+     "url": "https://www.investchosun.com/site/data/html_dir/2026/11/23/2026112380129.html",
+     "source": "인베스트조선"
+    }
+   ]
+  },
+  {
+   "kw": "신태일",
+   "traffic": "500+",
+   "when": "11월 27일 14:50",
+   "news": [
+    {
+     "title": "미성년자들 성착취 라이브 방송한 BJ, 항소심도 징역 6년",
+     "url": "https://www.yna.co.kr/view/AKR20261127107500065",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'미성년자 성착취물 생중계' BJ 신태일, 2심도 징역 6년",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886409",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "신달자",
+   "traffic": "100+",
+   "when": "11월 27일 14:50",
+   "news": [
+    {
+     "title": "신달자 \"'니는 될 끼다'…빌딩보다 값진 어머니의 유언이었죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261126192400005",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "어머니가 남긴 사랑, 딸이 써 내려간 답장 [신간 소개]",
+     "url": "https://www.kyeonggi.com/article/20261125580086",
+     "source": "경기일보"
+    }
+   ]
+  },
+  {
+   "kw": "모두의카드",
+   "traffic": "100+",
+   "when": "11월 27일 14:40",
+   "news": [
+    {
+     "title": "이제 청소년도 교통비 환급 - 카드/한컷 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976628&pWise=sub&pWiseSub=R4",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "'모두의카드' 13세도 이용 가능…12월부터 확대",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863856",
+     "source": "SBS 뉴스"
+    }
+   ]
+  },
   {
    "kw": "고우석",
    "traffic": "200+",
@@ -24,150 +160,14 @@
    "when": "11월 27일 14:10",
    "news": [
     {
-     "title": "어망에 걸리고 화재 나고…손원일급 잠수함 2척 파손돼 수리 중",
-     "url": "https://www.yna.co.kr/view/AKR20261127013900504",
+     "title": "[영상] 손원일급 잠수함 2척 잇단 사고…해군 \"대비 태세 유지\"",
+     "url": "https://www.yna.co.kr/view/AKR20261127112800704",
      "source": "연합뉴스"
     },
     {
-     "title": "손원일급 잠수함 2척, 잇따른 사고로 파손·수리…\"전력 공백 없을 것\"",
-     "url": "https://www.newsis.com/view/NISX20261127_0003885659",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "전두환",
-   "traffic": "500+",
-   "when": "11월 27일 14:00",
-   "news": [
-    {
-     "title": "전두환 단죄를 \"정치 재판\"‥김태규 영상 틀며 \"재심 추진\"",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868892_37004.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "[쏙쏙뉴스] 12·12 주역들이 모인 전두환 추모행사… '재평가'와 '재심 청구'?",
-     "url": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116787",
-     "source": "OhmyNews"
-    }
-   ]
-  },
-  {
-   "kw": "미세먼지",
-   "traffic": "100+",
-   "when": "11월 27일 14:00",
-   "news": [
-    {
-     "title": "제8차 미세먼지 계절관리제 석탄발전 최대 18기 가동 중단",
-     "url": "https://gonggam.korea.kr/newsContentView.es?content=NC002&news_id=95ba8803-3aa3-4f24-84ff-2f32300ef06e&section_id=NCCD_POLICY&mid=a10201000000&code_cd=0101000000",
-     "source": "K-공감"
-    },
-    {
-     "title": "‘배출가스 5등급’ 차량 운행제한···대구, 12월부터 4개월간 단속",
-     "url": "https://www.khan.co.kr/article/202611271425001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "교통",
-   "traffic": "5000+",
-   "when": "11월 27일 13:40",
-   "news": [
-    {
-     "title": "국민 3명 중 1명은 교통약자···고령화로 1년 새 33만명 증가",
-     "url": "https://www.khan.co.kr/article/202611271021021",
-     "source": "경향신문"
-    },
-    {
-     "title": "시내버스 2대 중 1대는 저상버스…국민 3명 중 1명은 교통약자",
-     "url": "https://www.yna.co.kr/view/AKR20261126168500003",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "이재명 정부",
-   "traffic": "200+",
-   "when": "11월 27일 13:40",
-   "news": [
-    {
-     "title": "李대통령 “왜 ‘가난하다’는 서류 떼야 하나…복지 ‘자동주의’ 돼야”",
-     "url": "https://www.kyeonggi.com/article/20261126580566",
-     "source": "경기일보"
-    },
-    {
-     "title": "신청서 찾고 있었는데, 복지급여가 먼저 찾아왔다 - 영상 | 멀티미디어",
-     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148976487",
-     "source": "대한민국 정책브리핑"
-    }
-   ]
-  },
-  {
-   "kw": "배정남",
-   "traffic": "100+",
-   "when": "11월 27일 13:40",
-   "news": [
-    {
-     "title": "배정남, 배우 데뷔 첫 연기상 쾌거…이틀 연속 시상식 휩쓸어",
-     "url": "https://sports.khan.co.kr/article/202611261019003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "[ET포토] 배정남, '사나이의 미소'",
-     "url": "https://www.etnews.com/20261125000058",
-     "source": "전자신문"
-    }
-   ]
-  },
-  {
-   "kw": "경기남부",
-   "traffic": "500+",
-   "when": "11월 27일 13:30",
-   "news": [
-    {
-     "title": "“이틀 새 6000만원 올랐다”…서울 주춤한 사이 경기 남부 ‘불장’",
-     "url": "https://www.mk.co.kr/news/realestate/12219936",
-     "source": "매일경제"
-    },
-    {
-     "title": "[비바100] 집값 뛰는 경기 남부, 주거 기준도 뛴다",
-     "url": "https://www.viva100.com/article/20261108500378",
-     "source": "브릿지경제"
-    }
-   ]
-  },
-  {
-   "kw": "투자",
-   "traffic": "10000+",
-   "when": "11월 27일 13:20",
-   "news": [
-    {
-     "title": "이 대통령 \"7대 SEED 프로젝트 더 속도…맞춤형 추진전략 마련\"",
-     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976591&pWise=sub&pWiseSub=R4",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "[정책 인사이트] 유망기업 투자자 되겠단 정부… 先 투자·後 지분 정산 방안도 검토",
-     "url": "https://biz.chosun.com/policy/policy_sub/2026/11/27/LN3BLLX53VBDZKT5WTNYAHK5QA/",
-     "source": "Chosunbiz"
-    }
-   ]
-  },
-  {
-   "kw": "항소",
-   "traffic": "200+",
-   "when": "11월 27일 13:20",
-   "news": [
-    {
-     "title": "항소심 결심공판 향하는 김만배 - 유동규 - 남욱",
-     "url": "https://www.newspim.com/news/view/20261127000560",
-     "source": "뉴스핌"
-    },
-    {
-     "title": "[쏙쏙뉴스] '재창이형'은 왜 '실장님'이 됐나… 조작기소 특검 앞에 선 대장동 수사",
-     "url": "https://m.ohmynews.com/NWS_Web/Mobile/mov_pg.aspx?CNTN_CD=ME000116813",
-     "source": "OhmyNews"
+     "title": "어망에 걸리고 화재도…손원일급 잠수함 2척 파손돼 수리 중",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH202611270941575Yh",
+     "source": "연합뉴스TV"
     }
    ]
   }
