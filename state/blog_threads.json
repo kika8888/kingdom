@@ -467,7 +467,8 @@
    "https://blog.naver.com/soduwk1209/224413242652",
    "https://blog.naver.com/soduwk1209/224413237984",
    "https://blog.naver.com/soduwk1209/224412020570",
-   "https://blog.naver.com/soduwk1209/224412015295"
+   "https://blog.naver.com/soduwk1209/224412015295",
+   "https://blog.naver.com/soduwk1209/224410242802"
   ],
   "started": true,
   "v": 2,
@@ -979,7 +980,6 @@
    "https://blog.naver.com/soduwk1209/224493999907"
   ],
   "backlog": [
-   "https://blog.naver.com/soduwk1209/224410242802",
    "https://blog.naver.com/soduwk1209/224410223264",
    "https://blog.naver.com/soduwk1209/224410212425",
    "https://blog.naver.com/soduwk1209/224410192608",
@@ -1016,7 +1016,7 @@
    "https://blog.naver.com/soduwk1209/224395130362",
    "https://blog.naver.com/soduwk1209/224101158454"
   ],
-  "last_old": 1795773776.9031985,
+  "last_old": 1795784578.226891,
   "tone": "짧게",
   "hooks": [
    "와 임영웅 이런 일이 있었네",
@@ -1508,7 +1508,8 @@
    "https://blog.naver.com/dkdk521/223453510652",
    "https://blog.naver.com/dkdk521/224494507808",
    "https://blog.naver.com/dkdk521/223754846713",
-   "https://blog.naver.com/dkdk521/224494632987"
+   "https://blog.naver.com/dkdk521/224494632987",
+   "https://blog.naver.com/dkdk521/224494524045"
   ],
   "known": [
    "https://blog.naver.com/dkdk521/224437715076",
@@ -2460,9 +2461,7 @@
    "동메달 근황 정리해봄",
    "손흥민 이야기 듣고 깜짝"
   ],
-  "queue": [
-   "https://blog.naver.com/dkdk521/224494524045"
-  ],
+  "queue": [],
   "reply_ok": true
  }
 }
