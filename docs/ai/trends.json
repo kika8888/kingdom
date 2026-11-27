@@ -1,9 +1,43 @@
 {
- "updated": "2026-11-27 21:23",
+ "updated": "2026-11-27 22:22",
  "items": [
   {
+   "kw": "멸망전",
+   "traffic": "100+",
+   "when": "11월 27일 21:00",
+   "news": [
+    {
+     "title": "SOOP, '2026 LoL 멸망전 시즌2' 27일 본선 개막",
+     "url": "https://www.yna.co.kr/view/AKR20261127131700017",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "SOOP, 'LoL 멸망전' 자체 점수제 정식 도입",
+     "url": "https://zdnet.co.kr/view/?no=20261127162559",
+     "source": "지디넷코리아"
+    }
+   ]
+  },
+  {
+   "kw": "jyp엔터테인먼트",
+   "traffic": "2000+",
+   "when": "11월 27일 20:40",
+   "news": [
+    {
+     "title": "'1월 11일 데뷔' 오브더블루, 멤버 4人 비주얼 공개…자유로운 청춘의 아우라",
+     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/27/GI3TOYZYGQ3GCMRQMVRDIYJRMM/",
+     "source": "Chosunbiz"
+    },
+    {
+     "title": "JYP 보이그룹 오브더블루, 4인 멤버 비주얼 최초 공개…1월 11일 데뷔",
+     "url": "https://www.newspim.com/news/view/20261126000060",
+     "source": "뉴스핌"
+    }
+   ]
+  },
+  {
    "kw": "농협은행",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 27일 20:10",
    "news": [
     {
@@ -12,9 +46,9 @@
      "source": "경향신문"
     },
     {
-     "title": "금융위 은행권 지역재투자 평가 상대평가로 바꾼다, 최우수 은행 7곳에서 1곳으로",
-     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=453172",
-     "source": "비즈니스포스트"
+     "title": "금융위, 은행 지역재투자 상대평가로 전환…서민대출 배점 확대",
+     "url": "https://www.yna.co.kr/view/AKR20261127103500002",
+     "source": "연합뉴스"
     }
    ]
   },
@@ -41,31 +75,14 @@
    "when": "11월 27일 19:50",
    "news": [
     {
-     "title": "‘이석기 판례’로 황교안 징역 10년 구형…황, 13년 전 체포요청 당사자",
-     "url": "https://www.hani.co.kr/arti/society/society_general/1289471.html",
-     "source": "한겨레"
-    },
-    {
-     "title": "특검, “윤석열 방해하는 한동훈 체포하라”던 황교안 ‘SNS 내란선동 혐의’로 징역 10년 구형",
-     "url": "https://weekly.khan.co.kr/article/202611272052001",
-     "source": "주간경향"
-    }
-   ]
-  },
-  {
-   "kw": "파기 환송",
-   "traffic": "2000+",
-   "when": "11월 27일 19:50",
-   "news": [
-    {
-     "title": "윤석열 ‘계엄 국무회의 위증’ 무죄 확정…대법 “허위 진술 입증 부족”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723131",
+     "title": "특검, ‘SNS 내란선동 혐의’ 황교안 징역 10년 구형",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724597",
      "source": "KBS 뉴스"
     },
     {
-     "title": "법원 판단은 한결같았다 \"12·3 계엄은 내란\"",
-     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6869190_37004.html",
-     "source": "MBC 뉴스"
+     "title": "‘이석기 판례’로 황교안 징역 10년 구형…황, 13년 전 체포요청 당사자",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1289471.html",
+     "source": "한겨레"
     }
    ]
   },
@@ -87,25 +104,42 @@
    ]
   },
   {
+   "kw": "파라타항공",
+   "traffic": "100+",
+   "when": "11월 27일 19:40",
+   "news": [
+    {
+     "title": "[11월 27일 고용24 채용정보] 파라타항공·국제식물검역인증원·바이오노트·인천항만공사·한솔로지스틱스",
+     "url": "https://www.news2day.co.kr/article/20261127500024",
+     "source": "뉴스투데이"
+    },
+    {
+     "title": "파라타항공, FSC 도전…1000억 적자 딛고 반등할까",
+     "url": "https://www.economytalk.kr/news/articleView.html?idxno=425452",
+     "source": "이코노미톡뉴스"
+    }
+   ]
+  },
+  {
    "kw": "bangladesh a vs pakistan a",
    "traffic": "200+",
    "when": "11월 27일 19:30",
    "news": [
     {
-     "title": "Bangladesh A vs Pakistan A, free match prediction 27 November 2026",
-     "url": "https://www.thetopbookies.com/betting-tips/cricket/bana-vs-pak-a-27-Nov-2026",
-     "source": "TheTopBookies"
+     "title": "Pakistan Shaheens Face Bangladesh A in Rising Stars Semifinal",
+     "url": "https://cwibc.co.id/en/pakistan-bangladesh-rising-stars-semifinal",
+     "source": "cwibc.co.id"
     },
     {
-     "title": "Bangladesh A Elect To Bat First Against Pakistan Shaheens In Rising Stars Semi-Final",
-     "url": "https://wenewsenglish.com/pakistan-bangladesh-rising-stars-semi-final/",
-     "source": "WE News English"
+     "title": "Cricket match player highlights | PAKA vs BANA, 2nd Semi-Final (B1 v A2), ACC Men's Asia Cup Rising Stars 2026",
+     "url": "https://www.cricbuzz.com/player-match-highlights/177214/1/14211/batting",
+     "source": "Cricbuzz"
     }
    ]
   },
   {
    "kw": "agf",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 27일 19:20",
    "news": [
     {
@@ -126,48 +160,14 @@
    "when": "11월 27일 18:40",
    "news": [
     {
-     "title": "스무살 복싱 유망주 김이현, 뺑소니 교통사고로 세상 떠나",
-     "url": "https://www.donga.com/news/Sports/article/all/20261127/135105773/1",
-     "source": "동아일보"
-    },
-    {
-     "title": "‘복싱 유망주‘ 김이현, 뺑소니 사고로 숨져…향년 19세",
+     "title": "19세 복싱 유망주 김이현, 뺑소니 사고로 숨져",
      "url": "https://www.donga.com/news/Society/article/all/20261127/135106004/2",
      "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "서울교통공사 채용",
-   "traffic": "1000+",
-   "when": "11월 27일 18:30",
-   "news": [
-    {
-     "title": "철도노조 투쟁 첫날...무궁화호 멈추고 전철 무더기 지연",
-     "url": "https://www.ytn.co.kr/_ln/0102_202611270503025651",
-     "source": "YTN"
     },
     {
-     "title": "“이렇게 사람 많은 건 처음” 지하철 1·3·4호선 퇴근길 대란…철도노조 준법투쟁에 시민 불편",
-     "url": "https://www.munhwa.com/article/11634712",
-     "source": "문화일보"
-    }
-   ]
-  },
-  {
-   "kw": "aus vs eng",
-   "traffic": "100+",
-   "when": "11월 27일 18:30",
-   "news": [
-    {
-     "title": "Australia vs England LIVE: Third T20, Brisbane - cricket score, commentary & updates",
-     "url": "https://www.bbc.com/sport/cricket/live/cwylrwj2zd9t",
-     "source": "BBC"
-    },
-    {
-     "title": "Overton’s fiery five-wicket haul helps England to flip Gabba script against Australia",
-     "url": "https://www.theguardian.com/sport/2026/nov/27/overton-england-beat-australia-seven-wickets-third-t20-cricket",
-     "source": "The Guardian"
+     "title": "스무살 생일 앞두고…복싱 유망주 김이현, 뺑소니 사고로 사망",
+     "url": "https://www.hankyung.com/article/2026112755817",
+     "source": "한국경제"
     }
    ]
   }
