@@ -1,9 +1,134 @@
 {
- "updated": "2026-11-27 11:23",
+ "updated": "2026-11-27 12:23",
  "items": [
   {
-   "kw": "sema",
+   "kw": "죽도시장",
+   "traffic": "500+",
+   "when": "11월 27일 11:20",
+   "news": [
+    {
+     "title": "[여기는 포항] 포항 죽도시장 상인, 골목형 상가 해법 찾아 외",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723692",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "증평군, 골목형상점가 3곳 신규 지정…\"상권 활성화 기대\"",
+     "url": "https://www.yna.co.kr/view/AKR20261127017000064",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "모리야스 하지메",
+   "traffic": "200+",
+   "when": "11월 27일 11:20",
+   "news": [
+    {
+     "title": "前 일본 대표팀 감독 모리야스, K리그 올까",
+     "url": "https://www.chosun.com/sports/world-football/2026/11/27/4MZ2IJTV5RB6DHAVJY7DHDM4HA/",
+     "source": "조선일보"
+    },
+    {
+     "title": "모리야스, 일본 대표팀 8년 마무리…다음 행선지로 유럽 거론",
+     "url": "https://sports.khan.co.kr/article/202611261316003",
+     "source": "스포츠경향"
+    }
+   ]
+  },
+  {
+   "kw": "2026",
    "traffic": "100+",
+   "when": "11월 27일 11:20",
+   "news": [
+    {
+     "title": "Global Digital Health Forum 2026",
+     "url": "https://www.who.int/news-room/events/detail/2026/12/02/default-calendar/global-digital-health-forum-2026",
+     "source": "World Health Organization (WHO)"
+    },
+    {
+     "title": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)",
+     "url": "https://www.mlb.com/news/things-to-be-thankful-for-from-2026-mlb-season",
+     "source": "MLB.com"
+    }
+   ]
+  },
+  {
+   "kw": "이동욱",
+   "traffic": "200+",
+   "when": "11월 27일 10:50",
+   "news": [
+    {
+     "title": "시상식 참석 위해 일본서 날아온 스기모토 \"열심히 노력했던 선수로 기억되고파\"",
+     "url": "https://www.newsis.com/view/NISX20261126_0003885243",
+     "source": "뉴시스"
+    },
+    {
+     "title": "KIA-NC 왜 '이 선수' 안 잡았나 논란→48억 혜자 FA, 솔직 속내 밝혔다 \"10년 응원에도 늦게 꽃핀 거 같아, 감사했다\"",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/26/GMZWKYTFGNQWGY3EHA4WCNBWMQ/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "대한민국의 중앙행정기관",
+   "traffic": "200+",
+   "when": "11월 27일 10:50",
+   "news": []
+  },
+  {
+   "kw": "한동훈",
+   "traffic": "2000+",
+   "when": "11월 27일 10:30",
+   "news": [
+    {
+     "title": "[단독] 경찰, '한동훈 자료 유출' 법무부·공소청 등 압수수색",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6869010_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "경찰, ‘한동훈 수사자료 유출 의혹’ 법무부·공소청 등 압수수색",
+     "url": "https://news.jtbc.co.kr/article/NB12330116",
+     "source": "JTBC"
+    }
+   ]
+  },
+  {
+   "kw": "코스닥",
+   "traffic": "100+",
+   "when": "11월 27일 10:30",
+   "news": [
+    {
+     "title": "코스닥 장중 5% 급등‥'매수 사이드카' 발동",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6869030_36932.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "코스닥 5% 급등에 ‘매수 사이드카’...코스피도 1.7% 상승세",
+     "url": "https://www.chosun.com/economy/money/2026/11/27/ZRXWI6FSPFCXBPIF4THL4E5KKU/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "국시원",
+   "traffic": "500+",
+   "when": "11월 27일 10:20",
+   "news": [
+    {
+     "title": "[보도설명자료][11.26.목 중앙일보] 의사냥이·간호냥이도 있나…국시 과목 만점자 7배 뛰었다 관련",
+     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976573",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "\"이례적인 수치\"...7배 늘어난 의사 국가시험 일부 과목 '만점자' [Y녹취록]",
+     "url": "https://www.ytn.co.kr/_ln/0134_202611270951249146",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "sema",
+   "traffic": "200+",
    "when": "11월 27일 10:20",
    "news": [
     {
@@ -20,7 +145,7 @@
   },
   {
    "kw": "ai 에이전트",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 27일 10:00",
    "news": [
     {
@@ -32,131 +157,6 @@
      "title": "네이버·카카오, '실행형' AI 에이전트 내달 출시…피클 돌풍 잠재울까",
      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446918",
      "source": "연합인포맥스"
-    }
-   ]
-  },
-  {
-   "kw": "유한양행",
-   "traffic": "200+",
-   "when": "11월 27일 10:00",
-   "news": [
-    {
-     "title": "유한양행 '버들장터', 건기식·생활용품 할인…최대 10만원 쿠폰 지급",
-     "url": "https://www.etnews.com/20261127000053",
-     "source": "전자신문"
-    },
-    {
-     "title": "천호엔케어, 블랙프라이데이 맞이 건강식품 26종 행사 운영",
-     "url": "https://www.lawissue.co.kr/view.php?ud=202611252334571574204ead0791_12",
-     "source": "로이슈"
-    }
-   ]
-  },
-  {
-   "kw": "lg에너지솔루션",
-   "traffic": "500+",
-   "when": "11월 27일 09:50",
-   "news": [
-    {
-     "title": "[단독] LG에너지솔루션 빠진 3차 ESS 중앙계약시장, 삼성SDI가 웃었다.",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=375356",
-     "source": "전기신문"
-    },
-    {
-     "title": "ESS 3차 중앙계약시장 1194MW 낙찰…2차 대비 두 배 늘어",
-     "url": "https://edata.ekn.kr/article/view/ekn202611260017",
-     "source": "기후에너지데이터뱅크"
-    }
-   ]
-  },
-  {
-   "kw": "병무청",
-   "traffic": "500+",
-   "when": "11월 27일 09:50",
-   "news": []
-  },
-  {
-   "kw": "h&m",
-   "traffic": "100+",
-   "when": "11월 27일 09:40",
-   "news": [
-    {
-     "title": "Optimistic ahead of its annual results, Jefferies raises TP for H&M",
-     "url": "https://www.marketscreener.com/news/optimistic-ahead-of-its-annual-results-jefferies-raises-tp-for-h-m-ce7851d9d988f020",
-     "source": "www.marketscreener.com"
-    },
-    {
-     "title": "Bernstein Says 'Cautious' Ahead of H&M's FY26 Results Amid Demand, Macro Challenges; Estimates Updated",
-     "url": "https://www.marketscreener.com/news/bernstein-says-cautious-ahead-of-h-m-s-fy26-results-amid-demand-macro-challenges-estimates-updat-ce7851d8d189f62c",
-     "source": "www.marketscreener.com"
-    }
-   ]
-  },
-  {
-   "kw": "김아현의 금빛 스탁",
-   "traffic": "5000+",
-   "when": "11월 27일 09:30",
-   "news": [
-    {
-     "title": "폭락장에 생방송 중 줄줄이 눈물...\"잘 버텨내자\" [앵커리포트]",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611270827061073_005.html",
-     "source": "YTN"
-    },
-    {
-     "title": "삼성전자 레버리지 15% 폭락…생방송 중 눈물 보인 진행자",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=03302966645649656&mediaCodeNo=257",
-     "source": "이데일리"
-    }
-   ]
-  },
-  {
-   "kw": "주주",
-   "traffic": "200+",
-   "when": "11월 27일 09:20",
-   "news": [
-    {
-     "title": "\"어디서나 참여할 수 있는 전자주주총회\" 법무부, 기업이 어떻게 준비해야 할지 기준 제시",
-     "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790750",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "예탁원, 전자주총 의무화 앞두고 영상중계·현장운영 협력 논의",
-     "url": "https://www.yna.co.kr/view/AKR20261127045600008",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "연비",
-   "traffic": "5000+",
-   "when": "11월 27일 09:10",
-   "news": [
-    {
-     "title": "겨울비 내리는 날, 자동차 연비는 왜 떨어질까??",
-     "url": "https://www.youthassembly.kr/news/1051915",
-     "source": "유스연합"
-    },
-    {
-     "title": "겨울비 내리는 날, 자동차 연비는 왜 떨어질까??",
-     "url": "https://www.newsyonhap.com/news/140294",
-     "source": "뉴스N연합"
-    }
-   ]
-  },
-  {
-   "kw": "포수",
-   "traffic": "10000+",
-   "when": "11월 27일 09:00",
-   "news": [
-    {
-     "title": "한화 허인서, 최고 신인 영예…16년 만에 탄생한 포수 신인왕",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723404",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "두 차례 나온 \"김경문\" 역대 최다 6번째 신인왕 배출, 허인서 \"믿고 기용해주셔서 감사\" - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/27/2026112710262527528",
-     "source": "머니투데이"
     }
    ]
   }
