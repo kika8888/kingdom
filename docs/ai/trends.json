@@ -1,6 +1,108 @@
 {
- "updated": "2026-11-27 20:23",
+ "updated": "2026-11-27 21:23",
  "items": [
+  {
+   "kw": "농협은행",
+   "traffic": "500+",
+   "when": "11월 27일 20:10",
+   "news": [
+    {
+     "title": "‘지역사회에 돈 얼마나 풀었는지’ 은행 평가에 더 반영한다",
+     "url": "https://www.khan.co.kr/article/202611271430011",
+     "source": "경향신문"
+    },
+    {
+     "title": "금융위 은행권 지역재투자 평가 상대평가로 바꾼다, 최우수 은행 7곳에서 1곳으로",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=453172",
+     "source": "비즈니스포스트"
+    }
+   ]
+  },
+  {
+   "kw": "박훈정",
+   "traffic": "100+",
+   "when": "11월 27일 20:00",
+   "news": [
+    {
+     "title": "[컬처인사이드] 김명민, '슬픈 열대'로 7년 만의 스크린 복귀",
+     "url": "https://www.ytn.co.kr/_ln/0106_202611271606442096",
+     "source": "YTN"
+    },
+    {
+     "title": "[개봉영화] 박훈정의 누아르 액션, ‘슬픈 열대’…현실 스릴러, ‘완벽한 집’-‘고인아파트’",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724142",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "황교안",
+   "traffic": "200+",
+   "when": "11월 27일 19:50",
+   "news": [
+    {
+     "title": "‘이석기 판례’로 황교안 징역 10년 구형…황, 13년 전 체포요청 당사자",
+     "url": "https://www.hani.co.kr/arti/society/society_general/1289471.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "특검, “윤석열 방해하는 한동훈 체포하라”던 황교안 ‘SNS 내란선동 혐의’로 징역 10년 구형",
+     "url": "https://weekly.khan.co.kr/article/202611272052001",
+     "source": "주간경향"
+    }
+   ]
+  },
+  {
+   "kw": "파기 환송",
+   "traffic": "2000+",
+   "when": "11월 27일 19:50",
+   "news": [
+    {
+     "title": "윤석열 ‘계엄 국무회의 위증’ 무죄 확정…대법 “허위 진술 입증 부족”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723131",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "법원 판단은 한결같았다 \"12·3 계엄은 내란\"",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6869190_37004.html",
+     "source": "MBC 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "블랙 프라이데이",
+   "traffic": "100+",
+   "when": "11월 27일 19:40",
+   "news": [
+    {
+     "title": "블랙프라이데이, 역대급 ‘상술’이었나…200만원 준 TV 한 달뒤 가격 봤더니",
+     "url": "https://www.mk.co.kr/news/society/12220205",
+     "source": "매일경제"
+    },
+    {
+     "title": "블랙프라이데이 쇼핑하는 마드리드 사람들",
+     "url": "https://www.newsis.com/view/NISI20261127_0002304235",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "bangladesh a vs pakistan a",
+   "traffic": "200+",
+   "when": "11월 27일 19:30",
+   "news": [
+    {
+     "title": "Bangladesh A vs Pakistan A, free match prediction 27 November 2026",
+     "url": "https://www.thetopbookies.com/betting-tips/cricket/bana-vs-pak-a-27-Nov-2026",
+     "source": "TheTopBookies"
+    },
+    {
+     "title": "Bangladesh A Elect To Bat First Against Pakistan Shaheens In Rising Stars Semi-Final",
+     "url": "https://wenewsenglish.com/pakistan-bangladesh-rising-stars-semi-final/",
+     "source": "WE News English"
+    }
+   ]
+  },
   {
    "kw": "agf",
    "traffic": "200+",
@@ -19,6 +121,23 @@
    ]
   },
   {
+   "kw": "김이현",
+   "traffic": "500+",
+   "when": "11월 27일 18:40",
+   "news": [
+    {
+     "title": "스무살 복싱 유망주 김이현, 뺑소니 교통사고로 세상 떠나",
+     "url": "https://www.donga.com/news/Sports/article/all/20261127/135105773/1",
+     "source": "동아일보"
+    },
+    {
+     "title": "‘복싱 유망주‘ 김이현, 뺑소니 사고로 숨져…향년 19세",
+     "url": "https://www.donga.com/news/Society/article/all/20261127/135106004/2",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
    "kw": "서울교통공사 채용",
    "traffic": "1000+",
    "when": "11월 27일 18:30",
@@ -29,123 +148,26 @@
      "source": "YTN"
     },
     {
-     "title": "철도노조 준법 투쟁으로 열차 4백여 대 지연·2대 운행 중지",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724652",
-     "source": "KBS 뉴스"
+     "title": "“이렇게 사람 많은 건 처음” 지하철 1·3·4호선 퇴근길 대란…철도노조 준법투쟁에 시민 불편",
+     "url": "https://www.munhwa.com/article/11634712",
+     "source": "문화일보"
     }
    ]
   },
   {
-   "kw": "australia vs england",
-   "traffic": "500+",
-   "when": "11월 27일 18:00",
-   "news": [
-    {
-     "title": "England return to the Gabbatoir with onus on Australia to bounce back",
-     "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-3rd-t20i-1528708/match-preview",
-     "source": "Cricinfo"
-    },
-    {
-     "title": "Australia vs England, third T20 international, The Gabba",
-     "url": "https://www.skysports.com/cricket/live-blog/13617030/australia-vs-england-third-t20-live-latest-cricket-score-and-updates-from-the-gabba-in-brisbane-as-harry-brooks-side-target-series-lead",
-     "source": "Sky Sports"
-    }
-   ]
-  },
-  {
-   "kw": "오세훈",
-   "traffic": "1000+",
-   "when": "11월 27일 17:40",
-   "news": [
-    {
-     "title": "경찰, '한강버스 의혹' 오세훈 주말 소환조사‥고발 3주만",
-     "url": "https://imnews.imbc.com/news/2026/society/article/6869118_36918.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "국힘 행안위원 \"與, '오세훈 죽이기' 억지 고발·하명 수사 규탄\"",
-     "url": "https://www.newsis.com/view/NISX20261127_0003886828",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "북한이탈주민",
-   "traffic": "500+",
-   "when": "11월 27일 17:30",
-   "news": [
-    {
-     "title": "강원 철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 붙잡혀",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6869052_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "술과 과자 든 가방들고···철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 적발 신병 확보",
-     "url": "https://www.khan.co.kr/article/202611271445001",
-     "source": "경향신문"
-    }
-   ]
-  },
-  {
-   "kw": "홍민기",
-   "traffic": "1000+",
-   "when": "11월 27일 17:20",
-   "news": []
-  },
-  {
-   "kw": "최민희",
-   "traffic": "2000+",
-   "when": "11월 27일 17:20",
-   "news": [
-    {
-     "title": "[속보] 최민희, ‘당원 자격정지 2년’ 중징계에 “수용 어려워…재심 신청”",
-     "url": "https://www.khan.co.kr/article/202611271819001",
-     "source": "경향신문"
-    },
-    {
-     "title": "[사설] 최민희 중징계 결정, ‘당내 내전’으로 이어져선 안돼",
-     "url": "https://www.hani.co.kr/arti/opinion/editorial/1289498.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "한국노인인력개발원",
-   "traffic": "1000+",
-   "when": "11월 27일 17:10",
-   "news": []
-  },
-  {
-   "kw": "임찬규",
+   "kw": "aus vs eng",
    "traffic": "100+",
-   "when": "11월 27일 17:10",
+   "when": "11월 27일 18:30",
    "news": [
     {
-     "title": "'손나은 여동생' 손새은, 결혼설 부인하더니…♥임찬규와 12월 19일 결혼",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022288",
-     "source": "SPOTV NEWS"
+     "title": "Australia vs England LIVE: Third T20, Brisbane - cricket score, commentary & updates",
+     "url": "https://www.bbc.com/sport/cricket/live/cwylrwj2zd9t",
+     "source": "BBC"
     },
     {
-     "title": "'손나은 친동생' 손새은, ♥임찬규와 결혼한다..공개열애 4년 끝 12월 19일 웨딩마치",
-     "url": "https://www.sportschosun.com/entertainment/2026-11-27/202611270100172630016069",
-     "source": "스포츠조선"
-    }
-   ]
-  },
-  {
-   "kw": "허은아",
-   "traffic": "500+",
-   "when": "11월 27일 16:50",
-   "news": [
-    {
-     "title": "보수정당 출신 허은아 비서관, 청와대 사직…이 대통령, 아쉬움 표해",
-     "url": "https://www.khan.co.kr/article/202611271607001",
-     "source": "경향신문"
-    },
-    {
-     "title": "허은아 청와대 국민통합비서관 사표 수리…1년1개월 만에 퇴임",
-     "url": "https://www.joongang.co.kr/article/25482584",
-     "source": "중앙일보"
+     "title": "Overton’s fiery five-wicket haul helps England to flip Gabba script against Australia",
+     "url": "https://www.theguardian.com/sport/2026/nov/27/overton-england-beat-australia-seven-wickets-third-t20-cricket",
+     "source": "The Guardian"
     }
    ]
   }
