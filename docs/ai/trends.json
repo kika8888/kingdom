@@ -1,20 +1,37 @@
 {
- "updated": "2026-11-28 02:22",
+ "updated": "2026-11-28 03:23",
  "items": [
+  {
+   "kw": "도산소옥",
+   "traffic": "500+",
+   "when": "11월 28일 01:20",
+   "news": [
+    {
+     "title": "아이템매니아, '템빨: 오버기어드' 출시 기념 릴레이 혜택 이벤트 실시",
+     "url": "https://zdnet.co.kr/view/?no=20261127092612",
+     "source": "지디넷코리아"
+    },
+    {
+     "title": "넥슨, '아주르 프로밀리아' 국내 정식 출시…AGF도 참가",
+     "url": "https://www.yna.co.kr/view/AKR20261126085400017",
+     "source": "연합뉴스"
+    }
+   ]
+  },
   {
    "kw": "교사",
    "traffic": "1000+",
    "when": "11월 28일 00:40",
    "news": [
     {
-     "title": "교실서 담임 머리채 폭행…\"누가 유출\" 학부모 진정 결국",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866807",
-     "source": "SBS 뉴스"
+     "title": "'초등생이 교사 머리채 폭행' 영상 유출…학부모 진정 내사 종결",
+     "url": "https://www.yna.co.kr/view/AKR20261127073400064",
+     "source": "연합뉴스"
     },
     {
-     "title": "‘교사 머리채 잡은 초등생’ 영상 유출…경찰 “혐의 없음” 종결",
-     "url": "https://www.kyeonggi.com/article/20261127580141",
-     "source": "경기일보"
+     "title": "교사 폭행한 자녀 영상 퍼지자...‘명예훼손’ 진정 낸 학부모",
+     "url": "https://news.jtbc.co.kr/article/NB12330181",
+     "source": "JTBC"
     }
    ]
   },
@@ -58,14 +75,14 @@
    "when": "11월 27일 23:10",
    "news": [
     {
+     "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 GP 6차 쇼트 2위",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724677",
+     "source": "KBS 뉴스"
+    },
+    {
      "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 그랑프리 2위",
      "url": "https://imnews.imbc.com/news/2026/sports/article/6869179_36946.html",
      "source": "MBC 뉴스"
-    },
-    {
-     "title": "피겨 NHK 트로피 2026: 신지아, 유영 출전 여자 싱글 경기 일정 및 결과",
-     "url": "https://www.olympics.com/ko/news/team-korea-schedule-results-isu-figure-skating-grand-prix-nhk-trophy-2026",
-     "source": "Olympic Channel"
     }
    ]
   },
@@ -88,7 +105,7 @@
   },
   {
    "kw": "박서진",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 27일 23:00",
    "news": [
     {
@@ -100,6 +117,23 @@
      "title": "박서진, 트로트가수 최초 국제 페스티벌…동방신기 섰던 자리",
      "url": "https://www.newsis.com/view/NISX20261127_0003885977",
      "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "온두라스 u-17 대 일본 u-17",
+   "traffic": "1000+",
+   "when": "11월 27일 21:40",
+   "news": [
+    {
+     "title": "FIFA U-17 World Cup - Japan beat Honduras to advance",
+     "url": "https://www.the-afc.com/en/national/fifa_u-17_world_cup.html/news/japan-beat-honduras-to-advance",
+     "source": "The AFC"
+    },
+    {
+     "title": "U-17 World Cup: Japan and China both face elimination crisis = Chinese netizens: 'China is probably okay, but Japan...'",
+     "url": "https://www.recordchina.co.jp/en/b999179-s25-c50-d0192.html",
+     "source": "Record China"
     }
    ]
   },
@@ -121,23 +155,6 @@
    ]
   },
   {
-   "kw": "온두라스 u-17 대 일본 u-17",
-   "traffic": "1000+",
-   "when": "11월 27일 21:40",
-   "news": [
-    {
-     "title": "Licensable picture: Japan v Serbia : Group Stage - FIFA U-17 World Cup Qatar 2026",
-     "url": "https://www.reutersconnect.com/item/japan-v-serbia-group-stage-fifa-u-17-world-cup-qatar-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwME85REs5Tw",
-     "source": "Reuters Connect"
-    },
-    {
-     "title": "Japan U-17's Must-Win World Cup Group Final",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/27/RZT5R34ZCRFF7ABWCBZBJI6TCU/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
    "kw": "굿파트너2",
    "traffic": "500+",
    "when": "11월 27일 21:40",
@@ -148,26 +165,9 @@
      "source": "programs.sbs.co.kr"
     },
     {
-     "title": "‘굿파트너2’ ‘라이어’, 금토극 경쟁 2라운드",
-     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010736",
-     "source": "아시아투데이"
-    }
-   ]
-  },
-  {
-   "kw": "명서현",
-   "traffic": "200+",
-   "when": "11월 27일 21:30",
-   "news": [
-    {
-     "title": "'이혼 위기'였던 정대세·명서현, 셋째 임신 \"첫째와 13살 차이\"",
-     "url": "https://www.ytn.co.kr/_ln/0117_202611270933076060",
-     "source": "YTN"
-    },
-    {
-     "title": "이혼 위기 고백했던 정대세 부부, 셋째 생겼다…\"뻥이지?\" 눈물 펑펑 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112621294649189",
-     "source": "머니투데이"
+     "title": "‘굿파트너2’ 김혜윤, 시행착오 딛고 첫 사건 완벽 승소… ‘이혼 전문 변호사’ 첫걸음",
+     "url": "https://sports.khan.co.kr/article/202611280035003",
+     "source": "스포츠경향"
     }
    ]
   }
