@@ -1,20 +1,37 @@
 {
- "updated": "2026-11-28 01:22",
+ "updated": "2026-11-28 02:22",
  "items": [
+  {
+   "kw": "교사",
+   "traffic": "1000+",
+   "when": "11월 28일 00:40",
+   "news": [
+    {
+     "title": "교실서 담임 머리채 폭행…\"누가 유출\" 학부모 진정 결국",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866807",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "‘교사 머리채 잡은 초등생’ 영상 유출…경찰 “혐의 없음” 종결",
+     "url": "https://www.kyeonggi.com/article/20261127580141",
+     "source": "경기일보"
+    }
+   ]
+  },
   {
    "kw": "파기환송",
    "traffic": "2000+",
    "when": "11월 28일 00:20",
    "news": [
     {
-     "title": "윤석열 ‘계엄 국무회의 위증’ 무죄 확정…대법 “허위 진술 입증 부족”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8723131",
-     "source": "KBS 뉴스"
-    },
-    {
      "title": "“12·3 계엄은 내란 아니다” 31%, 2년 새 내란인식 14%P 줄어···조희대 탄핵 찬성 35%·반대 42%[한국갤럽]",
      "url": "https://www.khan.co.kr/article/202611271047001",
      "source": "경향신문"
+    },
+    {
+     "title": "‘한덕수 파기환송’에 \"잘못됐다\" 46%, \"잘한 판결\" 31%",
+     "url": "https://news.jtbc.co.kr/article/NB12330163",
+     "source": "JTBC"
     }
    ]
   },
@@ -29,9 +46,26 @@
      "source": "스포츠동아"
     },
     {
-     "title": "‘연애남매2’ 한층 솔직하고 거침없어진 로맨스…27일 첫 공개",
-     "url": "https://www.mk.co.kr/news/hot-issues/12218686",
-     "source": "매일경제"
+     "title": "'연애남매2' CP \"한혜진, 연애에 좋은 인사이트 줘…제작진도 돌아보게 해\"",
+     "url": "https://www.fnnews.com/news/202611201432308496",
+     "source": "파이낸셜뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "신지아",
+   "traffic": "100+",
+   "when": "11월 27일 23:10",
+   "news": [
+    {
+     "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 그랑프리 2위",
+     "url": "https://imnews.imbc.com/news/2026/sports/article/6869179_36946.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "피겨 NHK 트로피 2026: 신지아, 유영 출전 여자 싱글 경기 일정 및 결과",
+     "url": "https://www.olympics.com/ko/news/team-korea-schedule-results-isu-figure-skating-grand-prix-nhk-trophy-2026",
+     "source": "Olympic Channel"
     }
    ]
   },
@@ -49,23 +83,6 @@
      "title": "‘무쇠소녀단3’ 한지현, 첫 회부터 ‘지트리버’ 활약… 3천 계단 48분 완주",
      "url": "https://www.viva100.com/article/20261127500209",
      "source": "브릿지경제"
-    }
-   ]
-  },
-  {
-   "kw": "신지아",
-   "traffic": "100+",
-   "when": "11월 27일 23:10",
-   "news": [
-    {
-     "title": "피겨 신지아, 개인 최고 75.31점으로 시니어 그랑프리 2위",
-     "url": "https://imnews.imbc.com/news/2026/sports/article/6869179_36946.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "개인 최고점 쇼트 2위…시니어 첫 메달 보인다",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867290",
-     "source": "SBS 뉴스"
     }
    ]
   },
@@ -109,9 +126,14 @@
    "when": "11월 27일 21:40",
    "news": [
     {
-     "title": "Watch Honduras U17 vs Japan U17 live today: Who is broadcasting the match on TV and via live stream?",
-     "url": "https://www.goal.com/en-gb/news/live-stream-online-tv-where-to-watch-honduras-u17-v-japan-u17/blt378838225c754e2c",
-     "source": "Goal.com"
+     "title": "Licensable picture: Japan v Serbia : Group Stage - FIFA U-17 World Cup Qatar 2026",
+     "url": "https://www.reutersconnect.com/item/japan-v-serbia-group-stage-fifa-u-17-world-cup-qatar-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwME85REs5Tw",
+     "source": "Reuters Connect"
+    },
+    {
+     "title": "Japan U-17's Must-Win World Cup Group Final",
+     "url": "https://www.chosun.com/english/sports-en/2026/11/27/RZT5R34ZCRFF7ABWCBZBJI6TCU/",
+     "source": "조선일보"
     }
    ]
   },
@@ -126,9 +148,9 @@
      "source": "programs.sbs.co.kr"
     },
     {
-     "title": "‘굿파트너2’ 김혜윤, 시행착오 딛고 첫 사건 완벽 승소… ‘이혼 전문 변호사’ 첫걸음",
-     "url": "https://sports.khan.co.kr/article/202611280035003",
-     "source": "스포츠경향"
+     "title": "‘굿파트너2’ ‘라이어’, 금토극 경쟁 2라운드",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010736",
+     "source": "아시아투데이"
     }
    ]
   },
@@ -146,23 +168,6 @@
      "title": "이혼 위기 고백했던 정대세 부부, 셋째 생겼다…\"뻥이지?\" 눈물 펑펑 - 머니투데이",
      "url": "https://www.mt.co.kr/entertainment/2026/11/26/2026112621294649189",
      "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "박정수",
-   "traffic": "500+",
-   "when": "11월 27일 21:20",
-   "news": [
-    {
-     "title": "‘25년째 사실혼’ 박정수, ‘정경호父’ ♥정을영에 “사랑해”..여전히 달달 (‘그사친’)",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/MRQWKNTFGQ3DMNJUGAZDKZBZGA/",
-     "source": "조선일보"
-    },
-    {
-     "title": "박정수, '25년 사실혼' 정을영과 웨딩화보 비화…\"흔쾌히 찍게 생겼나\"",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6367824",
-     "source": "뉴스1"
     }
    ]
   }
