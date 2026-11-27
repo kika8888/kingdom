@@ -1,10 +1,27 @@
 {
- "updated": "2026-11-27 19:23",
+ "updated": "2026-11-27 20:23",
  "items": [
   {
-   "kw": "1호선 파업",
-   "traffic": "500+",
-   "when": "11월 27일 18:10",
+   "kw": "agf",
+   "traffic": "200+",
+   "when": "11월 27일 19:20",
+   "news": [
+    {
+     "title": "Brann vs AGF: UEFA Conference League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cm0evldn2xvlt",
+     "source": "BBC"
+    },
+    {
+     "title": "Aarhus thrash Brann to secure first Conference League win of term",
+     "url": "https://www.tribalfootball.com/article/aarhus-thrash-brann-to-secure-first-conference-league-win-of-term-65915a83-00c0-41ed-b481-4c727db56277",
+     "source": "TribalFootball"
+    }
+   ]
+  },
+  {
+   "kw": "서울교통공사 채용",
+   "traffic": "1000+",
+   "when": "11월 27일 18:30",
    "news": [
     {
      "title": "철도노조 투쟁 첫날...무궁화호 멈추고 전철 무더기 지연",
@@ -20,24 +37,24 @@
   },
   {
    "kw": "australia vs england",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 27일 18:00",
    "news": [
     {
-     "title": "Australia vs England, third T20 LIVE! Latest cricket score and updates from The Gabba in Brisbane as Harry Brook's side target series lead",
-     "url": "https://www.skysports.com/cricket/live-blog/13617030/australia-vs-england-third-t20-live-latest-cricket-score-and-updates-from-the-gabba-in-brisbane-as-harry-brooks-side-target-series-lead",
-     "source": "Sky Sports"
+     "title": "England return to the Gabbatoir with onus on Australia to bounce back",
+     "url": "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-3rd-t20i-1528708/match-preview",
+     "source": "Cricinfo"
     },
     {
-     "title": "England bowl, Owen and Stanlake come in for Australia",
-     "url": "https://www.cricinfo.com/story/aus-vs-eng-3rd-t20i-2026-27-england-bowl-owen-and-stanlake-come-in-for-australia-1564420",
-     "source": "Cricinfo"
+     "title": "Australia vs England, third T20 international, The Gabba",
+     "url": "https://www.skysports.com/cricket/live-blog/13617030/australia-vs-england-third-t20-live-latest-cricket-score-and-updates-from-the-gabba-in-brisbane-as-harry-brooks-side-target-series-lead",
+     "source": "Sky Sports"
     }
    ]
   },
   {
    "kw": "오세훈",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 27일 17:40",
    "news": [
     {
@@ -46,9 +63,9 @@
      "source": "MBC 뉴스"
     },
     {
-     "title": "국힘 행안위 \"민주당, 오세훈 송치 종용 멈추라…노골적 수사 개입\" - 머니투데이",
-     "url": "https://www.mt.co.kr/index.php/politics/2026/11/27/2026112717174621527",
-     "source": "머니투데이"
+     "title": "국힘 행안위원 \"與, '오세훈 죽이기' 억지 고발·하명 수사 규탄\"",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886828",
+     "source": "뉴시스"
     }
    ]
   },
@@ -58,14 +75,14 @@
    "when": "11월 27일 17:30",
    "news": [
     {
-     "title": "술과 과자 든 가방들고···철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 적발 신병 확보",
-     "url": "https://www.khan.co.kr/article/202611271445001",
-     "source": "경향신문"
-    },
-    {
      "title": "강원 철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 붙잡혀",
      "url": "https://imnews.imbc.com/news/2026/politics/article/6869052_36911.html",
      "source": "MBC 뉴스"
+    },
+    {
+     "title": "술과 과자 든 가방들고···철원 민통선 넘어 GOP 향하던 30대 탈북민 여성 적발 신병 확보",
+     "url": "https://www.khan.co.kr/article/202611271445001",
+     "source": "경향신문"
     }
    ]
   },
@@ -73,22 +90,11 @@
    "kw": "홍민기",
    "traffic": "1000+",
    "when": "11월 27일 17:20",
-   "news": [
-    {
-     "title": "[단독] '사생활 논란' 홍민기 前 여자친구 실종…마포대교서 마지막 확인",
-     "url": "https://www.fnnews.com/news/202611271650017461",
-     "source": "파이낸셜뉴스"
-    },
-    {
-     "title": "‘홍민기 폭행 폭로’ 전 여자친구 실종…마지막 행적은 마포대교",
-     "url": "https://sports.khan.co.kr/article/202611271742003",
-     "source": "스포츠경향"
-    }
-   ]
+   "news": []
   },
   {
    "kw": "최민희",
-   "traffic": "5000+",
+   "traffic": "2000+",
    "when": "11월 27일 17:20",
    "news": [
     {
@@ -97,66 +103,49 @@
      "source": "경향신문"
     },
     {
-     "title": "‘당원 정지 2년’ 최민희 “수용 하기 어렵다”…민주 내홍 격화",
-     "url": "https://www.hani.co.kr/arti/politics/politics_general/1289494.html",
+     "title": "[사설] 최민희 중징계 결정, ‘당내 내전’으로 이어져선 안돼",
+     "url": "https://www.hani.co.kr/arti/opinion/editorial/1289498.html",
      "source": "한겨레"
     }
    ]
   },
   {
    "kw": "한국노인인력개발원",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 27일 17:10",
    "news": []
   },
   {
+   "kw": "임찬규",
+   "traffic": "100+",
+   "when": "11월 27일 17:10",
+   "news": [
+    {
+     "title": "'손나은 여동생' 손새은, 결혼설 부인하더니…♥임찬규와 12월 19일 결혼",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022288",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "'손나은 친동생' 손새은, ♥임찬규와 결혼한다..공개열애 4년 끝 12월 19일 웨딩마치",
+     "url": "https://www.sportschosun.com/entertainment/2026-11-27/202611270100172630016069",
+     "source": "스포츠조선"
+    }
+   ]
+  },
+  {
    "kw": "허은아",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 27일 16:50",
    "news": [
+    {
+     "title": "보수정당 출신 허은아 비서관, 청와대 사직…이 대통령, 아쉬움 표해",
+     "url": "https://www.khan.co.kr/article/202611271607001",
+     "source": "경향신문"
+    },
     {
      "title": "허은아 청와대 국민통합비서관 사표 수리…1년1개월 만에 퇴임",
      "url": "https://www.joongang.co.kr/article/25482584",
      "source": "중앙일보"
-    },
-    {
-     "title": "'보수 출신' 허은아 청와대 국민통합비서관 사직‥1년1개월 만에 퇴임",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6869136_36911.html",
-     "source": "MBC 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "코레일",
-   "traffic": "500+",
-   "when": "11월 27일 16:30",
-   "news": [
-    {
-     "title": "코레일, 폐안전모 재활용 '야간 안전우산' 500개 기부",
-     "url": "https://www.newsis.com/view/NISX20261127_0003885713",
-     "source": "뉴시스"
-    },
-    {
-     "title": "버려진 철도 안전모의 변신… 코레일, 안전우산 500개 기부 - 머니투데이",
-     "url": "https://www.mt.co.kr/estate/2026/11/27/2026112710040089861",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
-   "kw": "최휘영",
-   "traffic": "1000+",
-   "when": "11월 27일 15:40",
-   "news": [
-    {
-     "title": "이 대통령, 최휘영 '교체 기습 통보' 보도에 정정 요구",
-     "url": "https://imnews.imbc.com/news/2026/politics/article/6869093_36911.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "이 대통령, 최휘영 ‘기습 교체 통보’ 보도에 \"명예훼손 정정해야\"",
-     "url": "https://news.jtbc.co.kr/article/NB12330170",
-     "source": "JTBC"
     }
    ]
   }
