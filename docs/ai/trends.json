@@ -1,168 +1,173 @@
 {
- "updated": "2026-11-27 14:22",
+ "updated": "2026-11-27 15:23",
  "items": [
   {
-   "kw": "현대모비스",
+   "kw": "고우석",
    "traffic": "200+",
-   "when": "11월 27일 13:10",
+   "when": "11월 27일 14:20",
    "news": [
     {
-     "title": "현대차그룹, 부품·건설 수장 교체…수익성·SDV 전환 속도 낼 듯",
-     "url": "https://www.electimes.com/news/articleView.html?idxno=375318",
-     "source": "전기신문"
+     "title": "'살다 살다 이런 적은 처음' 고우석의 기막힌 MLB 도전기…\"김현수는 꽃길을 걷다 온 거더라\" 에이전트 대표도 혀 내두른 사연은?",
+     "url": "https://m.news.nate.com/view/20261127n00234",
+     "source": "네이트"
     },
     {
-     "title": "“5만대 팔린다는데 10만대 깔아라”⋯ 정의선이 7년째 기아 맡긴 ‘이 남자’",
-     "url": "https://www.viva100.com/article/20261126501674",
-     "source": "브릿지경제"
+     "title": "고우석, '마이너 3년·트레이드·방출' 다 겪고도…\"아깝다는 생각 전혀 안 들어\" 오승환에게 털어놓은 미국 생활",
+     "url": "https://mhnse.com/news/articleView.html?idxno=1713702",
+     "source": "MHN스포츠"
     }
    ]
   },
   {
-   "kw": "상선",
+   "kw": "손원일 급 잠수함",
+   "traffic": "2000+",
+   "when": "11월 27일 14:10",
+   "news": [
+    {
+     "title": "어망에 걸리고 화재 나고…손원일급 잠수함 2척 파손돼 수리 중",
+     "url": "https://www.yna.co.kr/view/AKR20261127013900504",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "손원일급 잠수함 2척, 잇따른 사고로 파손·수리…\"전력 공백 없을 것\"",
+     "url": "https://www.newsis.com/view/NISX20261127_0003885659",
+     "source": "뉴시스"
+    }
+   ]
+  },
+  {
+   "kw": "전두환",
+   "traffic": "500+",
+   "when": "11월 27일 14:00",
+   "news": [
+    {
+     "title": "전두환 단죄를 \"정치 재판\"‥김태규 영상 틀며 \"재심 추진\"",
+     "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6868892_37004.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "[쏙쏙뉴스] 12·12 주역들이 모인 전두환 추모행사… '재평가'와 '재심 청구'?",
+     "url": "https://www.ohmynews.com/NWS_Web/View/mov_pg.aspx?CNTN_CD=ME000116787",
+     "source": "OhmyNews"
+    }
+   ]
+  },
+  {
+   "kw": "미세먼지",
    "traffic": "100+",
-   "when": "11월 27일 12:40",
+   "when": "11월 27일 14:00",
    "news": [
     {
-     "title": "‘미친 몸값’ 된 유조선… 21년된 노후 VLCC까지 신조발주선 가격 근접",
-     "url": "https://www.dt.co.kr/article/12097473",
-     "source": "www.dt.co.kr"
+     "title": "제8차 미세먼지 계절관리제 석탄발전 최대 18기 가동 중단",
+     "url": "https://gonggam.korea.kr/newsContentView.es?content=NC002&news_id=95ba8803-3aa3-4f24-84ff-2f32300ef06e&section_id=NCCD_POLICY&mid=a10201000000&code_cd=0101000000",
+     "source": "K-공감"
     },
     {
-     "title": "‘중동 원유 수출 정상화·VLCC 운임도 급락’ 韓 정유사 호재",
-     "url": "http://www.e-platform.net/news/articleView.html?idxno=107194",
-     "source": "에너지플랫폼뉴스"
+     "title": "‘배출가스 5등급’ 차량 운행제한···대구, 12월부터 4개월간 단속",
+     "url": "https://www.khan.co.kr/article/202611271425001",
+     "source": "경향신문"
     }
    ]
   },
   {
-   "kw": "강시 후",
-   "traffic": "10000+",
-   "when": "11월 27일 12:30",
+   "kw": "교통",
+   "traffic": "5000+",
+   "when": "11월 27일 13:40",
    "news": [
     {
-     "title": "‘강호동 아들’ 강시후 전국 골프대회 준우승…‘188㎝·운동 DNA’",
-     "url": "https://www.mk.co.kr/news/hot-issues/12220018",
-     "source": "매일경제"
+     "title": "국민 3명 중 1명은 교통약자···고령화로 1년 새 33만명 증가",
+     "url": "https://www.khan.co.kr/article/202611271021021",
+     "source": "경향신문"
     },
     {
-     "title": "야구 배트 대신 골프채 잡더니…'강호동 아들' 또 일냈다",
-     "url": "https://www.hankyung.com/article/202611274345H",
-     "source": "한국경제"
-    }
-   ]
-  },
-  {
-   "kw": "수학자",
-   "traffic": "200+",
-   "when": "11월 27일 12:30",
-   "news": [
-    {
-     "title": "수학 연구단체, '클로드 리만가설 증명' 검증 완료…\"코드 옳다\"",
-     "url": "https://www.dongascience.com/ko/news/81042",
-     "source": "DongA Science"
-    },
-    {
-     "title": "AI에 무너지는 난제들…“수학 계속 해도 될까” 수학자들도 계산이 안 선다",
-     "url": "https://www.hani.co.kr/arti/science/science_general/1289376.html",
-     "source": "한겨레"
-    }
-   ]
-  },
-  {
-   "kw": "맨체스터 시티 fc",
-   "traffic": "200+",
-   "when": "11월 27일 12:20",
-   "news": [
-    {
-     "title": "‘충격 동맹’ 탄생! 맨유·토트넘·리버풀 손 잡았다···맨시티 상대 ‘손해배상 청구’ 위해 같은 로펌 선임",
-     "url": "https://sports.khan.co.kr/article/202611270909003",
-     "source": "스포츠경향"
-    },
-    {
-     "title": "\"맨시티 잡으려던 후원사 소송이 오히려 맨시티 지갑 털게 생겼다\" PL 18개 구단 찬성...수천억 부담 가능성",
-     "url": "https://www.chosun.com/sports/world-football/2026/11/20/GEYDIMRUMQYTSYRZGZTDGMDDGA/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "낸시랭",
-   "traffic": "200+",
-   "when": "11월 27일 12:20",
-   "news": [
-    {
-     "title": "새벽 강남서 음주운전 낸시랭 송치…면허 취소 수준",
-     "url": "https://www.donga.com/news/Society/article/all/20261127/135102312/2",
-     "source": "동아일보"
-    },
-    {
-     "title": "강남경찰서, 낸시랭 음주운전 혐의로 불구속 송치",
-     "url": "https://www.yna.co.kr/view/AKR20261127069700004",
+     "title": "시내버스 2대 중 1대는 저상버스…국민 3명 중 1명은 교통약자",
+     "url": "https://www.yna.co.kr/view/AKR20261126168500003",
      "source": "연합뉴스"
     }
    ]
   },
   {
-   "kw": "최성민",
+   "kw": "이재명 정부",
    "traffic": "200+",
-   "when": "11월 27일 12:20",
+   "when": "11월 27일 13:40",
    "news": [
     {
-     "title": "최예나, 최성민과 5년 동거 마무리 \"각자 삶 응원하기로\"",
-     "url": "https://www.newsis.com/view/NISX20261126_0003885327",
-     "source": "뉴시스"
+     "title": "李대통령 “왜 ‘가난하다’는 서류 떼야 하나…복지 ‘자동주의’ 돼야”",
+     "url": "https://www.kyeonggi.com/article/20261126580566",
+     "source": "경기일보"
     },
     {
-     "title": "최예나, 5년 동거한 친오빠에 방 빼라 통보…“서운해하더라”",
-     "url": "https://sports.donga.com/ent/article/all/20261126/135096376/1",
-     "source": "스포츠동아"
-    }
-   ]
-  },
-  {
-   "kw": "엘니뇨",
-   "traffic": "2000+",
-   "when": "11월 27일 12:00",
-   "news": [
-    {
-     "title": "‘슈퍼엘니뇨’에 폭설?…시간당 5cm 눈 오면 문자 온다",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724042",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "따뜻한 겨울? 하지만 대설 주의!",
-     "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148976635&pWise=sub&pWiseSub=C3",
+     "title": "신청서 찾고 있었는데, 복지급여가 먼저 찾아왔다 - 영상 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148976487",
      "source": "대한민국 정책브리핑"
     }
    ]
   },
   {
-   "kw": "jyp 엔터테인먼트",
-   "traffic": "1000+",
-   "when": "11월 27일 12:00",
+   "kw": "배정남",
+   "traffic": "100+",
+   "when": "11월 27일 13:40",
    "news": [
     {
-     "title": "'1월 11일 데뷔' 오브더블루, 멤버 4人 비주얼 공개…자유로운 청춘의 아우라",
-     "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/27/GI3TOYZYGQ3GCMRQMVRDIYJRMM/",
-     "source": "Chosunbiz"
+     "title": "배정남, 배우 데뷔 첫 연기상 쾌거…이틀 연속 시상식 휩쓸어",
+     "url": "https://sports.khan.co.kr/article/202611261019003",
+     "source": "스포츠경향"
     },
     {
-     "title": "얼굴 대신 취향 먼저…JYP 스쿼드 첫 신인 오브더블루, 파격 데뷔 공식",
-     "url": "https://sports.donga.com/ent/article/all/20261126/135096179/1",
-     "source": "스포츠동아"
+     "title": "[ET포토] 배정남, '사나이의 미소'",
+     "url": "https://www.etnews.com/20261125000058",
+     "source": "전자신문"
     }
    ]
   },
   {
-   "kw": "pet the horse",
-   "traffic": "200+",
-   "when": "11월 27일 12:00",
+   "kw": "경기남부",
+   "traffic": "500+",
+   "when": "11월 27일 13:30",
    "news": [
     {
-     "title": "How PET Scans Are Changing Lameness Diagnosis in Horses",
-     "url": "https://thehorse.com/1141343/how-pet-scans-are-changing-lameness-diagnosis-in-horses/",
-     "source": "The Horse – Your Guide to Equine Health Care"
+     "title": "“이틀 새 6000만원 올랐다”…서울 주춤한 사이 경기 남부 ‘불장’",
+     "url": "https://www.mk.co.kr/news/realestate/12219936",
+     "source": "매일경제"
+    },
+    {
+     "title": "[비바100] 집값 뛰는 경기 남부, 주거 기준도 뛴다",
+     "url": "https://www.viva100.com/article/20261108500378",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "투자",
+   "traffic": "10000+",
+   "when": "11월 27일 13:20",
+   "news": [
+    {
+     "title": "이 대통령 \"7대 SEED 프로젝트 더 속도…맞춤형 추진전략 마련\"",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976591&pWise=sub&pWiseSub=R4",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "[정책 인사이트] 유망기업 투자자 되겠단 정부… 先 투자·後 지분 정산 방안도 검토",
+     "url": "https://biz.chosun.com/policy/policy_sub/2026/11/27/LN3BLLX53VBDZKT5WTNYAHK5QA/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "항소",
+   "traffic": "200+",
+   "when": "11월 27일 13:20",
+   "news": [
+    {
+     "title": "항소심 결심공판 향하는 김만배 - 유동규 - 남욱",
+     "url": "https://www.newspim.com/news/view/20261127000560",
+     "source": "뉴스핌"
+    },
+    {
+     "title": "[쏙쏙뉴스] '재창이형'은 왜 '실장님'이 됐나… 조작기소 특검 앞에 선 대장동 수사",
+     "url": "https://m.ohmynews.com/NWS_Web/Mobile/mov_pg.aspx?CNTN_CD=ME000116813",
+     "source": "OhmyNews"
     }
    ]
   }
