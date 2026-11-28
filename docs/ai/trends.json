@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-28 12:23",
+ "updated": "2026-11-28 13:22",
  "items": [
   {
-   "kw": "tear gas",
+   "kw": "남대문시장",
+   "traffic": "200+",
+   "when": "11월 28일 12:10",
+   "news": [
+    {
+     "title": "남대문 커뮤니티",
+     "url": "http://topclass.chosun.com/news/articleView.html?idxno=37132",
+     "source": "톱클래스"
+    },
+    {
+     "title": "“사지 마”… ‘스카프 아저씨’ 돌풍에 세대 불문 발길 이어지는 남대문시장",
+     "url": "https://www.donga.com/news/Society/article/all/20261128/135106803/1",
+     "source": "동아일보"
+    }
+   ]
+  },
+  {
+   "kw": "한능검 81회 정답",
+   "traffic": "200+",
+   "when": "11월 28일 12:10",
+   "news": [
+    {
+     "title": "[속보] 81회 한능검 가답안 정답·답지 공개",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765984",
+     "source": "국제뉴스"
+    },
+    {
+     "title": "“컴싸로만 풀라고요?”… 시험 코앞 규정 바뀌자 수험생들 ‘부글부글’",
+     "url": "https://biz.chosun.com/topics/topics_social/2026/11/25/NQVLYNMOU5DQ3EDNOBGUURYB6U/",
+     "source": "Chosunbiz"
+    }
+   ]
+  },
+  {
+   "kw": "이찬원",
    "traffic": "100+",
+   "when": "11월 28일 12:10",
+   "news": [
+    {
+     "title": "황윤성, 알고보니 도련님? 절친 이찬원도 놀랐다 (편스토랑)",
+     "url": "https://sports.donga.com/ent/article/all/20261127/135101062/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "황윤성, 압도적 규모 시골집…\"마을 구경 같아\" [RE:TV]",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6367714",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "닥터 둠",
+   "traffic": "100+",
+   "when": "11월 28일 11:40",
+   "news": [
+    {
+     "title": "대작영화 맞붙는 '듄스데이'…빌뇌브 감독의 한마디",
+     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867724",
+     "source": "SBS 뉴스"
+    },
+    {
+     "title": "로버트 다우니 주니어, 아이언맨→닥터 둠 “토니 스타크와 정반대 인물”(‘어벤져스’)",
+     "url": "https://www.chosun.com/entertainments/movie/2026/11/27/GNSTSOJWGIYDMZLFGQ2WMZLDMI/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "샌안토니오 대 la 레이커스",
+   "traffic": "1000+",
+   "when": "11월 28일 11:30",
+   "news": [
+    {
+     "title": "Los Angeles Lakers @ San Antonio Spurs Odds",
+     "url": "https://sportsbook.fanduel.com/basketball/nba/los-angeles-lakers-@-san-antonio-spurs-36358261",
+     "source": "FanDuel Sportsbook"
+    },
+    {
+     "title": "San Antonio Spurs vs. Los Angeles Lakers - 1st Quarter Highlights",
+     "url": "https://www.nba.com/watch/video/san-antonio-spurs-vs-los-angeles-lakers-1st-quarter-highlights-3?plsrc=nba&collection=luka-doncic",
+     "source": "NBA.com"
+    }
+   ]
+  },
+  {
+   "kw": "tear gas",
+   "traffic": "200+",
    "when": "11월 28일 11:00",
    "news": [
     {
@@ -64,99 +149,25 @@
     },
     {
      "title": "[현장] 20년 만에 빛 보는 은평 3대장…9300가구 공급 가시화",
-     "url": "https://www.dailian.co.kr/news/view/1719698/",
+     "url": "https://www.dailian.co.kr/news/view/1719698/%ED%98%84%EC%9E%A5-20%EB%85%84-%EB%A7%8C%EC%97%90-%EB%B9%9B-%EB%B3%B4%EB%8A%94-%EC%9D%80%ED%8F%89-3%EB%8C%80-2026",
      "source": "데일리안"
     }
    ]
   },
   {
-   "kw": "타릭 스쿠발",
+   "kw": "국제 원자력 기구",
    "traffic": "100+",
    "when": "11월 28일 10:20",
    "news": [
     {
-     "title": "“동생아, 우리 참 좋았는데…” 6014억에 떠난 스쿠발, 다저스는 계약 제안조차 안 했다 - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611280803771727O",
-     "source": "머니투데이"
+     "title": "미 국무부, 한-IAEA 핵잠수함 협의 딴지 건 중국에 반박",
+     "url": "https://www.newsis.com/view/NISX20261128_0003886959",
+     "source": "뉴시스"
     },
     {
-     "title": "[오늘의 MLB] (11/27) 메이저리그에 불어닥친 선발 영입 광풍...남은 FA 중 주목할 선수는?",
-     "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261127151641618je",
-     "source": "네이버 프리미엄콘텐츠"
-    }
-   ]
-  },
-  {
-   "kw": "의사",
-   "traffic": "2000+",
-   "when": "11월 28일 10:00",
-   "news": [
-    {
-     "title": "\"받으라, 결과 나쁘면 수사 받으라\"…젊은 의사들의 응급실 공포",
-     "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044950",
-     "source": "청년의사"
-    },
-    {
-     "title": "노혜린 교수 “소아응급실 압수수색 이후 후배들에게 필수의료 못 권하겠다”",
-     "url": "https://www.medigatenews.com/news/3410989566",
-     "source": "MEDI:GATE NEWS"
-    }
-   ]
-  },
-  {
-   "kw": "뉴스1",
-   "traffic": "200+",
-   "when": "11월 28일 10:00",
-   "news": [
-    {
-     "title": "4,900선 탈환 코스피, 오를 일만 남았다는데… 이유는?",
-     "url": "https://story.pay.naver.com/content/4087_3_C1",
-     "source": "네이버페이 머니스토리"
-    },
-    {
-     "title": "배당금·증권시장안전펀드 투입 기대감에 불기둥 올린 증시",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0102_202611272305034782_005.html",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "도로",
-   "traffic": "100+",
-   "when": "11월 28일 10:00",
-   "news": [
-    {
-     "title": "도로 결빙 사고 35% 출근 시간대 집중…도심 도로서 59% 발생",
-     "url": "https://www.yna.co.kr/view/AKR20261127042600062",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "[특별기고] 보이지 않는 도로 위 위험, 기상정보로 먼저 알린다",
-     "url": "https://edata.ekn.kr/article/view/ekn202611260006",
-     "source": "기후에너지데이터뱅크"
-    }
-   ]
-  },
-  {
-   "kw": "한화솔루션",
-   "traffic": "100+",
-   "when": "11월 28일 09:50",
-   "news": []
-  },
-  {
-   "kw": "대한민국 u-17 축구 국가대표팀",
-   "traffic": "500+",
-   "when": "11월 28일 09:40",
-   "news": [
-    {
-     "title": "3전 전승 한국, 3위 턱걸이 일본과 U-17 월드컵축구 32강 한일전",
-     "url": "https://www.yna.co.kr/view/AKR20261128026000007",
-     "source": "연합뉴스"
-    },
-    {
-     "title": "U-17 월드컵 32강서 한일전 성사…12월 1일 밤 10시 격돌",
-     "url": "https://www.yonhapnewstv.co.kr/news/AKR20261128110648bsB",
-     "source": "연합뉴스TV"
+     "title": "미 국무부 “‘한국 핵잠 안전조치 협상’ IAEA 권한”…중국 ‘회원국 합의’ 요구 일축",
+     "url": "https://www.voakorea.com/a/us-china-rok-submarine-iaea/8228624.html",
+     "source": "VOA 한국어 홈페이지"
     }
    ]
   }
