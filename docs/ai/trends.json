@@ -1,20 +1,94 @@
 {
- "updated": "2026-11-28 10:54",
+ "updated": "2026-11-28 11:23",
  "items": [
+  {
+   "kw": "타릭 스쿠발",
+   "traffic": "100+",
+   "when": "11월 28일 10:20",
+   "news": [
+    {
+     "title": "“동생아, 우리 참 좋았는데…” 6014억에 떠난 스쿠발, 다저스는 계약 제안조차 안 했다 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611280803771727O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[오늘의 MLB] (11/27) 메이저리그에 불어닥친 선발 영입 광풍...남은 FA 중 주목할 선수는?",
+     "url": "https://contents.premium.naver.com/mlbtoday/mlb/contents/261127151641618je",
+     "source": "네이버 프리미엄콘텐츠"
+    }
+   ]
+  },
+  {
+   "kw": "의사",
+   "traffic": "2000+",
+   "when": "11월 28일 10:00",
+   "news": [
+    {
+     "title": "\"받으라, 결과 나쁘면 수사 받으라\"…젊은 의사들의 응급실 공포",
+     "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044950",
+     "source": "청년의사"
+    },
+    {
+     "title": "노혜린 교수 “소아응급실 압수수색 이후 후배들에게 필수의료 못 권하겠다”",
+     "url": "https://www.medigatenews.com/news/3410989566",
+     "source": "MEDI:GATE NEWS"
+    }
+   ]
+  },
+  {
+   "kw": "도로",
+   "traffic": "100+",
+   "when": "11월 28일 10:00",
+   "news": [
+    {
+     "title": "도로 결빙 사고 35% 출근 시간대 집중…도심 도로서 59% 발생",
+     "url": "https://www.yna.co.kr/view/AKR20261127042600062",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "[특별기고] 보이지 않는 도로 위 위험, 기상정보로 먼저 알린다",
+     "url": "https://edata.ekn.kr/article/view/ekn202611260006",
+     "source": "기후에너지데이터뱅크"
+    }
+   ]
+  },
+  {
+   "kw": "뉴스1",
+   "traffic": "100+",
+   "when": "11월 28일 10:00",
+   "news": [
+    {
+     "title": "4,900선 탈환 코스피, 오를 일만 남았다는데… 이유는?",
+     "url": "https://story.pay.naver.com/content/4087_3_C1",
+     "source": "네이버페이 머니스토리"
+    },
+    {
+     "title": "일단 방향 튼 韓증시...'증안펀드 기대감' 수급·심리 바꿀까",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4447041",
+     "source": "연합인포맥스"
+    }
+   ]
+  },
+  {
+   "kw": "한화솔루션",
+   "traffic": "100+",
+   "when": "11월 28일 09:50",
+   "news": []
+  },
   {
    "kw": "대한민국 u-17 축구 국가대표팀",
    "traffic": "200+",
    "when": "11월 28일 09:40",
    "news": [
     {
-     "title": "U-17 대표팀, 3전 전승…월드컵 32강행",
-     "url": "https://www.yna.co.kr/view/MYH20261126001100038",
+     "title": "3전 전승 한국, 3위 턱걸이 일본과 U-17 월드컵축구 32강 한일전",
+     "url": "https://www.yna.co.kr/view/AKR20261128026000007",
      "source": "연합뉴스"
     },
     {
-     "title": "'아시아 챔피언' 일본의 굴욕…대한민국→중국 조별리그 통과했는데 日 '승리는 필수→4점 차 이상 대승 필요'",
-     "url": "https://www.chosun.com/sports/football/2026/11/27/MIZGGNJUME3TGOLCGQYWCOBSMY/",
-     "source": "조선일보"
+     "title": "[공식발표] 이럴 수가! '사상 최초 3전 전승' 韓 축구, 월드컵 한일전 확정...U-17 WC 32강서 '2연패 후 기사회생' 일본과 격돌 - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611280853779680O",
+     "source": "머니투데이"
     }
    ]
   },
@@ -24,14 +98,14 @@
    "when": "11월 28일 09:40",
    "news": [
     {
-     "title": "농협은행, 개인사업자 대상 연말 이벤트…최대 50만원 지급",
-     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01895846645649984",
-     "source": "마켓인"
+     "title": "씨지인사이드, NH농협은행 오픈이노베이션 최우수상 수상…금융상품 광고 Compliance AI 선보여",
+     "url": "https://www.etnews.com/20261127000225",
+     "source": "전자신문"
     },
     {
-     "title": "NH농협은행, 개인사업자에 연말 지원금…최대 50만원",
-     "url": "https://www.ajunews.com/view/20261127105211015",
-     "source": "아주경제"
+     "title": "NH농협은행, 비정형데이터 품질 최고 등급…AI 경쟁력 강화",
+     "url": "https://m.ekn.kr/view.php?key=20261127023445945",
+     "source": "에너지경제신문"
     }
    ]
   },
@@ -54,7 +128,7 @@
   },
   {
    "kw": "콜럼버스 크루 대 인터 마이애미",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 28일 09:20",
    "news": [
     {
@@ -83,91 +157,6 @@
      "title": "엑시노스, S27 실리나… 퀄컴 최신 칩과 성능 격차 좁혀",
      "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61462",
      "source": "디지털포스트"
-    }
-   ]
-  },
-  {
-   "kw": "이해욱",
-   "traffic": "1000+",
-   "when": "11월 28일 09:00",
-   "news": [
-    {
-     "title": "단독 한밤중 직원들 집합시킨 DL그룹 회장...성과 부진 탓하며 '보직 해임'",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611280721404224",
-     "source": "YTN"
-    },
-    {
-     "title": "[PPSS 기업인사이트] 실적 부진 책임은 직원 몫인가…DL이앤씨 심야 소집에 갑질 논란",
-     "url": "https://www.ppss.kr/news/articleView.html?idxno=323560",
-     "source": "www.ppss.kr"
-    }
-   ]
-  },
-  {
-   "kw": "신상출시 편스토랑",
-   "traffic": "200+",
-   "when": "11월 28일 09:00",
-   "news": [
-    {
-     "title": "야노시호, 50억 도쿄 자택 공개 \"남편 추성훈과 각방살이\"",
-     "url": "https://www.newsis.com/view/NISX20261126_0003885358",
-     "source": "뉴시스"
-    },
-    {
-     "title": "야노 시호, 침대 옆엔 850만 원 수소 호흡기…베개 밑엔 17만 원짜리 운석 가루 ('편스토랑')",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/G5RGIYRXMU3TEMLCGRRWMMZSGY/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "르윈 디아즈",
-   "traffic": "2000+",
-   "when": "11월 28일 08:50",
-   "news": [
-    {
-     "title": "\"오퍼하는 중\" 삼성 머리 아프다, 돈은 정해져 있는데…61억으로 '페덱·후라도·디아즈' 다 잡을까",
-     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022304",
-     "source": "SPOTV NEWS"
-    },
-    {
-     "title": "`동행하기 힘드네` 우승 전력 보존 나선 삼성 라이온즈, 누굴 잡고 누굴 놔줘야 좋을까",
-     "url": "https://www.imaeil.com/page/view/2026112611572028558",
-     "source": "매일신문"
-    }
-   ]
-  },
-  {
-   "kw": "화웨이",
-   "traffic": "100+",
-   "when": "11월 28일 08:50",
-   "news": [
-    {
-     "title": "화웨이 “美제재 덕에 기술 자립”… 中 ‘AI 반도체 3종 세트’ 가속도",
-     "url": "https://www.chosun.com/economy/tech_it/2026/11/28/B3S6DMM3ABEOZJJKVPHZQBWQJM/",
-     "source": "조선일보"
-    },
-    {
-     "title": "화웨이 창업자 \"땡큐 트럼프...덕분에 기술 자립\"",
-     "url": "https://www.ytn.co.kr/_ln/0104_202611271426006354",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "소방관",
-   "traffic": "200+",
-   "when": "11월 28일 08:40",
-   "news": [
-    {
-     "title": "\"소방 공무원 하다 다시 도전\"…원주 새내기 공무원이 전한 합격 공부법",
-     "url": "https://www.newsis.com/view/NISX20261128_0003886987",
-     "source": "뉴시스"
-    },
-    {
-     "title": "\"소방관 퇴사 후 두 번째 공무원\"…원주시 새내기, 수험생활 '꿀팁' 폭발",
-     "url": "https://www.news1.kr/society/general-society/6368050",
-     "source": "뉴스1"
     }
    ]
   }
