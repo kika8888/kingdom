@@ -1,9 +1,94 @@
 {
- "updated": "2026-11-28 15:23",
+ "updated": "2026-11-28 16:23",
  "items": [
   {
+   "kw": "사고",
+   "traffic": "200+",
+   "when": "11월 28일 15:20",
+   "news": [
+    {
+     "title": "전북 김제서 역주행 승용차·음주 승합차 충돌‥1명 사망",
+     "url": "https://imnews.imbc.com/news/2026/society/article/6869245_36918.html",
+     "source": "MBC 뉴스"
+    },
+    {
+     "title": "김제 도로서 역주행 승용차, 승합차 충돌…60대 승용차 운전자 숨져",
+     "url": "https://www.news1.kr/local/jeonbuk/6369021",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "한남동",
+   "traffic": "100+",
+   "when": "11월 28일 15:20",
+   "news": [
+    {
+     "title": "\"잘 샀다\" 했던 한남동 건물, 새 주인은 '빌보드 1위 가수'",
+     "url": "https://www.newsis.com/view/NISX20261125_0003882856",
+     "source": "뉴시스"
+    },
+    {
+     "title": "BTS 진, 한남동 꼬마빌딩 96억 원에 전액 현금 매입",
+     "url": "https://www.christiandaily.co.kr/news/168186",
+     "source": "기독일보"
+    }
+   ]
+  },
+  {
+   "kw": "신민아",
+   "traffic": "200+",
+   "when": "11월 28일 14:40",
+   "news": [
+    {
+     "title": "[Y터뷰] '재혼 황후' 신민아 \"주체적인 나비에 매력적…남편 김우빈도 빠져들어\"",
+     "url": "https://www.ytn.co.kr/_ln/0117_202611271355049956",
+     "source": "YTN"
+    },
+    {
+     "title": "신민아 \"K-로판의 출발점, 왕관의 무게 견뎌야 했죠\"",
+     "url": "https://www.yna.co.kr/view/AKR20261127118300005",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "루친스키",
+   "traffic": "100+",
+   "when": "11월 28일 14:40",
+   "news": [
+    {
+     "title": "\"적성 맞으면 저도 이도류를\"…농군패션에 캡틴 마크까지 가내수공업, '엔구행' 중견수? 하고 싶은 거 다 해 [오!쎈 창원] - 머니투데이",
+     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281456774105O",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[사진] 임지민, 건강한 모습으로",
+     "url": "https://www.chosun.com/sports/sports_photo/2026/11/28/GQ4TIOBTGBRTCMRRGUZGKZTCME/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "목동",
+   "traffic": "200+",
+   "when": "11월 28일 14:20",
+   "news": [
+    {
+     "title": "같은 집인데 1.8억 vs 8.2억…반포 덮친 ‘고무줄 재초환’ [안장원의 부동산노트]",
+     "url": "https://www.joongang.co.kr/article/25482742",
+     "source": "중앙일보"
+    },
+    {
+     "title": "분당재건축 선도지구·2차선정 대표자들 ‘재초환은 이중규제’ 폐지 촉구",
+     "url": "https://www.kyeongin.com/article/1775557",
+     "source": "경인일보"
+    }
+   ]
+  },
+  {
    "kw": "김도영",
-   "traffic": "2000+",
+   "traffic": "5000+",
    "when": "11월 28일 14:10",
    "news": [
     {
@@ -20,18 +105,18 @@
   },
   {
    "kw": "기사",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 28일 14:00",
    "news": [
     {
-     "title": "[남원소식]산불발생 원인제공 처벌강화…각별히 주의 등",
-     "url": "https://www.newsis.com/view/NISX20261125_0003883431",
-     "source": "뉴시스"
+     "title": "인천 미추홀구 신청사 낮고 넓게 짓는다…주민공간 확대",
+     "url": "https://www.yna.co.kr/view/AKR20261127084900065",
+     "source": "연합뉴스"
     },
     {
-     "title": "재선충에 병드는 전북 소나무숲… 감염목 4년 새 8배",
-     "url": "https://www.newscj.com/news/articleView.html?idxno=3452122",
-     "source": "천지일보"
+     "title": "미추홀구, 신청사 낮고 넓게 건립…주민 공간 확대",
+     "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545298",
+     "source": "OBS경인TV"
     }
    ]
   },
@@ -54,7 +139,7 @@
   },
   {
    "kw": "군함",
-   "traffic": "200+",
+   "traffic": "500+",
    "when": "11월 28일 13:40",
    "news": [
     {
@@ -63,9 +148,9 @@
      "source": "YTN"
     },
     {
-     "title": "침몰 ‘해광호’ 수중 수색 또 불발…바닷속 위치만 재확인",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724647",
-     "source": "KBS 뉴스"
+     "title": "해광호 실종 선원 수색...강풍에 수색 활동 지장",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611281500484851",
+     "source": "YTN"
     }
    ]
   },
@@ -75,99 +160,14 @@
    "when": "11월 28일 13:40",
    "news": [
     {
-     "title": "주유소 기름값 28주째 하락…서울 2주 연속 평균 1천800원대",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725108",
-     "source": "KBS 뉴스"
+     "title": "주유소 기름값 28주째 하락‥서울 2주 연속 1천8백 원대",
+     "url": "https://imnews.imbc.com/news/2026/econo/article/6869271_36932.html",
+     "source": "MBC 뉴스"
     },
     {
      "title": "기름값 28주째↓…서울 휘발유 1,800원대 유지",
      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128133954rb9",
      "source": "연합뉴스TV"
-    }
-   ]
-  },
-  {
-   "kw": "임용고시",
-   "traffic": "100+",
-   "when": "11월 28일 13:30",
-   "news": [
-    {
-     "title": "충북교육청, 2027학년도 공·사립 중등교사 제1차 임용시험 실시 : 네이버 블로그",
-     "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224494475522&redirect=Dlog",
-     "source": "Naver Blog"
-    },
-    {
-     "title": "서울 중·고등교사 임용시험 6천여 명 응시...감독 강화",
-     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611281207351630_005.html",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "성시경 쌈디",
-   "traffic": "100+",
-   "when": "11월 28일 13:30",
-   "news": [
-    {
-     "title": "연예계 음주운전 파문 속.. \"쌈디, 술자리 후 얌전하게 택시 타고 가\" 눈길 ('고막남친')",
-     "url": "https://www.chosun.com/entertainments/music/2026/11/27/MU4DCZJTGY4TANTCMIYDIZDCGI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "쌈디, 술자리 부상 후 성시경에게 손절당한 사연 \"최근 재회\"",
-     "url": "https://www.news1.kr/entertain/broadcast-tv/6369127",
-     "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "spurs vs lakers",
-   "traffic": "200+",
-   "when": "11월 28일 13:20",
-   "news": [
-    {
-     "title": "San Antonio defeats LAL 99-96... Castle scores 26 points, Wembanyama records 16 rebounds",
-     "url": "https://news.jkn.co.kr/editions/english/post/1129752",
-     "source": "재경일보"
-    },
-    {
-     "title": "Spurs Vs Lakers: tied at 2-1 in West Group C before Friday",
-     "url": "https://twaslnews1.twaslnews.com/8417376/",
-     "source": "شبكة تواصل الإخبارية"
-    }
-   ]
-  },
-  {
-   "kw": "fc 서울 대 대전",
-   "traffic": "5000+",
-   "when": "11월 28일 13:10",
-   "news": [
-    {
-     "title": "\"이런 경기 즐기고 이겨낼 줄 알아야\" 황선홍 대전 감독, '대관식' FC서울 상대 필승 다짐 [현장 인터뷰] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281238772919O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "대관식 앞둔 김기동 감독 “좋은 날, 팬들과 멋진 마무리하겠다”",
-     "url": "https://www.donga.com/news/Sports/article/all/20261128/135107405/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "조세호",
-   "traffic": "100+",
-   "when": "11월 28일 13:10",
-   "news": [
-    {
-     "title": "'조폭 친분설' 조세호, 일 뚝 끊기더니...\"돈 많아요?\" 질문에 진땀 - 머니투데이",
-     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112707435758044",
-     "source": "머니투데이"
-    },
-    {
-     "title": "조세호, 초등학생에 수입 질문 받고 당황 \"최근 일 없어\"",
-     "url": "https://www.newsis.com/view/NISX20261126_0003885332",
-     "source": "뉴시스"
     }
    ]
   }
