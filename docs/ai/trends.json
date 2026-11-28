@@ -1,9 +1,145 @@
 {
- "updated": "2026-11-28 14:23",
+ "updated": "2026-11-28 15:23",
  "items": [
   {
-   "kw": "fc 서울 대 대전",
+   "kw": "김도영",
    "traffic": "2000+",
+   "when": "11월 28일 14:10",
+   "news": [
+    {
+     "title": "KIA서 빅리거 배출하나 했더니, 'MVP' 김도영 왜 이런 충격 선언을 \"해외 진출? 아예 생각조차 안 한다\"",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/28/GIYTMZDGME2TOYJUG4ZDEYTFGI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "2026 베이스볼S : 아픔 딛고 다시 최고의 별, 완벽 부활 알린 'MVP' 김도영 [2026 KBO 시상식]",
+     "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000640467",
+     "source": "programs.sbs.co.kr"
+    }
+   ]
+  },
+  {
+   "kw": "기사",
+   "traffic": "200+",
+   "when": "11월 28일 14:00",
+   "news": [
+    {
+     "title": "[남원소식]산불발생 원인제공 처벌강화…각별히 주의 등",
+     "url": "https://www.newsis.com/view/NISX20261125_0003883431",
+     "source": "뉴시스"
+    },
+    {
+     "title": "재선충에 병드는 전북 소나무숲… 감염목 4년 새 8배",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3452122",
+     "source": "천지일보"
+    }
+   ]
+  },
+  {
+   "kw": "설인아",
+   "traffic": "200+",
+   "when": "11월 28일 13:50",
+   "news": [
+    {
+     "title": "연우 “2달만에 10kg 감량…온몸 두드러기, 많이 울어” (무쇠소녀단3)",
+     "url": "https://sports.donga.com/ent/article/all/20261127/135101202/1",
+     "source": "스포츠동아"
+    },
+    {
+     "title": "‘무쇠소녀단3’ 한지현, 첫 회부터 ‘지트리버’ 활약… 3천 계단 48분 완주",
+     "url": "https://www.viva100.com/article/20261127500209",
+     "source": "브릿지경제"
+    }
+   ]
+  },
+  {
+   "kw": "군함",
+   "traffic": "200+",
+   "when": "11월 28일 13:40",
+   "news": [
+    {
+     "title": "해광호 선원 수색...'풍랑주의보'에 수중 수색 차질",
+     "url": "https://www.ytn.co.kr/_ln/0115_202611281305326555",
+     "source": "YTN"
+    },
+    {
+     "title": "침몰 ‘해광호’ 수중 수색 또 불발…바닷속 위치만 재확인",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724647",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
+   "kw": "주유소",
+   "traffic": "200+",
+   "when": "11월 28일 13:40",
+   "news": [
+    {
+     "title": "주유소 기름값 28주째 하락…서울 2주 연속 평균 1천800원대",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725108",
+     "source": "KBS 뉴스"
+    },
+    {
+     "title": "기름값 28주째↓…서울 휘발유 1,800원대 유지",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128133954rb9",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "임용고시",
+   "traffic": "100+",
+   "when": "11월 28일 13:30",
+   "news": [
+    {
+     "title": "충북교육청, 2027학년도 공·사립 중등교사 제1차 임용시험 실시 : 네이버 블로그",
+     "url": "https://blog.naver.com/PostView.naver?blogId=cbe_news&logNo=224494475522&redirect=Dlog",
+     "source": "Naver Blog"
+    },
+    {
+     "title": "서울 중·고등교사 임용시험 6천여 명 응시...감독 강화",
+     "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611281207351630_005.html",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "성시경 쌈디",
+   "traffic": "100+",
+   "when": "11월 28일 13:30",
+   "news": [
+    {
+     "title": "연예계 음주운전 파문 속.. \"쌈디, 술자리 후 얌전하게 택시 타고 가\" 눈길 ('고막남친')",
+     "url": "https://www.chosun.com/entertainments/music/2026/11/27/MU4DCZJTGY4TANTCMIYDIZDCGI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "쌈디, 술자리 부상 후 성시경에게 손절당한 사연 \"최근 재회\"",
+     "url": "https://www.news1.kr/entertain/broadcast-tv/6369127",
+     "source": "뉴스1"
+    }
+   ]
+  },
+  {
+   "kw": "spurs vs lakers",
+   "traffic": "200+",
+   "when": "11월 28일 13:20",
+   "news": [
+    {
+     "title": "San Antonio defeats LAL 99-96... Castle scores 26 points, Wembanyama records 16 rebounds",
+     "url": "https://news.jkn.co.kr/editions/english/post/1129752",
+     "source": "재경일보"
+    },
+    {
+     "title": "Spurs Vs Lakers: tied at 2-1 in West Group C before Friday",
+     "url": "https://twaslnews1.twaslnews.com/8417376/",
+     "source": "شبكة تواصل الإخبارية"
+    }
+   ]
+  },
+  {
+   "kw": "fc 서울 대 대전",
+   "traffic": "5000+",
    "when": "11월 28일 13:10",
    "news": [
     {
@@ -12,9 +148,9 @@
      "source": "머니투데이"
     },
     {
-     "title": "10년 기다린 우승 대관식, 마냥 웃을 수 없는 김기동...선수들 부상 걱정에도 \"오늘은 팬들과 함께하는 특별한 날\" [현장 인터뷰]",
-     "url": "https://www.chosun.com/sports/football/2026/11/28/MY3TGMBUMMZGGMLBMZRWMZBRGI/",
-     "source": "조선일보"
+     "title": "대관식 앞둔 김기동 감독 “좋은 날, 팬들과 멋진 마무리하겠다”",
+     "url": "https://www.donga.com/news/Sports/article/all/20261128/135107405/1",
+     "source": "동아일보"
     }
    ]
   },
@@ -24,150 +160,14 @@
    "when": "11월 28일 13:10",
    "news": [
     {
+     "title": "'조폭 친분설' 조세호, 일 뚝 끊기더니...\"돈 많아요?\" 질문에 진땀 - 머니투데이",
+     "url": "https://www.mt.co.kr/entertainment/2026/11/27/2026112707435758044",
+     "source": "머니투데이"
+    },
+    {
      "title": "조세호, 초등학생에 수입 질문 받고 당황 \"최근 일 없어\"",
      "url": "https://www.newsis.com/view/NISX20261126_0003885332",
      "source": "뉴시스"
-    },
-    {
-     "title": "\"돈 많아요?\" 초2가 묻자 '조폭 연루설' 조세호 \"적진 않은데 최근에 일이 좀 없었어\" [핫피플]",
-     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/G5RTIMJRMI3DAMBZME3WMN3EHE/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "래미안첼리투스아파트",
-   "traffic": "500+",
-   "when": "11월 28일 12:50",
-   "news": [
-    {
-     "title": "\"100억 찍으면 팔겠다\"던 95년생 …SK하닉 팔아 용산 아파트 샀다",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=01328406645649984&mediaCodeNo=257",
-     "source": "이데일리"
-    },
-    {
-     "title": "'실화일까'…2000만원→100억 불린 95년생 전업투자자",
-     "url": "https://www.newsis.com/view/NISX20261127_0003885634",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "지하철",
-   "traffic": "1000+",
-   "when": "11월 28일 12:50",
-   "news": [
-    {
-     "title": "철도노조 준법투쟁으로 광역전철 445대 지연",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724799",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "철도노조 준법투쟁 첫 주말…전라선 최대 20분 지연·큰 불편은 없어",
-     "url": "https://www.donga.com/news/Society/article/all/20261128/135107389/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "해커",
-   "traffic": "100+",
-   "when": "11월 28일 12:50",
-   "news": [
-    {
-     "title": "'방공레이더 지휘통제' 미 공군 핵심 시스템까지 해킹에 뚫렸다",
-     "url": "https://imnews.imbc.com/news/2026/world/article/6869229_36925.html",
-     "source": "MBC 뉴스"
-    },
-    {
-     "title": "영국 노동연금부, 사이버 공격 감지…서비스 일부 중단",
-     "url": "https://zdnet.co.kr/view/?no=20261127223323",
-     "source": "지디넷코리아"
-    }
-   ]
-  },
-  {
-   "kw": "이정효",
-   "traffic": "500+",
-   "when": "11월 28일 12:40",
-   "news": [
-    {
-     "title": "기념촬영하는 이정효 감독과 김준홍·고종현",
-     "url": "https://www.news1.kr/photos/8232814",
-     "source": "뉴스1"
-    },
-    {
-     "title": "수퍼매치 등 라이벌전 풍년 예고한 2027 K리그1, 그 후보는",
-     "url": "https://www.koreadaily.com/article/20261126160042164",
-     "source": "미주중앙일보"
-    }
-   ]
-  },
-  {
-   "kw": "이현중",
-   "traffic": "500+",
-   "when": "11월 28일 12:30",
-   "news": [
-    {
-     "title": "2m 장신 슈터 강점 돋보였다… NBA 투웨이 계약 도전하는 이현중",
-     "url": "https://www.joongang.co.kr/article/25482757",
-     "source": "중앙일보"
-    },
-    {
-     "title": "이현중, G리그 산타크루즈전 4점 5리바운드…팀도 완패",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8719334",
-     "source": "KBS 뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "미국 시민권",
-   "traffic": "100+",
-   "when": "11월 28일 12:20",
-   "news": [
-    {
-     "title": "\"시민권, 문턱 더 높아지기 전 따야\"",
-     "url": "https://www.koreadaily.com/article/20261126190003852",
-     "source": "미주중앙일보"
-    },
-    {
-     "title": "“영주권자 시민권 신청 서둘러야”",
-     "url": "https://www.koreatimes.com/article/11633047",
-     "source": "미주한국일보"
-    }
-   ]
-  },
-  {
-   "kw": "남대문시장",
-   "traffic": "500+",
-   "when": "11월 28일 12:10",
-   "news": [
-    {
-     "title": "남대문 커뮤니티",
-     "url": "http://topclass.chosun.com/news/articleView.html?idxno=37132",
-     "source": "톱클래스"
-    },
-    {
-     "title": "“사지 마”… ‘스카프 아저씨’ 돌풍에 세대 불문 발길 이어지는 남대문시장",
-     "url": "https://www.donga.com/news/Society/article/all/20261128/135106803/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "한능검 81회 정답",
-   "traffic": "200+",
-   "when": "11월 28일 12:10",
-   "news": [
-    {
-     "title": "[속보] 81회 한능검 가답안 정답·답지 공개",
-     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765984",
-     "source": "국제뉴스"
-    },
-    {
-     "title": "“컴싸로만 풀라고요?”… 시험 코앞 규정 바뀌자 수험생들 ‘부글부글’",
-     "url": "https://biz.chosun.com/topics/topics_social/2026/11/25/NQVLYNMOU5DQ3EDNOBGUURYB6U/",
-     "source": "Chosunbiz"
     }
    ]
   }
