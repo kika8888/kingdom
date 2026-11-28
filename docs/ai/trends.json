@@ -1,26 +1,94 @@
 {
- "updated": "2026-11-28 10:23",
+ "updated": "2026-11-28 10:54",
  "items": [
   {
+   "kw": "대한민국 u-17 축구 국가대표팀",
+   "traffic": "200+",
+   "when": "11월 28일 09:40",
+   "news": [
+    {
+     "title": "U-17 대표팀, 3전 전승…월드컵 32강행",
+     "url": "https://www.yna.co.kr/view/MYH20261126001100038",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "'아시아 챔피언' 일본의 굴욕…대한민국→중국 조별리그 통과했는데 日 '승리는 필수→4점 차 이상 대승 필요'",
+     "url": "https://www.chosun.com/sports/football/2026/11/27/MIZGGNJUME3TGOLCGQYWCOBSMY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "nh농협은행",
+   "traffic": "200+",
+   "when": "11월 28일 09:40",
+   "news": [
+    {
+     "title": "농협은행, 개인사업자 대상 연말 이벤트…최대 50만원 지급",
+     "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01895846645649984",
+     "source": "마켓인"
+    },
+    {
+     "title": "NH농협은행, 개인사업자에 연말 지원금…최대 50만원",
+     "url": "https://www.ajunews.com/view/20261127105211015",
+     "source": "아주경제"
+    }
+   ]
+  },
+  {
+   "kw": "경상수지",
+   "traffic": "100+",
+   "when": "11월 28일 09:30",
+   "news": [
+    {
+     "title": "반도체 경기가 꺾이면, 나랏돈은 어떻게 될까? - 영상 | 멀티미디어",
+     "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148976653&pWise=sub&pWiseSub=R6",
+     "source": "대한민국 정책브리핑"
+    },
+    {
+     "title": "여야, ‘미래대응기금’ 놓고 공방…“불확실성 대비”·“미래세대에 부담 전가”",
+     "url": "https://news.kbs.co.kr/news/view.do?ncd=8725106",
+     "source": "KBS 뉴스"
+    }
+   ]
+  },
+  {
    "kw": "콜럼버스 크루 대 인터 마이애미",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 28일 09:20",
    "news": [
     {
-     "title": "MATCH GUIDE | Crew vs. Inter Miami | Round One, Game 2",
-     "url": "https://www.columbuscrew.com/news/match-guide-crew-vs-inter-miami-round-one-game-2",
-     "source": "Columbus Crew"
+     "title": "Talking Tactics: Long balls, intricate passing and exploiting space - how Laurent Courtois' Columbus Crew dismantled Lionel Messi's Inter Miami",
+     "url": "https://www.goal.com/en-in/originals/playing-the-long-ball-exploiting-the-spaces-and-a-bit-of-luck-how-columbus-crew-battered-inter-miami/blt631e393de9d56095",
+     "source": "Goal.com"
     },
     {
-     "title": "Lionel Messi embracing MLS supervillain role with Inter Miami CF",
-     "url": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/11/27/lionel-messi-is-an-mls-superstar-and-supervillain-for-inter-miami-cf/92961396007/",
-     "source": "The Columbus Dispatch"
+     "title": "MLS: Inter Miami CF at Columbus Crew SC",
+     "url": "https://www.reutersconnect.com/item/mls-inter-miami-cf-at-columbus-crew-sc/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0NTg1MDk",
+     "source": "Reuters Connect"
+    }
+   ]
+  },
+  {
+   "kw": "삼성 엑시노스",
+   "traffic": "100+",
+   "when": "11월 28일 09:10",
+   "news": [
+    {
+     "title": "갤럭시S27 울트라·프로 모형 나란히 포착…후면 디자인 보니",
+     "url": "https://zdnet.co.kr/view/?no=20261127084258",
+     "source": "지디넷코리아"
+    },
+    {
+     "title": "엑시노스, S27 실리나… 퀄컴 최신 칩과 성능 격차 좁혀",
+     "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61462",
+     "source": "디지털포스트"
     }
    ]
   },
   {
    "kw": "이해욱",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 28일 09:00",
    "news": [
     {
@@ -29,9 +97,9 @@
      "source": "YTN"
     },
     {
-     "title": "유명 대기업 회장, 한밤중 직원 수백명 집합시키더니... 어젯밤 벌어진 황당한 일",
-     "url": "https://www.wikitree.co.kr/articles/1178542",
-     "source": "위키트리"
+     "title": "[PPSS 기업인사이트] 실적 부진 책임은 직원 몫인가…DL이앤씨 심야 소집에 갑질 논란",
+     "url": "https://www.ppss.kr/news/articleView.html?idxno=323560",
+     "source": "www.ppss.kr"
     }
    ]
   },
@@ -100,74 +168,6 @@
      "title": "\"소방관 퇴사 후 두 번째 공무원\"…원주시 새내기, 수험생활 '꿀팁' 폭발",
      "url": "https://www.news1.kr/society/general-society/6368050",
      "source": "뉴스1"
-    }
-   ]
-  },
-  {
-   "kw": "띠별 운세",
-   "traffic": "2000+",
-   "when": "11월 28일 08:10",
-   "news": [
-    {
-     "title": "[오늘의 운세] 2026년 11월 28일 띠별 운세",
-     "url": "https://www.ytn.co.kr/_ln/0121_202611280000000001",
-     "source": "YTN"
-    },
-    {
-     "title": "[오늘의 운세] 11월 28일 토요일 (음력 10월 20일) 띠별 운세",
-     "url": "https://www.kyeonggi.com/article/20261116580440",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "국민연금공단",
-   "traffic": "1000+",
-   "when": "11월 28일 08:10",
-   "news": [
-    {
-     "title": "국민연금 적립금 202조 하늘로...\"주식시장 활성화시키려 만든 게 아냐\" [자막뉴스]",
-     "url": "https://www.ytn.co.kr/_ln/0134_202611280905291051",
-     "source": "YTN"
-    },
-    {
-     "title": "국민연금 적립금 석달만에 202조원↓…3분기 수익률 13%",
-     "url": "https://www.yna.co.kr/view/AKR20261127153400530",
-     "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "공무원 노동조합",
-   "traffic": "200+",
-   "when": "11월 28일 08:10",
-   "news": [
-    {
-     "title": "김천시공무원노동조합, 폭언·협박 사건 고발 엄정 수사 촉구",
-     "url": "http://www.gcnaeil.com/default/index_view_page.php?part_idx=266&idx=86505",
-     "source": "김천내일신문"
-    },
-    {
-     "title": "김천시, 악성 민원인 경찰 고발",
-     "url": "http://gcinews.com/front/news/view.do?articleId=ARTICLE_00065070&pageIndex=1",
-     "source": "김천인터넷뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "허웅",
-   "traffic": "100+",
-   "when": "11월 28일 08:10",
-   "news": [
-    {
-     "title": "허웅의 마음과 기부, ‘노후된 한 재활원’으로 향하다",
-     "url": "https://basketkorea.com/news/newsview.php?ncode=1065594607695644",
-     "source": "바스켓코리아"
-    },
-    {
-     "title": "\"저도 같이 참여하고 싶었어요\" 3년 동안 연고지에만 37번 후원... 팬들 따뜻한 마음에 KCC 허웅도 감동했다",
-     "url": "http://www.rookie.co.kr/news/articleView.html?idxno=131210",
-     "source": "루키"
     }
    ]
   }
