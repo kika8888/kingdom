@@ -1,20 +1,105 @@
 {
- "updated": "2026-11-28 09:23",
+ "updated": "2026-11-28 10:23",
  "items": [
   {
-   "kw": "부산 날씨",
-   "traffic": "100+",
-   "when": "11월 28일 08:20",
+   "kw": "콜럼버스 크루 대 인터 마이애미",
+   "traffic": "500+",
+   "when": "11월 28일 09:20",
    "news": [
     {
-     "title": "부산·울산·경남 가끔 구름 많고 내륙 비·눈…낮 기온 9∼14도",
-     "url": "https://www.yna.co.kr/view/AKR20261128007600052",
-     "source": "연합뉴스"
+     "title": "MATCH GUIDE | Crew vs. Inter Miami | Round One, Game 2",
+     "url": "https://www.columbuscrew.com/news/match-guide-crew-vs-inter-miami-round-one-game-2",
+     "source": "Columbus Crew"
     },
     {
-     "title": "부산 울산 경남 가끔 구름 많고 내륙 비·눈…낮 기온 9∼14도",
-     "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261128.99099008934",
-     "source": "국제신문"
+     "title": "Lionel Messi embracing MLS supervillain role with Inter Miami CF",
+     "url": "https://www.dispatch.com/story/sports/nhl/columbus-blue-jackets/2026/11/27/lionel-messi-is-an-mls-superstar-and-supervillain-for-inter-miami-cf/92961396007/",
+     "source": "The Columbus Dispatch"
+    }
+   ]
+  },
+  {
+   "kw": "이해욱",
+   "traffic": "500+",
+   "when": "11월 28일 09:00",
+   "news": [
+    {
+     "title": "단독 한밤중 직원들 집합시킨 DL그룹 회장...성과 부진 탓하며 '보직 해임'",
+     "url": "https://www.ytn.co.kr/_ln/0103_202611280721404224",
+     "source": "YTN"
+    },
+    {
+     "title": "유명 대기업 회장, 한밤중 직원 수백명 집합시키더니... 어젯밤 벌어진 황당한 일",
+     "url": "https://www.wikitree.co.kr/articles/1178542",
+     "source": "위키트리"
+    }
+   ]
+  },
+  {
+   "kw": "신상출시 편스토랑",
+   "traffic": "200+",
+   "when": "11월 28일 09:00",
+   "news": [
+    {
+     "title": "야노시호, 50억 도쿄 자택 공개 \"남편 추성훈과 각방살이\"",
+     "url": "https://www.newsis.com/view/NISX20261126_0003885358",
+     "source": "뉴시스"
+    },
+    {
+     "title": "야노 시호, 침대 옆엔 850만 원 수소 호흡기…베개 밑엔 17만 원짜리 운석 가루 ('편스토랑')",
+     "url": "https://www.chosun.com/entertainments/broadcast/2026/11/27/G5RGIYRXMU3TEMLCGRRWMMZSGY/",
+     "source": "조선일보"
+    }
+   ]
+  },
+  {
+   "kw": "르윈 디아즈",
+   "traffic": "2000+",
+   "when": "11월 28일 08:50",
+   "news": [
+    {
+     "title": "\"오퍼하는 중\" 삼성 머리 아프다, 돈은 정해져 있는데…61억으로 '페덱·후라도·디아즈' 다 잡을까",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022304",
+     "source": "SPOTV NEWS"
+    },
+    {
+     "title": "`동행하기 힘드네` 우승 전력 보존 나선 삼성 라이온즈, 누굴 잡고 누굴 놔줘야 좋을까",
+     "url": "https://www.imaeil.com/page/view/2026112611572028558",
+     "source": "매일신문"
+    }
+   ]
+  },
+  {
+   "kw": "화웨이",
+   "traffic": "100+",
+   "when": "11월 28일 08:50",
+   "news": [
+    {
+     "title": "화웨이 “美제재 덕에 기술 자립”… 中 ‘AI 반도체 3종 세트’ 가속도",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/28/B3S6DMM3ABEOZJJKVPHZQBWQJM/",
+     "source": "조선일보"
+    },
+    {
+     "title": "화웨이 창업자 \"땡큐 트럼프...덕분에 기술 자립\"",
+     "url": "https://www.ytn.co.kr/_ln/0104_202611271426006354",
+     "source": "YTN"
+    }
+   ]
+  },
+  {
+   "kw": "소방관",
+   "traffic": "200+",
+   "when": "11월 28일 08:40",
+   "news": [
+    {
+     "title": "\"소방 공무원 하다 다시 도전\"…원주 새내기 공무원이 전한 합격 공부법",
+     "url": "https://www.newsis.com/view/NISX20261128_0003886987",
+     "source": "뉴시스"
+    },
+    {
+     "title": "\"소방관 퇴사 후 두 번째 공무원\"…원주시 새내기, 수험생활 '꿀팁' 폭발",
+     "url": "https://www.news1.kr/society/general-society/6368050",
+     "source": "뉴스1"
     }
    ]
   },
@@ -36,8 +121,25 @@
    ]
   },
   {
+   "kw": "국민연금공단",
+   "traffic": "1000+",
+   "when": "11월 28일 08:10",
+   "news": [
+    {
+     "title": "국민연금 적립금 202조 하늘로...\"주식시장 활성화시키려 만든 게 아냐\" [자막뉴스]",
+     "url": "https://www.ytn.co.kr/_ln/0134_202611280905291051",
+     "source": "YTN"
+    },
+    {
+     "title": "국민연금 적립금 석달만에 202조원↓…3분기 수익률 13%",
+     "url": "https://www.yna.co.kr/view/AKR20261127153400530",
+     "source": "연합뉴스"
+    }
+   ]
+  },
+  {
    "kw": "공무원 노동조합",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 28일 08:10",
    "news": [
     {
@@ -53,121 +155,19 @@
    ]
   },
   {
-   "kw": "삼성 라이온즈",
-   "traffic": "500+",
-   "when": "11월 28일 08:00",
-   "news": [
-    {
-     "title": "최형우는 KIA에서 뛰고 삼성 소속으로 GG 받았다…FA 구자욱은? - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611272348779689O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "서른 셋에 MLB 도전 구자욱 “4년전엔 부족하다고 생각… 지금은 때릴 자신 생겼다”",
-     "url": "https://www.donga.com/news/Sports/article/all/20261127/135099420/2",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "선우용여",
-   "traffic": "200+",
-   "when": "11월 28일 08:00",
-   "news": [
-    {
-     "title": "젠슨 황도 피하지 못한 '용여의 일침' [나우쇼츠]",
-     "url": "https://www.ytn.co.kr/_ln/0103_202611271046509030",
-     "source": "YTN"
-    },
-    {
-     "title": "선우용여, “돈만 벌면 바람피우나”…젠슨 황 불륜 소식에 분노",
-     "url": "https://www.donga.com/news/Entertainment/article/all/20261127/135100064/1",
-     "source": "동아일보"
-    }
-   ]
-  },
-  {
-   "kw": "오픈ai",
-   "traffic": "500+",
-   "when": "11월 28일 07:50",
-   "news": [
-    {
-     "title": "오픈AI, 비밀 탈취 소송 제기한 애플 상대로 맞소송",
-     "url": "https://www.ytn.co.kr/_ln/0104_202611280724464327",
-     "source": "YTN"
-    },
-    {
-     "title": "오픈AI, 애플에 맞소송…\"공급망 압박·고용 계약으로 하드웨어 진출 방해\"",
-     "url": "https://www.ddaily.co.kr/page/view/2026112806383187045",
-     "source": "디지털데일리"
-    }
-   ]
-  },
-  {
-   "kw": "과징금",
-   "traffic": "200+",
-   "when": "11월 28일 07:50",
-   "news": [
-    {
-     "title": "[설명] 뉴시스(11.26.) 과잉생산 한숨 돌렸더니...\"백악관, 韓 쿠팡 9000억대 과징금 비난\" 등 보도 관련",
-     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976620&pWise=sub&pWiseSub=C5",
-     "source": "대한민국 정책브리핑"
-    },
-    {
-     "title": "美국무부 \"공정위, 美기업 공격해 한미동맹 훼손…대응 검토\"",
-     "url": "https://www.newsis.com/view/NISX20261128_0003886956",
-     "source": "뉴시스"
-    }
-   ]
-  },
-  {
-   "kw": "가죽 재킷",
+   "kw": "허웅",
    "traffic": "100+",
-   "when": "11월 28일 07:50",
+   "when": "11월 28일 08:10",
    "news": [
     {
-     "title": "“중년의 위기였나” 조롱이 된 가죽잠바…젠슨 황이 선택한 ‘500만원 면 재킷’이 의미하는 것 [패션의 사회학]",
-     "url": "https://www.khan.co.kr/article/202611271028011",
-     "source": "경향신문"
+     "title": "허웅의 마음과 기부, ‘노후된 한 재활원’으로 향하다",
+     "url": "https://basketkorea.com/news/newsview.php?ncode=1065594607695644",
+     "source": "바스켓코리아"
     },
     {
-     "title": "젠슨 황 '디올 재킷'에 패션계 \"470만 원짜리 겸손\"",
-     "url": "https://www.ytn.co.kr/_ln/0104_202611280625128071",
-     "source": "YTN"
-    }
-   ]
-  },
-  {
-   "kw": "nottingham forest vs chelsea f.c. standings",
-   "traffic": "1000+",
-   "when": "11월 28일 07:40",
-   "news": [
-    {
-     "title": "Nottingham Forest 3-2 Chelsea: Morgan Gibbs-White scores twice in Forest win",
-     "url": "https://www.bbc.com/sport/football/live/cme3d91zygp8t",
-     "source": "BBC"
-    },
-    {
-     "title": "Alonso sack coming without £60m saviour as Chelsea lose to Forest before kick-off",
-     "url": "https://www.football365.com/news/opinion-alonso-sack-coming-60m-saviour-chelsea-lose-forest-before-kick-off",
-     "source": "Football365"
-    }
-   ]
-  },
-  {
-   "kw": "단체교섭",
-   "traffic": "100+",
-   "when": "11월 28일 07:40",
-   "news": [
-    {
-     "title": "경남 7개 정당 “한화오션, 하청노동자 교섭 나서야”",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8722724",
-     "source": "KBS 뉴스"
-    },
-    {
-     "title": "한화오션 하청노조 \"정규직 80% 수준 임금·차별없는 성과금 달라\"",
-     "url": "https://www.news1.kr/local/busan-gyeongnam/6367992",
-     "source": "뉴스1"
+     "title": "\"저도 같이 참여하고 싶었어요\" 3년 동안 연고지에만 37번 후원... 팬들 따뜻한 마음에 KCC 허웅도 감동했다",
+     "url": "http://www.rookie.co.kr/news/articleView.html?idxno=131210",
+     "source": "루키"
     }
    ]
   }
