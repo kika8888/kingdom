@@ -1,26 +1,60 @@
 {
- "updated": "2026-11-28 17:23",
+ "updated": "2026-11-28 18:24",
  "items": [
+  {
+   "kw": "박정우",
+   "traffic": "100+",
+   "when": "11월 28일 17:20",
+   "news": [
+    {
+     "title": "KIA 내부 FA 초대형 변수 등장! 'MVP' 韓슈퍼스타 간절히 외쳤다 \"김태군-김호령 꼭 필요한 선배들, 계약해주세요\"",
+     "url": "https://www.chosun.com/sports/baseball/2026/11/27/GQYDOMZTMQ4WEMRVHA4GCYLDMI/",
+     "source": "조선일보"
+    },
+    {
+     "title": "이범호 계약 기간 마지막 해, FA 선물은 있을까… 이범호가 아닌 KIA를 위해 필요하다",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022306",
+     "source": "SPOTV NEWS"
+    }
+   ]
+  },
+  {
+   "kw": "fc 서울 대 대전 하나 시티즌 순위",
+   "traffic": "10000+",
+   "when": "11월 28일 16:10",
+   "news": [
+    {
+     "title": "FC서울 '우승 파티'서 대전 4-1 제압…손정범 첫 멀티골",
+     "url": "https://www.yna.co.kr/view/AKR20261128039000007",
+     "source": "연합뉴스"
+    },
+    {
+     "title": "\"변명의 여지 없는 완패, 내가 부족했다\" 고개 숙인 황선홍 감독, 서울 향해선 \"상대 존중해야\" [현장 인터뷰]",
+     "url": "https://www.chosun.com/sports/football/2026/11/28/MQZDKZTCGYYWEZJQME2WMYRQGM/",
+     "source": "조선일보"
+    }
+   ]
+  },
   {
    "kw": "이자",
    "traffic": "2000+",
    "when": "11월 28일 15:50",
    "news": [
     {
-     "title": "‘통화긴축-확장재정 충돌’ 지적에… 靑 “엇박자 아닌 정교한 조합”",
-     "url": "https://www.donga.com/news/Politics/article/all/20261127/135106503/2",
-     "source": "동아일보"
+     "title": "“눈물 머금고 예금 깼는데 괜히 머금었습니다”…이자 손해 줄이는 방법",
+     "url": "https://www.mk.co.kr/news/economy/12220684",
+     "source": "매일경제"
     },
     {
-     "title": "내년 성장률 4.1% 깜짝 상향...반도체 호황이 이끌어",
-     "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&key=202611271601012461",
-     "source": "YTN 사이언스"
+     "title": "정기예금 중도해지 대신 분할인출…이자 손실 줄인다 : 재테크",
+     "url": "https://news.jkn.co.kr/post/1130094",
+     "source": "재경일보"
     }
    ]
   },
   {
    "kw": "전현무",
-   "traffic": "1000+",
+   "traffic": "2000+",
    "when": "11월 28일 15:50",
    "news": [
     {
@@ -37,7 +71,7 @@
   },
   {
    "kw": "남승민",
-   "traffic": "100+",
+   "traffic": "200+",
    "when": "11월 28일 15:40",
    "news": [
     {
@@ -53,36 +87,36 @@
    ]
   },
   {
-   "kw": "최형우",
-   "traffic": "500+",
-   "when": "11월 28일 15:40",
-   "news": [
-    {
-     "title": "\"인천 간 적 없고요\" \"기억 안 납니다\"…'FA 최대어' 구자욱의 철벽 인터뷰",
-     "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866557",
-     "source": "SBS 뉴스"
-    },
-    {
-     "title": "최형우는 KIA에서 뛰고 삼성 소속으로 GG 받았다…FA 구자욱은? - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611272348779689O",
-     "source": "머니투데이"
-    }
-   ]
-  },
-  {
    "kw": "매매",
-   "traffic": "500+",
+   "traffic": "1000+",
    "when": "11월 28일 15:30",
    "news": [
-    {
-     "title": "서울 아파트 언제쯤 하락 전환할까?",
-     "url": "https://news.kbs.co.kr/news/view.do?ncd=8724082",
-     "source": "KBS 뉴스"
-    },
     {
      "title": "아파트 매매 계약 칼같이 딱 14.9억 맞췄는데…“주담대는 왜 4억만?”",
      "url": "https://www.mk.co.kr/news/realestate/12220683",
      "source": "매일경제"
+    },
+    {
+     "title": "금리 인상까지…서울 집값 ’최장기간 상승’ 꺾일까",
+     "url": "https://www.yonhapnewstv.co.kr/news/MYH20261128085124rMN",
+     "source": "연합뉴스TV"
+    }
+   ]
+  },
+  {
+   "kw": "래미안 첼리 투스 아파트",
+   "traffic": "2000+",
+   "when": "11월 28일 15:20",
+   "news": [
+    {
+     "title": "\"100억 찍으면 팔겠다\"던 95년생…SK하닉 팔아 용산 아파트 샀다",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01328406645649984&mediaCodeNo=257",
+     "source": "이데일리"
+    },
+    {
+     "title": "SK하이닉스 고점에 팔아 100억…95년생이 산 용산 아파트는",
+     "url": "https://www.newsis.com/view/NISX20261127_0003886422",
+     "source": "뉴시스"
     }
    ]
   },
@@ -104,6 +138,23 @@
    ]
   },
   {
+   "kw": "공부 의 종말",
+   "traffic": "500+",
+   "when": "11월 28일 15:10",
+   "news": [
+    {
+     "title": "“대다수에 공부의 종말 올 겁니다”…AI 과학자가 내다본 교육의 미래",
+     "url": "https://www.hani.co.kr/arti/culture/book/1289514.html",
+     "source": "한겨레"
+    },
+    {
+     "title": "본질에 가까워진다는 것",
+     "url": "https://brunch.co.kr/@linea/154",
+     "source": "브런치"
+    }
+   ]
+  },
+  {
    "kw": "신민아",
    "traffic": "200+",
    "when": "11월 28일 14:40",
@@ -117,57 +168,6 @@
      "title": "신민아 \"K-로판의 출발점, 왕관의 무게 견뎌야 했죠\"",
      "url": "https://www.yna.co.kr/view/AKR20261127118300005",
      "source": "연합뉴스"
-    }
-   ]
-  },
-  {
-   "kw": "루친스키",
-   "traffic": "100+",
-   "when": "11월 28일 14:40",
-   "news": [
-    {
-     "title": "\"적성 맞으면 저도 이도류를\"…농군패션에 캡틴 마크까지 가내수공업, '엔구행' 중견수? 하고 싶은 거 다 해 [오!쎈 창원] - 머니투데이",
-     "url": "https://www.mt.co.kr/sports/2026/11/28/202611281456774105O",
-     "source": "머니투데이"
-    },
-    {
-     "title": "[사진] 임지민, 건강한 모습으로",
-     "url": "https://www.chosun.com/sports/sports_photo/2026/11/28/GQ4TIOBTGBRTCMRRGUZGKZTCME/",
-     "source": "조선일보"
-    }
-   ]
-  },
-  {
-   "kw": "목동",
-   "traffic": "500+",
-   "when": "11월 28일 14:20",
-   "news": [
-    {
-     "title": "같은 집인데 1.8억 vs 8.2억…반포 덮친 ‘고무줄 재초환’ [안장원의 부동산노트]",
-     "url": "https://www.joongang.co.kr/article/25482742",
-     "source": "중앙일보"
-    },
-    {
-     "title": "분당 재건축 선도지구 8개 구역 한자리…“재초환 폐지해야”",
-     "url": "https://www.kyeonggi.com/article/20261128580093",
-     "source": "경기일보"
-    }
-   ]
-  },
-  {
-   "kw": "김도영",
-   "traffic": "5000+",
-   "when": "11월 28일 14:10",
-   "news": [
-    {
-     "title": "KIA서 빅리거 배출하나 했더니, 'MVP' 김도영 왜 이런 충격 선언을 \"해외 진출? 아예 생각조차 안 한다\"",
-     "url": "https://www.chosun.com/sports/baseball/2026/11/28/GIYTMZDGME2TOYJUG4ZDEYTFGI/",
-     "source": "조선일보"
-    },
-    {
-     "title": "2026 베이스볼S : 아픔 딛고 다시 최고의 별, 완벽 부활 알린 'MVP' 김도영 [2026 KBO 시상식]",
-     "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000640467",
-     "source": "programs.sbs.co.kr"
     }
    ]
   }
